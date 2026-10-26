@@ -1,0 +1,40 @@
+{
+  "file": "module4",
+  "page": 118,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    70.86602783203125,
+    524.740224202474,
+    147.7107195172991
+  ],
+  "heading": null,
+  "n_rows": 3,
+  "n_cols": 6,
+  "data": [
+    [
+      "endTB W104 outcomes",
+      "WHO W104 outcomes",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Sustained treatment success",
+      "Not sustained treatment success",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Failure or recurrence",
+      "Death",
+      "LTFU",
+      "Total"
+    ]
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "file": "module6",
+  "page": 27,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.202392578125,
+        521.2800903320312,
+        82.86639404296875
+      ],
+      "text": "Table 2.1. Diagnostic accuracy of the WHO-recommended four symptom screen among",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.15240478515625,
+        525.7311401367188,
+        95.81640625
+      ],
+      "text": "different subpopulations of people living with HIV compared with culture as a reference",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.1024169921875,
+        119.73009490966797,
+        108.76641845703125
+      ],
+      "text": "standard",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        112.28600311279297,
+        503.1258239746094,
+        125.47600555419922
+      ],
+      "text": "Population No. of studies \n Sensitivity \n Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.50180053710938,
+        123.07769012451172,
+        496.0025329589844,
+        136.26768493652344
+      ],
+      "text": "(no. of participants)  (95% CI)  (95% CI)",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        143.6248016357422,
+        488.4158630371094,
+        156.74209594726562
+      ],
+      "text": "NA > 0.90  > 0.70  WHO target product profile",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        164.35032653808594,
+        506.8146057128906,
+        177.46774291992188
+      ],
+      "text": "23 (16 269)  0.83 (0.74–0.89)  0.38 (0.25–0.53)  All people living with HIV",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        185.07579040527344,
+        506.8146057128906,
+        198.19314575195312
+      ],
+      "text": "4 (672)  0.96 (0.92–0.98)  0.11 (0.08–0.14)  Inpatients",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        205.8011932373047,
+        506.8146057128906,
+        218.91860961914062
+      ],
+      "text": "9 (4309)  0.53 (0.36–0.69)  0.70 (0.50–0.85)  Outpatients on ART",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        226.52671813964844,
+        506.8146057128906,
+        239.64413452148438
+      ],
+      "text": "19 (11 159)  0.84 (0.75–0.90)  0.37 (0.25–0.50)  Outpatients not on ART",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        247.2522430419922,
+        506.8146057128906,
+        260.3695983886719
+      ],
+      "text": "22 (5956)  0.86 (0.77–0.92)  0.30 (0.18–0.45)  CD4 ≤ 200 cells/μL",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        267.9776916503906,
+        506.8146057128906,
+        281.0950012207031
+      ],
+      "text": "8 (1937)  0.61 (0.39–0.79)  0.58 (0.39–0.75)  Pregnant women living with HIV",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.8473205566406,
+        272.6158752441406,
+        299.038330078125
+      ],
+      "text": "ART: antiretroviral therapy; CI: confidence interval; NA: not applicable",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.2064208984375,
+        259.7042236328125,
+        339.6274108886719
+      ],
+      "text": "Recommendation 3: C-reactive protein",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4223022460938,
+        353.825439453125
+      ],
+      "text": "CRP is an indicator of general inflammation that can be measured using point-of-care tests performed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.425537109375,
+        367.825439453125
+      ],
+      "text": "on capillary blood collected via finger prick. The evidence reviewed for the performance of CRP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.4221801757812,
+        381.825439453125
+      ],
+      "text": "included six studies from Kenya, South Africa and Uganda with a total of 3971 participants. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.4334106445312,
+        395.825439453125
+      ],
+      "text": "average unweighted prevalence of TB among participants in the studies was 14%, ranging from 1%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        108.72809600830078,
+        409.825439453125
+      ],
+      "text": "to 26%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.43212890625,
+        437.825439453125
+      ],
+      "text": "Data on the accuracy of CRP using a cut-off value of > 5 mg/L and of > 10 mg/L as indicators of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4244384765625,
+        451.825439453125
+      ],
+      "text": "TB disease were reviewed and both cut-offs were considered to have similar or superior accuracy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        527.421142578125,
+        465.825439453125
+      ],
+      "text": "when compared with the W4SS. The cut-off of > 5 mg/L was recommended because it is the lowest",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4015502929688,
+        479.825439453125
+      ],
+      "text": "threshold indicating abnormality in many clinical settings, and it has higher sensitivity than the cut-off",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4190063476562,
+        493.825439453125
+      ],
+      "text": "of > 10 mg/L. The choice of cut-off will depend on the type of CRP technology available in a given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4573974609375,
+        507.825439453125
+      ],
+      "text": "setting, the prevalence of TB and of other conditions that may increase CRP and the preference for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        271.00787353515625,
+        521.825439453125
+      ],
+      "text": "increased sensitivity or increased specificity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.4212036132812,
+        549.825439453125
+      ],
+      "text": "The IPD meta-analysis on CRP using a cut-off of > 5 mg/L reported similar sensitivity to and higher",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4190063476562,
+        563.825439453125
+      ],
+      "text": "or similar specificity to the W4SS in all subpopulations assessed (see Table 2.2). When combined with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.3683471679688,
+        577.825439453125
+      ],
+      "text": "the W4SS and used in parallel, whereby a positive screen for either tool led to a diagnostic test, it was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.4135131835938,
+        591.8253784179688
+      ],
+      "text": "found to have similar or higher sensitivity and specificity to the W4SS for all populations, depending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4410400390625,
+        605.8253784179688
+      ],
+      "text": "on the cut-off threshold used and the subpopulation assessed. CRP was found to be most accurate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.3947143554688,
+        619.8253784179688
+      ],
+      "text": "among outpatients who were not on ART, compared with the W4SS alone, which had a sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4200439453125,
+        633.8253784179688
+      ],
+      "text": "of 0.84 (95% CI: 0.75–0.90) and specificity of 0.37 (95% CI: 0.25–0.50) in this subpopulation. When",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.43994140625,
+        647.8253784179688
+      ],
+      "text": "performed sequentially after a positive W4SS among people living with HIV not on ART, CRP with a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.424560546875,
+        661.8253784179688
+      ],
+      "text": "cut-off of > 5 mg/L was found to be as sensitive (0.84; 95% CI: 0.73–0.90) as the W4SS alone but to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.4157104492188,
+        675.8253784179688
+      ],
+      "text": "have significantly higher specificity (0.64; 95% CI: 0.55–0.72). Similar to the W4SS, the specificity of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4146728515625,
+        689.8253784179688
+      ],
+      "text": "CRP for TB screening among inpatients living with HIV was found to be extremely low, likely due to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        499.441650390625,
+        703.8253784179688
+      ],
+      "text": "other comorbidities that would also result in raised CRP levels and the presence of symptoms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        329.7992858886719,
+        801.2599487304688,
+        553.4083862304688,
+        811.8897705078125
+      ],
+      "text": "9 2. ﻿ Reduce the burden of TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "file": "module5",
+  "page": 85,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        293.656494140625,
+        86.53083038330078
+      ],
+      "text": "6.1.2. Subgroup considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.55868530273438,
+        527.4436645507812,
+        107.17768859863281
+      ],
+      "text": "Adolescents  have a disease presentation that is similar to adults, and therefore may need different",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        105.93470001220703,
+        527.4133911132812,
+        120.37770080566406
+      ],
+      "text": "interventions than young children. Additional subgroup considerations for adolescents are included",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        119.13483428955078,
+        527.3112182617188,
+        133.5778350830078
+      ],
+      "text": "in the operational handbook, taking into account their specific health-seeking behaviour and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        132.3347930908203,
+        241.06240844726562,
+        146.7777862548828
+      ],
+      "text": "need for adolescent-friendly services.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        153.86270141601562,
+        527.3867797851562,
+        168.48170471191406
+      ],
+      "text": "TB contacts:  Provision of TPT has focused mainly on children under 5 years of age for many years.",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        164.44471740722656,
+        527.4215698242188,
+        181.6817169189453
+      ],
+      "text": "(122) In 2018, target groups for the provision of TPT were expanded to include contacts of all ages  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        177.6447296142578,
+        527.4419555664062,
+        194.88172912597656
+      ],
+      "text": "(78) Available data from the global TB database   show that coverage of TPT in household contacts is",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.6387481689453,
+        276.6651611328125,
+        208.0817413330078
+      ],
+      "text": "poor, especially in those over 5 years of age.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.3426055908203,
+        527.3479614257812,
+        229.7855987548828
+      ],
+      "text": "In children with common illnesses with overlapping signs and symptoms of TB, approaches to integrate",
+      "font": "SegoeUI-Light",
+      "size": 10.954004287719727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.54261779785156,
+        408.8147888183594,
+        242.98561096191406
+      ],
+      "text": "TB services in their care can improve case detection and provision of TPT.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.2465362548828,
+        190.48892211914062,
+        264.6895446777344
+      ],
+      "text": "These subgroups include:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.95037841796875,
+        78.23609924316406,
+        286.3934020996094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        271.95037841796875,
+        167.53858947753906,
+        286.3934020996094
+      ],
+      "text": "Children with SAM",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.150390625,
+        78.23609924316406,
+        299.5934143066406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        285.150390625,
+        233.61448669433594,
+        299.5934143066406
+      ],
+      "text": "Children with severe pneumonia",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.35052490234375,
+        78.23609924316406,
+        312.7935485839844
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        298.35052490234375,
+        189.3736114501953,
+        312.7935485839844
+      ],
+      "text": "Children living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.5504150390625,
+        78.23609924316406,
+        325.9934387207031
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        311.5504150390625,
+        250.10292053222656,
+        325.9934387207031
+      ],
+      "text": "Children with other chronic diseases.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.34368896484375,
+        337.742919921875,
+        360.22369384765625
+      ],
+      "text": "6.1.3. Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.2516174316406,
+        527.3590698242188,
+        380.8706359863281
+      ],
+      "text": "Health system requirements : Training of health care workers at peripheral levels of the health system",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.967401504516602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.6275939941406,
+        527.44189453125,
+        394.07061767578125
+      ],
+      "text": "is a critical requirement to ensure adequate implementation of decentralized approaches. Similarly,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.8276062011719,
+        527.4013671875,
+        407.2706298828125
+      ],
+      "text": "resources are needed at the peripheral level, especially initially to establish services. It is expected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.0276184082031,
+        527.3958129882812,
+        420.47064208984375
+      ],
+      "text": "that as services are established and effectively implemented, the long-term impact will result in a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.22760009765625,
+        527.44091796875,
+        433.6706237792969
+      ],
+      "text": "decrease in TB incidence with an associated reduction in resource requirements. A phased approach",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.4276123046875,
+        527.3739624023438,
+        446.8706359863281
+      ],
+      "text": "may be applied if this is most appropriate in the country or area, depending on the local burden of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.6275939941406,
+        482.2167053222656,
+        460.07061767578125
+      ],
+      "text": "TB, availability of domestic or donor funding and of technical and programmatic support.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.3315124511719,
+        527.104736328125,
+        481.7745361328125
+      ],
+      "text": "Factors to consider in decentralizing child and adolescent TB services include: existing infrastructure (such",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.531494140625,
+        527.5640258789062,
+        494.9745178222656
+      ],
+      "text": "as baseline health infrastructure, needs for expansion or upgrading), applicable regulatory framework,",
+      "font": "SegoeUI-Light",
+      "size": 10.969708442687988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.73150634765625,
+        527.3479614257812,
+        508.1745300292969
+      ],
+      "text": "financing, choosing between an operational research setting or programmatic implementation, human",
+      "font": "SegoeUI-Light",
+      "size": 10.953803062438965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.9315185546875,
+        527.1433715820312,
+        521.37451171875
+      ],
+      "text": "resource issues (including staffing requirements and human resources development, such as capacity",
+      "font": "SegoeUI-Light",
+      "size": 10.989344596862793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.131591796875,
+        527.416748046875,
+        534.5745849609375
+      ],
+      "text": "building/training and consultation skills), monitoring and evaluation, conducting qualitative research",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.33154296875,
+        527.41015625,
+        547.7745361328125
+      ],
+      "text": "into community needs, perceptions (including views on stigma) and suggestions. Decentralization of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.531494140625,
+        527.44091796875,
+        560.9744873046875
+      ],
+      "text": "services to the PHC level requires child and adolescent TB services to be integrated within general",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.7315063476562,
+        527.4002685546875,
+        574.1744995117188
+      ],
+      "text": "PHC services, resulting in possible significant overlap between decentralization and family-centred,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.931640625,
+        179.868408203125,
+        587.3746337890625
+      ],
+      "text": "integrated approaches.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.4595336914062,
+        527.4378051757812,
+        609.0784912109375
+      ],
+      "text": "Contact investigation : Active contact investigation at community and household level is a critical",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.8355102539062,
+        527.4323120117188,
+        622.2785034179688
+      ],
+      "text": "intervention for enhancing both case finding and provision of TPT among children and adolescents.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.3634643554688,
+        527.4240112304688,
+        643.982421875
+      ],
+      "text": "Task shifting : Decentralization should not only concern the levels of the health system but should",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.7393798828125,
+        527.4058837890625,
+        657.182373046875
+      ],
+      "text": "ideally also take place within the same structure, by training all health care providers of all child and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.9393920898438,
+        527.4486694335938,
+        670.3823852539062
+      ],
+      "text": "adolescent care services in the recognition and management of TB. This so-called task shifting was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.139404296875,
+        361.8436279296875,
+        683.5823974609375
+      ],
+      "text": "mentioned by the GDG as an important implementation factor.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.6674194335938,
+        527.428955078125,
+        705.286376953125
+      ],
+      "text": "Family-centred and integrated care : Although in child health, care evolves around the family, the",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.0433349609375,
+        527.4309692382812,
+        718.486328125
+      ],
+      "text": "concept of family-centred care has not been well defined. Family-centred care is related to the more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.4492797851562,
+        527.4176025390625,
+        731.686279296875
+      ],
+      "text": "(6) common concept of patient-centred care. In the End TB Strategy  : “Patient-centred care involves",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        730.4434204101562,
+        527.4024658203125,
+        744.8864135742188
+      ],
+      "text": "systematically assessing and addressing the needs and expectations of patients. The objective is to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.6434326171875,
+        527.5753173828125,
+        758.08642578125
+      ],
+      "text": "provide high-quality TB diagnosis and treatment to all patients – men, women and children – without",
+      "font": "SegoeUI-Light",
+      "size": 10.989945411682129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        756.8433837890625,
+        527.4112548828125,
+        771.286376953125
+      ],
+      "text": "their having to incur catastrophic costs. Depending on patients’ needs, educational, emotional and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        230.9759063720703,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "6. Models of TB care for case detection and provision of TPT in children and adolescents 61",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

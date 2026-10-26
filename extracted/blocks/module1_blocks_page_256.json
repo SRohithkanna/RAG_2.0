@@ -1,0 +1,558 @@
+{
+  "file": "module1",
+  "page": 256,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        67.39063262939453,
+        527.4296875,
+        81.83363342285156
+      ],
+      "text": "Of the five studies evaluating the safety of FQ-based TPT among exposed MDR-TB contacts, three",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        80.59064483642578,
+        527.4262084960938,
+        95.03364562988281
+      ],
+      "text": "reported AE and treatment discontinuation after FQ monotherapy with either Lfx, OFX or MFX alone",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        93.79059600830078,
+        73.95452880859375,
+        108.23359680175781
+      ],
+      "text": "(",
+      "font": "SegoeUI-Light",
+      "size": 10.975723266601562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        73.91719818115234,
+        93.79059600830078,
+        125.43414306640625,
+        108.23359680175781
+      ],
+      "text": "Table A5.12",
+      "font": "SegoeUI-Light",
+      "size": 10.975723266601562,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        125.42610168457031,
+        93.79059600830078,
+        527.1426391601562,
+        108.23359680175781
+      ],
+      "text": "). No serious or grade 3/4 AE were reported in these studies and very low discontinuation",
+      "font": "SegoeUI-Light",
+      "size": 10.975723266601562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        105.71460723876953,
+        527.427490234375,
+        121.43360900878906
+      ],
+      "text": "(10) of FQ treatment. The AE rates were higher in the study of Malik et al.  , in which Lfx/MFX was",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        118.91461944580078,
+        527.4338989257812,
+        134.6336212158203
+      ],
+      "text": "(6)  given with ETH or EMB, and in the study by Bedini et al.  in which contacts received Lfx and PZA",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        133.39064025878906,
+        73.96820068359375,
+        147.83363342285156
+      ],
+      "text": "(",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        73.970703125,
+        133.39064025878906,
+        126.27669525146484,
+        147.83363342285156
+      ],
+      "text": "Table A5.13",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        126.28289794921875,
+        133.39064025878906,
+        527.4122924804688,
+        147.83363342285156
+      ],
+      "text": "). Malik et al. found a higher proportion of grade 1 or 2 AE with ETH than with EMB, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86621856689453,
+        145.31459045410156,
+        527.4158935546875,
+        161.0336456298828
+      ],
+      "text": "(6) , the combination of  11 of the 36 contacts discontinued TPT. Similarly, in the study by Bedini et al.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        159.7906036376953,
+        268.42498779296875,
+        174.2335968017578
+      ],
+      "text": "Lfx and pyrazinamide was poorly tolerated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        187.03184509277344,
+        522.9974975585938,
+        202.85983276367188
+      ],
+      "text": "Table A5.13. Summary of study evaluating the safety of FQ-based TPT regimens",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        201.4318084716797,
+        326.856201171875,
+        217.25979614257812
+      ],
+      "text": "among adult HHCs of MDR-TB index patients",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.11720275878906,
+        229.32972717285156,
+        497.2466125488281,
+        239.66574096679688
+      ],
+      "text": "Reference Setting Population Intervention/  Outcomes reported Outcome",
+      "font": "Whitney-Medium",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        287.7145690917969,
+        239.32972717285156,
+        497.1531066894531,
+        249.66574096679688
+      ],
+      "text": "exposure estimates",
+      "font": "Whitney-Medium",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11620330810547,
+        253.49362182617188,
+        481.0781555175781,
+        265.0137939453125
+      ],
+      "text": "Bedini et al.  Penitentiary  Incarcerated  6-month Lfx +  Any AE 9/12",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11620330810547,
+        263.16162109375,
+        506.41131591796875,
+        276.0137939453125
+      ],
+      "text": "(6) (2016)  in Modena,  (58%) adults in close  PZA (n=12) Treatment discontinuation  7/12",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        143.147705078125,
+        275.4936218261719,
+        507.5845031738281,
+        287.01373291015625
+      ],
+      "text": "northern Italy 5/12 (42%) contact with MDR- due to drug-related AE",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.3446044921875,
+        286.4936828613281,
+        447.03192138671875,
+        298.01373291015625
+      ],
+      "text": "TB case (n=17) Completed 6-month TPT",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        350.0767822265625,
+        297.4938049316406,
+        383.1643981933594,
+        309.0137939453125
+      ],
+      "text": "regimen",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        320.83819580078125,
+        467.7799377441406,
+        331.3421936035156
+      ],
+      "text": "AE, adverse events; Lfx, Levofloxacin; MDR-TB, multidrug-resistant TB; PZA, Pyrazinamide; TPT, TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        347.91400146484375,
+        527.424560546875,
+        362.3570251464844
+      ],
+      "text": "The objective of the review was to determine the safety of FQ in MDR prevention or treatment. Data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        361.114013671875,
+        527.4447631835938,
+        375.5570373535156
+      ],
+      "text": "from three studies that reported AEs attributable to Lfx or MFX were retrieved. A study by Ali et al.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        373.0379943847656,
+        527.462890625,
+        388.75701904296875
+      ],
+      "text": "(12)  addressed acute Fridericia-corrected QT interval (QTcF) responses to experimentally administered",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.979681968688965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        387.5140075683594,
+        527.5574951171875,
+        401.95703125
+      ],
+      "text": "TB drugs, including Lfx and MFX, either alone or in combination with another drug. MFX given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        400.7140197753906,
+        527.393798828125,
+        415.15704345703125
+      ],
+      "text": "alone resulted in only one mild (grade 1) QTcF prolongation in 32 patients, and Lfx alone resulted in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        412.63800048828125,
+        527.4241333007812,
+        428.3570556640625
+      ],
+      "text": "(13)  reported a significant  QTcF prolongation in 19 patients. A pharmacokinetics study by Jin et al.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        427.114013671875,
+        527.5978393554688,
+        441.5570373535156
+      ],
+      "text": "association between higher Lfx concentration and increased QTc intervals; however, the QTc intervals",
+      "font": "SegoeUI-Light",
+      "size": 10.998799324035645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        440.3139953613281,
+        527.1260375976562,
+        454.75701904296875
+      ],
+      "text": "decreased over time, and there was no significant difference from pre-treatment intervals by the end",
+      "font": "SegoeUI-Light",
+      "size": 10.996048927307129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        453.5140075683594,
+        527.3798217773438,
+        467.95703125
+      ],
+      "text": "of 12 months. Treatment was not discontinued in any patient, and no patients experienced cardiac",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        465.4380187988281,
+        527.4352416992188,
+        481.15704345703125
+      ],
+      "text": "(14) adverse events. A study conducted by Garcia-Prats et al.   among 70 children aged < 15 years",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.91400146484375,
+        527.154541015625,
+        494.3570251464844
+      ],
+      "text": "treated for MDR-TB disease found a significant number of grade 1 AE (59/70) and grade 2 AE (11/70)",
+      "font": "SegoeUI-Light",
+      "size": 10.982686042785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        493.114013671875,
+        527.5462646484375,
+        507.5570373535156
+      ],
+      "text": "that were related to Lfx. Only one child experienced a grade 3 AE, and no children experienced grade",
+      "font": "SegoeUI-Light",
+      "size": 10.983588218688965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        506.31396484375,
+        245.59060668945312,
+        520.7569580078125
+      ],
+      "text": "4 AE. Treatment was not discontinued.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        531.1806640625,
+        504.8231506347656,
+        549.4506225585938
+      ],
+      "text": "Acceptance, willingness and acceptability of FQ-based TPT regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        556.156494140625,
+        527.3992309570312,
+        570.5994873046875
+      ],
+      "text": "For this review, two quantitative and one qualitative outcome were considered for acceptance (actually",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        569.3565673828125,
+        527.4107055664062,
+        583.799560546875
+      ],
+      "text": "starting), stated willingness to start (theoretical) and acceptability according to on qualitative methods.",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        582.556640625,
+        524.4197387695312,
+        596.9996337890625
+      ],
+      "text": "Acceptance was defined as the proportion of eligible contacts who accepted and started TPT when offered.",
+      "font": "SegoeUI-Light",
+      "size": 10.890000343322754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        609.7978515625,
+        508.3035583496094,
+        625.6258544921875
+      ],
+      "text": "Table A5.14. Summary of studies of acceptance to start FQ-based TPT among",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        624.1978149414062,
+        238.11618041992188,
+        640.0258178710938
+      ],
+      "text": "caregivers and MDR-TB HHCs",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        762.6041259765625,
+        526.6197509765625,
+        773.1080932617188
+      ],
+      "text": "ETH, ethionamide; EMB, ethambutol; FQ, fluoroquinolone; HHC, household contacts; Lfx, levofloxacin; MFX, moxifloxacin;  OFX, ofloxacin;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        773.6041259765625,
+        166.54139709472656,
+        784.1080932617188
+      ],
+      "text": "TPT, TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "238 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

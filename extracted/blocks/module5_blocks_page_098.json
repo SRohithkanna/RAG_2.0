@@ -1,0 +1,582 @@
+{
+  "file": "module5",
+  "page": 98,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.70672607421875,
+        527.1280517578125,
+        80.83673095703125
+      ],
+      "text": "16.\t WHO consolidated guidelines on tuberculosis. Module 3: diagnosis - rapid diagnostics for tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        81.70672607421875,
+        524.600830078125,
+        94.83673095703125
+      ],
+      "text": "detection, 2021 update. Geneva: World Health Organization; 2021 (https://apps.who.int/iris/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        95.70672607421875,
+        305.8760681152344,
+        108.83673095703125
+      ],
+      "text": "handle/10665/342331, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        113.9586181640625,
+        527.14794921875,
+        127.088623046875
+      ],
+      "text": "17.\t Commercial serodiagnostic tests for diagnosis of tuberculosis: policy statement. Geneva:  World Health",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        127.9586181640625,
+        487.52899169921875,
+        141.088623046875
+      ],
+      "text": "Organization; 2011 (https://apps.who.int/iris/handle/10665/44652, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.21063232421875,
+        527.1099243164062,
+        159.34063720703125
+      ],
+      "text": "18.\t Kay AW, Gonzalez Fernandez L, Takwoingi Y, Eisenhut M, Detjen AK, Steingart KR, et al. Xpert MTB/RIF and",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        160.21063232421875,
+        526.8908081054688,
+        173.34063720703125
+      ],
+      "text": "Xpert MTB/RIF Ultra assays for active tuberculosis and rifampicin resistance in children. Cochrane Database",
+      "font": "SegoeUI-Light",
+      "size": 9.989343643188477,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        174.21063232421875,
+        206.0880584716797,
+        187.34063720703125
+      ],
+      "text": "Syst Rev. 2020;8:CD013359.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.46258544921875,
+        527.1029052734375,
+        205.59259033203125
+      ],
+      "text": "19.\t Jaganath D, Wambi P, Reza TF, Nakafeero J, Aben EO, Kiconco E, et al. A prospective evaluation of Xpert",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        206.46258544921875,
+        524.3494262695312,
+        219.59259033203125
+      ],
+      "text": "MTB/RIF Ultra for childhood pulmonary tuberculosis in Uganda. J Pediatric Infect Dis Soc. 2021;10(5):586-92.",
+      "font": "SegoeUI-Light",
+      "size": 9.963784217834473,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        224.714599609375,
+        527.157958984375,
+        237.8446044921875
+      ],
+      "text": "20.\t Liu XH, Xia L, Song B, Wang H, Qian XQ, Wei JH, et al. Stool-based Xpert MTB/RIF Ultra assay as a tool for",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        238.714599609375,
+        527.1480102539062,
+        251.8446044921875
+      ],
+      "text": "detecting pulmonary tuberculosis in children with abnormal chest imaging: A prospective cohort study. J",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        252.714599609375,
+        184.4360809326172,
+        265.8446044921875
+      ],
+      "text": "Infect. 2021;82(1):84-9.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.96649169921875,
+        527.1541748046875,
+        284.09649658203125
+      ],
+      "text": "21.\t Parigi S, Venturini E, Galli L, Chiappini E. Xpert(®) MTB/RIF Ultra performance in diagnosing paediatric",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        284.96649169921875,
+        390.5111389160156,
+        298.09649658203125
+      ],
+      "text": "pulmonary TB in gastric aspirates. Int J Tuberc Lung Dis. 2021;25(1):75-7.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.2186279296875,
+        527.1151733398438,
+        316.3486328125
+      ],
+      "text": "22.\t Ssengooba W, Iragena JD, Nakiyingi L, Mujumbi S, Wobudeya E, Mboizi R, et al. Accuracy of Xpert Ultra",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        317.2186279296875,
+        527.1189575195312,
+        330.3486328125
+      ],
+      "text": "in diagnosis of pulmonary tuberculosis among children in Uganda: a substudy from the SHINE trial. J Clin",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        331.218505859375,
+        228.8360595703125,
+        344.3485107421875
+      ],
+      "text": "Microbiol. 2020;58(9): e00410-20.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.47052001953125,
+        527.1251831054688,
+        362.60052490234375
+      ],
+      "text": "23.\t Validation of a tuberculosis treatment decision algorithm in HIV-infected children (TB-Speed HIV). Paris:",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        363.47052001953125,
+        527.1917114257812,
+        376.60052490234375
+      ],
+      "text": "Institut National de la Santé Et de la Recherche Médicale; 2021 (https://clinicaltrials.gov/show/NCT04121026,",
+      "font": "SegoeUI-Light",
+      "size": 9.956655502319336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        377.47052001953125,
+        208.6061248779297,
+        390.60052490234375
+      ],
+      "text": "accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.7225036621094,
+        527.1349487304688,
+        408.8525085449219
+      ],
+      "text": "24.\t Development of a diagnostic prediction score for tuberculosis in hospitalized children with severe acute",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        409.7225036621094,
+        524.5481567382812,
+        422.8525085449219
+      ],
+      "text": "malnutrition (TB-Speed SAM). Paris: Institut National de la Santé Et de la Recherche Médicale; 2021 (https://",
+      "font": "SegoeUI-Light",
+      "size": 9.979780197143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        423.7225036621094,
+        366.6260070800781,
+        436.8525085449219
+      ],
+      "text": "clinicaltrials.gov/show/NCT04240990, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.97442626953125,
+        527.3960571289062,
+        455.10443115234375
+      ],
+      "text": "25.\t Stool Processing Kit (SPK) evaluation for paediatric TB. Switzerland: Foundation for Innovative New",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        455.97442626953125,
+        488.6510314941406,
+        469.10443115234375
+      ],
+      "text": "Diagnostics; 2021 (https://clinicaltrials.gov/ct2/show/NCT04899076 accessed 22 February 2022).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.2264099121094,
+        527.1907348632812,
+        487.3564147949219
+      ],
+      "text": "26.\t Kabir S, Rahman SMM, Ahmed S, Islam MS, Banu RS, Shewade HD, et al. Xpert Ultra assay on  stool to",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        488.2264099121094,
+        420.5860595703125,
+        501.3564147949219
+      ],
+      "text": "diagnose pulmonary tuberculosis in children. Clin Infect Dis. 2021;73(2):226-34.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.47845458984375,
+        527.4303588867188,
+        519.6084594726562
+      ],
+      "text": "27.\t Evaluation of four stool processing methods combined with Xpert MTB/RIF Ultra for diagnosis of intrathoracic",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        520.4784545898438,
+        526.83203125,
+        533.6084594726562
+      ],
+      "text": "paediatric TB (TB-Speed - stool processing). Paris: Institut National de la Santé Et de la Recherche Médicale;",
+      "font": "SegoeUI-Light",
+      "size": 9.983837127685547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        534.4784545898438,
+        437.0960388183594,
+        547.6084594726562
+      ],
+      "text": "2021 (https://clinicaltrials.gov/ct2/show/NCT04203628 accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.7302856445312,
+        527.1500244140625,
+        565.8602905273438
+      ],
+      "text": "28.\t TB-Speed stool processing - instructions for use - sucrose flotation method. Paris: University of Bordeaux;",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        566.7302856445312,
+        524.489013671875,
+        579.8602905273438
+      ],
+      "text": "2020 (https://www.tb-speed.com/wp-content/uploads/2020/09/TB-Speed_Stools_Standard_Operating_",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        580.7302856445312,
+        275.4071960449219,
+        593.8602905273438
+      ],
+      "text": "Procedures.pdf, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.9822998046875,
+        527.162109375,
+        612.1123046875
+      ],
+      "text": "29.\t Simple One Step (SOS) stool processing method and Xpert MTB/RIF (Ultra) testing for the detection of",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        612.9822998046875,
+        527.2738037109375,
+        626.1123046875
+      ],
+      "text": "Mycobacterium tuberculosis complex and rifampicin resistance. The Hague: KNCV Tuberculosis Foundation;",
+      "font": "SegoeUI-Light",
+      "size": 9.974116325378418,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        626.9822998046875,
+        504.2890625,
+        640.1123046875
+      ],
+      "text": "2021 (https://www.kncvtbc.org/uploaded/2021/03/Stoolbox-SOP1.pdf, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.2343139648438,
+        527.1079711914062,
+        658.3643188476562
+      ],
+      "text": "30.\t WHO operational handbook on tuberculosis. Module 3: diagnosis - rapid diagnostics for tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        659.2343139648438,
+        524.3753662109375,
+        672.3643188476562
+      ],
+      "text": "detention, 2021 update. Geneva: World Health Organization; 2021 (https://apps.who.int/iris/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        673.2343139648438,
+        305.8760681152344,
+        686.3643188476562
+      ],
+      "text": "handle/10665/342369, accessed 1 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.486328125,
+        527.1727905273438,
+        704.6163330078125
+      ],
+      "text": "31.\t Graham SM, Cuevas LE, Jean-Philippe P, Browning R, Casenghi M, Detjen AK, et al. Clinical case definitions",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        705.486328125,
+        526.8294067382812,
+        718.6163330078125
+      ],
+      "text": "for classification of intrathoracic tuberculosis in children: an update. Clin Infect Dis. 2015;61Suppl 3:S179-87.",
+      "font": "SegoeUI-Light",
+      "size": 9.978075981140137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        723.7382202148438,
+        527.0029296875,
+        736.8682250976562
+      ],
+      "text": "32.\t The Union’s desk guide for diagnosis and management of TB in children. Third edition, 2016. Paris:",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        737.7382202148438,
+        524.5718994140625,
+        750.8682250976562
+      ],
+      "text": "International Union Against Tuberculosis and Lung Disease; 2016 (https://theunion.org/sites/default/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86609649658203,
+        751.7382202148438,
+        409.5719909667969,
+        764.8682250976562
+      ],
+      "text": "files/2020-08/2016_Desk-guide_Africa_Web.pdf, accessed 3 December 2021).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "74 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

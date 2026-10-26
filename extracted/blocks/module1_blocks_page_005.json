@@ -1,0 +1,774 @@
+{
+  "file": "module1",
+  "page": 5,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        60.59532928466797,
+        194.98770141601562,
+        102.19532775878906
+      ],
+      "text": "Contents",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.6002960205078,
+        177.94210815429688,
+        151.26028442382812
+      ],
+      "text": "Acknowledgements",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.96969604492188,
+        135.6002960205078,
+        181.2696990966797,
+        151.26028442382812
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        515.1868286132812,
+        135.6002960205078,
+        524.40283203125,
+        151.26028442382812
+      ],
+      "text": "iv",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        158.5042266845703,
+        225.7898406982422,
+        174.16421508789062
+      ],
+      "text": "Abbreviations and acronyms",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.79969787597656,
+        158.5042266845703,
+        229.09970092773438,
+        174.16421508789062
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        508.9172058105469,
+        158.5042266845703,
+        524.3972778320312,
+        174.16421508789062
+      ],
+      "text": "viii",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        130.06919860839844,
+        181.40809631347656,
+        133.36920166015625,
+        197.06808471679688
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        181.40809631347656,
+        524.4069213867188,
+        197.06814575195312
+      ],
+      "text": "ix Definitions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        204.31214904785156,
+        175.81565856933594,
+        219.97213745117188
+      ],
+      "text": "Executive summary",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        175.81919860839844,
+        204.31214904785156,
+        179.11920166015625,
+        219.97213745117188
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        515.2628784179688,
+        204.31214904785156,
+        524.4069213867188,
+        219.97213745117188
+      ],
+      "text": "xi",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.6884002685547,
+        227.2160186767578,
+        141.9884033203125,
+        242.87600708007812
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        227.2160186767578,
+        524.4072875976562,
+        242.87606811523438
+      ],
+      "text": "1 Introduction",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        250.1199493408203,
+        184.98011779785156,
+        265.7799377441406
+      ],
+      "text": "1. Recommendations",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        185.0009002685547,
+        250.1199493408203,
+        188.3009033203125,
+        265.7799377441406
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        517.747314453125,
+        250.1199493408203,
+        524.4072875976562,
+        265.7799377441406
+      ],
+      "text": "3",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        272.8573913574219,
+        337.65838623046875,
+        286.50738525390625
+      ],
+      "text": "1.1 Identifying populations for TB preventive treatment",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        337.6553955078125,
+        272.8573913574219,
+        340.53240966796875,
+        286.50738525390625
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        272.8573913574219,
+        524.4088134765625,
+        286.50738525390625
+      ],
+      "text": "3",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.8660888671875,
+        291.1266784667969,
+        278.9412841796875,
+        304.77667236328125
+      ],
+      "text": "1.2 TB screening and ruling out TB disease",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9313049316406,
+        291.1267395019531,
+        281.8083190917969,
+        304.7767333984375
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        291.1267395019531,
+        524.4088134765625,
+        304.7767333984375
+      ],
+      "text": "9",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.8660888671875,
+        309.3959045410156,
+        166.08843994140625,
+        323.0458984375
+      ],
+      "text": "1.3 Testing for TBI",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.08709716796875,
+        309.3959045410156,
+        168.96409606933594,
+        323.0458984375
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        309.3959045410156,
+        524.4080810546875,
+        323.0458984375
+      ],
+      "text": "19",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        327.6651611328125,
+        249.10140991210938,
+        341.3151550292969
+      ],
+      "text": "1.4 TB preventive treatment options",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        249.09759521484375,
+        327.66522216796875,
+        251.97459411621094,
+        341.3152160644531
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        327.66522216796875,
+        524.4080810546875,
+        341.3152160644531
+      ],
+      "text": "21",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.7702941894531,
+        228.9937286376953,
+        367.4302978515625
+      ],
+      "text": "2. Monitoring and evaluation",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        229.01649475097656,
+        351.7702941894531,
+        232.31649780273438,
+        367.4302978515625
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        511.085205078125,
+        351.7702941894531,
+        524.4051513671875,
+        367.4302978515625
+      ],
+      "text": "31",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        161.22349548339844,
+        374.67431640625,
+        164.52349853515625,
+        390.3343200683594
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        374.67431640625,
+        524.4051513671875,
+        390.3343505859375
+      ],
+      "text": "33 3. Research gaps",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        129.8114013671875,
+        397.5782165527344,
+        133.1114044189453,
+        413.23822021484375
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        397.5782165527344,
+        524.4051513671875,
+        413.2382507324219
+      ],
+      "text": "37 References",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        420.4821472167969,
+        514.7808837890625,
+        436.14215087890625
+      ],
+      "text": "Annex 1. Recommendations in the WHO consolidated guidelines on tuberculosis:",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        434.88214111328125,
+        489.9983825683594,
+        450.5421447753906
+      ],
+      "text": "tuberculosis preventive treatment, second edition (2024) and in the previous",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        147.16099548339844,
+        449.2821044921875,
+        150.46099853515625,
+        464.9421081542969
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        449.2821044921875,
+        524.4051513671875,
+        464.942138671875
+      ],
+      "text": "47 edition (2020)",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.37200927734375,
+        472.18609619140625,
+        273.6719970703125,
+        487.8460998535156
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        472.18609619140625,
+        524.4051513671875,
+        487.8461608886719
+      ],
+      "text": "52 Annex 2. Methods and expert panels",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        315.93450927734375,
+        495.0899963378906,
+        319.2344970703125,
+        510.75
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        495.0899963378906,
+        524.4051513671875,
+        510.7500305175781
+      ],
+      "text": "62 Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        313.4501037597656,
+        517.993896484375,
+        316.7500915527344,
+        533.6539306640625
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        517.993896484375,
+        524.403076171875,
+        533.6539916992188
+      ],
+      "text": "102 Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        355.2156982421875,
+        540.8978881835938,
+        358.51568603515625,
+        556.5579223632812
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        540.8978881835938,
+        524.403076171875,
+        556.5579833984375
+      ],
+      "text": "221 Annex 5. Summary of unpublished studies (PICO 10)",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        563.63525390625,
+        335.37152099609375,
+        577.2852783203125
+      ],
+      "text": "A5.1 Summary of TB CHAMP and V-QUIN clinical trials",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        335.3688049316406,
+        563.63525390625,
+        338.2458190917969,
+        577.2852783203125
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        507.4289855957031,
+        563.63525390625,
+        524.407470703125,
+        577.2852783203125
+      ],
+      "text": "221",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        581.904541015625,
+        477.6781311035156,
+        595.5545654296875
+      ],
+      "text": "A5.2 Use of fluoroquinolones for TB preventive treatment in contacts of persons with",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        594.5045776367188,
+        239.13800048828125,
+        608.1546020507812
+      ],
+      "text": "MDR-/RR-TB: A systematic review",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.13589477539062,
+        594.5045776367188,
+        242.0128936767578,
+        608.1546020507812
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        507.4289855957031,
+        594.5045776367188,
+        524.407470703125,
+        608.1546020507812
+      ],
+      "text": "234",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        612.7738647460938,
+        487.4632568359375,
+        626.4238891601562
+      ],
+      "text": "A5.3 Assessing fluoroquinolone (levofloxacin) acceptability among contacts of MDR-TB",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        625.3739013671875,
+        210.27346801757812,
+        639.02392578125
+      ],
+      "text": "patients: a qualitative study",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        210.27110290527344,
+        625.3739013671875,
+        213.14810180664062,
+        639.02392578125
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        507.4289855957031,
+        625.3739013671875,
+        524.407470703125,
+        639.02392578125
+      ],
+      "text": "243",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        643.6431884765625,
+        459.1844787597656,
+        657.293212890625
+      ],
+      "text": "A5.4 A survey to explore the programmatic feasibility of levofloxacin (Lfx) TPT for",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86611938476562,
+        656.2431640625,
+        164.24359130859375,
+        669.8931884765625
+      ],
+      "text": "MDR-TB contacts",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.24139404296875,
+        656.2431640625,
+        167.11839294433594,
+        669.8931884765625
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        507.4289855957031,
+        656.2431640625,
+        524.407470703125,
+        669.8931884765625
+      ],
+      "text": "246",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.4603271484375,
+        801.0170288085938,
+        552.38037109375,
+        811.52099609375
+      ],
+      "text": "iii",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

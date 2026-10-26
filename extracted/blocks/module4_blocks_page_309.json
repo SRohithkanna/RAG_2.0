@@ -1,0 +1,462 @@
+{
+  "file": "module4",
+  "page": 309,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        311.7253112792969,
+        86.53083038330078
+      ],
+      "text": "Question 2 (NeXT study regimen)",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        351.73089599609375,
+        92.62468719482422,
+        485.8821716308594,
+        106.97969055175781
+      ],
+      "text": "Lzd, Bdq, Lfx, Z, Eto/Hh/Trd",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.992146492004395,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.73468780517578,
+        78.23609924316406,
+        107.17768859863281
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        92.73468780517578,
+        527.436279296875,
+        107.17768859863281
+      ],
+      "text": "Should a 6-to-9-month shorter all-oral regimen containing   be used",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        105.82469940185547,
+        394.2827453613281,
+        120.37770080566406
+      ],
+      "text": "MDR/RR-TB in patients with   (fluoroquinolone resistance excluded)?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        133.14019775390625,
+        435.4151916503906,
+        147.4951934814453
+      ],
+      "text": "Population Intervention* Comparator Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        154.8647003173828,
+        481.10870361328125,
+        169.3076934814453
+      ],
+      "text": "Patients with MDR/ Injectable-based  •\tTreatment success",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        166.8647003173828,
+        516.638671875,
+        181.3076934814453
+      ],
+      "text": "RR-TB and FQ  longer or shorter  (24 months after initiation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        202.39370727539062,
+        171.11671447753906,
+        227.823486328125,
+        185.55970764160156
+      ],
+      "text": "NeXT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        178.8647003173828,
+        458.201171875,
+        193.3076934814453
+      ],
+      "text": "resistance excluded  regimen (within  of treatment)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        190.8647003173828,
+        365.7073974609375,
+        205.3076934814453
+      ],
+      "text": "(plus other inclusion  trial comparison)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        202.8647003173828,
+        183.85450744628906,
+        217.3076934814453
+      ],
+      "text": "criteria as in NeXT trial)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.85040283203125,
+        212.4794464111328,
+        483.0946960449219,
+        226.9224395751953
+      ],
+      "text": "External  1.\tTreatment success",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        217.84071350097656,
+        133.68130493164062,
+        233.5047149658203
+      ],
+      "text": "Stratified by:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.85040283203125,
+        224.4794464111328,
+        358.42315673828125,
+        238.9224395751953
+      ],
+      "text": "comparators**:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.48028564453125,
+        228.73133850097656,
+        504.6338195800781,
+        243.17433166503906
+      ],
+      "text": "2.\tFailure and Recurrence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        235.3686065673828,
+        177.03729248046875,
+        249.8115997314453
+      ],
+      "text": "•\tAdults, adolescents,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.85040283203125,
+        240.73133850097656,
+        349.7878112792969,
+        255.17433166503906
+      ],
+      "text": "‒WHO_short",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        244.98329162597656,
+        422.458251953125,
+        261.8116149902344
+      ],
+      "text": "3.\tLTFU children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.85040283203125,
+        256.9832763671875,
+        331.68841552734375,
+        271.4263000488281
+      ],
+      "text": "‒SA_new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        261.23529052734375,
+        428.0352783203125,
+        278.0637512207031
+      ],
+      "text": "4.\tDeath •\tPTB, EXPTB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.85040283203125,
+        273.23529052734375,
+        359.9474182128906,
+        287.6783142089844
+      ],
+      "text": "‒WHO_long***",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        277.4871826171875,
+        516.748046875,
+        294.3156433105469
+      ],
+      "text": "5.\tAdverse events (DDIs for  •\tComorbidities: HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        289.4871826171875,
+        500.2392883300781,
+        306.3156433105469
+      ],
+      "text": "HIV-infected patients) diabetes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.48028564453125,
+        305.73919677734375,
+        500.0864562988281,
+        320.1822204589844
+      ],
+      "text": "6.\tAmplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        400.48028564453125,
+        317.73919677734375,
+        445.26239013671875,
+        332.1822204589844
+      ],
+      "text": "resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.5849304199219,
+        526.6507568359375,
+        357.0169372558594
+      ],
+      "text": "Source of data: NExT Clinical TRial – SA.  * \t Six to nine months of all-oral regimen: Linezolid 600mg daily (reduce to 300mg if toxicity occurs),",
+      "font": "SegoeUI-LightItalic",
+      "size": 7.980626583099365,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        357.512939453125,
+        526.6181640625,
+        368.0169372558594
+      ],
+      "text": "Bedaquiline 400mg for 2 weeks, followed by 200mg three times per week, Levofloxacin 750mg (<50kg) or 1 000mg (>50kg) daily, PZA",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        368.512939453125,
+        526.5875854492188,
+        379.0169372558594
+      ],
+      "text": "1 000–1 750mg (40–50kg) or 1 750–2 000mg (51–70kg) or 2 000–2 500mg (71–90kg) daily, Ethionamide 15mg/kg (max 900mg) daily,",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        379.512939453125,
+        526.6139526367188,
+        390.0169372558594
+      ],
+      "text": "or high-dose Isoniazid 500mg (40–50kg) or 750mg (51–70kg) or 750–1 000mg (71–90kg) daily, or Terizidone 750mg (40–70kg) or",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        390.512939453125,
+        447.6452941894531,
+        401.0169372558594
+      ],
+      "text": "750–1 000mg (71–90kg) daily. Trd is used only for patients with KatG mutation (Eto and Hh no more effective)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.3476257324219,
+        130.94090270996094,
+        414.85162353515625
+      ],
+      "text": "** \tData sources:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        415.3476257324219,
+        370.4369812011719,
+        425.85162353515625
+      ],
+      "text": "• Shorter regimens: SA (provided by NTP) & other countries (public call or OR studies)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        426.3476257324219,
+        455.6583251953125,
+        436.85162353515625
+      ],
+      "text": "• Longer regimens: Belarus, Republic of Moldova, Georgia, Russia Federation, and others (public call, if available)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.1822204589844,
+        526.613525390625,
+        450.68621826171875
+      ],
+      "text": "***\tIf eligibility criteria for the NeXT is aligned and restricted to the same criteria as WHO_short then comparisons with the WHO_long",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        451.1822204589844,
+        524.410400390625,
+        461.68621826171875
+      ],
+      "text": "becomes less relevant but if sufficient data we do this comparison (we may not have sufficient numbers of records with truly WHO-",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        462.1822204589844,
+        243.74929809570312,
+        472.68621826171875
+      ],
+      "text": "long, restricted to the same population as NeXT)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        442.081298828125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 4. PICO questions 295",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

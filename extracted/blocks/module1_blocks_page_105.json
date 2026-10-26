@@ -1,0 +1,342 @@
+{
+  "file": "module1",
+  "page": 105,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.09741973876953,
+        732.406982421875,
+        84.88041687011719
+      ],
+      "text": "PICO 8: Should 3-month weekly rifapentine and isoniazid be offered as an alternative regimen to isoniazid monotherapy for",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        367.9791564941406,
+        98.88038635253906
+      ],
+      "text": "treatment of TB infection in high TB incidence countries?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        100.8187026977539,
+        649.8722534179688,
+        117.61470031738281
+      ],
+      "text": "3-month weekly rifapentine plus isoniazid or daily isoniazid monotherapy for TBI treatment in adults with HIV",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        121.48800659179688,
+        163.41236877441406,
+        133.1070098876953
+      ],
+      "text": "Population:  Adults with HIV",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        132.48800659179688,
+        258.6008605957031,
+        144.1070098876953
+      ],
+      "text": "Comparison:  6 or 9 months of isoniazid monotherapy",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        143.48800659179688,
+        134.36756896972656,
+        155.1070098876953
+      ],
+      "text": "Overall quality:  high",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        243.94656372070312,
+        773.7916259765625,
+        255.4665985107422
+      ],
+      "text": "Moderate  Critical 2  RCTs  Not  Not serious  Not serious Serious None  26/534  28/520  RR 0.733\n 14 fewer per 1000\n (58,59) a b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.02413940429688,
+        254.94656372070312,
+        677.2628784179688,
+        266.4665832519531
+      ],
+      "text": "serious  (4.9%)  (5.4%)  (from 41 fewer to  (0.234 ; 2.295)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        265.946533203125,
+        647.804931640625,
+        277.4665222167969
+      ],
+      "text": "70 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        281.1374816894531,
+        135.74148559570312,
+        292.7565002441406
+      ],
+      "text": "All-cause mortality",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        296.34637451171875,
+        779.419189453125,
+        307.86639404296875
+      ],
+      "text": "Moderate  Important 2  RCTs Not  Not serious  Not serious Serious None  23/535  30/513  RR 0.746\n 15 fewer per 1000\n (58,59) a b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.02413940429688,
+        307.34637451171875,
+        675.7417602539062,
+        318.86639404296875
+      ],
+      "text": "serious  (4.3%)  (5.8%)  (from 16 more to  (0.438 ; 1.270)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        318.3463439941406,
+        648.2864990234375,
+        329.8663330078125
+      ],
+      "text": "33 fewer)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        333.53729248046875,
+        199.45303344726562,
+        345.15631103515625
+      ],
+      "text": "Any adverse events (grade III or IV)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        348.7461853027344,
+        773.7916259765625,
+        360.2662048339844
+      ],
+      "text": "2  RCTs Serious Not serious  Not serious Not serious  None 39/535  59/513  RR 0.627\n 43 fewer per 1000\n Moderate  Critical (58,59) c a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.273681640625,
+        359.7461853027344,
+        640.9991455078125,
+        371.26617431640625
+      ],
+      "text": "(7.3%)  (11.5%)  (0.426 ; 0.921)  (from 9",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        370.7461853027344,
+        658.797607421875,
+        382.26617431640625
+      ],
+      "text": "to 66 fewer)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        385.93701171875,
+        118.27877807617188,
+        397.5560302734375
+      ],
+      "text": "Hepatotoxicity",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        401.1459045410156,
+        773.7915649414062,
+        412.6658935546875
+      ],
+      "text": "2  RCTs Not  Not serious  Not serious Not serious  None 8/535  30/513  RR 0.256\n 44 fewer per  High  Critical (58,59) a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        173.5846710205078,
+        412.1459045410156,
+        632.7298583984375,
+        423.6658935546875
+      ],
+      "text": "serious (1.5%)  (5.8%)  (0.118 ; 0.553)  1000\n d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        423.1458740234375,
+        645.7646484375,
+        434.6658630371094
+      ],
+      "text": "(from 26",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        434.1459655761719,
+        658.037109375,
+        445.66595458984375
+      ],
+      "text": "to 52 fewer)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        449.3367919921875,
+        129.21351623535156,
+        460.955810546875
+      ],
+      "text": "Drug resistant TB",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        464.5456848144531,
+        779.419189453125,
+        476.065673828125
+      ],
+      "text": "2  RCTs  Not  Not serious  Not serious Very  None 3/534  1/520  RR 2.001\n 2 more per 1000\n Low  Important (58,59) a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.02413940429688,
+        475.5456848144531,
+        672.0167846679688,
+        487.065673828125
+      ],
+      "text": "serious  serious (0.6%)  (0.2%)  (0.259 ; 15.436)  (from 1 fewer to  e",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        486.545654296875,
+        647.5457153320312,
+        498.0656433105469
+      ],
+      "text": "28 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "87",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

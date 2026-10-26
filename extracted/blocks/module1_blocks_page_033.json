@@ -1,0 +1,570 @@
+{
+  "file": "module1",
+  "page": 33,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3353271484375,
+        81.83369445800781
+      ],
+      "text": "combination of any CXR abnormality or any TB symptom. The model indicated that the combination of",
+      "font": "SegoeUI-Light",
+      "size": 10.953903198242188,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4282836914062,
+        95.03370666503906
+      ],
+      "text": "any CXR abnormality and the presence of any symptoms suggestive of TB (i.e. cough of any duration,",
+      "font": "SegoeUI-Light",
+      "size": 10.986592292785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.55126953125,
+        108.23371887207031
+      ],
+      "text": "haemoptysis, fever, night sweats, weight loss, chest pain, shortness of breath and fatigue) would have",
+      "font": "SegoeUI-Light",
+      "size": 10.990446090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        458.3874206542969,
+        121.43373107910156
+      ],
+      "text": "the highest sensitivity (100%) and negative predictive value (100%) for ruling out TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.5874633789062,
+        143.13758850097656
+      ],
+      "text": "Before the 2018 guidelines update, the review was updated to include household contacts aged",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        140.6186065673828,
+        527.3291015625,
+        156.3376007080078
+      ],
+      "text": "(62) ≥ 5 years of people with pulmonary TB in high TB burden countries  . Seven studies of the accuracy",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.968605041503906,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.45703125,
+        169.53773498535156
+      ],
+      "text": "of “any CXR abnormality” had a pooled sensitivity of 94.1% (95% CI 85.8 ; 97.7) and a pooled specificity",
+      "font": "SegoeUI-Light",
+      "size": 10.959174156188965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.5952758789062,
+        182.73768615722656
+      ],
+      "text": "86.8% (95% CI 79.7 ; 91.7). In a hypothetical population of 10 000 HIV-negative individuals in a country",
+      "font": "SegoeUI-Light",
+      "size": 10.957366943359375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4439086914062,
+        195.9376983642578
+      ],
+      "text": "with a TB prevalence of 2%, use only of any TB symptoms for screening would wrongly classify 54",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.39306640625,
+        209.13771057128906
+      ],
+      "text": "people with TB as not having TB disease and being offered TPT. In contrast, use of any abnormal CXR",
+      "font": "SegoeUI-Light",
+      "size": 10.993398666381836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.5844116210938,
+        222.3376007080078
+      ],
+      "text": "finding would result in 12 people with TB being offered preventive treatment. Use of the combination",
+      "font": "SegoeUI-Light",
+      "size": 10.990996360778809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.2079467773438,
+        235.53773498535156
+      ],
+      "text": "of any TB symptoms plus any CXR abnormality would result in no people with TB disease being",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.2947540283203,
+        527.3837890625,
+        248.7377471923828
+      ],
+      "text": "incorrectly offered preventive treatment. At a TB prevalence of 2%, use of any TB symptoms alone as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.49476623535156,
+        527.4254150390625,
+        261.9377746582031
+      ],
+      "text": "the screening criterion would require investigations of 16 extra non-TB patients for every individual",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.561279296875,
+        275.1377258300781
+      ],
+      "text": "with TB identified, whereas use of any abnormal CXR finding would require TB investigation of 7 extra",
+      "font": "SegoeUI-Light",
+      "size": 10.990095138549805,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.4398803710938,
+        288.3376159667969
+      ],
+      "text": "non-TB patients for every individual with TB identified. Use of the combination of any TB symptoms",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.4334716796875,
+        301.5377502441406
+      ],
+      "text": "plus any CXR abnormal finding would increase the number of individuals requiring TB investigation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.294677734375,
+        371.3445129394531,
+        314.7377624511719
+      ],
+      "text": "identified. to 15 extra non-TB patients for every individual with TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.88861083984375,
+        527.3881225585938,
+        336.4416198730469
+      ],
+      "text": "Recommendations 15 16  and   are related to use of symptom screen, CXR or mWRD, alone or in",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.4343872070312,
+        349.6416320800781
+      ],
+      "text": "combination, to screen adults and adolescents for TB disease. A systematic review of the diagnostic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.441650390625,
+        362.8416442871094
+      ],
+      "text": "accuracy of using symptoms and CXR to detect TB disease among individuals aged ≥ 15 years with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        469.8893127441406,
+        360.3226013183594,
+        491.8183898925781,
+        376.0416259765625
+      ],
+      "text": "(13) .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        492.1462097167969,
+        361.5986022949219,
+        527.4220581054688,
+        376.0416259765625
+      ],
+      "text": "Table 4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986328125,
+        469.57440185546875,
+        376.0416564941406
+      ],
+      "text": "negative or unknown HIV status was undertaken for the 2021 TB screening guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.4014282226562,
+        389.24163818359375
+      ],
+      "text": "shows that, overall, screening for cough has low sensitivity but higher specificity, while screening for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.9986267089844,
+        527.394775390625,
+        402.441650390625
+      ],
+      "text": "any TB symptom improves the sensitivity but reduces the specificity. CXR is both highly sensitive and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986389160156,
+        527.3826904296875,
+        415.64166259765625
+      ],
+      "text": "specific. mWRDs are less sensitive when used for screening than when they are used in diagnostic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        183.90591430664062,
+        428.8416748046875
+      ],
+      "text": "specific. use but are very",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.639892578125,
+        510.23052978515625,
+        457.4678955078125
+      ],
+      "text": "Table 4. Accuracy of tests in HIV-negative people aged ≥ 15 years in high-risk",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.0399169921875,
+        113.64849853515625,
+        471.867919921875
+      ],
+      "text": "groups",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.67030334472656,
+        484.42333984375,
+        513.25537109375,
+        498.93231201171875
+      ],
+      "text": "Screening tool Sensitivity Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        506.30181884765625,
+        496.5919494628906,
+        520.7448120117188
+      ],
+      "text": "Prolonged cough 42% 94%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66937255859375,
+        527.9163818359375,
+        496.5919494628906,
+        542.359375
+      ],
+      "text": "Any cough 51% 88%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66937255859375,
+        549.531005859375,
+        496.5919494628906,
+        563.9740600585938
+      ],
+      "text": "71% 64% Any TB symptom (cough, haemoptysis, fever, night sweats,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66937255859375,
+        561.531005859375,
+        131.3134002685547,
+        575.9740600585938
+      ],
+      "text": "loss) weight",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66928100585938,
+        583.1455688476562,
+        496.5919494628906,
+        597.588623046875
+      ],
+      "text": "CXR (any abnormality) 94% 89%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66937255859375,
+        604.7601318359375,
+        496.5918884277344,
+        619.2031860351562
+      ],
+      "text": "CXR (suggestive of TB) 85% 96%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        626.374755859375,
+        496.5918884277344,
+        640.8177490234375
+      ],
+      "text": "mWRD 69% 99%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.1484985351562,
+        336.3438415527344,
+        665.6524658203125
+      ],
+      "text": "CXR, chest X-ray; mWRDs, molecular WHO-recommended rapid diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.9832153320312,
+        181.4792022705078,
+        679.4871826171875
+      ],
+      "text": "The reference standard is culture.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.7283935546875,
+        527.55322265625,
+        716.17138671875
+      ],
+      "text": "In conclusion, a parallel screening algorithm based on any symptom of TB and any abnormal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.9284057617188,
+        527.6104125976562,
+        729.3713989257812
+      ],
+      "text": "CXR finding is likely to be highly sensitive. Therefore, the absence of any TB symptoms and any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.12841796875,
+        524.370849609375,
+        742.5714111328125
+      ],
+      "text": "CXR abnormality can be used to exclude pulmonary TB disease before initiating TPT among HIV-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.328369140625,
+        527.4444580078125,
+        755.7713623046875
+      ],
+      "text": "negative household contacts aged ≥ 5 years and in other risk groups. mWRDs may be useful when",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        754.5283813476562,
+        527.385009765625,
+        768.9713745117188
+      ],
+      "text": "higher specificity is desirable, such as in situations of limited capacity for confirmatory testing after",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        767.7283935546875,
+        149.24557495117188,
+        782.17138671875
+      ],
+      "text": "a positive screen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 15",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

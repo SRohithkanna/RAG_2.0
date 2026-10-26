@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 293,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.577392578125,
+        81.83369445800781
+      ],
+      "text": "an organization of the Indian Council of Medical Research (ICMR), Ministry of Health and Family",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4378662109375,
+        95.03370666503906
+      ],
+      "text": "Welfare, Government of India has initiated a Phase 3 trial – called BEAT TB, to study the efficacy and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4431762695312,
+        108.23371887207031
+      ],
+      "text": "tolerability of a combination of newer drugs for shortening the treatment for pre-XDR and XDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.3805541992188,
+        121.43373107910156
+      ],
+      "text": "in 5 sites of India. At the RBIPMT site, of which Dr Bhatnagar is the Principal Investigator for this trial,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        413.9693908691406,
+        134.6337432861328
+      ],
+      "text": "they have just completed a site initiation visit and recruitment of personnel.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.3869018554688,
+        156.3376007080078
+      ],
+      "text": "The first instalment of the grant for the initiation of this trial by NIRT Chennai has been given for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        492.8031311035156,
+        169.53773498535156
+      ],
+      "text": "recruitment of staff, equipment, laboratory reagents and patient and DOT provider support.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.83189392089844,
+        166.33932495117188,
+        198.91989135742188
+      ],
+      "text": "Evidence reviewers:",
+      "font": "SegoeUI-LightItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.97193908691406,
+        527.56494140625,
+        220.41493225097656
+      ],
+      "text": "The following experts who conducted the evidence for to inform the revision of the recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.972114562988281,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.1719512939453,
+        524.5391845703125,
+        233.6149444580078
+      ],
+      "text": "declared the below interests, which require no action beyond reporting for transparency purposes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.76580810546875,
+        527.4058837890625,
+        255.3188018798828
+      ],
+      "text": "Amrita Daftary : Columbia University Consultancy (2016–2021) – This is an ongoing consultancy to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.07582092285156,
+        527.4386596679688,
+        268.5188293457031
+      ],
+      "text": "provide qualitative expertise to the design and evaluation of an adherence intervention in people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.27581787109375,
+        527.3947143554688,
+        281.7188415527344
+      ],
+      "text": "with XDRTB-HIV in KwaZulu Natal, South Africa. Commissioned qualitative research for current GDG",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        280.475830078125,
+        527.3981323242188,
+        294.9188537597656
+      ],
+      "text": "meeting. IC-IMPACTS funded grant (2015 – 2018) – study has been completed at McGill University;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.67578125,
+        527.2098999023438,
+        308.1188049316406
+      ],
+      "text": "this was an intervention to engage pharmacy providers in Patna, India, to screen and refer TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.87579345703125,
+        527.525390625,
+        321.3188171386719
+      ],
+      "text": "symptomatic persons for a chest x-ray and doctor for timely TB detection. BMGF funded grant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.0758056640625,
+        527.3882446289062,
+        334.5188293457031
+      ],
+      "text": "(2017–2020) – This study is held at McGill University where she was based until June 2019; this is an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.27581787109375,
+        527.4146118164062,
+        347.7188415527344
+      ],
+      "text": "observational study using standardized patients to assess quality of clinical care for TB diagnosis in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.4757995605469,
+        527.445556640625,
+        360.9188232421875
+      ],
+      "text": "Cape Town and Durban, South Africa. NIH funded grant (2018 – 2020) – study is based at CAPRISA",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.6758117675781,
+        527.4378051757812,
+        374.11883544921875
+      ],
+      "text": "and Columbia University; this is an intervention to reduce XDRTB-HIV stigma in coinfected patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.87579345703125,
+        214.52503967285156,
+        387.3188171386719
+      ],
+      "text": "in KwaZulu Natal, South Africa.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.4697265625,
+        527.3884887695312,
+        409.0227355957031
+      ],
+      "text": "David Dowdy : Research grant Bill and Melinda Gates Foundation Grant to Institution (not owned",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.7796936035156,
+        527.43310546875,
+        422.22271728515625
+      ],
+      "text": "by me) approx $300,000 current year interest, approximately $50,000. Travel to meetings Bill and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.9797058105469,
+        406.8325500488281,
+        435.4227294921875
+      ],
+      "text": "Melinda Gates Foundation Travel paid for me to attend, approx. $10,000.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.5736083984375,
+        527.2056884765625,
+        457.1266174316406
+      ],
+      "text": "Gabriela Gomez : Consultant providing modelling results for an investment case on a universal",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.8836975097656,
+        527.424560546875,
+        470.32672119140625
+      ],
+      "text": "drug regimen for TB. Direct funding granted through BMGF for an amount of USD 40000. Funding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.0836181640625,
+        527.57958984375,
+        483.5266418457031
+      ],
+      "text": "concluded in 2018. Managed research grant to LSHTM for an economic evaluation of TB-PRACTECAL.",
+      "font": "SegoeUI-Light",
+      "size": 10.963789939880371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.28369140625,
+        527.595703125,
+        496.7267150878906
+      ],
+      "text": "Funding provided through MSF to research unit. Approximately £ 150 000. Her involvement stopped",
+      "font": "SegoeUI-Light",
+      "size": 10.998700141906738,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.48370361328125,
+        527.0889892578125,
+        509.9267272949219
+      ],
+      "text": "August 2019, although the project continues. In addition, a second grant from TB Alliance was granted",
+      "font": "SegoeUI-Light",
+      "size": 10.962586402893066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.68359375,
+        527.441162109375,
+        523.1265869140625
+      ],
+      "text": "to conduct an economic evaluation of the BPaL regimen. Approximately £ 60 000. Since 12 August",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.8836669921875,
+        527.4585571289062,
+        536.32666015625
+      ],
+      "text": "2019, she has been employed by Sanofi Pasteur. She is the lead for Europe in Vaccine Epidemiology",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.0836181640625,
+        527.5028076171875,
+        549.526611328125
+      ],
+      "text": "and Modelling. There is no TB vaccine in the commercial pipeline of Sanofi Pasteur to her knowledge",
+      "font": "SegoeUI-Light",
+      "size": 10.999500274658203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.28369140625,
+        527.4465942382812,
+        562.7266845703125
+      ],
+      "text": "currently. She was not representing Sanofi Pasteur at this meeting, but only presenting work done as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.4837036132812,
+        354.8807067871094,
+        575.9266967773438
+      ],
+      "text": "part of her previous position as Associate Professor at LSHTM.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.07763671875,
+        527.489501953125,
+        597.630615234375
+      ],
+      "text": "Richard Menzies : Commissioned WHO evidence reviews (2016-current) to identify, assess and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.3875732421875,
+        457.3907470703125,
+        610.83056640625
+      ],
+      "text": "synthesize the evidence for the development of guidelines for treatment of MDR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.9815063476562,
+        527.393798828125,
+        632.5344848632812
+      ],
+      "text": "Rada Savic : She received research funding from NIH, UNITAID and BMGF. Research funding to her",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.2916259765625,
+        527.4563598632812,
+        645.734619140625
+      ],
+      "text": "institution (UCSF) where she is a principal investigator. She serves on Scientific Advisory Committee",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.4915161132812,
+        527.4595947265625,
+        658.9345092773438
+      ],
+      "text": "for TB Alliance, but receives no income for that role. She is a member of Core Science Group for NIH",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.6915283203125,
+        389.5174560546875,
+        672.134521484375
+      ],
+      "text": "clinical trial network (ACTG) and for CDC clinical trial consortia (TBTC).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.4846801757812,
+        502.76373291015625,
+        706.3646850585938
+      ],
+      "text": "WHO treatment guidelines for drug-resistant TB treatment,",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.4846801757812,
+        160.63571166992188,
+        725.3646850585938
+      ],
+      "text": "2022 update",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.5687255859375,
+        527.39697265625,
+        746.01171875
+      ],
+      "text": "In conformity with WHO guidelines for declaration of interests for WHO experts issued by the WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        744.7686767578125,
+        527.392578125,
+        759.211669921875
+      ],
+      "text": "Office for Compliance and Risk Management and Ethics, members of the Guideline Development",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        757.9686889648438,
+        527.4353637695312,
+        772.4116821289062
+      ],
+      "text": "Group, External Review Group and evidence reviewers were requested to submit completed WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        416.8703918457031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 3. Declarations of interest 279",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

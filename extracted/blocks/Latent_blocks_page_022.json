@@ -1,0 +1,582 @@
+{
+  "file": "Latent",
+  "page": 22,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.185028076171875,
+        230.5824737548828,
+        69.68902587890625
+      ],
+      "text": "Rationale for the recommendation",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        73.00768280029297,
+        526.6803588867188,
+        85.80768585205078
+      ],
+      "text": "The GDG reviewed the evidence from the systematic reviews and discussed each population risk group",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.00768280029297,
+        526.6350708007812,
+        99.80768585205078
+      ],
+      "text": "identified in detail for the prevalence of LTBI, risk of progression to active TB and the incidence of active TB",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.00768280029297,
+        526.6703491210938,
+        113.80768585205078
+      ],
+      "text": "as compared with that in the general population. They concluded that the evidence shows a clear benefit of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.00768280029297,
+        351.174072265625,
+        127.80768585205078
+      ],
+      "text": "systematic testing and treatment of LTBI for people living with HIV.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.67767333984375,
+        526.6870727539062,
+        147.4776611328125
+      ],
+      "text": "Preventive treatment should be given to adults and adolescents living with HIV, regardless of their immune",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        148.67767333984375,
+        526.6533203125,
+        161.4776611328125
+      ],
+      "text": "status and whether they are on ART, given the evidence of the additional protective effect with ART. A systematic",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        162.67767333984375,
+        526.6613159179688,
+        175.4776611328125
+      ],
+      "text": "review of studies conducted before ART became available showed the value of providing preventive treatment",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.67767333984375,
+        526.6822509765625,
+        189.4776611328125
+      ],
+      "text": "immediately after successful completion of TB treatment among people living with HIV in countries with high",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.67767333984375,
+        526.649169921875,
+        203.4776611328125
+      ],
+      "text": "TB incidence  . Therefore, preventive treatment is recommended for people who were previously treated  (7, 21)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.67767333984375,
+        526.7290649414062,
+        217.4776611328125
+      ],
+      "text": "for TB. No evidence was found, however, for preventive treatment of people who had successfully completed",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.67767333984375,
+        526.6154174804688,
+        231.4776611328125
+      ],
+      "text": "treatment for multidrug-resistant (MDR) or extensively drug-resistant TB or those who are concomitantly",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.67767333984375,
+        133.0601043701172,
+        245.4776611328125
+      ],
+      "text": "receiving ART.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.34765625,
+        526.7083129882812,
+        265.14764404296875
+      ],
+      "text": "Pregnant women living with HIV are at risk for TB, which can have severe consequences for both the mother",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.34765625,
+        526.6941528320312,
+        279.14764404296875
+      ],
+      "text": "and the fetus  . As isoniazid and rifampicin, the drugs commonly used in preventive treatment, are safe for  (22)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        280.34765625,
+        526.7110595703125,
+        293.14764404296875
+      ],
+      "text": "use in pregnant women  , pregnancy should not disqualify women living with HIV from receiving preventive  (23)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.34765625,
+        496.3081970214844,
+        307.14764404296875
+      ],
+      "text": "treatment. Nevertheless, sound clinical judgement is required to determine the best time to provide it.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.01763916015625,
+        526.61328125,
+        326.817626953125
+      ],
+      "text": "There is no evidence about repeated courses of preventive treatment, and hence no recommendation is made",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.01763916015625,
+        526.6015625,
+        340.817626953125
+      ],
+      "text": "in the present guidelines. In settings with high TB transmission (as defined by local authorities), however, IPT",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        339.0710754394531,
+        341.9576416015625,
+        378.2070007324219,
+        354.88763427734375
+      ],
+      "text": "section 5",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.01763916015625,
+        526.6682739257812,
+        354.817626953125
+      ],
+      "text": "for 36 months or longer is recommended conditionally   (see  ). Clinical trials of repeated courses  (24)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        356.01763916015625,
+        427.0941162109375,
+        368.817626953125
+      ],
+      "text": "of preventive treatment are lacking and will be essential for updating these guidelines.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.9745178222656,
+        297.71478271484375,
+        400.7575378417969
+      ],
+      "text": "2.2\t Infants and children living with HIV",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        419.4005126953125,
+        503.3910217285156,
+        431.6745300292969
+      ],
+      "text": "Infants aged < 12 months living with HIV who are in contact with a case of TB and are investigated for",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        431.3990173339844,
+        497.1201171875,
+        443.67303466796875
+      ],
+      "text": "TB should receive 6 months of isoniazid preventive treatment (IPT) if the investigation shows no TB",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        443.39752197265625,
+        439.13287353515625,
+        455.6715393066406
+      ],
+      "text": "disease.  (Strong recommendation, moderate-quality evidence. Updated recommendation)",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        461.0675354003906,
+        507.16827392578125,
+        473.4935302734375
+      ],
+      "text": "Children aged   12 months living with HIV who are considered unlikely to have TB disease on the basis  ≥",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        473.0660400390625,
+        500.5780334472656,
+        485.3400573730469
+      ],
+      "text": "of screening for symptoms and who have no contact with a case of TB should be offered 6 months of",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        485.0645446777344,
+        503.7984924316406,
+        497.33856201171875
+      ],
+      "text": "IPT as part of a comprehensive package of HIV prevention and care if they live in a setting with a high",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        497.06304931640625,
+        449.5297546386719,
+        509.3370666503906
+      ],
+      "text": "prevalence of TB.  (Strong recommendation, low-quality evidence. Existing recommendation)",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        514.7330932617188,
+        494.01177978515625,
+        527.007080078125
+      ],
+      "text": "All children living with HIV who have successfully completed treatment for TB disease may receive",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        526.7315673828125,
+        475.9731750488281,
+        539.0055541992188
+      ],
+      "text": "isoniazid for an additional 6 months.  (Conditional recommendation, low-quality evidence. Existing",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        538.7300415039062,
+        164.4452667236328,
+        551.0040283203125
+      ],
+      "text": "recommendation)",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        555.8859252929688,
+        485.76416015625,
+        567.4058837890625
+      ],
+      "text": "Source of existing and updated recommendations: Guidelines for intensified tuberculosis case-finding and",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        566.8839721679688,
+        503.69866943359375,
+        578.4039306640625
+      ],
+      "text": "isoniazid preventive therapy for people living with HIV in resource-constrained settings. Geneva; World Health",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        577.8819580078125,
+        469.4668884277344,
+        589.4019165039062
+      ],
+      "text": "Organization; 2011 (http://apps.who.int/iris/bitstream/10665/44472/1/9789241500708_eng.pdf).",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.0670776367188,
+        174.2017364501953,
+        634.571044921875
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.8896484375,
+        526.6102905273438,
+        650.6896362304688
+      ],
+      "text": "A systematic review conducted for the previous guidelines included two studies conducted in South Africa.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.8896484375,
+        526.6871948242188,
+        664.6896362304688
+      ],
+      "text": "One suggested a considerable reduction in mortality and protection against TB among HIV-infected children",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.8896484375,
+        526.658203125,
+        678.6896362304688
+      ],
+      "text": "who received isoniazid for 6 months  . The other RCT, however, showed no benefit of preventive treatment  (25)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        679.8896484375,
+        526.5921630859375,
+        692.6896362304688
+      ],
+      "text": "in HIV-infected infants with no known exposure to a TB case who were identified in the first 3–4 months of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        693.8896484375,
+        518.6860961914062,
+        706.6896362304688
+      ],
+      "text": "life, given rapid access to ART and carefully monitored every month for new exposure to TB or disease  .  (26)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        713.5596313476562,
+        526.5621337890625,
+        726.359619140625
+      ],
+      "text": "Few RCTs included children on ART. In one trial of 167 children on ART, the incidence of TB was lower in those",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        727.5596313476562,
+        526.7000732421875,
+        740.359619140625
+      ],
+      "text": "given preventive treatment than in those who were not, but the difference was not statistically significant",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        741.5596313476562,
+        526.6640014648438,
+        754.359619140625
+      ],
+      "text": "(incidence rate ratio 0.51, 95% CI 0.15;1.75)  . A cohort study suggested an additive protective effect of  (27)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85606384277344,
+        755.5596313476562,
+        288.55609130859375,
+        768.359619140625
+      ],
+      "text": "preventive treatment in children receiving ART  .  (28)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.35879898071289,
+        790.2608032226562,
+        56.686798095703125,
+        810.61279296875
+      ],
+      "text": "10",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

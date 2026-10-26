@@ -1,0 +1,858 @@
+{
+  "file": "module5",
+  "page": 95,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        78.23609924316406,
+        81.83369445800781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        67.39069366455078,
+        405.7425842285156,
+        81.83369445800781
+      ],
+      "text": "Specific cost-effectiveness studies on the use of delamanid in children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        78.23609924316406,
+        95.03370666503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        80.59070587158203,
+        527.4037475585938,
+        95.03370666503906
+      ],
+      "text": "Studies exploring mechanisms of acquisition of resistance to delamanid and genetic markers to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        93.79071807861328,
+        166.76409912109375,
+        108.23371887207031
+      ],
+      "text": "identify resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        78.23609924316406,
+        121.43373107910156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        106.99073028564453,
+        527.2022094726562,
+        121.43373107910156
+      ],
+      "text": "Studies exploring the optimization of the duration of delamanid use in children related to PK",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        120.19074249267578,
+        131.31210327148438,
+        134.6337432861328
+      ],
+      "text": "and safety.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.34930419921875,
+        516.5629272460938,
+        159.0133056640625
+      ],
+      "text": "Treatment of presumed or bacteriologically confirmed drug-susceptible TB meningitis",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.34930419921875,
+        212.3916778564453,
+        172.0133056640625
+      ],
+      "text": "in children and adolescents",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.23329162597656,
+        78.23609924316406,
+        193.67628479003906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        179.23329162597656,
+        513.3201293945312,
+        193.67628479003906
+      ],
+      "text": "Comparative efficacy and safety data on the short intensive and standard treatment regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.4333038330078,
+        78.23609924316406,
+        206.8762969970703
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        192.4333038330078,
+        527.4268798828125,
+        206.8762969970703
+      ],
+      "text": "Dosing for the shorter intensive regimen and for alternative regimens under research, including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        205.63331604003906,
+        460.9269714355469,
+        220.07630920410156
+      ],
+      "text": "regimens that include higher doses of medicines than are currently recommended.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.8332061767578,
+        78.23609924316406,
+        233.2761993408203
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        218.8332061767578,
+        527.3043823242188,
+        233.2761993408203
+      ],
+      "text": "Considerations regarding equity including equitable access to medicines in the short",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        232.03334045410156,
+        166.09698486328125,
+        246.47633361816406
+      ],
+      "text": "intensive regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.23329162597656,
+        78.23609924316406,
+        259.6763000488281
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        245.23329162597656,
+        422.59857177734375,
+        259.6763000488281
+      ],
+      "text": "Cost-effectiveness of shorter regimens versus the current standard of care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.43328857421875,
+        78.23609924316406,
+        272.8763122558594
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        258.43328857421875,
+        383.4501953125,
+        272.8763122558594
+      ],
+      "text": "Feasibility and acceptability of regimens for the treatment of TBM.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.63330078125,
+        78.23609924316406,
+        286.0763244628906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        271.63330078125,
+        527.4389038085938,
+        286.0763244628906
+      ],
+      "text": "Research on the sequelae of TBM (including the type and severity of sequelae and the ability to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        284.83319091796875,
+        524.3995971679688,
+        299.2762145996094
+      ],
+      "text": "prevent or manage them) as well as objective measures of quality of life/functionality post-treatment.",
+      "font": "SegoeUI-Light",
+      "size": 10.946770668029785,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.0333251953125,
+        78.23609924316406,
+        312.4763488769531
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        298.0333251953125,
+        527.5975952148438,
+        312.4763488769531
+      ],
+      "text": "Co-administration of anti-inflammatory agents in the treatment of children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        311.2332763671875,
+        127.94190979003906,
+        325.6763000488281
+      ],
+      "text": "with TBM.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.4333190917969,
+        78.23609924316406,
+        338.8763427734375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        324.4333190917969,
+        299.63067626953125,
+        338.8763427734375
+      ],
+      "text": "Optimal regimens to treat TBM among CALHIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.41583251953125,
+        330.93609619140625,
+        365.267822265625
+      ],
+      "text": "Models of TB care for children and adolescents",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.930419921875,
+        514.0070190429688,
+        389.59442138671875
+      ],
+      "text": "Decentralization of TB services for children and adolescents with signs and symptoms",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.930419921875,
+        342.9732360839844,
+        402.59442138671875
+      ],
+      "text": "of TB and for children and adolescents exposed to TB",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.81439208984375,
+        78.23609924316406,
+        424.2574157714844
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        409.81439208984375,
+        489.91778564453125,
+        424.2574157714844
+      ],
+      "text": "Cost-effectiveness of decentralization/integration for case detection and provision of TPT.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.014404296875,
+        78.23609924316406,
+        437.4574279785156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        423.014404296875,
+        331.9751892089844,
+        437.4574279785156
+      ],
+      "text": "Impact of decentralization of services on health equity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.21429443359375,
+        78.23609924316406,
+        450.6573181152344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        436.21429443359375,
+        527.4379272460938,
+        450.6573181152344
+      ],
+      "text": "Acceptability and feasibility of decentralized approaches to child and adolescent TB care for case",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        449.4143981933594,
+        229.46592712402344,
+        463.857421875
+      ],
+      "text": "detection and for TPT provision.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.572998046875,
+        480.79229736328125,
+        488.23699951171875
+      ],
+      "text": "Family-centred, integrated services for children and adolescents with signs and",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.572998046875,
+        399.7452697753906,
+        501.23699951171875
+      ],
+      "text": "symptoms of TB and for children and adolescents exposed to TB",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.4569091796875,
+        78.23609924316406,
+        522.89990234375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        508.4569091796875,
+        527.566162109375,
+        522.89990234375
+      ],
+      "text": "Detailed description of currently operating family-centred and integrated services; associated costs",
+      "font": "SegoeUI-Light",
+      "size": 10.977627754211426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        521.6568603515625,
+        185.9492645263672,
+        536.099853515625
+      ],
+      "text": "and cost-effectiveness.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.85693359375,
+        78.23609924316406,
+        549.2999267578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        534.85693359375,
+        527.3837890625,
+        549.2999267578125
+      ],
+      "text": "Implementation research on the components of these interventions; assessment of real-world",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        548.056884765625,
+        258.6875915527344,
+        562.4998779296875
+      ],
+      "text": "implementation of these programmes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.2568969726562,
+        78.23609924316406,
+        575.6998901367188
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        561.2568969726562,
+        527.5929565429688,
+        575.6998901367188
+      ],
+      "text": "Feasibility and acceptability of family-centred, integrated and/or decentralized approaches to child",
+      "font": "SegoeUI-Light",
+      "size": 10.983488082885742,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        574.4569091796875,
+        527.2203369140625,
+        588.89990234375
+      ],
+      "text": "and adolescent TB care for case detection and TPT provision in different settings, from person with",
+      "font": "SegoeUI-Light",
+      "size": 10.988093376159668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        587.6569213867188,
+        265.73822021484375,
+        602.0999145507812
+      ],
+      "text": "TB, caregiver and provider perspectives.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.85693359375,
+        78.23609924316406,
+        615.2999267578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        600.85693359375,
+        214.8200225830078,
+        615.2999267578125
+      ],
+      "text": "Costs and catastrophic costs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.056884765625,
+        78.23609924316406,
+        628.4998779296875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        614.056884765625,
+        527.5916748046875,
+        628.4998779296875
+      ],
+      "text": "Cost-effectiveness evaluations of family-centred, integrated and/or decentralized approaches,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        627.2568969726562,
+        527.399169921875,
+        641.6998901367188
+      ],
+      "text": "considering currently available resources (some models assume that these interventions are built",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        640.4569091796875,
+        316.3245544433594,
+        654.89990234375
+      ],
+      "text": "upon existing structures that may not be available).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.6569213867188,
+        78.23609924316406,
+        668.0999145507812
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        653.6569213867188,
+        527.4266967773438,
+        668.0999145507812
+      ],
+      "text": "Outcomes of interest: initiation of TPT; number of additional children and adolescents diagnosed;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        666.85693359375,
+        527.355224609375,
+        681.2999267578125
+      ],
+      "text": "delay, retention in care, treatment completion, clinical outcomes (such as treatment success);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        680.056884765625,
+        478.2303466796875,
+        694.4998779296875
+      ],
+      "text": "qualitative research related stigma, mental health outcome, school interruption, equity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.2568969726562,
+        78.23609924316406,
+        707.6998901367188
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        693.2568969726562,
+        524.396728515625,
+        707.6998901367188
+      ],
+      "text": "Evaluation of outcomes of interest using randomized/non-randomized designs and qualitative design.",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        706.4569091796875,
+        78.23609924316406,
+        720.89990234375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        706.4569091796875,
+        527.5365600585938,
+        720.89990234375
+      ],
+      "text": "Baseline needs assessment in the community, community perceptions regarding TB care and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        719.6569213867188,
+        266.8045959472656,
+        734.0999145507812
+      ],
+      "text": "prevention for children and adolescents.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.85693359375,
+        78.23609924316406,
+        747.2999267578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        732.85693359375,
+        527.2508544921875,
+        747.2999267578125
+      ],
+      "text": "Research on the quality of TB diagnosis in children – addressing both under-diagnosis and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        746.056884765625,
+        151.82400512695312,
+        760.4998779296875
+      ],
+      "text": "over-diagnosis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        455.54620361328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "8. Research priorities 71",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "file": "common childhood",
+  "page": 34,
+  "blocks": [
+    {
+      "bbox": [
+        113.12979888916016,
+        27.289522171020508,
+        340.4130554199219,
+        35.34652328491211
+      ],
+      "text": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        60.173309326171875,
+        289.2439270019531,
+        73.36231231689453
+      ],
+      "text": "4.25\t Oxygen therapy in treatment of hypoxaemia",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        76.79890441894531,
+        354.5827941894531,
+        90.28890228271484
+      ],
+      "text": "a)\t Children with hypoxaemia should receive appropriate oxygen therapy.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        92.20362091064453,
+        252.91282653808594,
+        106.12361907958984
+      ],
+      "text": "(Strong recommendation, low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        108.46821594238281,
+        399.113037109375,
+        121.95821380615234
+      ],
+      "text": "b)\tEffective oxygen delivery systems should be a universal standard of care, and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        121.46821594238281,
+        225.84153747558594,
+        134.95822143554688
+      ],
+      "text": "should be made more widely available.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        136.8729248046875,
+        229.02288818359375,
+        150.79293823242188
+      ],
+      "text": "(Strong recommendation, expert opinion)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        163.68508911132812,
+        294.38092041015625,
+        176.87408447265625
+      ],
+      "text": "4.26\t Thresholds for administering oxygen therapy",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        180.3107147216797,
+        399.1427917480469,
+        193.80072021484375
+      ],
+      "text": "a)\t Administering oxygen therapy should be guided by pulse oximetry where available",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        193.3107147216797,
+        349.9315185546875,
+        206.80072021484375
+      ],
+      "text": "and thresholds for giving oxygen may vary depending on the altitude.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        208.71539306640625,
+        272.92279052734375,
+        222.63540649414062
+      ],
+      "text": "(Strong recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        224.97999572753906,
+        399.0928955078125,
+        238.47000122070312
+      ],
+      "text": "b)\tChildren living at ≤ 2500 m above sea level should receive oxygen therapy if their",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        237.97999572753906,
+        308.79150390625,
+        251.47000122070312
+      ],
+      "text": "oxygen saturation is ≤ 90%, as measured by pulse oximetry.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        253.38458251953125,
+        272.92279052734375,
+        267.3045959472656
+      ],
+      "text": "(Strong recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        269.6492919921875,
+        399.0529479980469,
+        283.1393127441406
+      ],
+      "text": "c)\t In children living at high altitude (> 2500m above sea level), the normal oxygen",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        282.6492919921875,
+        399.0715026855469,
+        296.1393127441406
+      ],
+      "text": "saturation is lower than those living at sea level. At these altitudes, a lower level of",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        295.6492919921875,
+        388.9635925292969,
+        309.1393127441406
+      ],
+      "text": "saturation, such as SpO  ≤ 87%, could be used as a threshold for giving oxygen.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        162.8636932373047,
+        302.935302734375,
+        165.7436981201172,
+        311.029296875
+      ],
+      "text": "2",
+      "font": "MinionPro-Regular",
+      "size": 6.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        311.0539855957031,
+        246.4027862548828,
+        324.9739990234375
+      ],
+      "text": "(Recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        337.8662109375,
+        205.99595642089844,
+        351.0552062988281
+      ],
+      "text": "4.27\t Oxygen delivery methods",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        354.4917907714844,
+        399.1329345703125,
+        367.9818115234375
+      ],
+      "text": "a)\t Nasal prongs are the preferred method for delivering oxygen in infants and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        367.4917907714844,
+        376.94140625,
+        380.9818115234375
+      ],
+      "text": "children under 5 years of age with hypoxaemia who require oxygen therapy.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        382.896484375,
+        277.7628173828125,
+        396.8164978027344
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        399.1611022949219,
+        399.0529479980469,
+        412.651123046875
+      ],
+      "text": "b)\tWhere nasal prongs are not available, nasal or nasopharyngeal catheters could",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        412.1611022949219,
+        399.0514831542969,
+        425.651123046875
+      ],
+      "text": "be used as alternative delivery methods. Face masks or head-boxes are not",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        425.16107177734375,
+        128.89151000976562,
+        438.6510925292969
+      ],
+      "text": "recommended.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        440.5657958984375,
+        277.7628173828125,
+        454.4858093261719
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        467.3780212402344,
+        311.7279052734375,
+        480.5670166015625
+      ],
+      "text": "4.28\t Criteria for starting and stopping oxygen therapy",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        484.00360107421875,
+        384.3828430175781,
+        497.4936218261719
+      ],
+      "text": "a)\t Children with hypoxaemia should be closely monitored using pulse oximetry.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        499.4082946777344,
+        272.92279052734375,
+        513.3283081054688
+      ],
+      "text": "(Strong recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        515.6728515625,
+        399.0628967285156,
+        529.162841796875
+      ],
+      "text": "b)\tOxygen therapy should be discontinued when oxygen saturation remains stable",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        528.6728515625,
+        399.0914001464844,
+        542.162841796875
+      ],
+      "text": "above recommended levels of 90% (≤ 2500M above sea level) or 87% (> 2500M",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        541.6728515625,
+        380.99151611328125,
+        555.162841796875
+      ],
+      "text": "above sea level) for at least 15 minutes on room air in a clinically stable child.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        557.0775756835938,
+        272.92279052734375,
+        570.99755859375
+      ],
+      "text": "(Strong recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.4114990234375,
+        644.9403076171875,
+        230.6284942626953,
+        655.2992553710938
+      ],
+      "text": "20",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

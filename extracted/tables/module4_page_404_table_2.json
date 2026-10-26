@@ -1,0 +1,96 @@
+{
+  "file": "module4",
+  "page": 404,
+  "table_id": 2,
+  "bbox": [
+    143.1494903564453,
+    256.16400146484375,
+    574.0250299627131,
+    507.6187235514323
+  ],
+  "heading": null,
+  "n_rows": 10,
+  "n_cols": 6,
+  "data": [
+    [
+      "Outcomes",
+      "№ of participants (studies) Follow-up",
+      "Certainty of the evidence (GRADE)",
+      "Relative effect (95% CI)",
+      "Anticipated absolute effects* (95% CI)",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Risk with currently recommended longer WHO regimens",
+      "Risk difference with a 9-month regimen using delamanid, clofazimine, moxifloxacin, and pyrazinamide (DCMZ)"
+    ],
+    [
+      "Death 226 RR 0.83 follow-up: 104 weeks (1 RCT) Very lowa,b (0.19 to 3.64)",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "34 per 1,000",
+      "6 fewer per 1,000 (51 fewer to 39 more)"
+    ],
+    [
+      "Lost to Follow-up 226 RR 0.22 assessed with: discontinuation of (1 RCT) Lowa,c (0.08 to treatment, consent withdrawal, 0.63) use of prohibited concomitant, or outcomes not assessable after treatment completion follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "168 per 1,000",
+      "131 fewer per 1,000 (207 fewer to 54 fewer)"
+    ],
+    [
+      "Adverse Events 246 RR 0.92 assessed with: any Grade 3-5 (1 RCT) Very lowa,d (0.76 to adverse event during treatment 1.12) and follow-up follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "651 per 1,000",
+      "51 fewer per 1,000 (172 fewer to 70 more)"
+    ],
+    [
+      "Adverse Events 246 RR 0.92 assessed with: participants with (1 RCT) Very lowa,e (0.54 to one or more serious adverse 1.56) events follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "190 per 1,000",
+      "15 fewer per 1,000 (112 fewer to 81 more)"
+    ]
+  ]
+}

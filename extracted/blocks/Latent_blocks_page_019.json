@@ -1,0 +1,606 @@
+{
+  "file": "Latent",
+  "page": 19,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.572994232177734,
+        281.7030944824219,
+        67.37299346923828
+      ],
+      "text": "The following seven key questions were identified:",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        74.24297332763672,
+        526.7371215820312,
+        87.04297637939453
+      ],
+      "text": "1.\t PICO 1: What is the prevalence of LTBI, risk of progression to active TB and cumulative prevalence of active",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03609466552734,
+        88.24297332763672,
+        492.3311767578125,
+        101.04297637939453
+      ],
+      "text": "TB among household contacts without HIV in different age groups in high TB incidence countries?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        107.91295623779297,
+        526.6661987304688,
+        120.71295928955078
+      ],
+      "text": "2.\t PICO 2: What is the accuracy of WHO symptomatic screening to exclude active TB in individuals with HIV",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03609466552734,
+        121.91295623779297,
+        228.86611938476562,
+        134.71295166015625
+      ],
+      "text": "on antiretroviral treatment (ART)?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.58294677734375,
+        526.690185546875,
+        154.3829345703125
+      ],
+      "text": "3.\t PICO 3: What is the accuracy of symptomatic screening and/or chest x-ray to exclude active TB in contacts",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03609466552734,
+        155.58294677734375,
+        367.0521240234375,
+        168.3829345703125
+      ],
+      "text": "of pulmonary TB cases without HIV in high TB incidence countries?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        175.250244140625,
+        526.666259765625,
+        188.05291748046875
+      ],
+      "text": "Could Interferon-gamma release assays be used as an alternative to tuberculin skin tests to  4.\t PICO 4: 1",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03709411621094,
+        189.250244140625,
+        496.0601806640625,
+        202.05023193359375
+      ],
+      "text": "identify individuals most at risk of progression from LTBI to active TB in high TB incidence settings?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        208.92022705078125,
+        526.6661987304688,
+        221.72021484375
+      ],
+      "text": "5.\t PICO 5: Should 3-month daily rifampicin plus isoniazid be offered as a preventive treatment option for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03709411621094,
+        222.92022705078125,
+        526.7064819335938,
+        235.72021484375
+      ],
+      "text": "children and adolescents less than 15 years of age as an alternative to 6 or 9 months isoniazid monotherapy",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03709411621094,
+        236.92022705078125,
+        214.23910522460938,
+        249.72021484375
+      ],
+      "text": "in high TB incidence countries?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        256.5902099609375,
+        526.6951293945312,
+        269.39019775390625
+      ],
+      "text": "6.\t PICO 6: Should 3-month weekly rifapentine and isoniazid be offered as an alternative regimen to isoniazid",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03709411621094,
+        270.5902099609375,
+        361.33514404296875,
+        283.39019775390625
+      ],
+      "text": "monotherapy for treatment of LTBI in high TB incidence countries?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        290.26019287109375,
+        524.3861694335938,
+        303.0601806640625
+      ],
+      "text": "7.\t PICO 7: Should preventive treatment be recommended for contacts of patients with multidrug resistant /",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03709411621094,
+        304.26019287109375,
+        184.23912048339844,
+        317.0601806640625
+      ],
+      "text": "rifampicin resistant-TB?",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        323.9302062988281,
+        526.73046875,
+        336.7301940917969
+      ],
+      "text": "A list of potential outcomes of interest for each question was circulated to all members of the GDG, who",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        337.9302062988281,
+        526.7073974609375,
+        350.7301940917969
+      ],
+      "text": "scored the importance of each outcome on a scale of 1 to 9: 1–3: not important; 4–6: important; and 7–9:",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        351.9302062988281,
+        526.6173706054688,
+        364.7301940917969
+      ],
+      "text": "critical. The average of the scores for each outcome was used to prioritize the outcome and to select the most",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        365.9302062988281,
+        526.7194213867188,
+        378.7301940917969
+      ],
+      "text": "important outcomes for each PICO question. The outcomes selected for each question and the scores for their",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        190.87612915039062,
+        379.8702087402344,
+        260.5271301269531,
+        392.8002014160156
+      ],
+      "text": "Annexes 1 and 2",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        379.9302062988281,
+        265.3871154785156,
+        392.7301940917969
+      ],
+      "text": "importance are presented in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        399.6002197265625,
+        526.615234375,
+        412.40020751953125
+      ],
+      "text": "Seven new or updated systematic reviews were conducted for these guidelines. The existing recommendations",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        413.6002197265625,
+        526.6970825195312,
+        426.40020751953125
+      ],
+      "text": "were discussed in the GDG and updated, as appropriate, including for clarity, as deemed necessary. Furthermore,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        427.6002197265625,
+        526.720458984375,
+        440.40020751953125
+      ],
+      "text": "an online survey was conducted to determine the preferences and values of affected populations for the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        163.3170928955078,
+        441.54022216796875,
+        198.94308471679688,
+        454.47021484375
+      ],
+      "text": "Annex 3",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        441.6002197265625,
+        526.6092529296875,
+        454.40020751953125
+      ],
+      "text": "management of LTBI ( ). A series of virtual meetings, co-chaired by a technical expert and a guideline",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        455.6002197265625,
+        526.6892700195312,
+        468.40020751953125
+      ],
+      "text": "methodologist, were organized to appraise the evidence for each PICO and formulate recommendations. The",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        469.6002197265625,
+        526.6401977539062,
+        482.40020751953125
+      ],
+      "text": "“evidence-to-decision” tables developed on the “GRADEpro interface” were used to guide discussions on",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        483.6002197265625,
+        526.6741943359375,
+        496.40020751953125
+      ],
+      "text": "benefits and harm, the quality of the evidence, cost, feasibility, acceptability, equity, values and preferences",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        497.6002197265625,
+        526.7243041992188,
+        510.40020751953125
+      ],
+      "text": ". The recommendations and their strength were determined by the GDG on the basis of these factors.  (14)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        511.6002197265625,
+        526.6715087890625,
+        524.4002075195312
+      ],
+      "text": "The guideline methodologist facilitated the discussions in order to reach consensus, which was defined as",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        525.6002197265625,
+        526.6630859375,
+        538.4002075195312
+      ],
+      "text": "unanimous or majority agreement. Recommendations from existing WHO guidelines were initially assessed",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        539.6002197265625,
+        526.6683959960938,
+        552.4002075195312
+      ],
+      "text": "by the steering group and were later discussed and approved by the GDG. Valid recommendations that did",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        553.6002197265625,
+        526.7203369140625,
+        566.4002075195312
+      ],
+      "text": "not require updating were also included. The guidelines and the supporting documents were reviewed and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        567.6002197265625,
+        526.6422729492188,
+        580.4002075195312
+      ],
+      "text": "endorsed by all GDG members. Remarks from the external review group were evaluated by the steering group",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        581.6002197265625,
+        301.12603759765625,
+        594.4002075195312
+      ],
+      "text": "for incorporation into the final version of the guidelines.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        601.2702026367188,
+        526.6904296875,
+        614.0701904296875
+      ],
+      "text": "There are 10 existing, 7 updated and 7 new recommendations. The GRADE (grading of recommendations,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        615.2702026367188,
+        526.7022094726562,
+        628.0701904296875
+      ],
+      "text": "assessment, development and evaluation) tables for the seven new recommendations are presented in Annex",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        629.2702026367188,
+        526.650390625,
+        642.0701904296875
+      ],
+      "text": "1. The detailed evidence-to-decision tables for each PICO and the results of the systematic reviews are shown",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.68710327148438,
+        643.210205078125,
+        338.5912170410156,
+        656.1401977539062
+      ],
+      "text": "Annex 2 Annex 3",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86709594726562,
+        643.2702026367188,
+        343.22711181640625,
+        656.0701904296875
+      ],
+      "text": "in   and the survey on values and preferences in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.2247924804688,
+        420.7922058105469,
+        688.0078125
+      ],
+      "text": "1.6\t Quality of evidence and strength of the recommendations",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.9429931640625,
+        526.6152954101562,
+        706.7429809570312
+      ],
+      "text": "The quality of evidence and the strength of the recommendations were assessed with the GRADE method",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.9429931640625,
+        526.5991821289062,
+        720.7429809570312
+      ],
+      "text": ". In this process, the quality of a body of evidence is defined as the degree of confidence that the estimates  (15)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.9429931640625,
+        526.624267578125,
+        734.7429809570312
+      ],
+      "text": "of effect (desirable or undesirable) are close to the actual effects of interest. The usefulness of an estimate of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.9277954101562,
+        526.1748657226562,
+        763.1677856445312
+      ],
+      "text": "This PICO was not included in the original scoping document submitted to the WHO Guidelines Review Committee but was added  1",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        762.9277954101562,
+        449.6157531738281,
+        773.1677856445312
+      ],
+      "text": "later at the suggestion of the GDG and in agreement with the Secretariat of the guidelines review committee.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        547.1427001953125,
+        810.61279296875
+      ],
+      "text": "7",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        465.0736083984375,
+        796.524658203125,
+        524.4097900390625,
+        805.5686645507812
+      ],
+      "text": "1. INTRODUCTION",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

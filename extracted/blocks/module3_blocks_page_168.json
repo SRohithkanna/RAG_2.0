@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 168,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        221.5032958984375,
+        85.31422424316406
+      ],
+      "text": "Resource requirements",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.06519317626953,
+        440.2950744628906,
+        107.21018981933594
+      ],
+      "text": "In relation to resource requirements, the following questions are answered:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        113.81720733642578,
+        78.81909942626953,
+        126.96220397949219
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        113.81720733642578,
+        410.876953125,
+        126.96220397949219
+      ],
+      "text": "How large are the resource requirements for test implementation?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.31719970703125,
+        78.81909942626953,
+        142.4622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        129.31719970703125,
+        415.2982482910156,
+        142.4622039794922
+      ],
+      "text": "What is the certainty of the evidence about resource requirements?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.81719970703125,
+        78.81909942626953,
+        157.9622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        144.81719970703125,
+        524.410400390625,
+        157.9622039794922
+      ],
+      "text": "Does the cost–effectiveness of the intervention favour the intervention or the comparison?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.1634063720703,
+        192.1369171142578,
+        189.5434112548828
+      ],
+      "text": "Cost–effectiveness",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.79443359375,
+        388.9150085449219,
+        212.93943786621094
+      ],
+      "text": "Available evidence on cost–effectiveness is evaluated and scored.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.30592346191406,
+        112.7667007446289,
+        241.68592834472656
+      ],
+      "text": "Equity",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.9368896484375,
+        526.765625,
+        265.0819091796875
+      ],
+      "text": "GDG members consider whether implementing the tool or method will positively or negatively",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977827072143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.4368896484375,
+        526.9633178710938,
+        280.5819091796875
+      ],
+      "text": "affect access to health care (e.g. will it be possible to implement the test in distinct levels of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.9368896484375,
+        527.0733032226562,
+        296.0819091796875
+      ],
+      "text": "health care or through self-administration, or are there other ways to make the tools or method",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959826469421387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.4368896484375,
+        302.180908203125,
+        311.5819091796875
+      ],
+      "text": "available to all levels of the health care system).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.94842529296875,
+        156.2059326171875,
+        340.3283996582031
+      ],
+      "text": "Acceptability",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.57940673828125,
+        526.965576171875,
+        363.72442626953125
+      ],
+      "text": "In terms of acceptability, the panel considers whether the tool or method will be acceptable",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.07940673828125,
+        475.0884704589844,
+        379.22442626953125
+      ],
+      "text": "by all relevant stakeholders, such as health workers, health managers and patients.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.5910339355469,
+        136.2740936279297,
+        407.97100830078125
+      ],
+      "text": "Feasibility",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.221923828125,
+        527.055908203125,
+        431.366943359375
+      ],
+      "text": "The GDG considers how feasible it is to implement a tool or method in various settings. Aspects",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975522994995117,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.721923828125,
+        526.991943359375,
+        446.866943359375
+      ],
+      "text": "such as training and refresher training needs, hands-on time, biosafety requirements, time to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.221923828125,
+        526.9666137695312,
+        462.366943359375
+      ],
+      "text": "results, service and maintenance, calibration, and effect on diagnostic algorithms are all taken",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.721923828125,
+        218.26380920410156,
+        477.866943359375
+      ],
+      "text": "into account in the final score.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.7259216308594,
+        526.9615478515625,
+        501.8709411621094
+      ],
+      "text": "For more details on the transition from evidence to recommendations, see  :  Web Annex 3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.2259521484375,
+        202.64390563964844,
+        517.3709716796875
+      ],
+      "text": ". Evidence to decision tables",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.8250732421875,
+        270.6606140136719,
+        556.131103515625
+      ],
+      "text": "Reference for Annex 1",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.2030029296875,
+        526.9620361328125,
+        578.3480224609375
+      ],
+      "text": "1.\t Schünemann HJ, Oxman AD, Brozek J, Glasziou P, Jaeschke R, Vist GE et al. Grading quality",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        580.7030029296875,
+        526.7442016601562,
+        593.8480224609375
+      ],
+      "text": "of evidence and strength of recommendations for diagnostic tests and strategies. BMJ.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        596.2030029296875,
+        204.7633056640625,
+        609.3480224609375
+      ],
+      "text": "2008;336:1106–10. doi:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.76119995117188,
+        596.2030029296875,
+        438.2801513671875,
+        609.3480224609375
+      ],
+      "text": "https://doi.org/10.1136/bmj.39500.677199.AE",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        438.27630615234375,
+        596.2030029296875,
+        440.8503112792969,
+        609.3480224609375
+      ],
+      "text": ".",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.20703125,
+        526.9310913085938,
+        633.35205078125
+      ],
+      "text": "2.\t Handbook for guideline development 2nd ed. Geneva: World Health Organization; 2014",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        635.70703125,
+        88.55929565429688,
+        648.85205078125
+      ],
+      "text": "(",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.55919647216797,
+        635.70703125,
+        327.8861083984375,
+        648.85205078125
+      ],
+      "text": "https://apps.who.int/iris/handle/10665/145714",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        327.88238525390625,
+        635.70703125,
+        333.97637939453125,
+        648.85205078125
+      ],
+      "text": ").",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "152 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "file": "module2",
+  "page": 44,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4387817382812,
+        81.83369445800781
+      ],
+      "text": "CXR alone was found to have similar sensitivity to and similar or higher specificity than the W4SS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.408935546875,
+        95.03370666503906
+      ],
+      "text": "across all subpopulations. When combined in a sequence whereby CXR followed a positive W4SS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4379272460938,
+        108.23371887207031
+      ],
+      "text": "screen, CXR had a lower or similar sensitivity with higher or similar specificity. When combined and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        484.4587097167969,
+        106.88072967529297,
+        518.93798828125,
+        121.23573303222656
+      ],
+      "text": "Table 7",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.982135772705078,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.4133911132812,
+        121.43373107910156
+      ],
+      "text": "used in parallel with the W4SS, it had a higher or similar sensitivity and similar specificity (see  ).",
+      "font": "SegoeUI-Light",
+      "size": 10.982135772705078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.406982421875,
+        134.6337432861328
+      ],
+      "text": "The IPD meta-analysis found this strategy to have the highest sensitivity (0.85; 95% CI: 0.69–0.94)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.429931640625,
+        147.8336944580078
+      ],
+      "text": "compared with the W4SS (0.53; 95% CI: 0.36–0.69) and the other tools and strategies assessed for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.455322265625,
+        161.03370666503906
+      ],
+      "text": "TB screening in outpatients on ART. While the data were limited for inpatients living with HIV, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.3792724609375,
+        174.2337188720703
+      ],
+      "text": "combined strategy of CXR and the W4SS had a very low specificity (0.07; 95% CI: 0.03–0.19), similar",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.8807373046875,
+        410.5281982421875,
+        187.43373107910156
+      ],
+      "text": "Web Annex C to findings for using CRP or the W4SS alone (see  , Table 7).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.17991638183594,
+        510.9613037109375,
+        216.04791259765625
+      ],
+      "text": "Table 7. Diagnostic accuracy among different subpopulations of people living with",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.57994079589844,
+        522.8654174804688,
+        230.44793701171875
+      ],
+      "text": "HIV of the WHO-recommended four-symptom screen combined with chest X-ray (any",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.9799041748047,
+        526.5602416992188,
+        244.847900390625
+      ],
+      "text": "abnormality) compared with culture as the reference standard and using a positive or",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.3799285888672,
+        288.27972412109375,
+        259.2479248046875
+      ],
+      "text": "abnormal result on either screen or both",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        240.11790466308594,
+        274.89990234375,
+        508.74676513671875,
+        289.40887451171875
+      ],
+      "text": "No. of studies (no.  Sensitivity  Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        280.89990234375,
+        134.3657989501953,
+        295.40887451171875
+      ],
+      "text": "Population",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        248.0081024169922,
+        286.89990234375,
+        500.91522216796875,
+        301.40887451171875
+      ],
+      "text": "of participants) (95% CI) (95% CI)",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        308.77850341796875,
+        493.8711242675781,
+        323.2215270996094
+      ],
+      "text": "WHO target product profile NA > 0.90 > 0.70",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        330.3930969238281,
+        515.57568359375,
+        344.83612060546875
+      ],
+      "text": "All people living with HIV 8 (6 238) 0.93 (0.88–0.96) 0.20 (0.10–0.38)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        352.0077209472656,
+        515.57568359375,
+        366.45074462890625
+      ],
+      "text": "Inpatients 1 (52) 0.90 (0.33–0.99) 0.07 (0.03–0.19)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        373.622314453125,
+        515.57568359375,
+        388.0653381347656
+      ],
+      "text": "Outpatients on ART 4 (2 670) 0.85 (0.69–0.94) 0.33 (0.15–0.58)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        395.2369079589844,
+        515.57568359375,
+        409.679931640625
+      ],
+      "text": "Outpatients not on ART 8 (3 516) 0.94 (0.89–0.96) 0.19 (0.09–0.34)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        416.85150146484375,
+        515.57568359375,
+        431.2945251464844
+      ],
+      "text": "CD4 ≤ 200 cells/µL 8 (2 232) 0.94 (0.90–0.97) 0.14 (0.07–0.25)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        438.4660949707031,
+        515.57568359375,
+        452.90911865234375
+      ],
+      "text": "Pregnant women living with HIV 1 (8) 0.75 (0.11–0.99) 0.56 (0.24–0.84)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        467.23992919921875,
+        310.3146667480469,
+        477.7439270019531
+      ],
+      "text": "ART: antiretroviral treatment; CI: confidence interval; NA: not applicable.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        491.4450988769531,
+        514.5142211914062,
+        507.1770935058594
+      ],
+      "text": "3.3.1.4 Molecular WHO-recommended rapid diagnostic tests for medical inpatients",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        505.8451232910156,
+        331.46533203125,
+        521.5771484375
+      ],
+      "text": "living with HIV in settings with a high TB burden",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        528.7850341796875,
+        527.3806762695312,
+        543.22802734375
+      ],
+      "text": "TB is the main cause of hospitalization and mortality among people living with HIV. The assessment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        541.9849853515625,
+        527.4652709960938,
+        556.427978515625
+      ],
+      "text": "of the performance of an mWRD used as a combined TB screening and diagnostic strategy for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        555.1851196289062,
+        527.3892822265625,
+        569.6281127929688
+      ],
+      "text": "medical ward patients with HIV included 4 studies in Ghana, Myanmar and South Africa with a total",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        568.2750244140625,
+        527.4086303710938,
+        582.8280029296875
+      ],
+      "text": "Web Annex B Web Annex C of 639 participants (see  , Table 15, and  , Table 8). The prevalence of TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        581.5850219726562,
+        527.4213256835938,
+        596.0280151367188
+      ],
+      "text": "in the included studies was 23.8%, ranging from 7% to 26%. The mWRD test assessed in the IPD was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        594.7850341796875,
+        229.88223266601562,
+        609.22802734375
+      ],
+      "text": "primarily the Xpert MTB/RIF assay.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        616.4888916015625,
+        527.2527465820312,
+        630.931884765625
+      ],
+      "text": "Using the W4SS alone had 96% sensitivity and 11% specificity in the IPD meta-analysis of medical ward",
+      "font": "SegoeUI-Light",
+      "size": 10.961231231689453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        629.6890258789062,
+        527.3883666992188,
+        644.1320190429688
+      ],
+      "text": "inpatients living with HIV, 94% of whom were positive on the W4SS. Thus, the difference in accuracy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        642.8890380859375,
+        527.532958984375,
+        657.33203125
+      ],
+      "text": "was minimal between the full screening and diagnostic strategy of using W4SS followed by mWRD and",
+      "font": "SegoeUI-Light",
+      "size": 10.957568168640137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        656.0889892578125,
+        527.3927001953125,
+        670.531982421875
+      ],
+      "text": "using mWRD alone. Therefore, the value of the W4SS was judged to have limited utility in screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        669.2890014648438,
+        527.3926391601562,
+        683.7319946289062
+      ],
+      "text": "for TB in this population prior to an mWRD test, and the GDG recommended that medical inpatients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        682.4888916015625,
+        527.4520263671875,
+        696.931884765625
+      ],
+      "text": "should be screened and tested with an mWRD, irrespective of symptoms, to inform a decision about",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        695.6890258789062,
+        527.3971557617188,
+        710.1320190429688
+      ],
+      "text": "whether to treat for TB. A 10% threshold TB prevalence among hospital inpatients living with HIV is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        708.8890380859375,
+        527.4411010742188,
+        723.33203125
+      ],
+      "text": "recommended, taking into account the TB prevalence among the participants studied and striking",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        722.0889892578125,
+        527.5870971679688,
+        736.531982421875
+      ],
+      "text": "a balance between ensuring rapid diagnosis in this critically ill population and the need to avoid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        735.2890014648438,
+        527.433349609375,
+        749.7319946289062
+      ],
+      "text": "overtreatment. In lower prevalence settings, a screening and diagnostic strategy with mWRD alone",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        748.4888916015625,
+        527.4376831054688,
+        762.931884765625
+      ],
+      "text": "would give rise to higher numbers of false positives, with overtreatment and the related social and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "32",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

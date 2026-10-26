@@ -1,0 +1,546 @@
+{
+  "file": "module3",
+  "page": 70,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4095458984375,
+        83.2621841430664
+      ],
+      "text": "Table 2.3.1.1 Cost–effectiveness analysis of concurrent use of LC-aNAAT and",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.57433319091797,
+        460.0379638671875,
+        97.6623306274414
+      ],
+      "text": "LF-LAM among people living with HIV in Malawi and the Philippines",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        285.098388671875,
+        113.12220764160156,
+        501.71435546875,
+        126.03620910644531
+      ],
+      "text": "Cost,  Effectiveness,  ICER (95% UR),",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        119.62220764160156,
+        244.74217224121094,
+        132.5362091064453
+      ],
+      "text": "Country Diagnostic strategy",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        285.098388671875,
+        126.12220764160156,
+        441.7314147949219,
+        139.0362091064453
+      ],
+      "text": "US$ DALYs US$",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        147.24053955078125,
+        436.142578125,
+        160.3855438232422
+      ],
+      "text": "Malawi LC-aNAAT on respiratory  276  2.44 Ref",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        160.24053955078125,
+        177.4652862548828,
+        173.3855438232422
+      ],
+      "text": "sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        180.3790283203125,
+        479.3175354003906,
+        193.52403259277344
+      ],
+      "text": "LC-aNAAT on respiratory  298  1.93 42 (18–345)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        193.3790283203125,
+        238.66928100585938,
+        206.52403259277344
+      ],
+      "text": "sample and LF-LAM",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        213.51739501953125,
+        436.142578125,
+        226.6623992919922
+      ],
+      "text": "Philippines LC-aNAAT on respiratory  220  2.78 Ref",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        226.51739501953125,
+        177.4652862548828,
+        239.6623992919922
+      ],
+      "text": "sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        246.65582275390625,
+        479.3175354003906,
+        259.80084228515625
+      ],
+      "text": "LC-aNAAT on respiratory  238  2.13 28 (12–249)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.2322998046875,
+        259.65582275390625,
+        238.66928100585938,
+        272.80084228515625
+      ],
+      "text": "sample and LF-LAM",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.5833435058594,
+        526.5020141601562,
+        299.3383483886719
+      ],
+      "text": "DALY: disability-adjusted life year; HIV: human immunodeficiency virus; ICER: incremental cost–effectiveness ratio;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.3833312988281,
+        526.501953125,
+        310.1383361816406
+      ],
+      "text": "LC-aNAAT: low-complexity automated nucleic acid amplification test; LF-LAM: lateral flow urine lipoarabinomannan",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.1833190917969,
+        186.0031280517578,
+        320.9383239746094
+      ],
+      "text": "assay; UR: uncertainty range.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.9465026855469,
+        526.966796875,
+        351.0915222167969
+      ],
+      "text": "More information on the cost–effectiveness analysis of concurrent use of tests in people living",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.4465026855469,
+        266.5540771484375,
+        366.5915222167969
+      ],
+      "text": "with HIV is available in  Web Annex B.9.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.9581298828125,
+        179.01329040527344,
+        395.3381042480469
+      ],
+      "text": "User perspective",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.7760314941406,
+        293.0414123535156,
+        418.6570129394531
+      ],
+      "text": "This section deals with the following question:",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.57659912109375,
+        492.8821716308594,
+        444.66461181640625
+      ],
+      "text": "Are there implications for user preferences and values, equity, acceptability,",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.9765930175781,
+        500.8428955078125,
+        459.0646057128906
+      ],
+      "text": "feasibility and human rights from the implementation of a concurrent testing",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.3766174316406,
+        255.92176818847656,
+        473.4646301269531
+      ],
+      "text": "approach (LC-aNAATs + LF-LAM)?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.1316223144531,
+        527.0264892578125,
+        497.2766418457031
+      ],
+      "text": "The GDG assessed whether concurrent testing of multiple samples would increase the diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.6316223144531,
+        526.9634399414062,
+        512.776611328125
+      ],
+      "text": "accuracy (i.e. the benefit to patients or the programme in terms of finding more people with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.131591796875,
+        527.1075439453125,
+        528.276611328125
+      ],
+      "text": "TB). Three PICO questions concerned the different concurrent sample combinations for specific",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975021362304688,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.631591796875,
+        526.8037719726562,
+        543.776611328125
+      ],
+      "text": "groups facing challenges from reliance on respiratory samples alone (children and people living",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.961833953857422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.131591796875,
+        526.9921264648438,
+        559.276611328125
+      ],
+      "text": "with HIV). One question focused on the concurrent use of LC-aNAAT on a respiratory sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.631591796875,
+        410.1444091796875,
+        574.776611328125
+      ],
+      "text": "and LF-LAM on urine for the diagnosis of TB in people living with HIV.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        586.6192626953125,
+        226.36456298828125,
+        600.7072143554688
+      ],
+      "text": "User preferences and values",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.8741455078125,
+        494.1719665527344,
+        623.0191650390625
+      ],
+      "text": "As important outcomes of the diagnostic test, people in high TB burden settings value:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.6259765625,
+        78.81909942626953,
+        642.77099609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        629.6259765625,
+        527.1292724609375,
+        642.77099609375
+      ],
+      "text": "getting an accurate diagnosis and reaching diagnostic closure (finally knowing “what is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        645.1259765625,
+        171.57540893554688,
+        658.27099609375
+      ],
+      "text": "wrong with me”);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.6259765625,
+        78.81909942626953,
+        673.77099609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        660.6259765625,
+        526.9630126953125,
+        673.77099609375
+      ],
+      "text": "avoiding diagnostic delays, as they exacerbate existing financial hardships and emotional",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        676.1259765625,
+        524.4429931640625,
+        689.27099609375
+      ],
+      "text": "and physical suffering and make people feel guilty for infecting others (especially children);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997349739074707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.6259765625,
+        78.81909942626953,
+        704.77099609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        691.6259765625,
+        236.3772735595703,
+        704.77099609375
+      ],
+      "text": "having accessible facilities; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.1259765625,
+        78.81909942626953,
+        720.27099609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        707.1259765625,
+        389.1407470703125,
+        720.27099609375
+      ],
+      "text": "reducing diagnosis-associated costs (e.g. travel, missing work).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.9647216796875,
+        458.7754821777344,
+        747.1097412109375
+      ],
+      "text": "More details on patient-important outcomes are available in  Web Annex B.10.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "54 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

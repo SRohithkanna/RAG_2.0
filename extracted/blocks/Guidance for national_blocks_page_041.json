@@ -1,0 +1,534 @@
+{
+  "file": "Guidance for national",
+  "page": 41,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        83.188232421875,
+        513.4835205078125,
+        96.53973388671875
+      ],
+      "text": "Existing diagnostic tests for TB in children have shortcomings, and the full range of tests -",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        99.18475341796875,
+        513.3798828125,
+        112.5362548828125
+      ],
+      "text": "including bacteriological culture and tuberculin skin testing (TST) - is often unavailable in",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        115.1812744140625,
+        513.4720458984375,
+        128.53277587890625
+      ],
+      "text": "settings where the majority of TB cases occur. The development of affordable diagnostic",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        131.17779541015625,
+        513.4144287109375,
+        144.529296875
+      ],
+      "text": "tests for TB in children in low-resource settings should be a priority for researchers and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        147.17431640625,
+        155.3043975830078,
+        160.52581787109375
+      ],
+      "text": "policy-makers.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        180.25123596191406,
+        130.37139892578125,
+        197.10723876953125
+      ],
+      "text": "3.3\t R",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        130.5872039794922,
+        184.25804138183594,
+        342.3611145019531,
+        196.05723571777344
+      ],
+      "text": "ecent improvements in diagnostics",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        204.79998779296875,
+        513.4834594726562,
+        218.1514892578125
+      ],
+      "text": "Since the first edition of this guidance was published in 2006, novel approaches to",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        220.7965087890625,
+        513.4029541015625,
+        234.14801025390625
+      ],
+      "text": "confirmation of TB have been developed and evaluated. These include more rapid",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        236.72402954101562,
+        513.448974609375,
+        250.14453125
+      ],
+      "text": "M.  culture techniques and genotypic (molecular) techniques that improve detection of",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        252.72055053710938,
+        513.4719848632812,
+        266.14105224609375
+      ],
+      "text": "tuberculosis . For example, commercially available liquid culture systems and molecular",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        268.7170715332031,
+        513.4375610351562,
+        282.1375732421875
+      ],
+      "text": "(6, 7)  line probe assays for rapid detection of MDR-TB have been endorsed by WHO",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        284.7825927734375,
+        513.4605712890625,
+        298.13409423828125
+      ],
+      "text": "although their uptake is constrained in resource-limited settings by their cost and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        300.77911376953125,
+        139.54940795898438,
+        314.130615234375
+      ],
+      "text": "complexity.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        327.9604187011719,
+        165.05538940429688,
+        342.180419921875
+      ],
+      "text": "Xpert MTB/RIF",
+      "font": "FrutigerLTStd-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        350.70391845703125,
+        513.4258422851562,
+        364.055419921875
+      ],
+      "text": "The development that has received most attention recently is that of the Xpert MTB/RIF",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        366.7004089355469,
+        513.4603881835938,
+        380.0519104003906
+      ],
+      "text": "assay. This is a fully automated real-time DNA based test which can detect both TB and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        382.6968994140625,
+        302.0788879394531,
+        396.04840087890625
+      ],
+      "text": "resistance to rifamipicin in less than 2 hours.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        407.2033996582031,
+        513.3798828125,
+        420.5549011230469
+      ],
+      "text": "Following successful clinical evaluation in adults with TB in a variety of settings, WHO",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        423.19989013671875,
+        513.4262084960938,
+        436.5513916015625
+      ],
+      "text": "endorsed the Xpert MTB/RIF assay in 2010 and published recommendations in 2011.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        439.1963806152344,
+        513.4375610351562,
+        452.5478820800781
+      ],
+      "text": "However, in 2011, published data from children on the performance of Xpert MTB/RIF",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        455.19287109375,
+        513.368408203125,
+        468.54437255859375
+      ],
+      "text": "assay were limited and the policy statement of 2011 therefore made no recommendations",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        471.1893615722656,
+        280.7809143066406,
+        484.5408630371094
+      ],
+      "text": "for its use that were specific to children.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        495.69586181640625,
+        513.3915405273438,
+        509.04736328125
+      ],
+      "text": "Encouraging data, mainly concerned with sputum samples, are emerging from children",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        511.6233215332031,
+        513.4834594726562,
+        525.0438232421875
+      ],
+      "text": "(8, 9,  that show an improved yield and sensitivity compared with smear microscopy",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        527.619873046875,
+        513.4490356445312,
+        541.0403442382812
+      ],
+      "text": "10, 11) (8)  , although two of these studies also considered nasopharyngeal aspirate",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        543.6163940429688,
+        513.3799438476562,
+        557.036865234375
+      ],
+      "text": "(9) and gastric lavage  . However, sensitivity of Xpert MTB/RIF is still lower than culture",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        559.6818237304688,
+        513.471923828125,
+        573.0333251953125
+      ],
+      "text": "confirmation or clinical diagnosis. More data are needed from children, including",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        575.6783447265625,
+        513.4719848632812,
+        589.0298461914062
+      ],
+      "text": "more evaluation of specimens other than sputum, plus operational evaluation of the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        591.6748657226562,
+        513.4721069335938,
+        605.0263671875
+      ],
+      "text": "role of Xpert MTB/RIF in the diagnostic evaluation of children with suspected TB (see",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        607.6713256835938,
+        143.8389129638672,
+        621.0228271484375
+      ],
+      "text": "Chapter 9).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        632.1778564453125,
+        513.448974609375,
+        645.5293579101562
+      ],
+      "text": "Given the amount of additional data on Xpert MTB/RIF having emerged since 2010,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        648.1743774414062,
+        513.4144897460938,
+        661.52587890625
+      ],
+      "text": "an update of the current WHO policy guidance was warranted. WHO therefore",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        664.1708374023438,
+        513.4603881835938,
+        677.5223388671875
+      ],
+      "text": "commissioned three systematic reviews to update and revise current policy guidance,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        680.1673583984375,
+        513.4490356445312,
+        693.5188598632812
+      ],
+      "text": "including the utility of Xpert MTB/RIF for the diagnosis of tuberculosis and rifampicin",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        696.1638793945312,
+        513.4720458984375,
+        709.515380859375
+      ],
+      "text": "resistance in pulmonary, extra-pulmonary and paediatric TB. An updated review of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        712.1603393554688,
+        513.40283203125,
+        725.5118408203125
+      ],
+      "text": "published studies on the affordability and cost-effectiveness of Xpert MTB/RIF was also",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        728.1568603515625,
+        513.3798828125,
+        741.5083618164062
+      ],
+      "text": "done. In May 2013, WHO convened an Expert Group to evaluate the data and formulate",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        744.0844116210938,
+        513.4146728515625,
+        757.5048828125
+      ],
+      "text": "(12) recommendations  . The recommendations on the use of Xpert MTB/RIF in children",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        760.1498413085938,
+        513.4259643554688,
+        773.5013427734375
+      ],
+      "text": "were approved by the WHO Guideline Review Committee in October 2013 and no",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        776.1463623046875,
+        433.5124816894531,
+        789.4978637695312
+      ],
+      "text": "additional searches for evidence were undertaken since October 2013.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        14.202799797058105,
+        805.8439331054688,
+        36.44280242919922,
+        835.8439331054688
+      ],
+      "text": "22",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

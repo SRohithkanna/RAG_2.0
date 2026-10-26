@@ -1,0 +1,498 @@
+{
+  "file": "Latent",
+  "page": 27,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.51299285888672,
+        413.5750732421875,
+        67.4429931640625
+      ],
+      "text": "Fig. 1\t Algorithm for screening adults and adolescents living with HIV for TB",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        223.04449462890625,
+        93.73180389404297,
+        373.1760559082031,
+        105.35980224609375
+      ],
+      "text": "Adults and adolescents living with HIV a",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        188.58580017089844,
+        134.6766357421875,
+        407.3985595703125,
+        146.30462646484375
+      ],
+      "text": "Screen people with any of the following symptoms of TB: b",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        270.48150634765625,
+        144.6756591796875,
+        325.49407958984375,
+        156.30364990234375
+      ],
+      "text": "Current cough",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        287.5815124511719,
+        154.6746826171875,
+        308.3975830078125,
+        166.30267333984375
+      ],
+      "text": "Fever",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        275.2965087890625,
+        164.6737060546875,
+        320.67364501953125,
+        176.30169677734375
+      ],
+      "text": "Weight loss",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.010498046875,
+        174.6727294921875,
+        322.9686584472656,
+        186.30072021484375
+      ],
+      "text": "Night sweats",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        194.9239044189453,
+        195.6149444580078,
+        402.5435485839844,
+        207.88894653320312
+      ],
+      "text": "No Yes",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.12989807128906,
+        229.49024963378906,
+        499.63421630859375,
+        241.76425170898438
+      ],
+      "text": "Assess for contraindications to preventive treatment Investigate for TB and other diseases c d",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        129.61830139160156,
+        272.0098876953125,
+        509.17877197265625,
+        284.2839050292969
+      ],
+      "text": "No Yes Other diagnosis Not TB TB",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.39910125732422,
+        314.19891357421875,
+        518.7079467773438,
+        327.4295959472656
+      ],
+      "text": "Treat   Defer preventive  Give preventive  Give appropriate  Follow up",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        115.48560333251953,
+        326.1974182128906,
+        517.616943359375,
+        339.4281005859375
+      ],
+      "text": "for TB treatment (also  e treatment treatment and and",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.25039672851562,
+        338.95184326171875,
+        462.7227783203125,
+        351.4266052246094
+      ],
+      "text": "screen for TB at   consider   consider",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        206.31790161132812,
+        350.9503479003906,
+        465.4577941894531,
+        363.42510986328125
+      ],
+      "text": "follow-up) preventive  preventive",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        342.0721130371094,
+        363.14959716796875,
+        462.42352294921875,
+        375.4236145019531
+      ],
+      "text": "treatment treatment",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        119.80740356445312,
+        408.0729064941406,
+        475.48358154296875,
+        420.346923828125
+      ],
+      "text": "Screen for TB regularly, at each encounter with a health worker or visit to a health facility",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.8448181152344,
+        526.23828125,
+        450.74884033203125
+      ],
+      "text": "Every adult and adolescent should be evaluated for eligibility to receive ART. Infection control measures should be prioritized to  a",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        450.5088195800781,
+        335.2778015136719,
+        460.74884033203125
+      ],
+      "text": "reduce   transmission in all settings in which care is provided.  M. tuberculosis",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.8448181152344,
+        526.26171875,
+        470.74884033203125
+      ],
+      "text": "Chest radiography can be done if available, particularly for people living with HIV on ART, but is not required to classify patients into  b",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        470.5088195800781,
+        526.2574462890625,
+        480.74884033203125
+      ],
+      "text": "TB and non-TB groups. In settings with a high HIV prevalence and a high TB prevalence among people living with HIV (e.g. > 10%),",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        480.5088195800781,
+        344.0644226074219,
+        490.74884033203125
+      ],
+      "text": "strong consideration should be given to adding other, sensitive investigations.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.8448181152344,
+        526.1690673828125,
+        500.74884033203125
+      ],
+      "text": "Contraindications include: active hepatitis (acute or chronic), regular and heavy alcohol consumption and symptoms of peripheral  c",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        500.5088195800781,
+        526.2149047851562,
+        510.74884033203125
+      ],
+      "text": "neuropathy. History of TB and current pregnancy should not be contraindications for starting preventive treatment. Although LTBI",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        510.50885009765625,
+        504.27178955078125,
+        520.7488403320312
+      ],
+      "text": "testing is not a requirement for initiating preventive treatment, it may be done as a part of eligibility screening where feasible.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.8447875976562,
+        526.210205078125,
+        530.7488403320312
+      ],
+      "text": "Xpert MTB/RIF should be used as the initial diagnostic test for TB. Detailed algorithms for people living with HIV suspected of having  d",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        530.5088500976562,
+        526.2337036132812,
+        540.7488403320312
+      ],
+      "text": "TB are available in the WHO consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        540.5088500976562,
+        365.6986083984375,
+        550.7488403320312
+      ],
+      "text": "(http://apps.who.int/iris/bitstream/10665/208825/1/9789241549684_eng.pdf).",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.8447875976562,
+        357.3988342285156,
+        560.7488403320312
+      ],
+      "text": "Resume regular screening for TB after completion of treatment for active disease.  e",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.18505859375,
+        237.7548828125,
+        609.6890258789062
+      ],
+      "text": "Rationale for the recommendations",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.0076293945312,
+        526.6782836914062,
+        625.8076171875
+      ],
+      "text": "Overall, the GDG agreed that the four-symptom screening rule is very useful for ruling out active TB before",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.0076293945312,
+        526.6150512695312,
+        639.8076171875
+      ],
+      "text": "providing preventive treatment to people living with HIV, regardless of whether they receive ART. It noted the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.0076293945312,
+        526.7013549804688,
+        653.8076171875
+      ],
+      "text": "potential benefits of adding an abnormal chest radiographic finding to the four-symptom screening rule, while",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.0076293945312,
+        526.6693115234375,
+        667.8076171875
+      ],
+      "text": "recognizing a marginal improvement in performance. Moreover, increased use of chest radiography would",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.0076293945312,
+        526.6383056640625,
+        681.8076171875
+      ],
+      "text": "add more false-positive results to the screening rule, which would require more investigations for TB and other",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.0076293945312,
+        526.6741333007812,
+        695.8076171875
+      ],
+      "text": "illnesses. Therefore, the GDG reiterated that chest radiography should be added as an additional investigation",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.0076293945312,
+        526.7442016601562,
+        709.8076171875
+      ],
+      "text": "only if it does not pose a barrier to the provision of preventive treatment for people living with HIV. Although",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.0076293945312,
+        526.6091918945312,
+        723.8076171875
+      ],
+      "text": "no study was found of the additive role of chest radiography in testing pregnant women, the GDG noted that",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.0076293945312,
+        526.67236328125,
+        737.8076171875
+      ],
+      "text": "pregnant women living with HIV could also benefit, as long as good clinical practices are observed to prevent",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.0076293945312,
+        222.00607299804688,
+        751.8076171875
+      ],
+      "text": "any significant risk to the fetus  .   (31)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        552.5986938476562,
+        810.61279296875
+      ],
+      "text": "15",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        336.91900634765625,
+        796.524658203125,
+        524.4110107421875,
+        805.5686645507812
+      ],
+      "text": "3. ALGORITHMS FOR RULING OUT ACTIVE TUBERCULOSIS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

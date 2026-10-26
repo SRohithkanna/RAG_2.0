@@ -1,0 +1,678 @@
+{
+  "file": "module4",
+  "page": 75,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        78.23609924316406,
+        81.83369445800781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        67.39069366455078,
+        527.3782958984375,
+        81.83369445800781
+      ],
+      "text": "higher treatment success (81% vs 52%); that is, a 55% relative increase (aRR=1.55, 95% CI: 1.15",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        80.59070587158203,
+        123.31309509277344,
+        95.03370666503906
+      ],
+      "text": "to 2.11);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        78.23609924316406,
+        108.23371887207031
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        93.79071807861328,
+        527.4190673828125,
+        108.23371887207031
+      ],
+      "text": "lower levels of failure and recurrence (9.4% vs 26%); that is, a 66% relative reduction (aRR=0.34,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        106.99073028564453,
+        183.50509643554688,
+        121.43373107910156
+      ],
+      "text": "95% CI: 0.14 to 0.87);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        78.23609924316406,
+        134.6337432861328
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        120.19074249267578,
+        527.4268798828125,
+        134.6337432861328
+      ],
+      "text": "lower levels of deaths (1.6% vs 3.0%); that is, a 48% relative reduction (RR=0.52, 95% CI: 0.07 to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        133.3907012939453,
+        110.86109924316406,
+        147.8336944580078
+      ],
+      "text": "3.85);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        78.23609924316406,
+        161.03370666503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        146.59071350097656,
+        527.098388671875,
+        161.03370666503906
+      ],
+      "text": "lower levels of LTFU (7.8% vs 20%); that is, a 57% relative reduction (aRR=0.43, 95% CI: 0.15 to 1.23);",
+      "font": "SegoeUI-Light",
+      "size": 10.962335586547852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        78.23609924316406,
+        174.2337188720703
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        159.7907257080078,
+        527.1790161132812,
+        174.2337188720703
+      ],
+      "text": "lower levels of grade 3 to 5 AEs (34% vs 51%); that is, a 33% relative reduction (aRR=0.67,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        172.99073791503906,
+        200.98410034179688,
+        187.43373107910156
+      ],
+      "text": "95% CI: 0.46 to 0.97); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.1907501220703,
+        78.23609924316406,
+        200.6337432861328
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        186.1907501220703,
+        527.2308349609375,
+        200.6337432861328
+      ],
+      "text": "higher levels of amplified resistance (1.9% vs 1.9%); that is, a 4% relative increase (RR=1.04,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        199.3907012939453,
+        180.4910888671875,
+        213.8336944580078
+      ],
+      "text": "95% CI: 0.19 to 5.80).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09461975097656,
+        527.4398803710938,
+        235.53761291503906
+      ],
+      "text": "The GDG judged the benefits of BPaLC to be large and the undesirable effects to be trivial compared",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.2946319580078,
+        527.4432373046875,
+        248.7376251220703
+      ],
+      "text": "to WHO-recommended SoC regimens. The certainty of evidence was judged to be very low. Based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.49464416503906,
+        473.104248046875,
+        261.9376525878906
+      ],
+      "text": "on this, the panel determined that the balance of health effects probably favours BPaLC.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.305908203125,
+        125.72310638427734,
+        286.660888671875
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.00982666015625,
+        527.4099731445312,
+        308.36480712890625
+      ],
+      "text": "The use of the 6-month treatment regimen composed of bedaquiline, pretomanid, linezolid",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.2098388671875,
+        527.4058837890625,
+        321.5648193359375
+      ],
+      "text": "and clofazimine (BPaLC) rather than a 9-month or longer (18-month) regimen is suggested in",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.978779792785645,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.4098205566406,
+        527.4285278320312,
+        334.7648010253906
+      ],
+      "text": "MDR/RR-TB patients with or without resistance to fluoroquinolones, who have either had no",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.991496086120605,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.6098327636719,
+        527.4342041015625,
+        347.9648132324219
+      ],
+      "text": "previous exposure to bedaquiline and linezolid or have been exposed for less than 1 month",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.809814453125,
+        375.3636779785156,
+        361.164794921875
+      ],
+      "text": "(overruled by conclusions of sub-PICO 6.5 and sub-PICO 6.6).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.7637023925781,
+        142.8217010498047,
+        393.4237060546875
+      ],
+      "text": "Sub-PICO 6.5",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.631591796875,
+        524.3819580078125,
+        415.0746154785156
+      ],
+      "text": "The BPaLC regimen arm of the TB-PRACTECAL trial with a population including patients with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.83160400390625,
+        527.4376220703125,
+        428.2746276855469
+      ],
+      "text": "RR-TB with or without fluoroquinolone resistance (MDR/RR-TB or pre-XDR-TB) was compared with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.0316162109375,
+        527.4818115234375,
+        441.4746398925781
+      ],
+      "text": "the BPaL arm of the TB-PRACTECAL trial that comprised MDR/RR-TB or pre-XDR-TB patients. Primary",
+      "font": "SegoeUI-Light",
+      "size": 10.972916603088379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.2315979003906,
+        353.2008972167969,
+        454.67462158203125
+      ],
+      "text": "analysis was undertaken at 72 weeks post treatment initiation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.65960693359375,
+        527.4523315429688,
+        476.3786315917969
+      ],
+      "text": "n Participants with pulmonary MDR/RR-TB or pre-XDR-TB receiving BPaLC ( =64) compared with",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.859619140625,
+        330.5509033203125,
+        489.5786437988281
+      ],
+      "text": "n participants receiving BPaL 600–300 ( =60) experienced:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.8395080566406,
+        78.23609924316406,
+        511.28253173828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        496.8395080566406,
+        527.2623901367188,
+        511.28253173828125
+      ],
+      "text": "higher levels of treatment success (81% vs 77%); that is, a 4% relative increase (aRR=1.04,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        510.03955078125,
+        183.50509643554688,
+        524.4825439453125
+      ],
+      "text": "95% CI: 0.84 to 1.30);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.239501953125,
+        78.23609924316406,
+        537.6824951171875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        523.239501953125,
+        527.4190673828125,
+        537.6824951171875
+      ],
+      "text": "lower levels of failure and recurrence (9.4% vs 13%); that is, a 14% relative reduction (aRR=0.86,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        536.4395141601562,
+        183.50509643554688,
+        550.8825073242188
+      ],
+      "text": "95% CI: 0.28 to 2.69);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.6395263671875,
+        78.23609924316406,
+        564.08251953125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        549.6395263671875,
+        527.61767578125,
+        564.08251953125
+      ],
+      "text": "higher levels of deaths (1.6% vs 0%); that is, a 2% absolute increase (RD=0.02, 95% CI: –0.05 to 0.08);",
+      "font": "SegoeUI-Light",
+      "size": 10.950438499450684,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.8394775390625,
+        78.23609924316406,
+        577.282470703125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        562.8394775390625,
+        527.0994873046875,
+        577.282470703125
+      ],
+      "text": "lower levels of LTFU (7.8% vs 10%); that is, a 28% relative reduction (aRR=0.72, 95% CI: 0.21 to 2.47);",
+      "font": "SegoeUI-Light",
+      "size": 10.962335586547852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.0394897460938,
+        78.23609924316406,
+        590.4824829101562
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        576.0394897460938,
+        527.3959350585938,
+        590.4824829101562
+      ],
+      "text": "higher levels of AEs (34% vs 20%); that is, a 64% relative increase (aRR=1.64, 95% CI: 0.97 to 2.79);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        589.239501953125,
+        103.35909271240234,
+        603.6824951171875
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        602.4395141601562,
+        78.23609924316406,
+        616.8825073242188
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        602.4395141601562,
+        527.428955078125,
+        616.8825073242188
+      ],
+      "text": "lower levels of amplification of drug resistance (1.9% vs 2.9%); that is, a 35% relative reduction",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        615.6395263671875,
+        227.84609985351562,
+        630.08251953125
+      ],
+      "text": "(RR=0.65, 95% CI: 0.13 to 3.21).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.3433837890625,
+        527.4596557617188,
+        651.786376953125
+      ],
+      "text": "The GDG judged both the desirable and the undesirable effects of BPaLC to be small compared with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.5435180664062,
+        527.1883544921875,
+        664.9865112304688
+      ],
+      "text": "BPaL. The certainty of evidence was judged to be very low. The balance of health effects did not favour",
+      "font": "SegoeUI-Light",
+      "size": 10.961883544921875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.7435302734375,
+        527.433349609375,
+        678.1865234375
+      ],
+      "text": "either the intervention or the comparator; however, taking into consideration the higher cost of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.9434204101562,
+        527.4334106445312,
+        691.3864135742188
+      ],
+      "text": "regimen, increased pill burden, reduced acceptability due to skin discolouration and other potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.1434326171875,
+        527.39599609375,
+        704.58642578125
+      ],
+      "text": "adverse effects related to clofazimine without noticeable net benefit in terms of health effects, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3433837890625,
+        248.52711486816406,
+        717.786376953125
+      ],
+      "text": "panel judged against the intervention.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  61",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

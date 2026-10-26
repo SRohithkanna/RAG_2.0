@@ -1,0 +1,414 @@
+{
+  "file": "module2",
+  "page": 35,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        495.2693176269531,
+        147.1480255126953
+      ],
+      "text": "3. Recommendations for tools",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.947998046875,
+        505.6180725097656,
+        185.54798889160156
+      ],
+      "text": "for systematic screening for TB",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.347900390625,
+        172.15890502929688,
+        223.94789123535156
+      ],
+      "text": "disease",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        257.3170166015625,
+        527.4114379882812,
+        271.7600402832031
+      ],
+      "text": "TB screening tools are designed to distinguish people with a higher probability of having TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.51702880859375,
+        527.163818359375,
+        284.9600524902344
+      ],
+      "text": "from those with a low probability and can be assumed to be free of TB disease. They are not intended",
+      "font": "SegoeUI-Light",
+      "size": 10.982686042785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.71697998046875,
+        527.60205078125,
+        298.1600036621094
+      ],
+      "text": "to provide a definitive diagnosis. In general, they need to be able to be implemented easily and relay",
+      "font": "SegoeUI-Light",
+      "size": 10.997849464416504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.9169921875,
+        527.3882446289062,
+        311.3600158691406
+      ],
+      "text": "results rapidly in order to be informative in a screening context. Screening tests need to be followed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.11700439453125,
+        527.3859252929688,
+        324.5600280761719
+      ],
+      "text": "by a diagnostic test, offered as part of a comprehensive clinical evaluation, to confirm or rule out TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.3170166015625,
+        261.7978210449219,
+        337.7600402832031
+      ],
+      "text": "disease in individuals who screen positive.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.0209045410156,
+        527.467529296875,
+        359.46392822265625
+      ],
+      "text": "The most desirable screening strategy would be one with a high total yield of true-positive cases of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.2209167480469,
+        527.4310913085938,
+        372.6639404296875
+      ],
+      "text": "TB, few false positives, low NNS, low cost, a rapid and simple algorithm and high client acceptability.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.4208984375,
+        527.385986328125,
+        385.8639221191406
+      ],
+      "text": "In practice, many of these factors tend to run in opposite directions, so a multifactorial analysis is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.62091064453125,
+        358.650390625,
+        399.0639343261719
+      ],
+      "text": "needed to decide which screening tools and algorithms to use.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.3249206542969,
+        527.6334838867188,
+        420.7679443359375
+      ],
+      "text": "In 2014, WHO released a report summarizing the desirable characteristics, or target product profiles,",
+      "font": "SegoeUI-Light",
+      "size": 10.998000144958496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.73089599609375,
+        527.298095703125,
+        433.9679260253906
+      ],
+      "text": "(67) of screening tests for detecting TB disease  . The report highlighted that the minimal requirements",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.98969554901123,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        432.72479248046875,
+        527.4509887695312,
+        447.1678161621094
+      ],
+      "text": "for a target screening test would be an overall sensitivity of 90% and a specificity of 70% to detect",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        445.9248962402344,
+        527.0986328125,
+        460.367919921875
+      ],
+      "text": "pulmonary TB disease or rule it out in individuals being screened. Based on these benchmarks, an array",
+      "font": "SegoeUI-Light",
+      "size": 10.948982238769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        459.1249084472656,
+        520.0783081054688,
+        473.56793212890625
+      ],
+      "text": "of potential tools for screening for TB disease in different populations was considered by the GDG.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        487.5561218261719,
+        492.26727294921875,
+        512.3511352539062
+      ],
+      "text": "3.1 Tools for screening for TB disease among the",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        510.3560791015625,
+        422.32061767578125,
+        535.1510620117188
+      ],
+      "text": "general population and high-risk groups",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        549.1229248046875,
+        474.30316162109375,
+        563.56591796875
+      ],
+      "text": "9. Among individuals aged 15 years and older in populations in which TB screening is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        561.1229248046875,
+        517.677978515625,
+        575.56591796875
+      ],
+      "text": "recommended, systematic screening for TB disease may be conducted using a symptom screen,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        573.1229248046875,
+        511.6920166015625,
+        587.56591796875
+      ],
+      "text": "chest X-ray or molecular WHO-recommended rapid diagnostic tests, alone or in combination",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        586.5808715820312,
+        473.72119140625,
+        603.81787109375
+      ],
+      "text": "new recommendation: conditional recommendation, very low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        598.5808715820312,
+        144.67840576171875,
+        615.81787109375
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        643.2926025390625,
+        352.9353942871094,
+        661.5625610351562
+      ],
+      "text": "3.1.1 Summary of the evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        668.2686157226562,
+        527.5632934570312,
+        682.7116088867188
+      ],
+      "text": "The data used to inform this recommendation came from a systematic review of the diagnostic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        681.4686279296875,
+        527.3916625976562,
+        695.91162109375
+      ],
+      "text": "accuracy of using symptoms and chest radiography to detect TB disease among individuals aged",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        694.6685791015625,
+        527.3936767578125,
+        709.111572265625
+      ],
+      "text": "15 years and older with negative or unknown HIV status. The review included studies of screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        707.8685913085938,
+        527.4334106445312,
+        722.3115844726562
+      ],
+      "text": "conducted in the general population (including several prevalence surveys conducted in African and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        721.068603515625,
+        527.54541015625,
+        735.5115966796875
+      ],
+      "text": "Asian countries), as well as screening conducted in high-risk groups (including contacts of TB patients,",
+      "font": "SegoeUI-Light",
+      "size": 10.977426528930664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        734.2686157226562,
+        527.4456176757812,
+        748.7116088867188
+      ],
+      "text": "prisoners and others). Data from a separate review of the diagnostic accuracy of mWRDs used as a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        747.4686279296875,
+        527.4389038085938,
+        761.91162109375
+      ],
+      "text": "screening tool in individuals from high-risk groups aged 15 years and older (including contacts of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        293.323486328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "3. Recommendations for tools for systematic screening for TB disease 23",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

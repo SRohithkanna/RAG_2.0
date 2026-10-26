@@ -1,0 +1,48 @@
+{
+  "file": "Guidance for national",
+  "page": 131,
+  "table_id": 1,
+  "bbox": [
+    85.03900146484375,
+    381.0830078125,
+    510.23602294921875,
+    693.2319946289062
+  ],
+  "heading": "Table A2.1 Treatment outcomes for TB patients (excluding patients treated for RR-TB or MDR-TB)",
+  "n_rows": 8,
+  "n_cols": 2,
+  "data": [
+    [
+      "Outcome",
+      "Definition"
+    ],
+    [
+      "Cured",
+      "A pulmonary TB patient with bacteriologically confirmed TB at the beginning of treatment who was smear- or culture-negative in the last month of treatment and on at least one previous occasion"
+    ],
+    [
+      "Treatment completed",
+      "A TB patient who completed treatment without evidence of failure but with no record to show that sputum smear or culture results in the last month of treatment and on at least one previous occasion were negative, either because tests were not done or because results are unavailable"
+    ],
+    [
+      "Treatment failed",
+      "A TB patient whose sputum smear or culture is positive at month 5 or later during treatment"
+    ],
+    [
+      "Died",
+      "A TB patient who dies for any reason before starting or during the course of treatment"
+    ],
+    [
+      "Lost to follow-up",
+      "A TB patient who did not start treatment or whose treatment was interrupted for 2 consecutive months or more"
+    ],
+    [
+      "Not evaluated",
+      "A TB patient for whom no treatment outcome is assigned. This includes cases “transferred out” to another treatment unit as well as cases for whom the treatment outcome is unknown to the reporting unit."
+    ],
+    [
+      "Treatment success",
+      "The sum of cured and treatment completed"
+    ]
+  ]
+}

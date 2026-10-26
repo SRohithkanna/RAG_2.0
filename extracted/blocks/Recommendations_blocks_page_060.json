@@ -1,0 +1,282 @@
+{
+  "file": "Recommendations",
+  "page": 60,
+  "blocks": [
+    {
+      "bbox": [
+        127.55860900878906,
+        43.229557037353516,
+        191.7510528564453,
+        50.729557037353516
+      ],
+      "text": "Household contacts",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.55860900878906,
+        61.37181091308594,
+        288.9435119628906,
+        68.87181091308594
+      ],
+      "text": "Please list the household contacts for this patient:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.56611633300781,
+        79.37181091308594,
+        388.9035949707031,
+        86.87181091308594
+      ],
+      "text": "Name Gender Age",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.56610107421875,
+        271.22955322265625,
+        197.12106323242188,
+        278.72955322265625
+      ],
+      "text": "Current episode of TB",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.56610107421875,
+        289.371826171875,
+        228.5235595703125,
+        296.871826171875
+      ],
+      "text": "Have you had a cough? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.53860473632812,
+        301.371826171875,
+        227.5635986328125,
+        308.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5736083984375,
+        317.605712890625,
+        296.4285888671875,
+        326.871826171875
+      ],
+      "text": "< If yes, how long have you had a cough?  1 week",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        267.568603515625,
+        331.371826171875,
+        299.8335876464844,
+        338.871826171875
+      ],
+      "text": "1–3 weeks",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        267.57611083984375,
+        343.371826171875,
+        317.8036193847656,
+        350.871826171875
+      ],
+      "text": "3 weeks – 1 year",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        267.57611083984375,
+        353.605712890625,
+        294.71112060546875,
+        362.871826171875
+      ],
+      "text": ">  1 year",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.588623046875,
+        373.371826171875,
+        326.12847900390625,
+        380.871826171875
+      ],
+      "text": "Are you coughing up blood or blood-stained sputum? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.7711181640625,
+        385.371826171875,
+        325.1611022949219,
+        392.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.59611511230469,
+        403.371826171875,
+        227.0836181640625,
+        410.871826171875
+      ],
+      "text": "If yes, for how long? (in weeks)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.60362243652344,
+        421.371826171875,
+        224.0986328125,
+        428.871826171875
+      ],
+      "text": "Have you had a fever? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        213.74111938476562,
+        433.371826171875,
+        224.76611328125,
+        440.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.61111450195312,
+        451.371826171875,
+        227.09861755371094,
+        458.871826171875
+      ],
+      "text": "If yes, for how long? (in weeks)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.61862182617188,
+        467.605712890625,
+        353.02001953125,
+        476.87274169921875
+      ],
+      "text": "≥ Have you had noticeable weight loss? ( 3 kg loss in a month) Yes",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        342.6625061035156,
+        481.37274169921875,
+        353.6875,
+        488.87274169921875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55500793457031,
+        499.37274169921875,
+        389.8899841308594,
+        506.87274169921875
+      ],
+      "text": "Have you been sweating at night for 3 or more weeks in the last 4 weeks? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        379.53253173828125,
+        511.37274169921875,
+        390.5575256347656,
+        518.8727416992188
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5775146484375,
+        529.3727416992188,
+        399.54254150390625,
+        536.8727416992188
+      ],
+      "text": "Have you noticed any swelling and/or lumps on your neck, arm pits, or groin? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.1850280761719,
+        541.3727416992188,
+        400.21002197265625,
+        548.8727416992188
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.2843017578125,
+        651.97265625,
+        224.9268035888672,
+        659.47265625
+      ],
+      "text": "58",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

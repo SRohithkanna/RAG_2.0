@@ -1,0 +1,366 @@
+{
+  "file": "Latent",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        187.20851135253906,
+        82.56494140625
+      ],
+      "text": "Definitions",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.95880126953125,
+        526.6449584960938,
+        180.7587890625
+      ],
+      "text": "The definitions listed below apply to the terms as used in these guidelines. They may have different  Note:",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.95880126953125,
+        186.4031524658203,
+        194.7587890625
+      ],
+      "text": "meanings in other contexts.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.6187744140625,
+        235.48709106445312,
+        214.52877807617188
+      ],
+      "text": "Adolescent:  A person aged 10–19 years",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.28875732421875,
+        221.93008422851562,
+        234.19876098632812
+      ],
+      "text": "Adult:  A person over 19 years of age",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.958740234375,
+        526.6415405273438,
+        253.86874389648438
+      ],
+      "text": "Bacteriologically confirmed TB:  TB diagnosed in a biological specimen by smear microscopy, culture or a",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        254.96875,
+        301.3371276855469,
+        267.76873779296875
+      ],
+      "text": "WHO-approved molecular test such as Xpert MTB/RIF",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        274.62872314453125,
+        199.4311065673828,
+        287.5387268066406
+      ],
+      "text": "Child:  A person under 10 years",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        294.2987060546875,
+        389.794189453125,
+        307.2087097167969
+      ],
+      "text": "Contact:  Any person who was exposed to a case of TB (see definition below)",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        313.96868896484375,
+        526.6812133789062,
+        326.8786926269531
+      ],
+      "text": "Contact investigation:  A systematic process for identifying previously undiagnosed cases of TB among",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        327.97869873046875,
+        526.6842041015625,
+        340.7786865234375
+      ],
+      "text": "the contacts of an index case. In some settings, the goal includes testing for LTBI to identify candidates for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        341.97869873046875,
+        524.4120483398438,
+        354.7786865234375
+      ],
+      "text": "preventive treatment. Contact investigation consists of identification and prioritization and clinical evaluation.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        361.6387023925781,
+        487.5281677246094,
+        374.7586975097656
+      ],
+      "text": "High-TB-incidence country:  A country with a WHO-estimated TB incidence rate of   100/100 000  ≥",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3087158203125,
+        526.664306640625,
+        394.2187194824219
+      ],
+      "text": "Household contact:  A person who shared the same enclosed living space as the index case for one or more",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        395.3187255859375,
+        521.6171875,
+        408.11871337890625
+      ],
+      "text": "nights or for frequent or extended daytime periods during the 3 months before the start of current treatment",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        414.9787292480469,
+        526.7033081054688,
+        427.88873291015625
+      ],
+      "text": "Index case (index patient) of TB:  The initially identified case of new or recurrent TB in a person of any age, in",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        428.9887390136719,
+        526.6531982421875,
+        441.7887268066406
+      ],
+      "text": "a specific household or other comparable setting in which others may have been exposed. An index case is the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        442.9887390136719,
+        429.2102355957031,
+        455.7887268066406
+      ],
+      "text": "case on which a contact investigation is centred but is not necessarily the source case.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        462.64874267578125,
+        213.01107788085938,
+        475.5587463378906
+      ],
+      "text": "Infant:  A child under 1 year of age",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        482.3187561035156,
+        526.5590209960938,
+        495.228759765625
+      ],
+      "text": "Latent tuberculosis infection (LTBI):  A state of persistent immune response to stimulation by  Mycobacterium",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        496.3287658691406,
+        526.65625,
+        509.1287536621094
+      ],
+      "text": "antigens with no evidence of clinically manifest active TB. There is no gold standard test for direct  tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        510.3287353515625,
+        526.6702880859375,
+        523.1287231445312
+      ],
+      "text": "identification of   infection in humans. The vast majority of infected people have no  Mycobacterium tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        524.3287353515625,
+        323.4519958496094,
+        537.1287231445312
+      ],
+      "text": "signs or symptoms of TB but are at risk for active TB disease.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        543.98876953125,
+        526.6572265625,
+        556.8988037109375
+      ],
+      "text": "Low-TB-incidence country:  Country with a WHO-estimated TB incidence rate of < 100 per 100 000 population",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.6588134765625,
+        526.6102294921875,
+        576.56884765625
+      ],
+      "text": "Preventive treatment:  Treatment offered to individuals who are considered to be at risk for TB disease in order",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.6688232421875,
+        383.1842041015625,
+        590.4688110351562
+      ],
+      "text": "to reduce that risk. Also referred to as LTBI treatment or preventive therapy",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.3287963867188,
+        526.6580810546875,
+        610.2388305664062
+      ],
+      "text": "Tuberculosis (TB):  The disease state due to  . In this document, commonly referred  Mycobacterium tuberculosis",
+      "font": "Whitney-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        611.3388061523438,
+        347.7780456542969,
+        624.1387939453125
+      ],
+      "text": "to as “active” TB or TB “disease” in order to distinguish it from LTBI",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        49.205101013183594,
+        790.2608032226562,
+        56.69309997558594,
+        810.61279296875
+      ],
+      "text": "x",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

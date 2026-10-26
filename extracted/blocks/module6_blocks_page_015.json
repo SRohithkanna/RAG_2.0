@@ -1,0 +1,558 @@
+{
+  "file": "module6",
+  "page": 15,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        114.64139556884766,
+        282.17364501953125,
+        147.14138793945312
+      ],
+      "text": "Executive summary",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.419921875,
+        185.8253936767578
+      ],
+      "text": "People living with HIV are about 14 times more likely to develop TB disease, have poorer treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.3958740234375,
+        199.8253936767578
+      ],
+      "text": "outcomes and more than two-fold higher mortality during TB treatment, compared to all people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.4291381835938,
+        213.8253936767578
+      ],
+      "text": "diagnosed with TB  . Addressing HIV-associated TB through integrated patient-centred care and  (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        361.9346008300781,
+        227.8253936767578
+      ],
+      "text": "prevention is a key component of the WHO  . End TB strategy (3)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.4124145507812,
+        255.8253936767578
+      ],
+      "text": "For several decades, WHO has developed and issued recommendations on screening, diagnosis,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.3970947265625,
+        269.8254089355469
+      ],
+      "text": "treatment, care and prevention of HIV-associated TB. To support countries to reduce the burden of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4370727539062,
+        283.8254089355469
+      ],
+      "text": "HIV-associated TB in populations at risk of or affected by both diseases, WHO published an  Interim",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4050903320312,
+        297.8254089355469
+      ],
+      "text": "in 2004, which was updated in 2012  . The TB/HIV policy  policy on collaborative TB/HIV activities  (9, 10)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        524.3995361328125,
+        311.8254089355469
+      ],
+      "text": "has served as a vehicle for a robust global response, advocating for further investment and scale-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.3870849609375,
+        325.8254089355469
+      ],
+      "text": "up of collaborative TB/HIV activities, and has provided guidance to Member States and partners on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.4398193359375,
+        339.825439453125
+      ],
+      "text": "effectively addressing HIV-associated TB. It is estimated that scale-up of these interventions between",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4339599609375,
+        353.825439453125
+      ],
+      "text": "2005–2022 has saved 9.2 million lives  . Yet, despite impressive scale-up of collaborative TB/HIV  (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.4178466796875,
+        367.825439453125
+      ],
+      "text": "activities and the advances in the prevention, diagnosis and treatment of TB disease, TB remains",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.3936767578125,
+        381.825439453125
+      ],
+      "text": "the leading cause of death among people living with HIV worldwide and gaps still remain in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.4091796875,
+        395.825439453125
+      ],
+      "text": "implementation of TB/HIV collaborative activities. Since 2012, several recommendations have been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        454.711181640625,
+        409.825439453125
+      ],
+      "text": "updated and additional recommendations formulated as the evidence has evolved.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.4246826171875,
+        437.825439453125
+      ],
+      "text": "The guidance provided in this section of the   (hereafter  WHO consolidated guidelines on tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4189453125,
+        451.825439453125
+      ],
+      "text": "referred to as the TB/HIV guidelines) outlines specific WHO recommendations on screening,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        364.9093017578125,
+        465.825439453125
+      ],
+      "text": "diagnosis, treatment, care and prevention of HIV-associated TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.385986328125,
+        493.825439453125
+      ],
+      "text": "The TB/HIV guidelines contain a set of 31 recommendations on HIV-associated TB, which have been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4200439453125,
+        507.825439453125
+      ],
+      "text": "consolidated from WHO guidelines on TB and on HIV, as summarized below. The recommendations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.4404296875,
+        521.825439453125
+      ],
+      "text": "are accompanied by operational guidance and implementation considerations in the  WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        450.7356872558594,
+        535.825439453125
+      ],
+      "text": ".  operational handbook on tuberculosis. Module 6: tuberculosis and comorbidities (7)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.2184448242188,
+        391.3332824707031,
+        563.8784790039062
+      ],
+      "text": "Summary of WHO recommendations on HIV-associated TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.3978271484375,
+        577.825439453125
+      ],
+      "text": "These consolidated guidelines summarize the rationale and evidence behind all WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.3981323242188,
+        591.8253784179688
+      ],
+      "text": "recommendations that address HIV-associated TB for adults living with HIV although some",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.420654296875,
+        605.8253784179688
+      ],
+      "text": "recommendations will also be relevant for children and adolescents.  Recommendations specifically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        380.20928955078125,
+        592.5082397460938,
+        383.5119934082031,
+        600.9285278320312
+      ],
+      "text": "1",
+      "font": "SegoeUI-Light",
+      "size": 6.413000106811523,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.4381713867188,
+        619.8253784179688
+      ],
+      "text": "related to HIV-associated TB in children and adolescents can be found in the  WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4215698242188,
+        633.8253784179688
+      ],
+      "text": ".  guidelines on tuberculosis. Module 5: management of tuberculosis in children and adolescents (11)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.4418334960938,
+        647.8253784179688
+      ],
+      "text": "Other WHO recommendations on TB screening, diagnosis, treatment and care for all people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4417724609375,
+        661.8253784179688
+      ],
+      "text": "with TB regardless of HIV status are available in the respective modules of the  WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        524.4089965820312,
+        675.8253784179688
+      ],
+      "text": "that can be found on the WHO TB Knowledge Sharing Platform  guidelines on tuberculosis  (12-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4754028320312,
+        689.8253784179688
+      ],
+      "text": ". The WHO recommendations to reduce the burden of TB among people living with HIV and  19)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4606323242188,
+        703.8253784179688
+      ],
+      "text": "conversely, to reduce the burden of HIV among people with TB, are listed below. A summary of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.456787109375,
+        717.8253784179688
+      ],
+      "text": "changes to recommendations published in the 2012  WHO policy on collaborative TB/HIV activities",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        197.87924194335938,
+        731.8253784179688
+      ],
+      "text": "is provided in Annex 2. (10)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        753.8078002929688,
+        354.271484375,
+        762.975830078125
+      ],
+      "text": "Updates to recommendations can be found on the TB knowledge sharing platform (",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        354.2716979980469,
+        753.8078002929688,
+        411.6485595703125,
+        762.975830078125
+      ],
+      "text": "https://tbksp.org/",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        411.6506042480469,
+        753.8078002929688,
+        524.4080810546875,
+        762.975830078125
+      ],
+      "text": ") and on the WHO HIV/AIDS knowl­",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.890625,
+        73.26805877685547,
+        760.0144653320312
+      ],
+      "text": "1",
+      "font": "SegoeUI-Light",
+      "size": 4.664000034332275,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        763.4077758789062,
+        159.5385284423828,
+        772.5758056640625
+      ],
+      "text": "edge sharing platform (",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.539306640625,
+        763.4077758789062,
+        298.2985534667969,
+        772.5758056640625
+      ],
+      "text": "https://www.who.int/health-topics/hiv-aids",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        298.289306640625,
+        763.4077758789062,
+        302.64129638671875,
+        772.5758056640625
+      ],
+      "text": ").",
+      "font": "Calibri-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        548.4016723632812,
+        801.2599487304688,
+        553.40966796875,
+        811.763916015625
+      ],
+      "text": "ix",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

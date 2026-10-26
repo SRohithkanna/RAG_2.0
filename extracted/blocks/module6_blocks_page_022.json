@@ -1,0 +1,594 @@
+{
+  "file": "module6",
+  "page": 22,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.99839782714844,
+        347.919677734375,
+        82.86639404296875
+      ],
+      "text": "Fig. 2. Updated 2024 collaborative TB/HIV activities",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        114.52883911132812,
+        428.9963073730469,
+        132.99484252929688
+      ],
+      "text": "WHO-recommended collaborative TB/HIV activities",
+      "font": "SegoeUI-Bold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        149.93914794921875,
+        426.76531982421875,
+        164.2941436767578
+      ],
+      "text": "Establish and strengthen the mechanisms for delivering integrated",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        161.80816650390625,
+        190.92808532714844,
+        176.1631622314453
+      ],
+      "text": "TB and HIV services a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        179.0192108154297,
+        95.49010467529297,
+        190.71920776367188
+      ],
+      "text": "•",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        179.0192108154297,
+        404.8857727050781,
+        190.71920776367188
+      ],
+      "text": "Strengthen governance and accountability for TB/HIV collaborative activities",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        191.5652313232422,
+        95.49010467529297,
+        203.26522827148438
+      ],
+      "text": "•",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        191.5652313232422,
+        354.26611328125,
+        203.26522827148438
+      ],
+      "text": "Conduct an analysis of access to quality services for TB and HIV",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        204.1112518310547,
+        95.49010467529297,
+        215.81124877929688
+      ],
+      "text": "•",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        204.1112518310547,
+        383.8193359375,
+        215.81124877929688
+      ],
+      "text": "Coordinate planning and resource mobilization for collaborative action",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        216.6572723388672,
+        95.49010467529297,
+        228.35726928710938
+      ],
+      "text": "•",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        216.6572723388672,
+        383.7106018066406,
+        228.35726928710938
+      ],
+      "text": "Implement and scale up people-centred services for HIV-associated TB",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        229.2032928466797,
+        95.49010467529297,
+        240.90328979492188
+      ],
+      "text": "•",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        229.2032928466797,
+        292.1427307128906,
+        240.90328979492188
+      ],
+      "text": "Strengthen monitoring, evaluation and research",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        256.3941345214844,
+        339.6650390625,
+        269.44415283203125
+      ],
+      "text": "Reduce the burden of TB among people living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        272.59423828125,
+        283.81689453125,
+        284.4112243652344
+      ],
+      "text": "Find and treat TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        272.6212463378906,
+        95.36409759521484,
+        284.2492370605469
+      ],
+      "text": "•",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        285.1402587890625,
+        259.9101867675781,
+        296.9572448730469
+      ],
+      "text": "Prevent TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        285.1672668457031,
+        95.36409759521484,
+        296.7952575683594
+      ],
+      "text": "•",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        308.3625793457031,
+        441.3370056152344,
+        321.41259765625
+      ],
+      "text": "Reduce the burden of HIV among people with presumptive and diagnosed TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        324.5627136230469,
+        369.15057373046875,
+        336.37969970703125
+      ],
+      "text": "Find and treat HIV among people with presumptive and diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        324.5897216796875,
+        95.36409759521484,
+        336.21771240234375
+      ],
+      "text": "•",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.54510498046875,
+        337.10870361328125,
+        345.2447509765625,
+        348.9256896972656
+      ],
+      "text": "Prevent HIV among people with presumptive and diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.37010192871094,
+        337.1357116699219,
+        95.36409759521484,
+        348.7637023925781
+      ],
+      "text": "•",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.2123107910156,
+        524.4097900390625,
+        380.4033203125
+      ],
+      "text": "Details on these recommended actions are found within the TB/HIV operational handbook   and the  (7) Framework for collaborative action on TB and co­ a",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.6333312988281,
+        113.19989776611328,
+        388.67730712890625
+      ],
+      "text": "morbidities (2).",
+      "font": "SegoeUI-LightItalic",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.0102233886719,
+        184.87030029296875,
+        426.1952209472656
+      ],
+      "text": "1.4\t Objectives",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4563598632812,
+        451.825439453125
+      ],
+      "text": "The overall goal of the TB/HIV guidelines is to reduce suffering and death due to TB and HIV, in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        527.43896484375,
+        465.825439453125
+      ],
+      "text": "alignment with the WHO  , the  End TB strategy (3) Global health sector strategies on, respectively,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4404907226562,
+        479.825439453125
+      ],
+      "text": ", the  HIV, viral hepatitis and sexually transmitted infections for the period 2022–2030 (27) Global AIDS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4164428710938,
+        493.825439453125
+      ],
+      "text": ", the political declaration of the UN High-Level meeting on the fight against  Strategy 2021–2026 (28)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        360.70458984375,
+        507.825439453125
+      ],
+      "text": "TB 2023   and the UN High-Level Meeting on AIDS 2021  . (29) (5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        319.0338134765625,
+        535.825439453125
+      ],
+      "text": "The specific objectives of the TB/HIV guidelines are to:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.385498046875,
+        549.825439453125
+      ],
+      "text": "1.\t reduce the burden of TB among people living with HIV, by facilitating the uptake of WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21260070800781,
+        549.3824462890625,
+        477.5323181152344,
+        563.825439453125
+      ],
+      "text": "recommendations on TB prevention, screening, diagnosis, treatment and care; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.39111328125,
+        577.825439453125
+      ],
+      "text": "2.\t reduce the burden of HIV among people with TB, by facilitating the uptake of WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21260070800781,
+        577.3823852539062,
+        462.0080261230469,
+        591.8253784179688
+      ],
+      "text": "recommendations on HIV prevention, screening, diagnosis, treatment and care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.12158203125,
+        227.1527099609375,
+        625.306640625
+      ],
+      "text": "1.5\t Target audience",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.4068603515625,
+        647.8253784179688
+      ],
+      "text": "The TB/HIV guidelines are intended for managers of national TB and HIV programmes at all levels",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4244384765625,
+        661.8253784179688
+      ],
+      "text": "of the health system, managers in the private-for-profit sector, and other decision-makers in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.4343872070312,
+        675.8253784179688
+      ],
+      "text": "health system. They are also a useful resource for clinicians and other healthcare providers, including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.437744140625,
+        689.8253784179688
+      ],
+      "text": "community-based and primary care, harm-reduction services and maternal and child health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.3793334960938,
+        703.8253784179688
+      ],
+      "text": "programmes, as well as for relevant line ministries working on HIV-associated TB, such as ministries",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.393798828125,
+        717.8253784179688
+      ],
+      "text": "responsible for prisons or mining services. The TB/HIV guidelines are also of value to communities,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        372.8008117675781,
+        731.8253784179688
+      ],
+      "text": "civil society organisations and people with or at risk of TB and HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        46.98609924316406,
+        811.763916015625
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

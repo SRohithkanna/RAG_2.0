@@ -1,0 +1,666 @@
+{
+  "file": "module6",
+  "page": 59,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.056396484375,
+        425.8763732910156,
+        88.63139343261719
+      ],
+      "text": "5.1.2\t Diagnosis of TB among people living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.42578125,
+        115.82539367675781
+      ],
+      "text": "Research gaps relating to the initial tests for TB diagnosis that may be more pertinent for TB diagnosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4332275390625,
+        129.8253936767578
+      ],
+      "text": "among people living with HIV are listed below. The more comprehensive lists of research priorities",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.4346923828125,
+        143.8253936767578
+      ],
+      "text": "relating to TB diagnosis are highlighted within the  WHO consolidated guidelines on tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        446.1479797363281,
+        157.8253936767578
+      ],
+      "text": ". Module 3: diagnosis – rapid diagnostics for tuberculosis detection, 2021 update (14)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.27239990234375,
+        224.4095916748047,
+        185.6273956298828
+      ],
+      "text": "Xpert MTB/RIF and Xpert Ultra",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        78.23609924316406,
+        199.8253936767578
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        185.3824005126953,
+        527.4220581054688,
+        199.8253936767578
+      ],
+      "text": "Identification of an improved reference standard that accurately defines TB disease in children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        199.3824005126953,
+        527.42431640625,
+        213.8253936767578
+      ],
+      "text": "and paucibacillary specimens is needed because the sensitivity of all available diagnostics is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        213.3824005126953,
+        144.04769897460938,
+        227.8253936767578
+      ],
+      "text": "suboptimal.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        78.23609924316406,
+        241.8253936767578
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        227.3824005126953,
+        527.4320068359375,
+        241.8253936767578
+      ],
+      "text": "Comparisons of different tests should be made, including Xpert MTB/RIF and Xpert Ultra, to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        241.3824005126953,
+        527.3900146484375,
+        255.8253936767578
+      ],
+      "text": "determine which tests (or strategies) yield superior diagnostic accuracy. The preferred study",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        255.3824005126953,
+        527.383544921875,
+        269.8254089355469
+      ],
+      "text": "design is one in which all participants receive all available diagnostic tests or are randomly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        269.38238525390625,
+        527.4342651367188,
+        283.8254089355469
+      ],
+      "text": "assigned to receive a particular test. Studies should include children and people living with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        283.38238525390625,
+        527.4363403320312,
+        297.8254089355469
+      ],
+      "text": "HIV. Future research should acknowledge the concern associated with culture as a reference",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        297.38238525390625,
+        335.15521240234375,
+        311.8254089355469
+      ],
+      "text": "standard and consider ways to address this limitation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        78.23609924316406,
+        325.8254089355469
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        311.38238525390625,
+        527.4066162109375,
+        325.8254089355469
+      ],
+      "text": "Development of rapid point-of-care diagnostic tests for extrapulmonary TB is also needed.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        325.3824157714844,
+        527.3922729492188,
+        339.825439453125
+      ],
+      "text": "Research groups should focus on developing diagnostic tests and strategies that use readily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        339.3824157714844,
+        527.39892578125,
+        353.825439453125
+      ],
+      "text": "available clinical specimens such as urine rather than specimens that require invasive procedures",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        353.3824157714844,
+        152.5836944580078,
+        367.825439453125
+      ],
+      "text": "for collection.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.2724304199219,
+        314.3447570800781,
+        395.6274108886719
+      ],
+      "text": "Truenat  MTB, MTB Plus and MTB-RIF Dx assays TM",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        78.23609924316406,
+        409.825439453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        395.3824157714844,
+        527.409912109375,
+        409.825439453125
+      ],
+      "text": "Evaluations should be conducted to assess the diagnostic accuracy of TruenatTM (MTB, MTB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        409.3824157714844,
+        527.4242553710938,
+        423.825439453125
+      ],
+      "text": "Plus and MTB-RIF) in specific populations such as people living with HIV, former TB patients for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        423.3824157714844,
+        372.9204406738281,
+        437.825439453125
+      ],
+      "text": "pulmonary TB and extrapulmonary TB in adults and children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.2724304199219,
+        328.8799133300781,
+        465.6274108886719
+      ],
+      "text": "Loop-mediated isothermal amplification (TB-LAMP)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        78.23609924316406,
+        479.825439453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        465.3824157714844,
+        527.4253540039062,
+        479.825439453125
+      ],
+      "text": "Evaluations are needed of diagnostic algorithms in different epidemiological and geographical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        479.3824157714844,
+        362.48577880859375,
+        493.825439453125
+      ],
+      "text": "settings and populations (including people living with HIV).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        78.23609924316406,
+        507.825439453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        493.3824157714844,
+        527.3956909179688,
+        507.825439453125
+      ],
+      "text": "More rigorous studies should be conducted with higher quality reference standards (including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        507.3824462890625,
+        527.4274291992188,
+        521.825439453125
+      ],
+      "text": "multiple specimen types and extrapulmonary specimens) to improve confidence in specificity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        521.3824462890625,
+        139.07569885253906,
+        535.825439453125
+      ],
+      "text": "estimates.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.2724609375,
+        428.7346496582031,
+        563.62744140625
+      ],
+      "text": "Moderate complexity automated nucleic acid amplification test (NAATs)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        78.23609924316406,
+        577.825439453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        563.3824462890625,
+        527.4241333007812,
+        577.825439453125
+      ],
+      "text": "Studies are needed of the diagnostic accuracy in specific populations (e.g. children, people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        577.3823852539062,
+        527.4010009765625,
+        591.8253784179688
+      ],
+      "text": "living with HIV, and people with signs and symptoms of extrapulmonary TB) and in non-sputum",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        591.3823852539062,
+        133.14669799804688,
+        605.8253784179688
+      ],
+      "text": "samples.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        78.23609924316406,
+        619.8253784179688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        605.3823852539062,
+        527.4385986328125,
+        619.8253784179688
+      ],
+      "text": "The impact of diagnostic technologies on clinical decision-making and outcomes that are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        619.3823852539062,
+        527.4153442382812,
+        633.8253784179688
+      ],
+      "text": "important to affected individuals (e.g. cure, mortality, time to diagnosis and time to start",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        633.3823852539062,
+        316.14166259765625,
+        647.8253784179688
+      ],
+      "text": "treatment) should be assessed in all populations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        78.23609924316406,
+        661.8253784179688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        647.3823852539062,
+        527.424072265625,
+        661.8253784179688
+      ],
+      "text": "Studies are needed on the use, integration and optimization of diagnostic technologies in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        661.3823852539062,
+        476.7999572753906,
+        675.8253784179688
+      ],
+      "text": "overall landscape of testing and care, as well as diagnostic pathways and algorithms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        78.23609924316406,
+        689.8253784179688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        675.3823852539062,
+        527.4296875,
+        689.8253784179688
+      ],
+      "text": "The effect of moderate complexity automated NAATs in fostering collaboration and integration",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        689.3823852539062,
+        348.0196228027344,
+        703.8253784179688
+      ],
+      "text": "between disease programmes should also be evaluated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.2723999023438,
+        138.9747772216797,
+        731.6273803710938
+      ],
+      "text": "LF-LAM assay",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        78.23609924316406,
+        745.8253784179688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        731.3823852539062,
+        527.4264526367188,
+        745.8253784179688
+      ],
+      "text": "Development of simple, more accurate tests based on LAM detection is needed, with the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        745.3823852539062,
+        324.3157653808594,
+        759.8253784179688
+      ],
+      "text": "potential to be used for HIV-negative populations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        465.9320983886719,
+        801.2599487304688,
+        553.4072875976562,
+        811.8897705078125
+      ],
+      "text": "41 5. ﻿ Research gaps",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

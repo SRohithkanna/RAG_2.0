@@ -1,0 +1,990 @@
+{
+  "file": "module4",
+  "page": 184,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.70672607421875,
+        527.0538330078125,
+        80.83673095703125
+      ],
+      "text": "77.\t Khan U, Huerga H, Khan AJ, Mitnick CD, Hewison C, Varaine F et al. The endTB observational study protocol:",
+      "font": "SegoeUI-Light",
+      "size": 9.970807075500488,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        81.70672607421875,
+        494.72930908203125,
+        94.83673095703125
+      ],
+      "text": "treatment of MDR-TB with bedaquiline or delamanid containing regimens. BMC Infect Dis. 2019;19  (",
+      "font": "SegoeUI-Light",
+      "size": 9.966644287109375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        494.6769104003906,
+        81.70672607421875,
+        524.4254150390625,
+        94.83673095703125
+      ],
+      "text": "https://",
+      "font": "SegoeUI-Light",
+      "size": 9.966644287109375,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        95.70672607421875,
+        242.9019012451172,
+        108.83673095703125
+      ],
+      "text": "doi.org/10.1186/s12879-019-4378-4",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        242.90330505371094,
+        95.70672607421875,
+        247.9433135986328,
+        108.83673095703125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        113.9586181640625,
+        527.2136840820312,
+        127.088623046875
+      ],
+      "text": "78.\t Svensson EM, du Bois J, Kitshoff R, de Jager VR, Wiesner L, Norman J et al. Relative bioavailability of",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        127.9586181640625,
+        527.0729370117188,
+        141.088623046875
+      ],
+      "text": "bedaquiline tablets suspended in water: implications for dosing in children. Br J Clin Pharmacol.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        141.9586181640625,
+        166.68521118164062,
+        155.088623046875
+      ],
+      "text": "2018;84:2384–92 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.68739318847656,
+        141.9586181640625,
+        310.87060546875,
+        155.088623046875
+      ],
+      "text": "https://doi.org/10.1111/bcp.13696",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        310.87200927734375,
+        141.9586181640625,
+        315.9120178222656,
+        155.088623046875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        160.21063232421875,
+        527.2399291992188,
+        173.34063720703125
+      ],
+      "text": "79.\t WHO best-practice statement on the off-label use of bedaquiline and delamanid for the treatment of",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        174.21063232421875,
+        527.3112182617188,
+        187.34063720703125
+      ],
+      "text": "multidrug-resistant tuberculosis (WHO/HTM/TB/2017.20). Geneva: World Health Organization; 2017",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        188.21063232421875,
+        467.90411376953125,
+        201.34063720703125
+      ],
+      "text": "(https://apps.who.int/iris/bitstream/handle/10665/258941/WHO-HTM-TB-2017.20-eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        468.9920959472656,
+        188.21063232421875,
+        474.0321044921875,
+        201.34063720703125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.46258544921875,
+        527.1070556640625,
+        219.59259033203125
+      ],
+      "text": "80.\t Lan Z, Ahmad N, Baghaei P, Barkane L, Benedetti A, Brode SK et al. Drug-associated adverse events in the",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        220.46258544921875,
+        527.2843627929688,
+        233.59259033203125
+      ],
+      "text": "treatment of multidrug-resistant tuberculosis: an individual patient data meta-analysis. Lancet Respir Med.",
+      "font": "SegoeUI-Light",
+      "size": 9.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        234.46258544921875,
+        156.3824005126953,
+        247.59259033203125
+      ],
+      "text": "2020;8:383–94 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        156.38470458984375,
+        234.46258544921875,
+        357.94580078125,
+        247.59259033203125
+      ],
+      "text": "https://doi.org/10.1016/S2213-2600(20)30047-3",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        357.94720458984375,
+        234.46258544921875,
+        362.9872131347656,
+        247.59259033203125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.714599609375,
+        527.1774291992188,
+        265.8446044921875
+      ],
+      "text": "81.\t Tang S, Yao L, Hao X, Zhang X, Liu G, Liu X et al. Efficacy, safety and tolerability of linezolid for the treatment",
+      "font": "SegoeUI-Light",
+      "size": 9.98198413848877,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        266.714599609375,
+        333.5552978515625,
+        279.8446044921875
+      ],
+      "text": "of XDR-TB: a study in China. Eur Respir J. 2015;45:161–70 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        333.5575866699219,
+        266.714599609375,
+        518.76611328125,
+        279.8446044921875
+      ],
+      "text": "https://doi.org/10.1183/09031936.00035114",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        518.7675170898438,
+        266.714599609375,
+        523.8074951171875,
+        279.8446044921875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.96649169921875,
+        527.1559448242188,
+        298.09649658203125
+      ],
+      "text": "82.\t Dooley KE, Miyahara S, von Groote-Bidlingmaier F, Sun X, Hafner R, Rosenkranz SL et al. Early bactericidal",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        298.96649169921875,
+        527.1170654296875,
+        312.09649658203125
+      ],
+      "text": "activity of different isoniazid doses for drug resistant TB (INHindsight): a randomized open-label clinical",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        312.96649169921875,
+        306.7633056640625,
+        326.09649658203125
+      ],
+      "text": "trial. Am J Respir Crit Care Med. 2020;201:1416–24 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        306.7655944824219,
+        312.96649169921875,
+        499.06439208984375,
+        326.09649658203125
+      ],
+      "text": "https://doi.org/10.1164/rccm.201910-1960OC",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        499.0653991699219,
+        312.96649169921875,
+        504.10540771484375,
+        326.09649658203125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.218505859375,
+        527.2542724609375,
+        344.3485107421875
+      ],
+      "text": "83.\t Thwaites GE, Bhavnani SM, Chau TTH, Hammel JP, Torok ME, Van Wart SA et al. Randomized pharmacokinetic",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        345.218505859375,
+        527.2157592773438,
+        358.3485107421875
+      ],
+      "text": "and pharmacodynamic comparison of fluoroquinolones for tuberculous meningitis. Antimicrob Agents",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        359.218505859375,
+        217.49571228027344,
+        372.3485107421875
+      ],
+      "text": "Chemother. 2011;55:3244–53 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.4980010986328,
+        359.218505859375,
+        378.91259765625,
+        372.3485107421875
+      ],
+      "text": "https://doi.org/10.1128/AAC.00064-11",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        378.91400146484375,
+        359.218505859375,
+        383.9540100097656,
+        372.3485107421875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.47052001953125,
+        524.55908203125,
+        390.60052490234375
+      ],
+      "text": "84.\t Donald PR. The chemotherapy of tuberculous meningitis in children and adults. Tuberculosis. 2010;90:375–",
+      "font": "SegoeUI-Light",
+      "size": 9.985539436340332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        391.47052001953125,
+        105.72809600830078,
+        404.60052490234375
+      ],
+      "text": "92 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.73040008544922,
+        391.47052001953125,
+        282.56500244140625,
+        404.60052490234375
+      ],
+      "text": "https://doi.org/10.1016/j.tube.2010.07.003",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        282.5663146972656,
+        391.47052001953125,
+        287.6063232421875,
+        404.60052490234375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.7225036621094,
+        527.33740234375,
+        422.8525085449219
+      ],
+      "text": "85.\t Sun F, Ruan Q, Wang J, Chen S, Jin J, Shao L et al. Linezolid manifests a rapid and dramatic therapeutic effect",
+      "font": "SegoeUI-Light",
+      "size": 9.97281265258789,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        423.7225036621094,
+        527.054443359375,
+        436.8525085449219
+      ],
+      "text": "for patients with life-threatening tuberculous meningitis. Antimicrob Agents Chemother. 2014;58:6297–301",
+      "font": "SegoeUI-Light",
+      "size": 9.98233413696289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        437.7225036621094,
+        92.68609619140625,
+        450.8525085449219
+      ],
+      "text": "(",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        92.68840026855469,
+        437.7225036621094,
+        254.10308837890625,
+        450.8525085449219
+      ],
+      "text": "https://doi.org/10.1128/AAC.02784-14",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        254.10440063476562,
+        437.7225036621094,
+        259.1444091796875,
+        450.8525085449219
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.97442626953125,
+        527.15283203125,
+        469.10443115234375
+      ],
+      "text": "86.\t Akkerman OW, Odish OF, Bolhuis MS, de Lange WC, Kremer HP, Luijckx G-JR et al. Pharmacokinetics of",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        469.97442626953125,
+        527.125,
+        483.10443115234375
+      ],
+      "text": "bedaquiline in cerebrospinal fluid and serum in multidrug-resistant tuberculous meningitis. Clin Infect Dis.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        483.97442626953125,
+        156.3824005126953,
+        497.10443115234375
+      ],
+      "text": "2016;62:523–4 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        156.38470458984375,
+        483.97442626953125,
+        299.1763000488281,
+        497.10443115234375
+      ],
+      "text": "https://doi.org/10.1093/cid/civ921",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        299.1777038574219,
+        483.97442626953125,
+        304.21771240234375,
+        497.10443115234375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.22637939453125,
+        527.3036499023438,
+        515.3563842773438
+      ],
+      "text": "87.\t Tucker EW, Pieterse L, Zimmerman MD, Udwadia ZF, Peloquin CA, Gler MT et al. Delamanid central nervous",
+      "font": "SegoeUI-Light",
+      "size": 9.981032371520996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        516.2263793945312,
+        527.278076171875,
+        529.3563842773438
+      ],
+      "text": "system pharmacokinetics in tuberculous meningitis in rabbits and humans. Antimicrob Agents Chemother.",
+      "font": "SegoeUI-Light",
+      "size": 9.996899604797363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        530.2263793945312,
+        176.88540649414062,
+        543.3563842773438
+      ],
+      "text": "2019;63:e00913–19 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.88760375976562,
+        530.2263793945312,
+        338.30230712890625,
+        543.3563842773438
+      ],
+      "text": "https://doi.org/10.1128/AAC.00913-19",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        338.3035888671875,
+        530.2263793945312,
+        343.3435974121094,
+        543.3563842773438
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.4784545898438,
+        527.3229370117188,
+        561.6084594726562
+      ],
+      "text": "88.\t Holdiness MR. Cerebrospinal fluid pharmacokinetics of the antituberculosis drugs. Clin Pharmacokinet.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        562.4784545898438,
+        156.3824005126953,
+        575.6084594726562
+      ],
+      "text": "1985;10:532–4 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        156.38470458984375,
+        562.4784545898438,
+        378.2388000488281,
+        575.6084594726562
+      ],
+      "text": "https://doi.org/10.2165/00003088-198510060-00006",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        378.2402038574219,
+        562.4784545898438,
+        383.28021240234375,
+        575.6084594726562
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.7302856445312,
+        527.2462768554688,
+        593.8602905273438
+      ],
+      "text": "89.\t Linh NN, Viney K, Gegia M, Falzon D, Glaziou P, Floyd K et al. World Health Organization treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        594.7302856445312,
+        383.6410217285156,
+        607.8602905273438
+      ],
+      "text": "outcome definitions for tuberculosis: 2021 update. Eur Respir J. 2021;58  (",
+      "font": "SegoeUI-Light",
+      "size": 9.960973739624023,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        383.5793151855469,
+        594.7302856445312,
+        527.1280517578125,
+        607.8602905273438
+      ],
+      "text": "https://doi.org/10.1183/13993003.",
+      "font": "SegoeUI-Light",
+      "size": 9.960973739624023,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        608.7302856445312,
+        140.2065887451172,
+        621.8602905273438
+      ],
+      "text": "00804-2021",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        140.20790100097656,
+        608.7302856445312,
+        145.24790954589844,
+        621.8602905273438
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.9822998046875,
+        527.3594970703125,
+        640.1123046875
+      ],
+      "text": "90.\t United States Food and Drug Administration. Sirturo (bedaquiline) label [website]. Maryland, United States",
+      "font": "SegoeUI-Light",
+      "size": 9.991996765136719,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        640.9822998046875,
+        345.6272888183594,
+        654.1123046875
+      ],
+      "text": "of America: United States Food and Drug Administration; 2012 (",
+      "font": "SegoeUI-Light",
+      "size": 9.956103324890137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        345.5575866699219,
+        640.9822998046875,
+        524.4793701171875,
+        654.1123046875
+      ],
+      "text": "https://www.accessdata.fda.gov/drugsatfda_",
+      "font": "SegoeUI-Light",
+      "size": 9.956103324890137,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        654.9822998046875,
+        236.81069946289062,
+        668.1123046875
+      ],
+      "text": "docs/label/2012/204384s000lbl.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        237.8592987060547,
+        654.9822998046875,
+        242.89930725097656,
+        668.1123046875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.2343139648438,
+        494.4604187011719,
+        686.3643188476562
+      ],
+      "text": "91.\t WHO model list of essential medicines – 22nd list, 2021. Geneva: World Health Organization; 2021 (",
+      "font": "SegoeUI-Light",
+      "size": 9.98193359375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        494.4330139160156,
+        673.2343139648438,
+        524.42431640625,
+        686.3643188476562
+      ],
+      "text": "https://",
+      "font": "SegoeUI-Light",
+      "size": 9.98193359375,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        687.2343139648438,
+        339.160888671875,
+        700.3643188476562
+      ],
+      "text": "www.who.int/medicines/publications/essentialmedicines/en/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        339.1629943847656,
+        687.2343139648438,
+        344.2030029296875,
+        700.3643188476562
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.486328125,
+        527.1730346679688,
+        718.6163330078125
+      ],
+      "text": "92.\t Mao Y, Dai D, Jin H, Wang Y. The risk factors of linezolid-induced lactic acidosis: a case report and review.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        719.486328125,
+        185.52310180664062,
+        732.6163330078125
+      ],
+      "text": "Med. 2018;97:e12114 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.52529907226562,
+        719.486328125,
+        384.84039306640625,
+        732.6163330078125
+      ],
+      "text": "https://doi.org/10.1097/MD.0000000000012114",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        384.8417053222656,
+        719.486328125,
+        389.8817138671875,
+        732.6163330078125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.7382202148438,
+        527.2955932617188,
+        750.8682250976562
+      ],
+      "text": "93.\t Guidelines for treatment of drug-susceptible tuberculosis and patient care, 2017 update (WHO/HTM/TB/2017.05).",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        751.7382202148438,
+        274.95404052734375,
+        764.8682250976562
+      ],
+      "text": "Geneva: World Health Organization; 2017",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        276.1134948730469,
+        751.7382202148438,
+        527.1494140625,
+        764.8682250976562
+      ],
+      "text": "(https://apps.who.int/iris/bitstream/handle/10665/255052/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        765.7382202148438,
+        192.97608947753906,
+        778.8682250976562
+      ],
+      "text": "9789241550000-eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        194.04580688476562,
+        765.7382202148438,
+        199.0858154296875,
+        778.8682250976562
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "170 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

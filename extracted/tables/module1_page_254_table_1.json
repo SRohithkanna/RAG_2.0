@@ -1,0 +1,70 @@
+{
+  "file": "module1",
+  "page": 254,
+  "table_id": 1,
+  "bbox": [
+    71.08492755889893,
+    156.30586751302084,
+    524.1908264160156,
+    408.7051086425781
+  ],
+  "heading": "Table A5.10. Observational studies evaluating the efficacy of FQ-based TPT regimens to prevent TB among HHCs of MDR-TB patients",
+  "n_rows": 6,
+  "n_cols": 7,
+  "data": [
+    [
+      "Reference",
+      "Setting",
+      "Population",
+      "Intervention(s)",
+      "Control(s)",
+      "Outcome definition",
+      "Proportion of participants who developed TB disease"
+    ],
+    [
+      "Studies of TPT including child and adolescent HHCs of patients with MDR-TB",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Gureva et al. (2022) (4)",
+      "Arkhangelsk Region, Russian Federation",
+      "Household contacts aged < 18 years (n=72)",
+      "9MFX (n=55)a",
+      "Child contacts with caregivers who refused TPT (n=14)",
+      "People with culture- confirmed TB within 2 years of follow-up",
+      "MFX: 0/55 Refused TPT: 1/14"
+    ],
+    [
+      "Malik et al. (2021) (5)",
+      "Karachi, Pakistan",
+      "Household contacts of all ages (n=799)",
+      "6-month FQ (Lfx/MFX) + ETH/EMB (n=172)",
+      "Refused TPT (n=43) Considered ineligible for TPT (n=574)",
+      "People with culture- confirmed TB within 2 years of follow-up",
+      "Any TPT: 2/172 Refused TPT: 0/43 Ineligible: 0/574"
+    ],
+    [
+      "Studies of TPT among close adult contacts of MDR-TB",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Bedini et al. (2016) (6)",
+      "Penitentiary in Modena, northern Italy",
+      "Incarcerated adults in close contact with MDR-TB (n=17)",
+      "6-month Lfx + PZA (n=12)",
+      "Refused TPT (n=5)",
+      "People with incident TB disease during 24 months of follow-up",
+      "Lfx + PZA: 0/12 Refused TPT: 0/5"
+    ]
+  ]
+}

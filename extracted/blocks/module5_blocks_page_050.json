@@ -1,0 +1,534 @@
+{
+  "file": "module5",
+  "page": 50,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        437.9404602050781,
+        89.46791076660156
+      ],
+      "text": "4.3. Consolidated recommendations on TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.472900390625,
+        504.49359130859375,
+        112.26789855957031
+      ],
+      "text": "diagnostics and diagnostic approaches relevant to",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.27288818359375,
+        282.9402770996094,
+        135.06788635253906
+      ],
+      "text": "children and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.04278564453125,
+        501.28826904296875,
+        164.706787109375
+      ],
+      "text": "Table 5: WHO recommendations on diagnostic approaches relevant to children and",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        164.44281005859375,
+        132.47288513183594,
+        179.1068115234375
+      ],
+      "text": "adolescents",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        195.6993408203125,
+        511.5662841796875,
+        210.05433654785156
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 3: diagnosis – rapid diagnostics",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        207.63333129882812,
+        295.2419128417969,
+        222.05433654785156
+      ],
+      "text": "(16) for tuberculosis detection, 2021 update",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        229.24783325195312,
+        481.8398742675781,
+        243.66883850097656
+      ],
+      "text": "Recommendations on Xpert MTB/RIF and Xpert Ultra as initial tests in adults and",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        241.24783325195312,
+        519.6468505859375,
+        255.66883850097656
+      ],
+      "text": "children with signs and symptoms of pulmonary TB (Note that in these guidelines, adults",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        253.24783325195312,
+        517.1267700195312,
+        267.6688232421875
+      ],
+      "text": "refer to persons aged 15 years and above and children aged below 15 years, therefore the",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        265.2478332519531,
+        298.68115234375,
+        279.6688232421875
+      ],
+      "text": "adult population includes older adolescents):",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        287.03839111328125,
+        494.8531494140625,
+        301.4814147949219
+      ],
+      "text": "In adults* with signs and symptoms of pulmonary TB, Xpert MTB/RIF should be used as an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        299.03839111328125,
+        501.3035583496094,
+        313.4814147949219
+      ],
+      "text": "initial diagnostic test for TB and rifampicin-resistance detection in sputum rather than smear",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        311.03839111328125,
+        392.5827941894531,
+        325.4814147949219
+      ],
+      "text": "microscopy/culture and phenotypic drug susceptibility testing (DST).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        324.49639892578125,
+        493.9684753417969,
+        341.67840576171875
+      ],
+      "text": "(Strong recommendation, high certainty of evidence for test accuracy; moderate certainty of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        336.49639892578125,
+        265.37860107421875,
+        353.67840576171875
+      ],
+      "text": "evidence for patient-important outcomes)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        352.7484130859375,
+        252.7693634033203,
+        369.930419921875
+      ],
+      "text": "* Adults and adolescents from 15 years",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        377.1570129394531,
+        499.4082946777344,
+        391.60003662109375
+      ],
+      "text": "In children with signs and symptoms of pulmonary TB, Xpert MTB/RIF should be used as an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        389.1570129394531,
+        493.2735290527344,
+        403.60003662109375
+      ],
+      "text": "initial diagnostic test for TB and rifampicin-resistance detection in sputum, gastric aspirate,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        401.1570129394531,
+        508.9971008300781,
+        415.60003662109375
+      ],
+      "text": "nasopharyngeal aspirate and stool rather than smear microscopy/culture and phenotypic DST.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        414.61492919921875,
+        507.7074279785156,
+        431.7969055175781
+      ],
+      "text": "(Strong recommendation, moderate certainty for accuracy in sputum; low certainty of evidence",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        426.61492919921875,
+        399.6837158203125,
+        443.7969055175781
+      ],
+      "text": "for test accuracy in gastric aspirate, nasopharyngeal aspirate and stool)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        451.02362060546875,
+        473.9861755371094,
+        465.4666442871094
+      ],
+      "text": "In adults* with signs and symptoms of pulmonary TB and without a prior history of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        463.02362060546875,
+        500.4663391113281,
+        477.4666442871094
+      ],
+      "text": "(≤5 years) or with a remote history of TB treatment (>5 years since end of treatment), Xpert",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        475.02362060546875,
+        519.8286743164062,
+        489.4666442871094
+      ],
+      "text": "Ultra should be used as an initial diagnostic test for TB and for rifampicin-resistance detection in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        487.02362060546875,
+        390.4740905761719,
+        501.4666442871094
+      ],
+      "text": "sputum, rather than smear microscopy/culture and phenotypic DST.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        500.48150634765625,
+        391.609130859375,
+        517.6635131835938
+      ],
+      "text": "(Strong recommendation, high certainty of evidence for test accuracy)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        516.7334594726562,
+        252.7693634033203,
+        533.9154663085938
+      ],
+      "text": "* Adults and adolescents from 15 years",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        541.14208984375,
+        514.1032104492188,
+        555.5850830078125
+      ],
+      "text": "In adults* with signs and symptoms of pulmonary TB and with a prior history of TB and an end",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        553.14208984375,
+        510.12225341796875,
+        567.5850830078125
+      ],
+      "text": "of treatment within the last 5 years, Xpert Ultra may be used as an initial diagnostic test for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        565.14208984375,
+        504.2878112792969,
+        579.5850830078125
+      ],
+      "text": "and for rifampicin-resistance detection in sputum, rather than smear microscopy/culture and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        577.14208984375,
+        154.7528076171875,
+        591.5850830078125
+      ],
+      "text": "phenotypic DST.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        590.60009765625,
+        409.3345031738281,
+        607.7821044921875
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence for test accuracy)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        606.8519897460938,
+        252.7693634033203,
+        624.0339965820312
+      ],
+      "text": "* Adults and adolescents from 15 years",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        631.0846557617188,
+        508.2761535644531,
+        645.505615234375
+      ],
+      "text": "Recommendations on Xpert MTB/RIF and Xpert Ultra as initial tests in adolescents and",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        643.0846557617188,
+        356.9360656738281,
+        657.505615234375
+      ],
+      "text": "children with signs and symptoms of extrapulmonary TB",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        664.8751831054688,
+        512.4497680664062,
+        679.3181762695312
+      ],
+      "text": "In adults and children with signs and symptoms of TB meningitis, Xpert MTB/RIF or Xpert Ultra",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        676.8751831054688,
+        509.6250915527344,
+        691.3181762695312
+      ],
+      "text": "should be used in cerebrospinal fluid (CSF) as an initial diagnostic test for TB meningitis rather",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        688.8751831054688,
+        225.3310546875,
+        703.3181762695312
+      ],
+      "text": "than smear microscopy/culture.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        702.3331909179688,
+        520.25634765625,
+        719.5151977539062
+      ],
+      "text": "(Strong recommendation, moderate certainty of evidence for test accuracy for Xpert MTB/RIF; low",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        714.3331909179688,
+        317.9673156738281,
+        731.5151977539062
+      ],
+      "text": "certainty of evidence for test accuracy for Xpert Ultra)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "26 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

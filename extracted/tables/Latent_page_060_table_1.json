@@ -1,0 +1,88 @@
+{
+  "file": "Latent",
+  "page": 60,
+  "table_id": 1,
+  "bbox": [
+    266.85475427964155,
+    57.420402180064805,
+    521.4539794921875,
+    769.8540222167969
+  ],
+  "heading": null,
+  "n_rows": 6,
+  "n_cols": 10,
+  "data": [
+    [
+      "Nos of studies and patients",
+      "Design",
+      "Quality",
+      "",
+      "",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "",
+      "",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Relative (pooled)",
+      "Absolute effect",
+      "(GRADE)",
+      ""
+    ],
+    [
+      "A. SR OUTCOME: PROGRESSION TO ACTIVE TUBERCULOSIS IN UNTREATED INDIVIDUALS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "5 (N = 7675 for TST, N = 7641 for IGRA) (44- 48)",
+      "Prospectively followed cohorts",
+      "Serious (A1) (-1)",
+      "Serious TST: I2 = 64.4% IGRA: I2 = 49.6% (A2) (-1)",
+      "Not serious (A3)",
+      "TST: Serious imprecision IGRA: No serious imprecision (A4) (-1)",
+      "TST: RR = 1.49 (95% CI 0.79;2.80) I2 = 64.4% IGRA RR = 2.03 (95% CI 1.18;3.50) I2 = 49.6%",
+      "TST 10 more per 1000 (4 fewer to 37 more) IGRA 15 more per 1000 (3 more to 36 more)",
+      "Very low ㊉◯◯◯",
+      "Critical"
+    ],
+    [
+      "B. SR OUTCOME (SUB-GROUP ANALYSIS): PROGRESSION TO ACTIVE TB IN IMMUNOCOMPROMISED PEOPLE (HIV AND OTHER IMMUNOSUPPRESSIVE CONDITIONS)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2 (N = 725 for TST, N = 710 for IGRA) (44, 45)",
+      "Prospectively followed cohort of HIV-infected women pre- and post-delivery of ART Prospectively followed cohort of HIV-infected individuals",
+      "Serious (B1) (-1)",
+      "Serious TST: I2 = 77.4% IGRA: I2 = 78.7% (B2) (-1)",
+      "Serious (B3) (-1)",
+      "Very serious (B4) (-2)",
+      "TST: RR = 1.64 (95% CI 0.24;11.18) IGRA RR = 4.07 (95% CI 0.18;92.72)",
+      "TST 39 more per 1000 (46 fewer to 616 more) IGRA 149 more per 1000 (40 fewer to 4438 more)",
+      "Very low ㊉◯◯◯",
+      "Critical"
+    ]
+  ]
+}

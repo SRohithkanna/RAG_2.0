@@ -1,0 +1,88 @@
+{
+  "file": "Latent",
+  "page": 59,
+  "table_id": 1,
+  "bbox": [
+    135.18517707375918,
+    57.41186237335205,
+    382.38470458984375,
+    770.8050765991211
+  ],
+  "heading": null,
+  "n_rows": 6,
+  "n_cols": 10,
+  "data": [
+    [
+      "Outcome",
+      "Nos of studies and patients",
+      "Study design",
+      "Factors that may decrease quality of evidence",
+      "",
+      "",
+      "",
+      "",
+      "Effect per 100 000 Sensitivity: 0.73 (95% CI: 0.64;0.80) Specificity: 0.77 (95% CI: 0.61;0.87)",
+      "Quality of evidence"
+    ],
+    [
+      "",
+      "",
+      "",
+      "Risk of bias",
+      "Indirectness",
+      "Inconsistency",
+      "Imprecision",
+      "Publication bias",
+      "",
+      ""
+    ],
+    [
+      "True positives (patients with active TB)",
+      "11 studies 357 609 patients",
+      "Cross-sectional (cohort type accuracy study)",
+      "Very serious1",
+      "Not serious2",
+      "Not serious3",
+      "Not serious4",
+      "None5",
+      "Prevalence (2%): 1460 (1282;1608) Prevalence (5%): 3650 (3205;4020)",
+      "㊉㊉◯◯ Low"
+    ],
+    [
+      "False negatives (patients incorrectly classified as not having active TB)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Prevalence (2%): 540 (392;718) Prevalence (5%):1350 (980;1795)",
+      ""
+    ],
+    [
+      "True negatives (patients without active TB)",
+      "11 studies 357 609 patients",
+      "Cross-sectional (cohort type accuracy study)",
+      "Very serious1",
+      "Not serious2",
+      "Serious3",
+      "Serious4",
+      "None5",
+      "Prevalence (2%):74 970 (60 074;85 260) Prevalence (5%):72 675 (58 235;82 650)",
+      "㊉◯◯◯ Very low"
+    ],
+    [
+      "False positives (patients incorrectly classified as having active TB)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Prevalence (2%):23 030 (12 740;37 926) Prevalence (5%):22 325 (12 350;36 765)",
+      ""
+    ]
+  ]
+}

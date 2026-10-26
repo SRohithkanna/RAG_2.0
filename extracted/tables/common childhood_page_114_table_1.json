@@ -1,0 +1,106 @@
+{
+  "file": "common childhood",
+  "page": 114,
+  "table_id": 1,
+  "bbox": [
+    84.74919891357422,
+    63.07096862792969,
+    398.74005533854165,
+    623.6220194498698
+  ],
+  "heading": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+  "n_rows": 10,
+  "n_cols": 7,
+  "data": [
+    [
+      "YEAR",
+      "SITE",
+      "N° PTS (% HIV+)",
+      "TYPE OF SPECIMEN",
+      "INCIDENCE OF INFECTIONS (ISOLATED ORGANISMS)",
+      "SENSITIVITY PATTERN",
+      "RESISTANCE PATTERN"
+    ],
+    [
+      "2006",
+      "Uganda",
+      "450 (36%)",
+      "Blood",
+      "Bacteraemia: 17% (S. typhimurium 27%, S. enteritidis 11%, S. aureus 26%, S. pneumoniae)",
+      "cipro: 80%",
+      "cotrimoxazole: 75%, ampicillin: 50%, gentamicin, ceftriaxone, CAF"
+    ],
+    [
+      "2006",
+      "Uganda",
+      "134 (44%)",
+      "Blood",
+      "Bacteraemia: 22% (Salmonella, E. coli 67%)",
+      "ceftriaxone: 100% cipro: 97%",
+      "cotrimoxazole 93%, amp 76%, genta 66%, CAF 60%"
+    ],
+    [
+      "2005",
+      "Kenya",
+      "91 (43%)",
+      "Blood Multiple cultures",
+      "Bacteraemia: 29% (Coagulase negative staphylococci)",
+      "G+ & G-: cipro 80%. G-: third generation cephalosporins and ceftazidime.",
+      "staphylococci: erythro, amp, cotrimoxazole, CAF, oxacillin"
+    ],
+    [
+      "2001",
+      "Congo",
+      "Unclear",
+      "Blood",
+      "Bacteraemia: 13.2% (Enterobacteraciae)",
+      "",
+      "ampicillin and genta 52% CAF"
+    ],
+    [
+      "2001",
+      "Jamaica",
+      "150",
+      "Blood",
+      "Bacteraemia: 10% (Coagulase negative staphylococci 40%)",
+      "amoxi-clavulanic 70% genta 77%, methicillin 85%",
+      "penicillin"
+    ],
+    [
+      "2000",
+      "Malawi",
+      "75",
+      "Blood",
+      "Bacteremia: 9 % (S. pneumoniae, Klebsiella, E. coli) UTI: 17% (E. coli, Klebsiella)",
+      "",
+      ""
+    ],
+    [
+      "2000",
+      "Turkey",
+      "103",
+      "Urine",
+      "UTI: 31% (E. coli 54%)",
+      "E. coli: gentamicin 100% cotrimoxazole",
+      "E. coli: cotrimoxazole 82%, ceftriaxone 17%, cefotaxime 17%, cipro 17%"
+    ],
+    [
+      "1996",
+      "South Africa",
+      "323",
+      "Blood",
+      "Bacteremia: 9.6% (Gram-negative enteric bacilli 48%)",
+      "ampicillin and gentamicin: 95%",
+      ""
+    ],
+    [
+      "1995",
+      "South Africa",
+      "134",
+      "Urine",
+      "UTI: 26% (Gram-negative enteric bacilli)",
+      "gentamicin, ampicillin",
+      ""
+    ]
+  ]
+}

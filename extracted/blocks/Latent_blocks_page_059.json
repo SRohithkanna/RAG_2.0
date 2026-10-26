@@ -1,0 +1,258 @@
+{
+  "file": "Latent",
+  "page": 59,
+  "blocks": [
+    {
+      "bbox": [
+        398.0447082519531,
+        55.01837921142578,
+        407.64471435546875,
+        761.1026000976562
+      ],
+      "text": "Limitations in study design (see QUADAS-2): high risk of selection bias in 1 study (den Boon, 2006) and in two studies unclear risk of bias for the reference standard. In 9 of the 11 studies less than half the participants received",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.82330322265625,
+        184.6768798828125,
+        122.34330749511719,
+        370.18988037109375
+      ],
+      "text": "anti-TB chemotherapy (6–9 months’ antibiotics)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.14900207519531,
+        189.66917419433594,
+        84.94499969482422,
+        771.0238037109375
+      ],
+      "text": "Any symptom for exclusion of active TB in contacts of TB cases without HIV in high-TB incidence countries.",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.0447082519531,
+        199.0924835205078,
+        416.64471435546875,
+        761.1026000976562
+      ],
+      "text": "the reference standard; accuracy was calculated under the assumption that those who did not receive the reference standard were culture and/or smear negative (no active TB) .",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        422.5472106933594,
+        244.21630859375,
+        434.64471435546875,
+        766.7607421875
+      ],
+      "text": "Inconsistency: Moderate heterogeneity for sensitivity and significant heterogeneity for specificity (based on visual inspection of CIs) – downgrading on specificity.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        440.5472106933594,
+        336.94378662109375,
+        452.64471435546875,
+        766.712646484375
+      ],
+      "text": "Publication bias: Not applicable (the evidence base for assessing publication bias in studies of diagnostic test accuracy is very limited.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.26775360107422,
+        370.18988037109375,
+        121.26775360107422,
+        378.5418701171875
+      ],
+      "text": "➞",
+      "font": "ZapfDingbats",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.82330322265625,
+        378.5418701171875,
+        122.34330749511719,
+        593.3305053710938
+      ],
+      "text": "confirmatory test (mycobacterial culture or GeneXpert)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.82730102539062,
+        495.0339660644531,
+        443.64471435546875,
+        766.4547119140625
+      ],
+      "text": "Imprecision: Precise estimates for sensitivity and imprecise estimate for specificity.  Any symptom | Reference test: Sputum culture and/or smear",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        413.5472106933594,
+        539.7326049804688,
+        425.64471435546875,
+        766.7083129882812
+      ],
+      "text": "Indirectness (see QUADAS-2): No major concern about applicability.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.26775360107422,
+        593.3305053710938,
+        121.26775360107422,
+        601.6824951171875
+      ],
+      "text": "➞",
+      "font": "ZapfDingbats",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.82330322265625,
+        601.6825561523438,
+        122.34330749511719,
+        671.46044921875
+      ],
+      "text": "Symptom positive",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.0522155761719,
+        662.3735961914062,
+        398.64471435546875,
+        717.4552001953125
+      ],
+      "text": "(31–34,36,38–43)",
+      "font": "Whitney-BookItalic",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.81430053710938,
+        671.4603881835938,
+        122.43330383300781,
+        771.0238037109375
+      ],
+      "text": "Test–treatment pathway:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        99.82530212402344,
+        681.7330322265625,
+        111.34530639648438,
+        709.19384765625
+      ],
+      "text": "Triage",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.81629943847656,
+        709.1875,
+        111.435302734375,
+        771.0238037109375
+      ],
+      "text": "Place of testing:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        389.0447082519531,
+        717.4551391601562,
+        398.64471435546875,
+        771.02392578125
+      ],
+      "text": "From references",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.81829833984375,
+        727.7661743164062,
+        100.43730163574219,
+        771.0238037109375
+      ],
+      "text": "Index text:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        398.7122497558594,
+        766.4547119140625,
+        449.3090515136719,
+        771.02392578125
+      ],
+      "text": "4 \t 2 \t 5 \t 3 \t 1",
+      "font": "Whitney-Book",
+      "size": 4.372499942779541,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        556.022705078125,
+        810.61279296875
+      ],
+      "text": "47",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        311.7535095214844,
+        796.524658203125,
+        524.411376953125,
+        805.5686645507812
+      ],
+      "text": "ANNEX 1. GRADE PROFILE TABLES FOR NEW RECOMMENDATIONS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

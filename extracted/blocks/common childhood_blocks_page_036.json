@@ -1,0 +1,426 @@
+{
+  "file": "common childhood",
+  "page": 36,
+  "blocks": [
+    {
+      "bbox": [
+        76.43560028076172,
+        57.98431396484375,
+        388.1076965332031,
+        84.36231231689453
+      ],
+      "text": "5. Evidence for recommendations",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 22.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        108.55950164794922,
+        79.98431396484375,
+        344.97149658203125,
+        106.36231231689453
+      ],
+      "text": "on the newborn conditions",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 22.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        190.5670166015625,
+        248.93988037109375,
+        203.75601196289062
+      ],
+      "text": "5.1\t Vitamin K prophylaxis in newborns",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        207.19261169433594,
+        399.1028137207031,
+        220.6826171875
+      ],
+      "text": "1.\t All newborns should be given 1 mg of vitamin K intramuscularly (IM) after birth",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        220.19261169433594,
+        399.13128662109375,
+        233.6826171875
+      ],
+      "text": "(i.e. after the first hour by which the infant should be in skin-to-skin contact with",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        233.19261169433594,
+        270.58154296875,
+        246.6826171875
+      ],
+      "text": "the mother and breastfeeding should be initiated).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        248.5972900390625,
+        277.7628173828125,
+        262.5173034667969
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        264.86187744140625,
+        399.0827331542969,
+        278.3518981933594
+      ],
+      "text": "2.\t Neonates requiring surgical procedures, those with birth trauma, preterm babies,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        277.86187744140625,
+        399.1615295410156,
+        291.3518981933594
+      ],
+      "text": "and those exposed in utero to maternal medication known to interfere with",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        290.86187744140625,
+        399.121337890625,
+        304.3518981933594
+      ],
+      "text": "vitamin K are at especially high risk of bleeding and must be given vitamin K",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        303.86187744140625,
+        115.60147857666016,
+        317.3518981933594
+      ],
+      "text": "(1  mg IM).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        319.2665100097656,
+        277.7628173828125,
+        333.1865234375
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        341.20050048828125,
+        399.0827941894531,
+        354.6905212402344
+      ],
+      "text": "The panel put large value on the expected benefits of vitamin K prophylaxis which",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        354.20050048828125,
+        399.0329284667969,
+        367.6905212402344
+      ],
+      "text": "clearly outweigh the harms. It also noted that implementation was feasible, and the",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        367.20050048828125,
+        184.76292419433594,
+        380.6905212402344
+      ],
+      "text": "cost affordable in most settings.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        391.7191162109375,
+        231.48292541503906,
+        403.7091064453125
+      ],
+      "text": "5.1.1\t Evidence and summary of findings",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        407.3736877441406,
+        399.062744140625,
+        420.86370849609375
+      ],
+      "text": "The incidence of classical vitamin K deficiency bleeding in the absence of vitamin K",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        420.3736877441406,
+        399.1129150390625,
+        433.86370849609375
+      ],
+      "text": "prophylaxis ranges from 10 to 1500 per 100 000 neonates, and that of late Vitamin",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        433.3736877441406,
+        399.03271484375,
+        446.86370849609375
+      ],
+      "text": "K Dependant Bleeding (VKDB) ranges from 5 to 80 per 100 000. There is some",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        446.3736877441406,
+        399.0528869628906,
+        459.86370849609375
+      ],
+      "text": "evidence to indicate that the incidence of VKDB is at the higher end of the ranges",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        459.3736877441406,
+        399.12286376953125,
+        472.86370849609375
+      ],
+      "text": "given above in less-developed countries. We found moderate quality evidence to",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        472.3736877441406,
+        357.6828308105469,
+        485.86370849609375
+      ],
+      "text": "show that vitamin K prophylaxis reduces the risk of bleeding in newborns.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        485.3736877441406,
+        399.0613708496094,
+        498.86370849609375
+      ],
+      "text": "Only two RCTs conducted in the 1960s looked at the impact of vitamin K",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        498.3736877441406,
+        399.1028747558594,
+        511.86370849609375
+      ],
+      "text": "supplementation (0.1 to 5 mg IM) on bleeding in neonates [Vietti 1960, Sutherland",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        511.3736572265625,
+        399.0927734375,
+        524.8636474609375
+      ],
+      "text": "1967]. These studies showed that vitamin K prophylaxis is effective in preventing",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        524.3736572265625,
+        399.0828552246094,
+        537.8636474609375
+      ],
+      "text": "post-circumcision (39% reduction, NNT 21, 95% CI 13 to 50) and non-circumcision",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        537.3736572265625,
+        399.1628723144531,
+        550.8636474609375
+      ],
+      "text": "bleeding (43% reduction, NNT 80, 95% CI 42 to 714). One of the above studies",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        550.3736572265625,
+        399.0827941894531,
+        563.8636474609375
+      ],
+      "text": "showed that vitamin K prophylaxis resulted in an 81% reduction in moderate or",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        563.3736572265625,
+        399.0527648925781,
+        576.8636474609375
+      ],
+      "text": "severe bleeding (NNT 75, 95% CI 48 to 177) and a 97% reduction in severe bleeding",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        576.3736572265625,
+        399.0927734375,
+        589.8636474609375
+      ],
+      "text": "(NNT 140, 95% CI 90 to 500). There was no difference in groups given 0.1 mg or",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        384.2554016113281,
+        589.1536865234375,
+        399.055419921875,
+        602.8636474609375
+      ],
+      "text": "see",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        589.3736572265625,
+        384.6327819824219,
+        602.8636474609375
+      ],
+      "text": "5  mg of vitamin K. The quality of this evidence was graded as moderate to low (",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        602.1536865234375,
+        134.01290893554688,
+        615.8636474609375
+      ],
+      "text": "GRADE table A7.1",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.35000610351562,
+        602.3736572265625,
+        138.86000061035156,
+        615.8636474609375
+      ],
+      "text": ").",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.39259338378906,
+        644.9403076171875,
+        230.65460205078125,
+        655.2992553710938
+      ],
+      "text": "22",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

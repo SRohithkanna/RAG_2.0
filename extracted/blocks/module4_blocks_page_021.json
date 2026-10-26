@@ -1,0 +1,378 @@
+{
+  "file": "module4",
+  "page": 21,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        329.13812255859375,
+        147.5496368408203
+      ],
+      "text": "Recommendations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.64593505859375,
+        528.6539306640625,
+        212.44093322753906
+      ],
+      "text": "1. Treatment of drug-susceptible TB using a 6-month",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.4459228515625,
+        142.0666961669922,
+        235.2409210205078
+      ],
+      "text": "regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.78114318847656,
+        228.62290954589844,
+        267.6611328125
+      ],
+      "text": "Recommendation 1.1",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        279.36651611328125,
+        203.97349548339844,
+        293.72149658203125
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        300.98114013671875,
+        513.3594360351562,
+        315.33612060546875
+      ],
+      "text": "1.1 New patients with pulmonary TB should receive a regimen containing 6 months",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        312.98114013671875,
+        243.75389099121094,
+        327.33612060546875
+      ],
+      "text": "of rifampicin: 2HRZE/4HR",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.48127746582031,
+        329.2330322265625,
+        378.925537109375,
+        343.5880126953125
+      ],
+      "text": "(Strong recommendation, high certainty of evidence)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.4635314941406,
+        119.47928619384766,
+        376.3155212402344
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.4134216308594,
+        527.4680786132812,
+        397.9664306640625
+      ],
+      "text": "A : The recommendation also applies to extrapulmonary TB ­– except TB of the central nervous system,",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.971512794494629,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.7234191894531,
+        383.96685791015625,
+        411.16644287109375
+      ],
+      "text": "bone or joint, for which some expert groups suggest longer therapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.31732177734375,
+        527.4389038085938,
+        432.8703308105469
+      ],
+      "text": "B : WHO recommends that national TB control programmes (NTPs) provide supervision and support",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.6273193359375,
+        384.3804931640625,
+        446.0703430175781
+      ],
+      "text": "for all TB patients, to ensure completion of the full course of therapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.2213134765625,
+        527.5148315429688,
+        467.7743225097656
+      ],
+      "text": "C : WHO recommends drug-resistance surveys (or surveillance) for monitoring the impact of the",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.53131103515625,
+        350.17706298828125,
+        480.9743347167969
+      ],
+      "text": "treatment programme, and for designing standard regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.3485107421875,
+        220.7113037109375,
+        510.20050048828125
+      ],
+      "text": "Source of recommendation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.408447265625,
+        527.401611328125,
+        531.8514404296875
+      ],
+      "text": "This recommendation was first put forward in 2010 and was considered valid in the 2017 guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.4984130859375,
+        527.4835815429688,
+        545.0513916015625
+      ],
+      "text": "Annex 1 update (see summary of recommendations in  ). The recommendation is copied without",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.8084106445312,
+        494.56097412109375,
+        558.2514038085938
+      ],
+      "text": "modification into this consolidated document and appears exactly as in the 2010 guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.6256713867188,
+        216.29168701171875,
+        587.4777221679688
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.6856079101562,
+        527.3937377929688,
+        609.1286010742188
+      ],
+      "text": "A systematic review and meta-analysis included 21 472 participants in 312 arms of 57 randomized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.609619140625,
+        527.416015625,
+        622.32861328125
+      ],
+      "text": "(7) controlled trials (RCTs) conducted in various regions of the world since 1965  . In three of the 57",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.0855712890625,
+        527.4411010742188,
+        635.528564453125
+      ],
+      "text": "trials, patients were randomly assigned to either a 2-month rifampicin or a 6-month rifampicin arm;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.2855834960938,
+        527.4541625976562,
+        648.7285766601562
+      ],
+      "text": "rates of failure, relapse and acquired drug resistance were compared “head-to-head” across the two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.485595703125,
+        527.3751220703125,
+        661.9285888671875
+      ],
+      "text": "study arms. In a multivariate regression analysis, each arm of the 57 trials was treated as a separate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.6856079101562,
+        490.7967224121094,
+        675.1286010742188
+      ],
+      "text": "cohort and results were adjusted for potentially confounding patient and treatment factors.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.3895263671875,
+        527.4345092773438,
+        696.83251953125
+      ],
+      "text": "The three studies with head-to-head comparisons showed that the risk of relapse after a 6-month",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.5894775390625,
+        527.453125,
+        710.032470703125
+      ],
+      "text": "rifampicin regimen was significantly lower than that after a 2-month rifampicin regimen. If a country",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.7894897460938,
+        527.1732177734375,
+        723.2324829101562
+      ],
+      "text": "were to change from a 2-month to a 6-month rifampicin regimen, the benefit would be an estimated",
+      "font": "SegoeUI-Light",
+      "size": 10.989544868469238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.9896240234375,
+        269.0849914550781,
+        736.4326171875
+      ],
+      "text": "112 relapses averted per 1000 TB patients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.8607177734375,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

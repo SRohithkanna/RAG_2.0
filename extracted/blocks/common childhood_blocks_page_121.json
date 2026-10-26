@@ -1,0 +1,426 @@
+{
+  "file": "common childhood",
+  "page": 121,
+  "blocks": [
+    {
+      "bbox": [
+        194.05589294433594,
+        58.78030014038086,
+        259.50390625,
+        80.3623046875
+      ],
+      "text": "ANNEX 7",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 18.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        159.35159301757812,
+        82.33361053466797,
+        294.19964599609375,
+        99.11961364746094
+      ],
+      "text": "GRADE Evidence tables",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        191.39691162109375,
+        396.8479309082031,
+        201.75592041015625
+      ],
+      "text": "Table A7.1:\t Vitamin K prophylaxis\t 108",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        205.23159790039062,
+        367.19549560546875,
+        215.59060668945312
+      ],
+      "text": "Table A7.2:\t Prophylactic antibiotics for newborn born of mother with risk factors for neonatal",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.464599609375,
+        216.23159790039062,
+        396.8465881347656,
+        226.59060668945312
+      ],
+      "text": "infection\t 109",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        230.06619262695312,
+        396.8478698730469,
+        240.42520141601562
+      ],
+      "text": "Table A7.3: \t Skin-to-skin contact between the mother and her baby in the first hour of life\t 110",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        243.90090942382812,
+        396.8478698730469,
+        254.25991821289062
+      ],
+      "text": "Table A7.4: \t Antibiotics for suspected neonatal sepsis\t 111",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        257.7355041503906,
+        396.847900390625,
+        268.0945129394531
+      ],
+      "text": "Table A7.5: \t Mortality from NEC with different antibiotic regimens\t 112",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        271.5701904296875,
+        396.8479309082031,
+        281.92919921875
+      ],
+      "text": "Table A7.6: \t Kangaroo Mother Care\t 114",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        285.40478515625,
+        396.85693359375,
+        295.7637939453125
+      ],
+      "text": "Table A7.7: \t Prevention of hypothermia immediately after birth in LBW infants\t 115",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        299.239501953125,
+        396.8569030761719,
+        309.5985107421875
+      ],
+      "text": "Table A7.8: \t Antibiotics for non-severe pneumonia with or without wheeze\t 116",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        313.0740966796875,
+        396.8478698730469,
+        323.43310546875
+      ],
+      "text": "Table A7.9: \t Antibiotic for treatment of non-severe pneumonia\t 117",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        326.9088134765625,
+        396.8569030761719,
+        337.267822265625
+      ],
+      "text": "Table A7.10: \t Antibiotics for severe pneumonia\t 118",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        340.743408203125,
+        396.847900390625,
+        351.1024169921875
+      ],
+      "text": "Table A7.11: \t Ambulatory care of severe pneumonia\t 120",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        354.5780944824219,
+        396.8479309082031,
+        364.9371032714844
+      ],
+      "text": "Table A7.12: \t Antibiotics for very severe pneumonia\t 121",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        368.4126892089844,
+        396.847900390625,
+        378.7716979980469
+      ],
+      "text": "Table A7.13: \t Oral salbutamol for bronchoconstriction\t 122",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        382.247314453125,
+        396.8479309082031,
+        392.6063232421875
+      ],
+      "text": "Table A7.14: \t Antibiotic treatement of dysentery\t 123",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        396.0820007324219,
+        396.8479309082031,
+        406.4410095214844
+      ],
+      "text": "Table A7.15: \t Antibiotics for meningitis\t 125",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        409.91668701171875,
+        396.847900390625,
+        420.27569580078125
+      ],
+      "text": "Table A7.16: \t Short course antibiotics for meningitis\t 126",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        423.7513122558594,
+        396.847900390625,
+        434.1103210449219
+      ],
+      "text": "Table A7.17: \t Antibiotics for acute otitis media\t 127",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        437.58599853515625,
+        396.8479309082031,
+        447.94500732421875
+      ],
+      "text": "Table A7.18: \t Choice of antibiotics for acute otitis media\t 128",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        451.42059326171875,
+        396.847900390625,
+        461.77960205078125
+      ],
+      "text": "Table A7.19: \t Short course antibiotics for acute otitis media\t 129",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        465.2552185058594,
+        396.8569030761719,
+        475.6142272949219
+      ],
+      "text": "Table A7.20: \t Topical quinolone versus non quinolone for chronic suppurative otitis media (CSOM)\t 130",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        479.08990478515625,
+        396.8569030761719,
+        489.44891357421875
+      ],
+      "text": "Table A7.21: \t Topical quinolone antibiotics for chronic suppurative otitis media (CSOM)\t 131",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        492.92449951171875,
+        396.8479309082031,
+        503.28350830078125
+      ],
+      "text": "Table A7.22: \t Systemic antibiotics for chronic suppurative otitis media (CSOM)\t 132",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        506.7591857910156,
+        396.847900390625,
+        517.1181640625
+      ],
+      "text": "Table A7.23: \t Topical antiseptics for treatment of CSOM\t 133",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        520.5938110351562,
+        396.8479309082031,
+        530.9527587890625
+      ],
+      "text": "Table A7.24: \t Fluoroquinolones versus chloramphenicol for typhoid fever\t 134",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        534.4285278320312,
+        396.8479309082031,
+        544.7874755859375
+      ],
+      "text": "Table A7.25: \t Fluoroquinolones versus beta lactam antibiotics for typhoid fever\t 135",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        548.2631225585938,
+        396.8478698730469,
+        558.6220703125
+      ],
+      "text": "Table A7.26: \t Azithromycin for typhoid fever\t 136",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        562.0977172851562,
+        396.8478698730469,
+        572.4566650390625
+      ],
+      "text": "Table A7.27: \t Antibiotics for severe acute malnutrition\t 138",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        575.9324340820312,
+        396.847900390625,
+        586.2913818359375
+      ],
+      "text": "Table A7.28: \t Detection of hypoxia using pulse oximetry\t 140",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        589.7671508789062,
+        396.847900390625,
+        600.1260986328125
+      ],
+      "text": "Table A7.29: \t Effectiveness of oxygen therapy\t 143",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        603.6017456054688,
+        396.847900390625,
+        613.960693359375
+      ],
+      "text": "Table A7.30: \t Oxygen delivery methods\t 144",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        617.4363403320312,
+        396.8478698730469,
+        627.7952880859375
+      ],
+      "text": "Table A7.31: \t Oxygen delivery methods\t 145",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        221.57870483398438,
+        644.9403076171875,
+        233.4586944580078,
+        655.2992553710938
+      ],
+      "text": "107",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "file": "module3",
+  "page": 105,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        78.81909942626953,
+        82.30619812011719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        69.16120147705078,
+        526.9420776367188,
+        82.30619812011719
+      ],
+      "text": "Resistance-conferring mutations detected by SL-LPA are highly correlated with phenotypic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        84.66120147705078,
+        173.42298889160156,
+        97.80619812011719
+      ],
+      "text": "resistance to SLID.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.16120147705078,
+        78.81909942626953,
+        113.30619812011719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        100.16120147705078,
+        526.6378784179688,
+        113.30619812011719
+      ],
+      "text": "Given the high specificity for detecting resistance to fluoroquinolones and SLID, the positive",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979331016540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        115.66120147705078,
+        527.1185302734375,
+        128.8061981201172
+      ],
+      "text": "results of SL-LPA could be used to guide the implementation of appropriate infection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        131.16119384765625,
+        183.2574920654297,
+        144.3061981201172
+      ],
+      "text": "control precautions.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.5075225830078,
+        173.49029541015625,
+        175.8875274658203
+      ],
+      "text": "Test description",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.638427734375,
+        526.8137817382812,
+        197.78343200683594
+      ],
+      "text": "The SL-LPA is based on the same principle as the first-line LPA. The assay procedure can be",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.638427734375,
+        526.9489135742188,
+        211.78343200683594
+      ],
+      "text": "performed   using a processed sputum sample or  using DNA isolated and  directly  indirectly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.638427734375,
+        489.7388916015625,
+        225.78343200683594
+      ],
+      "text": "amplified from a culture of  Direct testing involves the following steps: M. tuberculosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.390380859375,
+        526.9972534179688,
+        245.53538513183594
+      ],
+      "text": "1.\t Decontamination (e.g. with sodium hydroxide) and concentration of a sputum specimen",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        247.890380859375,
+        172.37918090820312,
+        261.035400390625
+      ],
+      "text": "by centrifugation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.894287109375,
+        257.0328063964844,
+        285.039306640625
+      ],
+      "text": "2.\t Isolation and amplification of DNA.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.898193359375,
+        400.5036315917969,
+        309.043212890625
+      ],
+      "text": "3.\t Detection of the amplification products by reverse hybridization.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.9022216796875,
+        491.6918640136719,
+        333.0472412109375
+      ],
+      "text": "4.\t Visualization using a streptavidin-conjugated alkaline phosphatase colour reaction.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.9060974121094,
+        524.4069213867188,
+        357.0511169433594
+      ],
+      "text": "Indirect testing includes only Steps 2–4. The observed bands, each corresponding to a wild-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.4060974121094,
+        526.9655151367188,
+        372.5511169433594
+      ],
+      "text": "type or resistance-genotype probe, can be used to determine the drug susceptibility profile of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.9060974121094,
+        526.9656982421875,
+        388.0511169433594
+      ],
+      "text": "the analysed specimen. The assay can be performed and completed within a single working",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.4060974121094,
+        527.3026733398438,
+        403.5511169433594
+      ],
+      "text": "day. Further details on the test process and practical support for implementation can be found",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98884391784668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.9060974121094,
+        348.2530212402344,
+        419.0511169433594
+      ],
+      "text": "in the WHO operational handbook. Module 3: diagnosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.91009521484375,
+        527.0192260742188,
+        443.05511474609375
+      ],
+      "text": "The index test used was MTBDR  versions 1.0 and 2.0. These SL-LPAs detect specific mutations  sl",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.991347312927246,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.41009521484375,
+        526.9667358398438,
+        458.55511474609375
+      ],
+      "text": "associated with resistance to the class of fluoroquinolones (including ofloxacin, levofloxacin,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.91009521484375,
+        526.9644775390625,
+        474.05511474609375
+      ],
+      "text": "moxifloxacin and gatifloxacin) and SLIDs (including kanamycin, amikacin and capreomycin) in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.41009521484375,
+        526.9564819335938,
+        489.55511474609375
+      ],
+      "text": "the MTBC. The MTBDR  LPA detects mutations in the   quinolone resistance-determining  sl gyrA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.91009521484375,
+        526.7072143554688,
+        505.05511474609375
+      ],
+      "text": "region (codons 85–97) and   (codons 1401, 1402 and 1484), and version 2.0 of the test added  rrs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.971312522888184,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.41009521484375,
+        527.0288696289062,
+        520.5551147460938
+      ],
+      "text": "detection of mutations in the   quinolone resistance-determining region (codons 536–541)  gyrB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975372314453125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.9100952148438,
+        526.8331298828125,
+        536.0551147460938
+      ],
+      "text": "and the   promoter region (codons –10 to –14)  Version 2.0 is therefore expected to have  eis (40).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97852897644043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.4100952148438,
+        526.9369506835938,
+        551.5551147460938
+      ],
+      "text": "improved sensitivity for resistance detection to these classes of drugs. Lastly, while version 1.0",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.9100952148438,
+        527.14892578125,
+        567.0551147460938
+      ],
+      "text": "included detection of mutations in   that may encode for resistance to ethambutol, it was  embB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98884391784668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        569.4100952148438,
+        526.9646606445312,
+        582.5551147460938
+      ],
+      "text": "omitted from version 2.0 due to its status as a first line anti-TB drug. Therefore, this review did",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        584.9100952148438,
+        336.8971862792969,
+        598.0551147460938
+      ],
+      "text": "not determine the accuracy for ethambutol resistance.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.9140014648438,
+        526.678466796875,
+        622.0590209960938
+      ],
+      "text": "More data are needed to better understand the correlation of the presence of certain",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.4140014648438,
+        526.9855346679688,
+        637.5590209960938
+      ],
+      "text": "fluoroquinolone resistance-conferring mutations with phenotypic DST resistance and with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        639.9140014648438,
+        160.10829162597656,
+        653.0590209960938
+      ],
+      "text": "patient outcomes.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.4255981445312,
+        239.91468811035156,
+        681.8056030273438
+      ],
+      "text": "Justification and evidence",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.0565185546875,
+        527.1031494140625,
+        705.2015380859375
+      ],
+      "text": "In March 2016, the WHO Global TB Programme convened a GDG to assess available data on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959525108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.5565185546875,
+        527.1652221679688,
+        720.7015380859375
+      ],
+      "text": "use of the MTBDR  assay. WHO commissioned a systematic review on the accuracy and clinical  sl",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982085227966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        723.0565185546875,
+        526.9656372070312,
+        736.2015380859375
+      ],
+      "text": "use of assays for the detection of mutations associated with resistance to fluoroquinolones",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        738.5565185546875,
+        250.07810974121094,
+        751.7015380859375
+      ],
+      "text": "and SLID in people with MDR/RR-TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 89",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

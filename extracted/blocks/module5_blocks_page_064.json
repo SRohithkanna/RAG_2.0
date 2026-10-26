@@ -1,0 +1,666 @@
+{
+  "file": "module5",
+  "page": 64,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.21469116210938,
+        527.5891723632812,
+        81.83369445800781
+      ],
+      "text": "Adolescents:  The population in the PICO question included both children (aged 0–9 years) and",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4400024414062,
+        95.03370666503906
+      ],
+      "text": "adolescents (aged 10–19 years). Based on the available information in the studies the median age of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.392333984375,
+        108.23371887207031
+      ],
+      "text": "patients in the three studies using the intervention regimen were: 35 months (range: 2 months–14",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.5885009765625,
+        121.43373107910156
+      ],
+      "text": "years), 28 months (range: 2 months–15 years) and 30 months (5–82 months). In the studies using the",
+      "font": "SegoeUI-Light",
+      "size": 10.991546630859375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.3947143554688,
+        134.6337432861328
+      ],
+      "text": "comparator regimen, the age structure reported in two of the three studies was: <18 years and 3.3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.3904418945312,
+        147.8336944580078
+      ],
+      "text": "years (range: 1–16 years). This recommendation therefore applies to both adolescents and children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        154.91860961914062,
+        527.5486450195312,
+        169.53761291503906
+      ],
+      "text": "Other subgroup analyses:  Several subgroup analyses were pre-planned by the systematic reviewers",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.9844388961792,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.2946319580078,
+        527.4279174804688,
+        182.7376251220703
+      ],
+      "text": "(including subgroup analyses by: age group, for patients with DR-TB (including isoniazid-resistant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.49464416503906,
+        527.4201049804688,
+        195.93763732910156
+      ],
+      "text": "TB), for patients who were microbiologically confirmed versus those clinically diagnosed, by Medical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69459533691406,
+        527.4102783203125,
+        209.13758850097656
+      ],
+      "text": "Research Council stage at diagnosis, and for patients with complications including tuberculoma and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        480.5527648925781,
+        222.3376007080078
+      ],
+      "text": "hydrocephalus). However, these analyses could not be conducted due to insufficient data.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.6879425048828,
+        337.8164978027344,
+        256.56793212890625
+      ],
+      "text": "5.2.3. Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.77178955078125,
+        527.4343872070312,
+        277.2148132324219
+      ],
+      "text": "One key implementation consideration is the administration of the intervention regimen with the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.971923828125,
+        527.5940551757812,
+        290.4149475097656
+      ],
+      "text": "correct dosages of the included medicines, using currently available child-friendly formulations,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.17193603515625,
+        527.4133911132812,
+        303.6149597167969
+      ],
+      "text": "including FDC formulations when possible. The regimen includes isoniazid, rifampicin, pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.371826171875,
+        265.41217041015625,
+        316.8148498535156
+      ],
+      "text": "and ethionamide, and is dosed as follows:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.0758056640625,
+        78.23609924316406,
+        338.5188293457031
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        324.0758056640625,
+        303.4161376953125,
+        338.5188293457031
+      ],
+      "text": "Isoniazid: 20 mg per kg, maximum 400 mg daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.27581787109375,
+        78.23609924316406,
+        351.7188415527344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        337.27581787109375,
+        310.7091979980469,
+        351.7188415527344
+      ],
+      "text": "Rifampicin: 20 mg per kg, maximum 600 mg daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.4757995605469,
+        78.23609924316406,
+        364.9188232421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        350.4757995605469,
+        330.7842102050781,
+        364.9188232421875
+      ],
+      "text": "Pyrazinamide: 40 mg per kg, maximum 2000 mg daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.6758117675781,
+        78.23609924316406,
+        378.11883544921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        363.6758117675781,
+        320.80718994140625,
+        378.11883544921875
+      ],
+      "text": "Ethionamide: 20 mg per kg, maximum 750 mg daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.37969970703125,
+        527.433349609375,
+        399.8227233886719
+      ],
+      "text": "Historically, the regimen was dosed using a child-friendly FDC (dispersible tablet) of isoniazid and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.5797119140625,
+        527.5938110351562,
+        413.0227355957031
+      ],
+      "text": "rifampicin (60 mg/60 mg) with pyrazinamide and ethionamide added as single medicines. This 60/60",
+      "font": "SegoeUI-Light",
+      "size": 10.990896224975586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.7796936035156,
+        527.4443969726562,
+        426.22271728515625
+      ],
+      "text": "mg FDC has limited availability globally, while a 50/75 mg isoniazid/rifampicin dispersible tablet is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.9797058105469,
+        527.4443969726562,
+        439.4227294921875
+      ],
+      "text": "widely available through the Stop TB Partnership Global Drug Facility in over 100 countries (at the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.1797180175781,
+        527.4420166015625,
+        452.62274169921875
+      ],
+      "text": "time of the GDG meeting). Using this formulation, rifampicin is dosed at slightly higher mg per kg",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.37969970703125,
+        527.3870849609375,
+        465.8227233886719
+      ],
+      "text": "doses as the drug ratio between isoniazid and rifampicin is 1:1.5 in the formulation. Higher doses of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.5797119140625,
+        527.4423217773438,
+        479.0227355957031
+      ],
+      "text": "rifampicin are being used in several other trials including the SURE trial, TBM Kids and OptiRif Kids.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.7796936035156,
+        527.3914794921875,
+        492.22271728515625
+      ],
+      "text": "Results from the SURE trial and TBM Kids are expected in the coming years while the results from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.18572998046875,
+        527.3971557617188,
+        505.4227294921875
+      ],
+      "text": "(74) the OptiRif Kids trial   were published after the GDG meeting. The dosing of the shorter intensive",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.1796875,
+        527.4540405273438,
+        518.6226806640625
+      ],
+      "text": "regimen was the subject of an expert consultation convened by the WHO after the GDG meeting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.3796997070312,
+        463.44964599609375,
+        531.8226928710938
+      ],
+      "text": "and information on dosing for this regimen is included in the Operational Handbook.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.0836181640625,
+        527.31640625,
+        553.526611328125
+      ],
+      "text": "A dispersible paediatric formulation of ethionamide (125 mg) has been available from the Stop",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.28369140625,
+        527.5640869140625,
+        566.7266845703125
+      ],
+      "text": "TB Partnership GDF since March 2018. Although orders for ethionamide are received from high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.4837036132812,
+        527.587158203125,
+        579.9266967773438
+      ],
+      "text": "MDR-TB burden countries consistently (this formulation was supplied by GDF to 41 countries between",
+      "font": "SegoeUI-Light",
+      "size": 10.971814155578613,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.68359375,
+        527.4222412109375,
+        593.1265869140625
+      ],
+      "text": "2019 and 2021 at the time of the GDG meeting), the GDG members discussed that the paediatric",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.8837280273438,
+        527.589599609375,
+        606.3267211914062
+      ],
+      "text": "formulation of ethionamide may not be available in all countries or health care levels where it is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.083740234375,
+        527.5597534179688,
+        619.5267333984375
+      ],
+      "text": "needed. Ethionamide is a component of the shorter all-oral bedaquiline-containing regimens to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.2835693359375,
+        527.3935546875,
+        632.7265625
+      ],
+      "text": "treat MDR/RR-TB; however, at the time that the GDG meeting was held (May-June 2021) the shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.483642578125,
+        393.0358581542969,
+        645.9266357421875
+      ],
+      "text": "regimen was only recommended for children aged 6 years and above.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.1876220703125,
+        527.4168701171875,
+        667.630615234375
+      ],
+      "text": "The GDG members also noted that this regimen should ideally be used in children with TBM that is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.3875732421875,
+        527.4201049804688,
+        680.83056640625
+      ],
+      "text": "bacteriologically confirmed as drug susceptible. However, it can also be used for children who are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.5875854492188,
+        527.385986328125,
+        694.0305786132812
+      ],
+      "text": "clinically diagnosed, but there should be no suspicion of DR-TB, such as in children or adolescents",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.78759765625,
+        527.3817749023438,
+        707.2305908203125
+      ],
+      "text": "who have a history of contact with a patient with confirmed DR-TB (including isoniazid resistance,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.9876098632812,
+        527.3194580078125,
+        720.4306030273438
+      ],
+      "text": "rifampicin resistance or multi-drug resistance). In countries or areas with a high background prevalence",
+      "font": "SegoeUI-Light",
+      "size": 10.954004287719727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.1876220703125,
+        527.1749267578125,
+        733.630615234375
+      ],
+      "text": "of DR-TB and where ethionamide is in use to treat DR-TB, programmes and clinicians need to consider",
+      "font": "SegoeUI-Light",
+      "size": 10.961934089660645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.3875732421875,
+        527.4256591796875,
+        746.83056640625
+      ],
+      "text": "the risks and benefits of using this regimen. The current recommendation for the diagnosis of TBM is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.5875854492188,
+        527.4047241210938,
+        760.0305786132812
+      ],
+      "text": "that in adults or children with signs and symptoms of TBM, Xpert MTB/RIF or Xpert Ultra should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.78759765625,
+        527.3915405273438,
+        773.2305908203125
+      ],
+      "text": "used in cerebrospinal fluid as the initial diagnostic test rather than smear microscopy/culture (strong",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "40 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

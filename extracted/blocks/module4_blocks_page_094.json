@@ -1,0 +1,426 @@
+{
+  "file": "module4",
+  "page": 94,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        260.581298828125,
+        82.6147232055664
+      ],
+      "text": "Table 1.6. Regimen cost estimates",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        444.55841064453125,
+        98.82018280029297,
+        496.7369384765625,
+        113.17518615722656
+      ],
+      "text": "Estimated",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        259.08660888671875,
+        104.82018280029297,
+        302.98980712890625,
+        119.17518615722656
+      ],
+      "text": "Regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        419.58551025390625,
+        110.82018280029297,
+        518.6658325195312,
+        125.17518615722656
+      ],
+      "text": "regimen price (US$)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        132.434814453125,
+        484.66943359375,
+        146.98780822753906
+      ],
+      "text": "BEAT-TB trial regimens 6BDLLfx (FQ-S) 1374",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        259.08660888671875,
+        154.15943908691406,
+        484.66943359375,
+        168.60243225097656
+      ],
+      "text": "6BDLC (FQ-R) 1460",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        259.08660888671875,
+        175.7740020751953,
+        484.66943359375,
+        190.2169952392578
+      ],
+      "text": "6BDLLfxC (FQ – unknown) 1479",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        197.27862548828125,
+        484.6709289550781,
+        211.8316192626953
+      ],
+      "text": "WHO-recommended regimens 9-month regimen 418",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        259.08660888671875,
+        219.0032501220703,
+        484.6709289550781,
+        233.4462432861328
+      ],
+      "text": "9-month regimen (with Lzd) 396",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        259.08660888671875,
+        240.61781311035156,
+        484.6709289550781,
+        255.06080627441406
+      ],
+      "text": "Longer regimen (18B LLC) 632",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        355.8360900878906,
+        248.15663146972656,
+        359.1387939453125,
+        256.576904296875
+      ],
+      "text": "6",
+      "font": "SegoeUI-Light",
+      "size": 6.413000106811523,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.39154052734375,
+        526.5782470703125,
+        279.8955383300781
+      ],
+      "text": "BDLLfx: bedaquiline, delamanid, linezolid and levofloxacin; FQ: fluoroquinolones; FQ-R: FQ resistant; FQ-S: FQ susceptible; Lzd: linezolid;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        280.39154052734375,
+        184.85252380371094,
+        290.8955383300781
+      ],
+      "text": "WHO: World Health Organization.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.4674072265625,
+        527.4321899414062,
+        321.9104309082031
+      ],
+      "text": "The GDG also considered the following example of country-specific costs (both patient-borne and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.66741943359375,
+        527.4451293945312,
+        335.1104431152344
+      ],
+      "text": "health system costs) over a 3-month span (excluding drug costs), based on modeling analysis in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.5914001464844,
+        524.493896484375,
+        348.3104248046875
+      ],
+      "text": "2024 (51) Ryckman et al. ( )  . Costs may vary depending on the composition of the regimen being used.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989794731140137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.77789306640625,
+        345.91571044921875,
+        382.60589599609375
+      ],
+      "text": "Table 1.7. Patient-borne and health system costs",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        442.0406188964844,
+        322.5575866699219,
+        456.5936279296875
+      ],
+      "text": "Country Patient Health system Total",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        463.65521240234375,
+        327.0725402832031,
+        478.2082214355469
+      ],
+      "text": "India 384  87  471",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        485.2698059082031,
+        327.071044921875,
+        499.82281494140625
+      ],
+      "text": "Philippines 774  234  1008",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        506.8843994140625,
+        327.0725402832031,
+        521.4373779296875
+      ],
+      "text": "South Africa 342  642  984",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.7681274414062,
+        226.742919921875,
+        546.2720947265625
+      ],
+      "text": "RR-TB: rifampicin-resistant TB; TB: tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.843994140625,
+        527.4212036132812,
+        577.2869873046875
+      ],
+      "text": "The GDG noted that affordability will vary depending on country (and resources available), health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.0440063476562,
+        527.4444580078125,
+        590.4869995117188
+      ],
+      "text": "system differences and the population the regimen would be used for; accordingly, they judged that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        589.2440185546875,
+        286.40118408203125,
+        603.68701171875
+      ],
+      "text": "costs would vary between moderate and large.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.9478759765625,
+        527.4564208984375,
+        625.390869140625
+      ],
+      "text": "The price of delamanid is one of the major cost drivers in BDLLfxC. The drug is off-patent; hence,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.1478881835938,
+        527.455322265625,
+        638.5908813476562
+      ],
+      "text": "prices may decrease with generic development. It was highlighted that there are costs to a longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.3480224609375,
+        527.5458984375,
+        651.791015625
+      ],
+      "text": "duration of treatment (especially for patients and families but also the health system) – some estimates",
+      "font": "SegoeUI-Light",
+      "size": 10.965596199035645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.5479736328125,
+        527.4354858398438,
+        664.990966796875
+      ],
+      "text": "were available and discussed by the group. Considering these costs together with the drug prices",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.7479248046875,
+        527.412353515625,
+        678.19091796875
+      ],
+      "text": "may attenuate some of the increased costs for the health system and lead to cost savings from the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.9478759765625,
+        527.4002075195312,
+        691.390869140625
+      ],
+      "text": "patient perspective. However, countries looking to implement a specific treatment regimen typically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.1478881835938,
+        403.2861328125,
+        704.5908813476562
+      ],
+      "text": "focus on the drug cost. No evidence on cost–effectiveness was available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "80 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "file": "module1",
+  "page": 135,
+  "table_id": 1,
+  "bbox": [
+    56.69298095703125,
+    71.11672537667411,
+    784.197021484375,
+    509.3160044352214
+  ],
+  "heading": null,
+  "n_rows": 5,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "Research evidence",
+      "Additional considerations"
+    ],
+    [
+      "Evidence of accuracy",
+      "What is the overall A systematic review was conducted, which identified two cross-sectional studies of the WHO-recommended four- certainty of the evidence symptom screening rule plus abnormal CXR. The studies involved 646 participants, of whom 39 (6.0%) had active TB. of test accuracy? The quality of the evidence for true positive–false negatives was considered moderate because of serious imprecision, • Very low while that for true negative–false negative was high. In view of the moderate quality of the evidence of true positive–false • Low negatives and taking into account the small number of studies, the overall quality of the evidence was considered low. • Moderate • High • No included studies",
+      "",
+      ""
+    ],
+    [
+      "Management e f fects",
+      "What is the overall The studies included in the review were not designed to assess the effects of management with different screening The efficacy of preventive certainty of the strategies on patient outcomes (e.g. active TB incidence, mortality, drug resistance). treatment might depend on evidence of effects of confirmation of TB infection in the management that an LTBI test. is guided by the test results? • Major uncertainty • Minor uncertainty",
+      "",
+      ""
+    ],
+    [
+      "Values",
+      "Is there important Addition of abnormal chest uncertainty about or radiography increases burden on variation in how many patients. people value the main Patients may value greater outcomes? certainty in excluding active TB. • Important uncertainty or variation • No important uncertainty or variation",
+      "",
+      ""
+    ],
+    [
+      "Resources required",
+      "How large are the More resources required, resource requirements particularly if CXR is not (costs)? available. • Greater resource Chest radiography would requirements increase the number of HIV- • Less resource positive people who undergo requirements further investigations for TB. • Neither greater nor less • Varies • Don’t know",
+      "",
+      ""
+    ]
+  ]
+}

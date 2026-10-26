@@ -1,0 +1,846 @@
+{
+  "file": "module5",
+  "page": 11,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        270.19415283203125,
+        147.5496368408203
+      ],
+      "text": "Abbreviations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.63563537597656,
+        97.0740966796875,
+        194.338134765625
+      ],
+      "text": "AIDS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        180.74063110351562,
+        318.8948669433594,
+        194.52713012695312
+      ],
+      "text": "acquired immunodeficiency syndrome",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.95448303222656,
+        95.37309265136719,
+        211.656982421875
+      ],
+      "text": "ANC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        198.05947875976562,
+        213.6417999267578,
+        211.84597778320312
+      ],
+      "text": "antenatal care",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.2733917236328,
+        92.88983917236328,
+        228.97589111328125
+      ],
+      "text": "ART",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        215.37838745117188,
+        252.00982666015625,
+        229.16488647460938
+      ],
+      "text": "antiretroviral treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.59230041503906,
+        93.63850402832031,
+        246.2947998046875
+      ],
+      "text": "BCG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        232.69729614257812,
+        254.91311645507812,
+        246.48379516601562
+      ],
+      "text": "bacille Calmette-Guérin",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.9112091064453,
+        116.9190902709961,
+        263.61370849609375
+      ],
+      "text": "C(A)LHIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        250.01620483398438,
+        371.5817565917969,
+        263.8027038574219
+      ],
+      "text": "children (and adolescents) living with HIV infection",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.2301330566406,
+        98.13459014892578,
+        280.9326171875
+      ],
+      "text": "CHW",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        267.3351135253906,
+        263.5860900878906,
+        281.1216125488281
+      ],
+      "text": "community health worker",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.5490417480469,
+        93.31509399414062,
+        298.25152587890625
+      ],
+      "text": "CXR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        284.6540222167969,
+        295.13861083984375,
+        298.4405212402344
+      ],
+      "text": "chest X-ray or chest radiography",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.8679504394531,
+        104.1825942993164,
+        315.5704345703125
+      ],
+      "text": "DR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        301.9729309082031,
+        270.3450012207031,
+        315.7594299316406
+      ],
+      "text": "drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.18682861328125,
+        103.35309600830078,
+        332.8893127441406
+      ],
+      "text": "DS-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        319.29180908203125,
+        279.78240966796875,
+        333.07830810546875
+      ],
+      "text": "drug-susceptible tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.5057373046875,
+        92.79009246826172,
+        350.2082214355469
+      ],
+      "text": "DST",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        336.6107177734375,
+        262.81964111328125,
+        350.397216796875
+      ],
+      "text": "drug susceptibility testing",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.8246154785156,
+        93.54609680175781,
+        367.527099609375
+      ],
+      "text": "DTG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        353.9295959472656,
+        204.73361206054688,
+        367.7160949707031
+      ],
+      "text": "dolutegravir",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.1435241699219,
+        79.19259643554688,
+        384.84600830078125
+      ],
+      "text": "E",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        371.2485046386719,
+        202.381591796875,
+        385.0350036621094
+      ],
+      "text": "ethambutol",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.4624328613281,
+        97.46260070800781,
+        402.1649169921875
+      ],
+      "text": "EPTB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        388.5674133300781,
+        235.15631103515625,
+        402.3539123535156
+      ],
+      "text": "extrapulmonary TB",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.7813415527344,
+        89.18859100341797,
+        419.48382568359375
+      ],
+      "text": "Eto",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        405.8863220214844,
+        206.7180938720703,
+        419.6728210449219
+      ],
+      "text": "ethionamide",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.1002197265625,
+        93.07360076904297,
+        436.8027038574219
+      ],
+      "text": "FDC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        423.2052001953125,
+        308.0956115722656,
+        436.99169921875
+      ],
+      "text": "fixed-dose combination (medicines)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.41912841796875,
+        93.8716049194336,
+        454.1216125488281
+      ],
+      "text": "GDF",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        440.52410888671875,
+        325.87738037109375,
+        454.31060791015625
+      ],
+      "text": "Stop TB Partnership Global Drug Facility",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.738037109375,
+        95.91909790039062,
+        471.4405212402344
+      ],
+      "text": "GDG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        457.843017578125,
+        285.49755859375,
+        471.6295166015625
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.0569152832031,
+        107.6266098022461,
+        488.7593994140625
+      ],
+      "text": "GRADE",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        475.1618957519531,
+        468.46844482421875,
+        488.9483947753906
+      ],
+      "text": "Grading of Recommendations Assessment, Development and Evaluation",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.3758239746094,
+        95.19459533691406,
+        506.07830810546875
+      ],
+      "text": "GUV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        492.4808044433594,
+        243.09112548828125,
+        506.2673034667969
+      ],
+      "text": "germicidal ultraviolet",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.6946105957031,
+        81.4710922241211,
+        523.3970947265625
+      ],
+      "text": "H",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        509.7995910644531,
+        189.8446044921875,
+        523.5861206054688
+      ],
+      "text": "isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.0136108398438,
+        99.36940002441406,
+        540.7161254882812
+      ],
+      "text": "HEPA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        527.11865234375,
+        278.58221435546875,
+        540.9051513671875
+      ],
+      "text": "high-efficiency particulate air",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.33251953125,
+        91.24658966064453,
+        558.0350341796875
+      ],
+      "text": "HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        544.4375610351562,
+        288.2820739746094,
+        558.2240600585938
+      ],
+      "text": "human immunodeficiency virus",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.6513061523438,
+        92.01309204101562,
+        575.3538208007812
+      ],
+      "text": "KSP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        561.75634765625,
+        276.4538879394531,
+        575.5428466796875
+      ],
+      "text": "Knowledge Sharing Platform",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.97021484375,
+        98.94309997558594,
+        592.6727294921875
+      ],
+      "text": "iCCM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        579.0752563476562,
+        332.29815673828125,
+        592.8617553710938
+      ],
+      "text": "integrated community case management",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.2891845703125,
+        97.693603515625,
+        609.99169921875
+      ],
+      "text": "IGRA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        596.3942260742188,
+        292.0904846191406,
+        610.1807250976562
+      ],
+      "text": "interferon-gamma release assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.6080322265625,
+        96.04509735107422,
+        627.310546875
+      ],
+      "text": "IMCI",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        613.7130737304688,
+        344.6461181640625,
+        627.4995727539062
+      ],
+      "text": "integrated management of childhood illness",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.9268798828125,
+        90.44860076904297,
+        644.62939453125
+      ],
+      "text": "IPD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        631.0319213867188,
+        301.83062744140625,
+        644.8184204101562
+      ],
+      "text": "individual patient data (or dataset)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.2459106445312,
+        88.71609497070312,
+        661.9484252929688
+      ],
+      "text": "IPT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        648.3509521484375,
+        274.3769836425781,
+        662.137451171875
+      ],
+      "text": "isoniazid preventive therapy",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.5648193359375,
+        102.0374526977539,
+        679.267333984375
+      ],
+      "text": "LAMP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        665.6698608398438,
+        324.3097839355469,
+        679.4563598632812
+      ],
+      "text": "loop-mediated isothermal amplification",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.8836059570312,
+        110.53195190429688,
+        696.5861206054688
+      ],
+      "text": "LF-LAM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        682.9886474609375,
+        313.70263671875,
+        696.775146484375
+      ],
+      "text": "lateral flow lipoarabinomannan assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.2025146484375,
+        91.34529876708984,
+        713.905029296875
+      ],
+      "text": "LPA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        700.3075561523438,
+        223.63677978515625,
+        714.0940551757812
+      ],
+      "text": "line-probe assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.5214233398438,
+        83.45559692382812,
+        731.2239379882812
+      ],
+      "text": "M",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        717.62646484375,
+        205.5389404296875,
+        731.4129638671875
+      ],
+      "text": "moxifloxacin",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        734.84033203125,
+        113.88460540771484,
+        748.5428466796875
+      ],
+      "text": "MDR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        734.9453735351562,
+        289.1399230957031,
+        748.7318725585938
+      ],
+      "text": "multidrug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.1591796875,
+        104.6928939819336,
+        765.8616943359375
+      ],
+      "text": "NAATs",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        752.2642211914062,
+        283.9140930175781,
+        766.0507202148438
+      ],
+      "text": "nucleic acid amplification tests",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        478.78839111328125,
+        801.0170288085938,
+        552.4254150390625,
+        811.52099609375
+      ],
+      "text": "Abbreviations  ix",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "file": "module5",
+  "page": 128,
+  "blocks": [
+    {
+      "bbox": [
+        49.864601135253906,
+        613.3038330078125,
+        241.70343017578125,
+        626.5918579101562
+      ],
+      "text": "For further information, please contact:",
+      "font": "AvenirLTStd-Book",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        49.864601135253906,
+        633.3458251953125,
+        189.3776092529297,
+        646.5787963867188
+      ],
+      "text": "World Health Organization",
+      "font": "AvenirLTStd-Black",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        49.864601135253906,
+        650.1098022460938,
+        299.9056091308594,
+        663.3978271484375
+      ],
+      "text": "20, Avenue Appia CH-1211 Geneva 27 Switzerland",
+      "font": "AvenirLTStd-Book",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        49.864601135253906,
+        666.5108032226562,
+        159.24749755859375,
+        679.798828125
+      ],
+      "text": "Global TB Programme",
+      "font": "AvenirLTStd-Book",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        49.864601135253906,
+        682.9118041992188,
+        175.9234619140625,
+        696.1998291015625
+      ],
+      "text": "Web site: www.who.int/tb",
+      "font": "AvenirLTStd-Book",
+      "size": 11.0,
+      "type": "paragraph"
+    }
+  ]
+}

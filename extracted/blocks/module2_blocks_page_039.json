@@ -1,0 +1,498 @@
+{
+  "file": "module2",
+  "page": 39,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.99839782714844,
+        496.6802062988281,
+        82.86639404296875
+      ],
+      "text": "Table 4. Sensitivity and specificity ranges of computer-aided detection software",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        82.39842224121094,
+        465.37335205078125,
+        97.26641845703125
+      ],
+      "text": "and human readers interpreting digital chest radiographs for detection of",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.79844665527344,
+        485.59222412109375,
+        111.66644287109375
+      ],
+      "text": "bacteriologically confirmed TB across three software programmes, from three",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.19841003417969,
+        491.7985534667969,
+        126.06640625
+      ],
+      "text": "independent evaluations of the software in a range of populations and settings",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        185.2117462158203,
+        485.5703125,
+        199.6547393798828
+      ],
+      "text": "WHO target product profile > 0.90 > 0.70",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        206.5623016357422,
+        174.6018829345703,
+        221.07130432128906
+      ],
+      "text": "Screening use case",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        228.44093322753906,
+        494.5188293457031,
+        242.88392639160156
+      ],
+      "text": "CAD software 0.90–0.92 0.23–0.66",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        250.0554962158203,
+        494.5188293457031,
+        264.4985046386719
+      ],
+      "text": "CXR with human reader 0.82–0.93 0.14–0.63",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        271.406005859375,
+        155.5168914794922,
+        285.91497802734375
+      ],
+      "text": "Triage use case",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        293.28472900390625,
+        494.5188293457031,
+        307.7277526855469
+      ],
+      "text": "CAD software 0.90–0.91 0.25–0.79",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        314.8992919921875,
+        494.5188293457031,
+        329.3423156738281
+      ],
+      "text": "CXR with human reader 0.89–0.96 0.36–0.63",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.67303466796875,
+        237.4468994140625,
+        354.1770324707031
+      ],
+      "text": "CAD: computer-aided detection; CXR: chest X-ray.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.0796203613281,
+        527.2693481445312,
+        379.52264404296875
+      ],
+      "text": "The results showed the variability of both human readers and CAD software programmes across",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.27960205078125,
+        527.3185424804688,
+        392.7226257324219
+      ],
+      "text": "different settings and populations. In comparing the range of accuracy of CAD to that of human readers",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.4796142578125,
+        527.4035034179688,
+        405.9226379394531
+      ],
+      "text": "interpreting CXRs and noting the variability of readers and the substantial overlap between the two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.6795959472656,
+        527.4442749023438,
+        419.12261962890625
+      ],
+      "text": "ranges, the data suggested there is little difference between the two. Therefore, the GDG considered",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.8796081542969,
+        519.832275390625,
+        432.3226318359375
+      ],
+      "text": "that CAD software programmes can be considered accurate when compared with human readers.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.58349609375,
+        527.4332885742188,
+        454.0265197753906
+      ],
+      "text": "Other desirable effects beyond the accuracy of the technologies would likely include the possibility",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.78350830078125,
+        527.4276733398438,
+        467.2265319824219
+      ],
+      "text": "to scale up and thus increase the access to chest radiography, given the scarcity of radiologists in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.9835205078125,
+        527.5609741210938,
+        480.4265441894531
+      ],
+      "text": "many settings. In addition, GDG members noted that in many settings, general practitioners or other",
+      "font": "SegoeUI-Light",
+      "size": 10.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.1835021972656,
+        527.415771484375,
+        493.62652587890625
+      ],
+      "text": "providers without specific training in radiology are often tasked with interpreting chest radiographs,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.3835144042969,
+        527.6018676757812,
+        506.8265380859375
+      ],
+      "text": "and they may not be as highly skilled as the readers used for comparison in the evaluations considered,",
+      "font": "SegoeUI-Light",
+      "size": 10.950287818908691,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.58349609375,
+        527.4102783203125,
+        520.0264892578125
+      ],
+      "text": "thus indicating that the comparisons presented here may represent an underestimate of the true",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.7835083007812,
+        327.3212890625,
+        533.2265014648438
+      ],
+      "text": "comparative accuracy of CAD software for detecting TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.487548828125,
+        527.438720703125,
+        554.9305419921875
+      ],
+      "text": "The drawback of using CAD interpretation in place of human readers for chest radiographs included",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.6875,
+        527.4452514648438,
+        568.1304931640625
+      ],
+      "text": "the fact that it cannot detect other lung pathologies beyond TB. The capacity of CAD technologies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.8875122070312,
+        527.5930786132812,
+        581.3305053710938
+      ],
+      "text": "to simultaneously screen for multiple pulmonary or thoracic conditions could be attractive for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.0875244140625,
+        527.40576171875,
+        594.530517578125
+      ],
+      "text": "programmes, but no data on the performance of CAD for differential diagnosis were available to be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.2874755859375,
+        173.10011291503906,
+        607.73046875
+      ],
+      "text": "assessed by the GDG.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.9913940429688,
+        527.394775390625,
+        629.4343872070312
+      ],
+      "text": "CAD technologies have the potential to increase equity in the reach of TB screening interventions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        628.19140625,
+        527.4497680664062,
+        642.6343994140625
+      ],
+      "text": "and in access to TB care if they facilitate the scale up of radiography for TB screening and triage and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.3914184570312,
+        241.26632690429688,
+        655.8344116210938
+      ],
+      "text": "improve the interpretation of images.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.0953369140625,
+        527.5716552734375,
+        677.538330078125
+      ],
+      "text": "The recommendation applies to software brands that upon external validation demonstrate a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.2952880859375,
+        527.4356689453125,
+        690.73828125
+      ],
+      "text": "performance that is not inferior to the products reviewed by the GDG in 2020. The analysis for this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.4954223632812,
+        527.4344482421875,
+        703.9384155273438
+      ],
+      "text": "recommendation was restricted to bacteriologically confirmed TB and, thus, the recommendation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.6953125,
+        527.3717651367188,
+        717.1383056640625
+      ],
+      "text": "may not necessarily apply to other forms of TB (e.g. exclusively extrapulmonary TB, clinically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.8953247070312,
+        527.4122924804688,
+        730.3383178710938
+      ],
+      "text": "diagnosed TB). This recommendation is specific to adults and adolescents aged 15 years and older.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.0953369140625,
+        527.4002685546875,
+        743.538330078125
+      ],
+      "text": "The recommendation applies only to the interpretation of anteroposterior or posteroanterior views",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.2952880859375,
+        527.38037109375,
+        756.73828125
+      ],
+      "text": "of digital plain CXRs for pulmonary TB: it does not apply to the interpretation of lateral or oblique",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.4954223632812,
+        427.2563171386719,
+        769.9384155273438
+      ],
+      "text": "views, and its applicability to the interpretation of analogue CXRs is unknown.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        293.323486328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "3. Recommendations for tools for systematic screening for TB disease 27",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

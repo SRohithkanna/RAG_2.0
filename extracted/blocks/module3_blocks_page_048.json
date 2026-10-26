@@ -1,0 +1,534 @@
+{
+  "file": "module3",
+  "page": 48,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        187.95372009277344,
+        85.31422424316406
+      ],
+      "text": "Systematic review",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.9635620117188,
+        108.71018981933594
+      ],
+      "text": "A total of 27 studies were identified that met inclusion criteria, of which 21 were sampled for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        526.9039916992188,
+        124.21018981933594
+      ],
+      "text": "inclusion in the analysis. All of the sampled studies were published between 2012 and 2020.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        526.904052734375,
+        139.71018981933594
+      ],
+      "text": "Of the 21 included studies, 18 were located in high TB burden countries: six in India, four in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.065185546875,
+        526.9067993164062,
+        155.21018981933594
+      ],
+      "text": "South Africa, two each in Kenya and Uganda, and one each in Brazil, Cambodia, Myanmar and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992347717285156,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.565185546875,
+        526.9920043945312,
+        170.71018981933594
+      ],
+      "text": "Viet Nam. One study covered projects in nine countries (Bangladesh, Cambodia, Democratic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.065185546875,
+        526.8931274414062,
+        186.21018981933594
+      ],
+      "text": "Republic of the Congo, Kenya, Malawi, Moldova, Mozambique, Nepal and Pakistan). In addition,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.945615768432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.565185546875,
+        527.3397827148438,
+        201.71018981933594
+      ],
+      "text": "there was one study located in Eswatini, one in Mongolia and one in Nepal. All studies focused",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98889446258545,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.065185546875,
+        480.97216796875,
+        217.21018981933594
+      ],
+      "text": "on Xpert MTB/RIF, except for one that focused on Xpert MTB/RIF Ultra (Xpert Ultra).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.069091796875,
+        527.0248413085938,
+        241.21409606933594
+      ],
+      "text": "A summary of the core characteristics of studies included in this review is presented in a study",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.569091796875,
+        526.9761962890625,
+        256.714111328125
+      ],
+      "text": "characteristics table in  Web Annex B.13: User perspectives on NAATs to detect TB and DR-TB:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.069091796875,
+        365.8489074707031,
+        272.214111328125
+      ],
+      "text": ". results from qualitative evidence synthesis: systematic review",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.5808410644531,
+        139.52069091796875,
+        300.9608154296875
+      ],
+      "text": "Interviews",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.21173095703125,
+        527.2131958007812,
+        324.35675048828125
+      ],
+      "text": "The aim of the interviews was to understand participants’ experiences of using the various",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.7117004394531,
+        526.7613525390625,
+        339.8567199707031
+      ],
+      "text": "technologies (i.e. NAATs for detection of TB and TB drug resistance) and their general TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.2117004394531,
+        526.9149169921875,
+        355.3567199707031
+      ],
+      "text": "diagnostic experiences. The three countries – India, Moldova and South Africa – were selected",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.7117004394531,
+        526.9695434570312,
+        370.8567199707031
+      ],
+      "text": "based on them being on WHO’s list of 30 high MDR-TB burden countries   and that index tests  (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951994895935059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.2117004394531,
+        527.008544921875,
+        386.3567199707031
+      ],
+      "text": "have been used to some extent in research contexts within these countries. Due to the short",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.7117004394531,
+        526.9138793945312,
+        401.8567199707031
+      ],
+      "text": "time frame, participants were purposively sampled and approached based on convenience",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.2117004394531,
+        279.0496826171875,
+        417.3567199707031
+      ],
+      "text": "through personal contacts and colleagues.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.2156066894531,
+        526.928466796875,
+        441.3606262207031
+      ],
+      "text": "An overview of the participants is given in   To mask the identity of study participants  Table 2.1.2.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        443.7156066894531,
+        526.9481811523438,
+        456.8606262207031
+      ],
+      "text": "they were coded by their country (Moldova [M], India [I] or South Africa [S]), their profession",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.2156066894531,
+        526.9921264648438,
+        472.3606262207031
+      ],
+      "text": "(clinician or medical doctor [M], patient advocate/representative [R], laboratory personnel [L]",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.7156066894531,
+        273.8797607421875,
+        487.8606262207031
+      ],
+      "text": "or programme officers [P]) and a number.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.5018310546875,
+        454.3020324707031,
+        516.58984375
+      ],
+      "text": "Table 2.1.2.3 Overview of participants for the end-users’ interviews",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        276.5945129394531,
+        532.0498046875,
+        514.1142578125,
+        544.9638061523438
+      ],
+      "text": "Moldova  India  South Africa",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        553.1680908203125,
+        485.5467834472656,
+        566.3131103515625
+      ],
+      "text": "1 1 1 Clinician or medical doctor",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        573.3065185546875,
+        485.5467834472656,
+        586.4515380859375
+      ],
+      "text": "1 1 1 Patient advocate/representative",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        593.4256591796875,
+        485.5467834472656,
+        606.5900268554688
+      ],
+      "text": "a a 2 5 2 Laboratory personnel",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        613.5640258789062,
+        485.5467834472656,
+        626.7283935546875
+      ],
+      "text": "a 2 2 1 Programme officers",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.4950561523438,
+        241.20452880859375,
+        653.265869140625
+      ],
+      "text": "a  Participants were interviewed as a group.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.7742309570312,
+        479.08123779296875,
+        681.9192504882812
+      ],
+      "text": "Interviews were conducted using Zoom, Skype or phone. Topics discussed included:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.5262451171875,
+        78.81909942626953,
+        701.6712646484375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        688.5262451171875,
+        527.0963134765625,
+        701.6712646484375
+      ],
+      "text": "current approach to diagnosing TB, MDR-TB and extensively drug-resistant TB (XDR-TB),",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        704.0261840820312,
+        227.04766845703125,
+        717.1712036132812
+      ],
+      "text": "including specific challenges;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.5261840820312,
+        78.81909942626953,
+        732.6712036132812
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        719.5261840820312,
+        526.964111328125,
+        732.6712036132812
+      ],
+      "text": "experiences with using molecular TB diagnostics and the index tests specifically, including",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        735.0261840820312,
+        317.5647277832031,
+        748.1712036132812
+      ],
+      "text": "details on steps taken in the diagnostic process;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        750.5261840820312,
+        78.81909942626953,
+        763.6712036132812
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        750.5261840820312,
+        526.5916748046875,
+        763.6712036132812
+      ],
+      "text": "experiences with determining eligibility and treatment initiation, and challenges and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        766.0261840820312,
+        243.58010864257812,
+        779.1712036132812
+      ],
+      "text": "benefits of using the index tests;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "32 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

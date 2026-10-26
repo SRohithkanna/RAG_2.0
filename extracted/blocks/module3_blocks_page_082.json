@@ -1,0 +1,546 @@
+{
+  "file": "module3",
+  "page": 82,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.89222717285156,
+        395.6661682128906,
+        85.3282241821289
+      ],
+      "text": "2.3.3 Concurrent use of tests in children with HIV",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        492.2799987792969,
+        75.86139678955078,
+        515.6900024414062,
+        87.56139373779297
+      ],
+      "text": "NEW",
+      "font": "FrutigerNeueLT-Md",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        97.07283020019531,
+        192.72633361816406,
+        113.45283508300781
+      ],
+      "text": "Recommendations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        135.70582580566406,
+        512.3682250976562,
+        148.6198272705078
+      ],
+      "text": "9.\t For children with HIV who have signs or symptoms or screen positive for",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.41439819335938,
+        151.20582580566406,
+        512.3693237304688,
+        164.1198272705078
+      ],
+      "text": "pulmonary TB, concurrent testing using low-complexity automated NAATs on",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.988694190979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.41439819335938,
+        166.70582580566406,
+        512.3785400390625,
+        179.6198272705078
+      ],
+      "text": "respiratory and stool samples and LF-LAM on urine may be used as the initial",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.41439819335938,
+        182.20582580566406,
+        512.3345947265625,
+        195.1198272705078
+      ],
+      "text": "diagnostic strategy for diagnosing TB rather than low-complexity automated",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.41439819335938,
+        197.70582580566406,
+        343.3282165527344,
+        210.6198272705078
+      ],
+      "text": "NAATs on respiratory or stool samples alone.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        221.7427978515625,
+        460.80499267578125,
+        234.62379455566406
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence for test accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        257.05560302734375,
+        120.02171325683594,
+        271.1435852050781
+      ],
+      "text": "Remarks",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.84649658203125,
+        78.81909942626953,
+        294.99151611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        281.84649658203125,
+        526.986083984375,
+        294.99151611328125
+      ],
+      "text": "This recommendation prioritizes concurrent testing over the use of molecular testing and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        297.34649658203125,
+        373.1024169921875,
+        310.49151611328125
+      ],
+      "text": "LF-LAM in isolation for diagnosis of TB in children with HIV.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.84649658203125,
+        78.81909942626953,
+        325.99151611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        312.84649658203125,
+        526.9653930664062,
+        325.99151611328125
+      ],
+      "text": "Use of LC-aNAATs on isolated specimens was also evaluated. The findings supported the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        328.34649658203125,
+        527.0081787109375,
+        341.49151611328125
+      ],
+      "text": "use of LC-aNAATs for initial diagnostic testing for TB in HIV-positive children with signs or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        343.84649658203125,
+        526.9642944335938,
+        356.99151611328125
+      ],
+      "text": "symptoms or who screen positive for pulmonary TB, using sputum, gastric aspirate, stool or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        359.34649658203125,
+        351.6318664550781,
+        372.49151611328125
+      ],
+      "text": "nasopharyngeal aspirate, rather than smear or culture.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.84649658203125,
+        78.81909942626953,
+        387.99151611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        374.84649658203125,
+        526.964111328125,
+        387.99151611328125
+      ],
+      "text": "This recommendation is conditional because the findings indicate moderate undesirable",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        390.34649658203125,
+        526.7315673828125,
+        403.49151611328125
+      ],
+      "text": "effects (i.e. decreased specificity, resulting in more false positive test results) when compared",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.962586402893066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        405.84649658203125,
+        212.79161071777344,
+        418.99151611328125
+      ],
+      "text": "with a single test strategy.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.34649658203125,
+        78.81909942626953,
+        434.49151611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        421.34649658203125,
+        527.1843872070312,
+        434.49151611328125
+      ],
+      "text": "The product for which eligible data met the LC-aNAAT class-based performance criteria",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        436.84649658203125,
+        526.9532470703125,
+        449.99151611328125
+      ],
+      "text": "for this recommendation was Xpert MTB/RIF Ultra. The performance of Truenat MTB Plus",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        452.34649658203125,
+        524.4104614257812,
+        465.49151611328125
+      ],
+      "text": "and MTB-RIF Dx for this recommendation could not be assessed, as data were unavailable.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.6927185058594,
+        239.91468811035156,
+        497.07269287109375
+      ],
+      "text": "Justification and evidence",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.32373046875,
+        527.1416015625,
+        520.46875
+      ],
+      "text": "LC-aNAATs on respiratory and stool sample and LF-LAM on urine are recommended as the first",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.980783462524414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.82373046875,
+        526.9479370117188,
+        535.96875
+      ],
+      "text": "test for symptomatic children with HIV presenting with presumptive TB disease, and should",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.32373046875,
+        187.31060791015625,
+        551.46875
+      ],
+      "text": "be used to diagnose TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.32763671875,
+        526.9371948242188,
+        575.47265625
+      ],
+      "text": "Previous systematic reviews have traditionally assessed diagnostic accuracy of LC-aNAATs on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.82763671875,
+        526.965576171875,
+        590.97265625
+      ],
+      "text": "two samples and LF-LAM on urine in isolation for the detection of TB in children, but in clinical",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.32763671875,
+        526.9810791015625,
+        606.47265625
+      ],
+      "text": "practice the tests may be used concurrently (i.e. LC-aNAAT on a respiratory and stool sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.82763671875,
+        363.9900817871094,
+        621.97265625
+      ],
+      "text": "and LF-LAM on urine) and together they increase sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.3391723632812,
+        279.74468994140625,
+        650.7191772460938
+      ],
+      "text": "Incremental diagnostic accuracy",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.953857421875,
+        510.3663330078125,
+        676.0418090820312
+      ],
+      "text": "What is the incremental diagnostic accuracy of concurrent use of LC-aNAATs on",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.3538208007812,
+        494.0990905761719,
+        690.4417724609375
+      ],
+      "text": "respiratory and stool samples and LF-LAM on urine versus each sample type",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.7538452148438,
+        515.107421875,
+        704.841796875
+      ],
+      "text": "alone for diagnosis of pulmonary TB disease in children with HIV, with signs and",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.15380859375,
+        521.3870239257812,
+        719.2417602539062
+      ],
+      "text": "symptoms or who screened positive for pulmonary TB, compared with any of the",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.5538330078125,
+        362.2514343261719,
+        733.6417846679688
+      ],
+      "text": "tests (either LC-aNAATs combined or LF-LAM) alone?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        744.3087158203125,
+        526.9508056640625,
+        757.4537353515625
+      ],
+      "text": "Based on six studies (653 participants, including 43 [6.6%] with TB) included in the meta-analysis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.8087158203125,
+        527.2489013671875,
+        772.9537353515625
+      ],
+      "text": "for an MRS, the estimated diagnostic accuracy of the concurrent use of LC-aNAAT on respiratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.950287818908691,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "66 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

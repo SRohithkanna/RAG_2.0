@@ -1,0 +1,70 @@
+{
+  "file": "module1",
+  "page": 249,
+  "table_id": 1,
+  "bbox": [
+    71.09022074732287,
+    71.11617024739583,
+    524.413765742861,
+    220.6658935546875
+  ],
+  "heading": null,
+  "n_rows": 6,
+  "n_cols": 7,
+  "data": [
+    [
+      "Characteristic",
+      "Levofloxacin",
+      "Levofloxacin- incidence per 100 person-years",
+      "Placebo",
+      "Placebo incidence per 100 person-years",
+      "Incidence rate ratio (95% CI)",
+      "P value"
+    ],
+    [
+      "Per protocol population",
+      "n=700",
+      "",
+      "N=844",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total follow-up, person-years",
+      "1783.7",
+      "–",
+      "2145.3",
+      "–",
+      "–",
+      "–"
+    ],
+    [
+      "Bacteriologically confirmed, n",
+      "3",
+      "0.168",
+      "6",
+      "0.280",
+      "0.60 (0.15 ; 2.39)",
+      "0.474"
+    ],
+    [
+      "Clinically diagnosed only, n",
+      "0",
+      "0.000",
+      "1",
+      "0.047",
+      "Not estimated",
+      "–"
+    ],
+    [
+      "Bacteriologically confirmed or clinical TB, n",
+      "3",
+      "0.168",
+      "7",
+      "0.326",
+      "0.52 (0.14 ; 1.99)",
+      "0.338"
+    ]
+  ]
+}

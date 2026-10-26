@@ -1,0 +1,294 @@
+{
+  "file": "module4",
+  "page": 367,
+  "blocks": [
+    {
+      "bbox": [
+        194.97120666503906,
+        268.36566162109375,
+        206.7882080078125,
+        697.322998046875
+      ],
+      "text": "system and patient costs in the three settings were estimated based on data from an economic modelling analysis",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.97120666503906,
+        273.0384521484375,
+        216.7882080078125,
+        697.322998046875
+      ],
+      "text": "(Ryckman et al. 2024) and extrapolated to the 9-month time period for the difference in the treatment durations.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.97120666503906,
+        283.92120361328125,
+        226.7882080078125,
+        697.322998046875
+      ],
+      "text": "The estimated costs from the economic modelling analysis do not account for possible imprecision in the cost",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        184.97120666503906,
+        293.90234375,
+        196.7882080078125,
+        697.322998046875
+      ],
+      "text": "The drug prices for the regimens were elicited from the Stop TB Partnership Global Drug Facility and health",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        224.97120666503906,
+        324.5831298828125,
+        236.7882080078125,
+        697.322998046875
+      ],
+      "text": "estimates and provide indirect data for other settings where the treatment regimen would be used.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        261.39349365234375,
+        404.9591369628906,
+        273.13848876953125,
+        768.1890869140625
+      ],
+      "text": "Does the cost-effectiveness of the intervention favor the intervention or the comparison?",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        97.41470336914062,
+        453.5647277832031,
+        142.4792938232422,
+        474.1647033691406
+      ],
+      "text": "$1413 $3024 $2952 Total",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        160.4381103515625,
+        480.38348388671875,
+        172.18310546875,
+        768.1890869140625
+      ],
+      "text": "What is the certainty of the evidence of resource requirements (costs)?",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.92120361328125,
+        497.5619812011719,
+        107.85470581054688,
+        568.1884155273438
+      ],
+      "text": "Cost over 9 months Health System",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.98820495605469,
+        516.9803466796875,
+        142.4792938232422,
+        537.5814208984375
+      ],
+      "text": "$261 $702 $1926",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.31948852539062,
+        547.245361328125,
+        159.85049438476562,
+        768.1890869140625
+      ],
+      "text": "Certainty of evidence of required resources",
+      "font": "SegoeUI-BoldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.42770385742188,
+        561.3040771484375,
+        297.74359130859375,
+        697.322998046875
+      ],
+      "text": "RR No research evidence searched for.",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        97.41470336914062,
+        583.6505126953125,
+        142.4792938232422,
+        609.8502197265625
+      ],
+      "text": "$1152 $2322 $1026 Patient",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.65969848632812,
+        609.8952026367188,
+        285.3600158691406,
+        697.322998046875
+      ],
+      "text": "RESEARCH EVIDENCE RESEARCH EVIDENCE",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        131.9752960205078,
+        653.872314453125,
+        142.4792938232422,
+        694.48828125
+      ],
+      "text": "South Africa",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.48169708251953,
+        658.912353515625,
+        130.98568725585938,
+        694.48828125
+      ],
+      "text": "Philippines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.41470336914062,
+        665.1707763671875,
+        107.85470581054688,
+        694.4884033203125
+      ],
+      "text": "Country",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        246.27479553222656,
+        676.4876098632812,
+        260.8057861328125,
+        768.1890869140625
+      ],
+      "text": "Cost effectiveness",
+      "font": "SegoeUI-BoldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.98820495605469,
+        678.3283081054688,
+        119.49220275878906,
+        694.48828125
+      ],
+      "text": "India",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        224.97120666503906,
+        707.1220092773438,
+        447.74359130859375,
+        768.1890869140625
+      ],
+      "text": "the comparison\n favor either the  ○ No included  ○ No included  intervention or",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.65969848632812,
+        716.0610961914062,
+        427.74359130859375,
+        768.1890869140625
+      ],
+      "text": "JUDGEMENT JUDGEMENT ○ Favors the  ○ Favors the  ○ Moderate\n intervention\n intervention\n ○ Does not  comparison\n comparison\n ○ Probably  ○ Very low\n ● Probably  favors the  favors the",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        214.97120666503906,
+        733.74853515625,
+        437.74359130859375,
+        768.1890869140625
+      ],
+      "text": "○ Varies\n ○ High",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        194.97120666503906,
+        742.287109375,
+        457.74359130859375,
+        768.1890869140625
+      ],
+      "text": "studies studies ● Low",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        301.9407043457031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 5. GRADE evidence profiles and evidence-to-decision tables 353",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

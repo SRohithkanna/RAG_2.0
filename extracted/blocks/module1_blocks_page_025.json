@@ -1,0 +1,582 @@
+{
+  "file": "module1",
+  "page": 25,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30284118652344,
+        199.0715789794922,
+        84.57283782958984
+      ],
+      "text": "Other people at risk",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41400146484375,
+        104.63520050048828,
+        513.7462158203125,
+        119.07820129394531
+      ],
+      "text": "7. People who are initiating anti-tumour-necrosis factor treatment, receiving dialysis, preparing for",
+      "font": "SegoeUI-Light",
+      "size": 10.977777481079102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        117.83533477783203,
+        513.6008911132812,
+        132.27833557128906
+      ],
+      "text": "an organ or haematological transplant or who have silicosis should be systematically tested and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        129.75929260253906,
+        510.62139892578125,
+        145.47828674316406
+      ],
+      "text": "(Strong recommendation, low to very low certainty of the estimates of effect) treated for TB infection.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.95214557647705,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        152.7392120361328,
+        513.6129150390625,
+        167.1822052001953
+      ],
+      "text": "8. Systematic testing and treatment for TB infection may be considered for prisoners, health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        165.93922424316406,
+        513.5982055664062,
+        180.38221740722656
+      ],
+      "text": "workers, immigrants from countries with a high TB burden, homeless people and people who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        177.8632354736328,
+        501.9947814941406,
+        193.5822296142578
+      ],
+      "text": "(Conditional recommendation, low to very low certainty of the estimates of effect) use drugs.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        223.0580291748047,
+        236.09176635742188,
+        241.32803344726562
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.75794982910156,
+        527.406982421875,
+        262.4769592285156
+      ],
+      "text": "(37) Recommendations 7  8  and  were first published by WHO in 2015  . The GDG considered",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.23388671875,
+        527.4317626953125,
+        275.6769104003906
+      ],
+      "text": "evidence from three systematic reviews that were conducted for the previous guidelines on TBI to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.43389892578125,
+        527.3838500976562,
+        288.8769226074219
+      ],
+      "text": "determine which of the 24 defined at-risk population groups should be prioritized for TBI testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.35791015625,
+        527.4164428710938,
+        302.0769348144531
+      ],
+      "text": "(37–39) and treatment  . Evidence of an increased prevalence of TBI, an increased risk of progression",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.83392333984375,
+        527.1820678710938,
+        315.2769470214844
+      ],
+      "text": "from TBI to TB disease and an increased incidence of TB disease was available for the following",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.033935546875,
+        527.3363647460938,
+        328.4769592285156
+      ],
+      "text": "15 risk groups: adult and child TB contacts, health-care workers and students, people with HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.23394775390625,
+        527.3585205078125,
+        341.6769714355469
+      ],
+      "text": "patients on dialysis, immigrants from countries with a high TB burden (incidence > 100 TB cases per",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.43389892578125,
+        527.6416015625,
+        354.8769226074219
+      ],
+      "text": "100 000 population), patients initiating anti-TNF therapy, people who use drugs, prisoners, homeless",
+      "font": "SegoeUI-Light",
+      "size": 10.997200012207031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.6339111328125,
+        527.4309692382812,
+        368.0769348144531
+      ],
+      "text": "people, patients preparing for an organ or haematological transplant, patients with silicosis, patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.83392333984375,
+        527.239990234375,
+        381.2769470214844
+      ],
+      "text": "with diabetes, people who engage in harmful use of alcohol, tobacco smokers and underweight",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.7579040527344,
+        527.4533081054688,
+        394.4769592285156
+      ],
+      "text": "(38) . An increased risk for progression to TB was reported for 4 of the 15 groups: people with  people",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.2339172363281,
+        425.57666015625,
+        407.67694091796875
+      ],
+      "text": "HIV, adult and child TB contacts, patients on dialysis and underweight people.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        414.9378967285156,
+        527.4266967773438,
+        429.38092041015625
+      ],
+      "text": "The GDG judged that people in clinical risk groups, such as patients initiating anti-TNF treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        428.1377868652344,
+        527.2353515625,
+        442.580810546875
+      ],
+      "text": "patients on dialysis, patients preparing for organ or haematological transplant and patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        440.0618896484375,
+        527.4268188476562,
+        455.7809143066406
+      ],
+      "text": "(40) silicosis , would benefit most from testing for and treatment of TBI, regardless of the background",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.5378112792969,
+        527.3964233398438,
+        468.9808349609375
+      ],
+      "text": "TB epidemiology. The GDG considered that the benefit of TPT in reducing the risk of progression to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.73779296875,
+        527.5631713867188,
+        482.1808166503906
+      ],
+      "text": "disease would usually outweigh potential harm in these groups and made a strong recommendation",
+      "font": "SegoeUI-Light",
+      "size": 10.997049331665039,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.9378967285156,
+        295.73138427734375,
+        495.38092041015625
+      ],
+      "text": "despite low to very low certainty of the evidence.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        502.64178466796875,
+        527.4523315429688,
+        517.0847778320312
+      ],
+      "text": "The GDG concluded from the evidence that the benefits of systematic testing for TBI and TPT may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.841796875,
+        527.5924072265625,
+        530.2847900390625
+      ],
+      "text": "not always outweigh the harm in health-care workers and students, immigrants from countries with a",
+      "font": "SegoeUI-Light",
+      "size": 10.99174690246582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.0418090820312,
+        527.3964233398438,
+        543.4848022460938
+      ],
+      "text": "high TB burden, prisoners, homeless people and people who use drugs. The GDG judged, however,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        542.2418212890625,
+        527.5257568359375,
+        556.684814453125
+      ],
+      "text": "that the benefits are more likely to outweigh potential harm when the risks for reinfection are lower. In",
+      "font": "SegoeUI-Light",
+      "size": 10.983386993408203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.4417724609375,
+        527.4007568359375,
+        569.884765625
+      ],
+      "text": "2020, the GDG updated this recommendation to make it applicable to countries with both high and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.641845703125,
+        527.4207153320312,
+        583.0848388671875
+      ],
+      "text": "low TB prevalence on condition that a decision for systematic testing for TBI and offering TPT in these",
+      "font": "SegoeUI-Light",
+      "size": 10.98674201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.841796875,
+        527.2963256835938,
+        596.2847900390625
+      ],
+      "text": "population groups be based on the local TB epidemiology and context, health infrastructure, capacity",
+      "font": "SegoeUI-Light",
+      "size": 10.980732917785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.0418090820312,
+        527.1640014648438,
+        609.4848022460938
+      ],
+      "text": "to exclude TB disease reliably, any adverse impact on health equity and overall health priorities.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.2418212890625,
+        527.4100952148438,
+        622.684814453125
+      ],
+      "text": "Greater benefit is expected for individuals who were recently infected with TB, as documented by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.4417724609375,
+        330.04931640625,
+        635.884765625
+      ],
+      "text": "conversion from a negative to a positive test of TBI (see",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.2778015136719,
+        621.4417724609375,
+        379.5897216796875,
+        635.884765625
+      ],
+      "text": "section 1.3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        379.5940856933594,
+        621.4417724609375,
+        527.4176635742188,
+        635.884765625
+      ],
+      "text": "). The GDG also concluded that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        634.6417846679688,
+        527.4447021484375,
+        649.0847778320312
+      ],
+      "text": "recent immigrants, particularly those from countries with a higher TB burden than that in the host",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        647.841796875,
+        412.8634948730469,
+        662.2847900390625
+      ],
+      "text": "country,  may be prioritized, especially within the first few years after entry. 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        669.545654296875,
+        527.4312133789062,
+        683.9886474609375
+      ],
+      "text": "Despite evidence for increased prevalence of TBI and disease in patients with diabetes, people who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.7457275390625,
+        527.1492309570312,
+        697.188720703125
+      ],
+      "text": "engage in harmful use of alcohol, tobacco smokers and underweight people, the GDG in 2014 noted",
+      "font": "SegoeUI-Light",
+      "size": 10.988594055175781,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.9456787109375,
+        527.3912353515625,
+        710.388671875
+      ],
+      "text": "the paucity of data from clinical trials on the benefits and harm of systematic testing and treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        709.1456909179688,
+        527.4721069335938,
+        723.5886840820312
+      ],
+      "text": "of TBI. They concluded that systematic, routine testing and treatment of people with these risks alone",
+      "font": "SegoeUI-Light",
+      "size": 10.993047714233398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        722.345703125,
+        527.3609619140625,
+        736.7886962890625
+      ],
+      "text": "might not always outweigh the potential harm, regardless of background TB epidemiology. In 2014, a",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.5457153320312,
+        527.52294921875,
+        749.9887084960938
+      ],
+      "text": "recommendation against systematic testing and treatment of TBI in these four populations was issued",
+      "font": "SegoeUI-Light",
+      "size": 10.979280471801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        761.7437744140625,
+        355.6473083496094,
+        773.17578125
+      ],
+      "text": "(41). Estimated rates of TB incidence in all countries are updated annually by WHO  3",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

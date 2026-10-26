@@ -1,0 +1,486 @@
+{
+  "file": "module6",
+  "page": 33,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.056396484375,
+        194.8867950439453,
+        88.63139343261719
+      ],
+      "text": "2.2.1\t Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.4068603515625,
+        115.82539367675781
+      ],
+      "text": "People living with HIV may have an atypical clinical picture, especially those with advanced HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4310913085938,
+        129.8253936767578
+      ],
+      "text": "disease, complicating the diagnosis of pulmonary and extrapulmonary forms of TB disease. Access",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.4276733398438,
+        143.8253936767578
+      ],
+      "text": "to a rapid and accurate diagnosis is essential to ensure that TB is effectively treated among people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        136.69229125976562,
+        157.8253936767578
+      ],
+      "text": "living with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4089965820312,
+        185.8253936767578
+      ],
+      "text": "Options for TB diagnosis recommended by WHO comprise two broad groups: i) initial tests for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.425537109375,
+        199.8253936767578
+      ],
+      "text": "diagnosing TB, often including at least rifampicin resistance detection, and ii) follow-on tests used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.4235229492188,
+        213.8253936767578
+      ],
+      "text": "after TB confirmation to detect additional drug resistance. These guidelines focus on the first",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.4200439453125,
+        227.8253936767578
+      ],
+      "text": "category. Table 2.6 summarizes the initial WHO-recommended rapid diagnostic tests for TB, which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.4168701171875,
+        241.8253936767578
+      ],
+      "text": "are applicable for everyone, except LF-LAM and the use of mWRD in blood which are specific to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.3816528320312,
+        255.8253936767578
+      ],
+      "text": "people living with HIV. Further details on the accuracy of all the tests as well as the follow-on tests",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.4281005859375,
+        269.8254089355469
+      ],
+      "text": "to detect additional drug resistance can be found in  WHO consolidated guidelines on tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        449.1619873046875,
+        283.8254089355469
+      ],
+      "text": ".  Module 3: diagnosis – rapid diagnostics for tuberculosis detection, 2021 update (14)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.49102783203125,
+        499.0921630859375,
+        308.155029296875
+      ],
+      "text": "Table 2.6 WHO-recommended rapid diagnostic tests as initial tests for TB diagnosis",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        349.61993408203125,
+        464.54400634765625,
+        361.52691650390625
+      ],
+      "text": "Xpert  MTB/RIF Sputum  R ®",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        362.2571105957031,
+        328.94482421875,
+        374.0740966796875
+      ],
+      "text": "Blood a",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        374.8042297363281,
+        377.2645263671875,
+        386.6212158203125
+      ],
+      "text": "Cerebrospinal fluid",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        387.3514099121094,
+        383.25762939453125,
+        399.16839599609375
+      ],
+      "text": "Lymph node aspirate",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        399.8985290527344,
+        378.3435974121094,
+        411.71551513671875
+      ],
+      "text": "Lymph node biopsy",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        412.44561767578125,
+        345.0975646972656,
+        424.2626037597656
+      ],
+      "text": "Pericardial",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        424.9927062988281,
+        341.5956726074219,
+        436.8096923828125
+      ],
+      "text": "Peritoneal",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        437.5399169921875,
+        332.3004455566406,
+        449.3569030761719
+      ],
+      "text": "Pleural",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        450.0870056152344,
+        353.5944519042969,
+        461.90399169921875
+      ],
+      "text": "Synovial fluid",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        462.63421630859375,
+        324.47943115234375,
+        474.4512023925781
+      ],
+      "text": "Urine",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        480.4350280761719,
+        464.54400634765625,
+        492.3420104980469
+      ],
+      "text": "Xpert  MTB/RIF Ultra Sputum R ®",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        493.07220458984375,
+        377.2645263671875,
+        504.8891906738281
+      ],
+      "text": "Cerebrospinal fluid",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        505.61932373046875,
+        383.25762939453125,
+        517.4363403320312
+      ],
+      "text": "Lymph node aspirate",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.472412109375,
+        518.16650390625,
+        378.3435974121094,
+        529.9835205078125
+      ],
+      "text": "Lymph node biopsy",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        535.96728515625,
+        464.54400634765625,
+        547.8743286132812
+      ],
+      "text": "Truenat  MTB, MTB Plus and MTB-RIF Dx tests Sputum R TM b",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        553.8580932617188,
+        463.8385009765625,
+        565.76513671875
+      ],
+      "text": "TB-LAMP Sputum - c",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        571.7489624023438,
+        477.2071228027344,
+        583.656005859375
+      ],
+      "text": "Moderate complexity automated NAATs Sputum R and H d",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        589.6397705078125,
+        464.29730224609375,
+        601.5468139648438
+      ],
+      "text": "LF-LAM Urine – a",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.1371459960938,
+        237.19308471679688,
+        619.328125
+      ],
+      "text": "DST: drug-susceptibility testing; R: rifampicin; H: isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.0407104492188,
+        172.0433807373047,
+        630.5626831054688
+      ],
+      "text": "Specific to people living with HIV a",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.2754516601562,
+        337.7117004394531,
+        641.7974243164062
+      ],
+      "text": "There is uncertainty about the use of Truenat  MTB or MTB Plus in people living with HIV. b\t TM",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.510009765625,
+        524.4097900390625,
+        653.0320434570312
+      ],
+      "text": "Limited data on the performance of loop-mediated isothermal amplification (TB-LAMP) among people living with HIV were available at time of recommen­ c",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        652.2411499023438,
+        139.04537963867188,
+        661.43212890625
+      ],
+      "text": "dation development.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.1447143554688,
+        526.3274536132812,
+        672.6666870117188
+      ],
+      "text": "The currently recommended nucleic acid amplification tests (NAATs) in this class include: RealTime MTB (Abbott Molecular), BD MAX™ MDR-TB (Becton  d",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        671.875732421875,
+        397.38818359375,
+        681.0667114257812
+      ],
+      "text": "Dickinson), FluoroType  MTB/MTBDR   and cobas  MTB-RIF/INH (Roche Diagnostics) (Bruker-Hain Diagnostics), ® ®",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        329.7992858886719,
+        801.2599487304688,
+        553.4072875976562,
+        811.8897705078125
+      ],
+      "text": "15 2. ﻿ Reduce the burden of TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

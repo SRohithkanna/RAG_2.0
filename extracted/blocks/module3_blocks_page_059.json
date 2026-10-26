@@ -1,0 +1,498 @@
+{
+  "file": "module3",
+  "page": 59,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4132690429688,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.2.1.8 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.67418670654297,
+        332.20208740234375,
+        98.7621841430664
+      ],
+      "text": "lymph node TB in lymph node tissue and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.152099609375,
+        109.62278747558594,
+        258.5915832519531,
+        122.0688705444336
+      ],
+      "text": "TB-LAMP for lymph node TB in lymph node biopsy",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.152099609375,
+        132.79722595214844,
+        508.7571105957031,
+        145.2488555908203
+      ],
+      "text": "Specificity (95% CI) Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.152099609375,
+        146.0484619140625,
+        349.67681884765625,
+        157.9122314453125
+      ],
+      "text": "Danfack 2024a 26 6 2 42 0.93 [0.76, 0.99] 0.88 [0.75, 0.95]",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.152099609375,
+        157.63409423828125,
+        349.67681884765625,
+        169.49786376953125
+      ],
+      "text": "Promsena 2022 3 0 0 5 1.00 [0.29, 1.00] 1.00 [0.48, 1.00]",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.152099609375,
+        169.2197265625,
+        349.67681884765625,
+        181.08349609375
+      ],
+      "text": "Singh 2021 4 0 0 7 1.00 [0.40, 1.00] 1.00 [0.59, 1.00]",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        353.73260498046875,
+        180.80853271484375,
+        510.25128173828125,
+        192.67230224609375
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.14910888671875,
+        190.74278259277344,
+        251.07115173339844,
+        203.18885803222656
+      ],
+      "text": "TB-LAMP for lymph node in lymph node aspirate",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.14910888671875,
+        213.9193572998047,
+        508.7577209472656,
+        226.3688507080078
+      ],
+      "text": "Specificity (95% CI) Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.14910888671875,
+        227.16845703125,
+        347.1544189453125,
+        239.0322265625
+      ],
+      "text": "Danfack 2024a 2 1 1 3 0.67 [0.09, 0.99] 0.75 [0.19, 0.99]",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        353.7331848144531,
+        238.7503662109375,
+        510.2518615722656,
+        250.61474609375
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.14968872070312,
+        248.6846160888672,
+        247.7474822998047,
+        261.1307067871094
+      ],
+      "text": "TB-LAMP for lymph node TB in lymph node pus",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.14968872070312,
+        271.8614196777344,
+        508.75830078125,
+        284.3106994628906
+      ],
+      "text": "Specificity (95% CI) Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.096919059753418,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.14968872070312,
+        285.11029052734375,
+        347.16253662109375,
+        296.97406005859375
+      ],
+      "text": "Danfack 2024a 0 2 0 5 Not estimable 0.71 [0.29, 0.96]",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        353.73370361328125,
+        296.6927490234375,
+        510.25238037109375,
+        308.5565185546875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.096919059753418,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.0871276855469,
+        526.5010375976562,
+        333.8421325683594
+      ],
+      "text": "CI: confidence interval; FN; false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.8871154785156,
+        526.501220703125,
+        344.6421203613281
+      ],
+      "text": "amplification test; LN: lymph node; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.6871032714844,
+        136.7910919189453,
+        355.4421081542969
+      ],
+      "text": "TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.4339904785156,
+        514.3406372070312,
+        387.5220031738281
+      ],
+      "text": "Should LC-mNAATs on pleural fluid be used to diagnose pleural TB in adults and",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.8340148925781,
+        449.237060546875,
+        401.9220275878906
+      ],
+      "text": "adolescents with signs and symptoms of pleural TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.5888977050781,
+        527.18505859375,
+        425.7339172363281
+      ],
+      "text": "Two studies (292 participants, including 37 people with TB) assessed the accuracy of LC-mNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.974570274353027,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.0888977050781,
+        526.8885498046875,
+        441.2339172363281
+      ],
+      "text": "for detecting pleural TB using pleural fluid and an MRS ( ). Estimated sensitivities  Fig. 2.2.1.9",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        443.5888977050781,
+        526.7379150390625,
+        456.7339172363281
+      ],
+      "text": "were 48% and 75%, and estimated specificities were 89% and 96%. Due to limited data, a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.0888977050781,
+        524.4218139648438,
+        472.2339172363281
+      ],
+      "text": "recommendation on using LC-mNAATs with pleural fluid for detection of pleural TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.8752136230469,
+        527.4132690429688,
+        500.96319580078125
+      ],
+      "text": "Fig. 2.2.1.9 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.375244140625,
+        268.3860778808594,
+        516.4632568359375
+      ],
+      "text": "pleural TB in pleural fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.25409698486328,
+        526.5330200195312,
+        217.4745635986328,
+        541.1690063476562
+      ],
+      "text": "TB-LAMP for pleural TB in pleural fluid",
+      "font": "Arial-BoldMT",
+      "size": 8.851371765136719,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.25409698486328,
+        553.7881469726562,
+        515.8633422851562,
+        568.4286499023438
+      ],
+      "text": "TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Study Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.851371765136719,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.25409698486328,
+        569.364501953125,
+        354.8322448730469,
+        583.3191528320312
+      ],
+      "text": "14 8 15 220 0.48 [0.29, 0.67] 0.96 [0.93, 0.98] Danfack 2024a",
+      "font": "ArialMT",
+      "size": 8.851371765136719,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.25409698486328,
+        582.9887084960938,
+        354.8322448730469,
+        596.9414672851562
+      ],
+      "text": "6 3 2 24 0.75 [0.35, 0.97] 0.89 [0.71, 0.98] Singh 2021",
+      "font": "ArialMT",
+      "size": 8.851371765136719,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        358.3232116699219,
+        596.6173095703125,
+        517.3815307617188,
+        610.56884765625
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.851371765136719,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.4336547851562,
+        526.5010375976562,
+        632.1885986328125
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.233642578125,
+        519.1832275390625,
+        642.9885864257812
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.98046875,
+        527.173095703125,
+        675.0684204101562
+      ],
+      "text": "Should LC-mNAATs on synovial fluid be used to diagnose bone or joint TB in adults",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3805541992188,
+        504.1955871582031,
+        689.468505859375
+      ],
+      "text": "and adolescents with signs and symptoms of bone or joint TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.1353759765625,
+        526.959716796875,
+        713.2803955078125
+      ],
+      "text": "One study (five participants, including one case) assessed the accuracy of LC-mNAATs for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.6353759765625,
+        527.0255126953125,
+        728.7803955078125
+      ],
+      "text": "detecting bone or joint TB using synovial fluid and an MRS ( ). Estimated sensitivity  Fig. 2.2.1.10",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.988694190979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.1353759765625,
+        526.7010498046875,
+        744.2803955078125
+      ],
+      "text": "and specificity were both 100%. Due to limited data, a recommendation on using LC-mNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.994698524475098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.6353759765625,
+        394.0954895019531,
+        759.7803955078125
+      ],
+      "text": "with synovial fluid for detection of bone or joint TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 43",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,1563 @@
+{
+  "file": "module2",
+  "total_pages": 68,
+  "pages": [
+    {
+      "page": 1,
+      "label_raw": "a",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Heavy",
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        29.00014877319336,
+        31.0,
+        60.581298828125
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 2,
+      "label_raw": "b",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 3,
+      "label_raw": "i",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "AvenirLTStd-Heavy",
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        29.00014877319336,
+        31.0,
+        60.581298828125
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 4,
+      "label_raw": "ii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        7.98213005065918,
+        7.989793300628662,
+        8.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 5,
+      "label_raw": "iii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        12.0,
+        32.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 6,
+      "label_raw": "iv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        12.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 7,
+      "label_raw": "v",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        7.976365089416504,
+        8.0,
+        10.94486141204834,
+        10.968705177307129,
+        10.984389305114746,
+        10.998899459838867,
+        11.0,
+        14.0,
+        32.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 8,
+      "label_raw": "vi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.94792652130127,
+        10.948478698730469,
+        10.957969665527344,
+        10.960578918457031,
+        10.967201232910156,
+        10.975873947143555,
+        10.980031967163086,
+        10.981534957885742,
+        10.984188079833984,
+        10.988444328308105,
+        10.991045951843262,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 9,
+      "label_raw": "vii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.9473237991333,
+        10.952648162841797,
+        10.96338939666748,
+        10.997099876403809,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 10,
+      "label_raw": "viii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        32.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 11,
+      "label_raw": "ix",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        10.961281776428223,
+        10.977527618408203,
+        10.980883598327637,
+        10.985039710998535,
+        10.98523998260498,
+        10.993398666381836,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 12,
+      "label_raw": "x",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.977025985717773,
+        11.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 13,
+      "label_raw": "1",
+      "label_numeric": 1,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.984739303588867,
+        10.997249603271484,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 14,
+      "label_raw": "2",
+      "label_numeric": 2,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "MyriadPro-BoldIt",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.956865310668945,
+        10.957066535949707,
+        10.961132049560547,
+        10.97692584991455,
+        10.981134414672852,
+        10.98373794555664,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 15,
+      "label_raw": "3",
+      "label_numeric": 3,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 16,
+      "label_raw": "4",
+      "label_numeric": 4,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.967602729797363,
+        10.967652320861816,
+        10.978729248046875,
+        10.999500274658203,
+        11.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 17,
+      "label_raw": "5",
+      "label_numeric": 5,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.944962501525879,
+        10.972967147827148,
+        10.977577209472656,
+        10.978879928588867,
+        10.983687400817871,
+        10.996950149536133,
+        10.99779987335205,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 18,
+      "label_raw": "6",
+      "label_numeric": 6,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.975221633911133,
+        10.980732917785645,
+        10.984739303588867,
+        10.987942695617676,
+        10.99384880065918,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 19,
+      "label_raw": "7",
+      "label_numeric": 7,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.97898006439209,
+        10.999300003051758,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 48,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 20,
+      "label_raw": "8",
+      "label_numeric": 8,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.973217010498047,
+        10.974870681762695,
+        10.98143482208252,
+        10.985840797424316,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 21,
+      "label_raw": "9",
+      "label_numeric": 9,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.961833953857422,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 22,
+      "label_raw": "10",
+      "label_numeric": 10,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0
+      ],
+      "num_blocks": 1,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 23,
+      "label_raw": "11",
+      "label_numeric": 11,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.960227966308594,
+        10.96389102935791,
+        10.964592933654785,
+        10.964693069458008,
+        10.966448783874512,
+        10.968153953552246,
+        10.97126293182373,
+        10.978128433227539,
+        10.980232238769531,
+        10.984138488769531,
+        10.986541748046875,
+        10.988994598388672,
+        10.989895820617676,
+        10.996249198913574,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 24,
+      "label_raw": "12",
+      "label_numeric": 12,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.954757690429688,
+        10.967752456665039,
+        10.968053817749023,
+        10.979881286621094,
+        10.983187675476074,
+        10.986241340637207,
+        10.990745544433594,
+        11.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 25,
+      "label_raw": "13",
+      "label_numeric": 13,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.966399192810059,
+        10.971814155578613,
+        10.976274490356445,
+        10.980281829833984,
+        10.993047714233398,
+        10.996549606323242,
+        10.99804973602295,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 26,
+      "label_raw": "14",
+      "label_numeric": 14,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.402441501617432,
+        8.0,
+        10.951493263244629,
+        10.95219612121582,
+        10.95937442779541,
+        10.968254089355469,
+        10.970510482788086,
+        10.973718643188477,
+        10.97562313079834,
+        10.978428840637207,
+        10.981884956359863,
+        10.981935501098633,
+        10.984739303588867,
+        10.990845680236816,
+        10.997949600219727,
+        10.998099327087402,
+        10.999350547790527,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 27,
+      "label_raw": "15",
+      "label_numeric": 15,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.966499328613281,
+        10.967702865600586,
+        10.97467041015625,
+        10.977276802062988,
+        10.992096900939941,
+        10.995549201965332,
+        10.99945068359375,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 28,
+      "label_raw": "16",
+      "label_numeric": 16,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.960428237915039,
+        10.969959259033203,
+        10.99804973602295,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 29,
+      "label_raw": "17",
+      "label_numeric": 17,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.4118499755859375,
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.961883544921875,
+        10.970059394836426,
+        10.974921226501465,
+        10.981233596801758,
+        10.98133373260498,
+        10.988643646240234,
+        10.991847038269043,
+        10.997550010681152,
+        10.997849464416504,
+        10.99804973602295,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 30,
+      "label_raw": "18",
+      "label_numeric": 18,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.953953742980957,
+        10.956563949584961,
+        10.96579647064209,
+        10.980181694030762,
+        10.985490798950195,
+        10.987192153930664,
+        10.991896629333496,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 31,
+      "label_raw": "19",
+      "label_numeric": 19,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.962084770202637,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 32,
+      "label_raw": "20",
+      "label_numeric": 20,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.121500015258789,
+        8.0,
+        10.5,
+        10.989444732666016,
+        10.989845275878906,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 33,
+      "label_raw": "21",
+      "label_numeric": 21,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.121500015258789,
+        7.979172706604004,
+        7.979674339294434,
+        7.984735488891602,
+        7.991095066070557,
+        7.996849536895752,
+        8.0,
+        10.5
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 34,
+      "label_raw": "22",
+      "label_numeric": 22,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.6631999015808105,
+        4.664000034332275,
+        7.986989498138428,
+        7.998650074005127,
+        8.0,
+        10.964091300964355,
+        10.999750137329102,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 35,
+      "label_raw": "23",
+      "label_numeric": 23,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.948982238769531,
+        10.977426528930664,
+        10.982686042785645,
+        10.98969554901123,
+        10.997849464416504,
+        10.998000144958496,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 36,
+      "label_raw": "24",
+      "label_numeric": 24,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.957015991210938,
+        10.960529327392578,
+        10.96584701538086,
+        10.973467826843262,
+        10.98589038848877,
+        10.993098258972168,
+        10.994149208068848,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 37,
+      "label_raw": "25",
+      "label_numeric": 25,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.966548919677734,
+        10.969457626342773,
+        10.972265243530273,
+        10.992847442626953,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 38,
+      "label_raw": "26",
+      "label_numeric": 26,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.962536811828613,
+        10.985840797424316,
+        10.994499206542969,
+        10.998749732971191,
+        11.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 39,
+      "label_raw": "27",
+      "label_numeric": 27,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.950287818908691,
+        10.999099731445312,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 40,
+      "label_raw": "28",
+      "label_numeric": 28,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.969758987426758,
+        10.970008850097656,
+        10.971161842346191,
+        10.972967147827148,
+        10.979731559753418,
+        10.979781150817871,
+        10.988794326782227,
+        10.991347312927246,
+        10.995498657226562,
+        10.999750137329102,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 41,
+      "label_raw": "29",
+      "label_numeric": 29,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.958672523498535,
+        10.96218490600586,
+        10.983588218688965,
+        10.98488998413086,
+        10.996199607849121,
+        10.999350547790527,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 42,
+      "label_raw": "30",
+      "label_numeric": 30,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.964592933654785,
+        10.969106674194336,
+        10.972916603088379,
+        10.990045547485352,
+        10.992146492004395,
+        10.995949745178223,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 43,
+      "label_raw": "31",
+      "label_numeric": 31,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.97943115234375,
+        10.98924446105957,
+        10.995549201965332,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 44,
+      "label_raw": "32",
+      "label_numeric": 32,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.957568168640137,
+        10.961231231689453,
+        10.982135772705078,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 45,
+      "label_raw": "33",
+      "label_numeric": 33,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Bold",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.994348526000977,
+        10.996649742126465,
+        10.999249458312988,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 46,
+      "label_raw": "34",
+      "label_numeric": 34,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.948379516601562,
+        10.94873046875,
+        10.970259666442871,
+        10.985740661621094,
+        10.994098663330078,
+        10.999099731445312,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 47,
+      "label_raw": "35",
+      "label_numeric": 35,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946721076965332,
+        10.960729598999023,
+        10.979931831359863,
+        10.999850273132324,
+        11.0,
+        12.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 48,
+      "label_raw": "36",
+      "label_numeric": 36,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "SegoeUI-SemiboldItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.95214557647705,
+        10.95586109161377,
+        10.961381912231445,
+        10.961532592773438,
+        10.977577209472656,
+        10.978328704833984,
+        10.97892951965332,
+        10.994749069213867,
+        10.99639892578125,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 49,
+      "label_raw": "37",
+      "label_numeric": 37,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.962737083435059,
+        10.98784351348877,
+        10.990045547485352,
+        10.995599746704102,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 50,
+      "label_raw": "38",
+      "label_numeric": 38,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.951543807983398,
+        10.95897388458252,
+        10.961281776428223,
+        10.969256401062012,
+        10.974370002746582,
+        10.995599746704102,
+        10.996549606323242,
+        10.998299598693848,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 51,
+      "label_raw": "39",
+      "label_numeric": 39,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.966399192810059,
+        10.972214698791504,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 52,
+      "label_raw": "40",
+      "label_numeric": 40,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0
+      ],
+      "num_blocks": 1,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 53,
+      "label_raw": "41",
+      "label_numeric": 41,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.962435722351074,
+        10.984739303588867,
+        10.986491203308105,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 54,
+      "label_raw": "42",
+      "label_numeric": 42,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.962084770202637,
+        10.978328704833984,
+        10.986842155456543,
+        10.992597579956055,
+        10.998950004577637,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 55,
+      "label_raw": "43",
+      "label_numeric": 43,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 56,
+      "label_raw": "44",
+      "label_numeric": 44,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0
+      ],
+      "num_blocks": 1,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 57,
+      "label_raw": "45",
+      "label_numeric": 45,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.963834762573242,
+        9.96910285949707,
+        9.988093376159668,
+        9.989044189453125,
+        9.997599601745605,
+        10.0,
+        32.0
+      ],
+      "num_blocks": 32,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 58,
+      "label_raw": "46",
+      "label_numeric": 46,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.96684455871582,
+        9.969854354858398,
+        9.97381591796875,
+        9.976020812988281,
+        9.987942695617676,
+        9.999750137329102,
+        10.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 59,
+      "label_raw": "47",
+      "label_numeric": 47,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.955349922180176,
+        9.963834762573242,
+        9.966593742370605,
+        9.972662925720215,
+        9.981833457946777,
+        9.98924446105957,
+        9.998549461364746,
+        9.99905014038086,
+        10.0
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 60,
+      "label_raw": "48",
+      "label_numeric": 48,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        9.964487075805664,
+        9.969804763793945,
+        9.974968910217285,
+        10.0
+      ],
+      "num_blocks": 37,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 61,
+      "label_raw": "49",
+      "label_numeric": 49,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.95836353302002,
+        9.963533401489258,
+        9.965290069580078,
+        9.970706939697266,
+        9.972662925720215,
+        9.974316596984863,
+        9.982133865356445,
+        9.995549201965332,
+        9.996699333190918,
+        9.998099327087402,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 62,
+      "label_raw": "50",
+      "label_numeric": 50,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 63,
+      "label_raw": "51",
+      "label_numeric": 51,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 64,
+      "label_raw": "52",
+      "label_numeric": 52,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 65,
+      "label_raw": "53",
+      "label_numeric": 53,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 66,
+      "label_raw": "54",
+      "label_numeric": 54,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 67,
+      "label_raw": "55",
+      "label_numeric": 55,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 68,
+      "label_raw": "56",
+      "label_numeric": 56,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Black",
+        "AvenirLTStd-Book"
+      ],
+      "font_sizes": [
+        11.0
+      ],
+      "num_blocks": 2,
+      "num_images": 1,
+      "num_tables": 0
+    }
+  ]
+}

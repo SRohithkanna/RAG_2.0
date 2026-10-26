@@ -1,0 +1,654 @@
+{
+  "file": "module5",
+  "page": 70,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4345092773438,
+        81.83369445800781
+      ],
+      "text": "of baseline and follow-up monitoring. However, at that time the GDG was not able to assess the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3839111328125,
+        95.03370666503906
+      ],
+      "text": "relative effectiveness of prolonged bedaquiline use, owing to limited evidence and potential residual",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4277954101562,
+        108.23371887207031
+      ],
+      "text": "confounding in the data. The regimen needs to have at least three effective agents if bedaquiline is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.5274658203125,
+        121.43373107910156
+      ],
+      "text": "stopped at six months; thus, if after 6 months, one of the three remaining agents needs to be stopped",
+      "font": "SegoeUI-Light",
+      "size": 10.977176666259766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4519653320312,
+        134.6337432861328
+      ],
+      "text": "because of toxicity, then it needs to be replaced. The replacement medicine would be chosen from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.4013061523438,
+        147.8336944580078
+      ],
+      "text": "either group B (unless both clofazimine and cycloserine or terizidone are already included) or group",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.3914184570312,
+        161.03370666503906
+      ],
+      "text": "C. The choice from group C is determined by the order in which the medicines are ranked, and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        156.99671936035156,
+        317.42437744140625,
+        174.2337188720703
+      ],
+      "text": "(9) individual circumstances of the patient and setting  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.31863403320312,
+        527.3175659179688,
+        195.93763732910156
+      ],
+      "text": "Concurrent use of bedaquiline and delamanid:  The GDG held in November 2019 found insufficient",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.968053817749023,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        194.69459533691406,
+        527.3111572265625,
+        209.13758850097656
+      ],
+      "text": "evidence to allow for a statement about the effectiveness of concurrent use of both medicines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        207.8946075439453,
+        527.4410400390625,
+        222.3376007080078
+      ],
+      "text": "However, the group concluded that the safety data assessed in 2019 suggest no additional safety",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        221.09474182128906,
+        527.1932373046875,
+        235.53773498535156
+      ],
+      "text": "concerns with regard to the concurrent use of bedaquiline and delamanid. Therefore, bedaquiline and",
+      "font": "SegoeUI-Light",
+      "size": 10.969657897949219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        234.29469299316406,
+        527.3970947265625,
+        248.73768615722656
+      ],
+      "text": "delamanid may be used in people with MDR/RR-TB who have limited options for other treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        247.4947052001953,
+        527.2440795898438,
+        261.9377136230469
+      ],
+      "text": "i.e. for those with an insufficient number of other effective drugs included in their regimen, such",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        260.6947021484375,
+        527.4345703125,
+        275.1377258300781
+      ],
+      "text": "as due to an extensive drug-resistance profile or intolerance to other second-line TB medications.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        273.89459228515625,
+        527.2430419921875,
+        288.3376159667969
+      ],
+      "text": "Appropriate schedules of safety monitoring (at baseline and throughout treatment) should be in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        287.0947265625,
+        527.4058837890625,
+        301.5377502441406
+      ],
+      "text": "place for these people with TB, including ECG and electrolyte monitoring, and clinicians should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        300.294677734375,
+        527.3795776367188,
+        314.7377014160156
+      ],
+      "text": "cognizant of other medicines in the regimen that can either prolong the QT interval or cause other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        310.70068359375,
+        199.79209899902344,
+        327.9377136230469
+      ],
+      "text": "(9) potential adverse events  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        335.0226135253906,
+        527.5206909179688,
+        349.6416320800781
+      ],
+      "text": "MDR/RR-TB case detection in children:  Efforts to implement child-friendly DR-TB regimens including",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        348.39862060546875,
+        527.0917358398438,
+        362.8416442871094
+      ],
+      "text": "bedaquiline should be implemented in parallel with increased efforts at the country level to close the",
+      "font": "SegoeUI-Light",
+      "size": 10.995949745178223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        361.5986022949219,
+        442.54302978515625,
+        376.0416259765625
+      ],
+      "text": "case detection gap. Evidence-based, integrated treatment decision algorithms (see",
+      "font": "SegoeUI-Light",
+      "size": 10.969106674194336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        442.27410888671875,
+        361.5986022949219,
+        484.6447448730469,
+        376.0416259765625
+      ],
+      "text": "chapter 4",
+      "font": "SegoeUI-Light",
+      "size": 10.969106674194336,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        484.6173095703125,
+        361.5986022949219,
+        527.3914794921875,
+        376.0416259765625
+      ],
+      "text": ") that are",
+      "font": "SegoeUI-Light",
+      "size": 10.969106674194336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.399169921875,
+        389.24163818359375
+      ],
+      "text": "specific for different settings with varying access to diagnostic tests and CXR, apply to children with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.4389038085938,
+        402.4416198730469
+      ],
+      "text": "presumptive MDR/RR-TB as well, and need to be widely implemented to ensure that MDR/RR-TB is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        293.2434997558594,
+        415.6416320800781
+      ],
+      "text": "detected and effectively treated among children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.72662353515625,
+        527.4307861328125,
+        437.34564208984375
+      ],
+      "text": "Administration of bedaquiline:  Dosing guidance for the use of bedaquiline in children below 6",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.10260009765625,
+        527.369384765625,
+        450.5456237792969
+      ],
+      "text": "years of age is provided in the operational handbook, based on an expert consultation on dosing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.3025207519531,
+        524.4391479492188,
+        463.74554443359375
+      ],
+      "text": "that was conducted as a follow up to the GDG meeting. The guidance takes into account the child-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.5025939941406,
+        527.4421997070312,
+        476.94561767578125
+      ],
+      "text": "friendly formulation of bedaquiline that was approved by the US FDA in May 2020 and has been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.7025146484375,
+        527.5548095703125,
+        490.1455383300781
+      ],
+      "text": "available from the Stop TB Partnership GDF since June 2020, namely a 20 mg scored tablet which can",
+      "font": "SegoeUI-Light",
+      "size": 10.985190391540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.9026184082031,
+        527.3893432617188,
+        503.34564208984375
+      ],
+      "text": "be taken whole or dispersed in water for patients who have difficulty swallowing intact tablets. This",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.10260009765625,
+        527.4312133789062,
+        516.5455932617188
+      ],
+      "text": "formulation of bedaquiline has been included in the 8th WHO Essential Medicine List for Children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.5084838867188,
+        527.4385375976562,
+        529.7454833984375
+      ],
+      "text": "(88) (EMLc), released in October 2021  . To aid with administration, the dispersed mixture in water can",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.5025634765625,
+        527.6107788085938,
+        542.945556640625
+      ],
+      "text": "be further mixed with a beverage or soft food or crushed and mixed with soft food immediately prior",
+      "font": "SegoeUI-Light",
+      "size": 10.991395950317383,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.7025146484375,
+        527.5709228515625,
+        556.1455078125
+      ],
+      "text": "to its use and administered (see below for more details). It should also be noted that the findings from",
+      "font": "SegoeUI-Light",
+      "size": 10.97852897644043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.902587890625,
+        527.4013061523438,
+        569.3455810546875
+      ],
+      "text": "the bedaquiline crush study showed that bioavailability of bedaquiline tablets suspended in water",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.30859375,
+        527.4332885742188,
+        582.5455932617188
+      ],
+      "text": "(85) was the same as for tablets swallowed whole  . Therefore, if the 20 mg formulation of bedaquiline",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        581.302490234375,
+        527.392578125,
+        595.7454833984375
+      ],
+      "text": "is not available, the crushed 100 mg formulation dissolved in water can be used to dose younger",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        594.5026245117188,
+        279.05303955078125,
+        608.9456176757812
+      ],
+      "text": "children without compromising bioavailability.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        616.20654296875,
+        527.2413940429688,
+        630.6495361328125
+      ],
+      "text": "Concomitant food intake is an important factor to consider when evaluating bioavailability. Bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 10.954606056213379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        629.406494140625,
+        527.2924194335938,
+        643.8494873046875
+      ],
+      "text": "bioavailability was optimized in the trials when co-administered with a high-fat meal. In practice,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        642.6065063476562,
+        527.4520874023438,
+        657.0494995117188
+      ],
+      "text": "feeding frequency needs to be considered. In infants, feeding frequency is higher and favours the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        655.8065185546875,
+        527.4335327148438,
+        670.24951171875
+      ],
+      "text": "administration with high-fat meals, but it should also be considered that buffering capacity increases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        669.0064697265625,
+        527.4212646484375,
+        683.449462890625
+      ],
+      "text": "with increased feeding frequency. The paediatric bedaquiline formulation can be prepared and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        682.20654296875,
+        527.4322509765625,
+        696.6495361328125
+      ],
+      "text": "administered with a variety of foodstuffs (including water, milk products, apple juice, orange juice,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        695.406494140625,
+        527.2432250976562,
+        709.8494873046875
+      ],
+      "text": "cranberry juice, carbonated beverages, yoghurt, apple sauce, mashed banana and porridge) to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        708.6065063476562,
+        527.3773803710938,
+        723.0494995117188
+      ],
+      "text": "improve palatability. The formulation is also stable for eight hours if the preparation is stored in a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        721.8065185546875,
+        527.398193359375,
+        736.24951171875
+      ],
+      "text": "syringe. It should ideally be taken with a high-fat meal, and administration on an empty stomach",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        735.0065307617188,
+        362.5224914550781,
+        749.4495239257812
+      ],
+      "text": "should be avoided as bedaquiline drug exposures are reduced.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "46 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

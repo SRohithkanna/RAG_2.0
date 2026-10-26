@@ -1,0 +1,426 @@
+{
+  "file": "common childhood",
+  "page": 32,
+  "blocks": [
+    {
+      "bbox": [
+        113.12979888916016,
+        27.289522171020508,
+        340.4130554199219,
+        35.34652328491211
+      ],
+      "text": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        60.173309326171875,
+        368.9280090332031,
+        73.36231231689453
+      ],
+      "text": "4.18\t Topical antibiotics for treatment of chronic suppurative otitis",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        73.17330932617188,
+        157.39068603515625,
+        86.36231231689453
+      ],
+      "text": "media (CSOM)",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        89.79890441894531,
+        399.0628356933594,
+        103.28890228271484
+      ],
+      "text": "a)\t Children with chronic suppurative otitis media (CSOM) should, in addition to",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        102.79890441894531,
+        396.8504943847656,
+        116.28890228271484
+      ],
+      "text": "aural toilet by dry wicking, be treated with instillation of drops containing qui­",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        115.79890441894531,
+        399.0614318847656,
+        129.28890991210938
+      ],
+      "text": "nolones (such as ciprofloxacin, norfloxacin, ofloxacin) three times daily for two",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        128.7989044189453,
+        94.68150329589844,
+        142.28890991210938
+      ],
+      "text": "weeks.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        144.20361328125,
+        252.91282653808594,
+        158.12362670898438
+      ],
+      "text": "(Strong recommendation, low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        160.4682159423828,
+        399.0927734375,
+        173.95822143554688
+      ],
+      "text": "b)\tChildren who fail to respond to treatment should be referred for further evaluation",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        173.4682159423828,
+        270.08154296875,
+        186.95822143554688
+      ],
+      "text": "for other causes of CSOM, especially tuberculosis.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        188.87289428710938,
+        229.02288818359375,
+        202.79290771484375
+      ],
+      "text": "(Strong recommendation, expert opinion)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        215.68508911132812,
+        371.0069885253906,
+        228.87408447265625
+      ],
+      "text": "4.19\t Topical antiseptics for treatment of chronic suppurative otitis",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.70870208740234,
+        228.68508911132812,
+        118.90168762207031,
+        241.87408447265625
+      ],
+      "text": "media",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        245.3107147216797,
+        399.0927734375,
+        258.80072021484375
+      ],
+      "text": "Topical antiseptics and steroids should not be used for the treatment of CSOM in",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        258.3106994628906,
+        95.41290283203125,
+        271.80072021484375
+      ],
+      "text": "children.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        273.71539306640625,
+        252.91282653808594,
+        287.6354064941406
+      ],
+      "text": "(Strong recommendation, low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        300.527587890625,
+        386.1320495605469,
+        313.7165832519531
+      ],
+      "text": "4.20\t Topical steroids for treatment of chronic suppurative otitis media",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        317.1531982421875,
+        275.742919921875,
+        330.6432189941406
+      ],
+      "text": "Topical steroids should not be used in treating CSOM.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        332.5578918457031,
+        269.5429382324219,
+        346.4779052734375
+      ],
+      "text": "(Weak recommendation, very low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        359.3701171875,
+        279.5749206542969,
+        372.5591125488281
+      ],
+      "text": "4.21\t Antibiotics for treatment of Typhoid Fever",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        375.99578857421875,
+        399.1029052734375,
+        389.4858093261719
+      ],
+      "text": "a)\t Children with typhoid fever should be treated with a fluoroquinolone (i.e.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        388.99578857421875,
+        399.1514892578125,
+        402.4858093261719
+      ],
+      "text": "Ciprofloxacin, Gatifloxacin, Ofloxacin, and Perfloxacin) as a first line treatment",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        401.99578857421875,
+        125.3115005493164,
+        415.4858093261719
+      ],
+      "text": "for 7–10 days.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        414.99578857421875,
+        331.29150390625,
+        428.4858093261719
+      ],
+      "text": "—\t Ciprofloxacin: orally 15 mg/kg/dose twice daily for 7–10 days.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        430.400390625,
+        277.7628173828125,
+        444.3204040527344
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        446.66510009765625,
+        399.0428466796875,
+        460.1551208496094
+      ],
+      "text": "b)\tIf the response to treatment is poor, consider drug-resistant typhoid, and treat",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        459.66510009765625,
+        394.1815490722656,
+        473.1551208496094
+      ],
+      "text": "with a second line antibiotic like 3rd generation cephalosporins or azithromycin.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        472.66510009765625,
+        278.1716003417969,
+        486.1551208496094
+      ],
+      "text": "—\t Cetriaxone (IV): 80 mg/kg per day for 5–7 days,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        485.66510009765625,
+        81.58150482177734,
+        499.1551208496094
+      ],
+      "text": "OR",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        498.66510009765625,
+        267.8116149902344,
+        512.1550903320312
+      ],
+      "text": "—\t Azithromycin: 20 mg/kg per day for 5–7 days.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        514.0697021484375,
+        277.7628173828125,
+        527.9896850585938
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        530.3343505859375,
+        399.0528869628906,
+        543.8243408203125
+      ],
+      "text": "c)\t Where drug resistance to antibiotics among salmonella isolates is known, follow",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        543.3344116210938,
+        313.4814147949219,
+        556.8244018554688
+      ],
+      "text": "the national guidelines according to local susceptibility data.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        558.739013671875,
+        277.7628173828125,
+        572.6589965820312
+      ],
+      "text": "(Strong recommendation, moderate quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.62969970703125,
+        644.9403076171875,
+        230.41470336914062,
+        655.2992553710938
+      ],
+      "text": "18",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "file": "Latent",
+  "page": 58,
+  "blocks": [
+    {
+      "bbox": [
+        393.1138916015625,
+        54.98908233642578,
+        402.7138977050781,
+        480.85772705078125
+      ],
+      "text": ". In all studies, less than half of participants received the reference standard; accuracy was calculated under the assumption that those",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.09700012207031,
+        56.70920944213867,
+        84.87999725341797,
+        771.02392578125
+      ],
+      "text": "PICO 3: What is the accuracy of symptomatic screening and/or chest x-ray to exclude active TB in contacts of pulmonary TB cases",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.81800079345703,
+        122.50473022460938,
+        117.61399841308594,
+        771.02392578125
+      ],
+      "text": "Chest radiographic findings for exclusion of active TB in contacts of TB cases without HIV in high-TB incidence countries",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        143.4925994873047,
+        176.17559814453125,
+        155.01260375976562,
+        361.6894836425781
+      ],
+      "text": "anti-TB chemotherapy (6–9 months’ antibiotics)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.93704223632812,
+        361.6894836425781,
+        447.7138977050781,
+        766.712646484375
+      ],
+      "text": "➞  Publication bias: Not applicable (the evidence base for publication bias in studies of diagnostic test accuracy is very limited).",
+      "font": "ZapfDingbats",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        143.4925994873047,
+        370.0414733886719,
+        155.01260375976562,
+        584.8256225585938
+      ],
+      "text": "confirmatory test (mycobacterial culture or GeneXpert)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        408.61651611328125,
+        384.71453857421875,
+        420.7138977050781,
+        766.7083129882812
+      ],
+      "text": "Indirectness (see QUADAS-2): Some concern about applicability of reference standard in 2 studies – no downgrading.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.49659729003906,
+        439.4935607910156,
+        133.0166015625,
+        728.1209106445312
+      ],
+      "text": "Chest X-ray. Any abnormality | Reference test: Sputum culture and/or smear",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        417.61651611328125,
+        443.6719055175781,
+        429.7138977050781,
+        766.7607421875
+      ],
+      "text": "Inconsistency: Little heterogeneity for sensitivity and specificity (based on visual inspection of CIs).",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        402.1138916015625,
+        459.6455078125,
+        411.7138977050781,
+        761.1027221679688
+      ],
+      "text": "who did not receive the reference standard were culture and/or smear negative (no active TB).",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        393.12139892578125,
+        480.72198486328125,
+        402.7138977050781,
+        492.83074951171875
+      ],
+      "text": "(31)",
+      "font": "Whitney-BookItalic",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        393.1138916015625,
+        492.7407531738281,
+        402.7138977050781,
+        761.1027221679688
+      ],
+      "text": "Limitations in study design (see QUADAS-2): High risk of selection bias in one study",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.0979995727539,
+        528.4700317382812,
+        98.88099670410156,
+        771.02392578125
+      ],
+      "text": "without HIV in high TB incidence countries?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        426.61651611328125,
+        568.0863647460938,
+        438.7138977050781,
+        766.4547119140625
+      ],
+      "text": "Imprecision: Precise estimates for sensitivity and specificity.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.93704223632812,
+        584.8256225585938,
+        153.93704223632812,
+        593.1776123046875
+      ],
+      "text": "➞",
+      "font": "ZapfDingbats",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        143.4925994873047,
+        593.1776123046875,
+        155.01260375976562,
+        671.4605102539062
+      ],
+      "text": "Chest X-ray positive",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        143.4835968017578,
+        671.4605102539062,
+        155.10260009765625,
+        771.02392578125
+      ],
+      "text": "Test–treatment pathway:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        132.49459838867188,
+        681.8339233398438,
+        144.0146026611328,
+        707.2616577148438
+      ],
+      "text": "Triage",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        384.12139892578125,
+        695.0968017578125,
+        393.7138977050781,
+        718.1532592773438
+      ],
+      "text": "(31–37)",
+      "font": "Whitney-BookItalic",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        132.485595703125,
+        707.2615966796875,
+        144.10459899902344,
+        771.02392578125
+      ],
+      "text": "Place of testing:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        384.1138916015625,
+        718.1532592773438,
+        393.7138977050781,
+        753.6455078125
+      ],
+      "text": "references",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.48759460449219,
+        728.1209106445312,
+        133.10659790039062,
+        771.02392578125
+      ],
+      "text": "Index test:",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        384.1138916015625,
+        754.6334228515625,
+        393.7138977050781,
+        771.02392578125
+      ],
+      "text": "From",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        393.78155517578125,
+        766.4547119140625,
+        444.37835693359375,
+        771.02392578125
+      ],
+      "text": "4 \t 2 \t 5 \t 3 \t 1",
+      "font": "Whitney-Book",
+      "size": 4.372499942779541,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        37.901100158691406,
+        790.2608032226562,
+        56.6931037902832,
+        810.61279296875
+      ],
+      "text": "46",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

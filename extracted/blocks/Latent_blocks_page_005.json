@@ -1,0 +1,258 @@
+{
+  "file": "Latent",
+  "page": 5,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        162.58209228515625,
+        82.56494140625
+      ],
+      "text": "Contents",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.5348358154297,
+        524.4085083007812,
+        182.89483642578125
+      ],
+      "text": "Acknowledgements\t v",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.19883728027344,
+        524.4097290039062,
+        203.558837890625
+      ],
+      "text": "Declaration and management of conflicts of interest\t vii",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        208.8628387451172,
+        524.4000854492188,
+        224.22283935546875
+      ],
+      "text": "Abbreviations\t ix",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.85406494140625,
+        229.52684020996094,
+        524.4060668945312,
+        244.8868408203125
+      ],
+      "text": "Definitions\t x",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.85406494140625,
+        250.1908416748047,
+        524.4060668945312,
+        265.55084228515625
+      ],
+      "text": "Executive summary\t 1",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        270.8548278808594,
+        524.4061279296875,
+        286.21484375
+      ],
+      "text": "1.\t Introduction\t 5",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        291.5188293457031,
+        524.4180908203125,
+        306.87884521484375
+      ],
+      "text": "2.\t Identification of populations for testing and treatment of latent tuberculosis infection\t 9",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.87811279296875,
+        312.1828308105469,
+        524.4313354492188,
+        327.5428466796875
+      ],
+      "text": "3. \t Algorithms for ruling out active tuberculosis disease\t 14",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.89010620117188,
+        332.8468322753906,
+        524.4432373046875,
+        348.20684814453125
+      ],
+      "text": "4.\t Testing for latent tuberculosis infection\t 21",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.902099609375,
+        353.5108337402344,
+        524.455322265625,
+        368.870849609375
+      ],
+      "text": "5.\t Treatment options for latent tuberculosis infection\t 23",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.91409301757812,
+        374.1748352050781,
+        524.4672241210938,
+        389.53485107421875
+      ],
+      "text": "6.\t Preventive treatment for contacts of patients with multidrug-resistant tuberculosis\t 28",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.926025390625,
+        394.8388366699219,
+        524.4744262695312,
+        410.1988525390625
+      ],
+      "text": "7.\t Issues in implementation\t 30",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.926025390625,
+        415.5028381347656,
+        524.4791870117188,
+        430.86285400390625
+      ],
+      "text": "8.\t Research priorities\t 32",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.93801879882812,
+        436.1668395996094,
+        524.4852294921875,
+        451.52685546875
+      ],
+      "text": "9.\t References\t 34",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.93801879882812,
+        456.8308410644531,
+        524.489990234375,
+        472.19085693359375
+      ],
+      "text": "Annex 1. GRADE profile tables for new recommendations \t 39",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.93801879882812,
+        477.4948425292969,
+        454.241943359375,
+        492.8548583984375
+      ],
+      "text": "Annex 2. Evidence-to-Decision and GRADE tables (online at www.who.int/tb)",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.93801879882812,
+        498.1588439941406,
+        513.0587768554688,
+        513.5188598632812
+      ],
+      "text": "Annex 3. Survey on the values and preferences for the management of latent tuberculosis",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.93801879882812,
+        513.1588745117188,
+        250.87205505371094,
+        528.5188598632812
+      ],
+      "text": "infection (online at www.who.int/tb)",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        548.8386840820312,
+        810.61279296875
+      ],
+      "text": "iii",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        487.8544921875,
+        796.524658203125,
+        524.4097900390625,
+        805.5686645507812
+      ],
+      "text": "CONTENTS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "file": "module4",
+  "page": 275,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        287.2629089355469,
+        86.53083038330078
+      ],
+      "text": "Tuberculosis care and support",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.44278717041016,
+        99.03998565673828,
+        384.206787109375,
+        114.69998931884766
+      ],
+      "text": "Guidelines on tuberculosis care and support update, 2017",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        131.0479278564453,
+        239.84292602539062,
+        146.70791625976562
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        153.91590881347656,
+        527.4409790039062,
+        168.35890197753906
+      ],
+      "text": "Si Thu Aung, Deputy Director (TB) and National TB Programme Manager, Ministry of Health, Nay",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.1159210205078,
+        527.44091796875,
+        181.5589141845703
+      ],
+      "text": "Pyi Taw, Myanmar (Unable to attend the meeting); Frank Bonsu, National TB Programme Manager,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.31593322753906,
+        527.1494140625,
+        194.75892639160156
+      ],
+      "text": "Ministry of Health, Accra, Ghana; Jeremiah Muhwa Chakaya, Clinician, National TB Programme",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.5159454345703,
+        527.4022827148438,
+        207.9589385986328
+      ],
+      "text": "Manager, Nairobi, Kenya; Lucy Chesire, Nairobi, Kenya; Daniela Cirillo, Head of Emerging Bacterial",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.7158966064453,
+        527.5784912109375,
+        221.1588897705078
+      ],
+      "text": "Pathogens Unit, WHO Collaborating Centre and TB Supranational Reference Laboratory, San",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.91590881347656,
+        527.4188842773438,
+        234.35890197753906
+      ],
+      "text": "Raffaele Scientific Institute, Milan, Italy; Poonam Dhavan, Migration Health Programme Coordinator,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.1159210205078,
+        527.4067993164062,
+        247.5589141845703
+      ],
+      "text": "International Organization for Migration, Geneva, Switzerland (Unable to attend the meeting); Kelly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.31593322753906,
+        527.4244384765625,
+        260.7589416503906
+      ],
+      "text": "Dooley, Associate Professor of Medicine, Pharmacology & Molecular Sciences, Divisions of Clinical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.51593017578125,
+        527.4200439453125,
+        273.9589538574219
+      ],
+      "text": "Pharmacology & Infectious Diseases, Center for Tuberculosis Research, Faculty Leader, Janeway Firm",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.71588134765625,
+        527.6192626953125,
+        287.1589050292969
+      ],
+      "text": "of the Osler Residency Program, Johns Hopkins University School of Medicine, Baltimore, MD, United",
+      "font": "SegoeUI-Light",
+      "size": 10.998000144958496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.9158935546875,
+        527.3970947265625,
+        300.3589172363281
+      ],
+      "text": "States of America; Kathy Fiekert, Senior TB Consultant, Royal Dutch Tuberculosis Foundation (KNCV),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.11590576171875,
+        527.3904418945312,
+        313.5589294433594
+      ],
+      "text": "The Hague, Netherlands; Paula Fujiwara, Scientific Director, International Union Against Tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.31591796875,
+        527.3958129882812,
+        326.7589416503906
+      ],
+      "text": "and Lung Disease, Paris, France; Mike Frick, TB/HIV Project, Treatment Action Group, New York, NY,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.5158996582031,
+        527.5020751953125,
+        339.95892333984375
+      ],
+      "text": "United States of America; Andrei Mariandyshev, Head of Phthisiopulmonary Department, Arkhangelsk,",
+      "font": "SegoeUI-Light",
+      "size": 10.959124565124512,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.7159118652344,
+        527.4190063476562,
+        353.158935546875
+      ],
+      "text": "Russian Federation; Nguyen Viet Nhung, Director of National Lung Hospital, Manager of National",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.9158935546875,
+        527.4210205078125,
+        366.3589172363281
+      ],
+      "text": "TB Programme, Hanoi, Viet Nam; Ejaz Qadeer, Ministry of Health, Islamabad, Pakistan; Abdul Hamid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.11590576171875,
+        527.2167358398438,
+        379.5589294433594
+      ],
+      "text": "Salim, Advisor to National TB Programme Bangladesh on Global Fund and MDR-TB, Mohakhali,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.31591796875,
+        527.1576538085938,
+        392.7589416503906
+      ],
+      "text": "Dhaka, Bangladesh; Simon Schaaf, Paediatrician, Paediatrics and Child Health, Faculty of Medicine and",
+      "font": "SegoeUI-Light",
+      "size": 10.976174354553223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.5158996582031,
+        527.1873168945312,
+        405.95892333984375
+      ],
+      "text": "Health Sciences, University of Stellenbosch, South Africa; Holger Schünemann (Chair), Methodologist,",
+      "font": "SegoeUI-Light",
+      "size": 10.98138427734375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.7159118652344,
+        527.3882446289062,
+        419.158935546875
+      ],
+      "text": "McMaster University, Hamilton, Canada; Pedro Guillermo Suarez, Management Sciences for Health,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.9158935546875,
+        527.595947265625,
+        432.3589172363281
+      ],
+      "text": "Arlington, VA, United States of America (Unable to attend the meeting); Carrie Tudor, TB Project",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.11590576171875,
+        527.3936767578125,
+        445.5589294433594
+      ],
+      "text": "Director, International Council of Nurses, Durban, South Africa; Justin Wong Yun Yaw, Head, Disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.31591796875,
+        362.82818603515625,
+        458.7589416503906
+      ],
+      "text": "Control Division, Ministry of Health, Jalan Menteri Besar, Brunei.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.1597900390625,
+        173.61489868164062,
+        490.8197937011719
+      ],
+      "text": "Evidence reviewers",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.0277099609375,
+        487.6198425292969,
+        512.470703125
+      ],
+      "text": "Narges Alipanah, Santa Clara Valley Medical Center, San Jose, CA, United States of America",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.479736328125,
+        513.1068115234375,
+        529.9227294921875
+      ],
+      "text": "Lelia Chaisson, Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.6796875,
+        253.8489227294922,
+        543.1226806640625
+      ],
+      "text": "Baltimore, MD, United States of America",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.1317138671875,
+        448.8119201660156,
+        560.57470703125
+      ],
+      "text": "Jennifer Ho, Woolcock Institute of Medical Research, University of Sydney, Australia",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.5836181640625,
+        496.84881591796875,
+        578.026611328125
+      ],
+      "text": "James Johnston, TB Services, British Columbia Centre for Disease Control, Vancouver, Canada",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.0355834960938,
+        368.6019287109375,
+        595.4785766601562
+      ],
+      "text": "Dick Menzies, RECRU/Montreal Chest Institute, Montreal, Canada",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.4874877929688,
+        494.62799072265625,
+        612.9304809570312
+      ],
+      "text": "Payam Nahid, Professor, University of California, San Francisco, CA, United States of America.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.3314208984375,
+        125.69650268554688,
+        644.991455078125
+      ],
+      "text": "Observers",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.1994018554688,
+        520.1500854492188,
+        666.6423950195312
+      ],
+      "text": "Amy Bloom, US Agency for International Development (USAID), Washington, DC, United States of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.3994140625,
+        108.58509063720703,
+        679.8424072265625
+      ],
+      "text": "America",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.8514404296875,
+        277.3251037597656,
+        697.29443359375
+      ],
+      "text": "Janet Ginnard, UNITAID, Geneva, Switzerland.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.6951904296875,
+        186.05892944335938,
+        729.355224609375
+      ],
+      "text": "WHO Steering Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.563232421875,
+        527.404541015625,
+        751.0062255859375
+      ],
+      "text": "Global TB Programme: Annabel Baddeley, Dennis Falzon, Giuliano Gargioni, Nebiat Gebresselassie,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.76318359375,
+        527.3033447265625,
+        764.2061767578125
+      ],
+      "text": "Haileyesus Getahun, Licé Gonzalez-Angulo, Malgorzata Grzemska, Elizabeth Harausz, Ernesto",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        401.61260986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 2. Methods and expert panels 261",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

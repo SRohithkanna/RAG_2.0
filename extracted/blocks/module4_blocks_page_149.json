@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 149,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        213.38893127441406,
+        82.6147232055664
+      ],
+      "text": "Drug susceptibility testing",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.39599609375,
+        104.26564025878906
+      ],
+      "text": "These guidelines stress past advice that a patient’s MDR/RR-TB strain should be tested for susceptibility",
+      "font": "SegoeUI-Light",
+      "size": 10.959776878356934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.4476928710938,
+        117.46559143066406
+      ],
+      "text": "to medicines planned for inclusion in the regimen, so that effectiveness can be maximized. Access to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.4166259765625,
+        130.6657257080078
+      ],
+      "text": "rapid diagnostic testing would help clinicians to decide whether the patient is eligible for a specific",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.48193359375,
+        143.86573791503906
+      ],
+      "text": "MDR/RR-TB regimen, and what agents to include in a longer MDR-TB regimen. The recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.959224700927734,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.5565185546875,
+        157.06568908691406
+      ],
+      "text": "on regimen design need to be accompanied by continued efforts to increase access to DST for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        527.4356689453125,
+        170.2657012939453
+      ],
+      "text": "medicines for which there are reliable methods, and by the development and roll-out of DST for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.02272033691406,
+        527.4058227539062,
+        183.46571350097656
+      ],
+      "text": "the newer medicines. However, potentially life-saving treatment should not be withheld until all DST",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.2227325439453,
+        527.4058227539062,
+        196.6657257080078
+      ],
+      "text": "results become available, and empirical treatment with a regimen that is likely to be effective may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.42274475097656,
+        388.877197265625,
+        209.86573791503906
+      ],
+      "text": "need to be started, then adjusted once DST results become available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.12660217285156,
+        527.3881225585938,
+        231.56959533691406
+      ],
+      "text": "An important observation in the 2018 IPD meta-analysis for longer regimens is that when a DST result",
+      "font": "SegoeUI-Light",
+      "size": 10.973668098449707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.3267364501953,
+        527.4354248046875,
+        244.7697296142578
+      ],
+      "text": "indicates resistance to an agent, it is better to replace that agent. This also applies to medicines for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.52662658691406,
+        527.4475708007812,
+        257.9696350097656
+      ],
+      "text": "which DST or the DST method used is known to be unreliable for clinical decision-making. Although",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.7266845703125,
+        527.5294799804688,
+        271.1697082519531
+      ],
+      "text": "DST is important for guiding effective treatment, DST results present uncertainties for several regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.977627754211426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.9266357421875,
+        527.1129150390625,
+        284.3696594238281
+      ],
+      "text": "components (e.g. cycloserine, streptomycin and ethambutol). “Likelihood of effectiveness” is generally",
+      "font": "SegoeUI-Light",
+      "size": 10.975272178649902,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.1265869140625,
+        527.21533203125,
+        297.5696105957031
+      ],
+      "text": "assessed in the programmatic setting on the basis of one or more of the following: confirmed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.32672119140625,
+        527.1994018554688,
+        310.7697448730469
+      ],
+      "text": "susceptibility in the individual patient, confirmed susceptibility in the presumed source case, no known",
+      "font": "SegoeUI-Light",
+      "size": 10.97472095489502,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.526611328125,
+        527.407958984375,
+        323.9696350097656
+      ],
+      "text": "resistance to another drug that has cross-resistance to the medicine, rare use of the medicine in an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.7265930175781,
+        527.393798828125,
+        337.16961669921875
+      ],
+      "text": "area (possibly supported by low drug-resistance levels from surveillance activities), and no previous",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.9266052246094,
+        527.4915771484375,
+        350.36962890625
+      ],
+      "text": "use of the medicine in a regimen that failed to cure that same patient. When there is uncertainty about",
+      "font": "SegoeUI-Light",
+      "size": 10.96534538269043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.1266174316406,
+        527.4541015625,
+        363.56964111328125
+      ],
+      "text": "the effectiveness of a certain agent, that agent may still be included in the regimen, but it should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.3266906738281,
+        527.3947143554688,
+        376.76971435546875
+      ],
+      "text": "not be considered as one of the target number of medicines needed; clinical judgement should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        375.526611328125,
+        527.4266357421875,
+        389.9696350097656
+      ],
+      "text": "used to decide whether the benefit from its inclusion outweighs any added toxicity, pill burden or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.7265930175781,
+        527.6461791992188,
+        403.16961669921875
+      ],
+      "text": "other disadvantages. The design of the regimen must consider the relative benefits and harms to the",
+      "font": "SegoeUI-Light",
+      "size": 10.998099327087402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.9266052246094,
+        309.7201232910156,
+        416.36962890625
+      ],
+      "text": "individual patient, including drug–drug interactions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.7705078125,
+        185.33412170410156,
+        448.4305114746094
+      ],
+      "text": "Dosage and duration",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.6385192871094,
+        527.4266357421875,
+        470.08154296875
+      ],
+      "text": "The guidelines update in 2018 revised the weight-based dosage schedules for medicines used in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.5625,
+        527.4325561523438,
+        483.2815246582031
+      ],
+      "text": "WHO consolidated operational handbook  MDR-TB regimens for both children and adults (see the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.76239013671875,
+        527.3062744140625,
+        496.4814147949219
+      ],
+      "text": "on tuberculosis. Module 4: Treatment and care (8) ). The update to the dosages benefited from",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.2384948730469,
+        527.2274780273438,
+        509.6815185546875
+      ],
+      "text": "the expertise of the GDG members, and from an extensive consultation with other specialists in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.43841552734375,
+        527.5372924804688,
+        522.8814086914062
+      ],
+      "text": "different fields. It was based on the latest knowledge available about the optimal use of the medicines",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.362548828125,
+        527.3861694335938,
+        536.08154296875
+      ],
+      "text": "(92) involved  . Adherence to the schedules is advised as far as possible. Manipulation of tablets (e.g.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.8385009765625,
+        527.3772583007812,
+        549.281494140625
+      ],
+      "text": "splitting, crushing or dissolving in water) outside their indications is to be avoided because this may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.0383911132812,
+        281.3099060058594,
+        562.4813842773438
+      ],
+      "text": "interfere with the bioavailability of the drugs. 50",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.742431640625,
+        527.641357421875,
+        584.1854248046875
+      ],
+      "text": "It is important to prevent treatment interruption, to increase the likelihood of treatment success. One",
+      "font": "SegoeUI-Light",
+      "size": 10.997949600219727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        582.9423828125,
+        527.4464721679688,
+        597.3853759765625
+      ],
+      "text": "measure that can help to increase retention is supporting patient adherence, either by facilitating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.1423950195312,
+        527.6333618164062,
+        610.5853881835938
+      ],
+      "text": "patient visits to health care facilities or home visits by health care staff, or by using digital technologies",
+      "font": "SegoeUI-Light",
+      "size": 10.98483943939209,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.06640625,
+        207.99990844726562,
+        623.785400390625
+      ],
+      "text": "(93) for daily communication  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.1596069335938,
+        220.46530151367188,
+        653.0116577148438
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.219482421875,
+        527.2305297851562,
+        674.6624755859375
+      ],
+      "text": "Patients on longer MDR-TB treatment regimens need to be monitored for response to treatment and",
+      "font": "SegoeUI-Light",
+      "size": 10.98819351196289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.1434936523438,
+        527.4239501953125,
+        687.8624877929688
+      ],
+      "text": "(15, 65) for safety, using reasonable schedules of relevant clinical and laboratory testing  . The WHO",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.61962890625,
+        527.39599609375,
+        701.0626220703125
+      ],
+      "text": "framework for aDSM needs to be applied to patients on any type of MDR/RR-TB regimen, to ensure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.819580078125,
+        527.2330932617188,
+        714.2625732421875
+      ],
+      "text": "appropriate action and an acceptable level of monitoring for adverse events and prompt response to",
+      "font": "SegoeUI-Light",
+      "size": 10.987942695617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.0195922851562,
+        527.49658203125,
+        727.4625854492188
+      ],
+      "text": "such events – alongside monitoring for treatment outcomes. ECG may be indicated as more regimens",
+      "font": "SegoeUI-Light",
+      "size": 10.972565650939941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.219482421875,
+        527.48779296875,
+        740.6624755859375
+      ],
+      "text": "in the future may have two or three agents that are expected to prolong the QT interval. Audiometry",
+      "font": "SegoeUI-Light",
+      "size": 10.996549606323242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8719482421875,
+        526.5964965820312,
+        763.5758666992188
+      ],
+      "text": "This is particularly problematic with the delamanid tablet, the contents of which are most unpalatable ( see  summaries of unpublished  50",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.5919189453125,
+        245.28099060058594,
+        773.1759033203125
+      ],
+      "text": "Annex 6 data for the 2018 guidelines update in  ).",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  135",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

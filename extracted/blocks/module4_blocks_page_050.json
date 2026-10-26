@@ -1,0 +1,726 @@
+{
+  "file": "module4",
+  "page": 50,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.2660522460938,
+        81.83369445800781
+      ],
+      "text": "The recommendations included herein are a component of the WHO consolidated guidelines on TB and",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.0971069335938,
+        95.03370666503906
+      ],
+      "text": "are primarily intended for use by NTPs, public health agencies, and other key constituencies involved",
+      "font": "SegoeUI-Light",
+      "size": 10.99524974822998,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4134521484375,
+        108.23371887207031
+      ],
+      "text": "in the planning, implementation and monitoring of activities for the programmatic management of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        105.82410430908203,
+        121.43373107910156
+      ],
+      "text": "DR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4578247070312,
+        143.13758850097656
+      ],
+      "text": "Drug-resistant tuberculosis (DR-TB) remains a significant public health challenge, impacting patients,",
+      "font": "SegoeUI-Light",
+      "size": 10.999650001525879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.572021484375,
+        156.3376007080078
+      ],
+      "text": "communities, and healthcare systems profoundly. In 2023, global estimates suggest there were around",
+      "font": "SegoeUI-Light",
+      "size": 10.963138580322266,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.1959838867188,
+        169.53773498535156
+      ],
+      "text": "400 000 new cases of multidrug- or rifampicin-resistant tuberculosis (MDR/RR-TB), yet less than half of",
+      "font": "SegoeUI-Light",
+      "size": 10.968103408813477,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.01869201660156,
+        527.4505004882812,
+        182.73768615722656
+      ],
+      "text": "(5) these cases were officially reported and began treatment  . Treatment success rates have improved,",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.99069595336914,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4168090820312,
+        195.9376983642578
+      ],
+      "text": "rising from 50% in 2012 to 68% in 2021, but still, nearly 15% of those with MDR/RR-TB succumb to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.41871643066406,
+        527.570068359375,
+        209.13771057128906
+      ],
+      "text": "(6) the disease  . Before 2022, treatment options for MDR/RR-TB were suboptimal, involving prolonged",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.978128433227539,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.4313354492188,
+        222.3376007080078
+      ],
+      "text": "treatment durations, a higher number of pills, and drugs with more severe side effects, leading to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.3946533203125,
+        235.53773498535156
+      ],
+      "text": "significant adverse events and less favorable outcomes. However, a breakthrough came in 2022 with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        477.53289794921875,
+        248.73768615722656
+      ],
+      "text": "the introduction of the first 6-month treatment regimen using three or four medications.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.4254150390625,
+        270.4417419433594
+      ],
+      "text": "This current chapter concerns TB treatment and care; it presents WHO recommendations that have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.2075805664062,
+        283.6416320800781
+      ],
+      "text": "been newly developed and are published here for the first time, and existing recommendations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.3924560546875,
+        296.8416442871094
+      ],
+      "text": "that have been published in other WHO guidelines that applied the Grading of Recommendations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        356.5625305175781,
+        310.0416564941406
+      ],
+      "text": "Assessment, Development and Evaluation (GRADE) approach.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.0298156738281,
+        280.57861328125,
+        348.8248291015625
+      ],
+      "text": "Structure of the chapter",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.27581787109375,
+        527.4024658203125,
+        368.7188415527344
+      ],
+      "text": "The recommendations part of this chapter has eight sections that cover aspects of the treatment of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.4757995605469,
+        219.32765197753906,
+        381.9188232421875
+      ],
+      "text": "DR-TB. The aspects covered are:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.1797180175781,
+        78.23609924316406,
+        403.62274169921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        389.1797180175781,
+        337.7614440917969,
+        403.62274169921875
+      ],
+      "text": "Treatment of drug-resistant TB using 6-month regimens",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        402.37969970703125,
+        90.79509735107422,
+        416.8227233886719
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        402.37969970703125,
+        477.95684814453125,
+        416.8227233886719
+      ],
+      "text": "the 6-month bedaquiline, pretomanid, linezolid and moxifloxacin (BPaLM) regimen;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        415.5797119140625,
+        90.79509735107422,
+        430.0227355957031
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        415.5797119140625,
+        524.205322265625,
+        430.0227355957031
+      ],
+      "text": "the 6-month bedaquiline, delamanid, linezolid, levofloxacin and clofazimine (BDLLfxC) regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.988043785095215,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.7796936035156,
+        78.23609924316406,
+        443.22271728515625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        428.7796936035156,
+        337.7614440917969,
+        443.22271728515625
+      ],
+      "text": "Treatment of drug-resistant TB using 9-month regimens",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        441.9797058105469,
+        90.79509735107422,
+        456.4227294921875
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        441.9797058105469,
+        238.29653930664062,
+        456.4227294921875
+      ],
+      "text": "the 9-month all-oral regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        455.1797180175781,
+        90.79509735107422,
+        469.62274169921875
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        455.1797180175781,
+        281.9423522949219,
+        469.62274169921875
+      ],
+      "text": "the modified 9-month all-oral regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.37969970703125,
+        78.23609924316406,
+        482.8227233886719
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        468.37969970703125,
+        329.5686950683594,
+        482.8227233886719
+      ],
+      "text": "Treatment of drug-resistant TB using longer regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.5797119140625,
+        78.23609924316406,
+        496.0227355957031
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        481.5797119140625,
+        400.6947021484375,
+        496.0227355957031
+      ],
+      "text": "Treatment of rifampicin-susceptible and isoniazid-resistant TB (Hr-TB);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.7796936035156,
+        78.23609924316406,
+        509.22271728515625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        494.7796936035156,
+        362.9931945800781,
+        509.22271728515625
+      ],
+      "text": "Monitoring of the patient response to MDR/RR-TB treatment;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.979736328125,
+        78.23609924316406,
+        522.4227294921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        507.979736328125,
+        413.2632751464844,
+        522.4227294921875
+      ],
+      "text": "Starting Antiretroviral therapy (ART) for people on MDR/RR-TB regimen;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.1796875,
+        78.23609924316406,
+        535.6226806640625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        521.1796875,
+        295.4949951171875,
+        535.6226806640625
+      ],
+      "text": "Surgery for people on MDR/RR-TB treatment;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.3796997070312,
+        78.23609924316406,
+        548.8226928710938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        534.3796997070312,
+        399.0115966796875,
+        548.8226928710938
+      ],
+      "text": "Hepatitis C virus (HCV) and MDR/RR-TB treatment co-administration.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.0836181640625,
+        527.52880859375,
+        570.526611328125
+      ],
+      "text": "Each section starts with the current WHO recommendations for that aspect, then gives information on",
+      "font": "SegoeUI-Light",
+      "size": 10.970561027526855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.28369140625,
+        527.4353637695312,
+        583.7266845703125
+      ],
+      "text": "the evidence used to inform that recommendation; a summary of the analyses that were carried out",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        582.483642578125,
+        527.1538696289062,
+        596.9266357421875
+      ],
+      "text": "based on the evidence; considerations for specific subgroups; and considerations for implementation,",
+      "font": "SegoeUI-Light",
+      "size": 10.974921226501465,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.68359375,
+        527.0861206054688,
+        610.1265869140625
+      ],
+      "text": "and monitoring and evaluation. Research gaps identified for each of the sections are then presented.",
+      "font": "SegoeUI-Light",
+      "size": 10.995498657226562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.8837280273438,
+        527.4178466796875,
+        623.3267211914062
+      ],
+      "text": "Annexes provide more details on the methods, the Guideline Development Groups (GDGs), PICO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.083740234375,
+        527.5985717773438,
+        636.5267333984375
+      ],
+      "text": "questions, evidence profiles and evidence-to-decision (EtD) analyses, unpublished data and statistical",
+      "font": "SegoeUI-Light",
+      "size": 10.984990119934082,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.2835693359375,
+        527.2196044921875,
+        649.7265625
+      ],
+      "text": "analysis plans. Additional information on the management of MDR/RR-TB is presented in the relevant",
+      "font": "SegoeUI-Light",
+      "size": 10.982986450195312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.2076416015625,
+        527.413330078125,
+        662.9266357421875
+      ],
+      "text": "WHO operational handbook on tuberculosis treatment and care chapter of the  , a separate document",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.4075927734375,
+        527.4318237304688,
+        676.1265869140625
+      ],
+      "text": "(7, 8) that is designed to aid implementation efforts  . The detailed recommendations presented here",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.8837280273438,
+        415.3190612792969,
+        689.3267211914062
+      ],
+      "text": "replace all of those in previous WHO guidelines on the treatment of DR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.31494140625,
+        173.54591369628906,
+        728.1099243164062
+      ],
+      "text": "Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.560791015625,
+        527.3970336914062,
+        748.0037841796875
+      ],
+      "text": "Effective treatment of TB, including its drug-resistant forms, relies on the use of several medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.7608032226562,
+        527.39453125,
+        761.2037963867188
+      ],
+      "text": "administered in combination for an adequate duration. Significant progress has been made in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "36 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

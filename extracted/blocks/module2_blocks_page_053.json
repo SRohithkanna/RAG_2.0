@@ -1,0 +1,474 @@
+{
+  "file": "module2",
+  "page": 53,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        302.0149230957031,
+        147.1480255126953
+      ],
+      "text": "5. Research gaps",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.24432373046875,
+        449.6216125488281,
+        212.03932189941406
+      ],
+      "text": "5.1 Screening for TB in targeted populations",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.65293884277344,
+        387.152587890625,
+        238.92294311523438
+      ],
+      "text": "5.1.1 The general population and high-risk groups",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.62879943847656,
+        527.3375244140625,
+        260.0718078613281
+      ],
+      "text": "Well-designed trials and rigorous quasi-experimental studies in different settings are required to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.82891845703125,
+        527.4366455078125,
+        273.2719421386719
+      ],
+      "text": "investigate the effects of population-wide systematic screening for TB on individual-level outcomes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.02880859375,
+        524.6051635742188,
+        286.4718322753906
+      ],
+      "text": "(diagnostic delay, treatment outcomes, costs to patients, social consequences) and population-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.22882080078125,
+        527.390380859375,
+        299.6718444824219
+      ],
+      "text": "level outcomes (TB prevalence, incidence, transmission), as well as to guide implementation choices",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.4288330078125,
+        527.6432495117188,
+        312.8718566894531
+      ],
+      "text": "(including the method of delivery, screening algorithms, the duration of screening intervals and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.6287841796875,
+        389.8056945800781,
+        326.0718078613281
+      ],
+      "text": "frequency of screening, and the mode of delivering the intervention).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.3327941894531,
+        527.6016235351562,
+        347.77581787109375
+      ],
+      "text": "Research on the longer-term impacts of screening, including any potential evidence of averted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.5328063964844,
+        524.5906372070312,
+        360.975830078125
+      ],
+      "text": "morbidity or mortality, is not necessarily captured in the existing data. Research on the cost–",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.7328186035156,
+        527.390380859375,
+        374.17584228515625
+      ],
+      "text": "effectiveness of screening is needed, using a longer time horizon to adequately capture all potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.93280029296875,
+        490.2752685546875,
+        387.3758239746094
+      ],
+      "text": "costs and longer-term effects, including potential reduced future prevalence and incidence.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.63671875,
+        527.2310180664062,
+        409.0797424316406
+      ],
+      "text": "Observational research and programmatic evaluations reporting the impact of community-wide",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.8367004394531,
+        527.5729370117188,
+        422.27972412109375
+      ],
+      "text": "screening on TB case notification rates – which provide an important source of evidence on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.0367126464844,
+        527.4323120117188,
+        435.479736328125
+      ],
+      "text": "impacts of screening under programmatic conditions – must be carefully designed and analysed to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.2366943359375,
+        138.84609985351562,
+        448.6797180175781
+      ],
+      "text": "minimize bias.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.94061279296875,
+        527.4201049804688,
+        470.3836364746094
+      ],
+      "text": "Studies of screening interventions should incorporate both qualitative and quantitative assessment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.1405944824219,
+        527.5686645507812,
+        483.5836181640625
+      ],
+      "text": "of the indirect effects of screening, given the importance of health-seeking behaviour in TB care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.3406066894531,
+        527.6063842773438,
+        496.78363037109375
+      ],
+      "text": "engagement and the potential impact of population-wide screening to change it and the importance",
+      "font": "SegoeUI-Light",
+      "size": 10.984739303588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.5406188964844,
+        527.0950927734375,
+        509.983642578125
+      ],
+      "text": "of assessing any unintended mental, social or economic consequences of screening (including adverse",
+      "font": "SegoeUI-Light",
+      "size": 10.962435722351074,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.7406005859375,
+        527.3946533203125,
+        523.18359375
+      ],
+      "text": "effects, the burden of the test and downstream outcomes of clinical management that is guided by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.9406127929688,
+        205.59744262695312,
+        536.3836059570312
+      ],
+      "text": "the outcomes of test results).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.8072509765625,
+        245.037353515625,
+        565.0772094726562
+      ],
+      "text": "5.1.2 People living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.7830810546875,
+        527.3992919921875,
+        586.22607421875
+      ],
+      "text": "Well-designed clinical trials are needed to strengthen the evidence about the accuracy, effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.9830932617188,
+        527.0528564453125,
+        599.4260864257812
+      ],
+      "text": "(including the impact on patient-important outcomes such as mortality), feasibility and cost implications",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.1832275390625,
+        527.4331665039062,
+        612.626220703125
+      ],
+      "text": "of using the W4SS, CRP, CXR and mWRD to screen for TB across all HIV subpopulations in settings",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.3831787109375,
+        477.1820373535156,
+        625.826171875
+      ],
+      "text": "with low, medium and high burdens of HIV and TB with and without high ART coverage.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.0870971679688,
+        527.4246826171875,
+        647.5300903320312
+      ],
+      "text": "Subpopulations of people living with HIV for whom further investigation is required would include,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.287109375,
+        527.4409790039062,
+        660.7301025390625
+      ],
+      "text": "but not be limited to, inpatients, acute care service attendees, patients for whom ART has failed,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.4871215820312,
+        527.3915405273438,
+        673.9301147460938
+      ],
+      "text": "patients newly diagnosed as HIV-positive enrolling in ART clinics, stable patients established on ART,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.6871337890625,
+        355.5911865234375,
+        687.130126953125
+      ],
+      "text": "pregnant women and children and adolescents living with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.3909912109375,
+        527.4654541015625,
+        708.833984375
+      ],
+      "text": "More data are needed on the effectiveness, cost–effectiveness, feasibility and acceptability, frequency",
+      "font": "SegoeUI-Light",
+      "size": 10.986491203308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.5910034179688,
+        527.4454345703125,
+        722.0339965820312
+      ],
+      "text": "and optimal periodicity of routine, regular screening with the W4SS, CRP, CXR and mWRD among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.791015625,
+        527.4069213867188,
+        735.2340087890625
+      ],
+      "text": "people living with HIV. Specifically, more studies are needed that explore the optimal placement of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.9910278320312,
+        527.392578125,
+        748.4340209960938
+      ],
+      "text": "mWRDs for screening in antenatal care settings versus within ART clinics. Lastly, more research is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        747.1910400390625,
+        527.4299926757812,
+        761.634033203125
+      ],
+      "text": "needed on the potential for screening people living with HIV with mWRDs using specimens other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        760.3909912109375,
+        131.3029022216797,
+        774.833984375
+      ],
+      "text": "than sputum.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        468.2179870605469,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "5. Research gaps 41",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "file": "module4",
+  "page": 8,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        464.7381896972656,
+        147.1480255126953
+      ],
+      "text": "Abbreviations and acronyms",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.2340850830078,
+        102.1771011352539,
+        193.93658447265625
+      ],
+      "text": "aDSM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        180.33908081054688,
+        376.4401550292969,
+        194.12557983398438
+      ],
+      "text": "active TB drug-safety monitoring and management",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.9860382080078,
+        92.41210174560547,
+        210.68853759765625
+      ],
+      "text": "AFB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        197.09103393554688,
+        216.4200897216797,
+        210.87753295898438
+      ],
+      "text": "acid-fast bacilli",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.7379913330078,
+        97.0740966796875,
+        227.44049072265625
+      ],
+      "text": "AIDS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        213.84298706054688,
+        318.8948669433594,
+        227.62948608398438
+      ],
+      "text": "acquired immunodeficiency syndrome",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.49000549316406,
+        95.92960357666016,
+        244.1925048828125
+      ],
+      "text": "aIPD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        230.59500122070312,
+        273.7500915527344,
+        244.38150024414062
+      ],
+      "text": "adult individual patient data",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.2420196533203,
+        93.71409606933594,
+        260.94451904296875
+      ],
+      "text": "aOR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        247.34701538085938,
+        236.3701171875,
+        261.1335144042969
+      ],
+      "text": "adjusted odds ratio",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.9940490722656,
+        92.31759643554688,
+        277.696533203125
+      ],
+      "text": "aRR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        264.0990295410156,
+        228.9990997314453,
+        277.8855285644531
+      ],
+      "text": "adjusted risk ratio",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        280.7459411621094,
+        92.88983917236328,
+        294.44842529296875
+      ],
+      "text": "ART",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        280.8509216308594,
+        242.681640625,
+        294.6374206542969
+      ],
+      "text": "antiretroviral therapy",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.4979553222656,
+        92.83209991455078,
+        311.200439453125
+      ],
+      "text": "BMI",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        297.6029357910156,
+        225.3661346435547,
+        311.3894348144531
+      ],
+      "text": "body mass index",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.2499084472656,
+        96.54595184326172,
+        327.952392578125
+      ],
+      "text": "BPaL",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        314.3548889160156,
+        320.60955810546875,
+        328.1413879394531
+      ],
+      "text": "bedaquiline, pretomanid and linezolid",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.0018310546875,
+        102.76090240478516,
+        344.7043151855469
+      ],
+      "text": "BPaLC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        331.1068115234375,
+        372.1834716796875,
+        344.893310546875
+      ],
+      "text": "bedaquiline, pretomanid, linezolid and clofazimine",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.7538146972656,
+        106.24795532226562,
+        361.456298828125
+      ],
+      "text": "BPaLM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        347.8587951660156,
+        379.4967041015625,
+        361.6452941894531
+      ],
+      "text": "bedaquiline, pretomanid, linezolid and moxifloxacin",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.5058288574219,
+        83.30859375,
+        378.20831298828125
+      ],
+      "text": "CI",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        364.6108093261719,
+        235.1195526123047,
+        378.3973083496094
+      ],
+      "text": "confidence interval",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.2577209472656,
+        85.4085922241211,
+        394.960205078125
+      ],
+      "text": "CL",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        381.3627014160156,
+        225.00909423828125,
+        395.1492004394531
+      ],
+      "text": "confidence limits",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.0097351074219,
+        94.03958892822266,
+        411.71221923828125
+      ],
+      "text": "CNS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        398.1147155761719,
+        252.44667053222656,
+        411.9012145996094
+      ],
+      "text": "central nervous system",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.76171875,
+        98.6637954711914,
+        428.4642028808594
+      ],
+      "text": "DALY",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        414.86669921875,
+        268.93060302734375,
+        428.6531982421875
+      ],
+      "text": "Disability-adjusted life year",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.5136413574219,
+        130.74130249023438,
+        445.21612548828125
+      ],
+      "text": "DELIBERATE",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        431.6186218261719,
+        393.9793395996094,
+        445.4051208496094
+      ],
+      "text": "DELamanId Bedaquiline for ResistAnt TubErculosis (trial)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.265625,
+        104.1825942993164,
+        461.9681091308594
+      ],
+      "text": "DR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        448.37060546875,
+        267.4679870605469,
+        462.1571044921875
+      ],
+      "text": "drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.01763916015625,
+        94.52259826660156,
+        478.7201232910156
+      ],
+      "text": "DSD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        465.12261962890625,
+        281.6429443359375,
+        478.90911865234375
+      ],
+      "text": "Differentiated service delivery",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.76953125,
+        103.35309600830078,
+        495.4720153808594
+      ],
+      "text": "DS-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        481.87451171875,
+        280.977294921875,
+        495.6610107421875
+      ],
+      "text": "Drug-susceptible tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.5215148925781,
+        92.79009246826172,
+        512.2239990234375
+      ],
+      "text": "DST",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        498.6264953613281,
+        262.81964111328125,
+        512.4130249023438
+      ],
+      "text": "drug susceptibility testing",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.2734985351562,
+        92.73023986816406,
+        528.9760131835938
+      ],
+      "text": "ECG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        515.3785400390625,
+        231.7364501953125,
+        529.1650390625
+      ],
+      "text": "electrocardiogram",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.0255126953125,
+        115.0385513305664,
+        545.72802734375
+      ],
+      "text": "EDRWeb",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        532.1305541992188,
+        417.1475830078125,
+        545.9170532226562
+      ],
+      "text": "Electronic Drug-Resistant Tuberculosis Register (South Africa)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.7774047851562,
+        93.07360076904297,
+        562.4799194335938
+      ],
+      "text": "FDC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        548.8824462890625,
+        308.0956115722656,
+        562.6689453125
+      ],
+      "text": "fixed-dose combination (medicines)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.5294189453125,
+        93.8716049194336,
+        579.23193359375
+      ],
+      "text": "GDF",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        565.6344604492188,
+        236.412109375,
+        579.4209594726562
+      ],
+      "text": "Global Drug Facility",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        582.2813720703125,
+        95.91909790039062,
+        595.98388671875
+      ],
+      "text": "GDG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        582.3864135742188,
+        285.49755859375,
+        596.1729125976562
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.0333251953125,
+        107.6266098022461,
+        612.73583984375
+      ],
+      "text": "GRADE",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        599.1383666992188,
+        468.46844482421875,
+        612.9248657226562
+      ],
+      "text": "Grading of Recommendations Assessment, Development and Evaluation",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.7852783203125,
+        92.98224639892578,
+        629.48779296875
+      ],
+      "text": "GTB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        615.8903198242188,
+        371.2593688964844,
+        629.6768188476562
+      ],
+      "text": "Global Programme on Tuberculosis & Lung Health",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.5372314453125,
+        91.24658966064453,
+        646.23974609375
+      ],
+      "text": "HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        632.6422729492188,
+        288.2820739746094,
+        646.4287719726562
+      ],
+      "text": "human immunodeficiency virus",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.2891845703125,
+        88.01258850097656,
+        662.99169921875
+      ],
+      "text": "HR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        649.3942260742188,
+        237.892578125,
+        663.1807250976562
+      ],
+      "text": "isoniazid–rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.0411987304688,
+        99.6150894165039,
+        679.7437133789062
+      ],
+      "text": "HREZ",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        666.146240234375,
+        357.99163818359375,
+        679.9327392578125
+      ],
+      "text": "isoniazid–rifampicin–ethambutol–pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.793212890625,
+        106.58708953857422,
+        696.4957275390625
+      ],
+      "text": "(H)REZ",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        682.8982543945312,
+        402.6795959472656,
+        696.6847534179688
+      ],
+      "text": "(isoniazid optional)–rifampicin–ethambutol–pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.5451049804688,
+        101.11974334716797,
+        713.2476196289062
+      ],
+      "text": "Hr-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        699.650146484375,
+        385.01336669921875,
+        713.4366455078125
+      ],
+      "text": "rifampicin-susceptible, isoniazid-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.297119140625,
+        98.94309997558594,
+        729.9996337890625
+      ],
+      "text": "iCCM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        716.4021606445312,
+        332.5186462402344,
+        730.1886596679688
+      ],
+      "text": "Integrated community case management",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.049072265625,
+        96.04509735107422,
+        746.7515869140625
+      ],
+      "text": "IMCI",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        733.1541137695312,
+        344.8666076660156,
+        746.9406127929688
+      ],
+      "text": "Integrated management of childhood illness",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.801025390625,
+        90.44860076904297,
+        763.5035400390625
+      ],
+      "text": "IPD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        749.9060668945312,
+        301.8166198730469,
+        763.6925659179688
+      ],
+      "text": "individual patient data (or dataset)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.721500396728516,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "vi WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

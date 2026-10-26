@@ -1,0 +1,72 @@
+{
+  "file": "Guidance for national",
+  "page": 136,
+  "table_id": 1,
+  "bbox": [
+    85.03900146484375,
+    437.95501708984375,
+    510.2359924316406,
+    743.4650268554688
+  ],
+  "heading": "Table A3.1 Causes of false-negative and false-positive tuberculin skin tests",
+  "n_rows": 14,
+  "n_cols": 2,
+  "data": [
+    [
+      "Causes of false-negative TST",
+      "Causes of false-positive TST"
+    ],
+    [
+      "Incorrect administration or interpretation of test",
+      "Incorrect interpretation of test"
+    ],
+    [
+      "HIV infection BCG vaccination",
+      ""
+    ],
+    [
+      "Improper storage of tuberculin",
+      "Infection with non-tuberculous mycobacteria"
+    ],
+    [
+      "Viral infections (e.g. measles, varicella)",
+      ""
+    ],
+    [
+      "Vaccinated with live viral vaccines (within 6 weeks)",
+      ""
+    ],
+    [
+      "Malnutrition",
+      ""
+    ],
+    [
+      "Bacterial infections (e.g. typhoid, leprosy, pertussis)",
+      ""
+    ],
+    [
+      "Immunosuppressive medications (e.g. corticosteroids)",
+      ""
+    ],
+    [
+      "Neonatal patient",
+      ""
+    ],
+    [
+      "Primary immunodeficiencies",
+      ""
+    ],
+    [
+      "Diseases of lymphoid tissue (e.g. Hodgkin disease, lymphoma, leukaemia, sarcoidosis)",
+      ""
+    ],
+    [
+      "Low protein states",
+      ""
+    ],
+    [
+      "Severe TB",
+      ""
+    ]
+  ]
+}

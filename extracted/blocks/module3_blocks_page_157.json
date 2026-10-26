@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 157,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        162.42474365234375,
+        85.31422424316406
+      ],
+      "text": "Evidence base",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.71919250488281,
+        144.85211181640625,
+        108.63319396972656
+      ],
+      "text": "PICO question",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        119.56909942626953,
+        527.222412109375,
+        132.71409606933594
+      ],
+      "text": "Could IGRA be used as an alternative to the TST, to identify individuals most at risk of progression",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.069091796875,
+        361.3598937988281,
+        148.21409606933594
+      ],
+      "text": "from TB infection to active TB in high TB incidence settings?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.2271270751953,
+        234.5681610107422,
+        172.14112854003906
+      ],
+      "text": "Evidence on intervention effect",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.0770263671875,
+        526.965576171875,
+        196.22203063964844
+      ],
+      "text": "Five prospective cohort studies were identified, with a total of 7769 participants; four of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.5770263671875,
+        526.9644165039062,
+        211.72203063964844
+      ],
+      "text": "studies were newly identified. Three of the studies were conducted in South Africa and two in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.0770263671875,
+        526.9690551757812,
+        227.22203063964844
+      ],
+      "text": "India  . The studies included PLHIV, pregnant women, adolescents, health care workers  (14–18)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.5770263671875,
+        527.0142211914062,
+        242.72203063964844
+      ],
+      "text": "and household contacts. The pooled risk ratio estimate for the TST was 1.49 (95% CI: 0.79–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.0770263671875,
+        526.8162841796875,
+        258.2220458984375
+      ],
+      "text": "2.80), and for IGRAs was 2.03 (95% CI: 1.18–3.50). Although the estimate for IGRAs was slightly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.969608306884766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.5770263671875,
+        527.003173828125,
+        273.7220458984375
+      ],
+      "text": "higher than that for the TST, the 95% CIs for the estimates for the TST and IGRAs overlapped",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.0770263671875,
+        526.9590454101562,
+        289.2220458984375
+      ],
+      "text": "and were imprecise. Furthermore, there was limited evidence for the predictive utility of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.5770263671875,
+        240.71498107910156,
+        304.7220458984375
+      ],
+      "text": "tests in specific at-risk populations.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.73492431640625,
+        167.33612060546875,
+        328.64892578125
+      ],
+      "text": "Cost–effectiveness",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.58489990234375,
+        526.7500610351562,
+        352.72991943359375
+      ],
+      "text": "IGRA testing is more costly than the TST and requires appropriate laboratory services. TST",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.08489990234375,
+        526.9635009765625,
+        368.22991943359375
+      ],
+      "text": "testing is less costly and can be performed in the field, but it requires a cold chain, two health",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.58489990234375,
+        526.9796752929688,
+        383.72991943359375
+      ],
+      "text": "care visits and training in intradermal injection, reading and interpretation. The incremental",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.08489990234375,
+        511.23370361328125,
+        399.22991943359375
+      ],
+      "text": "cost–effectiveness of IGRAs and the TST appears to be influenced mainly by their accuracy.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.5965270996094,
+        179.01329040527344,
+        427.97650146484375
+      ],
+      "text": "User perspective",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.2274169921875,
+        527.0296020507812,
+        451.3724365234375
+      ],
+      "text": "The preferences of people to be tested and programmes depend on several factors, such as the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972565650939941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.7274169921875,
+        527.1353759765625,
+        466.8724365234375
+      ],
+      "text": "requirement for an adequately equipped laboratory (e.g. for IGRAs) and possible additional costs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.2274169921875,
+        521.4080810546875,
+        482.3724365234375
+      ],
+      "text": "for people being tested (e.g. for travel) and programmes (e.g. for infrastructure and testing).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.739013671875,
+        275.1541442871094,
+        511.1189880371094
+      ],
+      "text": "Implementation considerations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.369873046875,
+        526.947998046875,
+        534.514892578125
+      ],
+      "text": "Where it is feasible, TB infection testing is desirable to identify individuals at highest risk for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.869873046875,
+        526.617919921875,
+        550.014892578125
+      ],
+      "text": "developing active TB. However, it is not required in PLHIV or in household contacts aged under",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987342834472656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.369873046875,
+        527.019287109375,
+        565.514892578125
+      ],
+      "text": "5 years. In HIV-negative household contacts aged 5 years and older, and in other risk groups,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.869873046875,
+        527.1372680664062,
+        581.014892578125
+      ],
+      "text": "TB infection tests are recommended, but their unavailability should not be a barrier to treating",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.988444328308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.369873046875,
+        527.2638549804688,
+        596.514892578125
+      ],
+      "text": "people who are judged to be at higher risk. The GDG noted that the availability and affordability",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.949935913085938,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.869873046875,
+        526.9808959960938,
+        612.014892578125
+      ],
+      "text": "of the tests could determine which TB infection test is used. Other considerations include the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.369873046875,
+        524.4105224609375,
+        627.514892578125
+      ],
+      "text": "structure of the health system, feasibility of implementation and infrastructure requirements.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.3739013671875,
+        526.7909545898438,
+        651.5189208984375
+      ],
+      "text": "Operational difficulties should be considered in deciding which test to use. For example, IGRAs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.985790252685547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.8739013671875,
+        526.9677734375,
+        667.0189208984375
+      ],
+      "text": "requires phlebotomy, which can be difficult, particularly in young children; they also require",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.3739013671875,
+        526.92578125,
+        682.5189208984375
+      ],
+      "text": "laboratory infrastructure, technical expertise and expensive equipment, and their sensitivity is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.8739013671875,
+        526.9149780273438,
+        698.0189208984375
+      ],
+      "text": "reduced in children aged under 2 years and PLHIV. However, only a single visit is required to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.3739013671875,
+        526.93701171875,
+        713.5189208984375
+      ],
+      "text": "do an IGRA test (although patients may have to make a second visit to receive the result). The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.8739013671875,
+        527.0139770507812,
+        729.0189208984375
+      ],
+      "text": "TST requires a cold chain, two health care visits and training in intradermal injection, reading",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3739013671875,
+        526.9469604492188,
+        744.5189208984375
+      ],
+      "text": "and interpretation. One other practical advantage of IGRAs over the TST is that IGRAs are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.8739013671875,
+        526.981201171875,
+        760.0189208984375
+      ],
+      "text": "notsusceptible to a “booster response”, which makes a two-step approach necessary for the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        762.3739013671875,
+        414.0164794921875,
+        775.5189208984375
+      ],
+      "text": "TST in situations where reactivity to the TST has waned since infection.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        347.6684875488281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "3. Recommendations for diagnosis of TB infection 141",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

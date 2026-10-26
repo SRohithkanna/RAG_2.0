@@ -1,0 +1,510 @@
+{
+  "file": "module5",
+  "page": 7,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        352.2069091796875,
+        147.1480255126953
+      ],
+      "text": "Acknowledgements",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        177.7230987548828,
+        527.4580078125,
+        194.96009826660156
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 5: management  The production and writing of the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.92311096191406,
+        527.4895629882812,
+        208.1601104736328
+      ],
+      "text": "of tuberculosis in children and adolescents, 2022  was coordinated by Sabine Verkuijl, Annemieke Brands,",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.95139217376709,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.91712951660156,
+        527.3827514648438,
+        221.36012268066406
+      ],
+      "text": "Kerri Viney and Tiziana Masini, under the guidance of Farai Mavhunga, head of the TB Vulnerable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.1171417236328,
+        527.3339233398438,
+        234.5601348876953
+      ],
+      "text": "Populations, Communities and Comorbidities unit and the overall direction of Tereza Kasaeva, Director",
+      "font": "SegoeUI-Light",
+      "size": 10.967301368713379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.3170928955078,
+        527.4266357421875,
+        247.7600860595703
+      ],
+      "text": "of the World Health Organization (WHO) Global Tuberculosis (TB) Programme. Colleagues from the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.51710510253906,
+        527.5233764648438,
+        260.9601135253906
+      ],
+      "text": "Prevention, Diagnosis, Treatment, Care and Innovation Unit, Global TB Programme, WHO, under",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.71710205078125,
+        527.393798828125,
+        274.1601257324219
+      ],
+      "text": "the leadership of Matteo Zignol, also contributed to these guidelines. The WHO Global Tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.9171142578125,
+        527.4113159179688,
+        287.3601379394531
+      ],
+      "text": "Programme gratefully acknowledges the contribution of all experts involved in the development of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.11712646484375,
+        150.3953857421875,
+        300.5601501464844
+      ],
+      "text": "these guidelines. 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.9103088378906,
+        290.3749084472656,
+        334.7903137207031
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.9942932128906,
+        527.4100952148438,
+        355.43731689453125
+      ],
+      "text": "The Guideline Development Group (GDG) was composed of Susan Abdel-Rahman (Children’s Mercy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.1943054199219,
+        527.4066162109375,
+        368.6373291015625
+      ],
+      "text": "Research Institute, United States of America (United States)), Deepak Agrawal (Aarogyam Paediatrics",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3943176269531,
+        527.3936767578125,
+        381.83734130859375
+      ],
+      "text": "Hospital, India), Shakil Ahmed (Dhaka Medical College, Bangladesh), Elie Akl (American University",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        380.59429931640625,
+        527.6541748046875,
+        395.0373229980469
+      ],
+      "text": "of Beirut and Center for Systematic Reviews of Health Policy and Systems Research, Lebanon),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.7943115234375,
+        527.4398803710938,
+        408.2373352050781
+      ],
+      "text": "Valentina Aksenova (Research Institute of Phthisiopulmonology of the First M.I. Sechenov Moscow",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.9942932128906,
+        527.476318359375,
+        421.43731689453125
+      ],
+      "text": "State Medical University, Russian Federation), Farhana Amanullah (Indus Hospital, Pakistan), Grace Bolie",
+      "font": "SegoeUI-Light",
+      "size": 10.95224666595459,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.1943054199219,
+        527.4178466796875,
+        434.6373291015625
+      ],
+      "text": "(National TB Programme, Democratic Republic of the Congo), Chishala Chabala (University Teaching",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.3943176269531,
+        527.3937377929688,
+        447.83734130859375
+      ],
+      "text": "Hospital, Zambia), Gunta Dravniece (PATH, Ukraine), Connie Erkens (KNCV Tuberculosis Foundation,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.59429931640625,
+        527.4188842773438,
+        461.0373229980469
+      ],
+      "text": "Netherlands), Betina Mendez Alcântara Gabardo (Clinical Hospital Federal University of Paraná,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.7943115234375,
+        527.4035034179688,
+        474.2373352050781
+      ],
+      "text": "Brazil), Stephen Graham (University of Melbourne, Australia), Patrik Hummel (Friederich-Alexander",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.9942932128906,
+        527.528564453125,
+        487.43731689453125
+      ],
+      "text": "University, Germany), Amir M. Khan (Association for Social Development, Pakistan), Margaret Nasil Kal",
+      "font": "SegoeUI-Light",
+      "size": 10.979029655456543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.1943054199219,
+        527.4146118164062,
+        500.6373291015625
+      ],
+      "text": "(National TB Programme, Papua New Guinea), Tamara Kredo (South African Cochrane Centre, South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.3943176269531,
+        527.4255981445312,
+        513.8373413085938
+      ],
+      "text": "African Medical Research Council, South Africa), Susan Maloney (Centers for Disease Control and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.5942993164062,
+        527.3969116210938,
+        527.0372924804688
+      ],
+      "text": "Prevention, United States), Anna Mandalakas (Baylor College of Medicine; Texas Children’s Hospital,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.7943115234375,
+        527.1361694335938,
+        540.2373046875
+      ],
+      "text": "United States), Sushant Mane (Grant Government Medical College and Sir J.J. Group of Hospitals, India),",
+      "font": "SegoeUI-Light",
+      "size": 10.949483871459961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.9942626953125,
+        527.5820922851562,
+        553.437255859375
+      ],
+      "text": "Lindsay McKenna (Treatment Action Group, United States), Imran Pambudi (National TB Programme,",
+      "font": "SegoeUI-Light",
+      "size": 10.997699737548828,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.1943359375,
+        527.4254150390625,
+        566.6373291015625
+      ],
+      "text": "Indonesia), Phan Huu Phuc (National Paediatric Hospital, Vietnam), Moorine Sekadde (National TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.394287109375,
+        527.416748046875,
+        579.8372802734375
+      ],
+      "text": "and Leprosy Programme, Uganda), Kathryn Snow (University of Melbourne, Australia) and Sabira",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.5942993164062,
+        315.7414855957031,
+        593.0372924804688
+      ],
+      "text": "Tahseen (National TB Reference Laboratory, Pakistan).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.2982177734375,
+        507.7057800292969,
+        614.7412109375
+      ],
+      "text": "Elie Akl, Farhana Amanullah, Stephen Graham and Tamara Kredo co-chaired the GDG meeting.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        628.0914306640625,
+        239.0628662109375,
+        648.971435546875
+      ],
+      "text": "External Review Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.1754150390625,
+        527.4002075195312,
+        669.618408203125
+      ],
+      "text": "The external reviewers for these guidelines were Martina Casenghi (Elizabeth Glaser Pediatric AIDS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.3754272460938,
+        527.6346435546875,
+        682.8184204101562
+      ],
+      "text": "Foundation, Switzerland), Anthony Enimil (Komfo Anokye Teaching Hospital, Ghana), Malgorzata",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.575439453125,
+        527.197265625,
+        696.0184326171875
+      ],
+      "text": "Grzemska (former WHO staff member, Poland), Catherine Hewison (Médecins Sans Frontières, France),",
+      "font": "SegoeUI-Light",
+      "size": 10.956262588500977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.775390625,
+        527.244140625,
+        709.2183837890625
+      ],
+      "text": "Devan Jaganath (University of California San Francisco, United States), Kobto Ghislain Koura (The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.9754028320312,
+        527.4188842773438,
+        722.4183959960938
+      ],
+      "text": "International Union Against TB and Lung Disease, France), Celia Martínez de Cuellar (Hospital de",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.1754150390625,
+        527.63916015625,
+        735.618408203125
+      ],
+      "text": "Clínicas, Universidad Nacional de Asunción, Paraguay), Ya Diul Mukadi (United States Agency for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0718383789062,
+        526.62255859375,
+        763.5758056640625
+      ],
+      "text": "For more information about the areas of expertise, the gender and geographical distribution of participants as well as declarations of  1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        447.45819091796875,
+        773.17578125
+      ],
+      "text": "interests and the management of potential conflicts for members of the GDG and External Review Group, see",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        447.45989990234375,
+        762.6718139648438,
+        493.05120849609375,
+        773.17578125
+      ],
+      "text": "Web annex 1.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        459.03839111328125,
+        801.0170288085938,
+        551.7328491210938,
+        811.52099609375
+      ],
+      "text": "Acknowledgements  v",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

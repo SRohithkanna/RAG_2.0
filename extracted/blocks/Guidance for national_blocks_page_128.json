@@ -1,0 +1,534 @@
+{
+  "file": "Guidance for national",
+  "page": 128,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.9801025390625,
+        82.18360900878906,
+        324.29547119140625,
+        99.03961181640625
+      ],
+      "text": "A  2",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        282.08209228515625,
+        86.19041442871094,
+        311.0116882324219,
+        97.98960876464844
+      ],
+      "text": "nnex",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        175.5615997314453,
+        108.74749755859375,
+        212.97760009765625,
+        137.64349365234375
+      ],
+      "text": "TB",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        213.33740234375,
+        115.61629486083984,
+        419.6585388183594,
+        135.84349060058594
+      ],
+      "text": "case and treatment",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        193.6240997314453,
+        143.21633911132812,
+        401.58233642578125,
+        163.4435272216797
+      ],
+      "text": "outcome definitions",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        175.3261260986328,
+        94.37739562988281,
+        192.18212890625
+      ],
+      "text": "C",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.5873031616211,
+        179.3329315185547,
+        268.61627197265625,
+        191.1321258544922
+      ],
+      "text": "ase and outcome definitions",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        199.87493896484375,
+        513.47216796875,
+        213.2264404296875
+      ],
+      "text": "This section describes the recently revised definitions of TB cases, their classification and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        215.80245971679688,
+        274.5938720703125,
+        229.22296142578125
+      ],
+      "text": "(1) the treatment outcome categories .",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        240.10198974609375,
+        513.4835815429688,
+        253.7294921875
+      ],
+      "text": "Presumptive TB  refers to a patient who presents with symptoms or signs suggestive of",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        256.37451171875,
+        275.9163513183594,
+        269.72601318359375
+      ],
+      "text": "TB (previously known as a TB suspect).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        280.88104248046875,
+        513.403076171875,
+        294.2325439453125
+      ],
+      "text": "Bacteriologically confirmed or clinically diagnosed cases of TB (Box A2.1) are also",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        296.8775634765625,
+        199.21141052246094,
+        310.22906494140625
+      ],
+      "text": "classified according to:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        319.3312072753906,
+        258.07940673828125,
+        333.2632141113281
+      ],
+      "text": "anatomical site of disease;  -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        339.731201171875,
+        274.97540283203125,
+        353.6632080078125
+      ],
+      "text": "history of previous treatment;  -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        360.1311950683594,
+        204.535400390625,
+        374.0632019042969
+      ],
+      "text": "drug resistance;  -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        380.5312194824219,
+        175.41140747070312,
+        394.4632263183594
+      ],
+      "text": "HIV status. -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.5793914794922,
+        421.0432434082031,
+        260.26336669921875,
+        435.26324462890625
+      ],
+      "text": "TB case definitions",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.88740539550781,
+        421.33123779296875,
+        151.5793914794922,
+        435.26324462890625
+      ],
+      "text": "Box A2.1",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        448.6531982421875,
+        493.16192626953125,
+        465.6632080078125
+      ],
+      "text": "A bacteriologically confirmed TB case is one from whom a biological specimen is  ·",
+      "font": "HelveticaNeue-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        463.6332092285156,
+        493.1219177246094,
+        478.6332092285156
+      ],
+      "text": "positive by smear microscopy, culture or WHO-approved rapid diagnostics (such as",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        477.6332092285156,
+        493.1318359375,
+        492.6332092285156
+      ],
+      "text": "Xpert MTB/RIF). All such cases should be notified, regardless of whether TB treatment",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        491.6332092285156,
+        175.6519012451172,
+        506.6332092285156
+      ],
+      "text": "has started.",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        513.1531982421875,
+        493.13177490234375,
+        530.1632080078125
+      ],
+      "text": "TB case A clinically diagnosed  is one who does not fulfil the criteria for bacteriological  ·",
+      "font": "HelveticaNeue-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        528.1331787109375,
+        493.1918029785156,
+        543.1331787109375
+      ],
+      "text": "confirmation but who has been diagnosed with active TB by a clinician or other medical",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        542.1331787109375,
+        493.17193603515625,
+        557.1331787109375
+      ],
+      "text": "practitioner who has decided to give the patient a full course of TB treatment. This",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        556.1331787109375,
+        493.161865234375,
+        571.1331787109375
+      ],
+      "text": "definition includes cases diagnosed on the basis of X-ray abnormalities or suggestive",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        570.1331787109375,
+        493.15185546875,
+        585.1331787109375
+      ],
+      "text": "histology and extrapulmonary cases without laboratory confirmation. Clinically",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        584.1331787109375,
+        493.201904296875,
+        599.1331787109375
+      ],
+      "text": "diagnosed cases subsequently found to be bacteriologically positive (before or after",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72189331054688,
+        598.533203125,
+        430.53192138671875,
+        613.533203125
+      ],
+      "text": "starting treatment) should be reclassified as bacteriologically confirmed.",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        639.8551025390625,
+        374.4793395996094,
+        656.5831298828125
+      ],
+      "text": "Classification based on anatomical site of disease",
+      "font": "Arial-BoldItalicMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        663.318603515625,
+        513.4605102539062,
+        676.9461059570312
+      ],
+      "text": "Pulmonary TB (PTB)  refers to any bacteriologically confirmed or clinically diagnosed",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        679.5911254882812,
+        513.368408203125,
+        692.942626953125
+      ],
+      "text": "case of TB involving the lung parenchyma or the tracheobronchial tree. Miliary TB",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        695.587646484375,
+        513.4835205078125,
+        708.9391479492188
+      ],
+      "text": "is classified as PTB because there are lesions in the lungs. Tuberculous intrathoracic",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        711.5841064453125,
+        513.426025390625,
+        724.9356079101562
+      ],
+      "text": "lymphadenopathy (mediastinal and/or hilar) or tuberculous pleural effusion, without",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        727.5806274414062,
+        513.471923828125,
+        740.93212890625
+      ],
+      "text": "radiographic abnormalities in the lungs, constitutes a case of extrapulmonary TB. A",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        743.5771484375,
+        513.41455078125,
+        756.9286499023438
+      ],
+      "text": "patient with both pulmonary and extrapulmonary TB should be classified as a case of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        759.5736083984375,
+        109.327392578125,
+        772.9251098632812
+      ],
+      "text": "PTB.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        553.0839233398438,
+        805.8439331054688,
+        586.4439086914062,
+        835.8439331054688
+      ],
+      "text": "109",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "file": "module4",
+  "page": 139,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        491.3198547363281,
+        82.6147232055664
+      ],
+      "text": "Table 3.1. Grouping of medicines recommended for use in longer MDR-TB",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.18668365478516,
+        126.71395111083984,
+        97.01468658447266
+      ],
+      "text": "regimens a",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        113.22008514404297,
+        485.8388977050781,
+        127.57508850097656
+      ],
+      "text": "Groups and steps Medicine Abbreviation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        133.66871643066406,
+        437.23321533203125,
+        149.38771057128906
+      ],
+      "text": "or  Group A:  Levofloxacin  Lfx",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        151.1966094970703,
+        441.35821533203125,
+        165.6396026611328
+      ],
+      "text": "Include all three medicines  moxifloxacin  Mfx",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        172.81129455566406,
+        442.6881103515625,
+        187.25428771972656
+      ],
+      "text": "Bedaquiline Bdq  b,c",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        194.42591857910156,
+        440.68609619140625,
+        208.86891174316406
+      ],
+      "text": "Linezolid Lzd  d",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        216.04054260253906,
+        439.3551025390625,
+        230.48353576660156
+      ],
+      "text": "Group B:  Clofazimine  Cfz",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        232.29249572753906,
+        206.73231506347656,
+        246.73548889160156
+      ],
+      "text": "Add one or both medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        236.3791046142578,
+        435.48309326171875,
+        252.0980987548828
+      ],
+      "text": "or  Cycloserine  Cs",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        253.90699768066406,
+        438.12420654296875,
+        268.3500061035156
+      ],
+      "text": "terizidone  Trd",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        275.521728515625,
+        426.8700866699219,
+        289.9647521972656
+      ],
+      "text": "Group C:  Ethambutol  E",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        291.77362060546875,
+        216.86326599121094,
+        306.2166442871094
+      ],
+      "text": "Add to complete the regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        297.13623046875,
+        440.0810852050781,
+        311.5792541503906
+      ],
+      "text": "Delamanid Dlm e",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        303.77362060546875,
+        199.49432373046875,
+        318.2166442871094
+      ],
+      "text": "and when medicines from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        315.77362060546875,
+        427.64007568359375,
+        333.1938171386719
+      ],
+      "text": "Groups A and B cannot be used  Pyrazinamide Z f",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        339.0895080566406,
+        462.5430908203125,
+        354.80853271484375
+      ],
+      "text": "or  Imipenem–cilastatin  Ipm–Cln",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        356.6174011230469,
+        448.74908447265625,
+        371.0604248046875
+      ],
+      "text": "meropenem Mpm  g",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        378.23199462890625,
+        440.3450927734375,
+        392.6750183105469
+      ],
+      "text": "Amikacin  Am",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        393.2080078125,
+        436.0550842285156,
+        408.9270324707031
+      ],
+      "text": "or (  streptomycin) (S)  h",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        414.8226013183594,
+        439.32208251953125,
+        430.5416259765625
+      ],
+      "text": "or  Ethionamide  Eto",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        432.3506164550781,
+        439.80609130859375,
+        446.79364013671875
+      ],
+      "text": "prothionamide Pto  i",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.9134063720703,
+        452.689208984375,
+        438.45196533203125,
+        468.4082336425781
+      ],
+      "text": "P -aminosalicylic acid PAS i",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.7389221191406,
+        526.6141357421875,
+        493.242919921875
+      ],
+      "text": "DST: drug susceptibility testing; ECG: electrocardiogram; GDG: Guideline Development Group; IPD: individual patient data; LPA: line probe",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.7389221191406,
+        255.8525390625,
+        504.242919921875
+      ],
+      "text": "assay; MDR-TB: multidrug-resistant TB; TB: tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.57354736328125,
+        526.6084594726562,
+        518.0775146484375
+      ],
+      "text": "This table is intended to guide the design of individualized, longer MDR-TB regimens (the composition of the recommended shorter  a",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        225.1934051513672,
+        518.4935302734375,
+        431.05511474609375,
+        528.9335327148438
+      ],
+      "text": "Treatment of drug-resistant TB using 9-month regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.5735473632812,
+        526.5962524414062,
+        529.0775146484375
+      ],
+      "text": "MDR-TB regimen is largely standardized; see  ). Medicines in Group C are",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.5735473632812,
+        526.606201171875,
+        540.0775146484375
+      ],
+      "text": "ranked by decreasing order of usual preference for use, subject to other considerations. The 2018 IPD meta-analysis for longer regimens",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.5735473632812,
+        526.666015625,
+        551.0775146484375
+      ],
+      "text": "included no patients on thioacetazone and too few patients on gatifloxacin and high-dose isoniazid for a meaningful analysis. No",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.5735473632812,
+        526.6144409179688,
+        562.0775146484375
+      ],
+      "text": "recommendation on perchlozone, interferon gamma or sutezolid was possible owing to the absence of final patient treatment outcome",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.5735473632812,
+        221.3591766357422,
+        573.0775146484375
+      ],
+      "text": "data from appropriate studies (see Annex 6).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.4082641601562,
+        526.6162719726562,
+        586.9122314453125
+      ],
+      "text": "Bedaquiline is usually administered at 400 mg orally once daily for the first 2 weeks, followed by 200 mg orally three times per week for  b",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.408203125,
+        526.6065063476562,
+        597.9121704101562
+      ],
+      "text": "22 weeks (total duration of 24 weeks). As a result of multiple reviews as new data have gradually become available, the use of bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.408203125,
+        526.7274169921875,
+        608.9121704101562
+      ],
+      "text": "is no longer restricted by the age of the patient. Evidence on the safety and effectiveness of bedaquiline use beyond 6 months was",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.408203125,
+        526.6101684570312,
+        619.9121704101562
+      ],
+      "text": "insufficient for review in 2018. Therefore, the use of bedaquiline beyond 6 months was implemented following best practices in “off-label”",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.4801635742188,
+        526.5706787109375,
+        630.9121704101562
+      ],
+      "text": "(79).  use  New evidence on the safety profile of bedaquiline use beyond 6 months was available to the GDG 2019, but the GDG was not",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.408203125,
+        526.6182250976562,
+        641.9121704101562
+      ],
+      "text": "able to assess the impact of prolonged bedaquiline use on efficacy, owing to the limited evidence and potential residual confounding in",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.408203125,
+        526.6159057617188,
+        652.9121704101562
+      ],
+      "text": "the data. However, the evidence supports the safe use of bedaquiline beyond 6 months in patients who receive appropriate schedules of",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.408203125,
+        526.5636596679688,
+        663.9121704101562
+      ],
+      "text": "baseline and follow-up monitoring. The use of bedaquiline beyond 6 months remains as off-label use and, in this regard, best practices",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.408203125,
+        155.7908935546875,
+        674.9121704101562
+      ],
+      "text": "in off-label use still apply.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.2428588867188,
+        526.7395629882812,
+        688.746826171875
+      ],
+      "text": "Evidence on the concurrent use of bedaquiline and delamanid was insufficient for review in 2018. In 2019, new evidence on the concurrent  c",
+      "font": "SegoeUI-Light",
+      "size": 7.98784065246582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.2428588867188,
+        526.7759399414062,
+        699.746826171875
+      ],
+      "text": "use of bedaquiline and delamanid was made available to the GDG. Regarding safety, the GDG concluded that the data suggest no",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.2428588867188,
+        526.6000366210938,
+        710.746826171875
+      ],
+      "text": "additional safety concerns regarding concurrent use of bedaquiline and delamanid. Both medicines may be used concurrently in patients",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.2428588867188,
+        526.6039428710938,
+        721.746826171875
+      ],
+      "text": "who have limited other treatment options available to them, provided that sufficient monitoring (including baseline and follow-up ECG",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        722.2428588867188,
+        526.6103515625,
+        732.746826171875
+      ],
+      "text": "and electrolyte monitoring) is in place. The data on the effectiveness of concurrent use of bedaquiline and delamanid were reviewed by",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.2428588867188,
+        526.57421875,
+        743.746826171875
+      ],
+      "text": "the GDG; however, owing to the limited evidence and potential residual confounding in the data, the GDG was unable to proceed with a",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        744.2428588867188,
+        185.29891967773438,
+        754.746826171875
+      ],
+      "text": "recommendation on effectiveness.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  125",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "file": "module4",
+  "page": 11,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        219.73651123046875,
+        147.5496368408203
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.80859375,
+        527.2262573242188,
+        195.36158752441406
+      ],
+      "text": "Bacteriologically confirmed : when a biological specimen is positive by smear microscopy, culture or",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.97602367401123,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        524.3854370117188,
+        208.5615997314453
+      ],
+      "text": "a rapid diagnostic test for tuberculosis (TB) recommended by the World Health Organization (WHO).",
+      "font": "SegoeUI-Light",
+      "size": 10.993448257446289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.712646484375,
+        527.437255859375,
+        230.26564025878906
+      ],
+      "text": "Clinically diagnosed : when a person who does not fulfil the criteria for bacteriological confirmation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.0225372314453,
+        527.4411010742188,
+        243.4655303955078
+      ],
+      "text": "has been diagnosed with TB disease by a medical practitioner who has decided to give the person",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.22254943847656,
+        202.94418334960938,
+        256.6655578613281
+      ],
+      "text": "a full course of TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.6505126953125,
+        527.4325561523438,
+        278.3695373535156
+      ],
+      "text": "Mycobacterium tuberculosis Drug-resistant TB (DR-TB) : TB disease caused by a strain of   complex",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.12652587890625,
+        236.58331298828125,
+        291.5695495605469
+      ],
+      "text": "that is resistant to any TB medicines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.72039794921875,
+        527.3540649414062,
+        313.2734069824219
+      ],
+      "text": "Drug-susceptible TB (DS-TB):  A bacteriologically confirmed or clinically diagnosed case of TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.0303955078125,
+        423.5712890625,
+        326.4734191894531
+      ],
+      "text": "without evidence of infection with strains resistant to rifampicin and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.6244201660156,
+        527.4337768554688,
+        348.17742919921875
+      ],
+      "text": "Drug susceptibility testing (DST):  in vitro testing using either molecular or genotypic techniques",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.9344177246094,
+        527.4321899414062,
+        361.37744140625
+      ],
+      "text": "to detect resistance-conferring mutations, or phenotypic methods to determine susceptibility to a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.1343078613281,
+        117.91309356689453,
+        374.57733154296875
+      ],
+      "text": "medicine.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.72833251953125,
+        527.5040283203125,
+        396.2813415527344
+      ],
+      "text": "Extensive (or advanced) pulmonary TB disease : presence of bilateral cavitary disease or extensive",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.990145683288574,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.0382995605469,
+        527.4168701171875,
+        409.4813232421875
+      ],
+      "text": "parenchymal damage on chest radiography. In children aged below 15 years, advanced disease is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.2383117675781,
+        457.3424072265625,
+        422.68133544921875
+      ],
+      "text": "usually defined by the presence of cavities or bilateral disease on chest radiography.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.66619873046875,
+        527.426513671875,
+        444.3852233886719
+      ],
+      "text": "M. tuberculosis Extensively drug-resistant TB (XDR-TB) : TB disease caused by a strain of   complex",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        443.1422119140625,
+        527.3914794921875,
+        457.5852355957031
+      ],
+      "text": "that is resistant to rifampicin (and may also be resistant to isoniazid), and that is also resistant to at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.3421936035156,
+        527.3836669921875,
+        470.78521728515625
+      ],
+      "text": "least one fluoroquinolone (levofloxacin or moxifloxacin) and to at least one other “Group A” drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.5422058105469,
+        186.79513549804688,
+        483.9852294921875
+      ],
+      "text": "(bedaquiline or linezolid).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.1361083984375,
+        527.228515625,
+        505.6891174316406
+      ],
+      "text": "Extrapulmonary tuberculosis (EPTB)  refers to any bacteriologically confirmed or clinically diagnosed",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.95535945892334,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.4461669921875,
+        527.4221801757812,
+        518.88916015625
+      ],
+      "text": "case of TB involving organs other than the lungs (e.g. pleura, lymph nodes, abdomen, genitourinary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.646240234375,
+        250.80410766601562,
+        532.0892333984375
+      ],
+      "text": "tract, skin, joints and bones, meninges).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.2401123046875,
+        512.9603271484375,
+        553.7930908203125
+      ],
+      "text": "MDR/RR-TB : refers to either multidrug-resistant TB (MDR-TB) or rifampicin-resistant TB (RR-TB).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.7780151367188,
+        527.42236328125,
+        575.4970092773438
+      ],
+      "text": "M. tuberculosis  Multidrug-resistant TB (MDR-TB) : TB disease caused by a strain of  complex that",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.2540283203125,
+        244.05235290527344,
+        588.697021484375
+      ],
+      "text": "is resistant to rifampicin and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.8480224609375,
+        527.3768310546875,
+        610.4010009765625
+      ],
+      "text": "New case : a person with TB disease who has never been treated for TB or has only previously ever",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.1580200195312,
+        242.7081298828125,
+        623.6010131835938
+      ],
+      "text": "taken TB drugs for less than 1 month.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.751953125,
+        527.436767578125,
+        645.304931640625
+      ],
+      "text": "Operational research implementation research  or  : “the use of systematic research techniques for",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.0618896484375,
+        527.4239501953125,
+        658.5048828125
+      ],
+      "text": "programme decision-making to achieve a specific outcome”.  In the context of this document, these  1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.2619018554688,
+        527.4300537109375,
+        671.7048950195312
+      ],
+      "text": "terms are also applied to research that aims to develop the critical evidence base that informs the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.4619140625,
+        527.1614379882812,
+        684.9049072265625
+      ],
+      "text": "effective, sustained and embedded adoption of interventions within a health system, to improve health",
+      "font": "SegoeUI-Light",
+      "size": 10.956212997436523,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.6619262695312,
+        527.4034423828125,
+        698.1049194335938
+      ],
+      "text": "or patient outcomes. Such research deals with the knowledge gap between efficacy, effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.8619384765625,
+        527.4689331054688,
+        711.304931640625
+      ],
+      "text": "and current practice to produce the greatest gains in disease control.  Operational research also  2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.0370483398438,
+        526.6080932617188,
+        741.541015625
+      ],
+      "text": "Allotey P, Reidpath DD, Ghalib H, Pagnoni F, Skelly WC. Efficacious, effective, and embedded interventions: implementation research in  1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        740.6370239257812,
+        278.2132873535156,
+        751.1409912109375
+      ],
+      "text": "infectious disease control. BMC Public Health. 2008;8:343. (",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.2294006347656,
+        740.6370239257812,
+        419.31085205078125,
+        751.1409912109375
+      ],
+      "text": "https://doi.org/10.1186/1471–2458–8-343",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        419.3192138671875,
+        740.6370239257812,
+        423.3512268066406,
+        751.1409912109375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0718383789062,
+        526.5904541015625,
+        763.5758056640625
+      ],
+      "text": "Guide to operational research in programmes supported by the Global Fund. Geneva: Global Fund to Fight AIDS, Tuberculosis and  2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        128.53012084960938,
+        773.17578125
+      ],
+      "text": "Malaria; 2007.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.4174194335938,
+        801.0170288085938,
+        552.4254150390625,
+        811.52099609375
+      ],
+      "text": "ix",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "file": "module1",
+  "page": 255,
+  "table_id": 1,
+  "bbox": [
+    71.07068217884411,
+    106.75679117838541,
+    524.1386052911931,
+    269.156494140625
+  ],
+  "heading": "Table A5.11. Summary of a prospective cohort study evaluating of the efficacy of INH TPT for HHCs of MDR-TB index patients (7)",
+  "n_rows": 2,
+  "n_cols": 7,
+  "data": [
+    [
+      "Reference",
+      "Setting",
+      "Population",
+      "Intervention",
+      "Control",
+      "Type of outcome",
+      "People who developed TB disease / person- years of follow-up"
+    ],
+    [
+      "Huang et al. (2020) (7)",
+      "Lima, Peru",
+      "Children/ adolescents aged ≤ 19 who were HHCs of MDR-TB index patients (n=666)",
+      "INHa (n=265)",
+      "No INH (n=401)",
+      "Culture- confirmed TB disease per person-year (≥ 1 year of follow- up)",
+      "Overall INH: 3/320 No INH: 23/474 aHRb, 0.19 [95% CI, 0.05 ; 0.66] Child contacts (< 5 years) INH: 2/144 No INH: 10/145 HR, 0.19 [95% CI, 0.04 ; 0.98]"
+    ]
+  ]
+}

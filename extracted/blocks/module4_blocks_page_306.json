@@ -1,0 +1,402 @@
+{
+  "file": "module4",
+  "page": 306,
+  "blocks": [
+    {
+      "bbox": [
+        74.0835952758789,
+        78.5724105834961,
+        88.4385986328125,
+        141.64422607421875
+      ],
+      "text": "Comparison",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        86.0835952758789,
+        104.7309341430664,
+        429.12640380859375,
+        118.5029296875
+      ],
+      "text": "4.1 5.1 5.2 5.3 5.4 6.1 6.2 6.3 6.4 6.5 7.1 7.2 7.3 #",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        263.3811950683594,
+        167.91038513183594,
+        277.82421875,
+        342.56719970703125
+      ],
+      "text": "trial-internal mix of SOC [PRACTECAL]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        214.6656951904297,
+        94.4385986328125,
+        342.56719970703125
+      ],
+      "text": "Comparator [data source]",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        284.99578857421875,
+        227.2455291748047,
+        364.2826232910156,
+        342.56719970703125
+      ],
+      "text": "trial-SOC 1 [PRACTECAL] trial-SOC 2 [PRACTECAL] trial-SOC 3 [PRACTECAL] trial-SOC 4 [PRACTECAL]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.9228057861328,
+        247.8748016357422,
+        429.12640380859375,
+        342.56719970703125
+      ],
+      "text": "WHO_short [SA_old] BPaLC [PRACTECAL]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        266.7662353515625,
+        385.897216796875,
+        342.56719970703125
+      ],
+      "text": "WHO_long [IPD] WHO_long [IPD] WHO_long [IPD]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        393.06878662109375,
+        292.8240966796875,
+        407.5118103027344,
+        342.56719970703125
+      ],
+      "text": "BPaL (all 5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        220.15200805664062,
+        306.7292175292969,
+        234.59500122070312,
+        342.56719970703125
+      ],
+      "text": "SA_new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        241.7666015625,
+        317.1374206542969,
+        256.2095947265625,
+        342.56719970703125
+      ],
+      "text": "NeXT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.0835952758789,
+        368.1493225097656,
+        88.4385986328125,
+        432.60931396484375
+      ],
+      "text": "Intervention",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        382.8662109375,
+        191.3657989501953,
+        432.60931396484375
+      ],
+      "text": "BPaL (all 5) BPaL (all 5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.0835952758789,
+        391.2900085449219,
+        100.4385986328125,
+        432.60931396484375
+      ],
+      "text": "regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        263.3811950683594,
+        401.5442199707031,
+        277.82421875,
+        432.60931396484375
+      ],
+      "text": "BPaLM",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        451.4525451660156,
+        94.4385986328125,
+        505.559326171875
+      ],
+      "text": "Population",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        463.6210021972656,
+        385.897216796875,
+        505.559326171875
+      ],
+      "text": "MDR/RR\n pre-XDR pre-XDR pre-XDR MDR/RR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        275.3811950683594,
+        485.0624084472656,
+        289.82421875,
+        505.559326171875
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        188.9228057861328,
+        518.9645385742188,
+        421.897216796875,
+        713.1971435546875
+      ],
+      "text": "with pulmonary pre-XDR-TB (MDR/RR-TB  bedaquiline, pretomanid and linezolid be  moxifloxacin (BPaLM) be used in patients  moxifloxacin (BPaLM) be used in patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        200.9228057861328,
+        533.9762573242188,
+        397.897216796875,
+        713.1971435546875
+      ],
+      "text": "bedaquiline, pretomanid, linezolid and  bedaquiline, pretomanid, linezolid and  used in patients with pulmonary MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        299.3811950683594,
+        542.4957885742188,
+        313.82421875,
+        713.1971435546875
+      ],
+      "text": "with pulmonary MDR/RR-TB (with or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        131.30821228027344,
+        547.221435546875,
+        325.82421875,
+        713.1971435546875
+      ],
+      "text": "without fluoroquinolone resistance)? RR-TB and without fluoroquinolone  be used in patients with pulmonary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        119.3082046508789,
+        554.4692993164062,
+        133.75120544433594,
+        713.1971435546875
+      ],
+      "text": "bedaquiline, pretomanid, linezolid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        419.4541931152344,
+        562.54443359375,
+        433.897216796875,
+        713.1971435546875
+      ],
+      "text": "with fluoroquinolone resistance)?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        566.7035522460938,
+        385.897216796875,
+        713.1971435546875
+      ],
+      "text": "Should 6-month regimen using  Should 6-month regimen using  Should 6-month regimen using  Should 6-month regimen using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        143.30821228027344,
+        572.0990600585938,
+        157.75120544433594,
+        713.1971435546875
+      ],
+      "text": "pre-XDR-TB (MDR/RR-TB with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.30821228027344,
+        584.4102172851562,
+        169.75120544433594,
+        713.1971435546875
+      ],
+      "text": "fluoroquinolone resistance)?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        642.105224609375,
+        94.4385986328125,
+        713.1971435546875
+      ],
+      "text": "PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        224.9228057861328,
+        663.68505859375,
+        239.3657989501953,
+        713.1971435546875
+      ],
+      "text": "resistance?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        727.05615234375,
+        94.4385986328125,
+        764.220703125
+      ],
+      "text": "PICO #",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        758.5557250976562,
+        385.897216796875,
+        764.220703125
+      ],
+      "text": "4 5 6 7",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "292 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

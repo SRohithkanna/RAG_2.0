@@ -1,0 +1,48 @@
+{
+  "file": "Guidance for national",
+  "page": 132,
+  "table_id": 1,
+  "bbox": [
+    85.03900146484375,
+    118.7440185546875,
+    509.73602294921875,
+    505.9040222167969
+  ],
+  "heading": "Table A2.2 Treatment outcomes for RR-TB/MDR-TB/XDR-TB patients treated using second-line treatment",
+  "n_rows": 8,
+  "n_cols": 2,
+  "data": [
+    [
+      "Outcome",
+      "Definition"
+    ],
+    [
+      "Cured",
+      "Treatment completed as recommended by the national policy without evidence of failure and three or more consecutive cultures taken at least 30 days apart are negative after the intensive phasea"
+    ],
+    [
+      "Treatment completed",
+      "Treatment completed as recommended by the national policy without evidence of failure BUT no record that three or more consecutive cultures taken at least 30 days apart are negative after the intensive phasea"
+    ],
+    [
+      "Treatment failed",
+      "Treatment terminated or need for permanent regimen change of at least two anti-TB drugs because of: - lack of conversionb by the end of the intensive phasea, or - bacteriological reversionb in the continuation phase after conversionb to negative, or - evidence of additional acquired resistance to fluoroquinolones or second-line injectable drugs, or - adverse drug reactions (ADRs)"
+    ],
+    [
+      "Died",
+      "A patient who dies for any reason during the course of treatment."
+    ],
+    [
+      "Lost to follow-up",
+      "A patient whose treatment was interrupted for 2 consecutive months or more."
+    ],
+    [
+      "Not evaluated",
+      "A patient for whom no treatment outcome is assigned. This includes cases “transferred out” to another treatment unit and whose treatment outcome is unknown."
+    ],
+    [
+      "Treatment success",
+      "The sum of cured and treatment completed"
+    ]
+  ]
+}

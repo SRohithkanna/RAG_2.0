@@ -1,0 +1,522 @@
+{
+  "file": "module1",
+  "page": 19,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        242.20657348632812,
+        147.1480255126953
+      ],
+      "text": "Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        183.6797332763672,
+        148.8199462890625,
+        201.94973754882812
+      ],
+      "text": "Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        208.6555938720703,
+        527.4156494140625,
+        223.0985870361328
+      ],
+      "text": "Tuberculosis infection (TBI) is defined as a state of persistent immune response to stimulation by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.57960510253906,
+        524.3997192382812,
+        236.29859924316406
+      ],
+      "text": "M. tuberculosis  (1) antigens with no evidence of clinically manifest TB disease  . As there is no “gold",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.0557403564453,
+        527.3920288085938,
+        249.4987335205078
+      ],
+      "text": "standard” test for TBI, the global burden is not known with certainty; however, about one fourth of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.9796905517578,
+        527.4608764648438,
+        262.6986999511719
+      ],
+      "text": "M. tuberculosis (2,3) the world’s population is estimated to have been infected with  . The vast majority",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.998350143432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.4556884765625,
+        527.5787353515625,
+        275.8987121582031
+      ],
+      "text": "of people with TBI have no signs or symptoms of TB disease and are not infectious, although they are",
+      "font": "SegoeUI-Light",
+      "size": 10.991045951843262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.65570068359375,
+        527.3793334960938,
+        289.0987243652344
+      ],
+      "text": "at risk of developing TB disease and becoming infectious. Several studies have shown that, in recent",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.855712890625,
+        527.4411010742188,
+        302.2987365722656
+      ],
+      "text": "decades, an average 5–10% of people who are infected will develop TB disease over the course of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.77972412109375,
+        527.46630859375,
+        315.4987487792969
+      ],
+      "text": "(4,5) their lives, usually within the first 5 years after initial infection . The risk for TB disease after infection",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.963189125061035,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.97967529296875,
+        527.4299926757812,
+        328.6986999511719
+      ],
+      "text": "(1) depends on several factors, the most important being immunological status  . At the second United",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.986541748046875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.4557189941406,
+        527.3980102539062,
+        341.89874267578125
+      ],
+      "text": "Nations high-level meeting on TB in 2023, Member States committed themselves to providing TPT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.37969970703125,
+        329.8852844238281,
+        355.0987548828125
+      ],
+      "text": "(6) . to at least 45 million people between 2024 and 2027",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.0836181640625,
+        527.4215698242188,
+        376.8026428222656
+      ],
+      "text": "(7–9) TPT is a critical component of the WHO End TB Strategy and of other work to eliminate TB  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.2835998535156,
+        527.4334106445312,
+        390.00262451171875
+      ],
+      "text": "(1) The efficacy of currently available TPT regimens ranges from 60% to 90%  . The potential benefit",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.7596130371094,
+        527.4301147460938,
+        403.20263671875
+      ],
+      "text": "of treatment should, however, be carefully balanced against the risk of drug-related adverse events.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.9596252441406,
+        527.4447631835938,
+        416.40264892578125
+      ],
+      "text": "Mass, population-wide testing and treatment of TBI are not feasible at present because the tests are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.1596374511719,
+        527.4083251953125,
+        429.6026611328125
+      ],
+      "text": "imperfect, there is a risk of serious, potentially fatal adverse drug reactions, and the cost would be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.3596496582031,
+        527.4226684570312,
+        442.80267333984375
+      ],
+      "text": "high, thus providing unclear benefit for populations at lower risk. The benefits of TPT are more likely",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.5596618652344,
+        527.440673828125,
+        456.002685546875
+      ],
+      "text": "to outweigh harm in infected individuals in population groups in whom the risk for progression to TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.7596130371094,
+        527.5492553710938,
+        469.20263671875
+      ],
+      "text": "disease substantially exceeds that of the general population. In people exposed to MDR/RR-TB, which",
+      "font": "SegoeUI-Light",
+      "size": 10.977978706359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.9595947265625,
+        527.4196166992188,
+        482.4026184082031
+      ],
+      "text": "is more difficult to treat than drug-susceptible TB, provision of suitable TPT may be more justifiable.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.15960693359375,
+        527.3441772460938,
+        495.6026306152344
+      ],
+      "text": "Programmatic management of TPT (PMTPT) involves a comprehensive package of interventions:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.359619140625,
+        527.4335327148438,
+        508.8026428222656
+      ],
+      "text": "identifying and testing those individuals who should be tested, delivering effective, safe treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.55963134765625,
+        527.4496459960938,
+        522.0026245117188
+      ],
+      "text": "in such a way that the majority of those who start a treatment regimen will complete it with no or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.7596435546875,
+        527.3827514648438,
+        535.20263671875
+      ],
+      "text": "minimal risk of adverse events, and monitoring and evaluation. PMTPT fits within a larger framework",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.9595947265625,
+        527.4736328125,
+        548.402587890625
+      ],
+      "text": "of preventive actions envisaged in pillars 1 and 2 of the End TB Strategy, from screening for TB disease,",
+      "font": "SegoeUI-Light",
+      "size": 10.965295791625977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.1596069335938,
+        527.400390625,
+        561.6026000976562
+      ],
+      "text": "infection control, prevention and care of HIV and other co-morbidities and health risks, access to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        560.359619140625,
+        355.43896484375,
+        574.8026123046875
+      ],
+      "text": "universal health care, social protection and poverty alleviation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        585.2261962890625,
+        132.19357299804688,
+        603.4961547851562
+      ],
+      "text": "Rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.2020874023438,
+        527.5242309570312,
+        624.6450805664062
+      ],
+      "text": "WHO guidelines on TPT are premised on the probability that TBI will progress to TB disease in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.4022216796875,
+        527.4278564453125,
+        637.84521484375
+      ],
+      "text": "specific risk groups, on the underlying epidemiology and burden of TB and on the feasibility and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.6021728515625,
+        527.4232788085938,
+        651.045166015625
+      ],
+      "text": "the public health benefit of the intervention. WHO global policy is expected to provide the basis for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.8021850585938,
+        527.4100952148438,
+        664.2451782226562
+      ],
+      "text": "the development of national guidelines for PMTPT, adapted to local circumstances. These guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.0020751953125,
+        527.5470581054688,
+        677.445068359375
+      ],
+      "text": "envisage a massive extension of TPT, including to individuals exposed to MDR/RR-TB, whereas global",
+      "font": "SegoeUI-Light",
+      "size": 10.99069595336914,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.9260864257812,
+        527.4138793945312,
+        690.6450805664062
+      ],
+      "text": "(10) coverage of the intervention is still very low, even in priority target groups  . The 2020 edition of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.126220703125,
+        527.3611450195312,
+        703.84521484375
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis: tuberculosis preventive treatment  the  was the first in the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.988794326782227,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.6021728515625,
+        527.5449829101562,
+        717.045166015625
+      ],
+      "text": "modular series of consolidated guidelines on various aspects of TB care, accompanied by operational",
+      "font": "SegoeUI-Light",
+      "size": 10.985740661621094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.8021850585938,
+        527.4227294921875,
+        730.2451782226562
+      ],
+      "text": "handbooks. These documents were published on the WHO TB Knowledge Sharing Platform in 2021,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.72607421875,
+        527.4246215820312,
+        743.445068359375
+      ],
+      "text": "(11) and a training module with the same content was released in 2022 . The 2024 edition of TPT",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.9260864257812,
+        527.4669189453125,
+        756.6450805664062
+      ],
+      "text": "(12) guidelines and the associated operational handbook   will replace the earlier versions on the WHO",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.986141204833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.4022216796875,
+        218.4481964111328,
+        769.84521484375
+      ],
+      "text": "TB Knowledge Sharing Platform.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.8607177734375,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

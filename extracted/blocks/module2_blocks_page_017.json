@@ -1,0 +1,462 @@
+{
+  "file": "module2",
+  "page": 17,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        274.9268798828125,
+        147.1480255126953
+      ],
+      "text": "1. Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.244384765625,
+        204.24803161621094,
+        212.0393829345703
+      ],
+      "text": "1.1 Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.4904327392578,
+        527.446533203125,
+        231.9334259033203
+      ],
+      "text": "Tuberculosis (TB) is a leading cause of death from a single infectious agent, despite being largely",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.69032287597656,
+        527.5662231445312,
+        245.13331604003906
+      ],
+      "text": "curable and preventable. In 2019, an estimated 2.9 million of the 10 million people who fell ill with TB",
+      "font": "SegoeUI-Light",
+      "size": 10.996950149536133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.0963897705078,
+        527.4382934570312,
+        258.3334045410156
+      ],
+      "text": "(1) were not diagnosed or reported to the World Health Organization (WHO) . WHO’s End TB Strategy",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.978879928588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.2963409423828,
+        527.4197998046875,
+        271.5333557128906
+      ],
+      "text": "(2, 3) envisions a 90% reduction in TB incidence and a 95% reduction in TB deaths by 2035  , and the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.290283203125,
+        527.4100952148438,
+        284.7333068847656
+      ],
+      "text": "Declaration adopted by the United Nations General Assembly in September 2018 at the High-Level",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.49041748046875,
+        527.4344482421875,
+        297.9334411621094
+      ],
+      "text": "Meeting on the Fight Against Tuberculosis commits to diagnosing and treating 40 million people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.89630126953125,
+        527.3834228515625,
+        311.1333312988281
+      ],
+      "text": "(4) with TB by 2022  . In order to achieve these ambitious targets, there is an urgent need to deploy",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.890380859375,
+        527.6036987304688,
+        324.3334045410156
+      ],
+      "text": "strategies to improve the diagnosis and initiation of care for people with TB. One key strategy is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.0903015136719,
+        527.4445190429688,
+        337.5333251953125
+      ],
+      "text": "systematic screening for TB disease, which is included in the End TB Strategy as a central component",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.2903137207031,
+        365.525390625,
+        350.73333740234375
+      ],
+      "text": "of its first pillar, aimed at ensuring early diagnosis for all with TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.9942932128906,
+        527.5767822265625,
+        372.43731689453125
+      ],
+      "text": "To help facilitate the implementation of TB screening at the country level, WHO published guidelines on",
+      "font": "SegoeUI-Light",
+      "size": 10.944962501525879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.40032958984375,
+        527.4967041015625,
+        385.6373291015625
+      ],
+      "text": "(5). systematic screening for TB in 2013   Since then, there have been important new studies evaluating",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.983687400817871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.3943176269531,
+        527.5633544921875,
+        398.83734130859375
+      ],
+      "text": "the impact of screening interventions on both individual-level and community-level outcomes related",
+      "font": "SegoeUI-Light",
+      "size": 10.977577209472656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.59429931640625,
+        527.17822265625,
+        412.0373229980469
+      ],
+      "text": "to TB, as well as new research evaluating innovative tools for screening for TB among important",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        410.7943115234375,
+        527.4069213867188,
+        425.2373352050781
+      ],
+      "text": "populations at high risk for TB disease. In light of these new developments and continual requests by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.9942932128906,
+        527.4136352539062,
+        438.43731689453125
+      ],
+      "text": "Member States for guidance on how to conduct effective TB screening, in 2020 WHO convened a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.1943054199219,
+        527.4343872070312,
+        451.6373291015625
+      ],
+      "text": "Guideline Development Group (GDG) to examine the evidence in order to update WHO’s guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.3943176269531,
+        306.48968505859375,
+        464.83734130859375
+      ],
+      "text": "and recommendations for screening for TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.82550048828125,
+        526.6019287109375,
+        503.6205139160156
+      ],
+      "text": "1.2 Definition and objectives of systematic screening",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.62548828125,
+        190.39891052246094,
+        526.4204711914062
+      ],
+      "text": "for TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.6075439453125,
+        527.438720703125,
+        546.3145141601562
+      ],
+      "text": "the systematic  For the purpose of this guideline, systematic screening for TB disease is defined as",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.8074340820312,
+        527.5757446289062,
+        559.31640625
+      ],
+      "text": "identification of people at risk for TB disease, in a predetermined target group, by assessing",
+      "font": "SegoeUI-Bold",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.0073852539062,
+        527.4204711914062,
+        572.71435546875
+      ],
+      "text": "symptoms and using tests, examinations or other procedures that can be applied rapidly .",
+      "font": "SegoeUI-Bold",
+      "size": 10.99779987335205,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.471435546875,
+        527.433349609375,
+        585.9144287109375
+      ],
+      "text": "The screening tests, examinations and other procedures should efficiently distinguish people with a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.67138671875,
+        527.4058837890625,
+        599.1143798828125
+      ],
+      "text": "high probability of having TB disease from those who are unlikely to have TB disease. Among those",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.8715209960938,
+        527.4346313476562,
+        612.3145141601562
+      ],
+      "text": "whose screening is positive, the diagnosis needs to be established by diagnostic evaluation, consisting",
+      "font": "SegoeUI-Light",
+      "size": 10.972967147827148,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.071533203125,
+        491.5235900878906,
+        625.5145263671875
+      ],
+      "text": "of one or more diagnostic tests, and clinical assessment, which together have high accuracy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.775390625,
+        527.4024047851562,
+        647.2183837890625
+      ],
+      "text": "Systematic screening for TB disease is predominantly provider initiated. It may be conducted among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.9754028320312,
+        527.4542846679688,
+        660.4183959960938
+      ],
+      "text": "people who do not seek health care because they do not have or recognize symptoms, they do",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.17529296875,
+        527.4475708007812,
+        673.6182861328125
+      ],
+      "text": "not perceive that they have a health problem that warrants medical attention, there are barriers to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.3754272460938,
+        527.3881225585938,
+        686.8184204101562
+      ],
+      "text": "accessing care, or for other reasons. It may also target people seeking health care who do or do not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.575439453125,
+        527.3751220703125,
+        700.0184326171875
+      ],
+      "text": "have symptoms or signs compatible with TB and who may not be identified by passive case-finding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.775390625,
+        527.1943359375,
+        713.2183837890625
+      ],
+      "text": "as possibly having TB. People seeking care who may be eligible for TB screening include people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.9754028320312,
+        527.3970947265625,
+        726.4183959960938
+      ],
+      "text": "with medical conditions that constitute risk factors for TB (such as people living with HIV or diabetes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.17529296875,
+        476.54638671875,
+        739.6182861328125
+      ],
+      "text": "mellitus) who may be seeking care for reasons other than symptoms compatible with TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        475.78839111328125,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1. Introduction 5",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

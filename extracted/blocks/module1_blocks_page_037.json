@@ -1,0 +1,558 @@
+{
+  "file": "module1",
+  "page": 37,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        225.66668701171875,
+        89.46791076660156
+      ],
+      "text": "1.3 Testing for TBI",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.91883087158203,
+        527.3422241210938,
+        109.36183166503906
+      ],
+      "text": "Testing for TBI increases the certainty that individuals targeted for TPT will benefit better from it. There",
+      "font": "SegoeUI-Light",
+      "size": 10.980582237243652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.11884307861328,
+        527.3717041015625,
+        122.56184387207031
+      ],
+      "text": "is, however, no gold standard test for diagnosing TBI. All the currently available tests – TST, IGRA and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.31885528564453,
+        527.4122314453125,
+        135.76185607910156
+      ],
+      "text": "TBST – are indirect and require a competent immune response for a valid result. A positive test result",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.5189971923828,
+        527.4277954101562,
+        148.9619903564453
+      ],
+      "text": "by any one method is not by itself a reliable indicator of the risk of progression to TB disease. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        147.7189483642578,
+        434.2610778808594,
+        162.16200256347656
+      ],
+      "text": "section. evidence and the recommendations for TBI testing are discussed in this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41539764404297,
+        182.77943420410156,
+        513.5936889648438,
+        197.22242736816406
+      ],
+      "text": "17. Either a tuberculin skin test (TST) or interferon-γ release assay (IGRA) can be used to test",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        194.7034454345703,
+        474.2100830078125,
+        210.4224395751953
+      ],
+      "text": "(Strong recommendation, very low certainty of the estimates of effect) for TB infection.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        216.4073028564453,
+        513.5307006835938,
+        232.1262969970703
+      ],
+      "text": "Mycobacterium tuberculosis 18.   antigen-based skin tests (TBST) may be used to test for TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        229.60731506347656,
+        465.9009704589844,
+        245.32630920410156
+      ],
+      "text": "(Conditional recommendation, very low certainty of the estimates of effect) infection.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        274.8020324707031,
+        236.09176635742188,
+        293.0720520019531
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.50189208984375,
+        527.4256591796875,
+        314.2209167480469
+      ],
+      "text": "(17) Recommendation 17  was originally published in the 2018 WHO guidelines  . A previous systematic",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.951945304870605,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.97802734375,
+        527.4267578125,
+        327.4210510253906
+      ],
+      "text": "review was updated to compare the predictive performance of IGRA and TST for identifying incident",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.9020080566406,
+        527.4085693359375,
+        340.6210632324219
+      ],
+      "text": "(67) . Only studies in which TST  TB disease in countries with a TB incidence > 100/100 00 population",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.37799072265625,
+        527.3811645507812,
+        353.8210144042969
+      ],
+      "text": "was compared with IGRA in the same population were considered, and relative risk ratios for TB for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.5780029296875,
+        527.3846435546875,
+        367.0210266113281
+      ],
+      "text": "people who tested positive and those who tested negative in those two tests were estimated. (See",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.77801513671875,
+        283.2728576660156,
+        380.2210388183594
+      ],
+      "text": "the GRADE evidence summaries for PICO 4 in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        283.27679443359375,
+        365.77801513671875,
+        320.8308410644531,
+        380.2210388183594
+      ],
+      "text": "Annex 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        320.8315124511719,
+        365.77801513671875,
+        326.37548828125,
+        380.2210388183594
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86607360839844,
+        387.4819030761719,
+        527.4212646484375,
+        401.9249267578125
+      ],
+      "text": "Five prospective cohort studies were identified, with a total of 7769 participants; four were newly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86607360839844,
+        399.4059143066406,
+        527.4238891601562,
+        415.12493896484375
+      ],
+      "text": "(23,68,69,70,71) identified. Three of the studies were conducted in South Africa and two in India  . The",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.88189697265625,
+        527.1626586914062,
+        428.3249206542969
+      ],
+      "text": "studies included people with HIV, pregnant women, adolescents, health-care workers and household",
+      "font": "SegoeUI-Light",
+      "size": 10.994998931884766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.0819091796875,
+        527.4420776367188,
+        441.5249328613281
+      ],
+      "text": "contacts. The pooled risk ratio estimate for TST was 1.49 (95% CI, 0.79 ; 2.80) and that for IGRA was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.28192138671875,
+        527.4381713867188,
+        454.7249450683594
+      ],
+      "text": "2.03 (95% CI, 1.18 ; 3.50). Although the estimate for IGRA was slightly higher than that for TST, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.48193359375,
+        527.3941650390625,
+        467.9249572753906
+      ],
+      "text": "95% CIs for the estimates for TST and IGRA overlapped and were imprecise. Furthermore, there was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.6819152832031,
+        444.0115966796875,
+        481.1249694824219
+      ],
+      "text": "populations. limited evidence for the predictive value of the tests in specific at-risk",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        488.3858947753906,
+        527.446533203125,
+        502.82891845703125
+      ],
+      "text": "The GDG concluded that comparison of TST and IGRA in the same population does not provide",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        501.5859375,
+        527.3668212890625,
+        516.0289306640625
+      ],
+      "text": "strong evidence that one of the tests should be preferred over the other for predicting progression",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        514.785888671875,
+        527.3984985351562,
+        529.2288818359375
+      ],
+      "text": "to TB disease. TST may require significantly fewer resources than IGRA and may be more familiar to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        527.9859619140625,
+        527.3925170898438,
+        542.428955078125
+      ],
+      "text": "practitioners in resource-constrained settings; however, recurrent global shortages and stock-outs of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        541.185791015625,
+        274.8318786621094,
+        555.6287841796875
+      ],
+      "text": "TST limit prospects for its scale-up in PMTPT.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        562.8897705078125,
+        527.5735473632812,
+        577.332763671875
+      ],
+      "text": "The GDG also noted that equity and access could affect the choice and type of test used. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        576.0897827148438,
+        527.6165161132812,
+        590.5327758789062
+      ],
+      "text": "preferences of people to be tested and programmes depend on several factors, such as the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        589.289794921875,
+        527.6137084960938,
+        603.7327880859375
+      ],
+      "text": "requirement for an adequately equipped laboratory (e.g. for IGRA), possible additional costs for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        602.48974609375,
+        527.185791015625,
+        616.9327392578125
+      ],
+      "text": "people being tested (e.g. for travel) and the programme (e.g. for infrastructure and testing). The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        615.6897583007812,
+        527.4154052734375,
+        630.1327514648438
+      ],
+      "text": "GDG strongly recommended the two tests as equivalent options, with relatively similar advantages",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86604309082031,
+        628.8897705078125,
+        159.06719970703125,
+        643.332763671875
+      ],
+      "text": "and disadvantages.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        650.5936889648438,
+        527.2500610351562,
+        665.0366821289062
+      ],
+      "text": "The GDG cautioned that imperfect performance of these tests can lead to false-negative results,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        663.7938232421875,
+        527.41455078125,
+        678.23681640625
+      ],
+      "text": "particularly for young children and immunocompromised individuals such as people with HIV with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        676.99365234375,
+        527.4124755859375,
+        691.4366455078125
+      ],
+      "text": "low CD4 counts. The GDG noted the importance of the tests for identifying recent conversion from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.1937255859375,
+        527.5429077148438,
+        704.63671875
+      ],
+      "text": "negative to positive, particularly among contacts of people with pulmonary TB, which is good practice",
+      "font": "SegoeUI-Light",
+      "size": 10.97216510772705,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3936767578125,
+        527.3804931640625,
+        717.836669921875
+      ],
+      "text": "when initiating TPT. Nevertheless, studies among health-care workers tested serially for TBI in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.5936889648438,
+        527.4083251953125,
+        731.0366821289062
+      ],
+      "text": "USA showed that conversion from negative to positive and reversion from positive to negative are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.517822265625,
+        527.4268188476562,
+        744.23681640625
+      ],
+      "text": "(72) more commonly identified with IGRA than with TST  . Thus, clinical judgement must still be used",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.9937133789062,
+        253.470703125,
+        757.4367065429688
+      ],
+      "text": "to interpret the results of serial TBI tests.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 19",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

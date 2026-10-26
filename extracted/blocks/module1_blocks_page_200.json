@@ -1,0 +1,630 @@
+{
+  "file": "module1",
+  "page": 200,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "182",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        73.19940185546875,
+        162.9922637939453,
+        84.81840515136719
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        88.40829467773438,
+        778.7760009765625,
+        99.92829895019531
+      ],
+      "text": "The framework to monitor and evaluate the programmatic management of LTBI applies for the introduction of new regimens such as 1HP. Rifapentine has been generally well-tolerated and its",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        99.40829467773438,
+        778.109375,
+        110.92829895019531
+      ],
+      "text": "use may be less problematic than rifampicin in the presence of concurrent medication like dolutegravir. The 1HP regimen has shown a good safety profile in this trial. The 3-month, weekly, HP",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        110.40826416015625,
+        374.92071533203125,
+        121.92826843261719
+      ],
+      "text": "regimen has been recommended by WHO for both low and high incidence settings.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        124.24298095703125,
+        761.9302368164062,
+        135.7629852294922
+      ],
+      "text": "As individuals who receive LTBI treatment do not have active disease, their risk for adverse events during treatment must be minimized. Individuals receiving treatment for LTBI should be",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        135.24295043945312,
+        757.544921875,
+        146.76295471191406
+      ],
+      "text": "monitored routinely at monthly visits to health care providers, who should explain the disease process and the rationale of the treatment and emphasize the importance of completing it.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        146.24301147460938,
+        777.8824462890625,
+        157.7630157470703
+      ],
+      "text": "Patients receiving treatment should be advised to contact their health care provider at any time if they become aware of symptoms such as anorexia, nausea, vomiting, abdominal discomfort,",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        157.24298095703125,
+        765.8196411132812,
+        168.7629852294922
+      ],
+      "text": "persistent fatigue or weakness, dark-coloured urine, pale stools or jaundice. If a health care provider cannot be consulted at the onset of such symptoms, the patient should stop treatment",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        168.24295043945312,
+        109.32080078125,
+        179.76295471191406
+      ],
+      "text": "immediately.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        182.07757568359375,
+        747.7559204101562,
+        193.5975799560547
+      ],
+      "text": "Adverse reactions that have been associated with isoniazid (asymptomatic elevation of serum liver enzyme concentrations, peripheral neuropathy and hepatotoxicity) and rifapentine",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        193.07754516601562,
+        769.7518310546875,
+        204.59754943847656
+      ],
+      "text": "(cutaneous reactions, hypersensitivity reactions, gastrointestinal intolerance and hepatotoxicity) are those most likely to occur with 1HP. Monitoring should therefore focus on liver function",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        204.0775146484375,
+        782.0682373046875,
+        215.59751892089844
+      ],
+      "text": "tests, neuropathy and neutropenia. While most reactions are minor and not serious, specific attention should be paid to preventing drug-induced hepatotoxicity. There is no justification to test",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        215.07748413085938,
+        780.7249755859375,
+        226.5974884033203
+      ],
+      "text": "liver function at baseline in all people to be started on LTBI treatment, but it should be encouraged, where feasible, for individuals with the following risk factors: history of liver disease, regular",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        226.07754516601562,
+        760.61767578125,
+        237.59754943847656
+      ],
+      "text": "use of alcohol, chronic liver disease, HIV infection, age > 35 years, pregnancy or in the immediate postpartum period (within 3 months of delivery). For individuals with abnormal baseline",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        237.0775146484375,
+        767.5938110351562,
+        248.59751892089844
+      ],
+      "text": "test results, clinical judgement is required to assess if benefit of TPT outweighs the risks; they should be tested routinely at subsequent visits. Appropriate laboratory testing should also be",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        248.07748413085938,
+        769.4478149414062,
+        259.59747314453125
+      ],
+      "text": "performed for patients who become symptomatic while on treatment (e.g. liver function tests for those with symptoms of hepatotoxicity). Individuals at risk for peripheral neuropathy, such",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        259.07745361328125,
+        763.9229736328125,
+        270.5974426269531
+      ],
+      "text": "as those with malnutrition, chronic alcohol dependence, HIV infection, renal failure or diabetes, or who are pregnant or breastfeeding, should receive vitamin B6 supplements when taking",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        270.0775146484375,
+        176.31051635742188,
+        281.5975036621094
+      ],
+      "text": "isoniazid-containing regimens.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        283.91204833984375,
+        762.5440673828125,
+        295.4320373535156
+      ],
+      "text": "Monitoring for adherence to the full course of LTBI treatment and its completion are important determinants of clinical benefit to individuals and to the success of programmes. The short",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        294.912109375,
+        777.7799072265625,
+        306.4320983886719
+      ],
+      "text": "duration of the 1HP makes it more likely to be completed. Interventions to enhance adherence and completion of treatment should be tailored to the specific needs of risk groups and the local",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        305.9120788574219,
+        772.4711303710938,
+        317.43206787109375
+      ],
+      "text": "context. Concerns about adherence should not be a barrier to use of preventive treatment. The 2017 WHO guidelines for the treatment of drug-susceptible TB propose several interventions",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        316.91204833984375,
+        745.5529174804688,
+        328.4320373535156
+      ],
+      "text": "to support adherence in patients with active TB, which could be applied to treatment of LTBI. An electronic application for mobile phones has been created by WHO to guide national",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        327.9120178222656,
+        488.1893005371094,
+        339.4320068359375
+      ],
+      "text": "programmes on critical data to collect along the LTBI care pathway, as an accessory to monitoring and evaluation.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        341.7467346191406,
+        751.5201416015625,
+        353.2667236328125
+      ],
+      "text": "It would be helpful to collect information about the occurrence of active TB in people who have received 1HP or other LTBI treatment. This can be done by asking patients registered for",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        352.7467346191406,
+        754.5996704101562,
+        364.2667236328125
+      ],
+      "text": "treatment about any history of starting or completing LTBI treatment or the cross linkage of registers (e.g. LTBI registers and TB treatment registers or mortality register). In people who",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        363.7467956542969,
+        765.4183959960938,
+        375.26678466796875
+      ],
+      "text": "develop TB after 1HP treatment, or people found to have active TB well into their LTBI treatment, it would be helpful to monitor also for emergence of resistance to isoniazid and rifamycins.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        377.5813293457031,
+        779.068359375,
+        389.101318359375
+      ],
+      "text": "In view of the decreased use of CD4 counts either at HIV diagnosis or for monitoring, there is a potential risk that PLHIV with very low immunity and who are at high risk of developing TB may",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        388.5813903808594,
+        362.7995910644531,
+        400.10137939453125
+      ],
+      "text": "have completed their 1HP well before the detection of a compromised immunity.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        403.77239990234375,
+        134.03298950195312,
+        415.39141845703125
+      ],
+      "text": "Research priorities",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        418.9812927246094,
+        586.2701416015625,
+        430.50128173828125
+      ],
+      "text": "Comparison of safety and effectiveness of 1HP with future trials and other studies performed under different conditions and populations",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        419.08929443359375,
+        68.19889831542969,
+        430.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        429.9812927246094,
+        765.579345703125,
+        441.50128173828125
+      ],
+      "text": "More evidence on the performance of 1HP in populations who have not been studied or with limited data: children with HIV <13y; PLHIV with low CD4; children and adults without HIV;",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        430.08929443359375,
+        68.19889831542969,
+        441.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        72.03150177001953,
+        440.9812927246094,
+        136.22311401367188,
+        452.50128173828125
+      ],
+      "text": "pregnant women",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        451.9812927246094,
+        771.0586547851562,
+        463.50128173828125
+      ],
+      "text": "Durability of effect after completion of 1HP in PLHIV and uninfected persons in areas with different intensity of TB transmission and any influence of repeated treatment courses with 1HP",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        452.08929443359375,
+        68.19889831542969,
+        463.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        462.9812927246094,
+        352.84820556640625,
+        474.50128173828125
+      ],
+      "text": "Comparison of safety, effectiveness, and cost-effectiveness of 1HP vs. 3HP",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        463.08929443359375,
+        68.19889831542969,
+        474.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        473.9812927246094,
+        370.84564208984375,
+        485.50128173828125
+      ],
+      "text": "Generation of resistance when 1HP and other LTBI regimens are used in an area",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        474.08929443359375,
+        68.19889831542969,
+        485.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        484.9812927246094,
+        356.28887939453125,
+        496.50128173828125
+      ],
+      "text": "Pharmacokinetics of rifapentine with other medicines in adults and children",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        485.08929443359375,
+        68.19889831542969,
+        496.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        495.9812927246094,
+        688.7530517578125,
+        507.50128173828125
+      ],
+      "text": "Dosage of 1HP in children (with pharmacokinetics, pharmacodynamics and modelling data), preferably to assess if flat dosing (regardless of weight band) is feasible",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        496.08929443359375,
+        68.19889831542969,
+        507.7442932128906
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        506.9812927246094,
+        612.615966796875,
+        518.5012817382812
+      ],
+      "text": "Implementation research on context-specific barriers and facilitators for 1HP at programme level (acceptability, feasibility, equity, resource use)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        507.08929443359375,
+        68.19889831542969,
+        518.7443237304688
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        517.9813232421875,
+        298.60162353515625,
+        529.5012817382812
+      ],
+      "text": "Cost effectiveness of the regimen under different conditions",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        518.0892944335938,
+        68.19889831542969,
+        529.7443237304688
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    }
+  ]
+}

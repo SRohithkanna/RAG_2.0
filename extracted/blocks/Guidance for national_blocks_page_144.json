@@ -1,0 +1,510 @@
+{
+  "file": "Guidance for national",
+  "page": 144,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.9801025390625,
+        83.68360900878906,
+        324.29547119140625,
+        100.53961181640625
+      ],
+      "text": "A  5",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        282.08209228515625,
+        87.69041442871094,
+        311.0116882324219,
+        99.48960876464844
+      ],
+      "text": "nnex",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.6500015258789,
+        110.24749755859375,
+        511.96978759765625,
+        139.14349365234375
+      ],
+      "text": "I  TB",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        99.0260009765625,
+        117.11629486083984,
+        466.84320068359375,
+        137.34349060058594
+      ],
+      "text": "nterim guidelines for treatment of",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        293.8214111328125,
+        137.8475341796875,
+        497.65240478515625,
+        166.7435302734375
+      ],
+      "text": "(  25  )",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.96720123291016,
+        144.71633911132812,
+        480.60601806640625,
+        164.9435272216797
+      ],
+      "text": "in young children less than kg",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        399.7334899902344,
+        165.4476318359375,
+        456.1815185546875,
+        194.3436279296875
+      ],
+      "text": "FDC",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        128.4698028564453,
+        172.31643676757812,
+        466.80609130859375,
+        192.5436248779297
+      ],
+      "text": "using currently available s",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        129.3843994140625,
+        193.04754638671875,
+        332.30426025390625,
+        221.94354248046875
+      ],
+      "text": "(RHZ 60/30/150)",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        332.6632080078125,
+        199.91635131835938,
+        465.85028076171875,
+        220.14353942871094
+      ],
+      "text": "and dosages",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        193.70680236816406,
+        227.51644897460938,
+        401.5341796875,
+        247.74363708496094
+      ],
+      "text": "achieved per weight",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        269.067138671875,
+        513.3916015625,
+        282.41864013671875
+      ],
+      "text": "To allow the currently available fixed-dose combinations (FDCs) to be used to achieve",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        285.06365966796875,
+        513.448974609375,
+        298.4151611328125
+      ],
+      "text": "the desirable doses of anti-TB drugs for children, WHO has compiled the dosing charts",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        301.0601806640625,
+        380.7044677734375,
+        314.41168212890625
+      ],
+      "text": "in this annex as an interim measure, based on the following:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        325.5710144042969,
+        513.440673828125,
+        338.9225158691406
+      ],
+      "text": "Quality-assured dispersible tablets should be used wherever possible, especially for",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        329.242919921875,
+        91.36740112304688,
+        337.242919921875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        341.5675048828125,
+        312.9955749511719,
+        354.91900634765625
+      ],
+      "text": "children who cannot swallow solid tablets.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        363.5710144042969,
+        513.3717041015625,
+        376.9225158691406
+      ],
+      "text": "Regimens are based on FDCs, but in some cases may also require administration of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        367.242919921875,
+        91.36740112304688,
+        375.242919921875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        379.5675048828125,
+        242.0634765625,
+        392.91900634765625
+      ],
+      "text": "single-component products.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        401.5710144042969,
+        513.4520874023438,
+        414.9225158691406
+      ],
+      "text": "These doses are for once a day dosing regimens and, wherever possible, avoid the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        405.242919921875,
+        91.36740112304688,
+        413.242919921875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        417.5675048828125,
+        227.5619659423828,
+        430.91900634765625
+      ],
+      "text": "need for splitting tablets.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        439.5710144042969,
+        513.39453125,
+        452.9225158691406
+      ],
+      "text": "The recommended doses are generally below the upper limit of the dose ranges to",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        443.242919921875,
+        91.36740112304688,
+        451.242919921875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        455.5675048828125,
+        221.9844970703125,
+        468.91900634765625
+      ],
+      "text": "minimize risk of toxicity.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        477.5670166015625,
+        513.440673828125,
+        490.91851806640625
+      ],
+      "text": "These guidelines replace the interim recommendations published by WHO in 2009:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        493.4945068359375,
+        513.4750366210938,
+        506.9150085449219
+      ],
+      "text": "Dosing instructions for the use of currently available fixed-dose combination TB",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        509.4909973144531,
+        196.21298217773438,
+        522.9114990234375
+      ],
+      "text": "medicines for children.",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        534.0664672851562,
+        513.383056640625,
+        547.41796875
+      ],
+      "text": "Once children achieve a body weight of 25 kg, adult dosage recommendations can be",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        550.06298828125,
+        271.4459533691406,
+        563.4144897460938
+      ],
+      "text": "followed and adult preparations used.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        115.76739501953125,
+        621.9857177734375,
+        455.51739501953125,
+        635.2957153320312
+      ],
+      "text": "4-6 kg 1 1 1",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        111.89739990234375,
+        637.2656860351562,
+        455.50738525390625,
+        650.57568359375
+      ],
+      "text": "7 10 kg 2 2 2 -",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        109.47738647460938,
+        652.5457153320312,
+        455.49737548828125,
+        665.855712890625
+      ],
+      "text": "11 14 kg 3 2 3 -",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        109.09738159179688,
+        667.8257446289062,
+        455.48736572265625,
+        681.1357421875
+      ],
+      "text": "15 19 kg 4 3 4 -",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        109.08737182617188,
+        683.105712890625,
+        455.47735595703125,
+        696.4157104492188
+      ],
+      "text": "20 24 kg  5 4 5 -",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        553.0839233398438,
+        805.8439331054688,
+        586.4439086914062,
+        835.8439331054688
+      ],
+      "text": "125",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

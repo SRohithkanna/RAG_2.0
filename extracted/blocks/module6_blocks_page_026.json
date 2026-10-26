@@ -1,0 +1,582 @@
+{
+  "file": "module6",
+  "page": 26,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.38239288330078,
+        524.4090576171875,
+        87.82539367675781
+      ],
+      "text": "screening among people living with HIV, as part of the  Guidelines for intensified tuberculosis case-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        527.4215698242188,
+        101.82539367675781
+      ],
+      "text": ",  finding and isoniazid preventive therapy for people living with HIV in resource-constrained settings",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.3871459960938,
+        115.82539367675781
+      ],
+      "text": "published in 2011  . WHO recommendations on TB screening among people living with HIV  (33)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4178466796875,
+        129.8253936767578
+      ],
+      "text": "using CRP, CXR, with the possibility to read the CXR using CAD, and mWRDs were first published in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.445556640625,
+        143.8253936767578
+      ],
+      "text": "the 2021  WHO consolidated guidelines on tuberculosis. Module 2: screening – systematic screening for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.3865966796875,
+        157.8253936767578
+      ],
+      "text": ". Therefore, there are now four recommended approaches to TB screening  tuberculosis disease (12)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.443115234375,
+        171.8253936767578
+      ],
+      "text": "among people living with HIV, namely the W4SS, CRP, CXR (with the possibility of CAD for reading)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        133.48910522460938,
+        185.8253936767578
+      ],
+      "text": "and mWRDs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.056396484375,
+        354.8602600097656,
+        214.6313934326172
+      ],
+      "text": "2.1.2\t Summary of evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.4222412109375,
+        241.8253936767578
+      ],
+      "text": "A systematic literature review and individual participant data (IPD) meta-analysis was conducted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.3927001953125,
+        255.8253936767578
+      ],
+      "text": "in 2020 to review the accuracy of tools for TB screening among adults and adolescents with HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.425537109375,
+        269.8254089355469
+      ],
+      "text": "including the W4SS, CRP, CXR and mWRDs. Data were analyzed for all study participants, as well",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4199829101562,
+        283.8254089355469
+      ],
+      "text": "as for five different subpopulations (inpatients, outpatients on ART, outpatients not on ART, people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4190063476562,
+        297.8254089355469
+      ],
+      "text": "with CD4 count ≤ 200 cells/µl, and pregnant women living with HIV) where disaggregated data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4146118164062,
+        311.8254089355469
+      ],
+      "text": "was available. Key findings are summarized below; further details are published in the TB screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        138.51319885253906,
+        325.8254089355469
+      ],
+      "text": "guidelines  . (12)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.2064208984375,
+        522.244384765625,
+        353.6274108886719
+      ],
+      "text": "Recommendation 1: Systematic screening for TB among people living with HIV at every visit",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.42333984375,
+        367.825439453125
+      ],
+      "text": "This recommendation, which applies to people of all ages, was first published in 2011 in WHO’s",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.4154357910156,
+        527.431884765625,
+        381.6274108886719
+      ],
+      "text": "Guidelines for intensified tuberculosis case-finding and isoniazid preventive therapy for people living",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.409912109375,
+        395.825439453125
+      ],
+      "text": ", and it remains in place. The GDG for the development  with HIV in resource-constrained settings (33)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.4013671875,
+        409.825439453125
+      ],
+      "text": "of the 2021 updated WHO guidelines on TB screening placed high value on ensuring that TB is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.392578125,
+        423.825439453125
+      ],
+      "text": "diagnosed early in this risk group, who have a high likelihood of having undetected TB and a high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        444.42919921875,
+        437.825439453125
+      ],
+      "text": "risk of poor health outcomes in the absence of early diagnosis and treatment  . (12)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.2064208984375,
+        378.83416748046875,
+        465.6274108886719
+      ],
+      "text": "Recommendation 2: WHO-recommended four symptom screen",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.40234375,
+        479.825439453125
+      ],
+      "text": "The 2020 IPD meta-analysis included 23 studies of 16 269 participants living with HIV, all of which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.3780517578125,
+        493.825439453125
+      ],
+      "text": "reviewed the accuracy of the W4SS. The studies primarily focused on pulmonary TB disease. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.3660278320312,
+        507.825439453125
+      ],
+      "text": "unweighted average TB prevalence among participants within these studies was 9.2%, ranging from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.4571533203125,
+        521.825439453125
+      ],
+      "text": "1% to 26%; and 52% of people living with HIV screened positive on the W4SS. The sensitivity of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        524.3487548828125,
+        535.825439453125
+      ],
+      "text": "W4SS among all people living with HIV was 83% (95% CI: 74–89) and specificity was 38% (95% CI: 25–",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.3867797851562,
+        549.825439453125
+      ],
+      "text": "53). Estimates of the accuracy of the W4SS in different subgroups of people living with HIV are shown",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4242553710938,
+        563.825439453125
+      ],
+      "text": "in Table 2.1. When used alone, the W4SS was found to have its lowest sensitivity among outpatients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        519.1610717773438,
+        577.825439453125
+      ],
+      "text": "on ART and among pregnant women, and it had markedly low specificity among medical inpatients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4454345703125,
+        605.8253784179688
+      ],
+      "text": "While there may be real-life limitations to the W4SS in terms of consistency that might not be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.4178466796875,
+        619.8253784179688
+      ],
+      "text": "reflected in studies, it remains the simplest non-invasive tool to implement in any setting, requiring",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4189453125,
+        633.8253784179688
+      ],
+      "text": "no infrastructure. However, the high proportion of W4SS positivity (94%) and very low specificity in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.402587890625,
+        647.8253784179688
+      ],
+      "text": "medical inpatients living with HIV in settings where TB prevalence among study participants was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4168090820312,
+        661.8253784179688
+      ],
+      "text": "> 10% gives it limited utility as a screening tool to rule in TB prior to diagnostic confirmation by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        220.8313751220703,
+        675.8253784179688
+      ],
+      "text": "mWRD in this very ill population.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.41357421875,
+        703.8253784179688
+      ],
+      "text": "The IPD meta-analysis found no alternative screening tools or strategies that were significantly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4190673828125,
+        717.8253784179688
+      ],
+      "text": "higher in both sensitivity and specificity than the W4SS or that met the WHO target product profile",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.4278564453125,
+        731.8253784179688
+      ],
+      "text": "for a screening test on both parameters. In all cases, when sensitivity was higher and met the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.4188842773438,
+        745.8253784179688
+      ],
+      "text": "minimal requirements of the target product profile, specificity was compromised, and vice versa.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.3823852539062,
+        527.4168701171875,
+        759.8253784179688
+      ],
+      "text": "Depending on a programme’s decision to prioritize higher sensitivity or higher specificity, other tools",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        370.4357604980469,
+        773.8253784179688
+      ],
+      "text": "or combinations of tools may be used to complement the W4SS.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        46.98609924316406,
+        811.763916015625
+      ],
+      "text": "8",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

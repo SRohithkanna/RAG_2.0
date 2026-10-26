@@ -1,0 +1,630 @@
+{
+  "file": "module4",
+  "page": 143,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        495.0447692871094,
+        81.63569641113281
+      ],
+      "text": "PICO question 8–2019 (MDR/RR-TB, 2019) (use of bedaquiline longer than 6 months)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09461212158203,
+        527.37841796875,
+        103.53761291503906
+      ],
+      "text": "Regarding PICO question 8–2019 (MDR/RR-TB, 2019), the analysis yielded aORs of 1.5 (95% CI: 0.7–2.7)",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4266357421875,
+        116.73762512207031
+      ],
+      "text": "for treatment success versus failure, 0.8 (95% CI: 0.2–0.4) for treatment success versus death, 1.0",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.2235717773438,
+        129.93763732910156
+      ],
+      "text": "(95% CI: 0.5–1.7) for treatment success versus failure or death, and 0.8 (95% CI: 0.5–1.2) for treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.981134414672852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4325561523438,
+        143.13758850097656
+      ],
+      "text": "success versus all unfavourable outcomes. The evidence reviewers had planned to use two analytical",
+      "font": "SegoeUI-Light",
+      "size": 10.999899864196777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.1948852539062,
+        156.3376007080078
+      ],
+      "text": "approaches designed to minimize bias; that is, marginal structural models to account for time-varying",
+      "font": "SegoeUI-Light",
+      "size": 10.974821090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.58056640625,
+        169.53773498535156
+      ],
+      "text": "confounders, and for exact and propensity score matching of patient characteristics. However, sample",
+      "font": "SegoeUI-Light",
+      "size": 10.97692584991455,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4486694335938,
+        182.73768615722656
+      ],
+      "text": "size meant that there were limitations in how the first approach could be applied; also, owing to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4301147460938,
+        195.9376983642578
+      ],
+      "text": "limitations with the dataset, biostatisticians advised that it was not possible to adjust for confounders",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.074462890625,
+        209.13771057128906
+      ],
+      "text": "according to the original data analysis plan. The GDG 2019 noted that the population included in the",
+      "font": "SegoeUI-Light",
+      "size": 10.99544906616211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.399169921875,
+        222.3376007080078
+      ],
+      "text": "studies that were assessed was highly selected, with the potential for confounding by indication (i.e.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.3883056640625,
+        235.53773498535156
+      ],
+      "text": "the people who received bedaquiline for >6 months were likely to have done so because of clinical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.4068603515625,
+        248.73768615722656
+      ],
+      "text": "factors that indicated prolonged treatment with bedaquiline). The GDG concluded that there was a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.4947052001953,
+        527.427734375,
+        261.9377136230469
+      ],
+      "text": "high likelihood of residual confounding in the data, and that the patient population addressed in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.385986328125,
+        275.1377258300781
+      ],
+      "text": "study did not permit extrapolation to routine use in all MDR/RR-TB patients. This precluded a formal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.5995483398438,
+        288.3376159667969
+      ],
+      "text": "recommendation on the efficacy or effectiveness of bedaquiline use beyond 6 months duration;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.3848266601562,
+        301.5377502441406
+      ],
+      "text": "however, the GDG 2019 concluded that a statement on safety could be made. This information is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.06439971923828,
+        300.1846923828125,
+        279.5303649902344,
+        314.5396728515625
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.1846923828125,
+        437.5550842285156,
+        314.7377014160156
+      ],
+      "text": "Table 3.1 included in  and in a table note for  .",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.88861083984375,
+        527.436279296875,
+        336.4416198730469
+      ],
+      "text": "AEs Regarding  , among the 750 patients receiving bedaquiline without concomitant delamanid in",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.4189453125,
+        349.6416320800781
+      ],
+      "text": "the endTB observational study (total exposure of 6316 person-months), 26 patients experienced a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.400390625,
+        362.8416442871094
+      ],
+      "text": "drug-related AE (rate: 0.44 per 100 person-months of exposure), with 16 patients having this event",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        527.4422607421875,
+        376.0416259765625
+      ],
+      "text": "classified as a serious AE (rate: 0.25 per 100 person-months of exposure). In the first 203 days of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.4234008789062,
+        389.24163818359375
+      ],
+      "text": "exposure to bedaquiline (total exposure of 4304 person-months), 20 of the 26 drug-related AEs and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.3794555664062,
+        402.4416198730469
+      ],
+      "text": "15 of the 16 serious AEs occurred; the remaining six of the 26 drug-related AEs and one of the 16",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        527.4288330078125,
+        415.6416320800781
+      ],
+      "text": "serious AEs occurred subsequently. All patients who received bedaquiline for more than 203 days",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        527.395751953125,
+        428.8416442871094
+      ],
+      "text": "did not experience a drug-related AE (of any grade) in the first 203 days of treatment. Also, rates of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.5986022949219,
+        527.5482788085938,
+        442.0416259765625
+      ],
+      "text": "treatment drug-related AEs appeared to be lower after the first 203 days – at 0.51 in the first 203 days",
+      "font": "SegoeUI-Light",
+      "size": 10.977726936340332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.7986145019531,
+        527.4003295898438,
+        455.24163818359375
+      ],
+      "text": "versus 0.30 in the subsequent days per 100 person-months. Similarly, rates of drug-related serious",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.99859619140625,
+        527.4511108398438,
+        468.4416198730469
+      ],
+      "text": "AEs appeared to be lower after the first 203 days – at 0.35 in the first 203 days versus 0.05 in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.1986083984375,
+        265.1371154785156,
+        481.6416320800781
+      ],
+      "text": "subsequent days per 100 person-months.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.9026184082031,
+        527.4389038085938,
+        503.34564208984375
+      ],
+      "text": "QTcF values among people receiving bedaquiline increased by an average of 22 ms (from 397 ms to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.10260009765625,
+        527.4410400390625,
+        516.5455932617188
+      ],
+      "text": "419 ms) from those taken before or at the time of first receipt of bedaquiline to the end of the first",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.302490234375,
+        527.4354858398438,
+        529.7454833984375
+      ],
+      "text": "month. In subsequent months of exposure, the mean QTcF values were all lower than at the end of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.5025634765625,
+        527.4288940429688,
+        542.945556640625
+      ],
+      "text": "the first month (range: 404–419 ms). Increases in QTcF of more than 60 ms from baseline occurred",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.7025146484375,
+        527.4213256835938,
+        556.1455078125
+      ],
+      "text": "in about 12% of patients. QTcF prolongation of more than 500 ms was rare, occurring in 0.4–1.5% of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.902587890625,
+        527.384765625,
+        569.3455810546875
+      ],
+      "text": "patients during each of the first 9 months, but not thereafter. The greatest number of occurrences of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.1026000976562,
+        527.3684692382812,
+        582.5455932617188
+      ],
+      "text": "QTcF of more than 500 ms happened among people receiving bedaquiline and clofazimine; however,",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.302490234375,
+        380.5700378417969,
+        595.7454833984375
+      ],
+      "text": "this was also the most common combination of medicines received.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.0064697265625,
+        527.3597412109375,
+        617.449462890625
+      ],
+      "text": "Drug-related cardiac AEs occurred in 22 people; of these, 15 were among people receiving bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 10.946972846984863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.20654296875,
+        527.2945556640625,
+        630.6495361328125
+      ],
+      "text": "with clofazimine, but no moxifloxacin or delamanid (rate: 0.3 per 100 person-months), five were among",
+      "font": "SegoeUI-Light",
+      "size": 10.947775840759277,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.406494140625,
+        527.3912963867188,
+        643.8494873046875
+      ],
+      "text": "people receiving bedaquiline with clofazimine and moxifloxacin, but no delamanid (rate: 0.3 per 100",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.6065063476562,
+        527.4310913085938,
+        657.0494995117188
+      ],
+      "text": "person-months), and two were among people receiving bedaquiline and delamanid, regardless of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.8065185546875,
+        527.4387817382812,
+        670.24951171875
+      ],
+      "text": "clofazimine and moxifloxacin use (rate: 0.2 per 100 person-months). No events occurred among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.0064697265625,
+        433.8683166503906,
+        683.449462890625
+      ],
+      "text": "people receiving bedaquiline without clofazimine, moxifloxacin and delamanid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.6004028320312,
+        527.3583984375,
+        705.1533813476562
+      ],
+      "text": "bedaquiline exposure during pregnancy Regarding , the findings of the cohort study demonstrated",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.967652320861816,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.9105224609375,
+        527.4124755859375,
+        718.353515625
+      ],
+      "text": "no statistically significant differences in birth or pregnancy outcomes when comparing infants who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.8344116210938,
+        527.4219360351562,
+        731.5534057617188
+      ],
+      "text": "P had intrauterine bedaquiline exposure with those who did not have this exposure ( =0.741 for birth",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.034423828125,
+        527.407470703125,
+        744.75341796875
+      ],
+      "text": "P (61) outcomes and  =0.312 for pregnancy outcomes)  . There were 45 live births (92% of total) in the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.5103759765625,
+        527.415771484375,
+        757.953369140625
+      ],
+      "text": "bedaquiline exposed group compared with 54 live births (90% of total) in the unexposed group. In",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        756.7103881835938,
+        527.4201049804688,
+        771.1533813476562
+      ],
+      "text": "addition, there were four fetal and neonatal deaths in the infants exposed to bedaquiline (8% of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  129",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

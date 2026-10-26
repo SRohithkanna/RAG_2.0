@@ -1,0 +1,426 @@
+{
+  "file": "module6",
+  "page": 72,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        114.64139556884766,
+        522.108642578125,
+        147.14138793945312
+      ],
+      "text": "Annex 1. Current methodology for WHO",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.64138793945312,
+        325.088623046875,
+        175.14138793945312
+      ],
+      "text": "guideline development",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.3905029296875,
+        227.8253936767578
+      ],
+      "text": "The formulation of WHO recommendations is based on the Grading of Recommendations Assessment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.4223022460938,
+        241.8253936767578
+      ],
+      "text": "Development and Evaluation (GRADE) approach. Once evidence has been synthesized through a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.4244384765625,
+        255.8253936767578
+      ],
+      "text": "systematic review approach, evidence reviewers use the GRADE methodology to categorize the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.4373779296875,
+        269.8254089355469
+      ],
+      "text": "quality of the evidence into four levels: high, moderate, low or very low (see Table A1.1). The starting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4069213867188,
+        283.8254089355469
+      ],
+      "text": "point for rating the quality of evidence is always the study design, whereby evidence from RCTs is rated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.41552734375,
+        297.8254089355469
+      ],
+      "text": "as high quality, while evidence from non-randomized or observational studies is rated as low quality.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.3892211914062,
+        311.8254089355469
+      ],
+      "text": "This value is then adjusted based on additional considerations. Five factors may lower the quality of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.4002685546875,
+        325.8254089355469
+      ],
+      "text": "evidence, namely: limitations in study design and execution, indirectness, imprecision, inconsistency",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.4124755859375,
+        339.825439453125
+      ],
+      "text": "and publication bias. Three factors may increase the quality of evidence from observational studies:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        449.0429992675781,
+        353.825439453125
+      ],
+      "text": "dose-response gradient, direction of plausible bias and magnitude of the effect  . (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.4523010253906,
+        301.8512268066406,
+        375.3203125
+      ],
+      "text": "Table A1.1 Quality of evidence in GRADE  (1)",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        378.8399353027344,
+        337.3523864746094,
+        392.0299377441406
+      ],
+      "text": "Quality level Definition and rationale",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        400.7594299316406,
+        513.66259765625,
+        412.6664123535156
+      ],
+      "text": "High We are very confident that the true effect lies close to that of the estimate of",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.10240173339844,
+        410.5619201660156,
+        264.7923889160156,
+        422.37890625
+      ],
+      "text": "the effect.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        434.0320129394531,
+        503.35491943359375,
+        445.9389953613281
+      ],
+      "text": "Moderate We are moderately confident in the effect estimate: the true effect is likely",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.10240173339844,
+        443.83453369140625,
+        499.04571533203125,
+        455.6515197753906
+      ],
+      "text": "to be close to the estimate of the effect, but there is a possibility that it is",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        225.10240173339844,
+        453.5470275878906,
+        306.299560546875,
+        465.364013671875
+      ],
+      "text": "substantially different.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        477.0171203613281,
+        489.7568054199219,
+        488.9241027832031
+      ],
+      "text": "Low Our confidence in the effect estimate is limited: the true effect may be",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.10240173339844,
+        486.8196105957031,
+        422.5086975097656,
+        498.6365966796875
+      ],
+      "text": "substantially different from the estimate of the effect.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        510.2897644042969,
+        517.0366821289062,
+        522.19677734375
+      ],
+      "text": "Very low We have very little confidence in the effect estimate: the true effect is likely to",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.10240173339844,
+        520.0922241210938,
+        422.5257873535156,
+        531.9092407226562
+      ],
+      "text": "be substantially different from the estimate of effect.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4244995117188,
+        563.825439453125
+      ],
+      "text": "A recommendation may be strong or conditional (see Table A1.2), reflecting the degree to which the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.4178466796875,
+        577.825439453125
+      ],
+      "text": "GDG is confident in the balance between desirable and undesirable consequences of implementing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.442138671875,
+        591.8253784179688
+      ],
+      "text": "the recommendation. The strength of a recommendation is primarily determined by four main",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4243774414062,
+        605.8253784179688
+      ],
+      "text": "factors, namely: the confidence in the estimates of effect of the evidence (that is, the quality of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.43994140625,
+        619.8253784179688
+      ],
+      "text": "the evidence as assessed through GRADE); the values and preferences related to the outcomes of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4188842773438,
+        633.8253784179688
+      ],
+      "text": "an intervention or exposure; the balance of benefits and harms; and resource implications. Other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.4387817382812,
+        647.8253784179688
+      ],
+      "text": "considerations that may affect the strength of a recommendation include priority of the problem,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        315.0079040527344,
+        661.8253784179688
+      ],
+      "text": "equity and human rights, acceptability and feasibility.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "54",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

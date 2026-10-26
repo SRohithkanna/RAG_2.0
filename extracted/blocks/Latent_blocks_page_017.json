@@ -1,0 +1,510 @@
+{
+  "file": "Latent",
+  "page": 17,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        238.44613647460938,
+        82.56494140625
+      ],
+      "text": "1.\t Introduction",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.309814453125,
+        170.6358642578125,
+        184.0928192138672
+      ],
+      "text": "1.1\t Background",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.02813720703125,
+        526.6203002929688,
+        202.828125
+      ],
+      "text": "Latent tuberculosis infection (LTBI) is defined as a state of persistent immune response to stimulation by",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.02813720703125,
+        526.67822265625,
+        216.828125
+      ],
+      "text": "antigens with no evidence of clinically manifest active TB  . As there is no “gold  Mycobacterium tuberculosis (1)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        218.02813720703125,
+        526.6113891601562,
+        230.828125
+      ],
+      "text": "standard” test for LTBI, the global burden is not known with certainty; however, up to one third of the world’s",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        232.02813720703125,
+        526.7022705078125,
+        244.828125
+      ],
+      "text": "population is estimated to be infected with  , and the vast majority have no signs or  M. tuberculosis (2–4)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        246.02813720703125,
+        526.6653442382812,
+        258.828125
+      ],
+      "text": "symptoms of TB disease and are not infectious, although they are at risk for active TB disease and for becoming",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        260.02813720703125,
+        526.7301635742188,
+        272.828125
+      ],
+      "text": "infectious. Several studies have shown that, on average, 5–10% of those infected will develop active TB disease",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        274.02813720703125,
+        526.653076171875,
+        286.828125
+      ],
+      "text": "over the course of their lives, usually within the first 5 years after initial infection  . The risk for active TB  (5)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        288.02813720703125,
+        494.92608642578125,
+        300.828125
+      ],
+      "text": "disease after infection depends on several factors, the most important being immunological status  . (1)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        307.6981201171875,
+        526.6660766601562,
+        320.49810791015625
+      ],
+      "text": "Prevention of active TB disease by treatment of LTBI is a critical component of the WHO End TB Strategy  .  (6)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        321.6981201171875,
+        526.6800537109375,
+        334.49810791015625
+      ],
+      "text": "The efficacy of currently available treatments ranges from 60% to 90%  . The potential benefit of treatment  (1)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        335.6981201171875,
+        524.4113159179688,
+        348.49810791015625
+      ],
+      "text": "should, however, be carefully balanced against the risk for drug-related adverse events. Mass, population-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        349.6981201171875,
+        526.6812133789062,
+        362.49810791015625
+      ],
+      "text": "wide LTBI testing and treatment are not feasible because the tests are imperfect, there are risks of serious and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        363.6981201171875,
+        526.6241455078125,
+        376.49810791015625
+      ],
+      "text": "fatal side-effects, and the cost would be high, for an unproven public health impact. For infected individuals in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        377.6981201171875,
+        526.6050415039062,
+        390.49810791015625
+      ],
+      "text": "population groups in which the risk for progression to active disease significantly exceeds that of the general",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        391.6981201171875,
+        526.6984252929688,
+        404.49810791015625
+      ],
+      "text": "population, however, the benefits are greater than the harm. Management of LTBI involves a comprehensive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        405.6981201171875,
+        526.709228515625,
+        418.49810791015625
+      ],
+      "text": "package of interventions: identifying and testing those individuals who should be tested, delivering effective,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        419.6981201171875,
+        526.6980590820312,
+        432.49810791015625
+      ],
+      "text": "safe treatment in such a way that the majority of those starting a treatment regimen will complete it with no or",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        433.6981201171875,
+        393.6312255859375,
+        446.49810791015625
+      ],
+      "text": "minimal risk of adverse events, and monitoring and evaluation of the process.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.65631103515625,
+        156.7960968017578,
+        478.4393310546875
+      ],
+      "text": "1.2\t Rationale",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.3746337890625,
+        526.649169921875,
+        497.17462158203125
+      ],
+      "text": "Current WHO guidelines on LTBI are based on the probability that the condition will progress to active TB",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.3746337890625,
+        526.6802368164062,
+        511.17462158203125
+      ],
+      "text": "disease in specific risk groups, on the underlying epidemiology and burden of TB, the availability of resources",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.3746337890625,
+        526.6934814453125,
+        525.1746215820312
+      ],
+      "text": "and the likelihood of a broader public health impact. Therefore, management of LTBI is recommended for people",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        526.3746337890625,
+        524.395263671875,
+        539.1746215820312
+      ],
+      "text": "living with HIV   and for children under 5 years who are household contacts of people with pulmonary TB  (7) (8)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        540.3746337890625,
+        526.6221313476562,
+        553.484619140625
+      ],
+      "text": "in all settings including those with a high TB incidence (estimated annual TB incidence rate,   100 per 100 000  ≥",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        554.3746337890625,
+        526.71728515625,
+        567.1746215820312
+      ],
+      "text": "population) and for adult contacts of people with TB and other clinical risk groups living in settings with a low",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        568.3746337890625,
+        526.6712036132812,
+        581.1746215820312
+      ],
+      "text": "TB incidence (estimated annual TB incidence rate < 100 per 100 000 population)  . The cut-off point  (9–11)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        582.3746337890625,
+        526.6173706054688,
+        595.1746215820312
+      ],
+      "text": "for defining a country as having a low or a high TB incidence was set by consensus by the previous Guideline",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        596.3746337890625,
+        526.6444091796875,
+        609.1746215820312
+      ],
+      "text": "Development Group (GDG)  . Although their recommendations led to a significant increase in preventive  (9, 10)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        610.3746337890625,
+        526.7272338867188,
+        623.1746215820312
+      ],
+      "text": "treatment of TB, particularly among people living with HIV, global coverage of the intervention is still very",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        624.3746337890625,
+        526.6873168945312,
+        637.1746215820312
+      ],
+      "text": "low  . Furthermore, the fragmented recommendations resulted in a multiplicity of guideline documents,  (12)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        638.3746337890625,
+        526.6632690429688,
+        651.1746215820312
+      ],
+      "text": "which posed challenges for smooth implementation. Therefore, several WHO Member States requested",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        652.3746337890625,
+        526.674072265625,
+        665.1746215820312
+      ],
+      "text": "consolidated guidelines on LTBI management to ensure harmonized, smooth programmatic implementation.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        666.3746337890625,
+        526.6093139648438,
+        679.1746215820312
+      ],
+      "text": "Increased interest has also been shown in programmatic management of LTBI as part of the End TB Strategy,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87612915039062,
+        680.3746337890625,
+        193.06613159179688,
+        693.1746215820312
+      ],
+      "text": "including TB elimination  .  (13)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.3334350585938,
+        138.15670776367188,
+        725.116455078125
+      ],
+      "text": "1.3\t Scope",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.0516967773438,
+        526.67919921875,
+        743.8516845703125
+      ],
+      "text": "The present consolidated guidelines include a comprehensive set of WHO recommendations for the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.0516967773438,
+        526.6661987304688,
+        757.8516845703125
+      ],
+      "text": "management of LTBI and will facilitate implementation of the End TB Strategy. They include updated",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.0516967773438,
+        526.6483764648438,
+        771.8516845703125
+      ],
+      "text": "recommendations from the 2011 WHO guidelines on intensified TB case-finding and isoniazid preventive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        547.2227172851562,
+        810.61279296875
+      ],
+      "text": "5",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        465.0736083984375,
+        796.524658203125,
+        524.4097900390625,
+        805.5686645507812
+      ],
+      "text": "1. INTRODUCTION",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

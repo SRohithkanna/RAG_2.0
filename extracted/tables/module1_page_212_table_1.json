@@ -1,0 +1,36 @@
+{
+  "file": "module1",
+  "page": 212,
+  "table_id": 1,
+  "bbox": [
+    56.92021942138672,
+    186.93204345703126,
+    784.9697099165483,
+    284.9317993164062
+  ],
+  "heading": "Should 6 months of levofloxacin vs. other regimen or no TPT be used for people in contact with MDR/RR-TB?",
+  "n_rows": 5,
+  "n_cols": 2,
+  "data": [
+    [
+      "Population:",
+      "People in contact with MDR/RR-TB"
+    ],
+    [
+      "Intervention:",
+      "6 months of levofloxacin"
+    ],
+    [
+      "Comparison:",
+      "Other regimen or no TPT"
+    ],
+    [
+      "Main outcomes:",
+      "TB incidence; death; adverse events; adverse events of any grade leading to treatment discontinuation; treatment completion; emergence of additional FQ resistance in TB strains; emergence of additional FQ resistance in microbiome other than TB (e.g. gut flora)"
+    ],
+    [
+      "Setting:",
+      "Two RCTs of 6 months of LFX in contacts of MDR-TB in South Africa (TB CHAMP) and Viet Nam (V-QUIN). We used results from a pooled analysis of data for individual study participants to express estimates of effect, rather than the Bayesian analysis, which largely mirrored the results from the frequentist approach"
+    ]
+  ]
+}

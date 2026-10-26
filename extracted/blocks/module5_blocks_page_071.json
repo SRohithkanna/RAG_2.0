@@ -1,0 +1,570 @@
+{
+  "file": "module5",
+  "page": 71,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.21469116210938,
+        527.4259033203125,
+        81.83369445800781
+      ],
+      "text": "Clinical monitoring:  The risk of emergence of bedaquiline resistance should be a key consideration",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.385986328125,
+        95.03370666503906
+      ],
+      "text": "when the drug is being used. Due to the difficulties in obtaining a suitable specimen from children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.5839233398438,
+        108.23371887207031
+      ],
+      "text": "aged below 6 years, performing DST may be challenging. However, if there are concerns about",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.395751953125,
+        121.43373107910156
+      ],
+      "text": "acquired drug resistance, every effort should be made to obtain a suitable sample, such as gastric",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        466.51202392578125,
+        134.6337432861328
+      ],
+      "text": "aspirate, sputum induction or NPA (stool is not a suitable sample for conducting DST).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.454345703125,
+        156.3376007080078
+      ],
+      "text": "In the IMPAACT P1108 study, none of the children aged below 6 years had QT prolongation in any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.44091796875,
+        169.53773498535156
+      ],
+      "text": "of the categories of 60 milliseconds and above. Almost all children also received clofazimine. Three",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4242553710938,
+        182.73768615722656
+      ],
+      "text": "children (of 11; 27%) experienced QT prolongation of 30–60 milliseconds, which was described as mild",
+      "font": "SegoeUI-Light",
+      "size": 10.966599464416504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4354248046875,
+        195.9376983642578
+      ],
+      "text": "and insignificant. In general, the use of bedaquiline in populations with underlying cardiac conduction",
+      "font": "SegoeUI-Light",
+      "size": 10.979781150817871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.3937377929688,
+        209.13771057128906
+      ],
+      "text": "abnormalities and concomitant medications that prolong QTc needs to be carefully considered. A",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.4432983398438,
+        222.3376007080078
+      ],
+      "text": "major implementation consideration includes the need for safety monitoring, as well as the need to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.4367065429688,
+        235.53773498535156
+      ],
+      "text": "build staff capacity (training, capacity building) to ensure that appropriate safety monitoring is put in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.1395263671875,
+        248.73768615722656
+      ],
+      "text": "place. Additional costs associated with wider implementation of bedaquiline (in addition to the higher",
+      "font": "SegoeUI-Light",
+      "size": 10.981735229492188,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.4947052001953,
+        527.3936767578125,
+        261.9377136230469
+      ],
+      "text": "cost of the drug), include availability of ECG machines, appropriate monitoring and trained staff to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.42236328125,
+        275.1377258300781
+      ],
+      "text": "perform these activities. However, the GDG felt that savings related to potential shorter treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.3968505859375,
+        288.3376159667969
+      ],
+      "text": "duration as well as the avoidance of additional resource requirements related to injectable use (such",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.3870849609375,
+        301.5377502441406
+      ],
+      "text": "as for monitoring with audiometry and implications for child development), outweigh the costs of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.294677734375,
+        283.93280029296875,
+        314.7377014160156
+      ],
+      "text": "bedaquiline introduction and implementation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.576416015625,
+        336.4416198730469
+      ],
+      "text": "Adaptation of the recommendation to the local context will require staff capacity building and training,",
+      "font": "SegoeUI-Light",
+      "size": 10.964943885803223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.4168090820312,
+        349.6416320800781
+      ],
+      "text": "followed by supportive supervision and mentoring. Implementing all-oral treatment regimens will",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        524.3898315429688,
+        362.8416442871094
+      ],
+      "text": "facilitate decentralization of MDR-TB treatment services and may therefore improve access to patient-",
+      "font": "SegoeUI-Light",
+      "size": 10.973769187927246,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        130.31878662109375,
+        376.0416259765625
+      ],
+      "text": "centred care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.5812072753906,
+        223.77130126953125,
+        402.4331970214844
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.64111328125,
+        527.5665283203125,
+        424.0841369628906
+      ],
+      "text": "People with TB, including children who receive a shorter or longer MDR-TB treatment regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.8412170410156,
+        527.4091796875,
+        437.28424072265625
+      ],
+      "text": "need to be monitored for response to treatment and for safety during treatment using schedules",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.0411071777344,
+        527.4069213867188,
+        450.484130859375
+      ],
+      "text": "of relevant clinical and laboratory testing. This has been successfully applied in previous studies of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.2411193847656,
+        474.9324035644531,
+        463.68414306640625
+      ],
+      "text": "shorter regimens under field conditions and in the programmatic setting in South Africa.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.151123046875,
+        527.4412841796875,
+        485.38812255859375
+      ],
+      "text": "(89) The WHO framework for active drug safety monitoring   needs to be applied to people with TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.1451110839844,
+        527.2071533203125,
+        498.588134765625
+      ],
+      "text": "on any type of MDR-TB regimen, to ensure appropriate action and an acceptable level of monitoring",
+      "font": "SegoeUI-Light",
+      "size": 10.99479866027832,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.3450927734375,
+        527.380615234375,
+        511.7881164550781
+      ],
+      "text": "for and prompt response to adverse events – alongside monitoring for treatment outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.54510498046875,
+        527.4551391601562,
+        524.9880981445312
+      ],
+      "text": "Electrocardiography is indicated for children on regimens with two or three agents that are expected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.7451171875,
+        527.578369140625,
+        538.1881103515625
+      ],
+      "text": "to prolong the QT interval. Specific biochemical tests should also be made available according to the",
+      "font": "SegoeUI-Light",
+      "size": 10.996899604797363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.945068359375,
+        219.95529174804688,
+        551.3880615234375
+      ],
+      "text": "agents included in the regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.6490478515625,
+        527.4056396484375,
+        573.092041015625
+      ],
+      "text": "In children, smear and culture monitoring of the response to treatment may be challenging, due to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.8489990234375,
+        527.5519409179688,
+        586.2919921875
+      ],
+      "text": "difficulties in obtaining appropriate specimens for testing. However, in children with a bacteriologically",
+      "font": "SegoeUI-Light",
+      "size": 10.976425170898438,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.0490112304688,
+        527.4246215820312,
+        599.4920043945312
+      ],
+      "text": "confirmed diagnosis, all reasonable efforts should be taken to demonstrate bacteriological conversion.",
+      "font": "SegoeUI-Light",
+      "size": 10.959675788879395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.2490234375,
+        527.43212890625,
+        612.6920166015625
+      ],
+      "text": "Once cultures have become negative or in children who never had a confirmed diagnosis, repeated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.448974609375,
+        527.427978515625,
+        625.8919677734375
+      ],
+      "text": "respiratory sampling may not be useful if the child is otherwise responding well clinically. Resolution",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.6489868164062,
+        527.4267578125,
+        639.0919799804688
+      ],
+      "text": "of clinical symptoms and weight gain can be used as indicators of improvement. All children should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.8489990234375,
+        527.4365234375,
+        652.2919921875
+      ],
+      "text": "have regular clinical follow-up, including weight and height monitoring. Drug dosages should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.0490112304688,
+        243.54037475585938,
+        665.4920043945312
+      ],
+      "text": "adjusted with weight gain, as needed.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.7529296875,
+        527.599365234375,
+        687.1959228515625
+      ],
+      "text": "Recording and reporting of details on the diagnosis, treatment regimens, clinical monitoring and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.952880859375,
+        527.265869140625,
+        700.3958740234375
+      ],
+      "text": "treatment outcomes of children and adolescents with MDR/RR-TB is important to monitor the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.1528930664062,
+        527.4365234375,
+        713.5958862304688
+      ],
+      "text": "programmatic implementation of newly recommended regimens as well as efforts to improve case",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        712.35302734375,
+        527.5714111328125,
+        726.7960205078125
+      ],
+      "text": "finding of children with DR-TB. Data from national programmes on the use of bedaquiline in children",
+      "font": "SegoeUI-Light",
+      "size": 10.997650146484375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.552978515625,
+        319.48260498046875,
+        739.9959716796875
+      ],
+      "text": "of all ages is important to increase the evidence base.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        344.452392578125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "5. Treatment of TB disease in children and adolescents 47",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

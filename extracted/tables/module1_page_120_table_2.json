@@ -1,0 +1,34 @@
+{
+  "file": "module1",
+  "page": 120,
+  "table_id": 2,
+  "bbox": [
+    56.69298095703125,
+    292.478036063058,
+    784.447021484375,
+    469.2778727213542
+  ],
+  "heading": "Assessment",
+  "n_rows": 3,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "Research evidence",
+      "Additional considerations"
+    ],
+    [
+      "Problem",
+      "Is the problem a priority? Globally in 2015, there were an estimated 10.4 million incident cases of TB and 1.8 million deaths from TB. Management • No of LTBI is critical in order to end the global TB epidemic, as stated in the WHO End TB Strategy. Active TB must be • Yes excluded before TPT is given. Although WHO currently recommends systematic LTBI screening and treatment of • Varies household contacts of any age in low TB incidence countries, it is recommended only for child household contacts • Don’t know < 5 years in high TB incidence countries.",
+      "",
+      ""
+    ],
+    [
+      "Balance of e f fects",
+      "Do the benefits outweigh We updated three systematic reviews conducted for the previous LTBI guidelines, focusing on household contacts. The the harms? first review addressed the prevalence of LTBI among household contacts by age group, the second the risk of progression • Yes from LTBI to active TB among household contacts and the third the cumulative prevalence of active TB among household • No contacts, irrespective of baseline LTBI status. In most of the studies, prevalent TB cases were those identified at the • They are equal baseline visit, and those identified later were counted as incident cases. The incidence of TB therefore depended on • Uncertain the timing of the baseline visit relative to the diagnosis of the index case; focusing on incident TB cases, therefore, may introduce bias. In the second and third reviews, both prevalent TB during the baseline visit and incident TB during follow- up were included in the numerator. We estimated the prevalence ratios by comparing the prevalence of LTBI among household contacts by age stratum, with children < 5 years as the reference group.",
+      "",
+      ""
+    ]
+  ]
+}

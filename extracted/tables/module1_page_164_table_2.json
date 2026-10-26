@@ -1,0 +1,126 @@
+{
+  "file": "module1",
+  "page": 164,
+  "table_id": 2,
+  "bbox": [
+    56.90723455519903,
+    219.2241543856534,
+    784.4475010463169,
+    437.2230529785156
+  ],
+  "heading": "Summary of judgements",
+  "n_rows": 10,
+  "n_cols": 9,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Implications"
+    ],
+    [
+      "Problem",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Balance of effects",
+      "No",
+      "",
+      "Equal",
+      "Yes",
+      "",
+      "",
+      "Uncertain",
+      ""
+    ],
+    [
+      "Certainty of evidence",
+      "Very low",
+      "Low",
+      "Moderate",
+      "High",
+      "",
+      "",
+      "No included studies",
+      ""
+    ],
+    [
+      "Values",
+      "Important uncertainty or variation",
+      "",
+      "",
+      "No important uncertainty or variation",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Resources required",
+      "Greater",
+      "",
+      "Neither greater nor less",
+      "",
+      "Less",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Cost–effectiveness",
+      "Favours the comparison",
+      "",
+      "Favours neither the intervention or the comparison",
+      "",
+      "Favours the intervention",
+      "Varies",
+      "No included studies",
+      ""
+    ],
+    [
+      "Equity",
+      "Reduced",
+      "",
+      "",
+      "",
+      "Increased",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Acceptability",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Feasibility",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ]
+  ]
+}

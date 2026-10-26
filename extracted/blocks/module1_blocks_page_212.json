@@ -1,0 +1,102 @@
+{
+  "file": "module1",
+  "page": 212,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "194",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.09741973876953,
+        777.5098876953125,
+        136.4346466064453
+      ],
+      "text": "PICO 9: In pregnant and postpartum women, is isoniazid preventive treatment for TB as safe as other preventive treatment regimens? WHO consolidated",
+      "font": "Whitney-Semibold",
+      "size": 12.934836387634277,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        88.6515884399414,
+        788.1696166992188,
+        103.09458923339844
+      ],
+      "text": "The Guideline Development Group noted the lack of evidence and therefore decided not to update the existing recommendation. There is therefore no Evidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        101.85160064697266,
+        135.95729064941406,
+        116.29460144042969
+      ],
+      "text": "to Decision table.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        134.00918579101562,
+        734.371337890625,
+        150.7921905517578
+      ],
+      "text": "PICO 10: Should 6 months of levofloxacin compared to other regimen or no TPT be recommended for people in contact with",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        148.00918579101562,
+        133.20452880859375,
+        164.7921905517578
+      ],
+      "text": "MDR/RR-TB?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        167.70350646972656,
+        597.6253051757812,
+        390.67559814453125
+      ],
+      "text": "Should 6 months of levofloxacin vs. other regimen or no TPT be used for people in contact with MDR/RR-TB?   on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "table"
+    }
+  ]
+}

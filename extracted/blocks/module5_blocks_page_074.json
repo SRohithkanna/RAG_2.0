@@ -1,0 +1,618 @@
+{
+  "file": "module5",
+  "page": 74,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4334106445312,
+        81.83369445800781
+      ],
+      "text": "conducted in April 2020. Just under 20 000 of these records were used for a matched analysis of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3970336914062,
+        95.03370666503906
+      ],
+      "text": "treatment outcomes in children being treated for DR-TB. The paediatric DR-TB IPD included only",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.234130859375,
+        108.23371887207031
+      ],
+      "text": "seven children aged below 3 years treated with delamanid, 14 children aged 3–6 years, and 69",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.4232788085938,
+        121.43373107910156
+      ],
+      "text": "children aged 6–12 years. All 21 children aged below 6 years were successfully treated. The number",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        301.5174560546875,
+        134.6337432861328
+      ],
+      "text": "of children was insufficient for a matched analysis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.71859741210938,
+        527.2315673828125,
+        156.3376007080078
+      ],
+      "text": "GDG considerations : The GDG noted that when the delamanid phase II trial was started, many of the",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.975071907043457,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.3990478515625,
+        169.53773498535156
+      ],
+      "text": "companion drugs in the optimized background regimen were not widely available (such as linezolid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4298095703125,
+        182.73768615722656
+      ],
+      "text": "and moxifloxacin). By the time the phase III trial started, linezolid and moxifloxacin became more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4247436523438,
+        195.9376983642578
+      ],
+      "text": "accessible, which meant that the optimized background regimens in the trial were likely more effective,",
+      "font": "SegoeUI-Light",
+      "size": 10.960077285766602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.3464965820312,
+        209.13771057128906
+      ],
+      "text": "making it more difficult to prove the added effect of a drug (i.e. delamanid) in the intervention",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.4367065429688,
+        222.3376007080078
+      ],
+      "text": "regimen. The GDG concluded that the desirable effects are small. The GDG discussion around the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.4190063476562,
+        235.53773498535156
+      ],
+      "text": "undesirable effects focused on adverse events, including those related to the central nervous system",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.3485717773438,
+        248.73768615722656
+      ],
+      "text": "and cardiac toxicities, as well as the newly reported adverse event of hallucinations which was of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.4947052001953,
+        527.4398193359375,
+        261.9377136230469
+      ],
+      "text": "some concern to GDG members given the period of dynamic brain development in children. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.3934936523438,
+        275.1377258300781
+      ],
+      "text": "GDG considered that the risks and benefits (and balance of both) are very different for treating a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.4024658203125,
+        288.3376159667969
+      ],
+      "text": "child with resistant forms of TB (i.e. MDR/RR-TB and XDR-TB) and with limited treatment options,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.3903198242188,
+        301.5377502441406
+      ],
+      "text": "compared to a healthy child at future risk of developing MDR-TB (i.e. where delamanid is used for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.294677734375,
+        527.5455932617188,
+        314.7377014160156
+      ],
+      "text": "prevention). Therefore, the GDG concluded that the balance between desirable and undesirable effects",
+      "font": "SegoeUI-Light",
+      "size": 10.950940132141113,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.49468994140625,
+        527.1316528320312,
+        327.9377136230469
+      ],
+      "text": "probably favours the intervention. The GDG further stated that with the 25 mg dispersible tablet, that",
+      "font": "SegoeUI-Light",
+      "size": 10.988544464111328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.6947021484375,
+        527.4089965820312,
+        341.1377258300781
+      ],
+      "text": "would be available in the future, the resource implications could vary. Delamanid containing longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.89471435546875,
+        527.59912109375,
+        354.3377380371094
+      ],
+      "text": "treatment regimens were thought to potentially increase equity and be acceptable to stakeholders. In",
+      "font": "SegoeUI-Light",
+      "size": 10.984539031982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.0946960449219,
+        527.2876586914062,
+        367.5377197265625
+      ],
+      "text": "addition, the GDG judged that the use of delamanid in children of all ages would probably be feasible,",
+      "font": "SegoeUI-Light",
+      "size": 10.974320411682129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.2947082519531,
+        527.413330078125,
+        380.73773193359375
+      ],
+      "text": "especially as the child-friendly formulation of delamanid was expected to become available later in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.4947204589844,
+        527.4366455078125,
+        393.937744140625
+      ],
+      "text": "2021 (this formulation is now available). This judgement also considered that adult tablets cannot be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.6947021484375,
+        524.3768310546875,
+        407.1377258300781
+      ],
+      "text": "split, crushed or dissolved to ease administration in children without potentially altering bioavailability.",
+      "font": "SegoeUI-Light",
+      "size": 10.980833053588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.67730712890625,
+        209.15652465820312,
+        433.529296875
+      ],
+      "text": "Subgroup considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.56121826171875,
+        527.4160766601562,
+        455.18023681640625
+      ],
+      "text": "Extrapulmonary TB :  The use of delamanid in children with extrapulmonary MDR/RR-TB may be",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        453.93719482421875,
+        527.1803588867188,
+        468.3802185058594
+      ],
+      "text": "considered (as part of longer regimens used for children with extrapulmonary MDR/RR-TB) by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        467.13720703125,
+        527.4288940429688,
+        481.5802307128906
+      ],
+      "text": "extrapolating data from those with PTB; the delamanid trials, however, have studied PK and safety",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        480.33721923828125,
+        278.2228088378906,
+        494.7802429199219
+      ],
+      "text": "among children with pulmonary MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        501.8651428222656,
+        527.4351196289062,
+        516.484130859375
+      ],
+      "text": "Children living with HIV :  Children living with HIV were not enrolled in trials 242–12–232 and 233.",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        515.2410888671875,
+        527.6448364257812,
+        529.68408203125
+      ],
+      "text": "Although evaluated in healthy adult volunteers, reports from antiretroviral drug-drug interaction",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        528.4411010742188,
+        527.5838623046875,
+        542.8840942382812
+      ],
+      "text": "studies suggest that the CYP3A4 inhibitor lopinavir/ritonavir increases delamanid total body",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        538.8471069335938,
+        527.4154052734375,
+        556.0841064453125
+      ],
+      "text": "(90) exposure up to 25% [GMR: 1.22 (90% CI 1.06,1.40)]  . This increase is not clinically relevant and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.8411865234375,
+        527.3902587890625,
+        569.2841796875
+      ],
+      "text": "does not necessitate any dose adjustments. No change in delamanid exposure was observed with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.0411376953125,
+        527.4443969726562,
+        582.484130859375
+      ],
+      "text": "co-administration of either tenofovir [GMR: 0.96 (90% CI 0.84,1.10)], a CYP1A2 inhibitor, or efavirenz",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.2410888671875,
+        527.4234619140625,
+        595.68408203125
+      ],
+      "text": "[GMR: 0.94 (90% CI 0.72,1.23)], a weak CYP3A4 inducer. Delamanid does not affect plasma exposure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.647216796875,
+        527.4082641601562,
+        608.8842163085938
+      ],
+      "text": "(94) of the antiretroviral drugs tenofovir, lopinavir/ritonavir or efavirenz  . No drug interaction studies",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.64111328125,
+        527.2474975585938,
+        622.0841064453125
+      ],
+      "text": "of delamanid together with integrase inhibitors have been performed, but based on knowledge",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.047119140625,
+        527.4215698242188,
+        635.2841186523438
+      ],
+      "text": "(95) of metabolic pathways, the risk of metabolic drug interaction potential is expected to be low  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.0411376953125,
+        527.4287719726562,
+        648.484130859375
+      ],
+      "text": "Therefore, based on available evidence, delamanid can be given to CLHIV with MDR/RR-TB on ART",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.2410888671875,
+        234.84420776367188,
+        661.68408203125
+      ],
+      "text": "regimen without dose adjustments.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.2236938476562,
+        245.23455810546875,
+        688.0757446289062
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.2835693359375,
+        527.4487915039062,
+        709.7265625
+      ],
+      "text": "Delamanid has been in use for adults and adolescents since 2014 and for children since 2016 (from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.4835815429688,
+        527.4100952148438,
+        722.9265747070312
+      ],
+      "text": "6 years of age) and 2019 (from 3 years) and therefore the implementation considerations related",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.68359375,
+        527.4530029296875,
+        736.1265869140625
+      ],
+      "text": "to its use in children below 3 years of age are an extension of those currently in place. The main",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        734.8837280273438,
+        527.5847778320312,
+        749.3267211914062
+      ],
+      "text": "implementation considerations specifically applicable to this age group are dosing based on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        748.0836791992188,
+        463.0789489746094,
+        762.5266723632812
+      ],
+      "text": "availability of the 25 mg dispersible formulation and the neuropsychiatric side effects.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "50 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

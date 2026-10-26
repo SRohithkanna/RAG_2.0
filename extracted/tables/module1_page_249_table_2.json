@@ -1,0 +1,65 @@
+{
+  "file": "module1",
+  "page": 249,
+  "table_id": 2,
+  "bbox": [
+    71.09022074732287,
+    289.0857987837358,
+    524.413765742861,
+    415.684814453125
+  ],
+  "heading": "Table A5.7. Adverse events (intention to treat population), per subject",
+  "n_rows": 7,
+  "n_cols": 5,
+  "data": [
+    [
+      "Variable",
+      "Levofloxacin (N=1023)",
+      "Placebo (N=1018)",
+      "Risk difference",
+      "P value"
+    ],
+    [
+      "Participants who took at least one dose of study drug",
+      "960 (93.8%)",
+      "962 (94.5%)",
+      "-0.7 (-3.5, 2.2)",
+      "0.65"
+    ],
+    [
+      "Participants with one or more adverse events, n (%)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total – Any grade 1–4",
+      "306 (31.9%)",
+      "125 (13.0%)",
+      "18.9% (14.2 ; 23.6)",
+      "< 0.000"
+    ],
+    [
+      "Grade 1 or 2 adverse event",
+      "290 (30.2%)",
+      "111 (11.5%)",
+      "18.7% (14.0 ; 23.3)",
+      "< 0.000"
+    ],
+    [
+      "Grade 3 or 4 adverse event",
+      "29 (3.0%)",
+      "19 (2.0%)",
+      "1.0% (-0.3 ; 2.4)",
+      "0.140"
+    ],
+    [
+      "No adverse events",
+      "354 (68.1%)",
+      "837 (87.0%)",
+      "–18.9% (–23.6 ; 14.2)",
+      "< 0.000"
+    ]
+  ]
+}

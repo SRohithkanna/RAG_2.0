@@ -1,0 +1,79 @@
+{
+  "file": "module1",
+  "page": 249,
+  "table_id": 3,
+  "bbox": [
+    71.09022074732287,
+    484.1042397238991,
+    524.413765742861,
+    674.103515625
+  ],
+  "heading": "Table A5.8. Deaths occurring during and after the treatment period",
+  "n_rows": 9,
+  "n_cols": 5,
+  "data": [
+    [
+      "Variable",
+      "Levofloxacin (N=1023)",
+      "Placebo (N=1018)",
+      "Risk difference (5% CI)",
+      "P value"
+    ],
+    [
+      "Total study population",
+      "1023",
+      "1018",
+      "",
+      ""
+    ],
+    [
+      "Total deaths",
+      "4 (0.4%)",
+      "3 (0.3%)",
+      "0.1 (–0.4 ; 0.6)",
+      "0.71"
+    ],
+    [
+      "Deaths during treatment period",
+      "0 (0%)",
+      "0 (0%)",
+      "",
+      ""
+    ],
+    [
+      "Deaths occurring after treatment",
+      "4 (0.4%)",
+      "3 (0.3%)",
+      "0.1 (–0.4 ; 0.6)",
+      "0.71"
+    ],
+    [
+      "Cause of death: TB related",
+      "0 (0%)",
+      "0 (0%)",
+      "Not estimated",
+      "Not estimated"
+    ],
+    [
+      "Cause of death: Cancer",
+      "2 (0.2%)",
+      "0 (0%)",
+      "Not estimated",
+      "Not estimated"
+    ],
+    [
+      "Cause of death: Stroke",
+      "0 (0%)",
+      "2 (0.2%)",
+      "Not estimated",
+      "Not estimated"
+    ],
+    [
+      "Cause of death: Uncertain",
+      "2 (0.2%)",
+      "1 (0.1%)",
+      "Not estimated",
+      "Not estimated"
+    ]
+  ]
+}

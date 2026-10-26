@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 34,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        521.070068359375,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.1.7. LC-aNAAT sensitivity and specificity for detection of bone or joint TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.48304748535156,
+        270.28875732421875,
+        97.6623306274414
+      ],
+      "text": "a in synovial fluid or tissue and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        107.25425720214844,
+        515.968994140625,
+        120.32579803466797
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) TN FN FP TP Study Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.292072296142578,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        121.106689453125,
+        357.59759521484375,
+        133.55625915527344
+      ],
+      "text": "1.00 [0.54, 1.00] Not estimable 6 0 0 0 Penata 2021",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        133.2149658203125,
+        357.59759521484375,
+        145.66587829589844
+      ],
+      "text": "0.88 [0.68, 0.97] 1.00 [0.29, 1.00] 21 0 3 3 Mekkaoui 2021",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        145.3232421875,
+        357.59759521484375,
+        157.7771453857422
+      ],
+      "text": "0.80 [0.44, 0.97] 1.00 [0.29, 1.00] 8 0 2 3 Slail 2023",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        157.4315185546875,
+        357.59759521484375,
+        169.8854217529297
+      ],
+      "text": "0.97 [0.85, 1.00] 0.96 [0.87, 1.00] 33 2 1 50 Sun 2019",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        169.539794921875,
+        357.7004699707031,
+        181.9936981201172
+      ],
+      "text": "Not estimable 0.88 [0.47, 1.00] 0 1 0 7 Perez-Risco 2018",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        360.40130615234375,
+        181.71209716796875,
+        517.4676513671875,
+        194.11106872558594
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        209.0520477294922,
+        515.4771118164062,
+        222.8258819580078
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.780540466308594,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        223.7107696533203,
+        347.75848388671875,
+        236.84014892578125
+      ],
+      "text": "Jose 2024 0 0 0 7 Not estimable 1.00 [0.59, 1.00]",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        350.7403869628906,
+        236.5337677001953,
+        517.0604858398438,
+        249.66314697265625
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        270.797607421875,
+        515.4771118164062,
+        284.5714416503906
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.780540466308594,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        285.456298828125,
+        347.75848388671875,
+        298.585693359375
+      ],
+      "text": "Jose 2024 3 0 0 29 1.00 [0.29, 1.00] 1.00 [0.88, 1.00]",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        350.7403869628906,
+        298.27923583984375,
+        517.0604858398438,
+        311.40863037109375
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        325.6383056640625,
+        526.5006103515625,
+        336.393310546875
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        336.4383239746094,
+        519.183349609375,
+        347.1933288574219
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        350.0570068359375,
+        247.6328582763672,
+        360.8280334472656
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        378.8197937011719,
+        523.4019165039062,
+        392.9078063964844
+      ],
+      "text": "Should LC-aNAATs on peritoneal fluid be used to diagnose peritoneal TB in adults",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        393.21978759765625,
+        491.9500732421875,
+        407.30780029296875
+      ],
+      "text": "and adolescents with signs and symptoms of peritoneal TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        417.9748229980469,
+        526.9608764648438,
+        431.1198425292969
+      ],
+      "text": "The sensitivities of the LC-aNAATs ranged from 33% to 67%, and the specificities from 94% to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995749473571777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        433.4748229980469,
+        526.9583740234375,
+        446.6198425292969
+      ],
+      "text": "100%, from three Xpert Ultra studies (69 participants); the certainty of evidence was very low",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        448.9748229980469,
+        526.958984375,
+        462.1198425292969
+      ],
+      "text": "for sensitivity and low for specificity ( ). Only data on Xpert Ultra were included in the  Fig. 2.1.8",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.4748229980469,
+        418.1966552734375,
+        477.6198425292969
+      ],
+      "text": "evaluation to answer this PICO question. Data on Truenat were limited.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.2610168457031,
+        527.4119262695312,
+        506.3489990234375
+      ],
+      "text": "Fig. 2.1.8. LC-aNAAT sensitivity and specificity for detection of peritoneal TB in",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.5697937011719,
+        216.6853790283203,
+        520.7490234375
+      ],
+      "text": "a peritoneal fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        534.1685791015625,
+        515.9691772460938,
+        547.18212890625
+      ],
+      "text": "Specificity (95% CI) Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.292072296142578,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        548.0134887695312,
+        357.5900573730469,
+        560.416748046875
+      ],
+      "text": "Penata 2021 2 0 1 43 0.67 [0.09, 0.99] 1.00 [0.92, 1.00]",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        560.1231079101562,
+        357.5900573730469,
+        572.5250244140625
+      ],
+      "text": "Slail 2023 1 1 1 17 0.50 [0.01, 0.99] 0.94 [0.73, 1.00]",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.17410278320312,
+        572.234375,
+        357.69293212890625,
+        584.6333618164062
+      ],
+      "text": "Perez-Risco 2018 1 0 2 0 0.33 [0.01, 0.91] Not estimable",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        360.401611328125,
+        584.3457641601562,
+        517.4679565429688,
+        596.7447509765625
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.292072296142578,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        609.3082885742188,
+        515.4772338867188,
+        623.0820922851562
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.780540466308594,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.54570007324219,
+        623.9669799804688,
+        347.75860595703125,
+        637.0963745117188
+      ],
+      "text": "Jose 2024 0 1 1 14 0.00 [0.00, 0.97] 0.93 [0.68, 1.00]",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        350.7403869628906,
+        636.7899780273438,
+        517.0604858398438,
+        649.9193725585938
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.780540466308594,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.3831787109375,
+        526.50048828125,
+        679.1381225585938
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.1832275390625,
+        519.1832275390625,
+        689.9381713867188
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.8019409179688,
+        247.6328582763672,
+        703.5728149414062
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "18 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 97,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        174.74769592285156,
+        82.6147232055664
+      ],
+      "text": "Extrapulmonary TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.1642456054688,
+        104.26564025878906
+      ],
+      "text": "Patients with complicated extrapulmonary TB involving the CNS, osteoarticular and pericardial forms",
+      "font": "SegoeUI-Light",
+      "size": 10.996349334716797,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.3904418945312,
+        117.46559143066406
+      ],
+      "text": "of TB were not included in the BEAT-TB trial. Therefore, no specific analysis could be performed for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.4764404296875,
+        130.6657257080078
+      ],
+      "text": "this patient subgroup. Patients with uncomplicated extrapulmonary TB were included if they also had",
+      "font": "SegoeUI-Light",
+      "size": 10.992947578430176,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.1663208007812,
+        143.86573791503906
+      ],
+      "text": "pulmonary TB. Thus, the recommendation for the BDLLfxC regimen applies to people with pulmonary",
+      "font": "SegoeUI-Light",
+      "size": 10.969306945800781,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.42138671875,
+        157.06568908691406
+      ],
+      "text": "TB and all forms of extrapulmonary TB except for TB involving the CNS, osteoarticular or disseminated",
+      "font": "SegoeUI-Light",
+      "size": 10.96679973602295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        262.4740295410156,
+        170.2657012939453
+      ],
+      "text": "forms of TB with multiorgan involvement.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.66664123535156,
+        373.8372802734375,
+        202.32662963867188
+      ],
+      "text": "Extensive TB disease and resistance to fluoroquinolones",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.5345001220703,
+        527.5521240234375,
+        223.9774932861328
+      ],
+      "text": "Patients with DR-TB who have extensive disease face greater challenges in treatment across all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.73451232910156,
+        527.3859252929688,
+        237.17750549316406
+      ],
+      "text": "regimens and are at a higher risk of unfavourable outcomes and amplification of drug resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.9345245361328,
+        527.4146118164062,
+        250.3775177001953
+      ],
+      "text": "This risk is further elevated in those infected with pathogens that have advanced resistance profiles,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.13453674316406,
+        527.2451782226562,
+        263.5775451660156
+      ],
+      "text": "particularly with additional resistance to fluoroquinolones. These patients may experience slightly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.33453369140625,
+        527.1534423828125,
+        276.7775573730469
+      ],
+      "text": "worse outcomes compared to those without pre-XDR and develop resistance to regimen components.",
+      "font": "SegoeUI-Light",
+      "size": 10.955660820007324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.53448486328125,
+        527.5396728515625,
+        289.9775085449219
+      ],
+      "text": "In the BEAT-TB trial among patients with pre-XDR-TB, the outcomes also appeared worse than among",
+      "font": "SegoeUI-Light",
+      "size": 10.964191436767578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.7344970703125,
+        527.103271484375,
+        303.1775207519531
+      ],
+      "text": "those who were fluoroquinolone susceptible. This reduction in the proportion with successful treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.949182510375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.93450927734375,
+        527.3156127929688,
+        316.3775329589844
+      ],
+      "text": "outcomes was numerically greater in the BDLLfxC arm than in the control arm (14.3% vs 3.3%);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.134521484375,
+        527.4400634765625,
+        329.5775451660156
+      ],
+      "text": "however, this difference was within the range of statistical uncertainty and the GDG judged that this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.3345031738281,
+        527.2335815429688,
+        342.77752685546875
+      ],
+      "text": "should not affect the recommendation or remarks. The rate of acquisition of resistance to bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 10.981284141540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.5345153808594,
+        527.4430541992188,
+        355.9775390625
+      ],
+      "text": "was similar between the two groups (11% in BDLLfxC and 9.1% in control). The evidence from the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.7344970703125,
+        527.4574584960938,
+        369.1775207519531
+      ],
+      "text": "BEAT-TB trial is insufficient to draw definitive conclusions due to the small sample when stratified by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.93450927734375,
+        527.452392578125,
+        382.3775329589844
+      ],
+      "text": "fluoroquinolone resistance and related imprecision. Nonetheless, clinicians should remain vigilant and",
+      "font": "SegoeUI-Light",
+      "size": 10.979631423950195,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.1344909667969,
+        527.4442138671875,
+        395.5775146484375
+      ],
+      "text": "closely monitor the treatment response in this group of patients and promptly take relevant actions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.3345031738281,
+        360.88665771484375,
+        408.77752685546875
+      ],
+      "text": "(extending the duration of treatment or changing the regimen).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.1517333984375,
+        245.23455810546875,
+        438.00372314453125
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.2117004394531,
+        527.5818481445312,
+        459.65472412109375
+      ],
+      "text": "The high treatment success rates shown for the BDLLfxC regimen in the BEAT-TB trial and favourable",
+      "font": "SegoeUI-Light",
+      "size": 10.997149467468262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.4117126464844,
+        527.4024658203125,
+        472.854736328125
+      ],
+      "text": "comparison with the current SoC regimens led to an overall recommendation for implementation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.6116943359375,
+        527.5606689453125,
+        486.0547180175781
+      ],
+      "text": "under routine programmatic conditions. Given that this recommendation is conditional, ongoing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.81170654296875,
+        527.1199340820312,
+        499.2547302246094
+      ],
+      "text": "operational research will be needed, to add further knowledge that can be used to adjust and improve",
+      "font": "SegoeUI-Light",
+      "size": 10.962234497070312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.7357177734375,
+        282.8675842285156,
+        512.4547119140625
+      ],
+      "text": "(8) implementation guidance for the regimen  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.8555908203125,
+        160.5745086669922,
+        544.515625
+      ],
+      "text": "Patient selection",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.7235107421875,
+        527.4478149414062,
+        566.16650390625
+      ],
+      "text": "Eligibility for the BDLLfxC regimen should generally align with the criteria outlined in the BEAT-TB trial.",
+      "font": "SegoeUI-Light",
+      "size": 10.979931831359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.9234619140625,
+        527.393798828125,
+        579.366455078125
+      ],
+      "text": "Once patients are started on treatment, providing effective support is crucial to ensure treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.12353515625,
+        527.4212036132812,
+        592.5665283203125
+      ],
+      "text": "adherence. Close monitoring (for AEs, responses to treatment and developing drug resistance) is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.323486328125,
+        524.4181518554688,
+        605.7664794921875
+      ],
+      "text": "essential, as are proper management of side effects and prevention of complications from drug–",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.5234985351562,
+        150.91310119628906,
+        618.9664916992188
+      ],
+      "text": "drug interactions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.3673706054688,
+        213.38893127441406,
+        651.0274047851562
+      ],
+      "text": "Drug susceptibility testing",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.2352905273438,
+        527.1512451171875,
+        672.6782836914062
+      ],
+      "text": "A comprehensive history of prior exposure to the regimen’s components and the outcomes of previous",
+      "font": "SegoeUI-Light",
+      "size": 10.949483871459961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.435302734375,
+        527.1903076171875,
+        685.8782958984375
+      ],
+      "text": "episodes of TB should be taken. Prior loss to the programme while on a bedaquiline-containing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.6353149414062,
+        527.4432373046875,
+        699.0783081054688
+      ],
+      "text": "regimen, particularly if the culture is still positive when this occurs, increases the risk of developing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.559326171875,
+        197.22010803222656,
+        712.2783203125
+      ],
+      "text": "(52) bedaquiline resistance  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.5391845703125,
+        527.3772583007812,
+        733.982177734375
+      ],
+      "text": "DST for FQ is strongly advised, although it should not delay the initiation of the BDLLfxC. When DST",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.7393188476562,
+        527.3892822265625,
+        747.1823120117188
+      ],
+      "text": "results confirm FQ susceptibility, clofazimine should be stopped, then BDLLfx can continue. When",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.9393310546875,
+        527.3915405273438,
+        760.38232421875
+      ],
+      "text": "DST results confirm FQ resistance, levofloxacin should be stopped, then BDLC can continue. If DST is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.1392211914062,
+        355.5022277832031,
+        773.5822143554688
+      ],
+      "text": "not done or is unavailable, then all five drugs should be given.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  83",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

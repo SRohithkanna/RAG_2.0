@@ -1,0 +1,46 @@
+{
+  "file": "module1",
+  "page": 146,
+  "table_id": 1,
+  "bbox": [
+    56.69298095703125,
+    71.11676025390625,
+    784.197021484375,
+    443.31597900390625
+  ],
+  "heading": null,
+  "n_rows": 5,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "Research evidence",
+      "Additional considerations"
+    ],
+    [
+      "Cost e f fectiveness",
+      "Does the cost– Depends on the setting. It may effectiveness of the test be cost–effective in the long term favour the intervention or by preventing development of the comparison? drug-resistant TB. • Favours the comparison • Favours neither the intervention nor the comparison • Favours the intervention • Varies • No included studies",
+      "",
+      ""
+    ],
+    [
+      "Equity",
+      "What would be the impact on health equity? • Reduced • Increased • Varies • Don’t know",
+      "",
+      ""
+    ],
+    [
+      "Acceptability",
+      "Is the test acceptable to Depends on setting and key stakeholders? availability of CXR. • No • Yes • Varies • Don’t know",
+      "",
+      ""
+    ],
+    [
+      "Feasibility",
+      "Is the test feasible to Depends on setting and implement? availability of CXR and human • No resources. • Yes • Varies • Don’t know",
+      "",
+      ""
+    ]
+  ]
+}

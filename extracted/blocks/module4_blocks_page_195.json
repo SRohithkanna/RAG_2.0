@@ -1,0 +1,438 @@
+{
+  "file": "module4",
+  "page": 195,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        329.13812255859375,
+        147.5496368408203
+      ],
+      "text": "Recommendations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.64593505859375,
+        524.43017578125,
+        212.44093322753906
+      ],
+      "text": "1. Care and support interventions for all people with TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.98109436035156,
+        259.4901123046875,
+        244.86109924316406
+      ],
+      "text": "Recommendations 1.1–1.4",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        256.5665283203125,
+        196.92959594726562,
+        270.9215087890625
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        277.68109130859375,
+        502.39190673828125,
+        292.2341003417969
+      ],
+      "text": "1.1 Health education and counselling on the disease and treatment adherence should be",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        289.79107666015625,
+        284.1046142578125,
+        304.2341003417969
+      ],
+      "text": "provided to patients on TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        304.76702880859375,
+        369.2786560058594,
+        320.4310302734375
+      ],
+      "text": "(Strong recommendation, moderate certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        327.547607421875,
+        494.4999084472656,
+        342.1006164550781
+      ],
+      "text": "1.2 A package of treatment adherence interventions  may be offered to patients on TB  69",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        339.6575927734375,
+        516.1981201171875,
+        354.1006164550781
+      ],
+      "text": "treatment in conjunction with the selection of a suitable treatment administration option. 70",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        354.63360595703125,
+        363.327392578125,
+        370.297607421875
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        377.4142150878906,
+        506.694091796875,
+        391.96722412109375
+      ],
+      "text": "1.3 One or more of the following treatment adherence interventions (complementary and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        389.5242004394531,
+        497.59979248046875,
+        403.96722412109375
+      ],
+      "text": "not mutually exclusive) may be offered to patients on TB treatment or to health-care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        401.5242004394531,
+        153.99551391601562,
+        415.96722412109375
+      ],
+      "text": "providers:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        416.5002136230469,
+        507.3958435058594,
+        432.21923828125
+      ],
+      "text": "(Conditional recommendation, very low  a.\ttracers  and/or digital medication monitor 71 72",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        428.5002136230469,
+        218.78509521484375,
+        444.1642150878906
+      ],
+      "text": "certainty of evidence);",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        444.752197265625,
+        494.23980712890625,
+        460.4712219238281
+      ],
+      "text": "(Conditional recommendation, moderate certainty of  b.\tmaterial support  to patient  73",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        456.752197265625,
+        165.32119750976562,
+        472.41619873046875
+      ],
+      "text": "evidence);",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        473.0041198730469,
+        491.0304870605469,
+        488.72314453125
+      ],
+      "text": "(Conditional recommendation, low certainty of  c.\t psychological support  to patient 74",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        485.0041198730469,
+        165.32119750976562,
+        500.6681213378906
+      ],
+      "text": "evidence);",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        501.256103515625,
+        454.93658447265625,
+        516.97509765625
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence). d.\tstaff education 75",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.0632934570312,
+        526.578125,
+        621.7672729492188
+      ],
+      "text": "Treatment adherence interventions include social support such as: patient education and counselling; material support (e.g. food, financial  69",
+      "font": "SegoeUI-Light",
+      "size": 7.966479778289795,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        620.8633422851562,
+        526.5958251953125,
+        631.3673095703125
+      ],
+      "text": "incentives, transport fees); psychological support; tracers such as home visits or digital health communications (e.g. SMS, telephone",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        630.4633178710938,
+        526.5597534179688,
+        640.96728515625
+      ],
+      "text": "calls); medication monitor; and staff education. The interventions should be selected based on the assessment of the individual patient’s",
+      "font": "SegoeUI-Light",
+      "size": 7.990444183349609,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        640.0632934570312,
+        291.5613708496094,
+        650.5672607421875
+      ],
+      "text": "needs, provider’s resources and conditions for implementation.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.2980346679688,
+        526.5927124023438,
+        663.0020141601562
+      ],
+      "text": "Suitable treatment administration options include various forms of treatment support, such as video-supported treatment and regular  70",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        662.0980224609375,
+        238.24851989746094,
+        672.6019897460938
+      ],
+      "text": "community or home-based treatment support.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.3328247070312,
+        447.4375,
+        685.0368041992188
+      ],
+      "text": "Tracers refer to the communication with the patient – including via SMS, telephone (voice) calls or home visits. 71",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.7675170898438,
+        526.7692260742188,
+        697.4714965820312
+      ],
+      "text": "A digital medication monitor is a device that can measure the time between openings of the pill box. The medication monitor may have  72",
+      "font": "SegoeUI-Light",
+      "size": 7.994548320770264,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        696.5675048828125,
+        524.4070434570312,
+        707.0714721679688
+      ],
+      "text": "audio reminders or may send an SMS to remind the patient to take the medications, along with recording when the pill box is opened.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.8023071289062,
+        526.6128540039062,
+        719.5062866210938
+      ],
+      "text": "Material support can be food or financial support: meals, food baskets, food supplements, food vouchers, transport subsidies, living  73",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        718.6023559570312,
+        526.4658203125,
+        729.1063232421875
+      ],
+      "text": "allowance, housing incentives or financial bonus. This support addresses indirect costs incurred by patients or their attendants in",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        728.2023315429688,
+        453.4478759765625,
+        738.706298828125
+      ],
+      "text": "accessing health services and, possibly, tries to mitigate the consequences of income loss related to the disease.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.43701171875,
+        327.9366149902344,
+        751.1409912109375
+      ],
+      "text": "Psychological support can be counselling sessions or peer-group support. 74",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        526.6141967773438,
+        763.5758056640625
+      ],
+      "text": "Staff education can be adherence education, charts or visual reminders, educational tools and desktop aids for decision-making and  75",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        112.81009674072266,
+        773.17578125
+      ],
+      "text": "reminder.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        543.7396240234375,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "181",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

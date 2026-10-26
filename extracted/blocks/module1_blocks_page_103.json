@@ -1,0 +1,402 @@
+{
+  "file": "module1",
+  "page": 103,
+  "blocks": [
+    {
+      "bbox": [
+        73.39559936523438,
+        137.20816040039062,
+        768.7130126953125,
+        148.7281951904297
+      ],
+      "text": "Low  Critical 1  randomized  serious not serious  serious not serious  none  83/1488  108/1498  RR 0.79\n 15 fewer per   c  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        148.20816040039062,
+        640.7771606445312,
+        159.72816467285156
+      ],
+      "text": "trials  (5.6%)  (7.2%)  (0.59 to 1.04)  1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        159.2081298828125,
+        654.3464965820312,
+        170.72813415527344
+      ],
+      "text": "(from 30",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        170.20819091796875,
+        658.087890625,
+        181.7281951904297
+      ],
+      "text": "fewer to 3",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        181.20816040039062,
+        643.611328125,
+        192.72816467285156
+      ],
+      "text": "more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        196.39910888671875,
+        361.8168640136719,
+        208.0181121826172
+      ],
+      "text": "Treatment completion (follow up: mean 3 years; assessed with: RCT evidence)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        211.60787963867188,
+        768.7130126953125,
+        223.12791442871094
+      ],
+      "text": "Low  Critical 1  randomized  serious not serious  serious not serious  none  1444/1488  1341/1498  RR 1.04\n 36 more per   c,m  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        222.60787963867188,
+        640.7771606445312,
+        234.1278839111328
+      ],
+      "text": "trials  (97.0%)  (89.5%)  (0.99 to 1.10)  1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        233.60784912109375,
+        672.1810302734375,
+        245.1278533935547
+      ],
+      "text": "(from 9 fewer",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        244.60791015625,
+        666.064453125,
+        256.1278991699219
+      ],
+      "text": "to 90 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        259.7987976074219,
+        514.2156372070312,
+        271.4178161621094
+      ],
+      "text": "Treatment completion among ART-naive participants at entry (follow up: mean 3 years; assessed with: RCT evidence)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        275.0076599121094,
+        768.7130126953125,
+        286.5276794433594
+      ],
+      "text": "Low  Critical 1  randomized  serious not serious  serious not serious  none  720/740  656/743  RR 1.05\n 44 more per   c,m  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        286.0076599121094,
+        640.7771606445312,
+        297.52764892578125
+      ],
+      "text": "trials  (97.3%)  (88.3%)  (0.97 to 1.14)  1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        297.00762939453125,
+        653.8119506835938,
+        308.5276184082031
+      ],
+      "text": "(from 26",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        308.0076904296875,
+        666.5020141601562,
+        319.5276794433594
+      ],
+      "text": "fewer to 124",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        319.0076599121094,
+        643.611328125,
+        330.52764892578125
+      ],
+      "text": "more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        334.1986083984375,
+        615.44873046875,
+        345.817626953125
+      ],
+      "text": "Emergence of drug resistance to isoniazid among those with confirmed TB and with DST (follow up: mean 3 years; assessed with: RCT evidence)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        349.4075012207031,
+        774.3406372070312,
+        360.9275207519531
+      ],
+      "text": "1  randomized  serious not serious  very  very serious none  2/14 (14.3%) 1/12 (8.3%) RR 1.63\n 52 more per  Very low  Important  c  o",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        360.4075012207031,
+        640.7771606445312,
+        371.927490234375
+      ],
+      "text": "trials  serious  (0.17 to 15.99)  1000\n d,n",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        371.407470703125,
+        654.1089477539062,
+        382.9274597167969
+      ],
+      "text": "(from 69",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        382.4075622558594,
+        651.346923828125,
+        393.92755126953125
+      ],
+      "text": "fewer to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        393.40753173828125,
+        665.9772338867188,
+        404.9275207519531
+      ],
+      "text": "1000 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        408.598388671875,
+        620.3394165039062,
+        420.2174072265625
+      ],
+      "text": "Emergence of drug resistance to rifampicin among those with confirmed TB and with DST (follow up: mean 3 years; assessed with: RCT evidence)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        423.8072814941406,
+        774.3406372070312,
+        435.3273010253906
+      ],
+      "text": "1  randomized  serious not serious  very  very serious none  1/15 (6.7%)  1/12 (8.3%) RR 0.81\n 16 fewer per  Very low  Important  c  o",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        434.8072814941406,
+        640.7771606445312,
+        446.3272705078125
+      ],
+      "text": "trials  serious  (0.06 to 11.77)  1000\n d,n",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        445.8072814941406,
+        653.8209228515625,
+        457.3272705078125
+      ],
+      "text": "(from 78",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        456.8073425292969,
+        668.9149169921875,
+        468.32733154296875
+      ],
+      "text": "fewer to 898",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        618.411376953125,
+        467.80731201171875,
+        643.611328125,
+        479.3273010253906
+      ],
+      "text": "more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        482.9981994628906,
+        410.0098876953125,
+        494.6172180175781
+      ],
+      "text": "Emergence of drug resistance to ethambutol among those with confirmed TB and with DST",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        498.20709228515625,
+        774.3406372070312,
+        509.7270812988281
+      ],
+      "text": "1  randomized  serious not serious  very  very serious none  0/7 (0.0%)  1/7 (14.3%) not estimable  Very low  Important  c  o",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        509.2070617675781,
+        313.8475341796875,
+        520.7271118164062
+      ],
+      "text": "trials  serious  d,n",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "85",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

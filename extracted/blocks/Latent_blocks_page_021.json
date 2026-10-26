@@ -1,0 +1,510 @@
+{
+  "file": "Latent",
+  "page": 21,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        441.8605651855469,
+        82.56494140625
+      ],
+      "text": "2.\t Identification of populations for",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        113.3700942993164,
+        75.58094787597656,
+        427.443603515625,
+        106.56494140625
+      ],
+      "text": "testing and treatment of latent",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        113.3700942993164,
+        99.58094787597656,
+        331.04290771484375,
+        130.56494140625
+      ],
+      "text": "tuberculosis infection",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.95880126953125,
+        526.7119140625,
+        180.7587890625
+      ],
+      "text": "Not all individuals infected with   develop active TB. It is estimated that the lifetime risk of an  M. tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.95880126953125,
+        526.690185546875,
+        194.7587890625
+      ],
+      "text": "individual with LTBI for progression to active TB is 5–10%  . The risk is particularly high among children under  (5)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        195.95880126953125,
+        526.6550903320312,
+        208.7587890625
+      ],
+      "text": "the age of 5 years and among people with compromised immunity  . As preventive treatment entails risks  (1)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        209.95880126953125,
+        526.68701171875,
+        222.7587890625
+      ],
+      "text": "and costs, preventive treatment of   infection should be selectively targeted to the population  M. tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        223.95880126953125,
+        517.3463745117188,
+        236.7587890625
+      ],
+      "text": "groups at highest risk for progression to active TB disease, who would benefit most from treatment of LTBI.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        243.6287841796875,
+        526.6581420898438,
+        256.42877197265625
+      ],
+      "text": "In selecting at-risk populations for programmatic management of LTBI, consideration should be given to the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        257.6287841796875,
+        526.6151733398438,
+        270.42877197265625
+      ],
+      "text": "epidemiology and pattern of transmission of TB in the country, so that treatment offers lasting protection.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        271.6287841796875,
+        526.6842651367188,
+        284.42877197265625
+      ],
+      "text": "A critical component of programmatic management should therefore be a comprehensive individual clinical",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        285.6287841796875,
+        526.6782836914062,
+        298.42877197265625
+      ],
+      "text": "assessment that takes into account the balance between the risks and benefits for the individual receiving",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        299.6287841796875,
+        117.09307861328125,
+        312.42877197265625
+      ],
+      "text": "treatment.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        319.29876708984375,
+        522.9091186523438,
+        332.0987548828125
+      ],
+      "text": "This section describes at-risk populations for whom systematic LTBI testing and treatment is recommended.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        347.2563171386719,
+        316.88470458984375,
+        364.0393371582031
+      ],
+      "text": "2.1\t Adults and adolescents living with HIV",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        382.68231201171875,
+        476.4118347167969,
+        394.9563293457031
+      ],
+      "text": "Adults and adolescents living with HIV, with unknown or a positive tuberculin skin test (TST) and",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        394.6808166503906,
+        484.9742126464844,
+        406.954833984375
+      ],
+      "text": "are unlikely to have active TB should receive preventive treatment of TB as part of a comprehensive",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        406.6793212890625,
+        475.2062683105469,
+        418.9533386230469
+      ],
+      "text": "package of HIV care. Treatment should be given to these individuals irrespective of the degree of",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        418.6778259277344,
+        487.27886962890625,
+        430.95184326171875
+      ],
+      "text": "immunosuppression and also to those on antiretroviral treatment (ART), those who have previously",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        430.67633056640625,
+        471.4168395996094,
+        442.9503479003906
+      ],
+      "text": "been treated for TB and pregnant women.  (Strong recommendation, high-quality evidence. Existing",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        442.6748352050781,
+        153.10594177246094,
+        454.9488525390625
+      ],
+      "text": "recommendation)",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        459.8291015625,
+        509.17608642578125,
+        471.3490905761719
+      ],
+      "text": "Source of existing recommendation: Guidelines for intensified tuberculosis case-finding and isoniazid preventive",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        470.82708740234375,
+        499.14471435546875,
+        482.3470764160156
+      ],
+      "text": "therapy for people living with HIV in resource-constrained settings. Geneva; World Health Organization; 2011",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        481.8250732421875,
+        399.248291015625,
+        493.3450622558594
+      ],
+      "text": "(http://apps.who.int/iris/bitstream/10665/44472/1/9789241500708_eng.pdf).",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        525.50634765625,
+        171.6818389892578,
+        541.0103149414062
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        544.3289184570312,
+        526.667236328125,
+        557.12890625
+      ],
+      "text": "TB is the most frequent cause of AIDS-related deaths worldwide, despite progress in access to ART  . TB  (16)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        558.3289184570312,
+        526.6821899414062,
+        571.12890625
+      ],
+      "text": "caused about 400 000 deaths among people living with HIV in 2016, representing one third of all HIV deaths.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        572.3289184570312,
+        526.6362915039062,
+        585.12890625
+      ],
+      "text": "Global data in 2016 indicated that people living with HIV were 21 times (95% confidence interval [95% CI]",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        586.3289184570312,
+        389.6562194824219,
+        599.12890625
+      ],
+      "text": "16;27) more likely to develop active TB than those without HIV infection  . (12)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        605.9989013671875,
+        526.6762084960938,
+        618.7988891601562
+      ],
+      "text": "A systematic review of 12 randomized controlled trials (RCTs) of 8578 people living with HIV   found that  (17)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        619.9989013671875,
+        526.7154541015625,
+        632.7988891601562
+      ],
+      "text": "preventive treatment reduced the overall risk for TB by 33% (relative effect [RR] 0.67, 95% CI 0.51;0.87)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        633.9989013671875,
+        526.6802978515625,
+        646.7988891601562
+      ],
+      "text": "among people living with HIV. For those who were TST positive, the reduction increased to 64% (RR 0.36, 95%",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        647.9989013671875,
+        526.6774291992188,
+        660.7988891601562
+      ],
+      "text": "CI 0.22; 0.61). Although not statistically significant, the reduction was 14% among TST-negative people (RR",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        661.9989013671875,
+        526.6719970703125,
+        674.7988891601562
+      ],
+      "text": "0.86, 95% CI 0.59; 1.26) and those of unknown TST status (RR 0.86, 95% CI 0.48; 1.52). Most of the studies in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        675.9989013671875,
+        526.713623046875,
+        688.7988891601562
+      ],
+      "text": "the review were, however, conducted before ART became available, and there is now increasing evidence from",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        689.9989013671875,
+        526.6703491210938,
+        702.7988891601562
+      ],
+      "text": "observational studies and RCTs of the efficacy of preventive treatment in people receiving ART. A double-blind",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        703.9989013671875,
+        526.7243041992188,
+        716.7988891601562
+      ],
+      "text": "RCT of 1329 people living with HIV and receiving ART indicated that those on ART with negative TST or IGRA",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        717.9989013671875,
+        526.6663208007812,
+        730.7988891601562
+      ],
+      "text": "benefited more from IPT than those who were TST or IGRA positive  . An RCT of 2056 people living with  (18)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8662109375,
+        731.9989013671875,
+        526.7023315429688,
+        744.7988891601562
+      ],
+      "text": "HIV   and follow-up data   showed additive benefits of preventive treatment plus ART in reducing both  (19) (20)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86622619628906,
+        745.9989013671875,
+        447.19622802734375,
+        758.7988891601562
+      ],
+      "text": "TB incidence and overall mortality. The protective effect lasted for more than 5 years  .  (20)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        547.7346801757812,
+        810.61279296875
+      ],
+      "text": "9",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        171.12399291992188,
+        796.524658203125,
+        524.4039916992188,
+        805.5686645507812
+      ],
+      "text": "2. IDENTIFICATION OF POPULATIONS FOR TESTING AND TREATMENT OF LATENT TUBERCULOSIS INFECTION",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

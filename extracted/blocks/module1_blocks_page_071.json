@@ -1,0 +1,606 @@
+{
+  "file": "module1",
+  "page": 71,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4058227539062,
+        81.83369445800781
+      ],
+      "text": "The WHO Guideline Steering Group prepared the background document for the guidelines, which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4354248046875,
+        95.03370666503906
+      ],
+      "text": "detailed the PICO question that would define the main evidence-based recommendation that was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4481811523438,
+        108.23371887207031
+      ],
+      "text": "to be updated; the trial data and evidence review required; draft changes to the wording of existing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.5396118164062,
+        121.43373107910156
+      ],
+      "text": "recommendations and accompanying remarks to improve clarity and implementation of the guidance;",
+      "font": "SegoeUI-Light",
+      "size": 10.958120346069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4035034179688,
+        134.6337432861328
+      ],
+      "text": "and the composition of the expert panels. The scoping document was submitted to the Guideline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.39076232910156,
+        527.4216918945312,
+        147.83375549316406
+      ],
+      "text": "Review Committee and approved in May 2023. Information about the GDG members was placed on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        234.943359375,
+        161.03370666503906
+      ],
+      "text": "a public website in November 2023 (",
+      "font": "SegoeUI-Light",
+      "size": 10.982436180114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        235.03509521484375,
+        146.59071350097656,
+        524.21826171875,
+        161.03370666503906
+      ],
+      "text": "https://cdn.who.int/media/docs/default-source/hq-tuberculosis/",
+      "font": "SegoeUI-Light",
+      "size": 10.982436180114746,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        301.8716125488281,
+        174.2337188720703
+      ],
+      "text": "biographies_gdg_tpt_2023.pdf?sfvrsn=95176f7e_3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        301.8822937011719,
+        159.7907257080078,
+        307.42626953125,
+        174.2337188720703
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        181.4945831298828,
+        527.4249877929688,
+        195.9375762939453
+      ],
+      "text": "GDG meetings were conducted as 3-h virtual webinars on 4–6 December 2023, and three virtual",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        194.69459533691406,
+        527.3848266601562,
+        209.13758850097656
+      ],
+      "text": "preparatory meetings of the GDG were held in September, October and November 2023 to discuss",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        207.8946075439453,
+        527.4243774414062,
+        222.3376007080078
+      ],
+      "text": "the procedures to be followed and to review the preliminary data. Evidence summary tables were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        221.09474182128906,
+        527.3218994140625,
+        235.53773498535156
+      ],
+      "text": "drafted for the PICO question by the guideline methodologist with the GRADE approach and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        234.2947540283203,
+        527.4094848632812,
+        248.7377471923828
+      ],
+      "text": "circulated to the group before the webinars. The meetings were chaired by a technical expert, while",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        247.49476623535156,
+        527.3406372070312,
+        261.9377746582031
+      ],
+      "text": "the guideline methodologist facilitated the discussions to reach consensus, which was defined as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        260.69476318359375,
+        527.3865966796875,
+        275.1377868652344
+      ],
+      "text": "unanimous or majority agreement. The GDG agreed in advance that, if unanimity was not achieved",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        273.8946533203125,
+        527.4378051757812,
+        288.3376770019531
+      ],
+      "text": "for a recommendation to be made, the members of the GDG would vote and that a majority of 60%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        287.09478759765625,
+        527.4099731445312,
+        301.5378112792969
+      ],
+      "text": "or more of voting members would be necessary to accept a recommendation. If the vote reached",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        300.2947998046875,
+        527.4283447265625,
+        314.7378234863281
+      ],
+      "text": "this threshold but was less than 70%, the recommendation would be conditional. The estimates of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        313.49481201171875,
+        527.4321899414062,
+        327.9378356933594
+      ],
+      "text": "effect and the judgements on the quality of evidence were reviewed by the GDG during the online",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.6947021484375,
+        527.5423583984375,
+        341.1377258300781
+      ],
+      "text": "discussions. GRADE evidence-to-decision tables were used to guide discussions of benefits and harm,",
+      "font": "SegoeUI-Light",
+      "size": 10.977375984191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.89471435546875,
+        527.3807373046875,
+        354.3377380371094
+      ],
+      "text": "the quality of evidence, cost, feasibility, acceptability, equity, values and preferences. The direction",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.0947265625,
+        527.3811645507812,
+        367.5377502441406
+      ],
+      "text": "of the recommendation and its strength (strong or conditional) were determined by these factors.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.0187072753906,
+        335.74517822265625,
+        380.7377624511719
+      ],
+      "text": "(7) . GRADEpro was used to document the decisions made",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        391.16131591796875,
+        277.8621520996094,
+        409.43133544921875
+      ],
+      "text": "A2.3 Scoping and PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.8612060546875,
+        527.4365234375,
+        430.5802307128906
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis: tuberculosis preventive  The recommendations in the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.06121826171875,
+        381.7830810546875,
+        443.7802429199219
+      ],
+      "text": "treatment, second edition  are structured around 10 PICO questions (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        381.79339599609375,
+        429.33721923828125,
+        428.7535095214844,
+        443.7802429199219
+      ],
+      "text": "Table A2.1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        428.7582092285156,
+        429.33721923828125,
+        434.30218505859375,
+        443.7802429199219
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.5783996582031,
+        454.692138671875,
+        472.4064025878906
+      ],
+      "text": "Table A2.1. PICO questions for the WHO consolidated guidelines on",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.9783935546875,
+        426.31219482421875,
+        486.806396484375
+      ],
+      "text": "tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.67030334472656,
+        500.12579345703125,
+        477.3708190917969,
+        514.5687866210938
+      ],
+      "text": "PICO 1: What is the prevalence of TBI, risk of progression to TB disease and cumulative",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        512.1257934570312,
+        520.1411743164062,
+        526.5687866210938
+      ],
+      "text": "prevalence of TB disease among household contacts without HIV in different age groups in high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        524.1257934570312,
+        185.15049743652344,
+        538.5687866210938
+      ],
+      "text": "TB incidence countries?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66928100585938,
+        545.7403564453125,
+        474.9278564453125,
+        560.183349609375
+      ],
+      "text": "PICO 2: What is the accuracy of WHO symptomatic screening to exclude TB disease in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66928100585938,
+        557.7403564453125,
+        208.39100646972656,
+        572.1834106445312
+      ],
+      "text": "individuals with HIV on ART?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66931915283203,
+        579.35498046875,
+        502.7149963378906,
+        593.7979736328125
+      ],
+      "text": "PICO 3: What is the accuracy of symptomatic screening and/or CXR to exclude TB disease in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66931915283203,
+        591.35498046875,
+        453.7750244140625,
+        605.7979736328125
+      ],
+      "text": "contacts of people with pulmonary TB without HIV in high TB incidence countries?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66928100585938,
+        612.9696044921875,
+        509.658203125,
+        627.41259765625
+      ],
+      "text": "PICO 4: Could IGRAs be used as an alternative to TSTs to identify individuals at greatest risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66928100585938,
+        624.9696044921875,
+        374.7286376953125,
+        639.41259765625
+      ],
+      "text": "progression from TBI to TB disease in high TB incidence settings?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        646.5841674804688,
+        480.35748291015625,
+        661.0271606445312
+      ],
+      "text": "PICO 5: Should 3-month daily rifampicin plus isoniazid (3RH) be offered as a preventive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        658.5841674804688,
+        494.4264831542969,
+        673.0271606445312
+      ],
+      "text": "treatment option for children and adolescents < 15 years of age as an alternative to 6 or 9",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        670.584228515625,
+        365.0499267578125,
+        685.0272216796875
+      ],
+      "text": "months isoniazid monotherapy in high TB incidence countries?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        692.1987915039062,
+        495.8597717285156,
+        706.6417846679688
+      ],
+      "text": "PICO 6: In people of all ages at risk of TB disease, does a 4-month daily rifampicin regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        704.1987915039062,
+        444.6422119140625,
+        718.6417846679688
+      ],
+      "text": "safely prevent TB disease as compared with other recommended TPT regimens?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        725.8133544921875,
+        480.6346740722656,
+        740.25634765625
+      ],
+      "text": "PICO 7: In people of all ages at risk of TB disease, does a 1-month daily rifapentine plus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        737.8133544921875,
+        461.2272033691406,
+        752.25634765625
+      ],
+      "text": "isoniazid regimen safely prevent TB disease as compared with other recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.6693115234375,
+        749.8133544921875,
+        144.77407836914062,
+        764.2564086914062
+      ],
+      "text": "TPT regimens?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        401.61260986328125,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "Annex 2. Methods and expert panels 53",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

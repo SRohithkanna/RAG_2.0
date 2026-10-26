@@ -1,0 +1,48 @@
+{
+  "file": "Guidance for national",
+  "page": 49,
+  "table_id": 1,
+  "bbox": [
+    85.03900146484375,
+    392.18402099609375,
+    509.23602294921875,
+    608.3330078125
+  ],
+  "heading": "Note: All fluid (CSF, pleural, ascetic, joint or pericardial) must be subjected to biochemical analysis (protein and glucose con- centrations), cell count, AFB stain and culture whenever possible.",
+  "n_rows": 8,
+  "n_cols": 2,
+  "data": [
+    [
+      "Site",
+      "Practical approach to diagnosis"
+    ],
+    [
+      "Peripheral lymph t (especially cervical)",
+      "Lymph node biopsy or fine needle aspiration"
+    ],
+    [
+      "Miliary TB (e.g. disseminated) Chest radiograph and lumbar puncture (to test for meningitis)",
+      ""
+    ],
+    [
+      "Tuberculous meningitis",
+      "Lumbar puncture (and imaging where available)"
+    ],
+    [
+      "Pleural effusion (older children and Chest radiograph, pleural tap for biochemical adolescents) analysis (protein and glucose concentrations), cell count and culture",
+      ""
+    ],
+    [
+      "Abdominal TB (e.g. peritoneal)",
+      "Abdominal ultrasound (3) and ascitic tap"
+    ],
+    [
+      "Osteoarticular Radiograph of joint/bone, joint tap or synovial biopsy",
+      ""
+    ],
+    [
+      "Pericardial TB",
+      "Ultrasound and pericardial tap"
+    ]
+  ]
+}

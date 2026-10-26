@@ -1,0 +1,66 @@
+{
+  "file": "Recommendations",
+  "page": 70,
+  "blocks": [
+    {
+      "bbox": [
+        127.55860900878906,
+        114.10533142089844,
+        206.62359619140625,
+        123.10533142089844
+      ],
+      "text": "Stop TB Department",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.56761169433594,
+        126.27304077148438,
+        232.1565704345703,
+        135.27304077148438
+      ],
+      "text": "World Health Organization",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57661437988281,
+        138.27005004882812,
+        299.18853759765625,
+        147.27005004882812
+      ],
+      "text": "20 avenue Appia, 1211 Geneva 27, Switzerland",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58561706542969,
+        156.27005004882812,
+        229.5736541748047,
+        165.27005004882812
+      ],
+      "text": "Web site: www.who.int/tb",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.59461975097656,
+        168.26705932617188,
+        343.90948486328125,
+        177.26705932617188
+      ],
+      "text": "Information Resource Centre HTM/STB: tbdocs@who.int",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

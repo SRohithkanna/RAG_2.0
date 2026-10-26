@@ -1,0 +1,522 @@
+{
+  "file": "module4",
+  "page": 128,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        460.82781982421875,
+        82.6147232055664
+      ],
+      "text": "Table 2.10. The composition of the three modified 9-month regimens",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        98.82018280029297,
+        226.77230834960938,
+        113.17518615722656
+      ],
+      "text": "Regimen  Three-letter drug",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        249.87399291992188,
+        104.82018280029297,
+        419.49395751953125,
+        119.17518615722656
+      ],
+      "text": "Composition with full drug names",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        110.82018280029297,
+        205.47189331054688,
+        125.17518615722656
+      ],
+      "text": "name abbreviations",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        132.4346923828125,
+        472.41943359375,
+        146.98768615722656
+      ],
+      "text": "BLMZ 9Bdq-Lzd-Mfx-Z Bedaquiline-linezolid-moxifloxacin-pyrazinamide",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        154.0494384765625,
+        524.2623901367188,
+        168.60243225097656
+      ],
+      "text": "BLLfxCZ 9Bdq-Lzd-Lfx-Cfz-Z Bedaquiline-linezolid-levofloxacin-clofazimine-pyrazinamide",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        175.66400146484375,
+        521.7642822265625,
+        190.2169952392578
+      ],
+      "text": "BDLLfxZ 9Bdq-Dlm-Lzd-Lfx-Z Bedaquiline-delamanid-linezolid-levofloxacin-pyrazinamide",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.28504943847656,
+        527.1912841796875,
+        223.72804260253906
+      ],
+      "text": "The dosing for linezolid and bedaquiline in these regimens deviates slightly from the standard dosing",
+      "font": "SegoeUI-Light",
+      "size": 10.987993240356445,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.48500061035156,
+        226.68991088867188,
+        236.92799377441406
+      ],
+      "text": "used in other treatment regimens:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.1889190673828,
+        78.23609924316406,
+        258.6319274902344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        244.1889190673828,
+        527.4478759765625,
+        258.6319274902344
+      ],
+      "text": "in the trial participants received linezolid at 600 mg once daily for 16 weeks then randomized to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        257.388916015625,
+        527.3118896484375,
+        271.8319396972656
+      ],
+      "text": "either reduced dose of 300 mg once daily or 600 mg three times a week until the end of treatment,",
+      "font": "SegoeUI-Light",
+      "size": 10.981083869934082,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        270.58892822265625,
+        317.3212890625,
+        285.0319519042969
+      ],
+      "text": "outcomes appeared to be similar for both options;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.78887939453125,
+        78.23609924316406,
+        298.2319030761719
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        283.78887939453125,
+        527.4422607421875,
+        298.2319030761719
+      ],
+      "text": "bedaquiline was dosed at 400 mg daily for the first 2 weeks, followed by 200 mg three times a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        296.9888916015625,
+        235.0181121826172,
+        311.4319152832031
+      ],
+      "text": "week for the full 9-month period.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.69281005859375,
+        527.5057373046875,
+        333.1358337402344
+      ],
+      "text": "Both options for linezolid dosing strategy can be used. The alternative daily dosing of bedaquiline was",
+      "font": "SegoeUI-Light",
+      "size": 10.972314834594727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.8927917480469,
+        527.3715209960938,
+        346.3358154296875
+      ],
+      "text": "not used in the modified 9-month regimens; however, it is considered an equivalent option that may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.0928039550781,
+        527.3860473632812,
+        359.53582763671875
+      ],
+      "text": "simplify treatment for the patient by requiring the same number of pills every day, streamlining the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.2928161621094,
+        527.2735595703125,
+        372.73583984375
+      ],
+      "text": "dosing schedule. Dosing of the other drugs in the modified 9-month regimen follows the standardized",
+      "font": "SegoeUI-Light",
+      "size": 10.961181640625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.4927978515625,
+        474.6696472167969,
+        385.9358215332031
+      ],
+      "text": "weight-based dosing of medicines used in MDR/RR-TB regimens, for adults and children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.3367004394531,
+        339.0997314453125,
+        417.9967041015625
+      ],
+      "text": "Regimen duration, extension and discontinuation",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.2046203613281,
+        527.4125366210938,
+        439.64764404296875
+      ],
+      "text": "In general, the individual drugs in the modified 9-month regimens are all used for the full 9-month",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.40460205078125,
+        527.3770751953125,
+        452.8476257324219
+      ],
+      "text": "duration. All three endTB trial regimens were stopped at month 9 without an option for extending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.6046142578125,
+        527.2377319335938,
+        466.0476379394531
+      ],
+      "text": "the duration. Discontinuation of either pyrazinamide or linezolid due to adverse events may be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.8045959472656,
+        527.3858032226562,
+        479.24761962890625
+      ],
+      "text": "considered, and the regimen may continue with the remaining drugs. However, if more than a single",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.0046081542969,
+        527.6201171875,
+        492.4476318359375
+      ],
+      "text": "drug needs to be discontinued, the regimen should be stopped and an alternative treatment started.",
+      "font": "SegoeUI-Light",
+      "size": 10.991997718811035,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.7086181640625,
+        527.4387817382812,
+        514.151611328125
+      ],
+      "text": "Where there is a lack of clinical or bacteriological response (e.g. culture remains positive or reverts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.9085083007812,
+        527.6643676757812,
+        527.3515014648438
+      ],
+      "text": "positive at month 4 or beyond), there should be an investigation for a possible undiagnosed or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        526.1085205078125,
+        188.71461486816406,
+        540.551513671875
+      ],
+      "text": "acquired drug resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.952392578125,
+        302.2884826660156,
+        572.6124267578125
+      ],
+      "text": "Missing doses and treatment interruptions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.8204345703125,
+        527.549560546875,
+        594.263427734375
+      ],
+      "text": "Making up for missed doses follows routine TB practice when accumulative interruption of all medicines",
+      "font": "SegoeUI-Light",
+      "size": 10.945263862609863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.0203857421875,
+        324.626220703125,
+        607.46337890625
+      ],
+      "text": "in the regimen exceeds 7 days but is less than a month.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.8643188476562,
+        168.60972595214844,
+        639.5243530273438
+      ],
+      "text": "Care and support",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.732177734375,
+        527.5830078125,
+        661.1751708984375
+      ],
+      "text": "Treatment administration coupled with patient support can boost adherence and ensure optimal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.9321899414062,
+        527.4420776367188,
+        674.3751831054688
+      ],
+      "text": "drug effectiveness and safety of patients on treatment. Measures to support patient adherence (e.g.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.132080078125,
+        527.3716430664062,
+        687.5750732421875
+      ],
+      "text": "by facilitating patient visits to health care facilities or home visits by health care staff, or by using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.3320922851562,
+        527.3912963867188,
+        700.7750854492188
+      ],
+      "text": "digital technologies for daily communication) may be important to retain patients on treatment, even",
+      "font": "SegoeUI-Light",
+      "size": 10.986991882324219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.5322265625,
+        527.4387817382812,
+        713.9752197265625
+      ],
+      "text": "when a regimen is comparatively short. WHO recommendations on care and support are discussed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        712.6221923828125,
+        136.03790283203125,
+        727.1751708984375
+      ],
+      "text": "Chapter 3 in  .",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "114 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 127,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.828125,
+        82.30619812011719
+      ],
+      "text": "phenotypic DST (DALY=0.51). The ICER per DALY averted was US$ 9261 (95% uncertainty range",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.948379516601562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        524.4157104492188,
+        97.80619812011719
+      ],
+      "text": "[UR]: US$ 5258–32 040/DALY averted), which was considered cost effective at a willingness-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.16120147705078,
+        526.9635009765625,
+        113.30619812011719
+      ],
+      "text": "to-pay (WTP) threshold of three times the country GDP per capita (US$ 15 609), with 80% of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.66120147705078,
+        331.37506103515625,
+        128.8061981201172
+      ],
+      "text": "simulated iterations falling below the WTP threshold.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        140.64878845214844,
+        460.3215637207031,
+        154.73678588867188
+      ],
+      "text": "Main findings for PICO 2: Using targeted NGS among those with RR-TB",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        165.40380859375,
+        526.890380859375,
+        178.54881286621094
+      ],
+      "text": "Using targeted NGS as a  among RR-TB patients,  replacement for universal phenotypic DST",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.90380859375,
+        527.2891845703125,
+        194.04881286621094
+      ],
+      "text": "targeted NGS was dominated by phenotypic DST, with targeted NGS having higher costs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.40380859375,
+        526.9635009765625,
+        209.54881286621094
+      ],
+      "text": "and leading to fewer health gains. This finding was driven by the high diagnostic accuracy of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.90380859375,
+        527.2604370117188,
+        225.04881286621094
+      ],
+      "text": "phenotypic DST (which was assumed to be universal in this scenario), and an assumption of no",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989595413208008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.40380859375,
+        526.9644165039062,
+        240.54881286621094
+      ],
+      "text": "difference in loss to follow-up between targeted NGS and phenotypic DST. When in-country",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.90380859375,
+        526.9777221679688,
+        256.048828125
+      ],
+      "text": "DST practice was used as the comparator (instead of universal phenotypic DST), targeted NGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.40380859375,
+        526.8431396484375,
+        271.548828125
+      ],
+      "text": "led to more health gains than in-country DST across all three countries. Targeted NGS was cost",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992897987365723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.90380859375,
+        526.9590454101562,
+        287.048828125
+      ],
+      "text": "effective in South Africa (ICER: US$ 15 619/DALY averted, 95% UR: cost saving –US$ 114 782,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.40380859375,
+        524.4071044921875,
+        302.548828125
+      ],
+      "text": "at a WTP threshold of US$ 21 165), but was not cost effective in Georgia (ICER: US$ 18,375/",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        304.90380859375,
+        526.9566650390625,
+        318.048828125
+      ],
+      "text": "DALY averted, UR: cost saving –US$  158 972/DALY averted, at a WTP threshold of US$ 15 065).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967351913452148,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.40380859375,
+        526.89306640625,
+        333.548828125
+      ],
+      "text": "In India, where LPA, liquid culture and DST are being used as part of in-country DST, targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.90380859375,
+        526.9644775390625,
+        349.048828125
+      ],
+      "text": "NGS dominated the country’s current DST practice, with lower costs and more health gains",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.40380859375,
+        243.4097900390625,
+        364.548828125
+      ],
+      "text": "(95% UR: cost saving –US$ 60 083).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.3913879394531,
+        248.65457153320312,
+        390.4794006347656
+      ],
+      "text": "Main findings: scenario analyses",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.14642333984375,
+        526.991943359375,
+        414.29144287109375
+      ],
+      "text": "Several key scenario analyses were investigated. In the base case approach, loss to follow-up",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.64642333984375,
+        526.698486328125,
+        429.79144287109375
+      ],
+      "text": "was assumed to be equivalent between phenotypic DST and targeted NGS; in a scenario where",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.970561027526855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.14642333984375,
+        526.9376220703125,
+        445.29144287109375
+      ],
+      "text": "there was no loss to follow-up in targeted NGS compared with 10% in phenotypic DST, targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.945363998413086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.64642333984375,
+        526.9490966796875,
+        460.79144287109375
+      ],
+      "text": "NGS was cost effective in South Africa (ICER: US$ 13 004/DALY averted, WTP: US$ 21 165) and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993597984313965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.14642333984375,
+        526.9923706054688,
+        476.29144287109375
+      ],
+      "text": "Georgia (ICER: US$ 13 640/DALY averted, WTP: US$ 15 069) and targeted NGS still dominated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.991246223449707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.64642333984375,
+        527.2426147460938,
+        491.79144287109375
+      ],
+      "text": "in-country DST practice in India. In scenarios where sequencing platforms are used for multiple",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.981985092163086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.14642333984375,
+        526.5777587890625,
+        507.29144287109375
+      ],
+      "text": "different diseases to reduce the unit test cost of targeted NGS, the cost–effectiveness of targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.64642333984375,
+        526.9921264648438,
+        522.7914428710938
+      ],
+      "text": "NGS improves in all three countries. A batching scenario was investigated, with an assumed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.1464233398438,
+        526.9148559570312,
+        538.2914428710938
+      ],
+      "text": "20% fewer samples per targeted NGS run, and led to an increased unit test cost for targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.6464233398438,
+        526.995361328125,
+        553.7914428710938
+      ],
+      "text": "NGS; in this scenario, the targeted NGS approach retained cost–effectiveness only in South",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.1464233398438,
+        526.96240234375,
+        569.2914428710938
+      ],
+      "text": "Africa. When a 50% price reduction in targeted NGS test kit cost was assumed, targeted NGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.6464233398438,
+        322.26739501953125,
+        584.7914428710938
+      ],
+      "text": "cost–effectiveness further improved in all countries.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.8043212890625,
+        527.4390258789062,
+        608.7183227539062
+      ],
+      "text": "Objective 2: To assess the financial impact of introducing targeted NGS as a replacement",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.990145683288574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.3043212890625,
+        527.3579711914062,
+        624.2183227539062
+      ],
+      "text": "for existing DST for diagnosis of DR-TB among TB patients across three countries: Georgia,",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.947274208068848,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.8043212890625,
+        190.43508911132812,
+        639.7183227539062
+      ],
+      "text": "India and South Africa.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.6541748046875,
+        526.7632446289062,
+        663.7991943359375
+      ],
+      "text": "A budget impact assessment was undertaken to estimate the financial consequences of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.1541748046875,
+        526.9370727539062,
+        679.2991943359375
+      ],
+      "text": "adopting targeted NGS for DST for all patients diagnosed with TB, and replacing in-country",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.6541748046875,
+        526.9479370117188,
+        694.7991943359375
+      ],
+      "text": "DST practice in Georgia (PICO 1). The analysis suggested that implementing targeted NGS for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.1541748046875,
+        526.9149780273438,
+        710.2991943359375
+      ],
+      "text": "all patients diagnosed with TB would be more expensive than testing all patients with Xpert",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        712.6542358398438,
+        412.1683044433594,
+        725.7992553710938
+      ],
+      "text": "MTB/RIF or Xpert Ultra, followed by phenotypic DST (see  ). Fig. 2.4.5.2",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 111",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 124,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        527.1168823242188,
+        82.30619812011719
+      ],
+      "text": "The test performance among people with RR-TB was determined to be  accurate for isoniazid,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979180335998535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.81520080566406,
+        527.4483032226562,
+        97.72920227050781
+      ],
+      "text": "levofloxacin, moxifloxacin, ethambutol and streptomycin (pooled sensitivity ≥95%) and",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.990045547485352,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.31520080566406,
+        527.068115234375,
+        113.22920227050781
+      ],
+      "text": "acceptable for pyrazinamide (90%), bedaquiline (68%), linezolid (69%), clofazimine",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.81520080566406,
+        527.14501953125,
+        128.7292022705078
+      ],
+      "text": "(70%) and amikacin (87%). The pooled specificity was 95% or greater for all drugs except",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.967101097106934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        131.16119384765625,
+        526.9758911132812,
+        144.3061981201172
+      ],
+      "text": "The reference standard was culture-based phenotypic DST for all drugs  streptomycin (75%).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        146.66119384765625,
+        526.9910278320312,
+        159.8061981201172
+      ],
+      "text": "except for ethambutol and pyrazinamide, where a combination of phenotypic DST and WGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        162.16119384765625,
+        526.9668579101562,
+        175.3061981201172
+      ],
+      "text": "was used. The percentage of tests with indeterminate results ranged from 9% (levofloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        177.66119384765625,
+        526.965576171875,
+        190.8061981201172
+      ],
+      "text": "and moxifloxacin) to 21% (ethambutol); indeterminate rates were higher in samples with a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        193.16119384765625,
+        385.84539794921875,
+        206.3061981201172
+      ],
+      "text": "lower bacterial load (semiquantitative category low or very low).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.947509765625,
+        527.4097290039062,
+        235.03550720214844
+      ],
+      "text": "Table 2.4.5.2 The accuracy and certainty of evidence of targeted NGS for the",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.3475341796875,
+        527.4108276367188,
+        249.43553161621094
+      ],
+      "text": "detection of resistance to anti-TB drugs among bacteriologically confirmed",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.74749755859375,
+        265.5421142578125,
+        263.8354797363281
+      ],
+      "text": "rifampicin-resistant pulmonary TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        279.4291076660156,
+        279.29547119140625,
+        508.974853515625,
+        294.33538818359375
+      ],
+      "text": "Accuracy % Studies\n Certainty",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        287.92138671875,
+        261.87103271484375,
+        300.83538818359375
+      ],
+      "text": "Drug Reference standard",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        279.4291076660156,
+        294.42138671875,
+        517.5988159179688,
+        309.46142578125
+      ],
+      "text": "(persons) in evidence (95% CI)",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        317.66571044921875,
+        480.3299865722656,
+        330.81072998046875
+      ],
+      "text": "Phenotypic DST Se: 96.5 (93.8–99.2) 12 (1440) High Isoniazid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        337.80419921875,
+        480.3299865722656,
+        350.94921875
+      ],
+      "text": "Phenotypic DST Sp: 95.8 (91.8–99.8) 12 (517) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        357.9425964355469,
+        508.2259521484375,
+        371.0876159667969
+      ],
+      "text": "Phenotypic DST Se: 95.8 (90.4–100) 6 (654) Moderate  Levofloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        378.08111572265625,
+        480.3299865722656,
+        391.22613525390625
+      ],
+      "text": "Phenotypic DST Sp: 96.0 (93.1–98.9) 7 (913) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        398.2195129394531,
+        480.3299865722656,
+        411.3645324707031
+      ],
+      "text": "Phenotypic DST Se: 96.5 (93.6–99.5) 6 (652) High Moxifloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        418.3580017089844,
+        480.3299865722656,
+        431.5030212402344
+      ],
+      "text": "Phenotypic DST Sp: 95.2 (91.0–99.4) 8 (921) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        438.49639892578125,
+        480.3299865722656,
+        451.64141845703125
+      ],
+      "text": "Phenotypic DST+WGS Se: 90.0 (86.8–93.2) 3 (346) High Pyrazinamide",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        458.6349182128906,
+        480.3299865722656,
+        471.7799377441406
+      ],
+      "text": "Phenotypic DST+WGS Sp: 98.6 (96.8–100) 3 (269) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        478.7733154296875,
+        477.6240234375,
+        491.9183349609375
+      ],
+      "text": "Phenotypic DST Se: 67.9 (42.6–93.2) 3 (31) Low Bedaquiline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        498.91180419921875,
+        480.3299865722656,
+        512.0568237304688
+      ],
+      "text": "Phenotypic DST Sp: 97.0 (94.3–99.7) 4 (519) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        519.0501708984375,
+        477.6240234375,
+        532.1951904296875
+      ],
+      "text": "Phenotypic DST Se: 68.9 (38.7–99.1) 4 (31) Low Linezolid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        539.188720703125,
+        480.3299865722656,
+        552.333740234375
+      ],
+      "text": "Phenotypic DST Sp: 99.8 (99.6–100) 6 (1093) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        559.3271484375,
+        477.6240234375,
+        572.47216796875
+      ],
+      "text": "Phenotypic DST Se: 70.4 (34.6–100) 4 (36) Low Clofazimine",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        579.465576171875,
+        480.3299865722656,
+        592.610595703125
+      ],
+      "text": "Phenotypic DST Sp: 96.3 (93.2–99.3) 6 (789) High",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        599.60400390625,
+        499.6239929199219,
+        612.7490234375
+      ],
+      "text": "Phenotypic DST Se: 87.4 (74.5–100) 5 (115) Very low Amikacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        619.7424926757812,
+        505.6739501953125,
+        632.8875122070312
+      ],
+      "text": "Phenotypic DST Sp: 99.0 (98.4–99.6) 8 (1003) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        639.8809204101562,
+        505.6739501953125,
+        653.0259399414062
+      ],
+      "text": "Phenotypic DST+WGS Se: 96.7 (95.0–98.4) 4 (431) Moderate Ethambutol",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        660.0194091796875,
+        505.6739501953125,
+        673.1644287109375
+      ],
+      "text": "Phenotypic DST+WGS Sp: 98.4 (96.1–100) 4 (123) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        680.1578369140625,
+        480.3299865722656,
+        693.3028564453125
+      ],
+      "text": "Phenotypic DST Se: 98.1 (96.1–100) 5 (493) High Streptomycin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        700.2963256835938,
+        477.6240234375,
+        713.4413452148438
+      ],
+      "text": "Phenotypic DST Sp: 75.0 (59.5–90.5) 5 (250) Low",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.223876953125,
+        526.5013427734375,
+        739.9788208007812
+      ],
+      "text": "CI: confidence interval; DST: drug susceptibility testing; NGS: next-generation sequencing; Se: sensitivity; Sp:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.0238647460938,
+        317.5381774902344,
+        750.77880859375
+      ],
+      "text": "specificity; TB: tuberculosis; WGS: whole genome sequencing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "108 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

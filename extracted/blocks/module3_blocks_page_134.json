@@ -1,0 +1,414 @@
+{
+  "file": "module3",
+  "page": 134,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.21018981933594,
+        222.7872772216797,
+        83.29818725585938
+      ],
+      "text": "Monitoring and evaluation:",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.96521759033203,
+        78.81909942626953,
+        107.11021423339844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        93.96521759033203,
+        526.7595825195312,
+        107.11021423339844
+      ],
+      "text": "Standardize the nomenclature for reporting of results across different targeted NGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        109.46521759033203,
+        410.9857482910156,
+        122.61021423339844
+      ],
+      "text": "technologies, for integration into health information data systems.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.96521759033203,
+        78.81909942626953,
+        138.11021423339844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        124.96521759033203,
+        526.9654541015625,
+        138.11021423339844
+      ],
+      "text": "Ensure separate recording of true failures and unclassified mutations, and monitor trends",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        140.4652099609375,
+        358.6272888183594,
+        153.61021423339844
+      ],
+      "text": "over time as an essential component of result reporting.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.9652099609375,
+        78.81909942626953,
+        169.11021423339844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        155.9652099609375,
+        526.9642333984375,
+        169.11021423339844
+      ],
+      "text": "Regularly monitor performance data, including overall resistance rates, resistance rates by",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        171.4652099609375,
+        461.38226318359375,
+        184.61021423339844
+      ],
+      "text": "specific drugs or targets and turnaround times (both total and in-laboratory).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.9652099609375,
+        78.81909942626953,
+        200.11021423339844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        186.9652099609375,
+        526.6600341796875,
+        200.11021423339844
+      ],
+      "text": "Incorporate quality monitoring measures, such as tracking indeterminate rates, sequencing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986641883850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        202.4652099609375,
+        483.09051513671875,
+        215.61021423339844
+      ],
+      "text": "coverage and depth, and participating in external quality assurance programmes.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.9652099609375,
+        78.81909942626953,
+        231.11021423339844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        217.9652099609375,
+        526.9633178710938,
+        231.11021423339844
+      ],
+      "text": "Establish an external quality assurance programme for sequencing that covers all relevant",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        233.4652099609375,
+        174.95240783691406,
+        246.61021423339844
+      ],
+      "text": "targets of interest.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        248.9652099609375,
+        78.81920623779297,
+        262.1102294921875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        248.9652099609375,
+        526.931396484375,
+        262.1102294921875
+      ],
+      "text": "Integrate the sequencing data generated into existing surveillance systems to monitor the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        264.4652099609375,
+        527.0863647460938,
+        277.6102294921875
+      ],
+      "text": "prevalence and trends in drug resistance effectively. Share the data to update the WHO",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        279.9652099609375,
+        184.88548278808594,
+        293.1102294921875
+      ],
+      "text": "mutation catalogue.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.4652099609375,
+        78.81909942626953,
+        308.6102294921875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        295.4652099609375,
+        527.1842651367188,
+        308.6102294921875
+      ],
+      "text": "Collect cost data to address important questions, such as the costs associated with introducing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        310.9652099609375,
+        526.9642333984375,
+        324.1102294921875
+      ],
+      "text": "and scaling up targeted NGS in different settings, the trade-offs between turnaround time",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        326.4652099609375,
+        368.16448974609375,
+        339.6102294921875
+      ],
+      "text": "and batching, and the optimal balance in various settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.9652099609375,
+        78.81909942626953,
+        355.1102294921875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        341.9652099609375,
+        526.9633178710938,
+        355.1102294921875
+      ],
+      "text": "Assess the impact of multidisease testing on programme operations and costs, including",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        357.4652099609375,
+        527.2723999023438,
+        370.6102294921875
+      ],
+      "text": "disease-specific testing volumes, turnaround times, costing, resource sharing and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        372.9652099609375,
+        198.29458618164062,
+        386.1102294921875
+      ],
+      "text": "resource requirements.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.4652099609375,
+        78.81909942626953,
+        401.6102294921875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        388.4652099609375,
+        526.96435546875,
+        401.6102294921875
+      ],
+      "text": "Evaluate the impact of time to treatment initiation or modification, treatment outcomes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        403.9652099609375,
+        396.8082580566406,
+        417.1102294921875
+      ],
+      "text": "and overall cost–effectiveness of targeted NGS implementation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "118 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

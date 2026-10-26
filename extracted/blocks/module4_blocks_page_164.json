@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 164,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        245.23455810546875,
+        82.6147232055664
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.1040649414062,
+        104.26564025878906
+      ],
+      "text": "Good-quality sputum specimens are necessary to ensure that laboratories can diagnose TB properly.",
+      "font": "SegoeUI-Light",
+      "size": 10.99539852142334,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.2509155273438,
+        117.46559143066406
+      ],
+      "text": "In addition, laboratories should have sufficient space to ensure the quality, safety and efficiency of the",
+      "font": "SegoeUI-Light",
+      "size": 10.987692832946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.5995483398438,
+        130.6657257080078
+      ],
+      "text": "services provided to clients whose samples are tested, and to ensure the safety of laboratory personnel,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.14674377441406,
+        527.5910034179688,
+        143.86573791503906
+      ],
+      "text": "(120) patients and visitors  . Some countries experience difficulties with the implementation and quality",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.991395950317383,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.4322509765625,
+        157.06568908691406
+      ],
+      "text": "assurance of sputum culture, which affects this recommendation because it is dependent on access",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        527.5199584960938,
+        170.2657012939453
+      ],
+      "text": "to quality-assured laboratories that can offer TB culture. Sputum smear and culture examinations are",
+      "font": "SegoeUI-Light",
+      "size": 10.999350547790527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.02272033691406,
+        527.4300537109375,
+        183.46571350097656
+      ],
+      "text": "also dependent on the quality of the sputum produced, so care should be taken to obtain adequate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.2227325439453,
+        527.3935546875,
+        196.6657257080078
+      ],
+      "text": "specimens and transport them to the laboratory according to standard procedures, to maintain the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.42274475097656,
+        334.6902160644531,
+        209.86573791503906
+      ],
+      "text": "viability of the bacilli and thus obtain a valid culture result.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.12660217285156,
+        527.4266967773438,
+        231.56959533691406
+      ],
+      "text": "In programmatic settings, the practitioner treating MDR-TB patients is typically guided not only by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.3267364501953,
+        527.4323120117188,
+        244.7697296142578
+      ],
+      "text": "bacteriological tests but also by markers of response to treatment or of disease progression, such as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.52662658691406,
+        527.4199829101562,
+        257.9696350097656
+      ],
+      "text": "the patient’s general condition, weight gain over time, resolution of disease manifestations, blood",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.7266845703125,
+        527.4255981445312,
+        271.1697082519531
+      ],
+      "text": "indices and results of imaging (e.g. chest radiography). The potential use of Xpert MTB/RIF assay in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        268.650634765625,
+        378.359375,
+        284.3696594238281
+      ],
+      "text": "(121, 122) monitoring treatment response has yet to be determined  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.630615234375,
+        527.4133911132812,
+        306.0736389160156
+      ],
+      "text": "The implementation of more frequent microbiological testing would require appropriate resources",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        304.83062744140625,
+        527.4322509765625,
+        319.2736511230469
+      ],
+      "text": "to be made available, both for the laboratories undertaking the tests and for the patient, who may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.03057861328125,
+        527.3826904296875,
+        332.4736022949219
+      ],
+      "text": "have to spend more time visiting the facilities and, at times, pay for the testing. Patient values and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.2305908203125,
+        527.5956420898438,
+        345.6736145019531
+      ],
+      "text": "preferences need to be considered to ensure a more acceptable service and patient-centred delivery",
+      "font": "SegoeUI-Light",
+      "size": 10.991146087646484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.43060302734375,
+        527.4278564453125,
+        358.8736267089844
+      ],
+      "text": "of care. Increased monitoring should not be done at the expense of overburdening the laboratory",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.630615234375,
+        527.4035034179688,
+        372.0736389160156
+      ],
+      "text": "services or upsetting health equity by displacing resources from other essential components of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.8305969238281,
+        127.9131851196289,
+        385.27362060546875
+      ],
+      "text": "programme.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.6478271484375,
+        220.46530151367188,
+        414.49981689453125
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.7077941894531,
+        527.305419921875,
+        436.15081787109375
+      ],
+      "text": "Culture and microscopy results for tests performed in patients on MDR-TB treatment should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.6317138671875,
+        527.4215698242188,
+        449.3507385253906
+      ],
+      "text": "(94) captured in the second-line TB treatment register as well as the respective laboratory registers  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.1078186035156,
+        527.2445678710938,
+        462.55084228515625
+      ],
+      "text": "Sometimes these registers may exist as part of an electronic laboratory or patient information system,",
+      "font": "SegoeUI-Light",
+      "size": 10.98133373260498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.3077087402344,
+        527.3992309570312,
+        475.750732421875
+      ],
+      "text": "which makes it much easier for multiple users to access the data in real time and can also help to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.5077209472656,
+        527.4320678710938,
+        488.95074462890625
+      ],
+      "text": "limit errors. It is important for the programme manager to assess the records in the second-line TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.7077941894531,
+        527.1688232421875,
+        502.15081787109375
+      ],
+      "text": "treatment register for completeness of testing using both culture and sputum smear microscopy, any",
+      "font": "SegoeUI-Light",
+      "size": 10.996099472045898,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.90771484375,
+        527.4345092773438,
+        515.3507080078125
+      ],
+      "text": "discordance between the two modalities, and whether decisions on regimen changes or assignment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.1077880859375,
+        527.3927001953125,
+        528.55078125
+      ],
+      "text": "of outcome are coherent (e.g. does a case have sufficient negative culture test results available to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.3077392578125,
+        527.44091796875,
+        541.750732421875
+      ],
+      "text": "be classified as “cured”?). Performance indicators help to improve the quality of care; such indicators",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.5076904296875,
+        527.41015625,
+        554.95068359375
+      ],
+      "text": "include contamination rates, turnaround times and proportion of culture tests done without results",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.707763671875,
+        527.4486694335938,
+        568.1507568359375
+      ],
+      "text": "being recorded in the patient information system. In the case of repeated positive cultures, repeat",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.90771484375,
+        324.16424560546875,
+        581.3507080078125
+      ],
+      "text": "testing for drug susceptibility or resistance is important.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.3389892578125,
+        523.689208984375,
+        620.1339721679688
+      ],
+      "text": "6. Starting antiretroviral therapy in patients on MDR/",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.1390380859375,
+        206.3038330078125,
+        642.9340209960938
+      ],
+      "text": "RR-TB regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.4741821289062,
+        319.4485168457031,
+        675.3541870117188
+      ],
+      "text": "Recommendation 6.1 Starting ART",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        687.0596313476562,
+        198.34689331054688,
+        701.4146118164062
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        708.6741943359375,
+        486.58447265625,
+        723.2271728515625
+      ],
+      "text": "6.1 Antiretroviral therapy is recommended for all patients with HIV and drug-resistant",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.2677001953125,
+        720.7841796875,
+        525.5926513671875,
+        735.2271728515625
+      ],
+      "text": "tuberculosis requiring second-line antituberculosis drugs, irrespective of CD4 cell count, as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.2677001953125,
+        732.7841796875,
+        523.6687622070312,
+        747.2271728515625
+      ],
+      "text": "early as possible (within the first 8 weeks) following initiation of antituberculosis treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.2677001953125,
+        747.7601928710938,
+        364.6481018066406,
+        763.4241943359375
+      ],
+      "text": "(Strong recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "150 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

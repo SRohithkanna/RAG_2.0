@@ -1,0 +1,666 @@
+{
+  "file": "module4",
+  "page": 156,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        192.756103515625,
+        82.6147232055664
+      ],
+      "text": "Diagnostic capabilities",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.3386840820312,
+        104.26564025878906
+      ],
+      "text": "The overall aim of TB treatment is to achieve cure without relapse in all patients, interrupting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.74658966064453,
+        527.210693359375,
+        117.46559143066406
+      ],
+      "text": "M. tuberculosis  transmission and preventing the acquisition (or amplification) of additional drug",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.385986328125,
+        130.6657257080078
+      ],
+      "text": "resistance. Globally, Hr-TB is more prevalent than MDR-TB. Thus, all countries need to move towards",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.6092529296875,
+        143.86573791503906
+      ],
+      "text": "universal testing of both isoniazid and rifampicin resistance at the start of TB treatment, and to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.4192504882812,
+        157.06568908691406
+      ],
+      "text": "ensuring careful selection of patients eligible for the (H)REZ–levofloxacin regimen.  The minimum  54",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        527.1025390625,
+        170.2657012939453
+      ],
+      "text": "diagnostic capacity to appropriately implement these recommendations is rapid molecular testing for",
+      "font": "SegoeUI-Light",
+      "size": 10.982486724853516,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.02272033691406,
+        527.3771362304688,
+        183.46571350097656
+      ],
+      "text": "rifampicin resistance before the start of treatment with the Hr-TB regimen and, preferably, the ruling",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.2227325439453,
+        376.1116638183594,
+        196.6657257080078
+      ],
+      "text": "out of fluoroquinolone resistance using WHO-recommended tests.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.92665100097656,
+        527.532470703125,
+        218.36964416503906
+      ],
+      "text": "Rapid molecular tests such as Xpert MTB/RIF, Xpert MTB/XDR and LPAs are preferred, to guide patient",
+      "font": "SegoeUI-Light",
+      "size": 10.970961570739746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.85060119628906,
+        319.2021789550781,
+        231.56959533691406
+      ],
+      "text": "(41, 111) selection for the (H)REZ–levofloxacin regimen  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.8306427001953,
+        524.5676879882812,
+        253.2736358642578
+      ],
+      "text": "Surveillance of DR-TB indicates that fluoroquinolone resistance among patients with rifampicin-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.7545928955078,
+        527.3086547851562,
+        266.4736022949219
+      ],
+      "text": "(112) susceptible TB is generally low worldwide  . However, national data on the prevalence of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.2305908203125,
+        527.6126098632812,
+        279.6736145019531
+      ],
+      "text": "fluoroquinolone resistance – including targeted or whole-genome sequencing to detect specific",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.15460205078125,
+        527.398681640625,
+        292.8736267089844
+      ],
+      "text": "(62)  mutations associated with resistance to fluoroquinolones  – could help to guide testing policies",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.630615234375,
+        375.3416748046875,
+        306.0736389160156
+      ],
+      "text": "when countries implement the Hr-TB treatment recommendations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.33453369140625,
+        527.3389892578125,
+        327.7775573730469
+      ],
+      "text": "When additional resistance (e.g. to both fluoroquinolones and pyrazinamide) is suspected or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.5345153808594,
+        527.1771850585938,
+        340.9775390625
+      ],
+      "text": "confirmed, treatment regimens that include other second-line TB medicines may have to be designed",
+      "font": "SegoeUI-Light",
+      "size": 10.97512149810791,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.7344970703125,
+        527.4290161132812,
+        354.1775207519531
+      ],
+      "text": "individually. The current review could not provide further evidence on effective regimens in patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.93450927734375,
+        188.86419677734375,
+        367.3775329589844
+      ],
+      "text": "with polyresistant disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.6385192871094,
+        527.4112548828125,
+        389.08154296875
+      ],
+      "text": "Support and close monitoring of patients are needed to maximize treatment adherence and enable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.8385009765625,
+        527.4375610351562,
+        402.2815246582031
+      ],
+      "text": "early detection of patients who are not responding to treatment (e.g. those with persistent sputum",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.03839111328125,
+        527.1537475585938,
+        415.4814147949219
+      ],
+      "text": "culture or smear positivity). In the presence of non-response to treatment, DST for rifampicin and the",
+      "font": "SegoeUI-Light",
+      "size": 10.996199607849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.2384948730469,
+        527.5465698242188,
+        428.6815185546875
+      ],
+      "text": "fluoroquinolones should be repeated, preferably with Xpert MTB/XDR or LPA. Documented acquisition",
+      "font": "SegoeUI-Light",
+      "size": 10.95792007446289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.43841552734375,
+        527.436767578125,
+        441.8814392089844
+      ],
+      "text": "of resistance to rifampicin or a fluoroquinolone while on the Hr-TB treatment regimen should alert",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.6385192871094,
+        527.4498291015625,
+        455.08154296875
+      ],
+      "text": "the clinician to the need to review the entire clinical and microbiological status of the patient, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.8385009765625,
+        243.68492126464844,
+        468.2815246582031
+      ],
+      "text": "change the regimen where necessary.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.54241943359375,
+        527.390380859375,
+        489.9854431152344
+      ],
+      "text": "Levofloxacin is proposed as the fluoroquinolone of first choice in the Hr-TB treatment regimen for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.7424011230469,
+        527.4398803710938,
+        503.1854248046875
+      ],
+      "text": "several reasons. First, the safety profile of this medicine is better characterized than that of other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.9423828125,
+        527.5115966796875,
+        516.3853759765625
+      ],
+      "text": "fluoroquinolones, and levofloxacin was the fluoroquinolone most frequently used in the studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.1423950195312,
+        527.6114501953125,
+        529.5853881835938
+      ],
+      "text": "reviewed for this guidance. Second, in comparison to moxifloxacin, levofloxacin has fewer known",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.3424072265625,
+        527.41748046875,
+        542.785400390625
+      ],
+      "text": "drug interactions with other medications. For example, although both plasma peak concentration and",
+      "font": "SegoeUI-Light",
+      "size": 10.973418235778809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.2664184570312,
+        527.4271850585938,
+        555.9854125976562
+      ],
+      "text": "(113) exposure to moxifloxacin decrease significantly when the drug is combined with rifampicin  , the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.742431640625,
+        527.4266967773438,
+        569.1854248046875
+      ],
+      "text": "same effect has not been reported for levofloxacin, possibly because levofloxacin undergoes limited",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.6663818359375,
+        527.4569702148438,
+        582.3853759765625
+      ],
+      "text": "(114) metabolism in humans and is excreted unchanged in the urine  . Third, although levofloxacin may",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.98523998260498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.1423950195312,
+        527.4243774414062,
+        595.5853881835938
+      ],
+      "text": "interfere with lamivudine clearance, in contrast to moxifloxacin, there are no contraindications for its",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.06640625,
+        252.63819885253906,
+        608.785400390625
+      ],
+      "text": "(44) use with other antiretroviral agents  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.0463256835938,
+        527.4388427734375,
+        630.4893188476562
+      ],
+      "text": "The addition of levofloxacin to (H)REZ is recommended in patients with Hr-TB, with the exception of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.246337890625,
+        178.63311767578125,
+        643.6893310546875
+      ],
+      "text": "the following situations:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.9503173828125,
+        78.23609924316406,
+        665.393310546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        650.9503173828125,
+        527.1400756835938,
+        665.393310546875
+      ],
+      "text": "resistance to rifampicin cannot be excluded (i.e. unknown susceptibility to rifampicin, or indeterminate",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        664.1502685546875,
+        246.44158935546875,
+        678.59326171875
+      ],
+      "text": "or error results on Xpert MTB/XDR);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.350341796875,
+        78.23609924316406,
+        691.7933349609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        677.350341796875,
+        293.6833190917969,
+        691.7933349609375
+      ],
+      "text": "known or suspected resistance to levofloxacin;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.55029296875,
+        78.23609924316406,
+        704.9932861328125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        690.55029296875,
+        262.2552185058594,
+        704.9932861328125
+      ],
+      "text": "known intolerance to fluoroquinolones;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.7501831054688,
+        78.23609924316406,
+        718.1931762695312
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        703.7501831054688,
+        342.75079345703125,
+        718.1931762695312
+      ],
+      "text": "known or suspected risk for prolonged QT interval; and 55",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.8370971679688,
+        526.5654907226562,
+        741.5410766601562
+      ],
+      "text": "The association between previous TB treatment history and Hr-TB is less strong than the association in MDR-TB. As a result, previous  54",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        740.6371459960938,
+        408.68865966796875,
+        751.14111328125
+      ],
+      "text": "TB treatment is less reliable as a proxy for Hr-TB and a laboratory diagnosis is therefore important.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        526.5927124023438,
+        763.5758056640625
+      ],
+      "text": "Baseline-corrected QT. Prolongation of the QT interval and isolated cases of  torsades de pointes  have been reported. Avoid use in  55",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        451.00311279296875,
+        773.17578125
+      ],
+      "text": "patients with known prolongation, those with hypokalaemia, and with other drugs that prolong the QT interval.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "142 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

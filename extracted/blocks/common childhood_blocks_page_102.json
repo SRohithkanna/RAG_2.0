@@ -1,0 +1,414 @@
+{
+  "file": "common childhood",
+  "page": 102,
+  "blocks": [
+    {
+      "bbox": [
+        113.12979888916016,
+        27.289522171020508,
+        340.4130554199219,
+        35.34652328491211
+      ],
+      "text": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        73.55532836914062,
+        109.15092468261719,
+        81.6123275756836
+      ],
+      "text": "CHAPTER/SECTION",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        86.80422973632812,
+        183.61097717285156,
+        97.1632308959961
+      ],
+      "text": "3.12\t Other common neonatal problems",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        102.18417358398438,
+        181.01898193359375,
+        112.54317474365234
+      ],
+      "text": "3.13\t Babies of mothers with infections",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        117.56442260742188,
+        196.48094177246094,
+        127.92342376708984
+      ],
+      "text": "Drug doses of common drugs for neonates",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        128.56442260742188,
+        109.12691497802734,
+        138.92343139648438
+      ],
+      "text": "and LBW babies",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        62.36220169067383,
+        143.26942443847656,
+        179.68617248535156,
+        154.0604248046875
+      ],
+      "text": "4. Cough or difficulty breathing",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        158.64932250976562,
+        164.35093688964844,
+        169.00833129882812
+      ],
+      "text": "4.1\t Child presenting with cough",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        174.02938842773438,
+        110.1078872680664,
+        184.38839721679688
+      ],
+      "text": "4.2\t Pneumonia",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        189.40951538085938,
+        119.50391387939453,
+        199.76852416992188
+      ],
+      "text": "4.3\t Cough or cold",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        204.78961181640625,
+        186.08595275878906,
+        215.14862060546875
+      ],
+      "text": "4.4\t Conditions presenting with wheeze",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        220.16958618164062,
+        183.7188720703125,
+        230.52859497070312
+      ],
+      "text": "4.5\t Conditions presenting with stridor",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        235.54971313476562,
+        188.54295349121094,
+        245.90872192382812
+      ],
+      "text": "4.6\t Conditions presenting with chronic",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        73.70079803466797,
+        246.54971313476562,
+        93.7258071899414,
+        256.9087219238281
+      ],
+      "text": "cough",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        261.68670654296875,
+        103.94287872314453,
+        272.04571533203125
+      ],
+      "text": "4.7\t Pertussis",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        277.0668029785156,
+        114.7608871459961,
+        287.4258117675781
+      ],
+      "text": "4.8\t Tuberculosis",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        292.4468078613281,
+        150.07693481445312,
+        302.8058166503906
+      ],
+      "text": "4.9\t Foreign body inhalation",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        307.826904296875,
+        113.21290588378906,
+        318.1859130859375
+      ],
+      "text": "4.10\t Heart failure",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        62.36220169067383,
+        322.7749938964844,
+        109.79219818115234,
+        333.5660095214844
+      ],
+      "text": "5. Diarrhoea",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        414.38018798828125,
+        159.94093322753906,
+        424.73919677734375
+      ],
+      "text": "6.1\t Child presenting with fever",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        429.7602844238281,
+        97.9039077758789,
+        440.1192932128906
+      ],
+      "text": "6.2\t Malaria",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        445.1404113769531,
+        107.92091369628906,
+        455.4994201660156
+      ],
+      "text": "6.3\t Meningitis",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        460.5204162597656,
+        100.75690460205078,
+        470.8794250488281
+      ],
+      "text": "6.4\t Measles",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        475.9004821777344,
+        113.20392608642578,
+        486.2594909667969
+      ],
+      "text": "6.5\t Septicaemia",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        491.2804870605469,
+        116.97491455078125,
+        501.6394958496094
+      ],
+      "text": "6.6\t Typhoid fever",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        506.6606140136719,
+        117.7129135131836,
+        517.0195922851562
+      ],
+      "text": "6.7\t Ear infections",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        522.0407104492188,
+        147.36790466308594,
+        532.399658203125
+      ],
+      "text": "6.8\t Urinary tract infections",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        537.4207153320312,
+        174.4398956298828,
+        547.7796630859375
+      ],
+      "text": "6.9\t Septic arthritis or osteomyelitis",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        552.8008422851562,
+        98.45291137695312,
+        563.1597900390625
+      ],
+      "text": "6.10\t Dengue",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        62.36220169067383,
+        567.7489013671875,
+        146.68316650390625,
+        578.5399169921875
+      ],
+      "text": "7. Severe malnutrition",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        583.12890625,
+        105.85989379882812,
+        593.4878540039062
+      ],
+      "text": "7.1\t Diagnosis",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        598.509033203125,
+        182.323974609375,
+        608.8679809570312
+      ],
+      "text": "7.2\t Initial assessment of the severely",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        73.70079803466797,
+        609.509033203125,
+        135.5308074951172,
+        619.8679809570312
+      ],
+      "text": "malnourished child",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.36920166015625,
+        644.9403076171875,
+        230.67620849609375,
+        655.2992553710938
+      ],
+      "text": "88",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

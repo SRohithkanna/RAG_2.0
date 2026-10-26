@@ -1,0 +1,402 @@
+{
+  "file": "module1",
+  "page": 88,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "70",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.09741973876953,
+        732.5901489257812,
+        136.4346466064453
+      ],
+      "text": "PICO 3: What is the accuracy of symptomatic screening and/or chest x-ray to exclude TB disease in contacts of people with  WHO consolidated",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        379.3892517089844,
+        98.88038635253906
+      ],
+      "text": "pulmonary TB without HIV in high TB incidence countries?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        100.81861114501953,
+        745.6407470703125,
+        117.61460876464844
+      ],
+      "text": "Chest radiographic findings for exclusion of TB disease in contacts of people with TB without HIV in high TB incidence countries",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        121.48788452148438,
+        388.22515869140625,
+        133.1068878173828
+      ],
+      "text": "Index test:  Chest X-ray. Any abnormality | Reference test: Sputum culture and/or smear",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        132.48788452148438,
+        145.87380981445312,
+        144.1068878173828
+      ],
+      "text": "Place of testing:  Triage",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        143.48788452148438,
+        651.5470581054688,
+        155.1068878173828
+      ],
+      "text": "Test–treatment pathway:  Chest X-ray positive   confirmatory test (mycobacterial culture or GeneXpert)   anti-TB chemotherapy (6–9 months’ antibiotics)  ➞ ➞",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        208.74661254882812,
+        117.4242935180664,
+        220.26661682128906
+      ],
+      "text": "True positives",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69288635253906,
+        214.24661254882812,
+        711.0552368164062,
+        231.26658630371094
+      ],
+      "text": "Prevalence (2%): 1882 (1716 ; 1954) Cross- (patients with active",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69288635253906,
+        225.24661254882812,
+        715.3282470703125,
+        242.2665557861328
+      ],
+      "text": "Prevalence (5%): 4705 (4290 ; 4885 sectional  7 studies\n TB )",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.78411865234375,
+        238.34652709960938,
+        775.2197265625,
+        249.86659240722656
+      ],
+      "text": "Serious (cohort type  251 410  Not serious Not serious Not serious None Moderate a b c d e",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        245.94647216796875,
+        696.4354858398438,
+        262.96649169921875
+      ],
+      "text": "False negatives (patients  accuracy  patients  Prevalence (2%) : 118 (46 ; 284)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        256.946533203125,
+        697.07373046875,
+        273.96649169921875
+      ],
+      "text": "incorrectly classified as  study)  Prevalence (5%): 295 (115 ; 710)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        267.9465026855469,
+        144.67724609375,
+        279.46649169921875
+      ],
+      "text": "not having active TB )",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        576.098388671875,
+        283.1463928222656,
+        675.6347045898438,
+        294.6663818359375
+      ],
+      "text": "Prevalence (2%) : 85 064",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        294.1463928222656,
+        642.2534790039062,
+        305.6663818359375
+      ],
+      "text": "True negatives (patients  (78 106 ; 89 866)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        301.7463073730469,
+        673.3685302734375,
+        316.6663818359375
+      ],
+      "text": "Cross- without active TB)  Prevalence (5%): 82 460",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.35513305664062,
+        312.7463684082031,
+        636.4827880859375,
+        327.6663818359375
+      ],
+      "text": "sectional  7 studies\n (75 715 ; 87 115)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.7841339111328,
+        323.746337890625,
+        777.2537231445312,
+        335.2663879394531
+      ],
+      "text": "(cohort type  Serious 251 410  Not serious Not serious Not serious None Moderate  a b c d e",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        331.3462829589844,
+        672.2156982421875,
+        348.3662414550781
+      ],
+      "text": "Prevalence (2%) : 12 936  accuracy  patients  False positives (patients",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        342.3462829589844,
+        632.6739501953125,
+        359.3663330078125
+      ],
+      "text": "(8134 ; 19 894) study)  incorrectly classified as",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        576.098388671875,
+        353.3462829589844,
+        671.104248046875,
+        364.86627197265625
+      ],
+      "text": "Prevalence (5%): 12 540",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        358.8463134765625,
+        127.78155517578125,
+        370.3663024902344
+      ],
+      "text": "having active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        576.098388671875,
+        364.3462829589844,
+        635.8428955078125,
+        375.86627197265625
+      ],
+      "text": "(7 885 ; 19 285)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        384.1142883300781,
+        132.6179962158203,
+        393.71429443359375
+      ],
+      "text": "From references  (31–37)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        390.1142883300781,
+        786.8667602539062,
+        402.71429443359375
+      ],
+      "text": "Limitations in study design (see QUADAS-2): High risk of selection bias in one study  . In all studies, less than half of participants received the reference standard; accuracy was calculated under the assumption that those who  (31) a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61409759521484,
+        402.1142883300781,
+        352.8140869140625,
+        411.71429443359375
+      ],
+      "text": "did not receive the reference standard were culture and/or smear negative (no active TB).",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        408.1142883300781,
+        443.00225830078125,
+        420.71429443359375
+      ],
+      "text": "Indirectness (see QUADAS-2): Some concern about applicability of reference standard in 2 studies – no downgrading.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        417.1142883300781,
+        384.0448303222656,
+        429.71429443359375
+      ],
+      "text": "Inconsistency: Little heterogeneity for sensitivity and specificity (based on visual inspection of CIs).  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        426.1142883300781,
+        259.6304016113281,
+        438.71429443359375
+      ],
+      "text": "Imprecision: Precise estimates for sensitivity and specificity.  d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        435.1142883300781,
+        462.8000793457031,
+        447.71429443359375
+      ],
+      "text": "Publication bias: Not applicable (the evidence base for publication bias in studies of diagnostic test accuracy is very limited).  e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

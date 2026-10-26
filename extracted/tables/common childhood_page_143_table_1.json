@@ -1,0 +1,58 @@
+{
+  "file": "common childhood",
+  "page": 143,
+  "table_id": 1,
+  "bbox": [
+    145.4185028076172,
+    62.36191177368164,
+    241.27850341796875,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 3,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Treatment failure until 1 month",
+      "35 (38 analytical components)",
+      "RCT 0",
+      "Inadequate -0.5",
+      "No -0.5",
+      "No 0",
+      "Most comparisons of antibiotic duration used 2 different antibiotics -1",
+      "Some imprecision -0.5",
+      "Some inconsistency -0.5",
+      "Most children studied from low burden countries -0.5",
+      "VERY LOW Total -3.5",
+      "OR 1.06 (0.95 to 1.17) p-value = 0.298"
+    ]
+  ]
+}

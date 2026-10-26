@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 36,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        246.438720703125,
+        85.31422424316406
+      ],
+      "text": "Cost–effectiveness analysis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        350.33856201171875,
+        108.71018981933594
+      ],
+      "text": "This section deals with the following additional question:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.55284118652344,
+        465.8425598144531,
+        134.64083862304688
+      ],
+      "text": "What are the comparative costs, affordability and cost–effectiveness of",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.9528045654297,
+        242.8309326171875,
+        149.04080200195312
+      ],
+      "text": "implementation of LC-aNAATs?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.70782470703125,
+        526.9368286132812,
+        172.8528289794922
+      ],
+      "text": "WHO commissioned a systematic review to identify, evaluate and summarise the evidence on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        175.20782470703125,
+        474.3954772949219,
+        188.3528289794922
+      ],
+      "text": "cost, affordability and cost-effectiveness of LC-aNAATs, among other technologies.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.21173095703125,
+        526.9656372070312,
+        212.3567352294922
+      ],
+      "text": "A total of 1534 studies were identified in the original search; after removing duplicates, 736",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.71173095703125,
+        527.1298828125,
+        227.8567352294922
+      ],
+      "text": "potentially relevant studies were screened. Of these, 107 were assigned for full-text review",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.21173095703125,
+        527.0029296875,
+        243.3567352294922
+      ],
+      "text": "and were evaluated against the inclusion and exclusion criteria, and 29 studies were included",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.71173095703125,
+        526.9644165039062,
+        258.85675048828125
+      ],
+      "text": "in the final systematic review. Of the 29 included studies, 22 (76%) assessed Xpert MTB/RIF,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.21173095703125,
+        526.7389526367188,
+        274.35675048828125
+      ],
+      "text": "six (21%) assessed Xpert Ultra, and one study (3%) evaluated Truenat tests (both Truenat",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.71173095703125,
+        524.4291381835938,
+        289.85675048828125
+      ],
+      "text": "MTB Plus and Truenat MTB-RIF Dx). Ten of the studies evaluating Xpert MTB/RIF were cost–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.21173095703125,
+        526.9654541015625,
+        305.35675048828125
+      ],
+      "text": "effectiveness analyses, and 12 were cost analyses. All the included Xpert Ultra studies and the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.71173095703125,
+        357.37890625,
+        320.85675048828125
+      ],
+      "text": "study evaluating Truenat were cost–effectiveness analyses.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        331.7156066894531,
+        526.7874145507812,
+        344.8606262207031
+      ],
+      "text": "The cost-effectiveness analysis on Xpert was considered because of similarity between two",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        347.2156066894531,
+        295.77947998046875,
+        360.3606262207031
+      ],
+      "text": "technologies and scarcity of the data on Ultra.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        371.2195129394531,
+        526.9150390625,
+        384.3645324707031
+      ],
+      "text": "The studies included in the review were diverse, were conducted across various settings and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        386.7195129394531,
+        526.9591674804688,
+        399.8645324707031
+      ],
+      "text": "covered all income levels. This broad spectrum of research provided a comprehensive view of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        402.2195129394531,
+        526.9656372070312,
+        415.3645324707031
+      ],
+      "text": "the economic evidence on LC-aNAATs, with a focus on adults. Only three cost–effectiveness",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        417.7195129394531,
+        526.9636840820312,
+        430.8645324707031
+      ],
+      "text": "analyses included children. There were various comparator tests, including smear and culture.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        433.2195129394531,
+        526.963623046875,
+        446.3645324707031
+      ],
+      "text": "Most of the studies included sputum specimens. Six of the 10 cost–effectiveness analyses on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        448.7195129394531,
+        526.9249877929688,
+        461.8645324707031
+      ],
+      "text": "Xpert MTB/RIF presented results in natural units (additional people with TB detected), and the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992297172546387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        464.2195129394531,
+        526.9920654296875,
+        477.3645324707031
+      ],
+      "text": "other four presented utility outcomes (quality-adjusted life years and disability-adjusted life",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.7195129394531,
+        143.730224609375,
+        492.8645324707031
+      ],
+      "text": "years [DALYs]).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        503.7235107421875,
+        526.9636840820312,
+        516.8685302734375
+      ],
+      "text": "The findings from the cost–effectiveness analyses showed that Xpert MTB/RIF was generally",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        519.2235107421875,
+        526.9656982421875,
+        532.3685302734375
+      ],
+      "text": "cost effective across the included studies when compared with smear or culture, except for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        534.7235107421875,
+        526.9481201171875,
+        547.8685302734375
+      ],
+      "text": "one study from Thailand, where TB LAMP was the dominant strategy. In contrast, there was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        550.2235107421875,
+        527.2894287109375,
+        563.3685302734375
+      ],
+      "text": "more heterogeneity in the methodology used in the cost–effectiveness studies for Xpert Ultra,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997099876403809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        565.7235107421875,
+        526.9625244140625,
+        578.8685302734375
+      ],
+      "text": "and the findings showed that, for the Xpert Ultra versus sputum smear microscopy (SSM), an",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        581.2235107421875,
+        526.9679565429688,
+        594.3685302734375
+      ],
+      "text": "incremental cost–effectiveness ratio (ICER) ranged from US$ 72.72 to US$ 160.23 per DALY",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        596.7235107421875,
+        526.9645385742188,
+        609.8685302734375
+      ],
+      "text": "averted. In the only study on Truenat, it was found to be cost effective for children in India",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        612.2235107421875,
+        443.29876708984375,
+        625.3685302734375
+      ],
+      "text": "compared with Xpert MTB/RIF, with an ICER of US$ 94.72 per DALY averted.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.2274169921875,
+        527.0733642578125,
+        649.3724365234375
+      ],
+      "text": "In general LC-aNAATs are likely to be cost effective across various settings when compared",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.7274169921875,
+        178.06019592285156,
+        664.8724365234375
+      ],
+      "text": "with SSM and culture.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.7314453125,
+        503.456787109375,
+        688.87646484375
+      ],
+      "text": "More details on the economic evaluation of LC-aNAATs are available in  Web Annex B.9.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "20 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "file": "module3",
+  "page": 67,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.21018981933594,
+        510.6290588378906,
+        83.29818725585938
+      ],
+      "text": "What is the incremental diagnostic accuracy of concurrent use of respiratory LC-",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.61033630371094,
+        527.2655029296875,
+        97.69833374023438
+      ],
+      "text": "aNAATs and LF-LAM on urine for diagnosis of TB disease in adults and adolescents",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.01023864746094,
+        491.413330078125,
+        112.09823608398438
+      ],
+      "text": "with HIV who present with presumptive TB, compared with any of the tests",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        112.41020202636719,
+        107.0653076171875,
+        126.49819946289062
+      ],
+      "text": "alone?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.16522216796875,
+        527.0289916992188,
+        150.3102264404297
+      ],
+      "text": "Of 31 studies, 27 evaluated diagnostic accuracy against an MRS, and 23 against a CRS, with 20",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.999249458312988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.66522216796875,
+        372.12969970703125,
+        165.8102264404297
+      ],
+      "text": "studies evaluating accuracy against both reference standards.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.66912841796875,
+        526.56298828125,
+        189.8141326904297
+      ],
+      "text": "A total of 27 studies (12 651 participants, including 2368 [18.7%] with TB) compared the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.16912841796875,
+        526.9594116210938,
+        205.3141326904297
+      ],
+      "text": "accuracy of the concurrent use of LC-aNAAT on a respiratory sample and LF-LAM versus each",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.66912841796875,
+        526.9655151367188,
+        220.8141326904297
+      ],
+      "text": "of the tests alone, using an MRS. The pooled differences in sensitivity and specificity between",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.16912841796875,
+        526.9589233398438,
+        236.3141326904297
+      ],
+      "text": "concurrent testing versus LC-aNAAT alone were 6.7% (95% credible interval [CrI]: 3.8 to 10.7;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.66912841796875,
+        526.8135986328125,
+        251.8141326904297
+      ],
+      "text": "95% prediction interval [PI]: 0.6 to 45.9) and –6.8% (95% CrI: –9.5 to –4.7; 95% PI: –32.8 to –6.8),",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.946218490600586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.16912841796875,
+        513.6306762695312,
+        267.31414794921875
+      ],
+      "text": "respectively ( ). Certainty of evidence was low for both sensitivity and specificity. Fig. 2.3.1.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.17303466796875,
+        526.56298828125,
+        291.31805419921875
+      ],
+      "text": "A total of 23 studies (11 109 participants, including 3723 [33.5%] with TB) compared the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.67303466796875,
+        526.7281494140625,
+        306.81805419921875
+      ],
+      "text": "accuracy of the concurrent use of LC-aNAAT and LF-LAM versus LC-aNAAT alone, using a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.17303466796875,
+        527.01953125,
+        322.31805419921875
+      ],
+      "text": "CRS. The pooled differences in sensitivity and specificity between concurrent testing versus",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.673095703125,
+        526.8930053710938,
+        337.818115234375
+      ],
+      "text": "LC-aNAAT alone were 16.0% (95% CrI: 10.7 to 22.9; 95% PI: 2.3 to 60.3) and –3.5% (95% CrI:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.173095703125,
+        526.9426879882812,
+        353.318115234375
+      ],
+      "text": "–6.6 to –1.7; 95% PI: –47.2 to –0.1), respectively ( ). Certainty of evidence was low  Fig. 2.3.1.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.673095703125,
+        270.27130126953125,
+        368.818115234375
+      ],
+      "text": "for sensitivity and very low for specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.4593200683594,
+        507.84600830078125,
+        397.54730224609375
+      ],
+      "text": "Fig. 2.3.1.1. Forest plot of pooled differences in sensitivity and specificity (all",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.7680969238281,
+        511.79754638671875,
+        411.9472961425781
+      ],
+      "text": "a studies combined) by index test: LF-LAM, LC-aNAAT and their concurrent use",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        72.02120208740234,
+        424.6407165527344,
+        513.4970703125,
+        433.12152099609375
+      ],
+      "text": "Reference Test N No. (%) with TB Summary (95% CrI) Summary (95% CrI)",
+      "font": "Arial-BoldMT",
+      "size": 6.121699333190918,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.22090148925781,
+        437.2605285644531,
+        86.81976318359375,
+        445.7413330078125
+      ],
+      "text": "MRS",
+      "font": "Arial-BoldMT",
+      "size": 6.119500160217285,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        437.2850036621094,
+        513.1658935546875,
+        445.42926025390625
+      ],
+      "text": "LF-LAM 12651 2368 (18.7%) 39.1% (32.6 to 45.9) 91.9% (88.7 to 94.4)",
+      "font": "ArialMT",
+      "size": 6.1203999519348145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        449.90216064453125,
+        513.1658935546875,
+        458.04815673828125
+      ],
+      "text": "12651 2368 (18.7%) 68.0% (60.8 to 74.9) LCa-NAAT 96.7% (95.7 to 97.6)",
+      "font": "ArialMT",
+      "size": 6.1203999519348145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        462.5193176269531,
+        513.1658935546875,
+        470.6678771972656
+      ],
+      "text": "12651 2368 (18.7%) 77.5% (73.4 to 81.3) Concurrent 89.4% (85.8 to 92.3)",
+      "font": "ArialMT",
+      "size": 6.1203999519348145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        475.1434020996094,
+        511.1134338378906,
+        483.28765869140625
+      ],
+      "text": "Difference 6.7% (3.8 to 10.7) -6.8% (-9.5 to -4.7)",
+      "font": "ArialMT",
+      "size": 6.1203999519348145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        73.89859771728516,
+        500.3645324707031,
+        86.81961059570312,
+        508.8453369140625
+      ],
+      "text": "CRS",
+      "font": "Arial-BoldMT",
+      "size": 6.119849681854248,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        500.3830871582031,
+        513.1658935546875,
+        508.53326416015625
+      ],
+      "text": "3723 (33.5%) LF-LAM 11109 38.6% (30.7 to 47.0) 96.3% (93.0 to 98.1)",
+      "font": "ArialMT",
+      "size": 6.119949817657471,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        513.000244140625,
+        508.9099426269531,
+        521.15283203125
+      ],
+      "text": "3723 (33.5%) 11109 46.8% (38.6 to 55.2) LCa-NAAT 99.9% (99.8 to 1)",
+      "font": "ArialMT",
+      "size": 6.120149612426758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        525.6173706054688,
+        513.1658935546875,
+        533.772705078125
+      ],
+      "text": "3723 (33.5%) 11109 67.6% (59.9 to 74.6) Concurrent 96.2% (92.8 to 98.1)",
+      "font": "ArialMT",
+      "size": 6.120149612426758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.74490356445312,
+        538.240478515625,
+        511.1134338378906,
+        546.3924560546875
+      ],
+      "text": "16.0% (10.7 to 22.9) Difference -3.5% (-6.6 to -1.7)",
+      "font": "ArialMT",
+      "size": 6.1203999519348145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        233.89450073242188,
+        556.1132202148438,
+        454.2162780761719,
+        562.4139404296875
+      ],
+      "text": "0.00 0.25 0.50 0.75 1.00 0.00 0.25 0.50 0.75 1.00",
+      "font": "ArialMT",
+      "size": 4.732399940490723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        253.75250244140625,
+        561.450927734375,
+        434.38714599609375,
+        570.397705078125
+      ],
+      "text": "Sensitivity Specificity",
+      "font": "Arial-BoldMT",
+      "size": 6.454750061035156,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.150146484375,
+        526.4922485351562,
+        595.9050903320312
+      ],
+      "text": "CrI: credible interval; CRS: composite reference standard; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.9501342773438,
+        526.5003051757812,
+        606.705078125
+      ],
+      "text": "amplification test; LF-LAM: lateral flow urine lipoarabinomannan assay; MRS: microbiological reference standard;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.7501220703125,
+        135.74710083007812,
+        617.5050659179688
+      ],
+      "text": "TB: tuberculosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.3689575195312,
+        526.4973754882812,
+        631.1397705078125
+      ],
+      "text": "a  The diamonds represent the pooled sensitivity and specificity, and the black horizontal line its 95% CrI. The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.184814453125,
+        526.5012817382812,
+        641.9397583007812
+      ],
+      "text": "pooled difference in sensitivity and specificity between concurrent testing and LC-aNAAT alone is indicated by a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.98486328125,
+        526.5012817382812,
+        652.7398071289062
+      ],
+      "text": "line connecting two diamonds. This pooled difference may not correspond to the difference between the pooled",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.7847290039062,
+        279.98687744140625,
+        663.5396728515625
+      ],
+      "text": "single test accuracy estimates (see  ). Web Annex B.8",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.5479736328125,
+        526.9810180664062,
+        693.6929931640625
+      ],
+      "text": "In addition to diagnostic accuracy, clinical outcome data on mortality, time to diagnosis and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.0479736328125,
+        527.0250854492188,
+        709.1929931640625
+      ],
+      "text": "time to treatment were assessed. Data on cure and loss to follow-up were not assessed due to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.5480346679688,
+        526.9808349609375,
+        724.6930541992188
+      ],
+      "text": "a lack of data. The data from three studies indicated that an intervention including LC-aNAAT",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.0480346679688,
+        526.9976806640625,
+        740.1930541992188
+      ],
+      "text": "on respiratory samples and LF-LAM on urine in adult inpatients with HIV was associated with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.5480346679688,
+        526.651123046875,
+        755.6930541992188
+      ],
+      "text": "slightly reduced 8-week mortality (risk ratio: 0.93; 95% CI: 0.74–1.17). The adjusted hazard",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.0480346679688,
+        527.0863037109375,
+        771.1930541992188
+      ],
+      "text": "ratio of time to diagnosis in adult inpatients with HIV was 1.55 (95% CI: 1.29–1.87). This means",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.983137130737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 51",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

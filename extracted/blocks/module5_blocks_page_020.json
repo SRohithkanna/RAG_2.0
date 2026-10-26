@@ -1,0 +1,654 @@
+{
+  "file": "module5",
+  "page": 20,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        159.90769958496094,
+        89.46791076660156
+      ],
+      "text": "Objectives",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.91883087158203,
+        527.3991088867188,
+        109.36183166503906
+      ],
+      "text": "The objectives of the 2022 consolidated guidelines are: to provide policy-makers and implementing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.11884307861328,
+        527.280517578125,
+        122.56184387207031
+      ],
+      "text": "partners with evidence-based recommendations on the cascade of care for children and adolescents;",
+      "font": "SegoeUI-Light",
+      "size": 10.981083869934082,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.31879425048828,
+        527.3860473632812,
+        135.7617950439453
+      ],
+      "text": "to support the implementation of activities to prevent TB among children and adolescents at risk;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.51893615722656,
+        527.4398803710938,
+        148.96192932128906
+      ],
+      "text": "to improve TB case detection and treatment outcomes in children and adolescents with TB using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        147.7189483642578,
+        527.425537109375,
+        162.1619415283203
+      ],
+      "text": "effective models of care; and to contribute to reductions in TB related morbidity and mortality in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        158.12489318847656,
+        527.4256591796875,
+        175.3618927001953
+      ],
+      "text": "(5) children and adolescents in line with global targets including those in the SDGs  , the WHO End",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3249053955078,
+        527.440673828125,
+        188.56190490722656
+      ],
+      "text": "(6) TB Strategy   and the Political declaration of the UN General Assembly High-Level Meeting on the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.52491760253906,
+        201.31739807128906,
+        201.7619171142578
+      ],
+      "text": "(7) fight against tuberculosis  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.7501220703125,
+        207.0600128173828,
+        240.5451202392578
+      ],
+      "text": "Target audience",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.99610900878906,
+        527.178955078125,
+        260.4391174316406
+      ],
+      "text": "The target audience for these consolidated guidelines consists primarily of NTPs, primary health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.19598388671875,
+        527.5166625976562,
+        273.6390075683594
+      ],
+      "text": "care (PHC) programmes, maternal and child health programmes, national AIDS programmes (or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.3961181640625,
+        527.6091918945312,
+        286.8391418457031
+      ],
+      "text": "their equivalents in health ministries) and other health policy-makers. They also target generalist",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.59613037109375,
+        527.4037475585938,
+        300.0391540527344
+      ],
+      "text": "and specialist paediatricians, clinicians and health practitioners working on TB, HIV and/or infectious",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.79608154296875,
+        527.4069213867188,
+        313.2391052246094
+      ],
+      "text": "diseases in public and private sectors, the educational sector, nongovernmental, civil society and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.99609375,
+        441.3819885253906,
+        326.4391174316406
+      ],
+      "text": "community-based organizations, as well as technical and implementing partners.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.42730712890625,
+        485.2618713378906,
+        365.2223205566406
+      ],
+      "text": "Recommendations on the management of TB in",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.2273254394531,
+        288.1672058105469,
+        388.0223388671875
+      ],
+      "text": "children and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.47320556640625,
+        527.4069213867188,
+        407.9162292480469
+      ],
+      "text": "A WHO convened Guideline Development Group (GDG) meeting held in 2021 led to eight new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.6732177734375,
+        416.8558349609375,
+        421.1162414550781
+      ],
+      "text": "recommendations on the management of TB in children and adolescents (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        416.8555908203125,
+        406.6732177734375,
+        449.3507080078125,
+        421.1162414550781
+      ],
+      "text": "Table 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        449.3528137207031,
+        406.6732177734375,
+        527.4241943359375,
+        421.1162414550781
+      ],
+      "text": "). A summary of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.8731994628906,
+        366.2382507324219,
+        434.31622314453125
+      ],
+      "text": "the recommendations consolidated in this guideline are listed in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        366.23870849609375,
+        419.8731994628906,
+        398.1728210449219,
+        434.31622314453125
+      ],
+      "text": "Table 2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        398.1752014160156,
+        419.8731994628906,
+        433.3927917480469,
+        434.31622314453125
+      ],
+      "text": "below.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.57720947265625,
+        416.7799072265625,
+        456.0202331542969
+      ],
+      "text": "A summary of all new and consolidated recommendations can be found in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        416.78070068359375,
+        441.57720947265625,
+        475.0257263183594,
+        456.0202331542969
+      ],
+      "text": "web annex 5",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        475.0248107910156,
+        441.57720947265625,
+        480.4808044433594,
+        456.0202331542969
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.8050231933594,
+        497.9518127441406,
+        487.4690246582031
+      ],
+      "text": "Table 1: New recommendations in the  WHO consolidated guidelines on tuberculosis.",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.20501708984375,
+        433.30828857421875,
+        501.8690185546875
+      ],
+      "text": "Module 5: management of tuberculosis in children and adolescents, 2022",
+      "font": "MyriadPro-SemiboldIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        518.4615478515625,
+        194.28570556640625,
+        532.8165283203125
+      ],
+      "text": "Diagnostic approaches",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        540.0761108398438,
+        477.8232421875,
+        554.6290893554688
+      ],
+      "text": "1 In children with signs and symptoms of pulmonary TB, Xpert Ultra should be used",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        552.1860961914062,
+        486.0611572265625,
+        566.6290893554688
+      ],
+      "text": "as the initial diagnostic test for TB and detection of rifampicin resistance on sputum,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        564.1860961914062,
+        506.2010192871094,
+        578.6290893554688
+      ],
+      "text": "nasopharyngeal aspirate, gastric aspirate or stool, rather than smear microscopy/culture",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        576.1860961914062,
+        324.4193420410156,
+        590.6290893554688
+      ],
+      "text": "and phenotypic drug susceptibility testing (DST).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        589.6441040039062,
+        103.4512939453125,
+        606.8261108398438
+      ],
+      "text": "(",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        152.15220642089844,
+        589.6441040039062,
+        154.59420776367188,
+        606.8261108398438
+      ],
+      "text": ":",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.59609985351562,
+        589.6441040039062,
+        501.6261291503906,
+        606.8261108398438
+      ],
+      "text": "strong recommendation, moderate certainty of evidence for test accuracy in",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.45249938964844,
+        592.2621459960938,
+        152.14401245117188,
+        606.68310546875
+      ],
+      "text": "UPDATED",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        601.6441040039062,
+        501.11541748046875,
+        618.8261108398438
+      ],
+      "text": "stool and gastric aspirate; low certainty of evidence for test accuracy in sputum; very low",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        613.6441040039062,
+        398.6770935058594,
+        630.8261108398438
+      ],
+      "text": "certainty of evidence for test accuracy in nasopharyngeal aspirate)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        637.9427490234375,
+        491.74481201171875,
+        652.4957275390625
+      ],
+      "text": "2 In children with presumptive pulmonary TB attending health care facilities, integrated",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        650.052734375,
+        429.4583740234375,
+        664.4957275390625
+      ],
+      "text": "treatment decision algorithms may be used to diagnose pulmonary TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        663.5106201171875,
+        442.0054626464844,
+        680.692626953125
+      ],
+      "text": "( : interim, conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.45249938964844,
+        666.128662109375,
+        128.3719024658203,
+        680.5496215820312
+      ],
+      "text": "NEW",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        687.8092041015625,
+        180.8403778076172,
+        702.1641845703125
+      ],
+      "text": "Treatment regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        709.423828125,
+        501.9187316894531,
+        723.976806640625
+      ],
+      "text": "3 In children and adolescents between 3 months and 16 years of age with non-severe TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        721.5338134765625,
+        498.4405517578125,
+        735.976806640625
+      ],
+      "text": "(without suspicion or evidence of multidrug- or rifampicin-resistant TB (MDR/RR-TB), a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        733.5338134765625,
+        374.5105895996094,
+        747.976806640625
+      ],
+      "text": "4-month treatment regimen (2HRZ(E)/2HR) should be used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.29429626464844,
+        746.9918212890625,
+        392.9397277832031,
+        764.173828125
+      ],
+      "text": "( : strong recommendation, moderate certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.45249938964844,
+        749.60986328125,
+        128.3719024658203,
+        764.0308227539062
+      ],
+      "text": "NEW",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        39.397300720214844,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "xviii WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "file": "module3",
+  "page": 62,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.21018981933594,
+        511.11737060546875,
+        83.29818725585938
+      ],
+      "text": "Are there implications for user preferences and values, acceptability, feasibility,",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.61033630371094,
+        481.1258239746094,
+        97.69833374023438
+      ],
+      "text": "patient equity and human rights from the implementation of LC-mNAATs?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.36524200439453,
+        526.874755859375,
+        121.51023864746094
+      ],
+      "text": "The findings from the studies that focused on LC-aNAATs are largely applicable to LC-mNAATs,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977176666259766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.86524200439453,
+        524.3816528320312,
+        137.01023864746094
+      ],
+      "text": "with the caveat of slightly lower sensitivity and the lack of ability to detect resistance to rifampicin.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        147.86907958984375,
+        527.3134155273438,
+        161.0140838623047
+      ],
+      "text": "A systematic review of the qualitative evidence of LC-NAATs (Web Annex B.10) did not identify",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98138427734375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        163.36907958984375,
+        526.6284790039062,
+        176.5140838623047
+      ],
+      "text": "any studies focused on LC-mNAATs (acknowledging that a few studies did not specify the type",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98674201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        178.86907958984375,
+        230.05580139160156,
+        192.0140838623047
+      ],
+      "text": "of NAAT they were focusing on).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.37298583984375,
+        496.3900451660156,
+        214.5179901123047
+      ],
+      "text": "However, selected findings from the interview study, did focus specifically on TB-LAMP:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.125,
+        78.81909942626953,
+        234.27000427246094
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        221.125,
+        526.9751586914062,
+        234.27000427246094
+      ],
+      "text": "In 2018, Nigeria adopted the use of TB LAMP (along with GeneXpert and Truenat). At the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        236.625,
+        526.953369140625,
+        249.77000427246094
+      ],
+      "text": "time of the interview, there were 199 TB LAMP machines in Nigeria. These are placed both",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        252.125,
+        526.9642333984375,
+        265.27001953125
+      ],
+      "text": "in sites where GeneXpert is available, to decrease workload, and in peripheral laboratories",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        267.625,
+        526.699462890625,
+        280.77001953125
+      ],
+      "text": "where the infrastructure is insufficient to accommodate GeneXpert. Positive results from TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986641883850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        283.125,
+        475.15869140625,
+        296.27001953125
+      ],
+      "text": "LAMP are sent to the nearest site with a GeneXpert or Truenat machine for DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.625,
+        78.81909942626953,
+        311.77001953125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        298.625,
+        526.953125,
+        311.77001953125
+      ],
+      "text": "The Philippines National TB Programme (NTP) guidelines advise the use of TB LAMP as an",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        314.125,
+        526.6795654296875,
+        327.27001953125
+      ],
+      "text": "alternative primary diagnostic test in settings where access to GeneXpert is limited and that",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98634147644043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        329.625,
+        527.0789794921875,
+        342.77001953125
+      ],
+      "text": "currently rely on sputum transport riders (STRiders). TB LAMP was piloted in 2019 (April",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        345.125,
+        526.9532470703125,
+        358.27001953125
+      ],
+      "text": "to September) and 2020 (October to February 2021) in a rural health unit, polyclinic and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        360.625,
+        526.9310913085938,
+        373.77001953125
+      ],
+      "text": "private hospital, and for TB mass screening in a rural health unit. The pilot implementation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        376.125,
+        526.9642944335938,
+        389.27001953125
+      ],
+      "text": "only tested sputum with TB LAMP and did not test for TB in MDR risk groups, children or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        391.625,
+        526.9310913085938,
+        404.77001953125
+      ],
+      "text": "people living with HIV. According to a laboratory manager, there are about six or seven TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        407.125,
+        526.9200439453125,
+        420.27001953125
+      ],
+      "text": "LAMP machines in the Philippines. These are not currently in use but could be if there was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        422.625,
+        225.10089111328125,
+        435.77001953125
+      ],
+      "text": "support for buying reagents.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.963623046875,
+        526.9666137695312,
+        461.108642578125
+      ],
+      "text": "According to Nigeria’s TB LAMP guidelines, the following criteria should be used to prioritize",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.963623046875,
+        194.53750610351562,
+        475.108642578125
+      ],
+      "text": "sites for TB LAMP testing:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.7156066894531,
+        78.81909942626953,
+        494.8606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        481.7156066894531,
+        226.53028869628906,
+        494.8606262207031
+      ],
+      "text": "facilities with high workload;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.2156066894531,
+        78.81909942626953,
+        510.3606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        497.2156066894531,
+        359.6934814453125,
+        510.3606262207031
+      ],
+      "text": "facilities with or without an existing molecular platform;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.715576171875,
+        78.81909942626953,
+        525.860595703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        512.715576171875,
+        342.8322448730469,
+        525.860595703125
+      ],
+      "text": "laboratories with adequate space and infrastructure;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.215576171875,
+        78.81909942626953,
+        541.360595703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        528.215576171875,
+        345.13037109375,
+        541.360595703125
+      ],
+      "text": "availability of qualified medical laboratory personnel;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.715576171875,
+        78.81909942626953,
+        556.860595703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        543.715576171875,
+        372.5572204589844,
+        556.860595703125
+      ],
+      "text": "an adequate number of medical laboratory personnel; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.215576171875,
+        78.81909942626953,
+        572.360595703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        559.215576171875,
+        453.5001220703125,
+        572.360595703125
+      ],
+      "text": "a storage facility (e.g. refrigerator) for laboratory and administrative supply.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.037841796875,
+        226.36456298828125,
+        601.1257934570312
+      ],
+      "text": "User preferences and values",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.292724609375,
+        527.1355590820312,
+        623.437744140625
+      ],
+      "text": "An interview study on TB LAMP involving sites in Nigeria and the Philippines found the following",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.292724609375,
+        339.87860107421875,
+        637.437744140625
+      ],
+      "text": "views of laboratory personnel and programme officers:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.044677734375,
+        78.81909942626953,
+        657.189697265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        644.044677734375,
+        526.6234130859375,
+        657.189697265625
+      ],
+      "text": "TB LAMP is making laboratory work easier over time through familiarity and because it",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        659.544677734375,
+        192.86029052734375,
+        672.689697265625
+      ],
+      "text": "clears the workbench;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.044677734375,
+        78.81909942626953,
+        688.189697265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        675.044677734375,
+        318.536376953125,
+        688.189697265625
+      ],
+      "text": "compared to SSM, TB LAMP is easier to use; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.544677734375,
+        78.81909942626953,
+        703.689697265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        690.544677734375,
+        526.9202270507812,
+        703.689697265625
+      ],
+      "text": "in direct comparison with Xpert Ultra, TB LAMP is more hands-on and requires more user",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        706.044677734375,
+        357.593994140625,
+        719.189697265625
+      ],
+      "text": "steps and time for preparing and processing specimens.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "46 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

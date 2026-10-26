@@ -1,0 +1,930 @@
+{
+  "file": "Guidance for national",
+  "page": 98,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        81.5599365234375,
+        513.54736328125,
+        98.2879409790039
+      ],
+      "text": "Roles and responsibilities of health workers at various levels of the health",
+      "font": "Arial-BoldItalicMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        95.9599609375,
+        126.39138793945312,
+        112.6879653930664
+      ],
+      "text": "system",
+      "font": "Arial-BoldItalicMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        119.69940185546875,
+        513.41455078125,
+        133.0509033203125
+      ],
+      "text": "Health workers at all levels of care (including primary care staff, general clinicians and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        135.6959228515625,
+        513.4375,
+        149.04742431640625
+      ],
+      "text": "paediatricians in public and private health care facilities) have potential roles in, and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        151.69244384765625,
+        513.4375,
+        165.0439453125
+      ],
+      "text": "responsibilities for, ensuring comprehensive and coordinated care for a child with TB",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        167.68896484375,
+        513.3453369140625,
+        181.04046630859375
+      ],
+      "text": "or a child who is a TB contact. Health workers at all levels need to be aware of their",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        183.68548583984375,
+        492.0359191894531,
+        197.0369873046875
+      ],
+      "text": "responsibilities to ensure that all children treated for TB are registered with the NTP.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        208.19195556640625,
+        508.25091552734375,
+        221.54345703125
+      ],
+      "text": "Box 3 provides examples of the tasks of health workers at various levels of health care.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        146.36729431152344,
+        236.33529663085938,
+        480.92724609375,
+        250.5552978515625
+      ],
+      "text": "Tasks of health workers at the various levels of health care",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        114.35130310058594,
+        236.623291015625,
+        146.36729431152344,
+        250.5552978515625
+      ],
+      "text": "Box 3.",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        260.37530517578125,
+        190.4918670654297,
+        274.3153076171875
+      ],
+      "text": "Primary care level",
+      "font": "Arial-BoldItalicMT",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        277.49530029296875,
+        488.4042053222656,
+        290.8052978515625
+      ],
+      "text": "Identify children with symptoms and signs suggestive of TB as well as contacts of",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        280.7507019042969,
+        113.43389892578125,
+        288.7507019042969
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        288.49530029296875,
+        477.06427001953125,
+        301.8052978515625
+      ],
+      "text": "newly diagnosed source cases (usually adults with sputum smear-positive PTB)",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        303.7471923828125,
+        380.36431884765625,
+        317.05718994140625
+      ],
+      "text": "Refer sick child to first referral level of care as appropriate",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        307.0025939941406,
+        113.43389892578125,
+        315.0025939941406
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        318.99920654296875,
+        425.2342224121094,
+        332.3092041015625
+      ],
+      "text": "In line with NTP guidelines, arrange treatment or referral of children",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        322.2546081542969,
+        113.43389892578125,
+        330.2546081542969
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        334.251220703125,
+        434.684326171875,
+        347.56121826171875
+      ],
+      "text": "Identify child contacts with no evidence of TB disease who require IPT",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        337.5066223144531,
+        113.43389892578125,
+        345.5066223144531
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        349.5032043457031,
+        435.2642822265625,
+        362.8132019042969
+      ],
+      "text": "Arrange follow-up for children who are being treated for TB or with IPT",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        352.75860595703125,
+        113.43389892578125,
+        360.75860595703125
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        364.755126953125,
+        286.46435546875,
+        378.06512451171875
+      ],
+      "text": "Refer in the case of treatment failure",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        368.0105285644531,
+        113.43389892578125,
+        376.0105285644531
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        380.0071105957031,
+        285.3643798828125,
+        393.3171081542969
+      ],
+      "text": "Provide HIV counselling and testing",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        383.26251220703125,
+        113.43389892578125,
+        391.26251220703125
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        395.2591247558594,
+        292.5843505859375,
+        408.5691223144531
+      ],
+      "text": "Arrange follow-up for HIV-related care",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        398.5145263671875,
+        113.43389892578125,
+        406.5145263671875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        410.5110168457031,
+        375.4043273925781,
+        423.8210144042969
+      ],
+      "text": "Arrange family-centred care, including nutritional support",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        413.76641845703125,
+        113.43389892578125,
+        421.76641845703125
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        425.7630310058594,
+        473.61431884765625,
+        439.0730285644531
+      ],
+      "text": "Identify source case and screen close contacts for any child diagnosed with TB",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        429.0184326171875,
+        113.43389892578125,
+        437.0184326171875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        442.0150146484375,
+        455.0542907714844,
+        455.32501220703125
+      ],
+      "text": "Ensure registration of all children treated for TB with the district NTP office",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        445.2704162597656,
+        113.43389892578125,
+        453.2704162597656
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.8843994140625,
+        463.14501953125,
+        188.8143768310547,
+        477.08502197265625
+      ],
+      "text": "First referral level",
+      "font": "Arial-BoldItalicMT",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        480.26702880859375,
+        408.5442810058594,
+        493.5770263671875
+      ],
+      "text": "Make a diagnosis of TB disease or infection with M.  tuberculosis",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        483.5224304199219,
+        113.43389892578125,
+        491.5224304199219
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        495.5189208984375,
+        343.5343933105469,
+        508.82891845703125
+      ],
+      "text": "Start treatment for TB and for HIV when indicated",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        498.7743225097656,
+        113.43379974365234,
+        506.7743225097656
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        510.77093505859375,
+        476.3943176269531,
+        524.0809326171875
+      ],
+      "text": "Identify source case and screen close contacts for any child diagnosed with TB",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        514.0263061523438,
+        113.43379974365234,
+        522.0263061523438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        526.0228271484375,
+        455.0542907714844,
+        539.3328247070312
+      ],
+      "text": "Ensure registration of all children treated for TB with the district NTP office",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        529.2781982421875,
+        113.43379974365234,
+        537.2781982421875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        541.2748413085938,
+        488.4042053222656,
+        554.5848388671875
+      ],
+      "text": "Refer the child back to the primary care level and/or appropriate health care worker",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        544.5302124023438,
+        113.43379974365234,
+        552.5302124023438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        552.2748413085938,
+        282.02435302734375,
+        565.5848388671875
+      ],
+      "text": "for ongoing treatment and follow-up",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        567.5267944335938,
+        415.43426513671875,
+        580.8367919921875
+      ],
+      "text": "Provide inpatient care as appropriate, including nutritional support",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        570.7821655273438,
+        113.43379974365234,
+        578.7821655273438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        582.77880859375,
+        258.494384765625,
+        596.0888061523438
+      ],
+      "text": "Manage common side-effects",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        586.0341796875,
+        113.43379974365234,
+        594.0341796875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        598.0307006835938,
+        425.8042907714844,
+        611.3406982421875
+      ],
+      "text": "Refer child to second care level in case of severe or complicated TB",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        601.2860717773438,
+        113.43379974365234,
+        609.2860717773438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        613.28271484375,
+        409.3243103027344,
+        626.5927124023438
+      ],
+      "text": "Refer child to second care level in case of diagnostic uncertainty",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        616.5380859375,
+        113.43379974365234,
+        624.5380859375
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        628.5347290039062,
+        384.8542785644531,
+        641.8447265625
+      ],
+      "text": "Refer child to second care level in case of treatment failure",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        631.7901000976562,
+        113.43379974365234,
+        639.7901000976562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        644.78662109375,
+        452.644287109375,
+        658.0966186523438
+      ],
+      "text": "Refer child to second care level in case of suspected DR-TB and MDR-TB",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        648.0419921875,
+        113.43379974365234,
+        656.0419921875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.8843994140625,
+        665.9166259765625,
+        203.26437377929688,
+        679.8566284179688
+      ],
+      "text": "Second referral level",
+      "font": "Arial-BoldItalicMT",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        683.0386352539062,
+        488.394287109375,
+        696.3486328125
+      ],
+      "text": "Diagnose and manage complicated TB, including most cases of disseminated TB,",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        686.2940063476562,
+        113.43379974365234,
+        694.2940063476562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        694.0386352539062,
+        333.6743469238281,
+        707.3486328125
+      ],
+      "text": "tuberculous meningitis and MDR-TB in children",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        709.2905883789062,
+        476.3943176269531,
+        722.6005859375
+      ],
+      "text": "Identify source case and screen close contacts for any child diagnosed with TB",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        712.5459594726562,
+        113.43379974365234,
+        720.5459594726562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        724.5425415039062,
+        397.2843322753906,
+        737.8525390625
+      ],
+      "text": "Advise the NTP on the management of complicated TB cases",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        727.7979125976562,
+        113.43379974365234,
+        735.7979125976562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        739.7944946289062,
+        455.0542907714844,
+        753.1044921875
+      ],
+      "text": "Ensure registration of all children treated for TB with the district NTP office",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        743.0498657226562,
+        113.43379974365234,
+        751.0498657226562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        755.0465087890625,
+        488.4141845703125,
+        768.3565063476562
+      ],
+      "text": "Refer the child back to the primary or secondary care level and/or appropriate",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.88179779052734,
+        758.3018798828125,
+        113.43379974365234,
+        766.3018798828125
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.72440338134766,
+        767.0465087890625,
+        367.0543212890625,
+        780.3565063476562
+      ],
+      "text": "health care worker for ongoing treatment and follow-up",
+      "font": "ArialMT",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        558.6439208984375,
+        805.8439331054688,
+        580.8839111328125,
+        835.8439331054688
+      ],
+      "text": "79",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

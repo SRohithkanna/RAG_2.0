@@ -1,0 +1,306 @@
+{
+  "file": "module4",
+  "page": 89,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        382.6018371582031,
+        526.7454833984375,
+        393.1058349609375
+      ],
+      "text": "CNS: central nervous system; ECG: electrocardiogram; FQ: fluoroquinolone; HIV: human immunodeficiency virus; RR-TB: rifampicin-resistant TB;",
+      "font": "SegoeUI-Light",
+      "size": 7.997399806976318,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.6018371582031,
+        388.22216796875,
+        404.1058349609375
+      ],
+      "text": "P: QTcF: corrected QT interval by Fredericia formula ; TB: tuberculosis; UNL: upper normal limit.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.7850341796875,
+        182.99899291992188,
+        438.1400146484375
+      ],
+      "text": "BEAT Tuberculosis trial",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.5989074707031,
+        527.4003295898438,
+        460.04193115234375
+      ],
+      "text": "This was an open-label, Phase 3, non-inferiority RCT designed to establish the efficacy and safety of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.7989196777344,
+        527.4276733398438,
+        473.241943359375
+      ],
+      "text": "a regimen comprising 6 months (24 weeks) of bedaquiline (B), delamanid (D), and linezolid (L), with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.9989013671875,
+        527.45751953125,
+        486.4419250488281
+      ],
+      "text": "levofloxacin (Lfx) and clofazimine (C) compared with the current South African SoC for the treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.19891357421875,
+        209.804931640625,
+        499.6419372558594
+      ],
+      "text": "of MDR/RR-TB or pre-XDR TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.90289306640625,
+        527.4476928710938,
+        521.3458862304688
+      ],
+      "text": "The objectives of the trial were to compare the proportion of participants with a successful outcome",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.1029052734375,
+        527.2176513671875,
+        534.5458984375
+      ],
+      "text": "at the end of treatment and the end of follow-up at 76 weeks after randomization on the study",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.3029174804688,
+        527.443115234375,
+        547.7459106445312
+      ],
+      "text": "regimen with the proportion with a successful outcome on the control regimen, and to compare",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.5029296875,
+        521.1182250976562,
+        560.9459228515625
+      ],
+      "text": "the proportion of participants who experienced grade 3 or more significant AEs during treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.206787109375,
+        527.3578491210938,
+        582.6497802734375
+      ],
+      "text": "Eligible participants between 6 and 12 years diagnosed with confirmed or probable pulmonary RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 10.9738187789917,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.4067993164062,
+        527.43212890625,
+        595.8497924804688
+      ],
+      "text": "and aged above 12 years with confirmed RR-TB were randomized to receive either the experimental",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.6068115234375,
+        459.16070556640625,
+        609.0498046875
+      ],
+      "text": "or SoC regimen. All participants were followed up for 76 weeks from randomization.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.3106689453125,
+        527.2230224609375,
+        630.753662109375
+      ],
+      "text": "The trial used a treatment strategy in which either levofloxacin or clofazimine was dropped from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.5107421875,
+        527.4366455078125,
+        643.9537353515625
+      ],
+      "text": "the regimen depending on FQ DST results: BDLLfxC initiated without delay in the case of unknown",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.710693359375,
+        527.4354248046875,
+        657.1536865234375
+      ],
+      "text": "FQ-resistance at the time of RR-TB diagnosis (and continued with both levofloxacin and clofazimine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.9108276367188,
+        527.3938598632812,
+        670.3538208007812
+      ],
+      "text": "if FQ-DST results could not be obtained); or BDLLfx continued for FQ-susceptible TB; or BDLC for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.1107177734375,
+        527.392822265625,
+        683.5537109375
+      ],
+      "text": "FQ-resistant TB. Within the trial, outcomes with this treatment strategy were compared with outcomes",
+      "font": "SegoeUI-Light",
+      "size": 10.9738187789917,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.3106689453125,
+        527.4036865234375,
+        696.753662109375
+      ],
+      "text": "with the recommended all-oral, bedaquiline-containing 9-month or longer regimens (most of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.5107421875,
+        527.437744140625,
+        709.9537353515625
+      ],
+      "text": "control group received a 9-month linezolid-containing regimen). The dataset included patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.710693359375,
+        527.6051635742188,
+        723.1536865234375
+      ],
+      "text": "severe TB disease, PLHIV, children aged 8 and above, adolescents and a small group of pregnant and",
+      "font": "SegoeUI-Light",
+      "size": 10.99174690246582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.9108276367188,
+        527.4443969726562,
+        736.3538208007812
+      ],
+      "text": "breastfeeding women. The regimen could be given for 6 months or extended to 9 months if there",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.1107177734375,
+        288.6067810058594,
+        749.5537109375
+      ],
+      "text": "was no clinical or bacteriological improvement.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  75",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

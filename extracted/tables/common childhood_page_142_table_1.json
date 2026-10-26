@@ -1,0 +1,86 @@
+{
+  "file": "common childhood",
+  "page": 142,
+  "table_id": 1,
+  "bbox": [
+    145.4185028076172,
+    62.36209487915039,
+    319.96649169921875,
+    622.9135131835938
+  ],
+  "heading": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+  "n_rows": 5,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE 95% CI"
+    ],
+    [
+      "COMPARISON",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Ampicillin Vs penicillin",
+      "3",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "Not mentioned -0.5",
+      "No 0",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "Old studies may not reflect current resistance patterns; conducted in low burden settings -1",
+      "LOW (Total -2)",
+      "Risk difference -0.68 (-15.2 to 1.5)"
+    ],
+    [
+      "Amoxicillin Vs ceflacor",
+      "4",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "No 0",
+      "No 0",
+      "No imprecision -0.5",
+      "No inconsistency 0",
+      "As above -1",
+      "MODER­ ATE (Total -1.5)",
+      "Risk difference 6.4 (-10.2 to 22.9)"
+    ],
+    [
+      "Amoxicillin Vs cefixime",
+      "3",
+      "RCT 0",
+      "Adequate 0",
+      "Not mentioned -0.5",
+      "Not mentioned -0.5",
+      "No 0",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "As above -1",
+      "LOW (Total -1.5)",
+      "Risk difference -3.9 (-10.4 to 2.6)"
+    ]
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "file": "module3",
+  "page": 122,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        468.83404541015625,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.4.5.1 Studies included in the IPD meta-analysis for targeted NGS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        103.29670715332031,
+        304.2998962402344,
+        113.97550201416016
+      ],
+      "text": "Studies included  From the literature:",
+      "font": "FrutigerNeueLT-Md",
+      "size": 8.999950408935547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        115.56451416015625,
+        230.23622131347656,
+        127.91822052001953
+      ],
+      "text": "• ERJ 2021 (SNRL Germany) 800",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        125.4625244140625,
+        156.893798828125,
+        133.8275146484375
+      ],
+      "text": "• Frontiers 2021 (France)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        135.36053466796875,
+        163.0886993408203,
+        143.72552490234375
+      ],
+      "text": "• Tuberculosis 2021 (India)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        145.258544921875,
+        230.23622131347656,
+        212.89410400390625
+      ],
+      "text": "• IJTLD 2022 (India) 600 Number of samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        158.4115447998047,
+        120.33326721191406,
+        166.60153198242188
+      ],
+      "text": "Unpublished:",
+      "font": "FrutigerNeueLT-Md",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        168.1905517578125,
+        100.01957702636719,
+        176.5555419921875
+      ],
+      "text": "• FIND",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        177.94329833984375,
+        230.23622131347656,
+        186.45355224609375
+      ],
+      "text": "400 • Georgia",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        187.986572265625,
+        108.99344635009766,
+        196.3515625
+      ],
+      "text": "• India",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        197.88458251953125,
+        131.82713317871094,
+        206.24957275390625
+      ],
+      "text": "• South Africa",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790924072266,
+        207.13189697265625,
+        230.23622131347656,
+        216.65155029296875
+      ],
+      "text": "200 • Diama",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        218.1845703125,
+        111.15642547607422,
+        226.549560546875
+      ],
+      "text": "• Benin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        228.08258056640625,
+        115.83935546875,
+        236.44757080078125
+      ],
+      "text": "• Guinea",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        236.33209228515625,
+        229.9444122314453,
+        246.3455810546875
+      ],
+      "text": "0 • Cameroon",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.58963012695312,
+        242.89932250976562,
+        514.2161865234375,
+        300.9952697753906
+      ],
+      "text": "FIND_Georgia Diama_Cameroon Diama_Guinea TBSeq_China FIND_India Diama_Rwanda FIND_South Africa Frontiers2021_France SRSI_Eritrea SRSI_Italy IJTLD2022_India Diama_Benin ERJ2021_SNRL Diama_Ethiopia Tuberculosis2021_India NICD_South Africa Diama_Mali icddr,b_Bangladesh",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.00007438659668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        247.87860107421875,
+        118.96830749511719,
+        256.24359130859375
+      ],
+      "text": "• Rwanda",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        257.776611328125,
+        106.92847442626953,
+        266.1416015625
+      ],
+      "text": "• Mali",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        267.67462158203125,
+        119.19931030273438,
+        276.03961181640625
+      ],
+      "text": "• Ethiopia",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790924072266,
+        278.07659912109375,
+        142.65597534179688,
+        286.44158935546875
+      ],
+      "text": "• NICD, South Africa",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        287.974609375,
+        149.03988647460938,
+        296.339599609375
+      ],
+      "text": "• icddr,b (Bangladesh)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790161132812,
+        297.87261962890625,
+        197.1851348876953,
+        306.23760986328125
+      ],
+      "text": "• San Raffaele Scientific Institute, Italy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        307.7706298828125,
+        455.22247314453125,
+        318.32666015625
+      ],
+      "text": "• Italy Platforms:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.82278442382812,
+        317.66864013671875,
+        516.338623046875,
+        326.7266845703125
+      ],
+      "text": "• Eritrea • FIND: Deeplex and NanoTB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.31790924072266,
+        326.7616882324219,
+        473.9822082519531,
+        336.4356384277344
+      ],
+      "text": "• TBSeq: TBSeq • TBSeq, China",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        423.5899353027344,
+        335.16168212890625,
+        490.844970703125,
+        343.52667236328125
+      ],
+      "text": "• All others: Deeplex",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.999949932098389,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.6210021972656,
+        526.5091552734375,
+        371.3760070800781
+      ],
+      "text": "ERJ: European Respiratory Journal; FIND: Foundation for Innovative New Diagnostics; IPD: individual patient data;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.4210205078125,
+        526.4912109375,
+        382.176025390625
+      ],
+      "text": "NGS: next-generation sequencing; NICD: National Institute for Communicable Diseases; UTLD: International Union",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.22100830078125,
+        231.7681121826172,
+        392.97601318359375
+      ],
+      "text": "Against Tuberculosis and Lung Diseases.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.9842224121094,
+        500.8056945800781,
+        423.1292419433594
+      ],
+      "text": "Data synthesis was structured around the two preset PICO questions, as outlined below.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.9358215332031,
+        481.67523193359375,
+        449.0238037109375
+      ],
+      "text": "PICO 1: Should targeted NGS as the initial test be used to diagnose drug",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        449.3358154296875,
+        507.7608947753906,
+        463.4237976074219
+      ],
+      "text": "resistance in patients with bacteriologically confirmed pulmonary TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        463.7358093261719,
+        160.65139770507812,
+        477.82379150390625
+      ],
+      "text": "disease?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.5267028808594,
+        526.9644165039062,
+        501.6717224121094
+      ],
+      "text": "The available evidence included in the final pooled analysis varied by drug, from 12 studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.0267333984375,
+        526.9149169921875,
+        517.1717529296875
+      ],
+      "text": "with 1440 participants for the sensitivity of isoniazid to three studies with 269 participants for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.5267333984375,
+        527.0870971679688,
+        532.6717529296875
+      ],
+      "text": "the specificity of pyrazinamide ( ). The pooled estimates were determined using a  Table 2.4.5.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989995002746582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        535.0267333984375,
+        526.669189453125,
+        548.1717529296875
+      ],
+      "text": "multivariable, mixed-effects model. All drugs were downgraded by one level for indirectness for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95530891418457,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        550.5267333984375,
+        527.0400390625,
+        563.6717529296875
+      ],
+      "text": "sensitivity and specificity, because all studies were enriched for rifampicin resistance, leading to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972665786743164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        566.0267333984375,
+        526.9418334960938,
+        579.1717529296875
+      ],
+      "text": "applicability concerns. In addition, for rifampicin, levofloxacin and pyrazinamide, specificity was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964241981506348,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        581.5267333984375,
+        526.9920043945312,
+        594.6717529296875
+      ],
+      "text": "downgraded a further level for imprecision; however, for ethambutol, it was downgraded for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        597.0267333984375,
+        526.965576171875,
+        610.1717529296875
+      ],
+      "text": "risk of bias because different samples were used for the index and reference tests. The overall",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        612.5267333984375,
+        449.11651611328125,
+        625.6717529296875
+      ],
+      "text": "certainty of the evidence for test accuracy ranged from moderate to very low.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.5306396484375,
+        526.9258422851562,
+        649.6756591796875
+      ],
+      "text": "The test performance was determined to be accurate for all drugs included in the assessment,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.0306396484375,
+        527.2083129882812,
+        665.1756591796875
+      ],
+      "text": "with a  pooled sensitivity of at least 95% for isoniazid, moxifloxacin and ethambutol,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.6846313476562,
+        527.1605224609375,
+        680.5986328125
+      ],
+      "text": "more than 93% for rifampicin and levofloxacin, and 88% for pyrazinamide. The pooled",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.1846313476562,
+        282.6687927246094,
+        696.0986328125
+      ],
+      "text": "specificity was at least 96% for all drugs.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.0346069335938,
+        526.656494140625,
+        720.1796264648438
+      ],
+      "text": "The reference standard was culture-based phenotypic DST for isoniazid, levofloxacin and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        722.5346069335938,
+        527.2274169921875,
+        735.6796264648438
+      ],
+      "text": "moxifloxacin, and a combination of phenotypic DST and WGS for rifampicin, pyrazinamide and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.9738187789917,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        738.0346069335938,
+        526.5933227539062,
+        751.1796264648438
+      ],
+      "text": "ethambutol. The percentage of tests with indeterminate results ranged from 9% (levofloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995599746704102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.5346069335938,
+        527.170166015625,
+        766.6796264648438
+      ],
+      "text": "and moxifloxacin) to 18% (pyrazinamide), with higher indeterminate rates in samples with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        769.0346069335938,
+        385.84539794921875,
+        782.1796264648438
+      ],
+      "text": "lower bacterial load (semiquantitative category low or very low).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "106 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

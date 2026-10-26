@@ -1,0 +1,450 @@
+{
+  "file": "module3",
+  "page": 167,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        206.8942413330078,
+        85.31422424316406
+      ],
+      "text": "Priority of a problem",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.9151000976562,
+        108.71018981933594
+      ],
+      "text": "The GDG considers whether the overall consequences of a problem (e.g. increased morbidity,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        526.9546508789062,
+        124.21018981933594
+      ],
+      "text": "mortality and economic effects) are serious and urgent. The global situation is considered",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        527.2451171875,
+        139.71018981933594
+      ],
+      "text": "and available data reviewed. In most cases, the problem must be serious and urgent to be",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.065185546875,
+        176.28900146484375,
+        155.21018981933594
+      ],
+      "text": "considered by a GDG.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.57679748535156,
+        156.35850524902344,
+        183.95680236816406
+      ],
+      "text": "Test accuracy",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.20782470703125,
+        526.9954223632812,
+        207.3528289794922
+      ],
+      "text": "The pooled sensitivity and specificity presented in the GRADE evidence profile is assessed.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.70782470703125,
+        526.7938842773438,
+        222.8528289794922
+      ],
+      "text": "Preferably and if available the review includes studies with both microbiological reference",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.20782470703125,
+        526.980712890625,
+        238.3528289794922
+      ],
+      "text": "standards (culture) as well as composite reference standards (e.g. in children and in patients",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.70782470703125,
+        194.80140686035156,
+        253.8528289794922
+      ],
+      "text": "with extrapulmonary TB).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.2193298339844,
+        402.3398132324219,
+        282.59930419921875
+      ],
+      "text": "Balance between desirable and undesirable effects",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.8502197265625,
+        526.96337890625,
+        305.9952392578125
+      ],
+      "text": "Under this component, GDG members are asked to judge the anticipated benefits and harms",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.3502197265625,
+        526.686279296875,
+        321.4952392578125
+      ],
+      "text": "from the test in question, including direct effects of the test (e.g. benefits such as faster",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.8502197265625,
+        526.96337890625,
+        336.9952392578125
+      ],
+      "text": "diagnosis, and harms such as adverse effects from administration of the test). In addition, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3502197265625,
+        526.7202758789062,
+        352.4952392578125
+      ],
+      "text": "possible subsequent effects of the test must be included; for instance, effects of treatment",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.8502197265625,
+        526.6566162109375,
+        367.9952392578125
+      ],
+      "text": "after a positive diagnosis (cure or decrease in mortality), and the effect of no treatment or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.3502197265625,
+        526.9369506835938,
+        383.4952392578125
+      ],
+      "text": "further testing after a negative test result. Evidence, ideally retrieved from systematic reviews",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.8502197265625,
+        527.1903686523438,
+        398.9952392578125
+      ],
+      "text": "of randomized controlled trials (RCTs) of the test, should inform the GDG of these downstream",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.980833053588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.3502197265625,
+        526.9667358398438,
+        414.4952392578125
+      ],
+      "text": "effects. If evidence from RCTs is not available, diagnostic accuracy studies can be used. In the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.8502197265625,
+        526.8203125,
+        429.9952392578125
+      ],
+      "text": "latter, true positive and true negative diagnosed cases are taken as benefits, whereas false",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.3502197265625,
+        326.3812255859375,
+        445.4952392578125
+      ],
+      "text": "positive and false negative cases are taken as harms.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.86181640625,
+        235.93875122070312,
+        474.2417907714844
+      ],
+      "text": "Certainty of the evidence",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.4927978515625,
+        527.0140380859375,
+        497.6378173828125
+      ],
+      "text": "Certainty of the evidence of test accuracy is judged scored on a scale from very low, via low",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.9927978515625,
+        526.9623413085938,
+        513.1378173828125
+      ],
+      "text": "and moderate, to high. Certainty of the evidence on direct benefits and harms from the test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.4927978515625,
+        267.7196960449219,
+        528.6378173828125
+      ],
+      "text": "are assessed and scored in a similar way.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.0043334960938,
+        240.52088928222656,
+        557.3843383789062
+      ],
+      "text": "Certainty of management",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.6353149414062,
+        526.6840209960938,
+        580.7803344726562
+      ],
+      "text": "For certainty of patient management being guided by the test results, the GDG focuses on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.1353149414062,
+        506.10760498046875,
+        596.2803344726562
+      ],
+      "text": "whether the management would be any different, should it be guided by the test results.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.1392211914062,
+        527.3148803710938,
+        620.2842407226562
+      ],
+      "text": "For certainty of the link between test results and management, the panel assesses how quickly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989194869995117,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.6392211914062,
+        390.2243957519531,
+        635.7842407226562
+      ],
+      "text": "and effectively test results can transfer to management decisions.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.1508178710938,
+        445.62640380859375,
+        664.5308227539062
+      ],
+      "text": "Confidence in values and preferences and their variability",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.78173828125,
+        527.046630859375,
+        687.9267578125
+      ],
+      "text": "The value of the test to improve diagnosis and its impact on patient care is evaluated and scored",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95229721069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.28173828125,
+        526.9647827148438,
+        703.4267578125
+      ],
+      "text": "with the help of evidence from qualitative research. The impact on notification and, moreover,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987993240356445,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.78173828125,
+        526.955078125,
+        718.9267578125
+      ],
+      "text": "the ability of the test to increase case notification is also evaluated and scored, taking into",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.28173828125,
+        526.9656982421875,
+        734.4267578125
+      ],
+      "text": "account the entire diagnostic cascade, including, for example, issues related to feasibility of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.78173828125,
+        520.7809448242188,
+        749.9267578125
+      ],
+      "text": "implementation, rate of use, staff’s confidence in test results and turnaround time of results.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        373.5079040527344,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "Annex 1. Guideline development methods 151",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "file": "module4",
+  "page": 26,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        228.74771118164062,
+        86.53083038330078
+      ],
+      "text": "Recommendation 1.4",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        98.23619842529297,
+        203.97349548339844,
+        112.59120178222656
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        119.85082244873047,
+        509.253173828125,
+        134.20582580566406
+      ],
+      "text": "1.4 The use of fixed-dose combination tablets is recommended over separate drug",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        131.850830078125,
+        428.0335693359375,
+        146.20582580566406
+      ],
+      "text": "formulations in treatment of patients with drug-susceptible TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.48127746582031,
+        148.10284423828125,
+        398.8916015625,
+        162.4578399658203
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.33322143554688,
+        220.7113037109375,
+        195.18521118164062
+      ],
+      "text": "Source of recommendation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        202.39320373535156,
+        527.2747192382812,
+        216.83619689941406
+      ],
+      "text": "This recommendation was first put forward in the 2017 guidelines update (see summary of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.48309326171875,
+        527.4367065429688,
+        230.0360870361328
+      ],
+      "text": "Annex 1 recommendations in  ). It is copied without modification into this consolidated document",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.79310607910156,
+        281.0915222167969,
+        243.23609924316406
+      ],
+      "text": "and appears exactly as in the 2017 guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.6104431152344,
+        216.29168701171875,
+        272.4624328613281
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.6702880859375,
+        527.4386596679688,
+        294.1133117675781
+      ],
+      "text": "The evidence presented to the GDG was based on a systematic review of randomized controlled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.59429931640625,
+        527.4281616210938,
+        307.3133239746094
+      ],
+      "text": "(19) (20) trials done by Albanna et al.   and by a recent Cochrane review  . This evidence showed that",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.0703125,
+        527.2265014648438,
+        320.5133361816406
+      ],
+      "text": "the fixed-dose combination (FDC) tablets are non-inferior and equally effective as separate drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.2702941894531,
+        527.3751831054688,
+        333.71331787109375
+      ],
+      "text": "formulations in terms of treatment failure, death, treatment adherence and adverse events. There was",
+      "font": "SegoeUI-Light",
+      "size": 10.980483055114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.4703063964844,
+        527.3973999023438,
+        346.913330078125
+      ],
+      "text": "a small increase in 2-month culture conversion with FDC treatment; however, there was no difference",
+      "font": "SegoeUI-Light",
+      "size": 10.993698120117188,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.6703186035156,
+        527.4309692382812,
+        360.11334228515625
+      ],
+      "text": "in culture conversion rates by the end of treatment. Patient satisfaction was higher among persons",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.87030029296875,
+        527.576171875,
+        373.3133239746094
+      ],
+      "text": "treated with FDCs. A slightly higher rate of disease relapse and acquired drug resistance among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.0703125,
+        527.4332275390625,
+        386.5133361816406
+      ],
+      "text": "patients treated with FDCs compared with those treated with separate drug formulations was not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.2702941894531,
+        169.99807739257812,
+        399.71331787109375
+      ],
+      "text": "statistically significant.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.9742126464844,
+        527.47119140625,
+        421.417236328125
+      ],
+      "text": "Patient treatment satisfaction with FDCs was considered the most important factor for making decisions",
+      "font": "SegoeUI-Light",
+      "size": 10.946017265319824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.1741943359375,
+        188.80149841308594,
+        434.6172180175781
+      ],
+      "text": "on this recommendation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.8782043457031,
+        527.6152954101562,
+        456.32122802734375
+      ],
+      "text": "Studies in these reviews did not evaluate bioavailability of the drugs in the FDCs, but previous studies",
+      "font": "SegoeUI-Light",
+      "size": 10.997650146484375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.8022155761719,
+        527.4125366210938,
+        469.521240234375
+      ],
+      "text": "(19) did not indicate that the FDC formulations used had significant bioavailability issues  . As no",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.2781982421875,
+        527.4244384765625,
+        482.7212219238281
+      ],
+      "text": "pharmacokinetic studies were done on these FDC formulations, the bioavailability of drugs within",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.47821044921875,
+        527.4013671875,
+        495.9212341308594
+      ],
+      "text": "the FDCs versus the separate drug formulations remains an important consideration that indicates",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.4021911621094,
+        524.4376220703125,
+        509.1212158203125
+      ],
+      "text": "(21–23) the need to procure FDCs of demonstrated bioavailability  . This area requires further research.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.99069595336914,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.382080078125,
+        527.5103149414062,
+        530.8250732421875
+      ],
+      "text": "FDCs may provide programme benefits by making the ordering of medication easier, simplifying",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.5820922851562,
+        527.5928344726562,
+        544.0250854492188
+      ],
+      "text": "supply chain management, reducing the occurrence of stock-outs, and facilitating drug delivery",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        542.7821044921875,
+        527.3761596679688,
+        557.22509765625
+      ],
+      "text": "and prescription preparation. FDCs may also provide benefits – especially in settings with a large",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.9821166992188,
+        527.5892944335938,
+        570.4251098632812
+      ],
+      "text": "number of TB patients and a limited number of health-care workers – by reducing the need for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.18212890625,
+        527.4047241210938,
+        583.6251220703125
+      ],
+      "text": "additional health-care staff and training in the dosing and dispensing of medications, as well as by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        582.382080078125,
+        527.408935546875,
+        596.8250732421875
+      ],
+      "text": "contributing to a lower pill burden for patients. Nevertheless, national TB programmes are advised",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.5820922851562,
+        527.4201049804688,
+        610.0250854492188
+      ],
+      "text": "to have a quantity of separate drug formulations available for certain treatment conditions. Having",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.7821044921875,
+        527.3826293945312,
+        623.22509765625
+      ],
+      "text": "single drug formulations available would be beneficial to national TB programmes when designing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.9821166992188,
+        527.38916015625,
+        636.4251098632812
+      ],
+      "text": "MDR-TB regimens that include some first-line drugs (i.e. pyrazinamide, EMB, high-dose isoniazid),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.18212890625,
+        527.4300537109375,
+        649.6251220703125
+      ],
+      "text": "when providing preventive therapy, and in cases of adverse reactions to TB medications when drugs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.382080078125,
+        236.03001403808594,
+        662.8250732421875
+      ],
+      "text": "must be reintroduced one at a time.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.0861206054688,
+        527.255126953125,
+        684.5291137695312
+      ],
+      "text": "The GDG acknowledged that greater patient satisfaction is an advantage of FDCs over separate drug",
+      "font": "SegoeUI-Light",
+      "size": 10.9944486618042,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.2861328125,
+        130.5751953125,
+        697.7291259765625
+      ],
+      "text": "formulations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "12 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

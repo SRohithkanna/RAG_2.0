@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 196,
+  "blocks": [
+    {
+      "bbox": [
+        77.66929626464844,
+        74.08379364013672,
+        196.92959594726562,
+        88.43879699707031
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        95.19841766357422,
+        517.6083374023438,
+        109.75141906738281
+      ],
+      "text": "1.4 The following treatment administration options may be offered to patients on TB treatment:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        111.56043243408203,
+        477.38812255859375,
+        126.00343322753906
+      ],
+      "text": "a.\tCommunity- or home-based treatment support is recommended over health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        122.28443145751953,
+        452.0177917480469,
+        138.00343322753906
+      ],
+      "text": "(Conditional  facility-based treatment support or unsupported treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        134.28443908691406,
+        347.83099365234375,
+        149.9484405517578
+      ],
+      "text": "recommendation, moderate certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        151.81239318847656,
+        505.7015075683594,
+        166.25538635253906
+      ],
+      "text": "b.\tTreatment support by trained lay providers or health-care workers is recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        162.53639221191406,
+        502.5753173828125,
+        178.25538635253906
+      ],
+      "text": "(Conditional  over treatment support by family members or unsupported treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        174.53639221191406,
+        341.7830810546875,
+        190.2003936767578
+      ],
+      "text": "recommendation, very low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        192.0644073486328,
+        515.4912109375,
+        206.5074005126953
+      ],
+      "text": "c.\t Video-supported treatment (VST) may replace in-person treatment support when the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        204.0644073486328,
+        505.6390075683594,
+        218.5074005126953
+      ],
+      "text": "video communication technology is available and it can be appropriately organized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        214.7884063720703,
+        501.24053955078125,
+        230.5074005126953
+      ],
+      "text": "(Conditional recommendation,  and operated by health-care providers and patients",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.85040283203125,
+        226.7884063720703,
+        259.3260803222656,
+        242.45240783691406
+      ],
+      "text": "very low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.6886901855469,
+        139.9644775390625,
+        283.5406799316406
+      ],
+      "text": "Justification",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.88861083984375,
+        172.38133239746094,
+        315.5486145019531
+      ],
+      "text": "Treatment support",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.7565002441406,
+        527.4649047851562,
+        337.19952392578125
+      ],
+      "text": "Treatment support terminology in this document is used to describe an approach to supporting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.9565124511719,
+        527.3804321289062,
+        350.3995361328125
+      ],
+      "text": "patients who are taking prescribed doses of TB medicines in order to help ensure adherence to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.156494140625,
+        524.4818725585938,
+        363.5995178222656
+      ],
+      "text": "treatment and maximize its efficacy. Treatment support needs to be provided in the context of people-",
+      "font": "SegoeUI-Light",
+      "size": 10.966650009155273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.35650634765625,
+        527.4387817382812,
+        376.7995300292969
+      ],
+      "text": "centred care and should be based on the individual patient’s needs, acceptability and preferences. It",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        375.5565185546875,
+        527.407958984375,
+        389.9995422363281
+      ],
+      "text": "includes aspects of support, motivation and understanding of patients without coercion. Historically,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.7565002441406,
+        527.400146484375,
+        403.19952392578125
+      ],
+      "text": "this group of interventions were labelled as “directly observed treatment” or DOT. However, with a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.9565124511719,
+        527.40673828125,
+        416.3995361328125
+      ],
+      "text": "need to emphasize the need to support people in adhering to treatment, as recommended by the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.8804931640625,
+        527.5264892578125,
+        429.5995178222656
+      ],
+      "text": "(6, 7) WHO TB ethics guidance of 2010 and 2017  , this legacy terminology has been replaced by",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.35650634765625,
+        527.4078979492188,
+        442.7995300292969
+      ],
+      "text": "“treatment support” throughout this document in order to align the language with the essence of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.5565185546875,
+        317.0428466796875,
+        455.9995422363281
+      ],
+      "text": "the recommendation of the WHO TB ethics guidance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.260498046875,
+        527.2010498046875,
+        477.7035217285156
+      ],
+      "text": "In the systematic review that led to the recommendations on treatment adherence, “treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.46051025390625,
+        527.1900634765625,
+        490.9035339355469
+      ],
+      "text": "support” was defined as any person observing the patient taking medications in real time. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        489.6604919433594,
+        527.43994140625,
+        504.103515625
+      ],
+      "text": "treatment supporter does not need to be a health-care worker, but could be a friend, a relative or a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.8604736328125,
+        291.4183654785156,
+        517.303466796875
+      ],
+      "text": "lay person who works as a treatment supporter.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        524.5643920898438,
+        527.3846435546875,
+        539.0073852539062
+      ],
+      "text": "Treatment support may also be achieved with real-time video feed and video recording which is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.764404296875,
+        489.40191650390625,
+        552.2073974609375
+      ],
+      "text": "referred to as video-supported treatment (VST). VST was analysed separately in this review.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.46826171875,
+        527.5357055664062,
+        573.9112548828125
+      ],
+      "text": "Adherence definitions varied across the studies. In general, however, adherence was defined as taking",
+      "font": "SegoeUI-Light",
+      "size": 10.979180335998535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.6683349609375,
+        411.0818786621094,
+        587.111328125
+      ],
+      "text": "> 90% of medications under conditions of observation by another person.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.3721923828125,
+        527.376220703125,
+        608.815185546875
+      ],
+      "text": "The systematic review conducted in support of this guideline was based on synthesis of data from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.2963256835938,
+        527.4169921875,
+        622.0153198242188
+      ],
+      "text": "(8–15) (16–29) randomized controlled trials   and from observational studies  , with preference given to",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.7723388671875,
+        527.4410400390625,
+        635.21533203125
+      ],
+      "text": "the results of randomized controlled trials. Outcomes from treatment support with observation were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.9722900390625,
+        527.4100341796875,
+        648.415283203125
+      ],
+      "text": "compared with outcomes from self-administered treatment (SAT) given under standard TB practice",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.1723022460938,
+        527.4288330078125,
+        661.6152954101562
+      ],
+      "text": "and without any additional support. Treatment support could be given by a health-care worker, a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.3721923828125,
+        527.46728515625,
+        674.815185546875
+      ],
+      "text": "family member or a community member and could be done at home, in the patient’s community",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.5723266601562,
+        527.3399047851562,
+        688.0153198242188
+      ],
+      "text": "or at a clinic. Treatment support was generally performed daily. The GDG focused preferentially",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.7723388671875,
+        527.4365844726562,
+        701.21533203125
+      ],
+      "text": "on randomized controlled trial data from the systematic review. When the data from randomized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.9722900390625,
+        527.434326171875,
+        714.415283203125
+      ],
+      "text": "controlled trials were limited or not available, observational data were examined and their results",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.1723022460938,
+        527.4464721679688,
+        727.6152954101562
+      ],
+      "text": "were presented. Interpretation of the associations, however, requires caution due to limitations of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.3721923828125,
+        527.3893432617188,
+        740.815185546875
+      ],
+      "text": "the observational data when the associations are confounded by different factors. In uncontrolled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.5723266601562,
+        527.0999755859375,
+        754.0153198242188
+      ],
+      "text": "observational studies, for instance, patients with more severe disease or higher risk of non-adherence",
+      "font": "SegoeUI-Light",
+      "size": 10.9822359085083,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.7723388671875,
+        527.4465942382812,
+        767.21533203125
+      ],
+      "text": "are likely to be assigned treatment support and the less sick or, less likely, incompliant patients are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "182 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

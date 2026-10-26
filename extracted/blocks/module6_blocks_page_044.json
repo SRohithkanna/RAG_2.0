@@ -1,0 +1,594 @@
+{
+  "file": "module6",
+  "page": 44,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.38239288330078,
+        527.3914184570312,
+        87.82539367675781
+      ],
+      "text": "the data were limited, based on the available evidence, the GDG members supported extrapolation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        527.3760375976562,
+        101.82539367675781
+      ],
+      "text": "of the recommendation for people living with HIV. Further details, including on safety, cost analysis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.432861328125,
+        115.82539367675781
+      ],
+      "text": "and user perspective, can be found in the  WHO consolidated guidelines on tuberculosis. Module 3:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        281.0896911621094,
+        129.8253936767578
+      ],
+      "text": ".  diagnosis – tests for tuberculosis infection (15)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.20639038085938,
+        244.47361755371094,
+        157.6273956298828
+      ],
+      "text": "Recommendation 20: TPT regimens",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.27239990234375,
+        216.2530975341797,
+        171.6273956298828
+      ],
+      "text": "Daily isoniazid monotherapy",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4168701171875,
+        185.8253936767578
+      ],
+      "text": "The efficacy of six months daily isoniazid monotherapy (6H) in different populations and settings",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.4227294921875,
+        199.8253936767578
+      ],
+      "text": "has been shown in a number of systematic reviews  . A systematic review of RCTs in  (49, 69, 70)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.41796875,
+        213.8253936767578
+      ],
+      "text": "people living with HIV showed isoniazid monotherapy reduces the overall risk for TB by 33% (RR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.4199829101562,
+        227.8253936767578
+      ],
+      "text": "0.67; 95% CI: 0.51–0.87), and that the preventive efficacy reached 64% for people with a positive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.42236328125,
+        241.8253936767578
+      ],
+      "text": "TST (RR 0.36; 95% CI: 0.22–0.61)  . Furthermore, the efficacy of the 6-month regimen was not  (49)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        524.3994140625,
+        255.8253936767578
+      ],
+      "text": "significantly different from that of 12 months’ daily isoniazid monotherapy (RR 0.58; 95% CI: 0.3–",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.4178466796875,
+        269.8254089355469
+      ],
+      "text": "1.12). A systematic review of RCTs also showed a significantly greater reduction in TB incidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4190063476562,
+        283.8254089355469
+      ],
+      "text": "among participants given the 6-month regimen than in those given a placebo (odds ratio (OR) 0.65;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4019775390625,
+        297.8254089355469
+      ],
+      "text": "95% CI: 0.50–0.83)  . No controlled clinical trials were found of daily isoniazid monotherapy for 9  (71)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.3883056640625,
+        311.8254089355469
+      ],
+      "text": "months (9H) versus 6H. Re-analysis and modelling of the United States Public Health Service trials of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.4188842773438,
+        325.8254089355469
+      ],
+      "text": "isoniazid conducted in the 1950s and 1960s, however, showed that the benefit of isoniazid increases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.4253540039062,
+        339.825439453125
+      ],
+      "text": "progressively when it is given for up to 9–10 months and stabilizes thereafter  . For this reason,  (72)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        443.2535705566406,
+        353.825439453125
+      ],
+      "text": "9H is retained as an alternative regimen to 6H in the recommended TPT options.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.2724304199219,
+        321.40203857421875,
+        381.6274108886719
+      ],
+      "text": "Daily rifampicin plus isoniazid for 3 months (3HR)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.4221801757812,
+        395.825439453125
+      ],
+      "text": "A systematic review updated in 2017 showed that the efficacy and the safety profile of 3–4 months’",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.42822265625,
+        409.825439453125
+      ],
+      "text": "daily rifampicin plus isoniazid were similar to those of 6 months’ isoniazid  . A previous GDG  (71, 73)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.4178466796875,
+        423.825439453125
+      ],
+      "text": "therefore strongly recommended that daily rifampicin plus isoniazid could be used as an alternative",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        430.0946044921875,
+        437.825439453125
+      ],
+      "text": "to isoniazid in settings with a TB incidence < 100 per 100 000 population  .  (74)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.2724304199219,
+        313.361083984375,
+        465.6274108886719
+      ],
+      "text": "Daily rifampicin monotherapy for 4 months (4R)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4213256835938,
+        479.825439453125
+      ],
+      "text": "A previous systematic review conducted for the 2015 guidelines on TPT and updated in 2017,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4215698242188,
+        493.825439453125
+      ],
+      "text": "found similar efficacy for 3–4 months’ daily rifampicin and 6H (OR 0.78; 95% CI: 0.41–1.46)  .  (71, 73)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4114379882812,
+        507.825439453125
+      ],
+      "text": "The review also showed that individuals given rifampicin daily for 3–4 months had a lower risk for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        491.1882629394531,
+        521.825439453125
+      ],
+      "text": "hepatotoxicity than those treated with isoniazid monotherapy (OR 0.03; 95% CI: 0.00–0.48).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.3873291015625,
+        549.825439453125
+      ],
+      "text": "In 2019, the GDG discussed the implications of using 4R in high TB burden settings based on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4188842773438,
+        563.825439453125
+      ],
+      "text": "findings from RCTs of 4R vs 9H that included adults and children from such countries  . In study  (75-78)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.416748046875,
+        577.825439453125
+      ],
+      "text": "participants > 17 years, the difference in rate of confirmed TB between 4R and 9H (4R arm minus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.4212646484375,
+        591.8253784179688
+      ],
+      "text": "9H arm) was < 0.01 cases per 100 person-years (95% CI: −0.14 to –0.16); the difference in treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4199829101562,
+        605.8253784179688
+      ],
+      "text": "completion was 15.1% (95% CI: 12.7–17.4); the difference for Grade 3–5 adverse events was −1.1%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.419921875,
+        619.8253784179688
+      ],
+      "text": "(95% CI: −1.9 to –0.4). In individuals < 18 years, the difference in rate of TB disease between 4R",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4234008789062,
+        633.8253784179688
+      ],
+      "text": "and 9H was –0.37 cases per 100 person-years (95% CI: −0.88 to 0.14); the difference in treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.4476318359375,
+        647.8253784179688
+      ],
+      "text": "completion was 13.4% (95% CI: 7.5–19.3); the difference in risk for adverse events attributed to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        430.55731201171875,
+        661.8253784179688
+      ],
+      "text": "medicine used and resulting in discontinuation was −0.0 (95% CI: −0.1 to 0.1).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.2723999023438,
+        320.5110778808594,
+        689.6273803710938
+      ],
+      "text": "Daily rifapentine plus isoniazid for 1 month (1HP)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4344482421875,
+        703.8253784179688
+      ],
+      "text": "In 2019, the GDG considered data from the only known published study of the 1HP regimen: a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4411010742188,
+        717.8253784179688
+      ],
+      "text": "randomized, open-label, phase 3 non-inferiority trial comparing the efficacy and safety of 1HP with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.4313354492188,
+        731.8253784179688
+      ],
+      "text": "9 months of isoniazid alone (9H) in people living with HIV in high TB prevalence settings or who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.4281616210938,
+        745.8253784179688
+      ],
+      "text": "had evidence of TB infection  . Enrolment was restricted to individuals ≥ 13 years old who were  (78)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.3823852539062,
+        527.3861694335938,
+        759.8253784179688
+      ],
+      "text": "not pregnant or breastfeeding. Non-inferiority would be shown if the upper limit of the 95% CI for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        527.433349609375,
+        773.8253784179688
+      ],
+      "text": "the between-group difference in the number of events per 100 person-years was less than 1.25.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "26",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

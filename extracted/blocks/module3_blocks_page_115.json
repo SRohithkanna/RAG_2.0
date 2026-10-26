@@ -1,0 +1,654 @@
+{
+  "file": "module3",
+  "page": 115,
+  "blocks": [
+    {
+      "bbox": [
+        85.03929901123047,
+        69.16120147705078,
+        526.8207397460938,
+        82.30619812011719
+      ],
+      "text": "laboratory staff may require further clarification and justification in some settings as to why",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993398666381836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        84.66120147705078,
+        519.970947265625,
+        97.80619812011719
+      ],
+      "text": "this specific drug test is being prioritized, given that it is not currently part of routine DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.16120147705078,
+        78.81909942626953,
+        113.30619812011719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        100.16120147705078,
+        526.9169921875,
+        113.30619812011719
+      ],
+      "text": "Specific feasibility challenges (training and infrastructure requirements, sample quality",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        115.66120147705078,
+        526.9549560546875,
+        128.8061981201172
+      ],
+      "text": "result interpretation system), general feasibility challenges (as identified in the interview",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        131.16119384765625,
+        527.0300903320312,
+        144.3061981201172
+      ],
+      "text": "study and QES, respectively) and accumulated delays risk undoing the added value and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        146.66119384765625,
+        527.0357666015625,
+        159.8061981201172
+      ],
+      "text": "benefits identified by the users (e.g. avoiding delays and drug-resistance information).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        162.34820556640625,
+        257.6513977050781,
+        175.2292022705078
+      ],
+      "text": "QES high confidence and interviews",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.15382385253906,
+        290.5672302246094,
+        202.0678253173828
+      ],
+      "text": "Is the intervention feasible to implement?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.0037841796875,
+        78.81909942626953,
+        226.14878845214844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        213.0037841796875,
+        527.2398681640625,
+        226.14878845214844
+      ],
+      "text": "The feasibility of implementing the pyrazinamide LPA is challenged by the significant training",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        228.5037841796875,
+        527.3037719726562,
+        241.64878845214844
+      ],
+      "text": "and laboratory infrastructure required to implement this method. Feasibility also hinges on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        244.0037841796875,
+        526.9470825195312,
+        257.1488037109375
+      ],
+      "text": "availability of an automated interpretation system, because the result is difficult to interpret.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.969006538391113,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        259.6907958984375,
+        134.57229614257812,
+        272.57177734375
+      ],
+      "text": "Interviews",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.8500061035156,
+        275.1541442871094,
+        304.22998046875
+      ],
+      "text": "Implementation considerations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.98089599609375,
+        527.1350708007812,
+        326.12591552734375
+      ],
+      "text": "Factors to consider when implementing a high complexity hybridization-based NAAT for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.98089599609375,
+        323.59832763671875,
+        340.12591552734375
+      ],
+      "text": "detection of pyrazinamide resistance are as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.73291015625,
+        78.81909942626953,
+        359.8779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        346.73291015625,
+        526.9644165039062,
+        359.8779296875
+      ],
+      "text": "There are specific concerns about the complexity and difficulty of interpretation. The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        362.23291015625,
+        526.9654541015625,
+        375.3779296875
+      ],
+      "text": "large number of bands makes it difficult to read the result of the high complexity reverse",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        377.73291015625,
+        216.85092163085938,
+        390.8779296875
+      ],
+      "text": "hybridization-based NAAT.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.23291015625,
+        78.81909942626953,
+        406.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        393.23291015625,
+        526.9862060546875,
+        406.3779296875
+      ],
+      "text": "Local epidemiological data on resistance prevalence should guide local testing algorithms,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        408.73291015625,
+        495.44158935546875,
+        421.8779296875
+      ],
+      "text": "whereas pretest probability is important for the clinical interpretation of test results.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.23291015625,
+        78.81909942626953,
+        437.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        424.23291015625,
+        526.96435546875,
+        437.3779296875
+      ],
+      "text": "The cost of a test varies, depending on the number of samples in a batch, staff time and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        439.73291015625,
+        418.1578674316406,
+        452.8779296875
+      ],
+      "text": "other parameters requiring a local costing exercise to be performed.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.23291015625,
+        78.81909942626953,
+        468.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        455.23291015625,
+        527.07568359375,
+        468.3779296875
+      ],
+      "text": "Low, moderate, and high complexity tests have a successive increase in technical competency",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        470.73291015625,
+        486.621826171875,
+        483.8779296875
+      ],
+      "text": "needs (qualifications and skills) and staff time, impacting planning and budgeting.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.23291015625,
+        78.81909942626953,
+        499.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        486.23291015625,
+        527.0082397460938,
+        499.3779296875
+      ],
+      "text": "Availability and timeliness of local support service and maintenance should be considered",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        501.73291015625,
+        214.14480590820312,
+        514.8779296875
+      ],
+      "text": "when selecting a provider.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        517.23291015625,
+        78.81920623779297,
+        530.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        517.23291015625,
+        527.0855102539062,
+        530.3779296875
+      ],
+      "text": "Laboratory accreditation and compliance with a robust quality management system",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        532.73291015625,
+        524.419189453125,
+        545.8779296875
+      ],
+      "text": "(including appropriate quality control) is essential for sustained service excellence and trust.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98288631439209,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.23291015625,
+        78.81909942626953,
+        561.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        548.23291015625,
+        526.9642944335938,
+        561.3779296875
+      ],
+      "text": "Training of both laboratory and clinical staff will ensure effective delivery of services and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        563.73291015625,
+        157.24241638183594,
+        576.8779296875
+      ],
+      "text": "clinical impact.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.23291015625,
+        78.81909942626953,
+        592.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        579.23291015625,
+        527.0913696289062,
+        592.3779296875
+      ],
+      "text": "Use of connectivity solutions for communication of results is encouraged, to improve",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        594.73291015625,
+        381.2862548828125,
+        607.8779296875
+      ],
+      "text": "efficiency of service delivery and time to treatment initiation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.23291015625,
+        78.81909942626953,
+        623.3779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        610.23291015625,
+        526.942138671875,
+        623.3779296875
+      ],
+      "text": "Based on a multinational, population-based study, levels of pyrazinamide resistance varied",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        625.73291015625,
+        527.0582885742188,
+        638.8779296875
+      ],
+      "text": "widely in the surveyed settings (3.0–42.1%). In all settings, pyrazinamide resistance was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        641.23291015625,
+        350.00250244140625,
+        654.3779296875
+      ],
+      "text": "significantly associated with rifampicin resistance  . (49)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.73291015625,
+        78.81909942626953,
+        669.8779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        656.73291015625,
+        526.9423217773438,
+        669.8779296875
+      ],
+      "text": "Implementation of a high complexity hybridization-based NAAT requires laboratories with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        672.23291015625,
+        442.137939453125,
+        685.3779296875
+      ],
+      "text": "the required infrastructure, space and functional sample referral systems.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.73291015625,
+        78.81909942626953,
+        700.8779296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        687.73291015625,
+        527.0501708984375,
+        700.8779296875
+      ],
+      "text": "Because there are several manual steps involved, well-trained staff are needed to set up",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        703.23291015625,
+        526.964111328125,
+        716.3779296875
+      ],
+      "text": "assays and maintain instruments. Special training and experience are required for reading",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        718.73291015625,
+        244.18521118164062,
+        731.8779296875
+      ],
+      "text": "of banding patterns on the strip.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 99",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

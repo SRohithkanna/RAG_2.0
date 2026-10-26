@@ -1,0 +1,606 @@
+{
+  "file": "module6",
+  "page": 42,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.20639038085938,
+        455.408447265625,
+        87.62739562988281
+      ],
+      "text": "Recommendations 16–17: Algorithms to rule out TB disease prior to giving TPT",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        524.3917846679688,
+        101.82539367675781
+      ],
+      "text": "In 2011, WHO conducted a systematic review and IPD meta-analysis and recommended a symptom-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.4222412109375,
+        115.82539367675781
+      ],
+      "text": "screening rule of a combination of current cough, weight loss, night sweats and fever to exclude TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4269409179688,
+        129.8253936767578
+      ],
+      "text": "disease in adults and adolescents  . The review showed that the rule had a sensitivity of 78.9%  (57)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.4189453125,
+        143.8253936767578
+      ],
+      "text": "(95% CI: 58.3%–90.9%), a specificity of 49.6% (95% CI: 29.2%–70.1%) and a negative predictive value",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.4398193359375,
+        157.8253936767578
+      ],
+      "text": "of 97.7% (95% CI: 97.4%–98.0%) at a TB prevalence of 5%. Most people living with HIV in studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        334.1511535644531,
+        171.8253936767578
+      ],
+      "text": "included in the systematic review were not receiving ART.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.3846435546875,
+        199.8253936767578
+      ],
+      "text": "During the 2018 update of the guidelines on TPT, a systematic review was undertaken to compare",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.4422607421875,
+        213.8253936767578
+      ],
+      "text": "the performance of the four symptom screen in people living with HIV who were and were not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.4243774414062,
+        227.8253936767578
+      ],
+      "text": "receiving ART  . Data from 17 studies were included in this analysis. The pooled sensitivity of the  (58)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.3914794921875,
+        241.8253936767578
+      ],
+      "text": "four symptom screen for people living with HIV on ART was 51.0% (95% CI: 28.4–73.2), and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.4178466796875,
+        255.8253936767578
+      ],
+      "text": "specificity was 70.7% (95% CI: 47.7–86.4); in people living with HIV who were not receiving ART the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.4057006835938,
+        269.8254089355469
+      ],
+      "text": "pooled sensitivity was 89.3% (95% CI: 82.6–93.6), and the specificity was 27.2% (95% CI: 17.3–40.0).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4234619140625,
+        283.8254089355469
+      ],
+      "text": "Two studies provided data on the addition of abnormal chest radiographic findings to the screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.429931640625,
+        297.8254089355469
+      ],
+      "text": "rule for people living with HIV on ART  . The pooled sensitivity was higher (84.6%, 95%  (59, 60)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4222412109375,
+        311.8254089355469
+      ],
+      "text": "CI: 69.7–92.9), but the specificity was lower (29.8%, 95% CI: 26.3–33.6) when compared with the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        180.1378936767578,
+        325.8254089355469
+      ],
+      "text": "symptom screen alone.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4398803710938,
+        353.825439453125
+      ],
+      "text": "In all studies, the median prevalence of TB among people living with HIV on ART was 1.5% (interquartile",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.4166259765625,
+        367.825439453125
+      ],
+      "text": "range: 0.6–3.5%). At a 1% prevalence of TB, the negative predictive value of the symptom screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.4244384765625,
+        381.825439453125
+      ],
+      "text": "rule was 99.3%; addition of abnormal chest radiographic findings increased the negative predictive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.4541625976562,
+        395.825439453125
+      ],
+      "text": "value by 0.2%. No studies of the addition of chest radiography to the symptom rule for pregnant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        225.80001831054688,
+        409.825439453125
+      ],
+      "text": "women were found in the review.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.426513671875,
+        437.825439453125
+      ],
+      "text": "During the development of the 2020 updated guidelines, the GDG agreed that in adults and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4190673828125,
+        451.825439453125
+      ],
+      "text": "adolescents living with HIV the four symptom screen – current cough, fever, weight loss or night",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        527.4234619140625,
+        465.825439453125
+      ],
+      "text": "sweats – is very useful for ruling out TB disease, regardless of ART use. Confirmation of TB infection",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4486694335938,
+        479.825439453125
+      ],
+      "text": "would be desirable before starting TPT, although lack of access to TB infection testing should not be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4122924804688,
+        493.825439453125
+      ],
+      "text": "a barrier to TPT initiation. It noted the potential benefits of adding an abnormal chest radiographic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4266967773438,
+        507.825439453125
+      ],
+      "text": "finding to the rule, while recognizing that the improvement in performance was marginal. Moreover,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.3958740234375,
+        521.825439453125
+      ],
+      "text": "increased use of chest radiography would add more false-positive results to the screening rule,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        527.3946533203125,
+        535.825439453125
+      ],
+      "text": "which would require more investigations for TB and other illnesses. Therefore, the GDG reiterated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.3848876953125,
+        549.825439453125
+      ],
+      "text": "that chest radiography may be added as an additional investigation only if it does not pose a barrier",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.435546875,
+        563.825439453125
+      ],
+      "text": "to the provision of preventive treatment for people living with HIV. It should not be a requirement for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.4168090820312,
+        577.825439453125
+      ],
+      "text": "initiating preventive treatment. Although no study was found of the additive role of chest radiography",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.4255981445312,
+        591.8253784179688
+      ],
+      "text": "in testing pregnant women, the GDG noted that pregnant women living with HIV could also benefit,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        508.1150817871094,
+        605.8253784179688
+      ],
+      "text": "as long as good practices are observed to prevent harmful radiation exposure to the fetus  .  (61)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.2064208984375,
+        376.8827209472656,
+        633.6273803710938
+      ],
+      "text": "Recommendation 18: IGRA and TST for testing for TB infection",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.40380859375,
+        647.8253784179688
+      ],
+      "text": "In 2011, WHO issued recommendations on the use of IGRAs for the diagnosis of TB infection,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.417724609375,
+        661.8253784179688
+      ],
+      "text": "including the blood-based QIAGEN QuantiFERON -TB Gold (QFT-G), QIAGEN QuantiFERON-TB  ®",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.4177856445312,
+        675.8253784179688
+      ],
+      "text": "Gold In-Tube (QFT-GIT) and Oxford Immunotec T-SPOT .TB (T-Spot)   assays. In 2018, WHO  (62) ®",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4223022460938,
+        689.8253784179688
+      ],
+      "text": "updated the recommendations to stipulate that the TST or IGRAs (or both) can be used to test for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4178466796875,
+        703.8253784179688
+      ],
+      "text": "infection in LMICs. The recommendation on IGRA for use as a test for infection was first published in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4431762695312,
+        717.8253784179688
+      ],
+      "text": "the 2018 WHO guidelines  . A previous systematic review was updated to compare the predictive  (63)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.3948364257812,
+        731.8253784179688
+      ],
+      "text": "performance of IGRA and TST for identifying incident TB disease in countries with a TB incidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.421630859375,
+        745.8253784179688
+      ],
+      "text": "> 100 per 100 000 population  . Only studies in which TST was compared with IGRA in the same  (64)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.3823852539062,
+        527.4102783203125,
+        759.8253784179688
+      ],
+      "text": "population (“head-to-head” studies) were included. Relative risk ratios for TB for people who tested",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        413.3467102050781,
+        773.8253784179688
+      ],
+      "text": "positive and those who tested negative with TST and IGRA were estimated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "24",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

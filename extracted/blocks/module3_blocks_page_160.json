@@ -1,0 +1,510 @@
+{
+  "file": "module3",
+  "page": 160,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.31520080566406,
+        322.4141540527344,
+        82.22920227050781
+      ],
+      "text": "Studies search, selection and quality assessment",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.16522979736328,
+        527.0680541992188,
+        106.31022644042969
+      ],
+      "text": "All studies evaluating IGRAs published up to the end of May 2010 were reviewed using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.66522979736328,
+        527.1969604492188,
+        121.81022644042969
+      ],
+      "text": "predefined data search strings. In addition to database searches, bibliographies of reviews and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982135772705078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.16522979736328,
+        526.93701171875,
+        137.3102264404297
+      ],
+      "text": "guidelines were reviewed, citations of all included studies were screened, and experts in the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.66522216796875,
+        526.9631958007812,
+        152.8102264404297
+      ],
+      "text": "field as well as IGRA manufacturers were contacted to identify additional studies (published,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.16522216796875,
+        527.2506103515625,
+        168.3102264404297
+      ],
+      "text": "unpublished and ongoing). Pertinent information not reported in the original publications",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.66522216796875,
+        516.612548828125,
+        183.8102264404297
+      ],
+      "text": "was requested from the primary authors of all studies included by the systematic reviewers.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.66912841796875,
+        526.9480590820312,
+        207.8141326904297
+      ],
+      "text": "Studies that evaluated the performance of currently available commercial IGRAs, published in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.16912841796875,
+        526.9038696289062,
+        223.3141326904297
+      ],
+      "text": "all languages and in all LMIC, were reviewed by individual topic. Only studies evaluating IGRA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.66912841796875,
+        526.6578979492188,
+        238.8141326904297
+      ],
+      "text": "performance in LMIC were included in this analysis. Excluded were studies that evaluated non-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986991882324219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.16912841796875,
+        527.008544921875,
+        254.3141326904297
+      ],
+      "text": "commercial (i.e. in-house) IGRAs, older generation IGRAs (i.e. PPD-based IGRAs) and IGRAs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.66912841796875,
+        526.9644775390625,
+        269.81414794921875
+      ],
+      "text": "performed in specimens other than blood; studies that were focused on the effect of anti-TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.16912841796875,
+        526.6210327148438,
+        285.31414794921875
+      ],
+      "text": "treatment on the IGRA response; studies including fewer than 10 individuals; studies reporting",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979331016540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.66912841796875,
+        527.1691284179688,
+        300.81414794921875
+      ],
+      "text": "insufficient data to determine diagnostic accuracy measures; and conference abstracts and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.16912841796875,
+        274.6490173339844,
+        316.31414794921875
+      ],
+      "text": "letters without original data, and reviews.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.1730041503906,
+        526.6181640625,
+        340.3180236816406
+      ],
+      "text": "Study quality was assessed by relevant standardized methods, depending on the topic. For",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.6730041503906,
+        526.9922485351562,
+        355.8180236816406
+      ],
+      "text": "primary outcomes focused on test accuracy, quality was appraised using a subset of relevant",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.1730041503906,
+        526.9921875,
+        371.3180236816406
+      ],
+      "text": "criteria from QUADAS, a validated tool for diagnostic accuracy studies. For studies of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.6730041503906,
+        527.2417602539062,
+        386.8180236816406
+      ],
+      "text": "predictive value of IGRAs, quality was appraised with a modified version of the Newcastle-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.1730041503906,
+        527.1560668945312,
+        402.3180236816406
+      ],
+      "text": "Ottawa Scale (NOS) for longitudinal or cohort studies. Conflicts of interest are a known",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.6730041503906,
+        526.9920654296875,
+        417.8180236816406
+      ],
+      "text": "concern in TB diagnostic studies; therefore, the systematic reviews added a quality item about",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99959945678711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.1730041503906,
+        527.0358276367188,
+        433.3180236816406
+      ],
+      "text": "involvement of commercial test manufacturers in published studies; they also reported whether",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95229721069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.6730041503906,
+        526.9689331054688,
+        448.8180236816406
+      ],
+      "text": "IGRA manufacturers had any involvement with the design or conduct of each study, including",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.1730041503906,
+        527.0060424804688,
+        464.3180236816406
+      ],
+      "text": "donation of test materials, provision of monetary support, work or financial relationships with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.999650001525879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.6730041503906,
+        307.03289794921875,
+        479.8180236816406
+      ],
+      "text": "study authors, and participation in data analysis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.8309020996094,
+        244.08314514160156,
+        503.7449035644531
+      ],
+      "text": "Data synthesis and meta-analysis",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.680908203125,
+        526.9745483398438,
+        527.825927734375
+      ],
+      "text": "A standardized overall approach was specified a priori for each systematic review, to account",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.180908203125,
+        526.9666748046875,
+        543.325927734375
+      ],
+      "text": "for significant heterogeneity in results expected between studies. First, data were synthesized",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.680908203125,
+        527.0216674804688,
+        558.825927734375
+      ],
+      "text": "separately for each commercial IGRA and by the World Bank country income classification",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.180908203125,
+        526.9810791015625,
+        574.325927734375
+      ],
+      "text": "(LMIC versus high-income countries) as a surrogate for TB incidence. Second, heterogeneity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.680908203125,
+        526.8624877929688,
+        589.825927734375
+      ],
+      "text": "was visually assessed using forest plots, and the variation in study results attributable to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.180908203125,
+        527.3247680664062,
+        605.325927734375
+      ],
+      "text": "heterogeneity was characterized (I-squared statistic) and statistically tested (chi-squared test).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997249603271484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.680908203125,
+        526.8611450195312,
+        620.825927734375
+      ],
+      "text": "Third, pooled estimates were calculated using random-effects modelling, which provides more",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977276802062988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.180908203125,
+        526.9656982421875,
+        636.325927734375
+      ],
+      "text": "conservative estimates than fixed-effects modelling when heterogeneity is present. For each",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.680908203125,
+        527.0029296875,
+        651.825927734375
+      ],
+      "text": "individual study, all outcomes for which data were available were assessed. First, forest plots",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.180908203125,
+        526.9369506835938,
+        667.325927734375
+      ],
+      "text": "were generated to display the individual study estimates and their 95% CIs. Pooled estimates",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.680908203125,
+        527.2440795898438,
+        682.825927734375
+      ],
+      "text": "were calculated when at least three studies were available in any subgroup, and individual",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.180908203125,
+        527.1463623046875,
+        698.325927734375
+      ],
+      "text": "study results were summarized when fewer than four studies were available. Standard statistical",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.680908203125,
+        232.92738342285156,
+        713.825927734375
+      ],
+      "text": "packages were used for analyses.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "144 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

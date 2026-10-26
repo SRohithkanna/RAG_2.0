@@ -1,0 +1,426 @@
+{
+  "file": "module1",
+  "page": 51,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        301.9550476074219,
+        147.1480255126953
+      ],
+      "text": "3. Research gaps",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.51710510253906,
+        527.4764404296875,
+        194.96009826660156
+      ],
+      "text": "The review of evidence for the current update exposed additional knowledge gaps to those",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.7171173095703,
+        527.20458984375,
+        208.1601104736328
+      ],
+      "text": "reported in other recent updates of the guidelines. Continued research on development and on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.64112854003906,
+        527.3109741210938,
+        221.36012268066406
+      ],
+      "text": "(136) implementation remains critical for many aspects of PMTPT  . Some information can be collected",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989645004272461,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.1171417236328,
+        162.0001220703125,
+        234.5601348876953
+      ],
+      "text": "from user feedback.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        248.54833984375,
+        369.2041015625,
+        273.3433532714844
+      ],
+      "text": "Risks for progression to TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.7943115234375,
+        527.205322265625,
+        293.2373352050781
+      ],
+      "text": "Evidence of the likelihood of progression from infection to TB disease, including MDR/RR-TB, in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.99432373046875,
+        527.4190063476562,
+        306.4373474121094
+      ],
+      "text": "different populations at risk will help in determining the potential benefits of TPT and in designing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.1943359375,
+        527.4080200195312,
+        319.6373596191406
+      ],
+      "text": "appropriate public health interventions. In particular, strong evidence from individually randomized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.394287109375,
+        527.466552734375,
+        332.8373107910156
+      ],
+      "text": "controlled clinical trials is lacking, particularly for indigenous populations and people with the following:",
+      "font": "SegoeUI-Light",
+      "size": 10.952396392822266,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.59429931640625,
+        527.4299926757812,
+        346.0373229980469
+      ],
+      "text": "diabetes, harmful use of alcohol, tobacco smoking, underweight, fibrotic lesions in the lung on CXR,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.7943115234375,
+        527.4132690429688,
+        359.2373352050781
+      ],
+      "text": "on steroid treatment, with rheumatological diseases, chronic kidney disease, cancer or COVID-19.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.9942932128906,
+        527.5504760742188,
+        372.43731689453125
+      ],
+      "text": "Methods for measuring TB incidence directly and also the risk for TB disease could be explored, such",
+      "font": "SegoeUI-Light",
+      "size": 10.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.1943054199219,
+        527.4097900390625,
+        385.6373291015625
+      ],
+      "text": "as use of genotyping to distinguish between reactivation and reinfection. Evidence is also required",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.3943176269531,
+        527.3777465820312,
+        398.83734130859375
+      ],
+      "text": "on differential harm and the acceptability of testing and treating TBI in specific risk groups, including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.59429931640625,
+        280.8717346191406,
+        412.037353515625
+      ],
+      "text": "stigmatization. socially adverse effects such as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.0255126953125,
+        523.885009765625,
+        450.8205261230469
+      ],
+      "text": "Defining the best algorithm for screening and ruling",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.82550048828125,
+        194.73638916015625,
+        473.6205139160156
+      ],
+      "text": "out TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.0714111328125,
+        527.4200439453125,
+        493.5144348144531
+      ],
+      "text": "Operational and clinical studies should be conducted to exclude TB disease before TPT is given. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.2713928222656,
+        527.423583984375,
+        506.71441650390625
+      ],
+      "text": "performance and feasibility of the algorithms proposed in these guidelines should be assessed. Data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.471435546875,
+        527.4034423828125,
+        519.9144287109375
+      ],
+      "text": "on children and pregnant women in particular are limited. Better evidence is necessary to identify",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.67138671875,
+        527.6073608398438,
+        533.1143798828125
+      ],
+      "text": "the best strategies for tracing contacts, saving costs and improving feasibility (e.g. use of mobile CXR,",
+      "font": "SegoeUI-Light",
+      "size": 10.991847038269043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.8715209960938,
+        241.12892150878906,
+        546.3145141601562
+      ],
+      "text": "including CAD, in people < 15 years).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        553.575439453125,
+        527.443115234375,
+        568.0184326171875
+      ],
+      "text": "For all populations and tools, more research is required to evaluate the accuracy and effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        566.775390625,
+        527.4345703125,
+        581.2183837890625
+      ],
+      "text": "of complete screening and diagnostic algorithms, including symptom screening, CXR, CRP, mWRDs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        579.9754028320312,
+        527.406982421875,
+        594.4183959960938
+      ],
+      "text": "and other tools used in various combinations with diagnostic evaluation to rule out TB. Research",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        593.17529296875,
+        527.428466796875,
+        607.6182861328125
+      ],
+      "text": "on their effectiveness should include measures of the impact on patient-important outcomes, such",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        606.3754272460938,
+        527.4453735351562,
+        620.8184204101562
+      ],
+      "text": "as mortality and treatment success. For people with HIV in settings with different TB burdens, more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.575439453125,
+        524.3837890625,
+        634.0184326171875
+      ],
+      "text": "research is necessary to evaluate the accuracy and predictive value of measuring CRP above any cut-",
+      "font": "SegoeUI-Light",
+      "size": 10.993398666381836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.775390625,
+        527.3663940429688,
+        647.2183837890625
+      ],
+      "text": "off higher than 5 mg/L for TB screening, when it is used either alone or in combination with other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.9754028320312,
+        527.4387817382812,
+        660.4183959960938
+      ],
+      "text": "screening tests. More data are also necessary on the effectiveness, cost–effectiveness, feasibility and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.17529296875,
+        527.5035400390625,
+        673.6182861328125
+      ],
+      "text": "acceptability, frequency and optimal periodicity of routine, regular screening with the W4SS, CRP,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.3753662109375,
+        527.4493408203125,
+        686.818359375
+      ],
+      "text": "CXR and mWRD among people with HIV. More research is also required on the potential value of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.5753784179688,
+        409.531005859375,
+        700.0184326171875
+      ],
+      "text": "screening people with HIV with mWRDs on specimens other than sputum.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        545.8001708984375,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "33",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "file": "module3",
+  "page": 146,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        506.4540100097656,
+        83.2621841430664
+      ],
+      "text": "Fig. 3.1.1.7 Difference in specificity – TBSTs versus the TST in BCG-vaccinated",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.67418670654297,
+        134.19009399414062,
+        98.7621841430664
+      ],
+      "text": "population",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.405029296875,
+        526.9501953125,
+        274.550048828125
+      ],
+      "text": "Two studies (three analyses) provided data on difference in specificity in BCG-vaccinated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.905029296875,
+        527.0139770507812,
+        290.050048828125
+      ],
+      "text": "populations, which was even higher for this population than in populations where only some",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.405029296875,
+        526.7951049804688,
+        305.550048828125
+      ],
+      "text": "people had received BCG vaccination; the pooled difference in specificity was 67.4% (95%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.905029296875,
+        526.9700317382812,
+        321.050048828125
+      ],
+      "text": "CI: 24.0–110.7%). Overall risk of bias was considered serious because test allocation by arm",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.4049987792969,
+        526.9039916992188,
+        336.5500183105469
+      ],
+      "text": "was not blinded; hence, the certainty of the evidence was downgraded one level for risk of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.9049987792969,
+        526.9149780273438,
+        352.0500183105469
+      ],
+      "text": "bias. The CI was broad, ranging from 24.0% to 110.7%, so the certainty of the evidence was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.4049987792969,
+        527.0030517578125,
+        367.5500183105469
+      ],
+      "text": "downgraded one more level for imprecision. Consequently, certainty of the evidence for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        369.9049987792969,
+        517.799560546875,
+        383.0500183105469
+      ],
+      "text": "difference in specificity between TBSTs and the TST in BCG-vaccinated populations was low.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.9089050292969,
+        526.9625244140625,
+        407.0539245605469
+      ],
+      "text": "The pooled difference in specificity in six studies comparing TBSTs and IGRAs was low, at 2.3%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.4089050292969,
+        487.2325134277344,
+        422.5539245605469
+      ],
+      "text": "(95% CI: –1.6–6.2%), meaning that TBSTs were similar to IGRAs in terms of specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.9205322265625,
+        145.06048583984375,
+        451.3005065917969
+      ],
+      "text": "Agreement",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.5514221191406,
+        527.1572875976562,
+        474.6964416503906
+      ],
+      "text": "Overall, 16 studies involving 3198 participants (among which four studies with 1307 participants",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.0514221191406,
+        527.0138549804688,
+        490.1964416503906
+      ],
+      "text": "recruited people aged under 18 years) were included to assess agreement of the index tests",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.5514221191406,
+        313.2585754394531,
+        505.6964416503906
+      ],
+      "text": "with comparator tests (the TST or IGRAs, or both).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.5552978515625,
+        526.9623413085938,
+        529.7003173828125
+      ],
+      "text": "In participants without TB disease, agreement was high (≥90%) for Cy-Tb and Diaskintest –",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.0552978515625,
+        526.9619140625,
+        545.2003173828125
+      ],
+      "text": "(any induration size) and Diaskintest 5 mm induration – compared with QFT ( ).  Fig. 3.1.1.8",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.5552978515625,
+        527.107666015625,
+        560.7003173828125
+      ],
+      "text": "Agreement was slightly lower at 85.5% (95% CI: 75.7–91.7%) for C-TST compared with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.0552978515625,
+        526.9259643554688,
+        576.2003173828125
+      ],
+      "text": "T-Spot. In one study, which evaluated Diaskintest with induration of at least 7 mm compared",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.5552978515625,
+        526.9920654296875,
+        591.7003173828125
+      ],
+      "text": "with T-Spot, the agreement was considerably lower, at 60.9% (95% CI: 54.3–67.2%). Risk of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.0552978515625,
+        526.7169189453125,
+        607.2003173828125
+      ],
+      "text": "bias was considered serious because the allocation of tests was not blinded in five studies;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.5552978515625,
+        527.3082275390625,
+        622.7003173828125
+      ],
+      "text": "hence, certainty of the evidence was downgraded one level for risk of bias. Agreement ranged",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98924446105957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.0552978515625,
+        526.9148559570312,
+        638.2003173828125
+      ],
+      "text": "widely (from 61% to 97%) for various tests and studies, so the certainty of the evidence was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.5552978515625,
+        527.0357666015625,
+        653.7003173828125
+      ],
+      "text": "downgraded one level for inconsistency. Consequently, certainty of the evidence for agreement",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95229721069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.0552978515625,
+        243.52029418945312,
+        669.2003173828125
+      ],
+      "text": "between TBSTs and IGRAs was low.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "130 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

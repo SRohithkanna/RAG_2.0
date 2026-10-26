@@ -1,0 +1,44 @@
+{
+  "file": "module1",
+  "page": 87,
+  "table_id": 2,
+  "bbox": [
+    56.83580126081194,
+    180.75485871967516,
+    784.697021484375,
+    229.55480224609374
+  ],
+  "heading": "Specificity 0.30 (95% CI: 0.26 ; 0.33) Prevalence 1% 5% 10%",
+  "n_rows": 2,
+  "n_cols": 12,
+  "data": [
+    [
+      "Outcome",
+      "Nos of studies and patients",
+      "Study design",
+      "Factors that may decrease quality of evidence",
+      "",
+      "",
+      "",
+      "",
+      "Effect per 1000 patients tested",
+      "",
+      "",
+      "Test accuracy Quality of evidence"
+    ],
+    [
+      "",
+      "",
+      "",
+      "Risk of bias",
+      "Indirectness",
+      "Inconsistency",
+      "Imprecision",
+      "Publication bias",
+      "Pre-test probability, 1%",
+      "Pre-test probability, 5%",
+      "Pre-test probability, 10%",
+      ""
+    ]
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "file": "module1",
+  "page": 183,
+  "blocks": [
+    {
+      "bbox": [
+        60.692901611328125,
+        73.19952392578125,
+        162.9922637939453,
+        84.81852722167969
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        88.40838623046875,
+        755.9529418945312,
+        99.92839050292969
+      ],
+      "text": "The framework to monitor and evaluate the programmatic management of LTBI applies for the use of regimens such as 4R. Rifampicin has been generally well-tolerated and the 4R LTBI",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        99.40838623046875,
+        755.6455688476562,
+        110.92839050292969
+      ],
+      "text": "regimen has shown a good safety profile in trials when compared to more widely used regimens. The 4R regimen has been previously recommended by WHO for low incidence settings.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        113.24301147460938,
+        761.9302368164062,
+        124.76301574707031
+      ],
+      "text": "As individuals who receive LTBI treatment do not have active disease, their risk for adverse events during treatment must be minimized. Individuals receiving treatment for LTBI should be",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        124.24298095703125,
+        757.544921875,
+        135.7629852294922
+      ],
+      "text": "monitored routinely at monthly visits to health care providers, who should explain the disease process and the rationale of the treatment and emphasize the importance of completing it.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        135.24295043945312,
+        777.8824462890625,
+        146.76295471191406
+      ],
+      "text": "Patients receiving treatment should be advised to contact their health care provider at any time if they become aware of symptoms such as anorexia, nausea, vomiting, abdominal discomfort,",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        146.242919921875,
+        765.8196411132812,
+        157.76292419433594
+      ],
+      "text": "persistent fatigue or weakness, dark-coloured urine, pale stools or jaundice. If a health care provider cannot be consulted at the onset of such symptoms, the patient should stop treatment",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        157.24298095703125,
+        111.35479736328125,
+        168.7629852294922
+      ],
+      "text": "immediately.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        171.0775146484375,
+        739.9661865234375,
+        182.59751892089844
+      ],
+      "text": "While most reactions are minor and not serious, attention should be paid in particular to prevent drug-induced hepatotoxicity. Monitoring should focus on liver function. There is no",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        182.07757568359375,
+        764.4168090820312,
+        193.5975799560547
+      ],
+      "text": "justification to test liver function at baseline in all people to be started on LTBI treatment, but it should be encouraged, where feasible, for individuals with the following risk factors: history",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        193.07754516601562,
+        759.4497680664062,
+        204.59754943847656
+      ],
+      "text": "of liver disease, regular use of alcohol, chronic liver disease, HIV infection, age > 35 years, pregnancy or in the immediate postpartum period (within 3 months of delivery). For individuals",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        204.0775146484375,
+        773.6491088867188,
+        215.59751892089844
+      ],
+      "text": "with abnormal baseline test results, clinical judgement is required to assess if benefit of TPT outweighs the risks; they should be tested routinely at subsequent visits. Appropriate laboratory",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        215.07757568359375,
+        776.1201782226562,
+        226.5975799560547
+      ],
+      "text": "testing should also be performed for patients who become symptomatic while on treatment (e.g. liver function tests for those with symptoms of hepatotoxicity). Trial criteria for when to stop",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        226.07763671875,
+        766.199462890625,
+        237.59764099121094
+      ],
+      "text": "rifampicin – e.g. an increase in transaminases to 5 times the upper limit of normal or to 3 times plus symptoms – will need to be adapted to something more practical under field conditions.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        239.91217041015625,
+        770.1085815429688,
+        251.4321746826172
+      ],
+      "text": "Monitoring for adherence to the full course of LTBI treatment and its completion are important determinants of clinical benefit to individuals and to the success of programmes. The shorter",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        250.9122314453125,
+        759.497314453125,
+        262.4322204589844
+      ],
+      "text": "duration of 4R makes it more likely to be completed. Interventions to enhance adherence and completion of treatment should be tailored to the specific needs of risk groups and the local",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        261.9122009277344,
+        772.4711303710938,
+        273.43218994140625
+      ],
+      "text": "context. Concerns about adherence should not be a barrier to use of preventive treatment. The 2017 WHO guidelines for the treatment of drug-susceptible TB propose several interventions",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        272.91217041015625,
+        745.5529174804688,
+        284.4321594238281
+      ],
+      "text": "to support adherence in patients with active TB, which could be applied to treatment of LTBI. An electronic application for mobile phones has been created by WHO to guide national",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        283.9121398925781,
+        488.1893005371094,
+        295.43212890625
+      ],
+      "text": "programmes on critical data to collect along the LTBI care pathway, as an accessory to monitoring and evaluation.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        297.74676513671875,
+        747.500732421875,
+        309.2667541503906
+      ],
+      "text": "It would be helpful to collect information about the occurrence of active TB in people who have received 4R or other LTBI treatment. This can be done by asking patients registered for",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        308.7467346191406,
+        754.5996704101562,
+        320.2667236328125
+      ],
+      "text": "treatment about any history of starting or completing LTBI treatment or the cross linkage of registers (e.g. LTBI registers and TB treatment registers or mortality register). In people who",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        319.7467956542969,
+        659.1576538085938,
+        331.26678466796875
+      ],
+      "text": "develop TB after 4R treatment, or people found to have active TB well into their LTBI treatment, it would be helpful to monitor also for emergence of resistance.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        334.93780517578125,
+        134.03298950195312,
+        346.55682373046875
+      ],
+      "text": "Research priorities",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        350.1466979980469,
+        647.844482421875,
+        361.66668701171875
+      ],
+      "text": "More evidence on the performance of 4R in populations who have not been studied or with limited data: adults and children with HIV on ARV; pregnancy",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        350.25469970703125,
+        68.19889831542969,
+        361.9096984863281
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        363.9814147949219,
+        558.1965942382812,
+        375.50140380859375
+      ],
+      "text": "Comparison of safety and effectiveness with future trials and other studies performed under different conditions and populations",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        364.08941650390625,
+        68.19889831542969,
+        375.7444152832031
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        377.8160095214844,
+        584.902099609375,
+        389.33599853515625
+      ],
+      "text": "Durability of effect in different settings and generation of resistance when different LTBI regimens are used, including those containing R",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        377.92401123046875,
+        68.19889831542969,
+        389.5790100097656
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        391.65069580078125,
+        608.5938720703125,
+        403.1706848144531
+      ],
+      "text": "Implementation research on context-specific barriers and facilitators for 4R at programme level (acceptability, feasibility, equity, resource use)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        391.7586975097656,
+        68.19889831542969,
+        403.4136962890625
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        405.4853210449219,
+        353.2576599121094,
+        417.00531005859375
+      ],
+      "text": "Pharmacokinetics of rifampicin with other medicines in adults and children",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        405.59332275390625,
+        68.19889831542969,
+        417.2483215332031
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        68.19889831542969,
+        419.3199157714844,
+        398.2388610839844,
+        430.83990478515625
+      ],
+      "text": "Cost effectiveness analysis using parameters from both high and low resource settings",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        419.42791748046875,
+        68.19889831542969,
+        431.0829162597656
+      ],
+      "text": "•",
+      "font": "EuropeanPiStd-3",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.5826416015625,
+        40.87300109863281,
+        575.942626953125
+      ],
+      "text": "165",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

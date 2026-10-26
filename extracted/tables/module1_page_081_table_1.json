@@ -1,0 +1,86 @@
+{
+  "file": "module1",
+  "page": 81,
+  "table_id": 1,
+  "bbox": [
+    56.692975997924805,
+    148.19364759657117,
+    784.697021484375,
+    243.5929914202009
+  ],
+  "heading": "Is the prevalence of TB disease and TB infection higher among household contacts without HIV than in the general population in different age groups in high TB incidence countries?",
+  "n_rows": 5,
+  "n_cols": 12,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. TBI+/No. tested",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Comparator",
+      "0–5 years",
+      "RR (95% CI)",
+      "Absolute per 1000 (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Age groups compared: 5–10 years vs 0–5 years",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cross– 2265/ 1298/ 1.62 85.1 14 (1–14) Not seriousa,b Seriousc Not serious Not seriousd Moderate Important sectional 8507 9526 (1.25 ; 2.11) (34.2 ; 151.1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Age groups compared: 10–15 years vs 0–5 years",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

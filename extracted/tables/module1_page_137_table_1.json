@@ -1,0 +1,148 @@
+{
+  "file": "module1",
+  "page": 137,
+  "table_id": 1,
+  "bbox": [
+    56.93207948104195,
+    91.18568004261364,
+    784.4607543945312,
+    382.78420003255206
+  ],
+  "heading": "Summary of judgements",
+  "n_rows": 12,
+  "n_cols": 9,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Implications"
+    ],
+    [
+      "Problem",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Test accuracy",
+      "Very inaccurate",
+      "Inaccurate",
+      "Accurate",
+      "Very accurate",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Balance of effects",
+      "No",
+      "",
+      "Equal",
+      "Yes",
+      "",
+      "",
+      "Uncertain",
+      ""
+    ],
+    [
+      "Certainty of the evidence of test accuracy",
+      "Very low",
+      "Low",
+      "Moderate",
+      "High",
+      "",
+      "",
+      "No studies",
+      ""
+    ],
+    [
+      "Certainty of the evidence of effects of management",
+      "Major uncertainty",
+      "",
+      "",
+      "Minor uncertainty",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Values",
+      "Important uncertainty or variation",
+      "",
+      "",
+      "No important uncertainty or variation",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Resources required",
+      "Greater",
+      "",
+      "Neither greater nor less",
+      "",
+      "Less",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Cost–effectiveness",
+      "Favours the comparison",
+      "",
+      "Favours neither the intervention nor the comparison",
+      "",
+      "Favours the intervention",
+      "Varies",
+      "No studies",
+      ""
+    ],
+    [
+      "Equity",
+      "Reduced",
+      "",
+      "",
+      "",
+      "Increased",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Acceptability",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ],
+    [
+      "Feasibility",
+      "No",
+      "",
+      "",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know",
+      ""
+    ]
+  ]
+}

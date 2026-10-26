@@ -1,0 +1,96 @@
+{
+  "file": "module1",
+  "page": 148,
+  "table_id": 1,
+  "bbox": [
+    56.9282424029182,
+    120.02030639648437,
+    784.9746500651041,
+    450.6196044921875
+  ],
+  "heading": "What is the accuracy of symptomatic screening and/or CXR to exclude TB disease in contacts of people with pulmonary TB without HIV in high TB incidence countries?",
+  "n_rows": 8,
+  "n_cols": 8,
+  "data": [
+    [
+      "Type of recommendation",
+      "Any CXR abnormality ",
+      "CXR abnormality suggestive of TB ",
+      "Any cough ",
+      "Cough ≥ 2–3 week ",
+      "Any TB symptom ",
+      "Any TB symptom plus any CXR abnormality ",
+      "No recommendation "
+    ],
+    [
+      "Strength of recommendation",
+      "Strong ",
+      "",
+      "",
+      "Conditional ",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Recommendation",
+      "The absence of any symptoms and the absence of TB and of abnormal chest radiographic findings may be used to rule out active TB disease among HIV-negative household contacts aged ≥ 5 years and other at-risk groups before preventive treatment. (Conditional recommendation, very low-quality evidence)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Justification",
+      "Overall, the GDG agreed that the potential benefits of screening for active TB with the combination of any CXR abnormality plus any TB symptoms outweighs the harm because of the reliability of this screening rule for excluding active TB before providing preventive treatment. The GDG also noted that symptom screening with or without the addition of abnormal CXR would be acceptable for individuals and programme managers. Furthermore, the use of CXR could enhance the confidence of health care providers that active TB has been ruled out and reduce their concern about development of drug resistance. However, the addition of CXR may incur costs to clients as well as inconvenience, as more clients will be investigated for TB and other diseases.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Subgroup considerations",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Implementation considerations",
+      "Contacts with abnormal CXR findings or TB symptoms must be followed up properly and investigated for TB and other diseases. Investigations should be performed in accordance with national guidelines and sound clinical practice. Contacts in whom active TB is excluded after investigations can be considered for preventive treatment. CXR and trained health care workers (e.g. radiologists) must be available to implement the screening rule. Where CXR is not available, contacts should be screened for any TB symptoms. This would offer the highest sensitivity among the symptom screening rules, and its negative predictive value would remain high in most settings.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Monitoring and evaluation",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Research priorities",
+      "Evidence for the accuracy and feasibility of the recommended screening algorithm under programme conditions. Household models to improve the effectiveness and efficiency of intervention delivery. Studies of cost–effectiveness of screening rules. Strategies to save costs and improve feasibility (e.g. use of mobile CXR).",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

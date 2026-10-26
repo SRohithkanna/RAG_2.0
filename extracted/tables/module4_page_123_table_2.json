@@ -1,0 +1,28 @@
+{
+  "file": "module4",
+  "page": 123,
+  "table_id": 2,
+  "bbox": [
+    70.86599731445312,
+    504.4580078125,
+    355.0436706542969,
+    547.68701171875
+  ],
+  "heading": "Table 2.8. Patient-borne and health system costs",
+  "n_rows": 2,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Costs over 9 months (US$)",
+      "",
+      ""
+    ],
+    [
+      "Country",
+      "Patient",
+      "Health system",
+      "Total"
+    ]
+  ]
+}

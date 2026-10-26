@@ -1,0 +1,690 @@
+{
+  "file": "module4",
+  "page": 104,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        136.82540893554688,
+        81.63569641113281
+      ],
+      "text": "Sub-PICO 1.1",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09461212158203,
+        527.5562744140625,
+        103.53761291503906
+      ],
+      "text": "In sub-PICO 1.1, two observational studies were compared – the 9-month regimen with linezolid (used",
+      "font": "SegoeUI-Light",
+      "size": 10.956865310668945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.3871459960938,
+        116.73762512207031
+      ],
+      "text": "in South Africa in 2019) (intervention) and the 9-month regimen with ethionamide (used in South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        524.1459350585938,
+        129.93763732910156
+      ],
+      "text": "Africa in 2017) (comparator). Both datasets were obtained from a programmatic setting in South Africa.",
+      "font": "SegoeUI-Light",
+      "size": 10.949333190917969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.19850158691406,
+        527.177978515625,
+        151.64149475097656
+      ],
+      "text": "Participants with MDR/RR-TB with fluoroquinolone susceptibility receiving the 9-month regimen with",
+      "font": "SegoeUI-Light",
+      "size": 10.996299743652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.1226348876953,
+        527.2576293945312,
+        164.8416290283203
+      ],
+      "text": "n linezolid ( =4244) compared with participants receiving the 9-month regimen with ethionamide",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        162.32264709472656,
+        168.4282989501953,
+        178.04164123535156
+      ],
+      "text": "n ( =880) experienced:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.30250549316406,
+        78.23609924316406,
+        199.74549865722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        185.30250549316406,
+        527.6499633789062,
+        199.74549865722656
+      ],
+      "text": "lower levels of treatment success (64% vs 66%); that is, a 4% relative reduction (aRR=0.96,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        198.5025177001953,
+        183.50509643554688,
+        212.9455108642578
+      ],
+      "text": "95% CI: 0.91 to 1.01);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.70252990722656,
+        78.23609924316406,
+        226.14552307128906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        211.70252990722656,
+        527.4144897460938,
+        226.14552307128906
+      ],
+      "text": "lower levels of failure and recurrence (1.1% vs 1.4%); that is, a 20% relative reduction (aRR=0.80,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        224.9025421142578,
+        183.50509643554688,
+        239.3455352783203
+      ],
+      "text": "95% CI: 0.42 to 1.53);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.10243225097656,
+        78.23609924316406,
+        252.54542541503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        238.10243225097656,
+        527.399169921875,
+        252.54542541503906
+      ],
+      "text": "higher levels of deaths (20% vs 21%); that is, a 3% relative increase (aRR=1.03, 95% CI: 0.89 to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        251.3024444580078,
+        117.47710418701172,
+        265.7454528808594
+      ],
+      "text": "1.20) ;  35",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        264.50238037109375,
+        78.23609924316406,
+        278.9454040527344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        264.50238037109375,
+        527.533203125,
+        278.9454040527344
+      ],
+      "text": "higher levels of loss to follow-up (15% vs 12%); that is, a 19% relative increase (aRR=1.19,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        277.702392578125,
+        203.99810791015625,
+        292.1454162597656
+      ],
+      "text": "95% CI: 0.98 to 1.45); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.90252685546875,
+        78.23609924316406,
+        305.3455505371094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        290.90252685546875,
+        527.5453491210938,
+        305.3455505371094
+      ],
+      "text": "higher levels of amplification of drug resistance (0.6% vs 0%); that is, a 1% absolute increase",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        304.1024169921875,
+        232.16909790039062,
+        318.5454406738281
+      ],
+      "text": "(RD=0.01, 95% CI: 0.00 to 0.01).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.806396484375,
+        527.3525390625,
+        340.2494201660156
+      ],
+      "text": "AEs were noted in 5% of participants receiving the 9-month regimen with linezolid but no comparisons",
+      "font": "SegoeUI-Light",
+      "size": 10.95405387878418,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.00640869140625,
+        527.4288940429688,
+        353.4494323730469
+      ],
+      "text": "could be made because no data were available for participants receiving the 9-month regimen with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.2064208984375,
+        130.77207946777344,
+        366.6494445800781
+      ],
+      "text": "ethionamide.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.9103088378906,
+        527.3748168945312,
+        388.35333251953125
+      ],
+      "text": "The GDG judged the benefits of the 9-month regimen with linezolid to be small and the undesirable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.1103210449219,
+        527.3780517578125,
+        401.5533447265625
+      ],
+      "text": "effects to be moderate compared with the 9-month regimen with ethionamide. The certainty of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.310302734375,
+        527.0993041992188,
+        414.7533264160156
+      ],
+      "text": "evidence was judged to be very low. Based on this, the GDG judged that the balance of health effects",
+      "font": "SegoeUI-Light",
+      "size": 10.989044189453125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.51031494140625,
+        524.2095336914062,
+        427.9533386230469
+      ],
+      "text": "does not favour either the 9-month regimen with linezolid or the 9-month regimen with ethionamide.",
+      "font": "SegoeUI-Light",
+      "size": 10.974921226501465,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.3216247558594,
+        125.72310638427734,
+        452.6766052246094
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.0255126953125,
+        527.4491577148438,
+        474.3804931640625
+      ],
+      "text": "The use of either the 9-month regimen with linezolid or the 9-month regimen with ethionamide",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.22552490234375,
+        527.4208374023438,
+        487.58050537109375
+      ],
+      "text": "is suggested in people with pulmonary MDR/RR-TB without fluoroquinolone resistance",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.4255065917969,
+        380.7944641113281,
+        500.7804870605469
+      ],
+      "text": "(conditional recommendation, very low certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.3468017578125,
+        136.82540893554688,
+        525.7017822265625
+      ],
+      "text": "Sub-PICO 1.2",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.1607055664062,
+        527.3893432617188,
+        547.6036987304688
+      ],
+      "text": "In sub-PICO 1.2, two observational datasets were compared – the 9-month regimen with linezolid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.3607177734375,
+        527.3980102539062,
+        560.8037109375
+      ],
+      "text": "(used in South Africa in 2019) (intervention) and the all-oral longer regimens containing bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.5606689453125,
+        196.67202758789062,
+        574.003662109375
+      ],
+      "text": "from the 2021 IPD dataset.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.2645874023438,
+        527.177978515625,
+        595.7075805664062
+      ],
+      "text": "Participants with MDR/RR-TB with fluoroquinolone susceptibility receiving the 9-month regimen with",
+      "font": "SegoeUI-Light",
+      "size": 10.996299743652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.188720703125,
+        527.4174194335938,
+        608.90771484375
+      ],
+      "text": "n n linezolid ( =4244) compared with participants receiving longer regimens for MDR/RR-TB ( =850)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.6646118164062,
+        129.1331024169922,
+        622.1076049804688
+      ],
+      "text": "experienced:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.3685913085938,
+        78.23609924316406,
+        643.8115844726562
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        629.3685913085938,
+        527.60595703125,
+        643.8115844726562
+      ],
+      "text": "lower levels of treatment success (64% vs 74%); that is, a 10% relative reduction (aRR=0.90,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        642.568603515625,
+        183.50509643554688,
+        657.0115966796875
+      ],
+      "text": "95% CI: 0.83 to 0.98);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.7684936523438,
+        78.23609924316406,
+        670.2114868164062
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        655.7684936523438,
+        527.4144897460938,
+        670.2114868164062
+      ],
+      "text": "lower levels of failure and recurrence (1.1% vs 3.4%); that is, a 71% relative reduction (aRR=0.29,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        668.9686279296875,
+        183.50509643554688,
+        683.41162109375
+      ],
+      "text": "95% CI: 0.14 to 0.58);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.1685791015625,
+        78.23609924316406,
+        696.611572265625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        682.1685791015625,
+        527.3883666992188,
+        696.611572265625
+      ],
+      "text": "higher levels of deaths (20% vs 11%); that is, a 38% relative increase (aRR=1.38, 95% CI: 1.00 to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        695.3685913085938,
+        110.86109924316406,
+        709.8115844726562
+      ],
+      "text": "1.91);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.568603515625,
+        78.23609924316406,
+        723.0115966796875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        708.568603515625,
+        527.5277099609375,
+        723.0115966796875
+      ],
+      "text": "higher levels of loss to follow-up (15% vs 12%); that is, a 33% relative increase (aRR=1.33,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        721.7684936523438,
+        183.50509643554688,
+        736.2114868164062
+      ],
+      "text": "95% CI: 0.97 to 1.81);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        526.6141967773438,
+        763.5758056640625
+      ],
+      "text": "Note that while unadjusted effect estimates suggest a small reduction in levels of death, the adjusted effect estimates suggest a small  35",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        169.11888122558594,
+        773.17578125
+      ],
+      "text": "increase in levels of death.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "90 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

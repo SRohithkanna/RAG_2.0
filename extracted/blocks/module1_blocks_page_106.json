@@ -1,0 +1,162 @@
+{
+  "file": "module1",
+  "page": 106,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "88",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.95220184326172,
+        147.20806884765625,
+        773.7915649414062,
+        158.7281036376953
+      ],
+      "text": "High  Critical 2  RCTs Not  Not serious  Not serious Not serious  None 497/534  397/520  RR 1.255\n 195 more per  (58,59) a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.02413940429688,
+        158.20806884765625,
+        632.7298583984375,
+        169.7281036376953
+      ],
+      "text": "serious  (93.1%)  (76.3%)  1000\n (1.014 ; 1.553)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        169.20803833007812,
+        669.0682983398438,
+        180.72804260253906
+      ],
+      "text": "(from 11 to 422",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        610.3640747070312,
+        180.20809936523438,
+        635.5640258789062,
+        191.7281036376953
+      ],
+      "text": "more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        201.97610473632812,
+        690.3865966796875,
+        211.5760955810547
+      ],
+      "text": "Although one of the trials was conducted in low TB incidence countries, this is unlikely to affect the relative effect of rifapentine + isoniazid compared with isoniazid monotherapy. Not downgraded.  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        210.97610473632812,
+        359.4762268066406,
+        220.5760955810547
+      ],
+      "text": "95% CIs of both relative and absolute effect include appreciable benefit and harm with 3HP.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        219.97610473632812,
+        374.2099609375,
+        229.5760955810547
+      ],
+      "text": "Both trials were open-label, which may have introduced bias in ascertainment of adverse events.  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        228.97610473632812,
+        616.1941528320312,
+        238.5760955810547
+      ],
+      "text": "Although the trials were open-label, this is unlikely to affect detection of hepatotoxicity, which is usually done by objective measurement (i.e. blood tests.). Not downgraded.  d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        237.97610473632812,
+        518.6121215820312,
+        247.5760955810547
+      ],
+      "text": "Very low event rates. Upper limit of 95% CI of both relative and absolute effect include appreciable harm with 3HP. Downgraded by two levels. e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

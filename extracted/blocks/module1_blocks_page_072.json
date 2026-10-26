@@ -1,0 +1,630 @@
+{
+  "file": "module1",
+  "page": 72,
+  "blocks": [
+    {
+      "bbox": [
+        77.66929626464844,
+        74.69379425048828,
+        511.13543701171875,
+        89.13679504394531
+      ],
+      "text": "PICO 8: Should 3-month weekly rifapentine and isoniazid be offered as an alternative regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        86.69379425048828,
+        432.5377197265625,
+        101.13679504394531
+      ],
+      "text": "to isoniazid monotherapy for treatment of TBI in high TB incidence countries?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66934204101562,
+        108.30835723876953,
+        516.127197265625,
+        122.75135803222656
+      ],
+      "text": "PICO 9: In pregnant and postpartum women, is isoniazid preventive treatment for TB as safe as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66934204101562,
+        120.30835723876953,
+        250.3643798828125,
+        134.7514190673828
+      ],
+      "text": "other preventive treatment regimens?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66934204101562,
+        141.92298889160156,
+        501.2376403808594,
+        156.36598205566406
+      ],
+      "text": "PICO 10: Should 6 months of levofloxacin, another regimen or no TPT be recommended for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66934204101562,
+        153.92298889160156,
+        305.9854431152344,
+        168.36598205566406
+      ],
+      "text": "people in contact with patients with MDR/RR-TB?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.43409729003906,
+        527.3442993164062,
+        201.87709045410156
+      ],
+      "text": "Evidence retrieved for the second edition of the TPT guidelines was primarily to answer PICO question",
+      "font": "SegoeUI-Light",
+      "size": 10.973918914794922,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        200.63404846191406,
+        89.7092056274414,
+        215.07704162597656
+      ],
+      "text": "10 (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.81680297851562,
+        200.63404846191406,
+        138.76910400390625,
+        215.07704162597656
+      ],
+      "text": "Table A2.2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.88150024414062,
+        200.63404846191406,
+        527.338134765625,
+        215.07704162597656
+      ],
+      "text": "). The answers to this question were intended to be used to update the original",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86608123779297,
+        213.8340606689453,
+        527.4418334960938,
+        228.2770538330078
+      ],
+      "text": "conditional recommendation on TPT of MDR-TB, which was based on very low certainty of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86608123779297,
+        227.03407287597656,
+        524.4644775390625,
+        241.47706604003906
+      ],
+      "text": "estimates of effect, namely: “In selected high-risk household contacts of patients with multidrug-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.23402404785156,
+        527.4457397460938,
+        254.67701721191406
+      ],
+      "text": "resistant tuberculosis, preventive treatment may be considered based on individualized risk assessment",
+      "font": "SegoeUI-Light",
+      "size": 10.952898979187012,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.4340362548828,
+        212.2846221923828,
+        267.8770446777344
+      ],
+      "text": "and sound clinical justification”.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        280.6752014160156,
+        514.3717651367188,
+        296.5032043457031
+      ],
+      "text": "Table A2.2. PICO question on TB preventive treatment for contacts exposed to",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.0512390136719,
+        517.2396240234375,
+        310.9032287597656
+      ],
+      "text": "Does tuberculosis preventive treatment with levofloxacin improve  MDR/RR-TB:",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.4512023925781,
+        520.1002197265625,
+        325.3031921386719
+      ],
+      "text": "outcomes in contacts exposed to multidrug- or rifampicin-resistant tuberculosis",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.8511962890625,
+        372.04681396484375,
+        339.70318603515625
+      ],
+      "text": "when compared with other regimens or no treatment?",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.67030334472656,
+        353.0226135253906,
+        379.97808837890625,
+        367.46563720703125
+      ],
+      "text": "P Household and other contacts of a person with MDR-/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380157470703,
+        369.2745666503906,
+        456.19818115234375,
+        383.71759033203125
+      ],
+      "text": "Sub-populations: age-groups (child, adolescent, adult); people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        390.88922119140625,
+        222.18743896484375,
+        405.3322448730469
+      ],
+      "text": "I 6-month daily levofloxacin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        412.5037841796875,
+        487.8759765625,
+        426.9468078613281
+      ],
+      "text": "C Other recommended TB preventive treatment regimen: isoniazid daily for 6, 9 or 36",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380920410156,
+        424.5037841796875,
+        475.5505676269531,
+        438.9468078613281
+      ],
+      "text": "months;, 3 months of weekly isoniazid plus rifapentine; 1 month of daily isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380920410156,
+        436.5037841796875,
+        483.0888671875,
+        450.9468078613281
+      ],
+      "text": "plus rifapentine; 3 months of daily isoniazid plus rifampicin; 4 months of rifampicin;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380920410156,
+        448.5037841796875,
+        424.77008056640625,
+        462.9468078613281
+      ],
+      "text": "ethionamide/protionamide; other tuberculosis drugs; no TBY (placebo)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        470.11834716796875,
+        487.07843017578125,
+        484.5613708496094
+      ],
+      "text": "O TB incidence, mortality (TB, any), adverse events, treatment completion, emergence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380920410156,
+        482.11834716796875,
+        461.026123046875,
+        496.5613708496094
+      ],
+      "text": "of additional fluoroquinolone resistance in TB strains, emergence of additional",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.76380920410156,
+        494.11834716796875,
+        425.1470947265625,
+        508.5614318847656
+      ],
+      "text": "fluoroquinolone resistance in microbiome other than TB (e.g. gut flora)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        527.62939453125,
+        527.4277954101562,
+        542.0723876953125
+      ],
+      "text": "Once the PICO question had been finalized by the GDG, a list of potential outcomes of interest was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        540.829345703125,
+        527.4542236328125,
+        555.2723388671875
+      ],
+      "text": "circulated to all members to score the importance of each outcome on an incremental scale of 1–9:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        554.0294189453125,
+        527.3991088867188,
+        568.472412109375
+      ],
+      "text": "1–3: “not important”; 4–6: “important”; and 7–9: “critical”. The mean of the scores for each outcome",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.2293701171875,
+        527.597900390625,
+        581.67236328125
+      ],
+      "text": "was then used to prioritize those for evidence summarization and for GDG discussions. All outcomes",
+      "font": "SegoeUI-Light",
+      "size": 10.998950004577637,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.429443359375,
+        443.7662658691406,
+        594.8724365234375
+      ],
+      "text": "were scored by the GDG as “critical” or “important” (see also the GRADE tables in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        443.7703857421875,
+        580.429443359375,
+        489.66241455078125,
+        594.8724365234375
+      ],
+      "text": "annexes 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        489.6664123535156,
+        580.429443359375,
+        510.159423828125,
+        594.8724365234375
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.176513671875,
+        580.429443359375,
+        518.8414916992188,
+        594.8724365234375
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        518.8422241210938,
+        580.429443359375,
+        524.38623046875,
+        594.8724365234375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        602.1334228515625,
+        527.54150390625,
+        616.576416015625
+      ],
+      "text": "Most of the evidence reviewed for the main outcomes of this PICO question was from two randomized,",
+      "font": "SegoeUI-Light",
+      "size": 10.950589179992676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.0573120117188,
+        527.4092407226562,
+        629.7763061523438
+      ],
+      "text": "(4,5) placebo-controlled trials on use of levofloxacin vs no treatment  . A literature search was also",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        628.5333251953125,
+        527.39697265625,
+        642.976318359375
+      ],
+      "text": "conducted for other published studies that could inform the recommendation. In addition, a survey",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.7332763671875,
+        527.5745239257812,
+        656.17626953125
+      ],
+      "text": "of users in national TB programmes and of people in contact with MDR-TB was conducted on various",
+      "font": "SegoeUI-Light",
+      "size": 10.984739303588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.9332885742188,
+        407.9334716796875,
+        669.3762817382812
+      ],
+      "text": "aspects of implementation (e.g. acceptability, feasibility, impact on equity).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        676.6373291015625,
+        527.4424438476562,
+        691.080322265625
+      ],
+      "text": "In addition to the review of evidence for the PICO question, the previous recommendations were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        689.8372802734375,
+        527.5947875976562,
+        704.2802734375
+      ],
+      "text": "reviewed for clarity of wording, applicability in different settings and alignment with other WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        703.0372924804688,
+        527.4354858398438,
+        717.4802856445312
+      ],
+      "text": "guidance. The structure used in the first edition of the guidelines, in 2020, which was the cascade of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.2373046875,
+        527.1666259765625,
+        730.6802978515625
+      ],
+      "text": "programmatic management of TPT, was retained. This is: identification of populations at risk (adults and",
+      "font": "SegoeUI-Light",
+      "size": 10.948529243469238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.4371948242188,
+        527.3872680664062,
+        743.8801879882812
+      ],
+      "text": "children living with HIV, adult and child contacts of people with TB and other risk groups); ruling out",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.6373291015625,
+        527.4033203125,
+        757.080322265625
+      ],
+      "text": "TB disease; testing for TBI; providing treatment (including managing adverse events and supporting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.8372802734375,
+        527.529052734375,
+        770.2802734375
+      ],
+      "text": "adherence) and monitoring and evaluation. The text of the recommendation is followed by summaries",
+      "font": "SegoeUI-Light",
+      "size": 10.964292526245117,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "54 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

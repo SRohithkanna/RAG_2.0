@@ -1,0 +1,91 @@
+{
+  "file": "module1",
+  "page": 167,
+  "table_id": 1,
+  "bbox": [
+    56.69298095703125,
+    71.11664460834704,
+    784.197021484375,
+    198.51599527994793
+  ],
+  "heading": null,
+  "n_rows": 5,
+  "n_cols": 13,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "3–4-month daily rifampicin + isoniazid",
+      "6–9-month isoniazid monotherapy",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Completion rate: (61) (assessed from: completing > 80% of treatment without interruption of > 2 months)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "389 more per Observational 48/72 29/105 RR 2.41 1000 1 Seriouse Not serious Not serious Serioush None Very low Critical studies (66.7%) (27.6%) (1.70–3.43) (from 193 to 671 more)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Drug-resistant TB",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

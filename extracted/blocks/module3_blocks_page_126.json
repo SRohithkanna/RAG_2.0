@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 126,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.9481811523438,
+        82.30619812011719
+      ],
+      "text": "These costs are dependent on patient volume, batching and negotiated cost per targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        109.55290222167969,
+        97.80619812011719
+      ],
+      "text": "NGS kit.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.66522979736328,
+        526.6245727539062,
+        121.81022644042969
+      ],
+      "text": "Recognizing the lack of economic evidence on this topic, a hypothetical cost–effectiveness",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.16522979736328,
+        527.0762329101562,
+        137.3102264404297
+      ],
+      "text": "modelling study was undertaken to assess the cost–effectiveness (Objective 1) and affordability",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967501640319824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.66522216796875,
+        501.498291015625,
+        152.8102264404297
+      ],
+      "text": "(Objective 2) of these tests for the diagnosis of DR-TB in various high TB burden settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        163.82313537597656,
+        527.162841796875,
+        176.7371368408203
+      ],
+      "text": "Objective 1: To assess the potential cost–effectiveness of introducing the targeted NGS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.32313537597656,
+        451.70404052734375,
+        192.2371368408203
+      ],
+      "text": "technology for the diagnosis of DR-TB in Georgia, India and South Africa.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.67303466796875,
+        526.9666137695312,
+        214.8180389404297
+      ],
+      "text": "This assessment included modelling the cost–effectiveness of targeted NGS in three separate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.67303466796875,
+        282.32708740234375,
+        228.8180389404297
+      ],
+      "text": "scenarios with distinct comparison options:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.42498779296875,
+        526.6192016601562,
+        248.5699920654297
+      ],
+      "text": "a)\t Cost–effectiveness of targeted NGS for DST among individuals with RR-TB after a rapid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        250.92498779296875,
+        502.07489013671875,
+        264.07000732421875
+      ],
+      "text": "molecular test for rifampicin resistance as a replacement for phenotypic DST (PICO 2).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.92889404296875,
+        526.6181030273438,
+        288.07391357421875
+      ],
+      "text": "b)\tCost–effectiveness of targeted NGS for DST among individuals with RR-TB after a rapid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        290.42889404296875,
+        526.6866455078125,
+        303.57391357421875
+      ],
+      "text": "molecular test for rifampicin resistance as a replacement for current in-country DST practice",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986291885375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        305.92889404296875,
+        127.45479583740234,
+        319.07391357421875
+      ],
+      "text": "(PICO 2).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        329.93292236328125,
+        526.9613647460938,
+        343.07794189453125
+      ],
+      "text": "c)\t Cost–effectiveness of targeted NGS as the initial test for TB drug resistance in patients with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        345.43292236328125,
+        526.9653930664062,
+        358.57794189453125
+      ],
+      "text": "bacteriologically confirmed TB compared with rapid molecular testing for drug resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        360.93292236328125,
+        381.30877685546875,
+        374.07794189453125
+      ],
+      "text": "and phenotypic DST in a high DR-TB burden setting (PICO 1).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.9367980957031,
+        527.28125,
+        398.0818176269531
+      ],
+      "text": "In the first scenario, targeted NGS was compared with universal phenotypic DST; in the second",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989144325256348,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.4367980957031,
+        526.636474609375,
+        413.5818176269531
+      ],
+      "text": "scenario, targeted NGS was compared with current in-country phenotypic DST practice among",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979331016540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.9367980957031,
+        526.9371337890625,
+        429.0818176269531
+      ],
+      "text": "individuals with detected rifampicin resistance (PICO 2). This was done across three countries:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.4367980957031,
+        526.7522583007812,
+        444.5818176269531
+      ],
+      "text": "Georgia, India and South Africa. Current DST practice in Georgia and South Africa includes Xpert",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.946670532226562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.9173889160156,
+        526.9436645507812,
+        460.0818176269531
+      ],
+      "text": "® XDR  followed by phenotypic DST; in India it includes LPAs and phenotypic DST done in parallel.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964492797851562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.4367980957031,
+        527.0145263671875,
+        475.5818176269531
+      ],
+      "text": "A final scenario included targeted NGS compared to rapid molecular testing for drug resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.9679536819458,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.9367980957031,
+        526.4927978515625,
+        491.0818176269531
+      ],
+      "text": "and phenotypic DST as initial tests for TB drug resistance among all TB patients (PICO 1) but was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964141845703125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.4367980957031,
+        526.93701171875,
+        506.5818176269531
+      ],
+      "text": "modelled for only one setting, Georgia – a high DR-TB burden setting. Epidemiological data",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.936767578125,
+        526.926025390625,
+        522.081787109375
+      ],
+      "text": "were sourced from published literature; targeted NGS diagnostic accuracy data were sourced",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        524.436767578125,
+        527.01953125,
+        537.581787109375
+      ],
+      "text": "from the systematic review and IDP analysis conducted for this guideline. Economic data were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99940013885498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.936767578125,
+        526.98095703125,
+        553.081787109375
+      ],
+      "text": "sourced from published literature and a systematic and scoping review done in parallel by our",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.436767578125,
+        341.7594909667969,
+        568.581787109375
+      ],
+      "text": "team and supplemented with empirical data collection.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.440673828125,
+        527.2213134765625,
+        592.585693359375
+      ],
+      "text": "A decision analysis modelling approach was used to estimate the incremental cost–effectiveness",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.940673828125,
+        527.3299560546875,
+        608.085693359375
+      ],
+      "text": "of using targeted NGS for the diagnosis of DR-TB compared with various existing DST scenarios.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.965546607971191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.440673828125,
+        527.1181640625,
+        623.585693359375
+      ],
+      "text": "This was done from the perspective of the health care system and accounts only for the health",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.998600006103516,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.940673828125,
+        526.7446899414062,
+        639.085693359375
+      ],
+      "text": "care system costs required to diagnose and treat TB. The estimation did not account for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.440673828125,
+        527.0031127929688,
+        654.585693359375
+      ],
+      "text": "societal costs, or any direct or indirect costs incurred by patients. In addition, costs for sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.940673828125,
+        526.9700927734375,
+        670.085693359375
+      ],
+      "text": "transportation were not included in this analysis. The primary outcome was the incremental",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.440673828125,
+        526.9645385742188,
+        685.585693359375
+      ],
+      "text": "cost–effectiveness ratio (ICER), which was calculated as the incremental cost in US dollars per",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.940673828125,
+        281.2410583496094,
+        701.085693359375
+      ],
+      "text": "disability-adjusted life year (DALY) averted.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        712.9283447265625,
+        409.7881774902344,
+        727.0162963867188
+      ],
+      "text": "Main findings for PICO 1: Using targeted NGS as an initial test",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.6832275390625,
+        526.9588623046875,
+        750.8282470703125
+      ],
+      "text": "Using targeted NGS as an initial test for DST in the high DR-TB burden setting of Georgia led",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.1832275390625,
+        527.0140380859375,
+        766.3282470703125
+      ],
+      "text": "to more health gains (DALYs=0.49) compared with Xpert MTB/RIF or Xpert Ultra, followed by",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "110 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

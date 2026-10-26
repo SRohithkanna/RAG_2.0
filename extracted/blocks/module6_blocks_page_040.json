@@ -1,0 +1,558 @@
+{
+  "file": "module6",
+  "page": 40,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.32479858398438,
+        232.82391357421875,
+        87.50979614257812
+      ],
+      "text": "2.4\t Prevention of TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        97.056396484375,
+        281.9992370605469,
+        116.63139343261719
+      ],
+      "text": "2.4.1\t TB preventive treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        125.79264068603516,
+        210.62709045410156,
+        141.62063598632812
+      ],
+      "text": "WHO recommendations",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        150.79949951171875,
+        257.6363830566406,
+        163.98948669433594
+      ],
+      "text": "Eligibility for TB preventive treatment",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        168.11550903320312,
+        495.13555908203125,
+        180.58900451660156
+      ],
+      "text": "15. Adults and adolescents living with HIV who are unlikely to have active TB should receive TB preventive",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        179.51553344726562,
+        518.908447265625,
+        191.98902893066406
+      ],
+      "text": "treatment as part of a comprehensive package of HIV care. Treatment should be given to those on antiretroviral",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        190.91549682617188,
+        521.1466674804688,
+        203.3889923095703
+      ],
+      "text": "treatment, to pregnant women and to those who have previously been treated for TB, irrespective of the degree",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        202.31552124023438,
+        499.11566162109375,
+        214.7890167236328
+      ],
+      "text": "of immunosuppression and even if LTBI testing is unavailable  (strong recommendation, high certainty in the",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        213.71554565429688,
+        166.66819763183594,
+        226.1890411376953
+      ],
+      "text": "​  estimates of effect). (22)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        229.87164306640625,
+        433.3885192871094,
+        243.06163024902344
+      ],
+      "text": "Algorithms to rule out TB disease prior to offering TB preventive treatment",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        247.18759155273438,
+        488.4286804199219,
+        259.6611022949219
+      ],
+      "text": "16. Adults and adolescents living with HIV who are screened for TB according to a clinical algorithm and",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        258.5877380371094,
+        507.0286560058594,
+        271.0612487792969
+      ],
+      "text": "who report any of the symptoms of current cough, fever, weight loss or night sweats may have active TB and",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        269.9876403808594,
+        515.772216796875,
+        282.4611511230469
+      ],
+      "text": "should be evaluated for TB and other diseases and offered preventive treatment if active TB is excluded  (strong",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        281.4161071777344,
+        339.11083984375,
+        293.6900939941406
+      ],
+      "text": "recommendation, moderate certainty in the estimates of effect).​ (22)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        296.2409362792969,
+        509.9603271484375,
+        308.7144470214844
+      ],
+      "text": "17. Chest radiography may be offered to people living with HIV on ART and preventive treatment be given to",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        307.6408996582031,
+        503.6727294921875,
+        320.1144104003906
+      ],
+      "text": "those with no abnormal radiographic findings  (conditional recommendation, low certainty in the estimates of",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        319.0694274902344,
+        117.44720458984375,
+        331.3434143066406
+      ],
+      "text": "effect). (22)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        335.197021484375,
+        189.576416015625,
+        348.38702392578125
+      ],
+      "text": "Testing for TB infection",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        352.51300048828125,
+        521.3849487304688,
+        364.98651123046875
+      ],
+      "text": "18. Either the tuberculin skin test or interferon-gamma release assays can be used to test for TB infection  (strong",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        363.91302490234375,
+        297.1714172363281,
+        376.38653564453125
+      ],
+      "text": ".​  recommendation, very low certainty of the evidence) (15)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        378.7663269042969,
+        520.7711791992188,
+        391.2398376464844
+      ],
+      "text": "19.   antigen-based skin tests (TBSTs) may be used to test for TB infection  Mycobacterium tuberculosis (conditional",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        390.19482421875,
+        359.4176940917969,
+        402.46881103515625
+      ],
+      "text": "recommendation for the intervention, very low certainty of evidence). (15)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        406.3224182128906,
+        240.3184051513672,
+        419.5124206542969
+      ],
+      "text": "TB preventive treatment regimens",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        423.638427734375,
+        513.1049194335938,
+        436.1119384765625
+      ],
+      "text": "20. The following options are recommended for the treatment of LTBI regardless of HIV status: 6 or 22 months",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        435.0384216308594,
+        500.4955749511719,
+        447.5119323730469
+      ],
+      "text": "of daily isoniazid, or a 3-month regimen of weekly rifapentine plus isoniazid, or a 3-month regimen of daily",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        446.43841552734375,
+        490.28607177734375,
+        458.91192626953125
+      ],
+      "text": "isoniazid plus rifampicin ( ). A  strong recommendation, moderate to high certainty in the estimates of effect",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        457.8384094238281,
+        519.3939208984375,
+        470.3119201660156
+      ],
+      "text": "1-month regimen of daily rifapentine plus isoniazid or 4 months of daily rifampicin alone may also be offered as",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        469.2384033203125,
+        460.6579284667969,
+        481.7119140625
+      ],
+      "text": "alternatives ( ).​ conditional recommendation, low to moderate certainty in the estimates of effect  (22)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        484.0917053222656,
+        499.7154846191406,
+        496.5652160644531
+      ],
+      "text": "21. In settings with high TB transmission, adults and adolescents living with HIV who have an unknown or a",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        495.4917297363281,
+        512.3600463867188,
+        507.9652404785156
+      ],
+      "text": "positive LTBI test and are unlikely to have active TB disease should receive at least 36 months of daily isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        506.8916931152344,
+        509.0986633300781,
+        519.3651733398438
+      ],
+      "text": "preventive treatment (IPT). Daily IPT for 36 months should be given whether or not the person is on ART, and",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        518.2916870117188,
+        507.6338806152344,
+        530.7651977539062
+      ],
+      "text": "irrespective of the degree of immunosuppression, history of previous TB treatment and pregnancy in settings",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        529.6917114257812,
+        513.8458251953125,
+        542.1652221679688
+      ],
+      "text": "considered to have a high TB transmission as defined by national authorities ( conditional recommendation, low",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        541.0916748046875,
+        227.61570739746094,
+        553.565185546875
+      ],
+      "text": ").  certainty in the estimates of effect (22)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        575.1643676757812,
+        192.52389526367188,
+        592.12939453125
+      ],
+      "text": "2.4.1.1\t Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.3981323242188,
+        619.8253784179688
+      ],
+      "text": "People living with HIV have a higher risk of developing TB disease compared to the general population,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4454345703125,
+        633.8253784179688
+      ],
+      "text": "even when on ART and with high CD4 cell counts. The combined use of TPT and ART has been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.3870239257812,
+        647.8253784179688
+      ],
+      "text": "shown to reduce TB incidence and mortality among people living with HIV, including among those",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.431396484375,
+        661.8253784179688
+      ],
+      "text": "with higher CD4 cell counts  . TPT also provides additional protection when given immediately  (45-47)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.41748046875,
+        675.8253784179688
+      ],
+      "text": "after the successful completion of treatment for TB disease in people living with HIV  . TPT should  (48)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4356689453125,
+        689.8253784179688
+      ],
+      "text": "be a core component of the package of care for people living with HIV and should be primarily the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        453.8616943359375,
+        703.8253784179688
+      ],
+      "text": "responsibility of national HIV and AIDS programmes and HIV service providers  .  (21)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "22",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

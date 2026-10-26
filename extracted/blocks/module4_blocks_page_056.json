@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 56,
+  "blocks": [
+    {
+      "bbox": [
+        79.37000274658203,
+        87.99992370605469,
+        454.1663513183594,
+        102.50892639160156
+      ],
+      "text": "Box 1. WHO treatment guidelines containing recommendations that are",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        79.37000274658203,
+        101.19993591308594,
+        381.5960388183594,
+        115.70893859863281
+      ],
+      "text": "incorporated into the present chapter on DR-TB treatment",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        132.0989990234375,
+        509.4597473144531,
+        146.3990020751953
+      ],
+      "text": "Guidelines for the programmatic management of drug-resistant tuberculosis: 2011",
+      "font": "SegoeUI",
+      "size": 10.973217010498047,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        133.74899291992188,
+        108.14250183105469,
+        145.95899963378906
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        142.5600128173828,
+        496.465576171875,
+        159.7420196533203
+      ],
+      "text": "(13). update. Geneva: World Health Organization; 2011 (WHO/HTM/TB/2011.6)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        164.1683349609375,
+        509.4317932128906,
+        178.4683380126953
+      ],
+      "text": "The use of bedaquiline in the treatment of multidrug-resistant tuberculosis: interim",
+      "font": "SegoeUI",
+      "size": 10.970309257507324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        165.81832885742188,
+        108.14250183105469,
+        178.02833557128906
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        177.3682861328125,
+        509.2962646484375,
+        191.6682891845703
+      ],
+      "text": "policy guidance. Geneva: World Health Organization; 2013 (WHO/HTM/TB/2013.6)",
+      "font": "SegoeUI",
+      "size": 10.974821090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        187.8292999267578,
+        137.19198608398438,
+        205.0113067626953
+      ],
+      "text": "(14).",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        209.4376220703125,
+        509.54010009765625,
+        223.7376251220703
+      ],
+      "text": "The use of delamanid in the treatment of multidrug-resistant tuberculosis: interim",
+      "font": "SegoeUI",
+      "size": 10.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        211.08761596679688,
+        108.14250183105469,
+        223.29762268066406
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        222.63763427734375,
+        509.5402526855469,
+        236.93763732910156
+      ],
+      "text": "policy guidance. Geneva: World Health Organization; 2014 (WHO/HTM/TB/2014.23)",
+      "font": "SegoeUI",
+      "size": 10.94516372680664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        233.0985870361328,
+        137.19198608398438,
+        250.2805938720703
+      ],
+      "text": "(15).",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        254.7069091796875,
+        509.22259521484375,
+        269.00689697265625
+      ],
+      "text": "The use of delamanid in the treatment of multidrug-resistant tuberculosis in children",
+      "font": "SegoeUI",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        256.3569030761719,
+        108.14250183105469,
+        268.5669250488281
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        267.90692138671875,
+        509.5174865722656,
+        282.2069091796875
+      ],
+      "text": "and adolescents: interim policy guidance. Geneva: World Health Organization; 2016",
+      "font": "SegoeUI",
+      "size": 10.957869529724121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        278.367919921875,
+        259.56170654296875,
+        295.5499267578125
+      ],
+      "text": "(26). (WHO/HTM/TB/2016.14)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        299.9761962890625,
+        509.4256896972656,
+        314.27618408203125
+      ],
+      "text": "WHO treatment guidelines for drug resistant tuberculosis: 2016 update. Geneva:",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        301.6261901855469,
+        108.14250183105469,
+        313.8362121582031
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        310.43719482421875,
+        415.55438232421875,
+        327.61920166015625
+      ],
+      "text": "(16). World Health Organization; 2016 (WHO/HTM/TB/2016.4)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        332.0455017089844,
+        509.5381164550781,
+        346.3454895019531
+      ],
+      "text": "WHO treatment guidelines for isoniazid-resistant tuberculosis. Supplement to the",
+      "font": "SegoeUI",
+      "size": 10.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        333.69549560546875,
+        108.14250183105469,
+        345.905517578125
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        345.2455139160156,
+        509.41778564453125,
+        359.5455017089844
+      ],
+      "text": "WHO treatment guidelines for drug-resistant tuberculosis. Geneva: World Health",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        355.70654296875,
+        345.2466735839844,
+        372.8885192871094
+      ],
+      "text": "(27). Organization; 2018 (WHO/CDS/TB/2018.7)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        377.3148193359375,
+        509.4317321777344,
+        391.61480712890625
+      ],
+      "text": "WHO treatment guidelines for multidrug- and rifampicin-resistant tuberculosis, 2018",
+      "font": "SegoeUI",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        378.9648132324219,
+        108.14250183105469,
+        391.1748352050781
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        387.77581787109375,
+        499.3003845214844,
+        404.9577941894531
+      ],
+      "text": "(28). update. Geneva: World Health Organization; 2018 (WHO/CDS/TB/2018.15)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        409.3841247558594,
+        509.4146423339844,
+        423.6841125488281
+      ],
+      "text": "WHO consolidated guidelines on drug-resistant tuberculosis treatment. Geneva:",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        411.03411865234375,
+        108.14250183105469,
+        423.244140625
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        419.8450927734375,
+        406.54229736328125,
+        437.027099609375
+      ],
+      "text": "(2). World Health Organization; 2019 (WHO/CDS/TB/2019.7)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        441.4533996582031,
+        509.5470275878906,
+        455.7533874511719
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment – drug-resistant",
+      "font": "SegoeUI",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        443.1033935546875,
+        108.14250183105469,
+        455.31341552734375
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        454.6534118652344,
+        506.3961181640625,
+        468.9533996582031
+      ],
+      "text": "tuberculosis treatment. Geneva: World Health Organization; 2020 (ISBN 978–92–",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        465.11431884765625,
+        201.973876953125,
+        482.2962951660156
+      ],
+      "text": "(29). 4–000704–8)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        486.7226257324219,
+        509.48291015625,
+        501.0226135253906
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 5: management of",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        488.37261962890625,
+        108.14250183105469,
+        500.5826416015625
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        499.9226989746094,
+        509.51837158203125,
+        514.2227172851562
+      ],
+      "text": "tuberculosis in children and adolescents. Geneva: World Health Organization; 2022.",
+      "font": "SegoeUI",
+      "size": 10.965295791625977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        510.38360595703125,
+        285.5201721191406,
+        527.5656127929688
+      ],
+      "text": "(30). Licence: CC BY-NC-SA 3.0 IGO",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.14250183105469,
+        531.9918823242188,
+        509.5471496582031,
+        546.2918701171875
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment – drug-resistant",
+      "font": "SegoeUI",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        533.6419067382812,
+        108.14250183105469,
+        545.8518676757812
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        545.1919555664062,
+        509.435302734375,
+        559.491943359375
+      ],
+      "text": "tuberculosis treatment. Geneva: World Health Organization; 2022 update (ISBN",
+      "font": "SegoeUI",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        555.6528930664062,
+        236.68148803710938,
+        572.8348999023438
+      ],
+      "text": "(3). 978–92–4–006312–9)",
+      "font": "SegoeUIThis-Italic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.5521240234375,
+        527.4002075195312,
+        620.1051025390625
+      ],
+      "text": "Table B The recommendations are presented in   below and labelled as either a new recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.987142562866211,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.8621215820312,
+        527.6416015625,
+        633.3051147460938
+      ],
+      "text": "(where based on a review of new evidence) or a reprinted recommendation (where no new evidence",
+      "font": "SegoeUI-Light",
+      "size": 10.998350143432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.0621337890625,
+        262.1297302246094,
+        646.505126953125
+      ],
+      "text": "was available or searched for the review).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "42 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

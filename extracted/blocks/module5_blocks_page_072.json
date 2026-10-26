@@ -1,0 +1,582 @@
+{
+  "file": "module5",
+  "page": 72,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        518.9124755859375,
+        86.53083038330078
+      ],
+      "text": "5.3.2. The use of delamanid in children with MDR/RR-TB aged",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.65083312988281,
+        169.84530639648438,
+        105.53083038330078
+      ],
+      "text": "below 3 years",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        120.85430145263672,
+        165.7484893798828,
+        135.2093048095703
+      ],
+      "text": "Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        137.21632385253906,
+        493.3330078125,
+        151.65931701660156
+      ],
+      "text": "In children with MDR/RR-TB aged below 3 years delamanid may be used as part of longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        146.4223175048828,
+        399.3529968261719,
+        163.65931701660156
+      ],
+      "text": "(conditional recommendation, very low certainty of evidence) regimens  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        171.02764892578125,
+        120.14249420166016,
+        185.3826446533203
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        187.38954162597656,
+        508.07794189453125,
+        201.83253479003906
+      ],
+      "text": "•\tThis recommendation complements the current WHO recommendation on longer regimens",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        196.5955352783203,
+        206.95550537109375,
+        213.83253479003906
+      ],
+      "text": "(9) that contain delamanid  :",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.66929626464844,
+        215.64149475097656,
+        511.8959045410156,
+        230.08448791503906
+      ],
+      "text": "Delamanid may be included in the treatment of MDR/RR-TB patients aged 3 years or more  –",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        92.66929626464844,
+        224.8474884033203,
+        497.78668212890625,
+        242.08448791503906
+      ],
+      "text": "conditional recommendation, moderate certainty in the estimates of  on longer regimens (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        92.66929626464844,
+        236.8474884033203,
+        125.0427017211914,
+        254.08448791503906
+      ],
+      "text": "effect ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.5493469238281,
+        216.29168701171875,
+        295.4013366699219
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.4331970214844,
+        527.4080810546875,
+        317.0522155761719
+      ],
+      "text": "PICO question : In MDR/RR-TB patients aged below 3 years, should an all-oral treatment regimen",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.809326171875,
+        527.2243041992188,
+        330.2523498535156
+      ],
+      "text": "containing delamanid versus other regimens conforming to WHO guidelines without delamanid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        329.0093078613281,
+        112.19170379638672,
+        343.45233154296875
+      ],
+      "text": "be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.5372009277344,
+        527.2269897460938,
+        365.1562194824219
+      ],
+      "text": "Historical context In 2014, the European Medicines Agency granted a conditional marketing",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.9132080078125,
+        527.4344482421875,
+        378.3562316894531
+      ],
+      "text": "authorization for delamanid for the treatment of adults (≥18 years of age) with pulmonary infections",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.11322021484375,
+        527.4342651367188,
+        391.5562438964844
+      ],
+      "text": "due to MDR-TB when an effective treatment regimen could not otherwise be devised for reasons of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.51922607421875,
+        527.4375610351562,
+        404.7562255859375
+      ],
+      "text": "(90) resistance or tolerability  . In the same year, following a WHO convened expert group meeting",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.5132141113281,
+        527.4221801757812,
+        417.95623779296875
+      ],
+      "text": "that reviewed available data on efficacy and safety of delamanid, the WHO issued an interim policy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.71319580078125,
+        527.4113159179688,
+        431.1562194824219
+      ],
+      "text": "guidance comprising a conditional recommendation based on very low confidence in estimates of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.9132080078125,
+        527.416748046875,
+        444.3562316894531
+      ],
+      "text": "effect, indicating that delamanid may be added to a WHO-recommended regimen in adults (≥18",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.3192138671875,
+        271.66339111328125,
+        457.5562438964844
+      ],
+      "text": "(91) years of age) with pulmonary MDR-TB  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.8171081542969,
+        527.3837890625,
+        479.2601318359375
+      ],
+      "text": "In 2016, given more available data on the use of delamanid in children diagnosed with MDR-TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.0171203613281,
+        527.47265625,
+        492.46014404296875
+      ],
+      "text": "the WHO convened another expert panel to assess new data and develop an addendum to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.21710205078125,
+        527.5245971679688,
+        505.6601257324219
+      ],
+      "text": "2014 interim guidance on delamanid, with specific recommendations for children with MDR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.4171142578125,
+        527.4047241210938,
+        518.860107421875
+      ],
+      "text": "Based on the assessment of this evidence and recommendations from the expert panel, the WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.6170654296875,
+        527.564208984375,
+        532.06005859375
+      ],
+      "text": "recommended that delamanid may be added to the WHO-recommended longer regimen in children",
+      "font": "SegoeUI-Light",
+      "size": 10.978829383850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.0231323242188,
+        527.4760131835938,
+        545.2601318359375
+      ],
+      "text": ",  and adolescents (6–17 years) (conditional recommendation very low confidence in estimates of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.2230834960938,
+        527.38427734375,
+        558.4600830078125
+      ],
+      "text": "(92) effect)  . The WHO interim guidance on delamanid was based on data from phase I and phase II",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.2171020507812,
+        527.3860473632812,
+        571.6600952148438
+      ],
+      "text": "clinical trials (trials 242–12–232 and 242–12–233) and the results of other earlier studies. The use of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.4171142578125,
+        527.4432983398438,
+        584.860107421875
+      ],
+      "text": "delamanid was conditionally approved by the WHO given the limited alternative treatment options",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.6171264648438,
+        527.4442749023438,
+        598.0601196289062
+      ],
+      "text": "for people with MDR-TB, on the basis that the potential benefits probably outweighed the potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.817138671875,
+        527.42236328125,
+        611.2601318359375
+      ],
+      "text": "risks. The WHO recommendations were also conditional upon longer-term effectiveness and safety",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.01708984375,
+        527.3959350585938,
+        624.4600830078125
+      ],
+      "text": "data becoming available in subsequent years, especially from phase III randomized controlled trials.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.7210693359375,
+        527.5595703125,
+        646.1640625
+      ],
+      "text": "In 2016, the WHO convened a GDG meeting where the added benefit of delamanid was re-evaluated",
+      "font": "SegoeUI-Light",
+      "size": 10.979129791259766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.921142578125,
+        527.4411010742188,
+        659.3641357421875
+      ],
+      "text": "in conjunction with a WHO-recommended longer regimen for the treatment of MDR-TB but at that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.12109375,
+        527.1051635742188,
+        672.5640869140625
+      ],
+      "text": "time, the GDG agreed that there was not enough evidence to prompt a change in the recommendation",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.5269775390625,
+        527.50146484375,
+        685.7639770507812
+      ],
+      "text": "(93) included in the interim guidance  . In 2019, after convening a GDG meeting where newly available",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.990446090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.5211181640625,
+        527.429931640625,
+        698.964111328125
+      ],
+      "text": "evidence from ongoing delamanid studies was reviewed, WHO issued the consolidated guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.9270629882812,
+        527.4412231445312,
+        712.1640625
+      ],
+      "text": "(83) on DR-TB treatment  . With respect to the use of delamanid in children younger than 6 years,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.9210815429688,
+        527.4180908203125,
+        725.3640747070312
+      ],
+      "text": "the GDG judged that on the basis of findings in adults and on the pharmacological and safety data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        724.12109375,
+        527.1635131835938,
+        738.5640869140625
+      ],
+      "text": "reviewed, extrapolations on efficacy should be restricted to children aged 3–5 years but not to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.3209838867188,
+        527.3914794921875,
+        751.7639770507812
+      ],
+      "text": "children younger than 3 years, pending further evidence. Exposure profiles of children 3–5 years of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        750.5211181640625,
+        527.4323120117188,
+        764.964111328125
+      ],
+      "text": "age were comparable to adults and no higher than in children aged 6 years and older, for whom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "48 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

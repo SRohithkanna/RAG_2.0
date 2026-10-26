@@ -1,0 +1,534 @@
+{
+  "file": "module4",
+  "page": 151,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        216.29168701171875,
+        82.6147232055664
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        369.34014892578125,
+        104.26564025878906
+      ],
+      "text": "The recommendations in this section address one PICO question:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.47807312011719,
+        110.25061798095703,
+        515.834228515625,
+        125.91461944580078
+      ],
+      "text": "(Hr-TB, 2018): In patients with isoniazid-resistant TB (other than MDR-TB),  PICO question",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        123.45063018798828,
+        515.9051513671875,
+        139.11463928222656
+      ],
+      "text": "which treatment regimen composition and duration, when compared with 6 months or more of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        136.65065002441406,
+        515.9000244140625,
+        152.3146514892578
+      ],
+      "text": "rifampicin–pyrazinamide–ethambutol, leads to a higher likelihood of success with least possible",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        149.85060119628906,
+        141.89881896972656,
+        165.5146026611328
+      ],
+      "text": "risk of harm?",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.8305206298828,
+        527.3715209960938,
+        187.2735137939453
+      ],
+      "text": "Treatment with rifampicin, ethambutol and pyrazinamide – with or without isoniazid – has been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.75453186035156,
+        527.4215698242188,
+        200.47352600097656
+      ],
+      "text": "(96–98) used for the treatment of patients with rifampicin-susceptible, isoniazid-resistant TB (Hr-TB)  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.2305450439453,
+        527.4058227539062,
+        213.6735382080078
+      ],
+      "text": "The evidence reviewed for this guideline compared treatment regimens with isoniazid, rifampicin,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.4304962158203,
+        527.2838745117188,
+        226.8734893798828
+      ],
+      "text": "ethambutol, pyrazinamide ((H)REZ)  of different durations (e.g. 6-month regimens versus longer  51",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.63050842285156,
+        527.1964721679688,
+        240.07350158691406
+      ],
+      "text": "duration ones). Additionally, the review of evidence focused on determining whether treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.8303985595703,
+        527.3936157226562,
+        253.2733917236328
+      ],
+      "text": "outcomes in Hr-TB patients receiving (H)REZ treatment regimens of variable duration could be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.03053283691406,
+        368.75714111328125,
+        266.4735412597656
+      ],
+      "text": "improved with the addition of a fluoroquinolone or streptomycin.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.73443603515625,
+        527.4234008789062,
+        288.1774597167969
+      ],
+      "text": "The evidence used to determine the composition and duration of regimens relied primarily on an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.93438720703125,
+        527.0791625976562,
+        301.3774108886719
+      ],
+      "text": "analysis of IPD that comprised 33 databases with an analysable population of 5418 Hr-TB patients. All",
+      "font": "SegoeUI-Light",
+      "size": 10.988694190979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.1343994140625,
+        527.6031494140625,
+        314.5774230957031
+      ],
+      "text": "data used to develop these recommendations were derived from observational studies conducted in",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.05841064453125,
+        527.422119140625,
+        327.7774353027344
+      ],
+      "text": "(99) various settings (33% in Europe, 31% in the Americas, 26% in Asia and 6% in Africa)  .  In the IPD  52",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.5343933105469,
+        527.6229248046875,
+        340.9774169921875
+      ],
+      "text": "analysed, patient treatment regimens contained rifampicin, ethambutol, pyrazinamide, streptomycin,",
+      "font": "SegoeUI-Light",
+      "size": 10.991395950317383,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.7344055175781,
+        527.6212768554688,
+        354.17742919921875
+      ],
+      "text": "isoniazid and fluoroquinolones; thus, recommendations could be made only for regimens containing",
+      "font": "SegoeUI-Light",
+      "size": 10.991096496582031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.9344177246094,
+        527.3871459960938,
+        367.37744140625
+      ],
+      "text": "these anti-TB agents. Based on an assessment of the certainty of the evidence, carried out using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.1343994140625,
+        394.0966796875,
+        380.5774230957031
+      ],
+      "text": "predefined criteria, the certainty of the evidence was rated as very low.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.9516296386719,
+        178.41372680664062,
+        409.8036193847656
+      ],
+      "text": "Duration of (H)REZ",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.0115966796875,
+        527.2318725585938,
+        431.4546203613281
+      ],
+      "text": "The analysis comparing (H)REZ treatment regimens for 6 months (6(H)REZ) and more than 6 months",
+      "font": "SegoeUI-Light",
+      "size": 10.996299743652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.21160888671875,
+        527.1656494140625,
+        444.6546325683594
+      ],
+      "text": "(>6(H)REZ) demonstrated that a 6(H)REZ regimen had a higher likelihood of treatment success",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        443.41162109375,
+        527.5908203125,
+        457.8546447753906
+      ],
+      "text": "than a >6(H)REZ regimen. Further analyses determined that there was no statistically significant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.6116027832031,
+        527.315185546875,
+        471.05462646484375
+      ],
+      "text": "difference in the treatment outcomes of patients receiving regimens of 6-month REZ (6REZ) and those",
+      "font": "SegoeUI-Light",
+      "size": 10.967652320861816,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.8114929199219,
+        524.3917236328125,
+        484.2545166015625
+      ],
+      "text": "receiving more than 6 months REZ (>6REZ). Data on intermittent dosing of the 6(H)REZ and >6(H)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.0115966796875,
+        527.4452514648438,
+        497.4546203613281
+      ],
+      "text": "REZ regimens were not included; hence, no inferences could be drawn about the use of alternating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.21160888671875,
+        527.4178466796875,
+        510.6546325683594
+      ],
+      "text": "versus daily regimens. The effect of length of pyrazinamide use in the (H)REZ regimen was assessed,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.41162109375,
+        527.5460815429688,
+        523.8546142578125
+      ],
+      "text": "to investigate whether the use of this medicine could be minimized to the shortest possible duration.",
+      "font": "SegoeUI-Light",
+      "size": 10.996748924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.611572265625,
+        527.4430541992188,
+        537.0545654296875
+      ],
+      "text": "The reduction in treatment with pyrazinamide to less than 3 months was associated with a worse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.8115234375,
+        527.4470825195312,
+        550.2545166015625
+      ],
+      "text": "treatment outcome, even with the addition of streptomycin (aOR: 0.4, 95% CL: 0.2–0.7). In 118 patients",
+      "font": "SegoeUI-Light",
+      "size": 10.95947551727295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.0115966796875,
+        527.4649658203125,
+        563.45458984375
+      ],
+      "text": "on fluoroquinolone-containing regimens who received pyrazinamide for less than 4 months, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.2116088867188,
+        527.40673828125,
+        576.6546020507812
+      ],
+      "text": "odds of treatment success were higher than in those who received a 6(H)REZ regimen, although the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        575.41162109375,
+        256.8409729003906,
+        589.8546142578125
+      ],
+      "text": "difference was not statistically significant.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.2288208007812,
+        228.82569885253906,
+        619.0808715820312
+      ],
+      "text": "Duration of levofloxacin use",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.288818359375,
+        527.4409790039062,
+        640.7318115234375
+      ],
+      "text": "In a subsample of 241 patients on an (H)REZ plus fluoroquinolone regimen, the median duration of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        639.4887084960938,
+        527.4388427734375,
+        653.9317016601562
+      ],
+      "text": "fluoroquinolone use was 6.1 months (IQR: 3.5, 8.4), and for REZ it was 9 months (IQR: 7, 11). Hence,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.688720703125,
+        527.3861083984375,
+        667.1317138671875
+      ],
+      "text": "in the observational studies that informed the IPD, it seems that treatment length was based on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.888671875,
+        340.7324523925781,
+        680.3316650390625
+      ],
+      "text": "completion of 6 months of treatment with fluoroquinolone.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.43701171875,
+        215.1541290283203,
+        751.1409912109375
+      ],
+      "text": "“(H)” indicates that isoniazid is optional.  51",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8717041015625,
+        526.6029663085938,
+        763.57568359375
+      ],
+      "text": "The number of patients highlighted in this section refers to the sample size of each study. However, the analysable sample size was  52",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        429.42376708984375,
+        773.1756591796875
+      ],
+      "text": "later modified, depending on the availability of IPD for each analysable outcome (success and mortality).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  137",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "file": "module4",
+  "page": 117,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    466.677001953125,
+    524.90576171875,
+    543.5208565848214
+  ],
+  "heading": "Table 2.5. Cross-tabulation of endTB and WHO outcomes at week 104 – mITT population",
+  "n_rows": 3,
+  "n_cols": 6,
+  "data": [
+    [
+      "endTB W104 outcomes",
+      "WHO W104 outcomes",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Sustained treatment success",
+      "Not sustained treatment success",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Failure or recurrence",
+      "Death",
+      "LTFU",
+      "Total"
+    ]
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "file": "module6",
+  "page": 45,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.38239288330078,
+        527.4299926757812,
+        87.82539367675781
+      ],
+      "text": "Among all study participants, the difference in incidence rate of TB (including deaths from any cause)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        527.4210815429688,
+        101.82539367675781
+      ],
+      "text": "between 1HP and 9H (1HP arm minus 9H arm) was −0.02 per 100 person-years (95% CI: −0.35 to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.41015625,
+        115.82539367675781
+      ],
+      "text": "0.30); the relative risk (RR) for treatment completion of 1HP over 9H was 1.04 (95% CI: 0.99–1.10);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.416748046875,
+        129.8253936767578
+      ],
+      "text": "the RR for Grade 3–5 adverse events was 0.86 (95% CI: 0.58–1.27); hazard ratio of death from any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.4210815429688,
+        143.8253936767578
+      ],
+      "text": "cause was 0.75 in favour of 1HP (95% CI: 0.42–1.31); RR for emergence of resistance to isoniazid and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        524.41162109375,
+        157.8253936767578
+      ],
+      "text": "rifampicin were, respectively, 1.63 (95% CI: 0.17–15.99) and 0.81 (95% CI: 0.06–11.77). Overall non-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.4179077148438,
+        171.8253936767578
+      ],
+      "text": "inferiority as defined by the study protocol was thus shown in the modified intention to treat (mITT)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4201049804688,
+        185.8253936767578
+      ],
+      "text": "population. Non-inferiority was also shown for the sub-group with confirmed TB infection (incidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.3956909179688,
+        199.8253936767578
+      ],
+      "text": "rate difference per 100 person-years was 0.069 (–0.830 to 0.690)), as well as in males and females,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        524.3546142578125,
+        213.8253936767578
+      ],
+      "text": "and among those on or without ART at start of study. The number of patients with CD4 < 250 cells/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        489.5447692871094,
+        227.8253936767578
+      ],
+      "text": "mm  was small, and neither inferiority nor non-inferiority of 1HP was shown in this stratum.  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.27239990234375,
+        333.5284729003906,
+        255.6273956298828
+      ],
+      "text": "Weekly rifapentine plus isoniazid for 3 months (3HP)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.3882446289062,
+        269.8254089355469
+      ],
+      "text": "A systematic review was conducted for the 2018 guidelines update to compare the effectiveness of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.421142578125,
+        283.8254089355469
+      ],
+      "text": "a 3-month weekly regimen of rifapentine plus isoniazid (3HP) with that of isoniazid monotherapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4127197265625,
+        297.8254089355469
+      ],
+      "text": "The review covered four RCTs  , which were analyzed for three subgroups, including adults  (79-82)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        139.706298828125,
+        311.8254089355469
+      ],
+      "text": "living with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.3839111328125,
+        339.825439453125
+      ],
+      "text": "Two of the RCTs involved adults with HIV from South Africa, Peru and a number of countries with a TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4168090820312,
+        353.825439453125
+      ],
+      "text": "incidence < 100 per 100 000 population. No significant difference was found in the incidence of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.4366455078125,
+        367.825439453125
+      ],
+      "text": "disease between participants given a 3HP and 6H or 9H (RR 0.73; 95% CI: 0.23–2.30). Furthermore,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.4169311523438,
+        381.825439453125
+      ],
+      "text": "the risk for hepatotoxicity was significantly lower with 3HP in adults living with HIV (RR 0.26; 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.421142578125,
+        395.825439453125
+      ],
+      "text": "CI: 0.12–0.55). The 3HP regimen was also associated with a higher completion rate in all subgroups",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.3814086914062,
+        409.825439453125
+      ],
+      "text": "(adults with HIV: RR 1.25; 95% CI: 1.01–1.55). One RCT included a comparison between 3HP and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.420654296875,
+        423.825439453125
+      ],
+      "text": "continuous isoniazid monotherapy in adult people living with HIV  . No significant difference in  (79)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.4419555664062,
+        437.825439453125
+      ],
+      "text": "TB incidence was found in an intention-to-treat analysis; however, a per-protocol analysis showed a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4212036132812,
+        451.825439453125
+      ],
+      "text": "lower rate of TB infection or death in participants given continuous isoniazid. In all the studies, 3HP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        237.46664428710938,
+        465.825439453125
+      ],
+      "text": "was given under direct observation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.2064208984375,
+        383.54217529296875,
+        493.6274108886719
+      ],
+      "text": "Recommendation 21: 36 months of daily isoniazid monotherapy",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4378051757812,
+        507.825439453125
+      ],
+      "text": "A systematic review and meta-analysis of three RCTs of people living with HIV in settings with high TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.4376831054688,
+        521.825439453125
+      ],
+      "text": "prevalence and transmission showed that continuous IPT can reduce the risk for TB disease by 38%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        527.411376953125,
+        535.825439453125
+      ],
+      "text": "more than 6 months’ isoniazid  . The effect was greater in people with a positive TST (49% for  (83)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.4100952148438,
+        549.825439453125
+      ],
+      "text": "TB disease and 50% for death). In those with a negative TST, neither effect was significant, although",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4430541992188,
+        563.825439453125
+      ],
+      "text": "the point estimate indicated a reduction in TB incidence of 27%. In two of the studies reviewed, ART",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.4420776367188,
+        577.825439453125
+      ],
+      "text": "was not used and in the third ART coverage was low at baseline but increased during the period of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        127.76139068603516,
+        591.8253784179688
+      ],
+      "text": "observation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.4201049804688,
+        619.8253784179688
+      ],
+      "text": "This recommendation is conditional and based on evidence that longer-term IPT significantly adds",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4199829101562,
+        633.8253784179688
+      ],
+      "text": "benefit to ART. The efficacy, safety and convenience of repeated treatment with shorter rifapentine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.4213256835938,
+        647.8253784179688
+      ],
+      "text": "regimens is being studied in people living with HIV in such settings. The definition of a high TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.3926391601562,
+        661.8253784179688
+      ],
+      "text": "transmission setting should be established by the national authorities. Testing for TB infection is not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.39697265625,
+        675.8253784179688
+      ],
+      "text": "a prerequisite for TPT in people living with HIV but its use is encouraged because people who are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4122924804688,
+        689.8253784179688
+      ],
+      "text": "TST positive have a greater protective benefit from TPT. People living with HIV with a negative TST",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        261.0274658203125,
+        703.8253784179688
+      ],
+      "text": "should not receive 36 months of daily IPT.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.2723999023438,
+        181.61410522460938,
+        731.6273803710938
+      ],
+      "text": "Special considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.4158935546875,
+        745.8253784179688
+      ],
+      "text": "Careful consideration should be given to the selection of TPT regimen for people living with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.3823852539062,
+        527.4257202148438,
+        759.8253784179688
+      ],
+      "text": "Rifamycins induce certain cytochrome P-450 enzymes and may therefore accelerate the elimination",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        527.4215698242188,
+        773.8253784179688
+      ],
+      "text": "of medicines that depend on this metabolic pathway, including several antiretroviral drugs (ARVs)  .  (22)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        329.7992858886719,
+        801.2599487304688,
+        553.4072875976562,
+        811.8897705078125
+      ],
+      "text": "27 2. ﻿ Reduce the burden of TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

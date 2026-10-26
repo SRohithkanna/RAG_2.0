@@ -1,0 +1,450 @@
+{
+  "file": "module1",
+  "page": 87,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.09741973876953,
+        737.5950927734375,
+        84.88041687011719
+      ],
+      "text": "PICO 2: What is the accuracy of WHO symptomatic screening to exclude TB disease in individuals with HIV on antiretroviral",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        156.2963104248047,
+        98.88038635253906
+      ],
+      "text": "treatment (ART)?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        100.8187026977539,
+        610.6421508789062,
+        117.61470031738281
+      ],
+      "text": "Four-symptom screening plus chest radiographic findings to exclude TB disease in individuals with HIV",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        121.48800659179688,
+        257.3121337890625,
+        133.1070098876953
+      ],
+      "text": "Population:  Adults and adolescents with HIV on ART",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        231.646484375,
+        115.3904037475586,
+        243.16648864746094
+      ],
+      "text": "True positives",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        242.646484375,
+        715.45068359375,
+        254.16648864746094
+      ],
+      "text": "(patients with  8 (7–9) 42 (35–46) 85 (70–93)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        253.64645385742188,
+        100.9075927734375,
+        265.16644287109375
+      ],
+      "text": "active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.93148803710938,
+        261.24639892578125,
+        220.7863311767578,
+        272.7663879394531
+      ],
+      "text": "Cross-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        268.84637451171875,
+        227.50645446777344,
+        283.766357421875
+      ],
+      "text": "False  sectional",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        277.7463684082031,
+        775.1417236328125,
+        294.7663879394531
+      ],
+      "text": "2 studies\n negatives  Not serious  Not serious  Not serious  Serious (cohort type  Moderate  None a b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        288.746337890625,
+        227.4766082763672,
+        305.76629638671875
+      ],
+      "text": "646 patients  (patients  accuracy",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        301.8463439941406,
+        711.6112670898438,
+        316.7662658691406
+      ],
+      "text": "2 (1–3) 8 (4–15) 15 (7–30) incorrectly  study)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        312.8463439941406,
+        108.40277862548828,
+        324.3663330078125
+      ],
+      "text": "classified as",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        323.8463134765625,
+        102.10906219482422,
+        335.3663024902344
+      ],
+      "text": "not having",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        334.8462829589844,
+        100.90756225585938,
+        346.36627197265625
+      ],
+      "text": "active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        350.04620361328125,
+        79.84847259521484,
+        361.5661926269531
+      ],
+      "text": "True",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        361.0461730957031,
+        98.84928131103516,
+        372.566162109375
+      ],
+      "text": "negatives",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        564.9027709960938,
+        366.5462951660156,
+        703.3422241210938,
+        378.0662841796875
+      ],
+      "text": "295  283  268",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        372.0462646484375,
+        97.14286041259766,
+        383.5662536621094
+      ],
+      "text": "(patients",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        551.7211303710938,
+        377.5462951660156,
+        713.5965576171875,
+        389.0662841796875
+      ],
+      "text": "(260–327) (250–314) (237–297)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        383.0462341308594,
+        91.8421401977539,
+        394.56622314453125
+      ],
+      "text": "without",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.93145751953125,
+        390.6461181640625,
+        220.7863006591797,
+        402.1661071777344
+      ],
+      "text": "Cross-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        394.0462341308594,
+        100.90756225585938,
+        405.56622314453125
+      ],
+      "text": "active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        191.2481231689453,
+        401.6460876464844,
+        227.5065155029297,
+        413.16607666015625
+      ],
+      "text": "sectional",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        407.1460876464844,
+        765.3406372070312,
+        424.16619873046875
+      ],
+      "text": "2 studies\n False  (cohort type  Not serious  Not serious  Not serious  Not serious  None High  b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        418.1461486816406,
+        227.47666931152344,
+        435.1661376953125
+      ],
+      "text": "646 patients  positives  accuracy",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        431.2462463378906,
+        703.126953125,
+        448.2662353515625
+      ],
+      "text": "(patients  study)  695  667  632",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        442.2462158203125,
+        103.37176513671875,
+        453.7662048339844
+      ],
+      "text": "incorrectly",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        552.0000610351562,
+        447.7462158203125,
+        714.587646484375,
+        459.2662048339844
+      ],
+      "text": "(663–730) (636–700) (603–663)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        453.2461853027344,
+        108.40277862548828,
+        464.76617431640625
+      ],
+      "text": "classified as",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        464.2461853027344,
+        112.19715881347656,
+        475.76617431640625
+      ],
+      "text": "having active",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        475.2462463378906,
+        76.28086853027344,
+        486.7662353515625
+      ],
+      "text": "TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        495.0141906738281,
+        133.7620391845703,
+        504.61419677734375
+      ],
+      "text": "From references  (29,30)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        501.0141906738281,
+        241.68365478515625,
+        513.6141967773438
+      ],
+      "text": "Imprecise estimate for sensitivity. Downgraded by one. a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        510.0141906738281,
+        422.2017517089844,
+        522.6141967773438
+      ],
+      "text": "The possibility of publication bias is not excluded, but it was not considered of sufficient concern to downgrade.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "69",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

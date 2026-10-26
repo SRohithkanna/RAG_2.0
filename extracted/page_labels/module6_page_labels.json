@@ -1,0 +1,545 @@
+{
+  "file": "module6",
+  "labels": [
+    {
+      "page": 1,
+      "raw": "i",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 2,
+      "raw": "ii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 3,
+      "raw": "i",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 4,
+      "raw": "ii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 5,
+      "raw": "iii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 6,
+      "raw": "iv",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 7,
+      "raw": "i",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 8,
+      "raw": "ii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 9,
+      "raw": "iii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 10,
+      "raw": "iv",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 11,
+      "raw": "v",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 12,
+      "raw": "vi",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 13,
+      "raw": "vii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 14,
+      "raw": "viii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 15,
+      "raw": "ix",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 16,
+      "raw": "x",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 17,
+      "raw": "xi",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 18,
+      "raw": "xii",
+      "numeric": null,
+      "is_roman": true
+    },
+    {
+      "page": 19,
+      "raw": "1",
+      "numeric": 1,
+      "is_roman": false
+    },
+    {
+      "page": 20,
+      "raw": "2",
+      "numeric": 2,
+      "is_roman": false
+    },
+    {
+      "page": 21,
+      "raw": "3",
+      "numeric": 3,
+      "is_roman": false
+    },
+    {
+      "page": 22,
+      "raw": "4",
+      "numeric": 4,
+      "is_roman": false
+    },
+    {
+      "page": 23,
+      "raw": "5",
+      "numeric": 5,
+      "is_roman": false
+    },
+    {
+      "page": 24,
+      "raw": "6",
+      "numeric": 6,
+      "is_roman": false
+    },
+    {
+      "page": 25,
+      "raw": "7",
+      "numeric": 7,
+      "is_roman": false
+    },
+    {
+      "page": 26,
+      "raw": "8",
+      "numeric": 8,
+      "is_roman": false
+    },
+    {
+      "page": 27,
+      "raw": "9",
+      "numeric": 9,
+      "is_roman": false
+    },
+    {
+      "page": 28,
+      "raw": "10",
+      "numeric": 10,
+      "is_roman": false
+    },
+    {
+      "page": 29,
+      "raw": "11",
+      "numeric": 11,
+      "is_roman": false
+    },
+    {
+      "page": 30,
+      "raw": "12",
+      "numeric": 12,
+      "is_roman": false
+    },
+    {
+      "page": 31,
+      "raw": "13",
+      "numeric": 13,
+      "is_roman": false
+    },
+    {
+      "page": 32,
+      "raw": "14",
+      "numeric": 14,
+      "is_roman": false
+    },
+    {
+      "page": 33,
+      "raw": "15",
+      "numeric": 15,
+      "is_roman": false
+    },
+    {
+      "page": 34,
+      "raw": "16",
+      "numeric": 16,
+      "is_roman": false
+    },
+    {
+      "page": 35,
+      "raw": "17",
+      "numeric": 17,
+      "is_roman": false
+    },
+    {
+      "page": 36,
+      "raw": "18",
+      "numeric": 18,
+      "is_roman": false
+    },
+    {
+      "page": 37,
+      "raw": "19",
+      "numeric": 19,
+      "is_roman": false
+    },
+    {
+      "page": 38,
+      "raw": "20",
+      "numeric": 20,
+      "is_roman": false
+    },
+    {
+      "page": 39,
+      "raw": "21",
+      "numeric": 21,
+      "is_roman": false
+    },
+    {
+      "page": 40,
+      "raw": "22",
+      "numeric": 22,
+      "is_roman": false
+    },
+    {
+      "page": 41,
+      "raw": "23",
+      "numeric": 23,
+      "is_roman": false
+    },
+    {
+      "page": 42,
+      "raw": "24",
+      "numeric": 24,
+      "is_roman": false
+    },
+    {
+      "page": 43,
+      "raw": "25",
+      "numeric": 25,
+      "is_roman": false
+    },
+    {
+      "page": 44,
+      "raw": "26",
+      "numeric": 26,
+      "is_roman": false
+    },
+    {
+      "page": 45,
+      "raw": "27",
+      "numeric": 27,
+      "is_roman": false
+    },
+    {
+      "page": 46,
+      "raw": "28",
+      "numeric": 28,
+      "is_roman": false
+    },
+    {
+      "page": 47,
+      "raw": "29",
+      "numeric": 29,
+      "is_roman": false
+    },
+    {
+      "page": 48,
+      "raw": "30",
+      "numeric": 30,
+      "is_roman": false
+    },
+    {
+      "page": 49,
+      "raw": "31",
+      "numeric": 31,
+      "is_roman": false
+    },
+    {
+      "page": 50,
+      "raw": "32",
+      "numeric": 32,
+      "is_roman": false
+    },
+    {
+      "page": 51,
+      "raw": "33",
+      "numeric": 33,
+      "is_roman": false
+    },
+    {
+      "page": 52,
+      "raw": "34",
+      "numeric": 34,
+      "is_roman": false
+    },
+    {
+      "page": 53,
+      "raw": "35",
+      "numeric": 35,
+      "is_roman": false
+    },
+    {
+      "page": 54,
+      "raw": "36",
+      "numeric": 36,
+      "is_roman": false
+    },
+    {
+      "page": 55,
+      "raw": "37",
+      "numeric": 37,
+      "is_roman": false
+    },
+    {
+      "page": 56,
+      "raw": "38",
+      "numeric": 38,
+      "is_roman": false
+    },
+    {
+      "page": 57,
+      "raw": "39",
+      "numeric": 39,
+      "is_roman": false
+    },
+    {
+      "page": 58,
+      "raw": "40",
+      "numeric": 40,
+      "is_roman": false
+    },
+    {
+      "page": 59,
+      "raw": "41",
+      "numeric": 41,
+      "is_roman": false
+    },
+    {
+      "page": 60,
+      "raw": "42",
+      "numeric": 42,
+      "is_roman": false
+    },
+    {
+      "page": 61,
+      "raw": "43",
+      "numeric": 43,
+      "is_roman": false
+    },
+    {
+      "page": 62,
+      "raw": "44",
+      "numeric": 44,
+      "is_roman": false
+    },
+    {
+      "page": 63,
+      "raw": "45",
+      "numeric": 45,
+      "is_roman": false
+    },
+    {
+      "page": 64,
+      "raw": "46",
+      "numeric": 46,
+      "is_roman": false
+    },
+    {
+      "page": 65,
+      "raw": "47",
+      "numeric": 47,
+      "is_roman": false
+    },
+    {
+      "page": 66,
+      "raw": "48",
+      "numeric": 48,
+      "is_roman": false
+    },
+    {
+      "page": 67,
+      "raw": "49",
+      "numeric": 49,
+      "is_roman": false
+    },
+    {
+      "page": 68,
+      "raw": "50",
+      "numeric": 50,
+      "is_roman": false
+    },
+    {
+      "page": 69,
+      "raw": "51",
+      "numeric": 51,
+      "is_roman": false
+    },
+    {
+      "page": 70,
+      "raw": "52",
+      "numeric": 52,
+      "is_roman": false
+    },
+    {
+      "page": 71,
+      "raw": "53",
+      "numeric": 53,
+      "is_roman": false
+    },
+    {
+      "page": 72,
+      "raw": "54",
+      "numeric": 54,
+      "is_roman": false
+    },
+    {
+      "page": 73,
+      "raw": "55",
+      "numeric": 55,
+      "is_roman": false
+    },
+    {
+      "page": 74,
+      "raw": "56",
+      "numeric": 56,
+      "is_roman": false
+    },
+    {
+      "page": 75,
+      "raw": "57",
+      "numeric": 57,
+      "is_roman": false
+    },
+    {
+      "page": 76,
+      "raw": "58",
+      "numeric": 58,
+      "is_roman": false
+    },
+    {
+      "page": 77,
+      "raw": "59",
+      "numeric": 59,
+      "is_roman": false
+    },
+    {
+      "page": 78,
+      "raw": "60",
+      "numeric": 60,
+      "is_roman": false
+    },
+    {
+      "page": 79,
+      "raw": "61",
+      "numeric": 61,
+      "is_roman": false
+    },
+    {
+      "page": 80,
+      "raw": "62",
+      "numeric": 62,
+      "is_roman": false
+    },
+    {
+      "page": 81,
+      "raw": "63",
+      "numeric": 63,
+      "is_roman": false
+    },
+    {
+      "page": 82,
+      "raw": "64",
+      "numeric": 64,
+      "is_roman": false
+    },
+    {
+      "page": 83,
+      "raw": "65",
+      "numeric": 65,
+      "is_roman": false
+    },
+    {
+      "page": 84,
+      "raw": "66",
+      "numeric": 66,
+      "is_roman": false
+    },
+    {
+      "page": 85,
+      "raw": "67",
+      "numeric": 67,
+      "is_roman": false
+    },
+    {
+      "page": 86,
+      "raw": "68",
+      "numeric": 68,
+      "is_roman": false
+    },
+    {
+      "page": 87,
+      "raw": "69",
+      "numeric": 69,
+      "is_roman": false
+    },
+    {
+      "page": 88,
+      "raw": "70",
+      "numeric": 70,
+      "is_roman": false
+    },
+    {
+      "page": 89,
+      "raw": "71",
+      "numeric": 71,
+      "is_roman": false
+    },
+    {
+      "page": 90,
+      "raw": "72",
+      "numeric": 72,
+      "is_roman": false
+    }
+  ]
+}

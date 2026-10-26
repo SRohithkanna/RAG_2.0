@@ -1,0 +1,570 @@
+{
+  "file": "module3",
+  "page": 4,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        258.83660888671875,
+        309.0341491699219,
+        268.3966369628906
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 3: diagnosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.840576171875,
+        230.81500244140625,
+        288.4006042480469
+      ],
+      "text": "ISBN 978-92-4-010798-4 (electronic version)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.340576171875,
+        211.12808227539062,
+        299.9006042480469
+      ],
+      "text": "ISBN 978-92-4-010799-1 (print version)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        230.9425048828125,
+        310.45648193359375,
+        364.33447265625,
+        319.8485107421875
+      ],
+      "text": "© World Health Organization 2025",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.348388671875,
+        526.447265625,
+        339.9084167480469
+      ],
+      "text": "Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.998849868774414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.848388671875,
+        152.72210693359375,
+        351.4084167480469
+      ],
+      "text": "(CC BY-NC-SA 3.0 IGO;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        152.7209014892578,
+        341.848388671875,
+        352.06488037109375,
+        351.4084167480469
+      ],
+      "text": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        352.0616149902344,
+        341.848388671875,
+        358.349609375,
+        351.4084167480469
+      ],
+      "text": ").",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.8523864746094,
+        526.2650756835938,
+        371.41241455078125
+      ],
+      "text": "Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.3523864746094,
+        526.266845703125,
+        382.91241455078125
+      ],
+      "text": "is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.8523864746094,
+        526.2978515625,
+        394.41241455078125
+      ],
+      "text": "organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.3523864746094,
+        526.3027954101562,
+        405.91241455078125
+      ],
+      "text": "work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.971248149871826,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.8523864746094,
+        526.26513671875,
+        417.41241455078125
+      ],
+      "text": "disclaimer along with the suggested citation: This translation was not created by the World Health Organization (WHO). WHO   “",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.3523864746094,
+        526.2675170898438,
+        428.91241455078125
+      ],
+      "text": "is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.8523864746094,
+        103.4901123046875,
+        440.41241455078125
+      ],
+      "text": "edition”.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.8562927246094,
+        526.22607421875,
+        460.41632080078125
+      ],
+      "text": "Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.3562927246094,
+        220.4980926513672,
+        471.91632080078125
+      ],
+      "text": "World Intellectual Property Organization (",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        220.4951934814453,
+        462.3562927246094,
+        391.95916748046875,
+        471.91632080078125
+      ],
+      "text": "http://www.wipo.int/amc/en/mediation/rules/",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        391.9565124511719,
+        462.3562927246094,
+        396.3885192871094,
+        471.91632080078125
+      ],
+      "text": ").",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.36029052734375,
+        526.2730102539062,
+        491.9203186035156
+      ],
+      "text": ". WHO consolidated guidelines on tuberculosis. Module 3: diagnosis. Geneva: World Health Organization;  Suggested citation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.86029052734375,
+        123.33812713623047,
+        503.4203186035156
+      ],
+      "text": "2025. Licence:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        123.33699798583984,
+        493.86029052734375,
+        198.67999267578125,
+        503.4203186035156
+      ],
+      "text": "CC BY-NC-SA 3.0 IGO",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        198.67990112304688,
+        493.86029052734375,
+        200.55189514160156,
+        503.4203186035156
+      ],
+      "text": ".",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        213.91990661621094,
+        513.8641967773438,
+        302.9198303222656,
+        523.4241943359375
+      ],
+      "text": "CIP data are available at",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        302.9183044433594,
+        513.8641967773438,
+        373.7022705078125,
+        523.4241943359375
+      ],
+      "text": "https://iris.who.int/",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.8641967773438,
+        375.572998046875,
+        523.4241943359375
+      ],
+      "text": ". Cataloguing-in-Publication (CIP) data.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.0207977294922,
+        533.8681030273438,
+        309.1407775878906,
+        543.4281005859375
+      ],
+      "text": "To purchase WHO publications, see",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        309.7272033691406,
+        533.8681030273438,
+        483.5910949707031,
+        543.4281005859375
+      ],
+      "text": "https://www.who.int/publications/book-orders",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.8681030273438,
+        526.2858276367188,
+        543.4281005859375
+      ],
+      "text": ". To submit  Sales, rights and licensing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.3681030273438,
+        314.3940734863281,
+        554.9281005859375
+      ],
+      "text": "requests for commercial use and queries on rights and licensing, see",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        314.3901062011719,
+        545.3681030273438,
+        428.8861389160156,
+        554.9281005859375
+      ],
+      "text": "https://www.who.int/copyright",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        428.8841857910156,
+        545.3681030273438,
+        432.6121826171875,
+        554.9281005859375
+      ],
+      "text": ".",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.3720703125,
+        526.2657470703125,
+        574.9320678710938
+      ],
+      "text": "If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or  Third-party materials.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.8720703125,
+        526.359130859375,
+        586.4320678710938
+      ],
+      "text": "images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.3720703125,
+        526.265869140625,
+        597.9320678710938
+      ],
+      "text": "copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.8720703125,
+        119.60149383544922,
+        609.4320678710938
+      ],
+      "text": "with the user.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.8759765625,
+        526.2940673828125,
+        629.4359741210938
+      ],
+      "text": "The designations employed and the presentation of the material in this publication do not  General disclaimers.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.3759765625,
+        526.42626953125,
+        640.9359741210938
+      ],
+      "text": "imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.8759765625,
+        526.242431640625,
+        652.4359741210938
+      ],
+      "text": "territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.3759765625,
+        526.2654418945312,
+        663.9359741210938
+      ],
+      "text": "and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.3759765625,
+        526.2711181640625,
+        686.9359741210938
+      ],
+      "text": "The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.994247913360596,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.8759765625,
+        526.0323486328125,
+        698.4359741210938
+      ],
+      "text": "by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.9670820236206055,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.3759765625,
+        249.623291015625,
+        709.9359741210938
+      ],
+      "text": "products are distinguished by initial capital letters.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.3798828125,
+        526.5631103515625,
+        729.9398803710938
+      ],
+      "text": "All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.964018821716309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.8798828125,
+        526.2658081054688,
+        741.4398803710938
+      ],
+      "text": "material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.3798828125,
+        458.5298767089844,
+        752.9398803710938
+      ],
+      "text": "and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        763.3839111328125,
+        326.0180969238281,
+        772.9439086914062
+      ],
+      "text": "Technical editing by Cadman Editing and design by Inis Communication",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

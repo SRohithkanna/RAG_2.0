@@ -1,0 +1,654 @@
+{
+  "file": "module5",
+  "page": 69,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.184814453125,
+        81.83369445800781
+      ],
+      "text": "if they meet the eligibility criteria. This regimen is composed of bedaquiline (used for 6 months),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.5980834960938,
+        95.03370666503906
+      ],
+      "text": "in combination with levofloxacin/moxifloxacin, ethionamide, ethambutol, isoniazid (high-dose),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4112548828125,
+        108.23371887207031
+      ],
+      "text": "pyrazinamide and clofazimine for four months (with the possibility of extending to 6 months if the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.5491943359375,
+        121.43373107910156
+      ],
+      "text": "patient remains sputum smear positive at the end of four months); followed by 5 months of treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.979029655456543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        524.408935546875,
+        134.6337432861328
+      ],
+      "text": "with levofloxacin/moxifloxacin, clofazimine, ethambutol and pyrazinamide. The eligibility criteria are:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        78.23609924316406,
+        156.3376007080078
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        141.8946075439453,
+        192.93212890625,
+        156.3376007080078
+      ],
+      "text": "No extensive TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        78.23609924316406,
+        169.53773498535156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        155.09474182128906,
+        361.8345031738281,
+        169.53773498535156
+      ],
+      "text": "No severe EPTB (any forms other than TB lymphadenopathy)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        78.23609924316406,
+        182.73768615722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        168.29469299316406,
+        527.5677490234375,
+        182.73768615722656
+      ],
+      "text": "No resistance or suspected ineffectiveness of a medicine in the shorter regimen (except",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        181.4947052001953,
+        173.55780029296875,
+        195.9376983642578
+      ],
+      "text": "isoniazid resistance)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        78.23609924316406,
+        209.13771057128906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        194.69471740722656,
+        527.4500122070312,
+        209.13771057128906
+      ],
+      "text": "No exposure to previous treatment with second-line medicines in the regimen for more than one",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        207.8946075439453,
+        364.6542663574219,
+        222.3376007080078
+      ],
+      "text": "month (unless susceptibility to these medicines is confirmed).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.59864807128906,
+        527.4276123046875,
+        244.04164123535156
+      ],
+      "text": "Extensive (or advanced) TB disease refers to the presence of bilateral cavitary disease or extensive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.79859924316406,
+        527.3837890625,
+        257.2416076660156
+      ],
+      "text": "parenchymal damage on CXR in adults. In children aged under 15 years, advanced disease is usually",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.5817260742188,
+        270.4417419433594
+      ],
+      "text": "defined by the presence of cavities or bilateral disease on CXR. Severe EPTB refers to the presence of",
+      "font": "SegoeUI-Light",
+      "size": 10.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.40460205078125,
+        527.3927612304688,
+        283.6416320800781
+      ],
+      "text": "(61) miliary TB or TBM (i.e. disseminated disease)  . In children aged under 15 years, extrapulmonary",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.1345825195312,
+        296.8416442871094
+      ],
+      "text": "forms of disease other than lymphadenopathy (peripheral nodes or isolated mediastinal mass without",
+      "font": "SegoeUI-Light",
+      "size": 10.976123809814453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.80462646484375,
+        527.2764892578125,
+        310.0416564941406
+      ],
+      "text": "(86) compression) are considered as severe  . The shorter regimen should not be used in the presence",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.995048522949219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.4334106445312,
+        323.2416076660156
+      ],
+      "text": "of mutations in both the inhA promoter and katG on first-line LPA (MTBDRplus) in the child as this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.20458984375,
+        432.00048828125,
+        336.4416198730469
+      ],
+      "text": "(87) suggests that both isoniazid at high dose and thioamides are not effective  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.7025146484375,
+        527.5761108398438,
+        358.1455383300781
+      ],
+      "text": "Promoting the use of bedaquiline in all-oral regimens for children will allow the construction of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        356.9026184082031,
+        527.3184204101562,
+        371.34564208984375
+      ],
+      "text": "regimens that are more child- and family-friendly and shorter, which may reduce the use of second-line",
+      "font": "SegoeUI-Light",
+      "size": 10.947274208068848,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.10260009765625,
+        527.1054077148438,
+        384.5456237792969
+      ],
+      "text": "drugs with potentially more severe adverse events compared to bedaquiline (including, but not limited",
+      "font": "SegoeUI-Light",
+      "size": 10.962536811828613,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.3025207519531,
+        527.439697265625,
+        397.74554443359375
+      ],
+      "text": "to injectables). Implementation of shorter, all-oral regimens may also facilitate the implementation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.5025939941406,
+        527.420166015625,
+        410.94561767578125
+      ],
+      "text": "of DR-TB treatment at peripheral levels of the health care system. NTPs and clinicians are therefore",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.7025146484375,
+        527.4068603515625,
+        424.1455383300781
+      ],
+      "text": "discouraged from using injectable agents as part of treatment regimens for MDR/RR-TB in children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.9026184082031,
+        119.60939025878906,
+        437.34564208984375
+      ],
+      "text": "of all ages.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.4305114746094,
+        527.29150390625,
+        458.85150146484375
+      ],
+      "text": "Regimen building for children not eligible for the shorter all-oral bedaquiline-containing",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.6305236816406,
+        527.1356201171875,
+        472.2495422363281
+      ],
+      "text": "regimen:  Children who do not have bacteriological confirmation of TB and/or resistance patterns but",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.982135772705078,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.0065002441406,
+        527.14013671875,
+        485.44952392578125
+      ],
+      "text": "who have a high likelihood of MDR/RR-TB (based on clinical signs and symptoms of TB, in combination",
+      "font": "SegoeUI-Light",
+      "size": 10.95541000366211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.2065124511719,
+        527.1952514648438,
+        498.6495361328125
+      ],
+      "text": "with a history of contact with a patient with confirmed MDR/RR-TB) are eligible to receive bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 10.981584548950195,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.406494140625,
+        527.391357421875,
+        511.8495178222656
+      ],
+      "text": "as part of their treatment regimen. However, they do not meet the eligibility criteria for the shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.60650634765625,
+        527.393798828125,
+        525.0494995117188
+      ],
+      "text": "all-oral bedaquiline-containing regimen, as this regimen may only be used in people with TB with at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.8065185546875,
+        527.1271362304688,
+        538.24951171875
+      ],
+      "text": "least confirmation of rifampicin resistance in whom resistance to fluoroquinolones has been ruled out",
+      "font": "SegoeUI-Light",
+      "size": 10.988544464111328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.2124633789062,
+        527.5699462890625,
+        551.449462890625
+      ],
+      "text": "(84) . These children will benefit from an individualized longer treatment regimen, taking into account",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.996899604797363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        550.20654296875,
+        527.377197265625,
+        564.6495361328125
+      ],
+      "text": "the drug susceptibility (and/or mutation) pattern of the most likely source case, if this information is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.406494140625,
+        527.3262939453125,
+        577.8494873046875
+      ],
+      "text": "available. Treatment duration will depend on the extent and severity of disease, as well as the response",
+      "font": "SegoeUI-Light",
+      "size": 10.967452049255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.6065063476562,
+        527.4443359375,
+        591.0494995117188
+      ],
+      "text": "to treatment. Shortening the total treatment duration to less than 18 months may be considered in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.0125122070312,
+        527.5325927734375,
+        604.24951171875
+      ],
+      "text": "(61) children without extensive disease  . Children with a diagnosis of rifampicin resistance only without",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.992096900939941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.0064697265625,
+        527.4013671875,
+        617.449462890625
+      ],
+      "text": "further DST (such as a child diagnosed with Xpert MTB/RIF or Xpert Ultra testing on a stool sample",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.20654296875,
+        527.4310302734375,
+        630.6495361328125
+      ],
+      "text": "but no further DST on respiratory samples) could be treated with available bedaquiline-containing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.406494140625,
+        301.9068298339844,
+        643.8494873046875
+      ],
+      "text": "regimens at the discretion of the treating clinician.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.1104125976562,
+        527.3970336914062,
+        665.5534057617188
+      ],
+      "text": "Guidance on how to construct optimal all-oral treatment regimens in children with MDR/RR-TB who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.3104248046875,
+        527.40966796875,
+        678.75341796875
+      ],
+      "text": "are not eligible for the shorter, all-oral bedaquiline-containing regimen is provided in the operational",
+      "font": "SegoeUI-Light",
+      "size": 10.993348121643066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.5103759765625,
+        527.13037109375,
+        691.953369140625
+      ],
+      "text": "handbook, considering their age, resistance patterns in the child or most likely source case and extent",
+      "font": "SegoeUI-Light",
+      "size": 10.98183536529541,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.9163818359375,
+        527.4091796875,
+        705.1533813476562
+      ],
+      "text": "WHO consolidated  of TB disease. The construction of these treatment regimens is aligned to the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.1165161132812,
+        527.4131469726562,
+        718.353515625
+      ],
+      "text": "guidelines on tuberculosis. Module 4: treatment – drug-resistant tuberculosis treatment , the priority",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.31640625,
+        524.3890380859375,
+        731.5534057617188
+      ],
+      "text": "(61). drug groupings in groups A, B and C as well as the minimum number of effective drugs required",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.988544464111328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        738.638427734375,
+        527.5335083007812,
+        753.2573852539062
+      ],
+      "text": "Duration of bedaquiline use:  Evidence assessed by a GDG in November 2019 supported the",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.0142822265625,
+        527.41015625,
+        766.457275390625
+      ],
+      "text": "safe use of bedaquiline beyond 6 months in people with TB who received appropriate schedules",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        344.452392578125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "5. Treatment of TB disease in children and adolescents 45",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

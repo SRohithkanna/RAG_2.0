@@ -1,0 +1,366 @@
+{
+  "file": "module1",
+  "page": 112,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "94",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.09741973876953,
+        780.46923828125,
+        136.4346466064453
+      ],
+      "text": "PICO 10: Should 6 months of levofloxacin rather than other regimens or no TPT be recommended for people in contact with patients  WHO consolidated",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        162.74302673339844,
+        98.88038635253906
+      ],
+      "text": "with MDR/RR-TB?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        102.77360534667969,
+        782.54931640625,
+        114.41060638427734
+      ],
+      "text": "Author(s):  Lawrence Mbuagbaw (McMaster University, Canada); Dennis Falzon (WHO Global Tuberculosis Programme, Switzerland); with contributions from Trinh Duong (University College",
+      "font": "Whitney-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        113.82760620117188,
+        699.9002075195312,
+        125.34761047363281
+      ],
+      "text": "London, United Kingdom); Dick Menzies (McGill University, Canada); Greg Fox (University of Sydney, Australia); Anneke Hesseling (Stellenbosch University, South Africa)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        124.77360534667969,
+        478.791259765625,
+        136.41061401367188
+      ],
+      "text": "Question:  6 months of levofloxacin compared to other regimen or no TPT in people in contact with MDR/RR-TB",
+      "font": "Whitney-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        135.7736053466797,
+        766.9431762695312,
+        147.41061401367188
+      ],
+      "text": "Setting:  Two randomized controlled trials using 6 months of levofloxacin in contacts of MDR-TB in S Africa (TB CHAMP) and Viet Nam (VQUIN). We used results from a pooled analysis of",
+      "font": "Whitney-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        146.82760620117188,
+        700.0379028320312,
+        158.3476104736328
+      ],
+      "text": "individual study participant data to express estimates of effect, rather than the Bayesian analysis which to a large extent mirrored the results from the frequentist approach",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        157.7736053466797,
+        211.3876953125,
+        169.41061401367188
+      ],
+      "text": "Bibliography:  (see references  ) 66 and 67",
+      "font": "Whitney-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.42030334472656,
+        248.27716064453125,
+        774.3773193359375,
+        259.79718017578125
+      ],
+      "text": "9 fewer per 1000\n High Critical 2 randomized  not serious not serious not serious not serious none 8/1474  21/1483  RR 0.38",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        259.2771301269531,
+        683.681396484375,
+        270.7971496582031
+      ],
+      "text": "(from 12 to 2 fewer) trials (0.5%)  (1.4%)  (0.17 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        562.080322265625,
+        270.2771301269531,
+        583.5614624023438,
+        281.797119140625
+      ],
+      "text": "0.86)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        285.4681091308594,
+        190.1932373046875,
+        297.0871276855469
+      ],
+      "text": "Death (assessed with: any cause)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.42030334472656,
+        300.67694091796875,
+        774.3773803710938,
+        312.1969909667969
+      ],
+      "text": "Low Critical 1 more per 1000\n 2 randomized  not serious not serious not serious very  none 5/1476  4/1487  RR 1.26",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        311.67694091796875,
+        684.615966796875,
+        323.19696044921875
+      ],
+      "text": "(from 2 fewer to 10  trials serious (0.3%)  (0.3%)  (0.34 to  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        562.1599731445312,
+        322.6769104003906,
+        658.1026000976562,
+        334.1969299316406
+      ],
+      "text": "more) 4.68)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        337.8678894042969,
+        627.2778930664062,
+        349.4869079589844
+      ],
+      "text": "Adverse events (follow-up: 6 months plus 21 days; assessed with: Grade 3 or above at least possibly related to study drug (TB CHAMP; under 18y))",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.23030090332031,
+        353.0768127441406,
+        774.37744140625,
+        364.5968017578125
+      ],
+      "text": "1 randomized  not serious not serious not serious serious none 4/452  8/469  RR 0.53\n 8 fewer per 1000\n Moderate  Critical b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        364.0767822265625,
+        686.0475463867188,
+        375.5967712402344
+      ],
+      "text": "trials (0.9%)  (1.7%)  (0.16 to 1.70) (from 14 fewer to 12",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        634.9393310546875,
+        375.0767517089844,
+        658.1026611328125,
+        386.59674072265625
+      ],
+      "text": "more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        390.2677001953125,
+        672.0918579101562,
+        401.88671875
+      ],
+      "text": "Adverse events (follow-up: 6 months plus 30 days; assessed with: Grade 3 or above at least possibly related to study drug (VQUIN; 97% of participants >14y))",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.23030090332031,
+        405.4765930175781,
+        774.3773803710938,
+        416.9966125488281
+      ],
+      "text": "1 randomized  not serious not serious not serious not serious none 10/960  2/962  RR 5.26\n 9 more per 1000\n High Critical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        416.4765930175781,
+        685.92626953125,
+        427.99658203125
+      ],
+      "text": "trials (1.0%)  (0.2%)  (1.16 to  (from 0 fewer to 48",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        560.2236938476562,
+        427.4765625,
+        658.1026000976562,
+        438.99658203125
+      ],
+      "text": "23.95) more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        442.66748046875,
+        471.7336120605469,
+        454.2864990234375
+      ],
+      "text": "Adverse events of any grade leading to treatment discontinuation (follow-up: 6 months plus 21 or 30 days)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.42030334472656,
+        457.8763122558594,
+        774.37744140625,
+        469.39630126953125
+      ],
+      "text": "2 Randomized  Not serious Not serious Not serious Not serious None 77/1412  12/1431  RR 6.32\n 45 more per 1000\n High Critical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        468.87628173828125,
+        687.0767211914062,
+        480.3962707519531
+      ],
+      "text": "trials (5.5%)  (0.8%)  (3.43 to  (from 20 to 89 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        561.847412109375,
+        479.8762512207031,
+        583.7947998046875,
+        491.396240234375
+      ],
+      "text": "11.63)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

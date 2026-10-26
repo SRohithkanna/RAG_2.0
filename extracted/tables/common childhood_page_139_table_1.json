@@ -1,0 +1,86 @@
+{
+  "file": "common childhood",
+  "page": 139,
+  "table_id": 1,
+  "bbox": [
+    145.4185028076172,
+    62.36197280883789,
+    309.96649169921875,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 5,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZ­ ABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE (95% CI) RISK DIFFER­ ENCE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES (PARTICIPANTS)",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Death",
+      "19 (1496)",
+      "RCT 0",
+      "Inadequate -0.5",
+      "No -0.5",
+      "No 0",
+      "No intention to treat analysis -0.5",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "Old studies, 9 from high income countries -0.5",
+      "LOW (Total -2.5)",
+      "0.00 (-0.03 to 0.02)"
+    ],
+    [
+      "Treatment failure",
+      "19 (1496)",
+      "RCT 0",
+      "Inadequate -0.5",
+      "No -0.5",
+      "No 0",
+      "As above -0.5",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "As above -0.5",
+      "LOW (Total -2)",
+      "-0.01 (-0.04 to 0.02)"
+    ],
+    [
+      "Culture positivity",
+      "12 (442)",
+      "RCT 0",
+      "Inadequate -0.5",
+      "No -0.5",
+      "No 0",
+      "As above -0.5",
+      "No imprecision 0",
+      "No inconsistency 0",
+      "As above -0.5",
+      "LOW (Total",
+      "-0.06 (-0.11 to 0.00)"
+    ]
+  ]
+}

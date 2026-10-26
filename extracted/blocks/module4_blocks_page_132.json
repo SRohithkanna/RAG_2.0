@@ -1,0 +1,606 @@
+{
+  "file": "module4",
+  "page": 132,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4234619140625,
+        81.83369445800781
+      ],
+      "text": "The likelihood of treatment success in MDR/RR-TB patients on longer regimens depends on factors",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3536987304688,
+        95.03370666503906
+      ],
+      "text": "related to the patient and strain of TB (e.g. severity of disease, resistance patterns and comorbidities),",
+      "font": "SegoeUI-Light",
+      "size": 10.993748664855957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.3905029296875,
+        108.23371887207031
+      ],
+      "text": "and access to health care (e.g. regimens with sufficient effective agents, medications of good quality,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.2783203125,
+        121.43373107910156
+      ],
+      "text": "management of AEs and patient support). Longer regimens with sufficient effective agents are known",
+      "font": "SegoeUI-Light",
+      "size": 10.981083869934082,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        118.91474151611328,
+        527.4177856445312,
+        134.6337432861328
+      ],
+      "text": "(70–73) to increase the likelihood of cure and lower the risk of death in adults and children  . The",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.450927734375,
+        147.8336944580078
+      ],
+      "text": "composition of longer regimens is governed by the selection of individual medicines considered to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        524.434814453125,
+        161.03370666503906
+      ],
+      "text": "be effective, and by a need to combine sufficient medicines to maximize the likelihood of relapse-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.3892822265625,
+        174.2337188720703
+      ],
+      "text": "free cure without increasing toxicity. Regimens may be of standardized (fixed) composition or may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        527.4365844726562,
+        187.43373107910156
+      ],
+      "text": "be individualized to the patient’s needs. Longer regimens usually last 18–20 months or more; this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.1907501220703,
+        527.4103393554688,
+        200.6337432861328
+      ],
+      "text": "document provides recommendations on the duration of such regimens, updated since publication",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.1147003173828,
+        527.4130249023438,
+        213.8336944580078
+      ],
+      "text": "(13) of the 2011 WHO guidelines  . In summary, in 2018, a total treatment duration of 18–20 months",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.59071350097656,
+        527.5550537109375,
+        227.03370666503906
+      ],
+      "text": "and a treatment duration of 15–17 months after culture conversion were suggested for most patients,",
+      "font": "SegoeUI-Light",
+      "size": 10.976675033569336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.7906036376953,
+        436.82958984375,
+        240.2335968017578
+      ],
+      "text": "with the duration being modified according to the patient’s response to therapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.634521484375,
+        219.68531799316406,
+        272.2945251464844
+      ],
+      "text": "Evidence base and analyses",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.50238037109375,
+        527.4301147460938,
+        293.9454040527344
+      ],
+      "text": "Ahead of the GDG discussion in 2018, WHO made a public call for individual MDR/RR-TB patient data,",
+      "font": "SegoeUI-Light",
+      "size": 10.966248512268066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.4263916015625,
+        527.5206909179688,
+        307.1454162597656
+      ],
+      "text": "(74) complete with results of treatment  {, 2018 #35;, 2018 #35}. IPD meta-analysis in adults and children",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.957366943359375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.90252685546875,
+        527.3969116210938,
+        320.3455505371094
+      ],
+      "text": "treated with longer MDR/RR-TB regimens allows the study of useful correlates of outcome, including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        317.826416015625,
+        527.3968505859375,
+        333.5454406738281
+      ],
+      "text": "(70–72) the regimen composition  . The evidence base for the effectiveness of many of the medicines",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.3023986816406,
+        527.3925170898438,
+        346.74542236328125
+      ],
+      "text": "used in MDR/RR-TB regimens relies on the 2018 IPD meta-analysis. In turn, this IPD meta-analysis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.5024108886719,
+        527.4322509765625,
+        359.9454345703125
+      ],
+      "text": "relies heavily on observational studies, only a few of which have employed randomized controlled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.4263916015625,
+        527.3843383789062,
+        373.1454162597656
+      ],
+      "text": "(21) designs  ; hence, the overall certainty of evidence is often graded as low or very low. The sources",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.90240478515625,
+        508.0502624511719,
+        386.3454284667969
+      ],
+      "text": "of data used by the GDGs to address the PICO questions in this section are summarized below.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.7137145996094,
+        442.3900146484375,
+        411.0686950683594
+      ],
+      "text": "PICO question 3–2018 (MDR/RR-TB, 2018) (choice of individual medicines)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.5276184082031,
+        527.4244995117188,
+        432.97064208984375
+      ],
+      "text": "First, to analyse treatment success, treatment failure, relapse and death for the individual medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.72760009765625,
+        527.3870239257812,
+        446.1706237792969
+      ],
+      "text": "in longer regimens, the 2018 IPD meta-analysis was used, with 13 104 records from 53 studies in 40",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.9276123046875,
+        527.132568359375,
+        459.3706359863281
+      ],
+      "text": "countries. The 2018 IPD contained datasets from preceding years and from several countries, including",
+      "font": "SegoeUI-Light",
+      "size": 10.95535945892334,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.1275939941406,
+        527.3893432617188,
+        472.57061767578125
+      ],
+      "text": "a large dataset from South Africa with many patients treated with bedaquiline-containing regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.3276062011719,
+        527.2088623046875,
+        485.7706298828125
+      ],
+      "text": "Second, to analyse AEs resulting in permanent discontinuation of individual medicines in longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.5276184082031,
+        527.44677734375,
+        498.97064208984375
+      ],
+      "text": "regimens, a subset of 5450 records from 17 studies in the 2018 IPD was used, supplemented with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.45159912109375,
+        527.4156494140625,
+        512.1705932617188
+      ],
+      "text": "n additional information from 10 other studies that only reported AEs for either bedaquiline ( =130),",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.651611328125,
+        267.6390686035156,
+        525.37060546875
+      ],
+      "text": "n n linezolid ( =508) or carbapenems ( =139).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.631591796875,
+        527.3980712890625,
+        547.0745849609375
+      ],
+      "text": "In addition to these data, the GDG 2018 assessed unpublished results from the Phase 3 Trial 213 of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.5556030273438,
+        527.1434326171875,
+        560.2745971679688
+      ],
+      "text": "(75, 76) delamanid   and safety and pharmacological exposure data from unpublished paediatric studies",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.962586402893066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.031494140625,
+        527.4058227539062,
+        573.4744873046875
+      ],
+      "text": "of bedaquiline (Phase 2 TMC207-C211 and Phase 1–2 IMPAACT P1108) and delamanid (Phase 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.2315673828125,
+        527.3882446289062,
+        586.674560546875
+      ],
+      "text": "242–12–245, Phase 1 242–12–232, Phase 2 242–07–204 and Phase 2 242–12–233). The GDG 2018",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.431640625,
+        527.3951416015625,
+        599.8746337890625
+      ],
+      "text": "also searched the literature for studies reporting outcomes of patients treated with agents other than",
+      "font": "SegoeUI-Light",
+      "size": 10.993597984313965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.631591796875,
+        483.1636962890625,
+        613.0745849609375
+      ],
+      "text": "those included in the 2016 guidelines (e.g. perchlozone, interferon gamma and sutezolid).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.4429321289062,
+        487.11273193359375,
+        637.7979125976562
+      ],
+      "text": "PICO question 4–2018 (MDR/RR-TB, 2018) (number of agents likely to be effective)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.2568359375,
+        527.433837890625,
+        659.6998291015625
+      ],
+      "text": "To analyse treatment success, treatment failure, relapse and death for the optimal number of medicines",
+      "font": "SegoeUI-Light",
+      "size": 10.953149795532227,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.456787109375,
+        527.4617309570312,
+        672.8997802734375
+      ],
+      "text": "to be included in longer regimens, the data were derived from a subset of 8957 patients in 47 studies",
+      "font": "SegoeUI-Light",
+      "size": 10.993147850036621,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.65673828125,
+        527.4163818359375,
+        686.0997314453125
+      ],
+      "text": "included in the IPD used for PICO question 2–2018 (MDR/RR-TB, 2018) above. Of these, 3570 patients",
+      "font": "SegoeUI-Light",
+      "size": 10.966348648071289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.856689453125,
+        527.448974609375,
+        699.2996826171875
+      ],
+      "text": "in 16 studies had information on the start and end dates for individual medicines in which DST was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.0568237304688,
+        527.4124145507812,
+        712.4998168945312
+      ],
+      "text": "reported, and 5387 patients in 31 studies had information on individual medicines used in both the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.2568359375,
+        527.4378662109375,
+        725.6998291015625
+      ],
+      "text": "intensive and continuation phases of treatment, as well as DST results. This question focused on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        724.456787109375,
+        527.4419555664062,
+        738.8997802734375
+      ],
+      "text": "number of agents in the intensive phase; hence, patients who did not receive an injectable agent",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.3807373046875,
+        527.4215698242188,
+        752.0997314453125
+      ],
+      "text": "n or in whom an initial intensive phase was not defined were excluded ( =476). Patients who were",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        750.856689453125,
+        527.4125366210938,
+        765.2996826171875
+      ],
+      "text": "designated “cured” or “treatment completed” but received less than 18 months of treatment – the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "118 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

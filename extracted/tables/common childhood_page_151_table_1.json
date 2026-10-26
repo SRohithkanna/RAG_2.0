@@ -1,0 +1,86 @@
+{
+  "file": "common childhood",
+  "page": 151,
+  "table_id": 1,
+  "bbox": [
+    56.942901611328125,
+    62.98753992716471,
+    212.0948944091797,
+    623.6220397949219
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 5,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE (95% CI) †OR REPORTED IN REVIEW CON­ VERTED TO RR"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Azithromycin versus ceftriaxone for enteric fever",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Clinical failure",
+      "2",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "Serious imprecision -1",
+      "No inconsistency 0",
+      "1 study, low levels of MDR and no data on nalidixic acid resistance -1",
+      "LOW (Total -2.5)",
+      "RR 2.46 (0.49 to 9.95)"
+    ],
+    [
+      "Microbiologi­ cal failure",
+      "2",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "Outcome not defined for 1 study -0.5",
+      "Serious imprecision -1",
+      "No inconsistency 0",
+      "As above -1",
+      "VERY LOW (Total -3)",
+      "RR 0.59 (0.07 to 4.2)"
+    ]
+  ]
+}

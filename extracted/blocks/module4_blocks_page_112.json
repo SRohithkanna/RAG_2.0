@@ -1,0 +1,522 @@
+{
+  "file": "module4",
+  "page": 112,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        168.6205291748047,
+        82.6147232055664
+      ],
+      "text": "Regimen duration",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.4465942382812,
+        104.26564025878906
+      ],
+      "text": "The regimen comprises an intensive phase of 4 months that may be extended to 6 months when no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.4422607421875,
+        117.46559143066406
+      ],
+      "text": "bacteriological conversion is seen at the end of the fourth month of treatment, and a continuation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.4453735351562,
+        130.6657257080078
+      ],
+      "text": "phase of 5 months; hence, if extended, the regimens may last 11 months. In the dataset reviewed,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        470.4466857910156,
+        143.86573791503906
+      ],
+      "text": "the duration of bedaquiline and linezolid was restricted to 6 and 2 months, respectively.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        160.26649475097656,
+        208.76412963867188,
+        175.92648315429688
+      ],
+      "text": "Patient-centred approach",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.13453674316406,
+        459.79534912109375,
+        197.57752990722656
+      ],
+      "text": "Efforts are required to provide patient support to enable full adherence to treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.9276885986328,
+        516.0933837890625,
+        231.8076934814453
+      ],
+      "text": "Recommendations 2.2 and 2.3 The modified 9-month all-oral",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.9276885986328,
+        253.31573486328125,
+        250.8076934814453
+      ],
+      "text": "regimens for MDR/RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        262.51312255859375,
+        236.23428344726562,
+        276.86810302734375
+      ],
+      "text": "No. Recommendation (NEW)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        284.12774658203125,
+        515.3857421875,
+        298.6807556152344
+      ],
+      "text": "2.2 WHO suggests using the 9-month all-oral regimens (BLMZ, BLLfxCZ and BDLLfxZ) over",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        296.23773193359375,
+        519.6548461914062,
+        310.6807556152344
+      ],
+      "text": "currently recommended longer (>18 months) regimens in patients with MDR/RR-TB and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        308.23773193359375,
+        499.9043884277344,
+        322.6807556152344
+      ],
+      "text": "in whom resistance to fluoroquinolones has been excluded. Among these regimens,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        320.2377014160156,
+        506.5561218261719,
+        334.68072509765625
+      ],
+      "text": "using BLMZ is suggested over using BLLfxCZ, and BLLfxCZ is suggested over BDLLfxZ.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        335.2135925292969,
+        389.42132568359375,
+        350.8775939941406
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        357.9942321777344,
+        472.78826904296875,
+        372.5472412109375
+      ],
+      "text": "2.3 WHO suggests against using 9-month DCLLfxZ or DCMZ regimens compared",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        370.1042175292969,
+        463.1127014160156,
+        384.5472412109375
+      ],
+      "text": "with currently recommended longer (>18 months) regimens in patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        382.1042175292969,
+        301.2685546875,
+        396.5472412109375
+      ],
+      "text": "fluoroquinolone-susceptible MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        397.0802001953125,
+        389.42132568359375,
+        412.74420166015625
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.47662353515625,
+        119.47928619384766,
+        445.32861328125
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.5364990234375,
+        527.5888671875,
+        466.9795227050781
+      ],
+      "text": "1.\t The recommended modified 9-month all-oral regimens comprise bedaquiline, linezolid and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        465.73651123046875,
+        527.590087890625,
+        480.1795349121094
+      ],
+      "text": "pyrazinamide in different combinations with levofloxacin/moxifloxacin, clofazimine and delamanid.",
+      "font": "SegoeUI-Light",
+      "size": 10.970359802246094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.1885070800781,
+        298.9967041015625,
+        497.63153076171875
+      ],
+      "text": "2.\t This recommendation applies to the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        500.6405029296875,
+        509.91357421875,
+        515.08349609375
+      ],
+      "text": "a.\t People with MDR/RR-TB and in whom resistance to fluoroquinolones has been excluded.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        518.0924072265625,
+        527.4256591796875,
+        532.535400390625
+      ],
+      "text": "b.\t People with diagnosed pulmonary TB, including children, adolescents, PLHIV, and pregnant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        531.2924194335938,
+        229.63348388671875,
+        545.7354125976562
+      ],
+      "text": "and breastfeeding women.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        548.744384765625,
+        527.4376220703125,
+        563.1873779296875
+      ],
+      "text": "c.\t People with extensive TB disease and all forms of extrapulmonary TB except for TB involving",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        561.9443969726562,
+        491.89892578125,
+        576.3873901367188
+      ],
+      "text": "the CNS, osteoarticular TB or disseminated forms of TB with multiorgan involvement.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        579.3964233398438,
+        527.5015258789062,
+        593.8394165039062
+      ],
+      "text": "d.\t  People with MDR/RR-TB and less than 1 month of previous exposure to any of the component",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        592.596435546875,
+        527.4420166015625,
+        607.0394287109375
+      ],
+      "text": "medicines of the regimen (apart from pyrazinamide and fluoroquinolones). When exposure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        605.79638671875,
+        527.441162109375,
+        620.2393798828125
+      ],
+      "text": "is greater than 1 month, these patients may still receive one of the regimens if resistance to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        618.9963989257812,
+        389.2699890136719,
+        633.4393920898438
+      ],
+      "text": "the specific medicines with such exposure has been ruled out.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        636.4484252929688,
+        527.44091796875,
+        650.8914184570312
+      ],
+      "text": "e.\t Children and adolescents who do not have bacteriological confirmation of TB or resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        649.6483154296875,
+        527.38818359375,
+        664.09130859375
+      ],
+      "text": "patterns but do have a high likelihood of MDR/RR-TB (based on clinical signs and symptoms",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        662.8483276367188,
+        514.6876831054688,
+        677.2913208007812
+      ],
+      "text": "of TB, in combination with a history of contact with a patient with confirmed MDR/RR-TB).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.6654663085938,
+        128.1744842529297,
+        706.5175170898438
+      ],
+      "text": "Rationale",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.7255249023438,
+        527.0965576171875,
+        728.1685180664062
+      ],
+      "text": "The rationale for these recommendations is based on the evidence and considerations detailed in the",
+      "font": "SegoeUI-Light",
+      "size": 10.982085227966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.925537109375,
+        527.41357421875,
+        741.3685302734375
+      ],
+      "text": "subsections below. These 9-month regimens (BLMZ, BLLfxCZ and BDLLfxZ) can be used in patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.12548828125,
+        527.4059448242188,
+        754.5684814453125
+      ],
+      "text": "with MDR/RR-TB (in whom resistance to FQ has been excluded) who cannot be offered one of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.3255004882812,
+        527.1683959960938,
+        767.7684936523438
+      ],
+      "text": "6-month regimens. These regimens are the preferred option over the longer (>18-month) regimens,",
+      "font": "SegoeUI-Light",
+      "size": 10.995099067687988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "98 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

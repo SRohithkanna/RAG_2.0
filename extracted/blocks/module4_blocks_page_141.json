@@ -1,0 +1,510 @@
+{
+  "file": "module4",
+  "page": 141,
+  "blocks": [
+    {
+      "bbox": [
+        87.9832992553711,
+        153.4230499267578,
+        509.5736999511719,
+        167.8660430908203
+      ],
+      "text": "Other  Kanamycin 2946 1.9 (1.0–3.4) 3269 1.1 (0.5–2.1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.4094009399414,
+        165.4230499267578,
+        124.26839447021484,
+        179.8660430908203
+      ],
+      "text": "medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        138.61419677734375,
+        175.03773498535156,
+        509.5736999511719,
+        189.48072814941406
+      ],
+      "text": "Capreomycin 777 2.0 (1.1–3.5) 826 1.4 (0.7–2.8)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        138.61419677734375,
+        196.65223693847656,
+        509.5736999511719,
+        211.09523010253906
+      ],
+      "text": "Amoxicillin–clavulanic  492 1.7 (1.0–3.0) 534 2.2 (1.3–3.6)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        138.61419677734375,
+        208.65223693847656,
+        157.3472137451172,
+        223.09523010253906
+      ],
+      "text": "acid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        237.42588806152344,
+        500.8918762207031,
+        247.9298858642578
+      ],
+      "text": "CL: confidence limits; GDG: Guideline Development Group; IPD: individual patient data; MDR-TB: multidrug-resistant tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.18060302734375,
+        526.5927124023438,
+        261.7646179199219
+      ],
+      "text": "Table 3.3 Annex 5 Annex 6  See also text,   and   and  for more detail on how the estimates were derived and the additional factors considered  a",
+      "font": "SegoeUI-SemiBold",
+      "size": 7.970847129821777,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.18060302734375,
+        407.03271484375,
+        272.7646179199219
+      ],
+      "text": "Table 3.1 by the GDG when reclassifying medicines for use in longer MDR-TB regimens, as shown in  .",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.0953369140625,
+        419.7662048339844,
+        286.5993347167969
+      ],
+      "text": "The values are the unadjusted risk ratios, as defined by the study investigators of Trial 213 by month 24. b",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.2784423828125,
+        487.11273193359375,
+        320.6334228515625
+      ],
+      "text": "PICO question 4–2018 (MDR/RR-TB, 2018) (number of agents likely to be effective)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.0923156738281,
+        527.41015625,
+        342.53533935546875
+      ],
+      "text": "Regarding PICO question 4–2018 (MDR/RR-TB, 2018), the analysis showed that in longer MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.29229736328125,
+        527.2628173828125,
+        355.7353210449219
+      ],
+      "text": "treatment regimens, the risk of treatment failure, relapse and death was comparable when the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.4923095703125,
+        527.37841796875,
+        368.9353332519531
+      ],
+      "text": "treatment started with four, five or six medicines that were likely to be effective. It also showed that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.6922912597656,
+        527.3731079101562,
+        382.13531494140625
+      ],
+      "text": "patients who took three agents in the continuation phase – the situation expected when starting with",
+      "font": "SegoeUI-Light",
+      "size": 10.993698120117188,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        380.8923034667969,
+        527.3859252929688,
+        395.3353271484375
+      ],
+      "text": "four agents and stopping the injectable agent at the end of the intensive phase – fared no worse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.0923156738281,
+        342.73114013671875,
+        408.53533935546875
+      ],
+      "text": "than those who took four agents in the continuation phase.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.7962951660156,
+        527.4004516601562,
+        430.23931884765625
+      ],
+      "text": "Given that drug–drug interactions, pill burden and likelihood of AEs all increase with the number",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.9963073730469,
+        527.38916015625,
+        443.4393310546875
+      ],
+      "text": "of agents in a regimen, it would be desirable to give patients the minimum number of medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.1963195800781,
+        527.427978515625,
+        456.63934326171875
+      ],
+      "text": "necessary to obtain comparable levels of relapse-free cure. When deciding on the minimum number",
+      "font": "SegoeUI-Light",
+      "size": 10.993398666381836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.39630126953125,
+        527.4344482421875,
+        469.8393249511719
+      ],
+      "text": "of agents to recommend, the GDG 2018 considered analyses that included injectable agents in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.5963134765625,
+        527.6011352539062,
+        483.0393371582031
+      ],
+      "text": "regimens, while fully cognizant that future longer regimens are expected to be increasingly injectable",
+      "font": "SegoeUI-Light",
+      "size": 10.992297172546387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.7962951660156,
+        527.5460205078125,
+        496.23931884765625
+      ],
+      "text": "free. Moreover, it was important to provide for situations in which more than one medicine is stopped",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.9963073730469,
+        527.3837280273438,
+        509.4393310546875
+      ],
+      "text": "at some point during treatment, either because of its indication for use – bedaquiline and delamanid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.9202880859375,
+        527.4268798828125,
+        522.6392822265625
+      ],
+      "text": "(80) Table 3.3 on-label use is 6 months – or because of tolerability (particularly linezolid;  )  ; hence,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3963012695312,
+        527.4419555664062,
+        535.8392944335938
+      ],
+      "text": "for most of its duration, the regimen would contain two key agents fewer than at the start. Although",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.5963134765625,
+        527.4210205078125,
+        549.039306640625
+      ],
+      "text": "bedaquiline use beyond 6 months is referred to as off-label use, new evidence on the safety profile",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.7962646484375,
+        527.1378173828125,
+        562.2392578125
+      ],
+      "text": "of bedaquiline use beyond 6 months was available to the GDG 2019. This evidence supports the safe",
+      "font": "SegoeUI-Light",
+      "size": 10.995148658752441,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        560.996337890625,
+        527.3958129882812,
+        575.4393310546875
+      ],
+      "text": "use of bedaquiline beyond 6 months in patients who receive appropriate schedules of baseline and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.1962890625,
+        527.4310302734375,
+        588.6392822265625
+      ],
+      "text": "follow-up monitoring. The use of bedaquiline beyond 6 months continues to be off-label use; thus,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.396240234375,
+        253.25167846679688,
+        601.8392333984375
+      ],
+      "text": "best practices in off-label use still apply.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.1002197265625,
+        527.433349609375,
+        623.543212890625
+      ],
+      "text": "The 2018 IPD included experience from more than 300 patients who were treated with linezolid for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.3001708984375,
+        527.36962890625,
+        636.7431640625
+      ],
+      "text": "at least 1 month, mostly at a dose of 600 mg/day, with information on duration of use. About 30%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.5001831054688,
+        527.4002075195312,
+        649.9431762695312
+      ],
+      "text": "only received linezolid for 1–6 months, but more than 30% received it for more than 18 months,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.7001953125,
+        527.3836059570312,
+        663.1431884765625
+      ],
+      "text": "and these patients had the lowest frequency of treatment failure, LTFU and death. A plot of linezolid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.9002075195312,
+        527.4287719726562,
+        676.3432006835938
+      ],
+      "text": "duration and treatment failure suggests that the optimal duration of use would be about 20 months,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.1002197265625,
+        527.4046630859375,
+        689.543212890625
+      ],
+      "text": "corresponding to the usual total duration of a longer MDR-TB regimen. However, such an analysis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.3001708984375,
+        527.5925903320312,
+        702.7431640625
+      ],
+      "text": "does not account for survivorship bias, meaning that those who complete the full length of treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.985139846801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.5001831054688,
+        527.4168090820312,
+        715.9431762695312
+      ],
+      "text": "are more likely to have a successful outcome, given that deaths and losses to follow-up occur earlier.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.7001953125,
+        527.3792114257812,
+        729.1431884765625
+      ],
+      "text": "No clear pattern could be discerned for type of AE and duration of use, although a few cases were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.6242065429688,
+        527.42236328125,
+        742.3432006835938
+      ],
+      "text": "(81) reported with optic neuropathy, known to be associated with long-term use of linezolid  , whereas",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.993247985839844,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.1002197265625,
+        375.3670959472656,
+        755.543212890625
+      ],
+      "text": "haematological toxicity was reported regardless of duration of use.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  127",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

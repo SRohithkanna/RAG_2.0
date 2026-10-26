@@ -1,0 +1,606 @@
+{
+  "file": "Guidance for national",
+  "page": 134,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.9801025390625,
+        82.18360900878906,
+        324.29547119140625,
+        99.03961181640625
+      ],
+      "text": "A  3",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        282.08209228515625,
+        86.19041442871094,
+        311.0116882324219,
+        97.98960876464844
+      ],
+      "text": "nnex",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        150.0059051513672,
+        108.74749755859375,
+        315.394287109375,
+        137.64349365234375
+      ],
+      "text": "A ,",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        169.03790283203125,
+        115.61629486083984,
+        445.2731018066406,
+        135.84349060058594
+      ],
+      "text": "dministering reading and",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        116.24259948730469,
+        143.21633911132812,
+        479.0123291015625,
+        163.4435272216797
+      ],
+      "text": "interpreting a tuberculin skin test",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        191.27099609375,
+        513.403076171875,
+        204.62249755859375
+      ],
+      "text": "This annex gives information on administering, reading and interpreting a tuberculin",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        207.26751708984375,
+        155.32742309570312,
+        220.6190185546875
+      ],
+      "text": "skin test (TST).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        231.77398681640625,
+        513.4834594726562,
+        245.12548828125
+      ],
+      "text": "A TST is the intradermal injection of a combination of mycobacterial antigens that elicit",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        247.7705078125,
+        513.3914184570312,
+        261.12200927734375
+      ],
+      "text": "an immune response (delayed-type hypersensitivity), represented by induration, which",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        263.76702880859375,
+        243.07235717773438,
+        277.1185302734375
+      ],
+      "text": "can be measured in millimetres.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        288.2044982910156,
+        513.4835815429688,
+        301.625
+      ],
+      "text": "tuberculosis The standard method of identifying people infected with M.   is the TST using",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        304.27001953125,
+        513.3916015625,
+        317.62152099609375
+      ],
+      "text": "the Mantoux method. Multiple puncture tests should not be used as these tests are",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        320.2665100097656,
+        513.4376220703125,
+        333.6180114746094
+      ],
+      "text": "unreliable (because the amount of tuberculin injected intradermally cannot be precisely",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        336.26300048828125,
+        143.6204071044922,
+        349.614501953125
+      ],
+      "text": "controlled).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        360.7695007324219,
+        513.3570556640625,
+        374.1210021972656
+      ],
+      "text": "This annex describes how to administer, read and interpret a TST using 5 tuberculin units",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        376.7659912109375,
+        513.345458984375,
+        390.11749267578125
+      ],
+      "text": "(TU) of tuberculin PPD-S. An alternative to 5 TU of tuberculin PPD-S is 2 TU of tuberculin",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        392.7624816894531,
+        138.80189514160156,
+        406.1139831542969
+      ],
+      "text": "PPD RT 23.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        419.7732238769531,
+        183.82339477539062,
+        436.36322021484375
+      ],
+      "text": "Administration",
+      "font": "FrutigerLTStd-Bold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        446.4272155761719,
+        449.23297119140625,
+        461.043701171875
+      ],
+      "text": "1.\t  Locate and clean injection site 5–10 cm (2–4 inches) below elbow joint",
+      "font": "Calibri",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        469.0367126464844,
+        344.25250244140625,
+        482.3882141113281
+      ],
+      "text": "Place forearm palm-up on a firm, well-lit surface.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        472.7086181640625,
+        91.36740112304688,
+        480.7086181640625
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        491.0367126464844,
+        481.6890869140625,
+        504.3882141113281
+      ],
+      "text": "Select an area free of barriers (e.g. scars, sores, veins) to placing and reading.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        494.7086181640625,
+        91.36740112304688,
+        502.7086181640625
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        513.0366821289062,
+        286.7984924316406,
+        526.38818359375
+      ],
+      "text": "Clean the area with an alcohol swab.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        516.7085571289062,
+        91.36740112304688,
+        524.7085571289062
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        540.014404296875,
+        179.6318817138672,
+        555.9864501953125
+      ],
+      "text": "2.\t  Prepare syringe",
+      "font": "ArialMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        563.2793579101562,
+        502.5615539550781,
+        576.630859375
+      ],
+      "text": "Check expiry date on vial and ensure vial contains tuberculin PPD-S (5 TU/0.1 ml).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        566.9512329101562,
+        91.36740112304688,
+        574.9512329101562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        585.279296875,
+        513.41748046875,
+        598.6307983398438
+      ],
+      "text": "Use a single-dose tuberculin syringe with a short (¼- to ½-inch) 27-gauge needle",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        588.951171875,
+        91.36740112304688,
+        596.951171875
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        601.2758178710938,
+        195.614990234375,
+        614.6273193359375
+      ],
+      "text": "with a short bevel.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        623.2792358398438,
+        321.4940185546875,
+        636.6307373046875
+      ],
+      "text": "Clean the top of the vial with a sterile swab.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        626.9511108398438,
+        91.36740112304688,
+        634.9511108398438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        645.2792358398438,
+        289.3285217285156,
+        658.6307373046875
+      ],
+      "text": "Fill the syringe with 0.1 ml tuberculin.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        648.9511108398438,
+        91.36740112304688,
+        656.9511108398438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        672.2569580078125,
+        268.7527160644531,
+        688.22900390625
+      ],
+      "text": "3.\t  Inject tuberculin (see Figure A3.1)",
+      "font": "ArialMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        695.8524780273438,
+        377.4645690917969,
+        709.2039794921875
+      ],
+      "text": "Insert the needle slowly, bevel up, at an angle of 5–15°.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        699.5243530273438,
+        91.36740112304688,
+        707.5243530273438
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        717.8525390625,
+        368.79351806640625,
+        731.2040405273438
+      ],
+      "text": "Needle bevel should be visible just below skin surface.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        721.5244140625,
+        91.36740112304688,
+        729.5244140625
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        742.9225463867188,
+        199.43296813964844,
+        756.343017578125
+      ],
+      "text": "4.\t Check injection site",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        770.32958984375,
+        513.4749755859375,
+        783.6810913085938
+      ],
+      "text": "After injection, a flat intradermal wheal of 8–10 mm diameter should appear. If not,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        774.00146484375,
+        91.36740112304688,
+        782.00146484375
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        786.3261108398438,
+        494.2124938964844,
+        799.6776123046875
+      ],
+      "text": "repeat the injection at a site at least 5 cm (2 inches) away from the original site.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        553.0839233398438,
+        805.8439331054688,
+        586.4439086914062,
+        835.8439331054688
+      ],
+      "text": "115",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

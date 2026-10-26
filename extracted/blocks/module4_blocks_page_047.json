@@ -1,0 +1,54 @@
+{
+  "file": "module4",
+  "page": 47,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        200.81539916992188,
+        300.3685302734375,
+        264.1274108886719
+      ],
+      "text": "Chapter 2",
+      "font": "SegoeUI-Bold",
+      "size": 48.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.32745361328125,
+        442.89495849609375,
+        321.7274475097656
+      ],
+      "text": "Drug-resistant TB",
+      "font": "SegoeUI",
+      "size": 48.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.92742919921875,
+        273.18609619140625,
+        379.3274230957031
+      ],
+      "text": "treatment",
+      "font": "SegoeUI",
+      "size": 48.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        316.5696105957031,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: References (Chapter 1) 33",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

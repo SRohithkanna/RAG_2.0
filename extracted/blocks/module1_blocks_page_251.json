@@ -1,0 +1,558 @@
+{
+  "file": "module1",
+  "page": 251,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67279052734375,
+        477.9962158203125,
+        89.46778869628906
+      ],
+      "text": "A5.2 Use of fluoroquinolones for TB preventive",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.47283935546875,
+        514.2861938476562,
+        112.26783752441406
+      ],
+      "text": "treatment in contacts of persons with MDR-/RR-TB:",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.2728271484375,
+        239.8350372314453,
+        135.0678253173828
+      ],
+      "text": "A systematic review",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        140.51881408691406,
+        291.2899169921875,
+        154.96180725097656
+      ],
+      "text": "Harsimren Sidhu, Siobhan Carroll, Dick Menzies 9",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        165.3852996826172,
+        155.7541961669922,
+        183.65530395507812
+      ],
+      "text": "Introduction",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.36134338378906,
+        527.1581420898438,
+        204.80433654785156
+      ],
+      "text": "Two randomized trials (V-QUIN and TB CHAMP) investigating safety, efficacy and tolerability of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.56129455566406,
+        527.4014282226562,
+        218.00428771972656
+      ],
+      "text": "6-month daily Lfx (6Lfx) treatment as TPT for individuals exposed to multidrug-/rifampicin-resistant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        216.7613067626953,
+        527.2362670898438,
+        231.2042999267578
+      ],
+      "text": "tuberculosis (MDR/RR-TB) were completed in 2023. The aim of this review was to systematically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.96131896972656,
+        527.0650634765625,
+        244.40431213378906
+      ],
+      "text": "review other published data from trials or observational studies on the efficacy, safety and tolerability,",
+      "font": "SegoeUI-Light",
+      "size": 10.98889446258545,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.1613311767578,
+        527.4297485351562,
+        257.6043395996094
+      ],
+      "text": "completion, acceptability, resource requirement, feasibility of implementation, cost-effectiveness and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.361328125,
+        527.40625,
+        270.8043518066406
+      ],
+      "text": "impact on equity of FQ regimens for TPT among all MDR/RR-TB contacts, to inform the Guideline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.561279296875,
+        527.1541748046875,
+        284.0043029785156
+      ],
+      "text": "Development Group tasked to revise the WHO TPT guidelines in December 2023. This review updated",
+      "font": "SegoeUI-Light",
+      "size": 10.962786674499512,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.76129150390625,
+        527.3986206054688,
+        297.2043151855469
+      ],
+      "text": "one conducted in 2016 to inform the 2018 WHO TPT guideline. The scope included studies of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.9613037109375,
+        336.0233459472656,
+        310.4043273925781
+      ],
+      "text": "efficacy and safety of other TPT regimens for MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        320.8279113769531,
+        133.09095764160156,
+        339.0979309082031
+      ],
+      "text": "Methods",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.5398254394531,
+        174.07139587402344,
+        360.0487976074219
+      ],
+      "text": "Research questions",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.5077209472656,
+        524.5386962890625,
+        381.95074462890625
+      ],
+      "text": "1.\t What are the efficacy, safety, tolerability, acceptability, resource requirement, feasibility, cost-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        380.70782470703125,
+        527.4514770507812,
+        395.1508483886719
+      ],
+      "text": "effectiveness and impact on equity of Lfx (or moxifloxacin (MFX) given as TPT in people of all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        393.90771484375,
+        283.3261413574219,
+        408.3507385253906
+      ],
+      "text": "ages and settings exposed to MDR/RR-TB?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.3597106933594,
+        527.4393920898438,
+        425.802734375
+      ],
+      "text": "2.\t What are the safety and efficacy of all other TPT drug regimens for individuals in contact with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        424.5596923828125,
+        185.60899353027344,
+        439.00274658203125
+      ],
+      "text": "patients? MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86612701416016,
+        449.7588195800781,
+        527.43212890625,
+        464.20184326171875
+      ],
+      "text": "For both objectives, searches were performed in PubMed, Embase, Turning Research Into Practice",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.95880126953125,
+        527.091796875,
+        477.4018249511719
+      ],
+      "text": "(TRIP) and the Global Health Library. For randomized trials, the Cochrane Central Register of Controlled",
+      "font": "SegoeUI-Light",
+      "size": 10.949031829833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.1588134765625,
+        527.0797119140625,
+        490.6018371582031
+      ],
+      "text": "Trials (CENTRAL) was also searched. No language restriction was set for any of the searches. Relevant",
+      "font": "SegoeUI-Light",
+      "size": 10.99539852142334,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        489.3587951660156,
+        376.5018005371094,
+        503.80181884765625
+      ],
+      "text": "studies were also identified in the reference lists of relevant studies.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.79876708984375,
+        157.91567993164062,
+        525.3077392578125
+      ],
+      "text": "Inclusion criteria",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.7667236328125,
+        128.28610229492188,
+        547.209716796875
+      ],
+      "text": "Objective 1:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.4705810546875,
+        78.23609924316406,
+        568.91357421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        554.4705810546875,
+        390.786376953125,
+        568.91357421875
+      ],
+      "text": "Use of FQ (Lfx/MFX) TPT for contacts of MDR/RR-TB index patients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.6705932617188,
+        78.23609924316406,
+        582.1135864257812
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        567.6705932617188,
+        524.1577758789062,
+        582.1135864257812
+      ],
+      "text": "At least one of the following outcomes reported: TB disease incidence, change in TB-related and all-",
+      "font": "SegoeUI-Light",
+      "size": 10.956011772155762,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        580.87060546875,
+        527.528564453125,
+        595.3135986328125
+      ],
+      "text": "cause mortality, adverse events, treatment completion rate, emergence of additional FQ resistance",
+      "font": "SegoeUI-Light",
+      "size": 10.986091613769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        594.0706176757812,
+        527.4263305664062,
+        608.5136108398438
+      ],
+      "text": "in TB strains or in the microbiome other than TB strains, resources required for implementation,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        607.2706298828125,
+        524.422607421875,
+        621.713623046875
+      ],
+      "text": "impact on equity, patient and health-care worker values and acceptability of FQ-based TPT, cost-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        620.4705810546875,
+        207.60772705078125,
+        634.91357421875
+      ],
+      "text": "effectiveness and feasibility.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.6705932617188,
+        78.23609924316406,
+        648.1135864257812
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        633.6705932617188,
+        527.1078491210938,
+        648.1135864257812
+      ],
+      "text": "Study designs: any longitudinal design (cohorts, case–control studies, case series, population-based",
+      "font": "SegoeUI-Light",
+      "size": 10.962737083435059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        646.87060546875,
+        364.6778869628906,
+        661.3135986328125
+      ],
+      "text": "observational studies), cost-effectiveness modelling and RCTs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        668.574462890625,
+        128.2861328125,
+        683.0174560546875
+      ],
+      "text": "Objective 2:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.2784423828125,
+        78.23609924316406,
+        704.721435546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        690.2784423828125,
+        527.1769409179688,
+        704.721435546875
+      ],
+      "text": "Must include one of the following TPT regimens: 6 or 9H, 12H, 18–36H, 3 or 4HR, 1HP, 3HP,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        703.4783935546875,
+        527.41015625,
+        717.92138671875
+      ],
+      "text": "4R, bedaquiline, delamanid, ethambutol (EMB), ethionamide/ protionamide (ETH/PTH) or other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        716.6785278320312,
+        294.812255859375,
+        731.1215209960938
+      ],
+      "text": "recommended TPT regimens (not Lfx or MFX).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0717163085938,
+        526.5775146484375,
+        763.57568359375
+      ],
+      "text": "McGill International TB Centre & WHO Collaborating Centre in TB Research, Montreal Chest Institute, and Research Institute of the  9",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        185.0428924560547,
+        773.1756591796875
+      ],
+      "text": "McGill University Health Centre",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.7414855957031,
+        801.0170288085938,
+        556.0995483398438,
+        811.52099609375
+      ],
+      "text": "Annex 5. Summary of unpublished studies (PICO 10) 233",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

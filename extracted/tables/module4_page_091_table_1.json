@@ -1,0 +1,40 @@
+{
+  "file": "module4",
+  "page": 91,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    95.60302734375,
+    524.4096476236979,
+    172.44688197544642
+  ],
+  "heading": "Table 1.5. Cross-tabulation of outcomes from the BEAT-TB trial and WHO",
+  "n_rows": 3,
+  "n_cols": 6,
+  "data": [
+    [
+      "BEAT-TB trial outcomes",
+      "WHO Week 76 outcomes",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Sustained treatment success",
+      "Not sustained treatment success",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Failure or recurrence",
+      "Death",
+      "LTFU",
+      "Total"
+    ]
+  ]
+}

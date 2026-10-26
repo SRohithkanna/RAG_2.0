@@ -1,0 +1,546 @@
+{
+  "file": "module6",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        114.64139556884766,
+        189.46609497070312,
+        147.14138793945312
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.4190063476562,
+        199.8253936767578
+      ],
+      "text": "The definitions listed below apply to the terms as used in these guidelines. They may have  Note:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        238.58091735839844,
+        213.8253936767578
+      ],
+      "text": "different meanings in other contexts.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.27239990234375,
+        128.94610595703125,
+        241.6273956298828
+      ],
+      "text": "Adolescent:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        128.97059631347656,
+        227.3824005126953,
+        259.1512145996094,
+        241.8253936767578
+      ],
+      "text": "a person aged 10–19 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.27239990234375,
+        100.78610229492188,
+        269.62738037109375
+      ],
+      "text": "Adult:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        100.79920196533203,
+        255.3824005126953,
+        243.266845703125,
+        269.8254089355469
+      ],
+      "text": "a person over 19 years of age.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.27239990234375,
+        186.24180603027344,
+        297.62738037109375
+      ],
+      "text": "Advanced HIV disease:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        186.25540161132812,
+        283.38238525390625,
+        527.4447021484375,
+        297.8254089355469
+      ],
+      "text": "for adults, adolescents, and children aged 5 years or more, “advanced",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4091186523438,
+        311.8254089355469
+      ],
+      "text": "HIV disease” is defined as a CD4 cell count of less than 200 cells/mm  or a WHO clinical stage 3 or  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.4047241210938,
+        325.8254089355469
+      ],
+      "text": "4 event at presentation for care. All children with HIV aged under 5 years should be considered as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        259.7845153808594,
+        339.825439453125
+      ],
+      "text": "having advanced disease at presentation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.2724304199219,
+        224.58999633789062,
+        367.6274108886719
+      ],
+      "text": "Bacteriologically confirmed TB:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        224.59010314941406,
+        353.3824157714844,
+        524.3873291015625,
+        367.825439453125
+      ],
+      "text": "a person from whom a biological specimen is positive by a WHO-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        371.0660705566406,
+        381.825439453125
+      ],
+      "text": "recommended rapid diagnostic test, culture or smear microscopy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.2724304199219,
+        99.12510681152344,
+        409.6274108886719
+      ],
+      "text": "Child:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        99.12879943847656,
+        395.3824157714844,
+        248.3746337890625,
+        409.825439453125
+      ],
+      "text": "a person under 10 years of age.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.2724304199219,
+        172.33010864257812,
+        437.6274108886719
+      ],
+      "text": "Clinically diagnosed:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.33120727539062,
+        423.3824157714844,
+        527.4200439453125,
+        437.825439453125
+      ],
+      "text": "when a person who does not fulfil the criteria for bacteriological confirmation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4411010742188,
+        451.825439453125
+      ],
+      "text": "has been diagnosed with TB disease by a medical practitioner who has decided to give the person",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        205.95819091796875,
+        465.825439453125
+      ],
+      "text": "a full course of TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.2724304199219,
+        239.49386596679688,
+        493.6274108886719
+      ],
+      "text": "Computer-aided detection (CAD):",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        239.50270080566406,
+        479.3824157714844,
+        527.4212036132812,
+        493.825439453125
+      ],
+      "text": "the use of specialized software to interpret abnormalities on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4278564453125,
+        507.825439453125
+      ],
+      "text": "chest radiographs that are suggestive of TB. The results are expressed as abnormality scores. CAD",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        240.24525451660156,
+        521.825439453125
+      ],
+      "text": "may be used for screening or triage.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.2724609375,
+        161.88668823242188,
+        549.62744140625
+      ],
+      "text": "Drug-resistant TB:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        161.88619995117188,
+        535.3824462890625,
+        527.4269409179688,
+        549.825439453125
+      ],
+      "text": "TB disease caused by a strain of  Mycobacterium tuberculosis (M. tuberculosis)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        281.3038635253906,
+        563.825439453125
+      ],
+      "text": "complex that is resistant to any TB medicines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.2723999023438,
+        236.22242736816406,
+        591.6273803710938
+      ],
+      "text": "Drug-susceptibility testing (DST):",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        236.2344970703125,
+        577.3823852539062,
+        527.390380859375,
+        591.8253784179688
+      ],
+      "text": "in vitro testing using either molecular or genotypic techniques",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4321899414062,
+        605.8253784179688
+      ],
+      "text": "to detect resistance-conferring mutations, or phenotypic methods to determine susceptibility to a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        117.91309356689453,
+        619.8253784179688
+      ],
+      "text": "medicine.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.2723999023438,
+        265.7706604003906,
+        647.6273803710938
+      ],
+      "text": "Extensively drug-resistant TB (XDR-TB):",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        265.7755126953125,
+        633.3823852539062,
+        527.4280395507812,
+        647.8253784179688
+      ],
+      "text": "TB disease caused by a strain of  complex  M. tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4156494140625,
+        661.8253784179688
+      ],
+      "text": "that is resistant to rifampicin (and may also be resistant to isoniazid), and that is also resistant to at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.4111938476562,
+        675.8253784179688
+      ],
+      "text": "least one fluoroquinolone (levofloxacin or moxifloxacin) and to at least one other “Group A” drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        189.80914306640625,
+        689.8253784179688
+      ],
+      "text": "(bedaquiline or linezolid).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.2723999023438,
+        276.4197692871094,
+        717.6273803710938
+      ],
+      "text": "Extrapulmonary TB (EPTB) (classification):",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        276.4461975097656,
+        703.3823852539062,
+        527.4178466796875,
+        717.8253784179688
+      ],
+      "text": "any bacteriologically confirmed or clinically diagnosed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.3981323242188,
+        731.8253784179688
+      ],
+      "text": "episode of TB involving organs other than the lungs (e.g. pleura, peripheral lymph nodes, abdomen,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        318.5069274902344,
+        745.8253784179688
+      ],
+      "text": "genitourinary tract, skin, joints and bones, meninges).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        48.13010025024414,
+        811.763916015625
+      ],
+      "text": "vi",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

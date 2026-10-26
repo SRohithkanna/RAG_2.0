@@ -1,0 +1,510 @@
+{
+  "file": "module4",
+  "page": 304,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.33861541748047,
+        526.5618896484375,
+        78.84261322021484
+      ],
+      "text": "3.\t Participants who were withdrawn from follow-up or lost to follow-up prior to the scheduled end of treatment of study treatment, except for",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        79.33861541748047,
+        524.4672241210938,
+        89.84261322021484
+      ],
+      "text": "pregnancies and violent or accidental death that were instead classified as having a Not Assessable outcome (see protocol for definition).",
+      "font": "SegoeUI-Light",
+      "size": 7.985286712646484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.17333221435547,
+        526.5582885742188,
+        103.67733001708984
+      ],
+      "text": "4.\tParticipants who had an M. tuberculosis positive culture result when last seen during or prior to the Month 12 analysis visit window,",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        104.17333221435547,
+        385.86859130859375,
+        114.67733001708984
+      ],
+      "text": "whether confirmed by a second sample or not, unless determined to have been re-infected.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        118.00792694091797,
+        526.3177490234375,
+        128.5119171142578
+      ],
+      "text": "5.\t Participants receiving any one or more of the following, except when given for failure or recurrence subsequently shown to be a reinfection",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        128.07992553710938,
+        462.7603759765625,
+        139.5119171142578
+      ],
+      "text": "M. tuberculosis with a strain of  , different from that or those identified at study entry through genotyping methods):",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        142.84263610839844,
+        331.9662170410156,
+        153.3466339111328
+      ],
+      "text": "a)\t Extension of treatment beyond that permitted by the protocol; excepting",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.86609649658203,
+        156.67723083496094,
+        197.82127380371094,
+        167.1812286376953
+      ],
+      "text": "a.\ttemporary drug re-challenge;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.86609649658203,
+        170.5118865966797,
+        269.5581359863281,
+        181.01588439941406
+      ],
+      "text": "b.\tover-treatment with drugs from assigned study kits;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.86609649658203,
+        184.3464813232422,
+        415.77178955078125,
+        194.85047912597656
+      ],
+      "text": "c.\ttwenty-one days or fewer of non-study anti-TB medications given for treatment of active TB; or",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.86609649658203,
+        198.1811981201172,
+        329.3389587402344,
+        208.68519592285156
+      ],
+      "text": "d.\tsecondary isoniazid preventative therapy in HIV infected participants.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        212.0157928466797,
+        207.194091796875,
+        222.51979064941406
+      ],
+      "text": "b)\tRe-start of treatment for active TB;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        225.8505096435547,
+        522.5126342773438,
+        236.35450744628906
+      ],
+      "text": "c)\t Change in treatment (including frequency or dosage) for any reason except re-infection, pregnancy, or temporary drug challenge.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        239.6851043701172,
+        523.1903686523438,
+        250.18910217285156
+      ],
+      "text": "6.\tParticipants who died during the follow-up phase (as defined in the protocol) where the cause of death was considered related to TB.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.85028076171875,
+        322.5380859375,
+        293.73028564453125
+      ],
+      "text": "Recommendation 8. PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        299.82421875,
+        528.946044921875,
+        314.17919921875
+      ],
+      "text": "In children and adolescents with non-severe TB*, should a 4-month intervention regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        313.02423095703125,
+        466.9554443359375,
+        327.37921142578125
+      ],
+      "text": "versus the standard 6-month regimen conforming to WHO guidelines be used?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        340.3396301269531,
+        483.62078857421875,
+        354.6946105957031
+      ],
+      "text": "Population Intervention Comparator Outcomes",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        362.064208984375,
+        487.5472717285156,
+        376.5072326660156
+      ],
+      "text": "Children and adolescents with  4 months of  Currently  •\tTreatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        374.064208984375,
+        487.2018737792969,
+        388.5072326660156
+      ],
+      "text": "non-severe tuberculosis*  TB treatment  recommended  outcomes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        247.03939819335938,
+        386.064208984375,
+        489.74505615234375,
+        400.5072326660156
+      ],
+      "text": "comprised  treatment  (treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        390.3161926269531,
+        158.9263153076172,
+        404.75921630859375
+      ],
+      "text": "Sub-populations:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        247.03939819335938,
+        398.064208984375,
+        478.41290283203125,
+        412.5072326660156
+      ],
+      "text": "of 8 weeks  regimen for drug  success,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        406.568115234375,
+        519.9246826171875,
+        424.5072326660156
+      ],
+      "text": "•\tchildren living with HIV;  of HRZ(E),  susceptible TB  treatment failure,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        422.064208984375,
+        516.7786865234375,
+        437.26312255859375
+      ],
+      "text": "followed by  comprised of  mortality, loss to  •\tchildren with lymph node TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        434.064208984375,
+        485.80487060546875,
+        449.26312255859375
+      ],
+      "text": "8 weeks of HR 8 weeks HRZ(E),  follow-up) (extrathoracic and intrathoracic).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        334.67718505859375,
+        446.064208984375,
+        390.898193359375,
+        460.5072326660156
+      ],
+      "text": "followed by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        450.3161926269531,
+        477.2908935546875,
+        465.51513671875
+      ],
+      "text": "•\tRelapse  Stratify by age:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        334.67718505859375,
+        458.064208984375,
+        405.2191162109375,
+        472.5072326660156
+      ],
+      "text": "16 weeks of HR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        466.568115234375,
+        487.5472717285156,
+        481.76702880859375
+      ],
+      "text": "•\tTreatment  •\tInfants aged 0–12 months;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        438.94488525390625,
+        478.568115234375,
+        487.27117919921875,
+        493.0111389160156
+      ],
+      "text": "adherence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        483.5760192871094,
+        197.51710510253906,
+        498.01904296875
+      ],
+      "text": "•\tChildren aged 1–4 years;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        432.94488525390625,
+        494.8200988769531,
+        508.6496887207031,
+        509.26312255859375
+      ],
+      "text": "•\tAdverse events",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        499.8280029296875,
+        197.51710510253906,
+        514.27099609375
+      ],
+      "text": "•\tChildren aged 5–9 years;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        516.0800170898438,
+        223.35279846191406,
+        530.5230102539062
+      ],
+      "text": "•\tAdolescents aged 10–14 years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        532.3319091796875,
+        225.7947998046875,
+        546.77490234375
+      ],
+      "text": "•\tAdolescents aged 15–19 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.105712890625,
+        372.7861328125,
+        571.6096801757812
+      ],
+      "text": "* Notes: children in whom the diagnosis of non-severe TB was established by a committee.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.9403686523438,
+        526.5639038085938,
+        585.4443359375
+      ],
+      "text": "Non-severe TB is defined as sputum smear-negative TB, extrathoracic lymph node TB, intrathoracic lymph node TB with no significant",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.9403076171875,
+        419.9237976074219,
+        596.4442749023438
+      ],
+      "text": "airway obstruction, or uncomplicated forms of pulmonary TB, confined to one lobe and with no cavities.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "290 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

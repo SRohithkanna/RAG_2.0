@@ -1,0 +1,534 @@
+{
+  "file": "module4",
+  "page": 127,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.1358642578125,
+        81.83369445800781
+      ],
+      "text": "Participants of all ages, including children and adolescents or PLHIV (regardless of CD4 count), diabetes",
+      "font": "SegoeUI-Light",
+      "size": 10.949584007263184,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        444.2776794433594,
+        95.03370666503906
+      ],
+      "text": "(regardless of A1c), substance use disorders and mental illness could be enrolled.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4376831054688,
+        116.73762512207031
+      ],
+      "text": "Individuals with MDR/RR-TB who have had less than 1 month of previous exposure to any of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.2660522460938,
+        129.93763732910156
+      ],
+      "text": "component medicines of the regimen (apart from PZA, where prior exposure is permitted; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4234008789062,
+        143.13758850097656
+      ],
+      "text": "quinolones, where resistance should be excluded), are eligible for treatment with these regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.5022583007812,
+        156.3376007080078
+      ],
+      "text": "Additionally, the treatment programme may enrol children and adolescents who do not have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4155883789062,
+        169.53773498535156
+      ],
+      "text": "bacteriological confirmation of TB or defined resistance patterns but are deemed to have a high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.3936157226562,
+        182.73768615722656
+      ],
+      "text": "likelihood of MDR/RR-TB, based on clinical signs and symptoms of TB and a history of contact with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        221.0952911376953,
+        195.9376983642578
+      ],
+      "text": "a confirmed MDR/RR-TB patient.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.33863830566406,
+        213.38893127441406,
+        227.99862670898438
+      ],
+      "text": "Drug susceptibility testing",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.2064971923828,
+        527.4677734375,
+        249.6494903564453
+      ],
+      "text": "A WHO-recommended rapid molecular test to confirm FQ susceptibility should be conducted before",
+      "font": "SegoeUI-Light",
+      "size": 10.986541748046875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        248.40650939941406,
+        527.4409790039062,
+        262.8495178222656
+      ],
+      "text": "starting the treatment with the modified 9-month regimens. In settings where DST for other drugs in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.60650634765625,
+        527.4453735351562,
+        276.0495300292969
+      ],
+      "text": "the regimen can be done and resistance to any of the component medicines of the regimen (apart",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.8065185546875,
+        466.1534423828125,
+        289.2495422363281
+      ],
+      "text": "from PZA, discussed separately below) is confirmed, the regimens should not be used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.5103759765625,
+        527.3947143554688,
+        310.9533996582031
+      ],
+      "text": "The endTB trial data suggested reduced efficacy among patients with PZA resistance. However, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.71038818359375,
+        527.4353637695312,
+        324.1534118652344
+      ],
+      "text": "best estimates suggested higher success rates than with the longer regimen, even in cases of PZA",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.910400390625,
+        527.5654296875,
+        337.3534240722656
+      ],
+      "text": "resistance. Therefore, the GDG suggested that PZA can be dropped from the modified 9-month",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.11041259765625,
+        527.59130859375,
+        350.5534362792969
+      ],
+      "text": "regimens if resistance to PZA is reliably confirmed or if there are PZA-associated AEs. However, if PZA",
+      "font": "SegoeUI-Light",
+      "size": 10.98569107055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.3103942871094,
+        527.4322509765625,
+        363.75341796875
+      ],
+      "text": "is discontinued, the rest of the regimen should continue as prescribed. In settings where PZA testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.5104064941406,
+        452.9435119628906,
+        376.95343017578125
+      ],
+      "text": "is not widely available, PZA should be maintained unless there are PZA-related AEs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.35430908203125,
+        305.2585754394531,
+        409.0143127441406
+      ],
+      "text": "Adverse events and drug–drug interactions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.2221984863281,
+        527.1956787109375,
+        430.66522216796875
+      ],
+      "text": "For patients on treatment with modified 9-month regimens, it is essential to undertake active TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.4222106933594,
+        527.4267578125,
+        443.865234375
+      ],
+      "text": "drug-safety monitoring and management for close monitoring and adequately managing AEs and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.6221923828125,
+        320.99847412109375,
+        457.0652160644531
+      ],
+      "text": "preventing complications from drug–drug interactions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.3262023925781,
+        527.3883056640625,
+        478.76922607421875
+      ],
+      "text": "An important AE in patients using the modified 9-month regimens is hepatoxicity in relation to PZA.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.5262145996094,
+        527.4736938476562,
+        491.96923828125
+      ],
+      "text": "In the endTB trial, screening for elevation of liver enzymes was performed monthly throughout",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.7261962890625,
+        527.6004028320312,
+        505.1692199707031
+      ],
+      "text": "treatment, regardless of symptoms. Elevation in liver enzymes, with or without accompanying",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.92620849609375,
+        527.4288330078125,
+        518.3692016601562
+      ],
+      "text": "symptoms, occurred frequently during treatment. Grade 3 hepatotoxicity was defined in the trial as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.126220703125,
+        527.3783569335938,
+        531.5692138671875
+      ],
+      "text": "ALT (SGPT) or AST (SGOT) levels greater than five times but less than or equal to 10 times the upper",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.326171875,
+        527.3849487304688,
+        544.7691650390625
+      ],
+      "text": "limit of normal. Specifically, transient Grade 3 or higher hepatotoxicity occurred in 18% of patients in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.5262451171875,
+        527.154296875,
+        557.96923828125
+      ],
+      "text": "BLMZ, 16% in BLLfxCZ and 8.7% in BDLLfxZ in the safety population of the endTB trial. Imprecision in",
+      "font": "SegoeUI-Light",
+      "size": 10.995099067687988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.7261962890625,
+        527.197265625,
+        571.169189453125
+      ],
+      "text": "these estimates meant that it was not possible to draw any firm conclusions about differences between",
+      "font": "SegoeUI-Light",
+      "size": 10.9617338180542,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.9262084960938,
+        527.2645263671875,
+        584.3692016601562
+      ],
+      "text": "regimens. During the trial, suspension of PZA was recommended when liver enzyme levels exceeded",
+      "font": "SegoeUI-Light",
+      "size": 10.994548797607422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.126220703125,
+        527.3361206054688,
+        597.5692138671875
+      ],
+      "text": "five times the upper limit of the upper limit normal (5×ULN). PZA was permanently discontinued in an",
+      "font": "SegoeUI-Light",
+      "size": 10.980732917785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.326171875,
+        527.3849487304688,
+        610.7691650390625
+      ],
+      "text": "average of 17% of patients, with no significant differences among the three regimens. Most patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.5261840820312,
+        527.4420166015625,
+        623.9691772460938
+      ],
+      "text": "receiving the modified 9-month regimens received 39 weeks of PZA, and patients who permanently",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.7261962890625,
+        527.5015258789062,
+        637.169189453125
+      ],
+      "text": "discontinued PZA received the drug for between 85 and 112 days, again with minimal variation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.9262084960938,
+        175.58938598632812,
+        650.3692016601562
+      ],
+      "text": "between the regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.7700805664062,
+        455.7985534667969,
+        682.4301147460938
+      ],
+      "text": "Regimen composition, dosing of component medicines and frequency",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.6380004882812,
+        527.6047973632812,
+        704.0809936523438
+      ],
+      "text": "The short names of the regimens with one-letter abbreviations for the drugs, the three-letter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.72802734375,
+        527.41650390625,
+        717.281005859375
+      ],
+      "text": "Table 2.10 abbreviations and compositions of the modified 9-month regimens are given in  . All of",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.0380249023438,
+        527.4068603515625,
+        730.4810180664062
+      ],
+      "text": "the modified 9-month regimens have bedaquiline, linezolid, pyrazinamide and a fluoroquinolone as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.238037109375,
+        275.9050598144531,
+        743.6810302734375
+      ],
+      "text": "core, with one or two other additional drugs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  113",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

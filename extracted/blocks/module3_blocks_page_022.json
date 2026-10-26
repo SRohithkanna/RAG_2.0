@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 22,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.9635620117188,
+        82.30619812011719
+      ],
+      "text": "agents, and they provide mutation-specific data for common variants. Testing platforms have",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        526.9150390625,
+        97.80619812011719
+      ],
+      "text": "been designed for a reference laboratory setting and are most applicable to high TB burden",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.16120147705078,
+        307.4281005859375,
+        113.30619812011719
+      ],
+      "text": "countries. Results can be obtained in 5 hours  . (5)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        125.14878845214844,
+        309.68170166015625,
+        139.23678588867188
+      ],
+      "text": "Targeted next-generation sequencing tests",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.90380859375,
+        526.9589233398438,
+        163.04881286621094
+      ],
+      "text": "Tests based on targeted next-generation sequencing (NGS) are used for follow-on detection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.40380859375,
+        527.0028686523438,
+        178.54881286621094
+      ],
+      "text": "of resistance to a broad range of anti-TB drugs after the initial detection of TB or of rifampicin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.90380859375,
+        526.9644775390625,
+        194.04881286621094
+      ],
+      "text": "resistance. This class of tests is based on technology that combines amplification of selected",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.40380859375,
+        527.0249633789062,
+        209.54881286621094
+      ],
+      "text": "genes with NGS to detect resistance to many drugs with a single test. Because targeted NGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.90380859375,
+        526.8866577148438,
+        225.04881286621094
+      ],
+      "text": "can interrogate entire genes to identify specific mutations associated with resistance, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.40380859375,
+        526.8997802734375,
+        240.54881286621094
+      ],
+      "text": "accuracy may be better than that of existing WHO-recommended rapid diagnostic tests (WRDs).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.945565223693848,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.90380859375,
+        526.9590454101562,
+        256.048828125
+      ],
+      "text": "In addition, new tests based on targeted NGS can detect resistance to new and repurposed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.40380859375,
+        526.9810180664062,
+        271.548828125
+      ],
+      "text": "drugs that are not currently included in any other molecular assays. Hence, this class of tests",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.90380859375,
+        526.853515625,
+        287.048828125
+      ],
+      "text": "offers great potential to provide comprehensive resistance detection matched to modern",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.40380859375,
+        171.37208557128906,
+        302.548828125
+      ],
+      "text": "treatment regimens.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.8734130859375,
+        245.6393280029297,
+        331.3094177246094
+      ],
+      "text": "1.3.4 Tests for TB infection",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.5299987792969,
+        231.417724609375,
+        356.6180114746094
+      ],
+      "text": "Mtb antigen-based skin tests",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.284912109375,
+        526.9798583984375,
+        380.429931640625
+      ],
+      "text": "antigen-based skin tests (TBSTs) are used for the indirect detection of TB infection. TBSTs  Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.784912109375,
+        526.8817749023438,
+        395.929931640625
+      ],
+      "text": "rely on intradermal injection of  -specific antigens; the antigens elicit a localized skin reaction  Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.945866584777832,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.284912109375,
+        526.9883422851562,
+        411.429931640625
+      ],
+      "text": "in infected individuals that is detected by measurement of a local induration 48–72 hours after",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.983938217163086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.784912109375,
+        526.9699096679688,
+        426.929931640625
+      ],
+      "text": "administration. Although these tests continue to rely on patient injection and return visits for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.284912109375,
+        526.9580688476562,
+        442.429931640625
+      ],
+      "text": "result interpretation, they are more specific than the WHO-recommended tuberculin skin tests",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.984238624572754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.784912109375,
+        101.96308898925781,
+        457.929931640625
+      ],
+      "text": "(TSTs).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.7724914550781,
+        254.45420837402344,
+        483.8605041503906
+      ],
+      "text": "Interferon-gamma release assays",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.5274963378906,
+        527.1461791992188,
+        507.6725158691406
+      ],
+      "text": "Interferon-gamma release assays (IGRAs) are in vitro blood-based tests that are used to indirectly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.0274658203125,
+        527.0140991210938,
+        523.1724853515625
+      ],
+      "text": "test for TB infection. They do this by measuring either the amount of interferon-gamma that is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995849609375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.5274658203125,
+        526.9498901367188,
+        538.6724853515625
+      ],
+      "text": "released by lymphocytes in whole blood after exposure to  -specific antigens or the number  Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97216510772705,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.0274658203125,
+        526.558349609375,
+        554.1724853515625
+      ],
+      "text": "of T-lymphocytes within the whole blood that produce interferon-gamma. IGRA testing requires",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.5274658203125,
+        526.965087890625,
+        569.6724853515625
+      ],
+      "text": "days to perform owing to the blood incubation steps and it can be challenging to perform",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.0274658203125,
+        527.0765991210938,
+        585.1724853515625
+      ],
+      "text": "among patients for whom phlebotomy can be difficult (e.g. children); however, this is the only",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.998950004577637,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.5275268554688,
+        524.5250244140625,
+        600.6725463867188
+      ],
+      "text": "type of test for TB infection in which the results are not affected by prior bacille Calmette–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.0275268554688,
+        526.9259643554688,
+        616.1725463867188
+      ],
+      "text": "Guérin (BCG) vaccination for TB. Hence, IGRAs are a promising alternative for detection of TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.5275268554688,
+        340.8240966796875,
+        631.6725463867188
+      ],
+      "text": "infection in settings with high rates of BCG vaccination.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.5150146484375,
+        183.1453399658203,
+        657.6029663085938
+      ],
+      "text": "Tuberculin skin tests",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.2698974609375,
+        526.966552734375,
+        681.4149169921875
+      ],
+      "text": "TSTs were the first class of tests to be recommended for detection of TB infection; they rely",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.7698974609375,
+        526.96142578125,
+        696.9149169921875
+      ],
+      "text": "on intradermal injection of a mix of antigens to  , non-tuberculous mycobacteria and the  Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.2698974609375,
+        526.9258422851562,
+        712.4149169921875
+      ],
+      "text": "BCG vaccine formulation, followed by detection of a localized skin induration-based response",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.7698974609375,
+        527.0139770507812,
+        727.9149169921875
+      ],
+      "text": "after 48–72 hours. As with the TBSTs, these tests can facilitate TB infection testing in children",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        730.2698974609375,
+        526.6729125976562,
+        743.4149169921875
+      ],
+      "text": "and other patients for whom phlebotomy is challenging, but they may also produce false",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.7698974609375,
+        527.2233276367188,
+        758.9149169921875
+      ],
+      "text": "positive results in people infected with mycobacteria other than TB and in those who are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        761.2698974609375,
+        149.61480712890625,
+        774.4149169921875
+      ],
+      "text": "BCG vaccinated.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.05839920043945,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "6 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

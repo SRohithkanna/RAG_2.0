@@ -1,0 +1,510 @@
+{
+  "file": "module6",
+  "page": 53,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.27239227294922,
+        502.7436828613281,
+        87.62739562988281
+      ],
+      "text": "Timing of ART initiation for people living with HIV diagnosed with drug-susceptible TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        527.4179077148438,
+        101.82539367675781
+      ],
+      "text": "This recommendation was informed by a systematic review and meta-analysis which identified nine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.4464721679688,
+        115.82539367675781
+      ],
+      "text": "trials that compared earlier ART to later ART initiation in people with HIV and TB. Four studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4092407226562,
+        129.8253936767578
+      ],
+      "text": "provided information on ART initiation within two weeks of starting TB treatment and between two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        386.62548828125,
+        143.8253936767578
+      ],
+      "text": "and eight weeks from the commencement of TB treatment  . (105-108)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.416748046875,
+        171.8253936767578
+      ],
+      "text": "Moderate-certainty evidence indicates that mortality may be similar with ART initiated within two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4410400390625,
+        185.8253936767578
+      ],
+      "text": "weeks of TB treatment versus ART initiated between two and eight weeks from the start of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.4300537109375,
+        199.8253936767578
+      ],
+      "text": "treatment (risk difference = –0.01; 95% CI: –0.06 to 0.04), which can be interpreted as one less death",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        437.7294006347656,
+        213.8253936767578
+      ],
+      "text": "per 100 people, ranging from 6 fewer deaths to 4 more deaths per 100 people.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.4238891601562,
+        241.8253936767578
+      ],
+      "text": "In a sub-analysis of people with a CD4 cell count less than or equal to 50 cells/mm , low- certainty  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.4520263671875,
+        255.8253936767578
+      ],
+      "text": "evidence indicated that mortality may not differ (3 fewer deaths per 100 people, 95% CI: from 10",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.4232788085938,
+        269.8254089355469
+      ],
+      "text": "fewer to 4 more, per 100 people) with ART initiated within two weeks of TB treatment versus between",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4215698242188,
+        283.8254089355469
+      ],
+      "text": "two weeks and eight weeks. Among the subgroup with CD4 cell count greater than 50 cells/mm ,  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4442138671875,
+        297.8254089355469
+      ],
+      "text": "low-certainty evidence indicated that mortality may be similar with earlier ART initiation (2 fewer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4466552734375,
+        311.8254089355469
+      ],
+      "text": "deaths per 100, 95% CI: from 7 fewer to 4 more deaths per 100 people) with ART initiated within two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        380.3829650878906,
+        325.8254089355469
+      ],
+      "text": "weeks of TB treatment versus between two weeks and eight weeks.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4189453125,
+        353.825439453125
+      ],
+      "text": "Low-certainty evidence indicated that AIDS-defining events (for all CD4 cell counts) may be similar",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.4146118164062,
+        367.825439453125
+      ],
+      "text": "with ART initiation within two weeks of TB treatment initiation versus ART initiation between two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.4212036132812,
+        381.825439453125
+      ],
+      "text": "and eight weeks from TB treatment initiation (2 fewer AIDS-defining events per 100 people, 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        524.43359375,
+        395.825439453125
+      ],
+      "text": "CI: 6 fewer to 3 more per 100 people). Among people living with HIV with any CD4 cell count, low-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.4365844726562,
+        409.825439453125
+      ],
+      "text": "certainty evidence indicated that viral load suppression also may not differ between people initiating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.4189453125,
+        423.825439453125
+      ],
+      "text": "ART within two weeks versus those initiating ART between two and eight weeks from TB treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.42138671875,
+        437.825439453125
+      ],
+      "text": "initiation (1 person with viral load suppression less per 100 people, 95% CI: from 3 fewer to 6 more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        149.64810180664062,
+        451.825439453125
+      ],
+      "text": "per 100 people).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.423095703125,
+        479.825439453125
+      ],
+      "text": "Very low-certainty evidence indicated that the incidence of IRIS events may be increased among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4133911132812,
+        493.825439453125
+      ],
+      "text": "people offered ART initiation within two weeks from TB treatment initiation versus those initiating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4693603515625,
+        507.825439453125
+      ],
+      "text": "ART between two and eight weeks from TB treatment initiation (7 more events per 100 people,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.4080200195312,
+        521.825439453125
+      ],
+      "text": "95% CI: 3 fewer events to 17 more events per 100 people). However, mortality related to IRIS was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        130.1693115234375,
+        535.825439453125
+      ],
+      "text": "uncommon.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.425537109375,
+        563.825439453125
+      ],
+      "text": "Therefore, based on the public health approach, and after weighing up the evidence on the potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.4212646484375,
+        577.825439453125
+      ],
+      "text": "harms of mortality, AIDS-defining events and IRIS against the benefits of early start of ART among all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.4135131835938,
+        591.8253784179688
+      ],
+      "text": "people living with HIV, WHO now recommends that people with HIV and drug-susceptible TB should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        450.35736083984375,
+        605.8253784179688
+      ],
+      "text": "start ART within two weeks of TB treatment initiation, regardless of CD4 cell-count.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4300537109375,
+        633.8253784179688
+      ],
+      "text": "Among people living with HIV with TB meningitis, immediate ART is associated with more severe",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.3871459960938,
+        647.8253784179688
+      ],
+      "text": "adverse events compared with initiating ART two months after the start of TB treatment. The expert",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.447509765625,
+        661.8253784179688
+      ],
+      "text": "opinion of the GDG was that ART should be delayed by at least four weeks (and initiated within eight",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        429.064697265625,
+        675.8253784179688
+      ],
+      "text": "weeks) after TB treatment is initiated for TB meningitis, due to safety concerns.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4608764648438,
+        703.8253784179688
+      ],
+      "text": "Whilst there have been concerns about the possible increased risk of IRIS in DTG-based regimens, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4244995117188,
+        717.8253784179688
+      ],
+      "text": "INSPIRING trial   reported that the incidence of IRIS was similar between the DTG and efavirenz  (109)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.4146118164062,
+        731.8253784179688
+      ],
+      "text": "arms (in this small trial of safety and efficacy of rifampicin-based TB treatment and ART initiated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.4288330078125,
+        745.8253784179688
+      ],
+      "text": "within eight weeks). These findings were consistent with the 2019 network meta-analysis undertaken",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        259.5259094238281,
+        801.2599487304688,
+        553.4072875976562,
+        811.8897705078125
+      ],
+      "text": "35 3. ﻿ Reduce the burden of HIV among people with presumptive or diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "file": "Guidance for national",
+  "page": 25,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        83.1881103515625,
+        347.8393859863281,
+        96.53961181640625
+      ],
+      "text": "(Strong recommendation, low quality of evidence)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        107.92459106445312,
+        513.47412109375,
+        121.3450927734375
+      ],
+      "text": "Rapid advice: treatment of tuberculosis in children. Source:   Geneva, World Health",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        121.7935791015625,
+        321.4699401855469,
+        135.14508056640625
+      ],
+      "text": "Organization, 2010 (WHO/HTM/TB/2010.13)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        146.97463989257812,
+        338.94329833984375,
+        163.56463623046875
+      ],
+      "text": "Chapter 5. Prevention of TB in children",
+      "font": "FrutigerLTStd-Bold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        173.4886016845703,
+        174.40338134765625,
+        189.36459350585938
+      ],
+      "text": "BCG vaccination",
+      "font": "Arial-ItalicMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        216.6457977294922,
+        199.28659057617188,
+        244.14578247070312,
+        213.83958435058594
+      ],
+      "text": "(new)",
+      "font": "Arial-ItalicMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        199.5120849609375,
+        213.58639526367188,
+        213.13958740234375
+      ],
+      "text": "Recommendation 15 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        224.3121337890625,
+        510.1734619140625,
+        237.93963623046875
+      ],
+      "text": "In settings where TB is highly endemic or where there is high risk of expo-",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        238.11212158203125,
+        477.7778015136719,
+        251.7396240234375
+      ],
+      "text": "sure to TB, a single dose of BCG vaccine should be given to all infants",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        263.18798828125,
+        457.8704833984375,
+        276.54510498046875
+      ],
+      "text": ") (Recommendation strength and evidence quality have not been graded 1",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88848876953125,
+        287.99346923828125,
+        513.427001953125,
+        301.344970703125
+      ],
+      "text": "Source: Revised BCG vaccination guidelines for infants at risk for HIV infection.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88848876953125,
+        301.7244567871094,
+        351.9210510253906,
+        315.14495849609375
+      ],
+      "text": "Weekly Epidemiological Record , 2007, 82:193-196",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.6457977294922,
+        326.0865173339844,
+        244.14578247070312,
+        340.6395263671875
+      ],
+      "text": "(new)",
+      "font": "Arial-ItalicMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04048919677734,
+        326.3229675292969,
+        213.58749389648438,
+        339.9504699707031
+      ],
+      "text": "Recommendation 16 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        351.11199951171875,
+        513.4393310546875,
+        364.739501953125
+      ],
+      "text": "In children who are known to be HIV-infected, BCG vaccine should not be",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        364.9119873046875,
+        132.92738342285156,
+        378.53948974609375
+      ],
+      "text": "given",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        389.9934997558594,
+        460.5394287109375,
+        403.3450012207031
+      ],
+      "text": "(Recommendation strength and evidence quality have not been graded1)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        414.79901123046875,
+        513.4279174804688,
+        428.1505126953125
+      ],
+      "text": "Source: Revised BCG vaccination guidelines for infants at risk for HIV infection.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        428.5299987792969,
+        351.9219665527344,
+        441.95050048828125
+      ],
+      "text": "Weekly Epidemiological Record , 2007, 82:193-196",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.6457977294922,
+        452.8865051269531,
+        244.14578247070312,
+        467.43951416015625
+      ],
+      "text": "(new)",
+      "font": "Arial-ItalicMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04139709472656,
+        453.1285095214844,
+        213.58839416503906,
+        466.7560119628906
+      ],
+      "text": "Recommendation 17 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        477.9120178222656,
+        513.4163208007812,
+        491.5395202636719
+      ],
+      "text": "In infants whose HIV status is unknown and who are born to HIV-positive",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        491.7120056152344,
+        513.416259765625,
+        505.3395080566406
+      ],
+      "text": "mothers and who lack symptoms suggestive of HIV, BCG vaccine should be",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        505.51202392578125,
+        296.50341796875,
+        519.1395263671875
+      ],
+      "text": "given after considering local factors",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        530.5880126953125,
+        457.8704833984375,
+        543.9450073242188
+      ],
+      "text": ") (Recommendation strength and evidence quality have not been graded 1",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88848876953125,
+        555.3934936523438,
+        513.427001953125,
+        568.7449951171875
+      ],
+      "text": "Source: Revised BCG vaccination guidelines for infants at risk for HIV infection.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88848876953125,
+        569.1245727539062,
+        351.9210510253906,
+        582.5450439453125
+      ],
+      "text": "Weekly Epidemiological Record , 2007, 82:193-196",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04048919677734,
+        593.9300537109375,
+        263.3134765625,
+        607.3505249023438
+      ],
+      "text": "Contact screening and management",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.6457977294922,
+        618.2864990234375,
+        244.14578247070312,
+        632.8395385742188
+      ],
+      "text": "(new)",
+      "font": "Arial-ItalicMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04048919677734,
+        618.5285034179688,
+        213.58749389648438,
+        632.156005859375
+      ],
+      "text": "Recommendation 18 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        643.3121337890625,
+        513.4508056640625,
+        656.9396362304688
+      ],
+      "text": "Clinical evaluation of household and close contacts for active TB should be",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        657.1121215820312,
+        513.4853515625,
+        670.7396240234375
+      ],
+      "text": "done on the basis of their risk for having or developing active TB or for",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        670.912109375,
+        513.4739379882812,
+        684.5396118164062
+      ],
+      "text": "the potential consequences of the disease if it develops. Priority should be",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        684.7120971679688,
+        246.45541381835938,
+        698.339599609375
+      ],
+      "text": "given to contacts who are:",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        704.64453125,
+        356.85137939453125,
+        718.864501953125
+      ],
+      "text": "children with symptoms suggestive of TB; -",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        719.0445556640625,
+        259.3993835449219,
+        733.2645263671875
+      ],
+      "text": "children <5 years of age; -",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        733.4445190429688,
+        513.5594482421875,
+        747.6644897460938
+      ],
+      "text": "children with known or suspected immunocompromising conditions  -",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.03939819335938,
+        747.8445434570312,
+        333.7513732910156,
+        762.0645141601562
+      ],
+      "text": "(especially those living with HIV); and",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.74800109863281,
+        785.518798828125,
+        513.141357421875,
+        797.518798828125
+      ],
+      "text": "The Global Advisory Committee on Vaccine Safety (GACVS) does not use the GRADE methodology for evaluating the  1",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.92520141601562,
+        795.1187744140625,
+        396.6212158203125,
+        807.1187744140625
+      ],
+      "text": "quality of evidence; the BCG-related recommendations will therefore remain ungraded.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        19.762800216674805,
+        805.8439331054688,
+        30.882801055908203,
+        835.8439331054688
+      ],
+      "text": "6",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

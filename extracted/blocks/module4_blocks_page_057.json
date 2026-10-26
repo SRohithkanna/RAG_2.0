@@ -1,0 +1,522 @@
+{
+  "file": "module4",
+  "page": 57,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        479.3246154785156,
+        82.6147232055664
+      ],
+      "text": "Table B. List of recommendations in the 2025 edition, where (a) is a new",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.18668365478516,
+        503.8851013183594,
+        97.01468658447266
+      ],
+      "text": "recommendation based on review of the new evidence and (b) is a reprinted",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.58670806884766,
+        524.2392578125,
+        111.41471099853516
+      ],
+      "text": "recommendation where no new evidence was available or searched for the review",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        127.62023162841797,
+        368.4043884277344,
+        141.97523498535156
+      ],
+      "text": "1. Treatment of drug-resistant TB using 6-month regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        149.2347412109375,
+        486.91754150390625,
+        163.58973693847656
+      ],
+      "text": "1.1 The 6-month bedaquiline, pretomanid, linezolid and moxifloxacin (BPaLM)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        161.2347412109375,
+        336.3097839355469,
+        175.58973693847656
+      ],
+      "text": "regimen for MDR/RR-TB and pre-XDR-TB (b)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        177.59669494628906,
+        504.71490478515625,
+        192.03968811035156
+      ],
+      "text": "WHO suggests the use of the 6-month treatment regimen composed of bedaquiline,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        189.59669494628906,
+        519.7384033203125,
+        204.03968811035156
+      ],
+      "text": "pretomanid, linezolid (600 mg) and moxifloxacin (BPaLM) rather than 9-month or longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        201.59669494628906,
+        323.8212890625,
+        216.03968811035156
+      ],
+      "text": "(18-month) regimens in MDR/RR-TB patients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        216.57264709472656,
+        389.42144775390625,
+        232.2366485595703
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        239.35333251953125,
+        495.2756042480469,
+        253.7083282470703
+      ],
+      "text": "1.2 The 6-month bedaquiline, delamanid, linezolid, levofloxacin and clofazimine",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        251.35333251953125,
+        222.1068572998047,
+        265.70831298828125
+      ],
+      "text": "(BDLLfxC) regimen (a)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        267.7152099609375,
+        495.446533203125,
+        282.1582336425781
+      ],
+      "text": "WHO suggests the use of a 6-month treatment regimen composed of bedaquiline,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        279.7152099609375,
+        504.26177978515625,
+        294.1582336425781
+      ],
+      "text": "delamanid, linezolid (600 mg), levofloxacin, and clofazimine (BDLLfxC) in MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        291.7152099609375,
+        350.2578125,
+        306.1582336425781
+      ],
+      "text": "patients with or without fluoroquinolone resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        306.69122314453125,
+        389.42108154296875,
+        322.355224609375
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        329.4718322753906,
+        368.4043884277344,
+        343.8268127441406
+      ],
+      "text": "2. Treatment of drug-resistant TB using 9-month regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        351.08642578125,
+        358.1247863769531,
+        365.44140625
+      ],
+      "text": "2.1 The 9-month all-oral regimen for MDR/RR-TB (b)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        367.4483947753906,
+        511.2524108886719,
+        381.89141845703125
+      ],
+      "text": "WHO suggests the use of the 9-month all-oral regimen rather than longer (18-month)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        379.4483947753906,
+        510.5653991699219,
+        393.89141845703125
+      ],
+      "text": "regimens in patients with MDR/RR-TB and in whom resistance to fluoroquinolones has",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        391.4483947753906,
+        185.5792999267578,
+        405.89141845703125
+      ],
+      "text": "been excluded.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        406.42431640625,
+        389.4210510253906,
+        422.08831787109375
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        429.20501708984375,
+        409.9515686035156,
+        443.55999755859375
+      ],
+      "text": "2.2 The modified 9-month all-oral regimens for MDR/RR-TB (a)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        445.4569091796875,
+        502.4759826660156,
+        460.0099182128906
+      ],
+      "text": "BLMZ, BLLfxCZ and BDLLfxZ WHO suggests using the 9-month all-oral regimens ( )",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        457.56689453125,
+        491.3108215332031,
+        472.0099182128906
+      ],
+      "text": "over currently recommended longer (>18 months) regimens in patients with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        469.56689453125,
+        511.5611267089844,
+        484.0099182128906
+      ],
+      "text": "RR-TB and in whom resistance to fluoroquinolones has been excluded. Amongst these",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        481.56689453125,
+        514.1463012695312,
+        496.0099182128906
+      ],
+      "text": "regimens, using BLMZ is suggested over using BLLfxCZ, and BLLfxCZ is suggested over",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        493.56689453125,
+        152.8630828857422,
+        508.0099182128906
+      ],
+      "text": "BDLLfxZ.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        508.54290771484375,
+        389.4183654785156,
+        524.2069091796875
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        531.323486328125,
+        472.7876892089844,
+        545.87646484375
+      ],
+      "text": "2.3 WHO suggests against using 9-month DCLLfxZ or DCMZ regimens compared",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        543.4334716796875,
+        463.1124267578125,
+        557.87646484375
+      ],
+      "text": "with currently recommended longer (>18 months) regimens in patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        555.4334716796875,
+        301.26904296875,
+        569.87646484375
+      ],
+      "text": "fluoroquinolone-susceptible MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        570.4095458984375,
+        389.421875,
+        586.0735473632812
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        593.1901245117188,
+        374.1353759765625,
+        607.5451049804688
+      ],
+      "text": "3. Treatment of drug-resistant TB using longer regimens (b)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        614.8046875,
+        487.1086120605469,
+        629.357666015625
+      ],
+      "text": "3.1 In multidrug- or rifampicin-resistant tuberculosis (MDR/RR-TB) patients on longer",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        626.9146728515625,
+        512.9662475585938,
+        641.357666015625
+      ],
+      "text": "regimens, all three Group A agents and at least one Group B agent should be included",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        638.9146728515625,
+        519.7200317382812,
+        653.357666015625
+      ],
+      "text": "to ensure that treatment starts with at least four TB agents likely to be effective, and that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        650.9146728515625,
+        516.1455078125,
+        665.357666015625
+      ],
+      "text": "at least three agents are included for the rest of the treatment if bedaquiline is stopped.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        662.9146728515625,
+        505.45758056640625,
+        677.357666015625
+      ],
+      "text": "If only one or two Group A agents are used, both Group B agents are to be included.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        674.9146728515625,
+        509.0901184082031,
+        689.357666015625
+      ],
+      "text": "If the regimen cannot be composed with agents from Groups A and B alone, Group C",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        686.9146728515625,
+        265.6852111816406,
+        701.357666015625
+      ],
+      "text": "agents are added to complete it.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        701.890625,
+        389.4216613769531,
+        717.5546264648438
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        352.018798828125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Introduction 43",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

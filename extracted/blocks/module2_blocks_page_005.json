@@ -1,0 +1,822 @@
+{
+  "file": "module2",
+  "page": 5,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        60.59532928466797,
+        194.98770141601562,
+        102.19532775878906
+      ],
+      "text": "Contents",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.6002960205078,
+        177.94210815429688,
+        151.26028442382812
+      ],
+      "text": "Acknowledgements",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.96969604492188,
+        135.6002960205078,
+        181.2696990966797,
+        151.26028442382812
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        518.3214721679688,
+        135.6002960205078,
+        524.4054565429688,
+        151.26028442382812
+      ],
+      "text": "v",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        158.5042266845703,
+        225.7897186279297,
+        174.16421508789062
+      ],
+      "text": "Abbreviations and acronyms",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        225.79969787597656,
+        158.5042266845703,
+        229.09970092773438,
+        174.16421508789062
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        508.9172058105469,
+        158.5042266845703,
+        524.3972778320312,
+        174.16421508789062
+      ],
+      "text": "viii",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.40809631347656,
+        130.03810119628906,
+        197.06808471679688
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        130.06919860839844,
+        181.40809631347656,
+        133.36920166015625,
+        197.06808471679688
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        515.2628784179688,
+        181.40809631347656,
+        524.4069213867188,
+        197.06808471679688
+      ],
+      "text": "ix",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.31214904785156,
+        175.8157196044922,
+        219.97213745117188
+      ],
+      "text": "Executive summary",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        175.81919860839844,
+        204.31214904785156,
+        179.11920166015625,
+        219.97213745117188
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        517.747314453125,
+        204.31214904785156,
+        524.4072875976562,
+        219.97213745117188
+      ],
+      "text": "1",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.2160186767578,
+        151.5241241455078,
+        242.87600708007812
+      ],
+      "text": "1. Introduction",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.5438995361328,
+        227.2160186767578,
+        154.84390258789062,
+        242.87600708007812
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        517.747314453125,
+        227.2160186767578,
+        524.4072875976562,
+        242.87600708007812
+      ],
+      "text": "5",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        249.95339965820312,
+        158.00973510742188,
+        263.6033935546875
+      ],
+      "text": "1.1\t Background",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.00140380859375,
+        249.95339965820312,
+        160.87840270996094,
+        263.6033935546875
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        249.95339965820312,
+        524.4088134765625,
+        263.6033935546875
+      ],
+      "text": "5",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        268.2227478027344,
+        395.4640808105469,
+        281.87274169921875
+      ],
+      "text": "1.2\t Definition and objectives of systematic screening for TB disease",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.4562072753906,
+        268.2227478027344,
+        398.3332214355469,
+        281.87274169921875
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        268.2227478027344,
+        524.4088134765625,
+        281.87274169921875
+      ],
+      "text": "5",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        286.4920349121094,
+        222.10903930664062,
+        300.14202880859375
+      ],
+      "text": "1.3\t Scope of the 2021 update",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.10369873046875,
+        286.4920349121094,
+        224.98069763183594,
+        300.14202880859375
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        286.4920349121094,
+        524.4088134765625,
+        300.14202880859375
+      ],
+      "text": "6",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        304.7613220214844,
+        261.1196594238281,
+        318.41131591796875
+      ],
+      "text": "1.4\t Rationale for the guideline update",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        261.11468505859375,
+        304.7613220214844,
+        263.99169921875,
+        318.41131591796875
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        304.7613220214844,
+        524.4088134765625,
+        318.41131591796875
+      ],
+      "text": "8",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        323.0306091308594,
+        262.0741271972656,
+        336.68060302734375
+      ],
+      "text": "1.5\t Objectives of the guideline update",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        262.06829833984375,
+        323.0306091308594,
+        264.9453125,
+        336.68060302734375
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        323.0306091308594,
+        524.4088134765625,
+        336.68060302734375
+      ],
+      "text": "8",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        341.2999267578125,
+        176.01617431640625,
+        354.9499206542969
+      ],
+      "text": "1.6\t Target audience",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.00210571289062,
+        341.2999267578125,
+        178.8791046142578,
+        354.9499206542969
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.7493286132812,
+        341.2999267578125,
+        524.4088134765625,
+        354.9499206542969
+      ],
+      "text": "9",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.4049987792969,
+        465.6924743652344,
+        381.06500244140625
+      ],
+      "text": "2. Recommendations for systematic screening for TB disease in targeted",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.80499267578125,
+        135.69009399414062,
+        395.4649963378906
+      ],
+      "text": "populations",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        135.70599365234375,
+        379.80499267578125,
+        139.00599670410156,
+        395.4649963378906
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        511.085205078125,
+        379.80499267578125,
+        524.4051513671875,
+        395.4649963378906
+      ],
+      "text": "11",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        402.54241943359375,
+        389.57568359375,
+        416.1924133300781
+      ],
+      "text": "2.1\t Systematic screening for TB disease in the general population",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.54998779296875,
+        402.54241943359375,
+        392.427001953125,
+        416.1924133300781
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        402.54241943359375,
+        524.4080810546875,
+        416.1924133300781
+      ],
+      "text": "13",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        420.81170654296875,
+        489.1158142089844,
+        434.4617004394531
+      ],
+      "text": "2.2\t Systematic screening for TB disease among people with structural risk factors for TB",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        489.11029052734375,
+        420.81170654296875,
+        491.9873046875,
+        434.4617004394531
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        420.81170654296875,
+        524.4080810546875,
+        434.4617004394531
+      ],
+      "text": "15",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        439.0810241699219,
+        406.7956848144531,
+        452.73101806640625
+      ],
+      "text": "2.3\t Systematic screening for TB disease among people living with HIV",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        406.7815856933594,
+        439.0810241699219,
+        409.6585998535156,
+        452.73101806640625
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        439.0810241699219,
+        524.4080810546875,
+        452.73101806640625
+      ],
+      "text": "16",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        457.3503112792969,
+        484.72265625,
+        471.00030517578125
+      ],
+      "text": "2.4\t Systematic screening for TB disease among household and other close contacts of",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.86609649658203,
+        469.9503173828125,
+        228.72955322265625,
+        483.6003112792969
+      ],
+      "text": "individuals with TB disease",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        228.73280334472656,
+        469.9503173828125,
+        231.60980224609375,
+        483.6003112792969
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        469.9503173828125,
+        524.4080810546875,
+        483.6003112792969
+      ],
+      "text": "16",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        488.2196044921875,
+        474.75164794921875,
+        501.8695983886719
+      ],
+      "text": "2.5\t Systematic screening for TB disease in prisons and other penitentiary institutions",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        474.74969482421875,
+        488.2196044921875,
+        477.626708984375,
+        501.8695983886719
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        488.2196044921875,
+        524.4080810546875,
+        501.8695983886719
+      ],
+      "text": "18",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        506.4888000488281,
+        493.87542724609375,
+        520.1387939453125
+      ],
+      "text": "2.6\t Systematic screening for TB disease among miners and others exposed to silica dust",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        493.8731994628906,
+        506.4888000488281,
+        496.7502136230469,
+        520.1387939453125
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        506.4888000488281,
+        524.4080810546875,
+        520.1387939453125
+      ],
+      "text": "19",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        524.758056640625,
+        502.976806640625,
+        538.4080810546875
+      ],
+      "text": "2.7\t Systematic screening for TB disease among people attending health care services who",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.86609649658203,
+        537.3580932617188,
+        241.9102325439453,
+        551.0081176757812
+      ],
+      "text": "have clinical risk factors for TB",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        241.9091033935547,
+        537.3580932617188,
+        244.78610229492188,
+        551.0081176757812
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.089111328125,
+        537.3580932617188,
+        524.4080810546875,
+        551.0081176757812
+      ],
+      "text": "19",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.4631958007812,
+        448.47613525390625,
+        577.1232299804688
+      ],
+      "text": "3. Recommendations for tools for systematic screening for TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        448.4910888671875,
+        561.4631958007812,
+        451.79107666015625,
+        577.1232299804688
+      ],
+      "text": "\b",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        511.085205078125,
+        561.4631958007812,
+        524.4051513671875,
+        577.1232299804688
+      ],
+      "text": "23",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        584.2005615234375,
+        503.43463134765625,
+        597.8505859375
+      ],
+      "text": "3.1\t Tools for screening for TB disease among the general population and high-risk groups",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        503.4298095703125,
+        584.2005615234375,
+        506.30682373046875,
+        597.8505859375
+      ],
+      "text": "\b",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        506.30682373046875,
+        584.2005615234375,
+        524.4080810546875,
+        597.8505859375
+      ],
+      "text": "23",
+      "font": "SegoeUI",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.4603271484375,
+        801.0170288085938,
+        552.38037109375,
+        811.52099609375
+      ],
+      "text": "iii",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

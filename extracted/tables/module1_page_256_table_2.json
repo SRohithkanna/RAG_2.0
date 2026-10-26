@@ -1,0 +1,40 @@
+{
+  "file": "module1",
+  "page": 256,
+  "table_id": 2,
+  "bbox": [
+    71.04471588134766,
+    649.7678410456731,
+    524.7311662946429,
+    752.3674926757812
+  ],
+  "heading": "Table A5.14. Summary of studies of acceptance to start FQ-based TPT among caregivers and MDR-TB HHCs",
+  "n_rows": 3,
+  "n_cols": 6,
+  "data": [
+    [
+      "Reference",
+      "Setting",
+      "Population",
+      "Intervention",
+      "Outcome definition",
+      "Acceptability: agreed to start"
+    ],
+    [
+      "Gureva et al. (2022) (4)",
+      "Arkhangelsk Region, Russian Federation",
+      "Children < 18 years who were HHCs of an MDR- TB index case (n=72)",
+      "9-month FQ (MFX or OFX)",
+      "Proportion of caregivers who agreed for a child to start TPT with OFX/MFX",
+      "58/72 (81%)"
+    ],
+    [
+      "Malik et al. (2021) (5)",
+      "Karachi, Pakistan",
+      "Household contacts of all ages exposed to an MDR- TB index case (n=215)",
+      "6-month FQ (Lfx or MFX) + ETH or EMB",
+      "TPT-eligible participants who accepted to start treatment",
+      "172/215 (80%)"
+    ]
+  ]
+}

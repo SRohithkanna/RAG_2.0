@@ -1,0 +1,38 @@
+{
+  "file": "module3",
+  "page": 83,
+  "table_id": 1,
+  "bbox": [
+    62.8661003112793,
+    350.9226013183594,
+    524.3272216796875,
+    537.35302734375
+  ],
+  "heading": "Fig. 2.3.3.1 Forest plot of pooled sensitivity and specificity for all studies, by each index test",
+  "n_rows": 2,
+  "n_cols": 9,
+  "data": [
+    [
+      "Reference Test N No. (%) with TB Summary (95% CrI) Summary (95% CrI) MRS LF-LAM 653 43 (6.6%) 27.4% (13.5 to 47.5) 88.2% (78.2 to 93.8) Combined LC-aNAATs 653 43 (6.6%) 69.3% (49.9 to 84) 95.4% (91.1 to 98) Concurrent 653 43 (6.6%) 77.6% (60 to 89.6) 83.9% (73.9 to 90.4) Δ Concurrent vs. 6.9% (1.5 to 20.1) -10.2% (-19.6 to -4.9) comb. LC-aNAATs Δ Concurrent vs. LF-LAM 49.9% (30.7 to 68.8) -3.4% (-6.9 to -1.3) CRS LF-LAM 674 286 (42.4%) 17.7% (7.6 to 35.4) 88.7% (76.4 to 94.1) Combined LC-aNAATs 674 286 (42.4%) 14.8% (6.8 to 27.8) 95.5% (88.6 to 98.4) Concurrent 674 286 (42.4%) 30% (13.2 to 54.8) 83.3% (69.8 to 90.2) Δ Concurrent vs. 11.5% (3.8 to 26.7) -10.1% (-21.6 to -4.9) comb. LC-aNAATs Δ Concurrent vs. LF-LAM 10.1% (5.1 to 17.7) -3.5% (-8.8 to -1.1) 0.00 0.25 0.50 0.75 1.00 0.00 0.25 0.50 0.75 1.00 Sensitivity Specificity",
+      "",
+      "Reference Test N No. (%) with TB Summary (95% CrI) Summary (95% CrI) MRS LF-LAM 653 43 (6.6%) 27.4% (13.5 to 47.5) 88.2% (78.2 to 93.8) Combined LC-aNAATs 653 43 (6.6%) 69.3% (49.9 to 84) 95.4% (91.1 to 98) Concurrent 653 43 (6.6%) 77.6% (60 to 89.6) 83.9% (73.9 to 90.4) Δ Concurrent vs. 6.9% (1.5 to 20.1) -10.2% (-19.6 to -4.9) comb. LC-aNAATs Δ Concurrent vs. LF-LAM 49.9% (30.7 to 68.8) -3.4% (-6.9 to -1.3) CRS LF-LAM 674 286 (42.4%) 17.7% (7.6 to 35.4) 88.7% (76.4 to 94.1) Combined LC-aNAATs 674 286 (42.4%) 14.8% (6.8 to 27.8) 95.5% (88.6 to 98.4) Concurrent 674 286 (42.4%) 30% (13.2 to 54.8) 83.3% (69.8 to 90.2) Δ Concurrent vs. 11.5% (3.8 to 26.7) -10.1% (-21.6 to -4.9) comb. LC-aNAATs Δ Concurrent vs. LF-LAM 10.1% (5.1 to 17.7) -3.5% (-8.8 to -1.1) 0.00 0.25 0.50 0.75 1.00 0.00 0.25 0.50 0.75 1.00 Sensitivity Specificity",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Reference Test MRS LF-LAM Combined LC-aNAATs Concurrent Δ Concurrent vs. comb. LC-aNAATs Δ Concurrent vs. LF-LAM CRS LF-LAM Combined LC-aNAATs Concurrent Δ Concurrent vs. comb. LC-aNAATs Δ Concurrent vs. LF-LAM",
+      "N 653 653 653 674 674 674",
+      "No. (%) with TB 43 (6.6%) 43 (6.6%) 43 (6.6%) 286 (42.4%) 286 (42.4%) 286 (42.4%)",
+      "Su 27. 69 77 6. 49. 17. 14. 30 11. 10. 0.00 0.25 0.50 0.75 1.00 Sensitivity",
+      "mmary (95% CrI) 4% (13.5 to 47.5) .3% (49.9 to 84) .6% (60 to 89.6) 9% (1.5 to 20.1) 9% (30.7 to 68.8) 7% (7.6 to 35.4) 8% (6.8 to 27.8) % (13.2 to 54.8) 5% (3.8 to 26.7) 1% (5.1 to 17.7)",
+      "Su 88. 95 83. -10. -3. 88. 95. 83. -10. -3. 0.00 0.25 0.50 0.75 1.00 Specificity",
+      "mmary (95% CrI) 2% (78.2 to 93.8) .4% (91.1 to 98) 9% (73.9 to 90.4) 2% (-19.6 to -4.9) 4% (-6.9 to -1.3) 7% (76.4 to 94.1) 5% (88.6 to 98.4) 3% (69.8 to 90.2) 1% (-21.6 to -4.9) 5% (-8.8 to -1.1)"
+    ]
+  ]
+}

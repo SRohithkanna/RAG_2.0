@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 118,
+  "blocks": [
+    {
+      "bbox": [
+        79.37000274658203,
+        98.98829650878906,
+        136.7790069580078,
+        111.90229797363281
+      ],
+      "text": "Box 2.4.5.1",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        127.63294219970703,
+        508.7075500488281,
+        140.77793884277344
+      ],
+      "text": "The products and drugs for which eligible data met the class-based performance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        143.1329345703125,
+        213.72959899902344,
+        156.27793884277344
+      ],
+      "text": "criteria are listed below:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        167.13677978515625,
+        509.1250305175781,
+        180.2817840576172
+      ],
+      "text": "(Genoscreen, France): rifampicin, isoniazid, pyrazinamide,  Deeplex® Myc-TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        182.63677978515625,
+        508.9255676269531,
+        195.7817840576172
+      ],
+      "text": "ethambutol, fluoroquinolones, bedaquiline, linezolid, clofazimine, amikacin and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        198.13677978515625,
+        160.81048583984375,
+        211.2817840576172
+      ],
+      "text": "streptomycin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        222.14068603515625,
+        509.0639953613281,
+        235.2856903076172
+      ],
+      "text": "(Oxford Nanopore Diagnostics, United Kingdom): rifampicin, isoniazid,  AmPORE-TB®",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982986450195312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        237.64068603515625,
+        365.5314025878906,
+        250.7856903076172
+      ],
+      "text": "fluoroquinolones, linezolid, amikacin and streptomycin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        261.64459228515625,
+        465.8509521484375,
+        274.78961181640625
+      ],
+      "text": "(Hangzhou ShengTing Medical Technology Co., China): ethambutol TBseq®",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        285.64862060546875,
+        508.9602966308594,
+        298.79364013671875
+      ],
+      "text": "Where a product has not yet met the requirements for a specific drug (i.e., the drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        301.14862060546875,
+        508.9053649902344,
+        314.29364013671875
+      ],
+      "text": "is not listed), further improvements to the product are needed, and a review of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        316.64862060546875,
+        292.67498779296875,
+        329.79364013671875
+      ],
+      "text": "evidence is necessary before clinical use.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.1675109863281,
+        173.49029541015625,
+        375.5474853515625
+      ],
+      "text": "Test description",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.29840087890625,
+        527.0029907226562,
+        397.44342041015625
+      ],
+      "text": "Three products met the inclusion criteria for detection of drug resistance to at least one of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.29840087890625,
+        225.12867736816406,
+        411.44342041015625
+      ],
+      "text": "anti-TB drugs under evaluation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.0504150390625,
+        78.81909942626953,
+        431.1954345703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        418.0504150390625,
+        527.156494140625,
+        431.1954345703125
+      ],
+      "text": "The   (Genoscreen, France) is a targeted NGS-based kit for the  Deeplex® Myc-TB test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        433.5504150390625,
+        526.959228515625,
+        446.6954345703125
+      ],
+      "text": "simultaneous identification of mycobacterial species, genotyping and prediction of drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        449.0504150390625,
+        526.8831787109375,
+        462.1954345703125
+      ],
+      "text": "resistance of MTBC strains, directly applicable on sputum samples  . The assay relies  (50)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        464.5504150390625,
+        526.5905151367188,
+        477.6954345703125
+      ],
+      "text": "on deep sequencing of a 24-plex amplicon mix, and it targets 18 MTBC gene regions",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        480.0504150390625,
+        527.2755737304688,
+        493.1954345703125
+      ],
+      "text": "associated with resistance to anti-TB drugs (rifampicin, isoniazid, pyrazinamide, ethambutol,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.965997695922852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        495.5504150390625,
+        527.1182250976562,
+        508.6954345703125
+      ],
+      "text": "fluoroquinolones, amikacin, kanamycin, capreomycin, streptomycin, ethionamide,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        511.0504150390625,
+        526.9652099609375,
+        524.1954345703125
+      ],
+      "text": "bedaquiline, clofazimine and linezolid). Mycobacterial species identification is performed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        526.5504150390625,
+        526.9105224609375,
+        539.6954345703125
+      ],
+      "text": "by targeting the  65 gene; the spoligotyping target (CRISPR/Direct Repeat locus) and  hsp",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        542.0504150390625,
+        527.0083618164062,
+        555.1954345703125
+      ],
+      "text": "phylogenetic single nucleotide polymorphisms (SNPs) in targets associated with drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        557.5504150390625,
+        526.9862670898438,
+        570.6954345703125
+      ],
+      "text": "resistance are used for MTBC strain genotyping. The assay is performed using the Nextera",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        573.0504150390625,
+        527.05224609375,
+        586.1954345703125
+      ],
+      "text": "XT and DNA Flex library preparation kits on the iSeq 100, MiniSeq, MiSeq and NextSeq",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        588.5504150390625,
+        527.0743408203125,
+        601.6954345703125
+      ],
+      "text": "sequencing platforms (Illumina). The solution includes an automated analysis pipeline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        604.0504150390625,
+        527.1181640625,
+        617.1954345703125
+      ],
+      "text": "of the sequencing data in a secure online application with integrated databases for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        619.5504150390625,
+        191.02369689941406,
+        632.6954345703125
+      ],
+      "text": "results interpretation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.0504150390625,
+        78.81909942626953,
+        648.1954345703125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        635.0504150390625,
+        526.8379516601562,
+        648.1954345703125
+      ],
+      "text": "The   (Oxford Nanopore Diagnostics, United Kingdom) – previously  AmPORE-TB® test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        650.5504150390625,
+        526.9642333984375,
+        663.6954345703125
+      ],
+      "text": "referred to as Nano-TB) – is a targeted NGS-based kit for the simultaneous identification",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        666.0504150390625,
+        527.0029296875,
+        679.1954345703125
+      ],
+      "text": "of mycobacterial species and the detection of MTBC genetic variants associated with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        681.531005859375,
+        526.927001953125,
+        694.6954345703125
+      ],
+      "text": "13 antimicrobial resistance in DNA extracted from sputum samples.  The assay relies on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        697.0504150390625,
+        527.0081176757812,
+        710.1954345703125
+      ],
+      "text": "sequencing of a 27-plex amplicon mix: 24 drug-resistance targets, a genotyping target, a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        712.5504150390625,
+        526.9518432617188,
+        725.6954345703125
+      ],
+      "text": "non-tuberculous mycobacteria (NTM) identification target ( 65) and an internal control.  hsp",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        728.0504150390625,
+        527.00830078125,
+        741.1954345703125
+      ],
+      "text": "The 24 drug-resistance targets are MTBC gene regions that are associated with resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        743.5504150390625,
+        527.036376953125,
+        756.6954345703125
+      ],
+      "text": "to various TB drugs (rifampicin, isoniazid, pyrazinamide, ethambutol, fluoroquinolones,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        769.821533203125,
+        322.39813232421875,
+        782.5814819335938
+      ],
+      "text": "Oxford Nanopore Diagnostics provided a draft protocol for the 13\t test.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "102 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

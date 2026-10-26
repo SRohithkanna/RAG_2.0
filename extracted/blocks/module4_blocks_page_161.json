@@ -1,0 +1,606 @@
+{
+  "file": "module4",
+  "page": 161,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        216.29168701171875,
+        82.6147232055664
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        416.6379699707031,
+        104.26564025878906
+      ],
+      "text": "The recommendation in this section addresses the following PICO question:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.47807312011719,
+        110.25061798095703,
+        515.9025268554688,
+        125.91461944580078
+      ],
+      "text": "(MDR/RR-TB, 2018). In patients with MDR/RR-TB treated with longer or shorter  PICO question",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        123.45063018798828,
+        515.903076171875,
+        139.11463928222656
+      ],
+      "text": "regimens composed in accordance with WHO guidelines, is monitoring using monthly cultures,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        136.65065002441406,
+        452.0469055175781,
+        152.3146514892578
+      ],
+      "text": "in addition to smear microscopy, more likely to detect non-response to treatment?",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.63050842285156,
+        527.3209838867188,
+        174.07350158691406
+      ],
+      "text": "Previous studies have indicated that monthly culture is the optimum strategy to detect non-response",
+      "font": "SegoeUI-Light",
+      "size": 10.993998527526855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.8303985595703,
+        527.1723022460938,
+        187.2733917236328
+      ],
+      "text": "as early as possible and was conditionally recommended by WHO in 2011 as the preferred approach",
+      "font": "SegoeUI-Light",
+      "size": 10.994948387145996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.75453186035156,
+        527.535400390625,
+        200.47352600097656
+      ],
+      "text": "(13, 118, 119) . The findings of the evidence review and analysis performed for this question are expected",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.950689315795898,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.9545440673828,
+        527.4212036132812,
+        213.6735382080078
+      ],
+      "text": "(13) to influence the continued validity, in its present form, of the 2011 WHO recommendation  . Since",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.4304962158203,
+        527.4409790039062,
+        226.8734893798828
+      ],
+      "text": "then, significant changes in MDR-TB treatment practices have taken place on a large scale globally,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.63050842285156,
+        527.427734375,
+        240.07350158691406
+      ],
+      "text": "such as the wider use of later-generation fluoroquinolones, bedaquiline and linezolid; a tendency",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.8303985595703,
+        527.108642578125,
+        253.2733917236328
+      ],
+      "text": "towards an intensive phase of longer duration; and the widespread use of the shorter regimen, which",
+      "font": "SegoeUI-Light",
+      "size": 10.988744735717773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.03053283691406,
+        527.4014282226562,
+        266.4735412597656
+      ],
+      "text": "could influence the speed and durability of culture conversion during the continuation phase, when",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.23052978515625,
+        265.84002685546875,
+        279.6735534667969
+      ],
+      "text": "this PICO question is of greatest relevance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.93438720703125,
+        527.12744140625,
+        301.3774108886719
+      ],
+      "text": "Achieving sustained bacteriological conversion from positive to negative is widely used to assess",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.1343994140625,
+        527.4442138671875,
+        314.5774230957031
+      ],
+      "text": "response to treatment in both drug-susceptible TB and DR-TB. Culture is a more sensitive test for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.33441162109375,
+        527.63037109375,
+        327.7774353027344
+      ],
+      "text": "bacteriological confirmation of TB than direct microscopy of sputum and other biological specimens.",
+      "font": "SegoeUI-Light",
+      "size": 10.998649597167969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.5343933105469,
+        527.4389038085938,
+        340.9774169921875
+      ],
+      "text": "Culture also facilitates phenotypic testing for DST, a critical consideration in TB diagnostics. However,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.7344055175781,
+        527.44091796875,
+        354.17742919921875
+      ],
+      "text": "performing culture requires considerable logistical organization and a well-equipped laboratory to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.9344177246094,
+        527.4146118164062,
+        367.37744140625
+      ],
+      "text": "limit cross-contamination, ensure proper bacterial growth and match other quality standards. Apart",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.1343994140625,
+        527.519775390625,
+        380.5774230957031
+      ],
+      "text": "from the resource requirements, culture results become available after a significant delay of weeks or",
+      "font": "SegoeUI-Light",
+      "size": 10.996999740600586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.33441162109375,
+        527.2313842773438,
+        393.7774353027344
+      ],
+      "text": "months, contrasting markedly with the relative immediacy of the result of direct microscopy (although",
+      "font": "SegoeUI-Light",
+      "size": 10.98133373260498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.5343933105469,
+        527.40966796875,
+        406.9774169921875
+      ],
+      "text": "microscopy cannot confirm mycobacterial viability). Although molecular techniques can now provide",
+      "font": "SegoeUI-Light",
+      "size": 10.993348121643066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.7344055175781,
+        527.6124267578125,
+        420.17742919921875
+      ],
+      "text": "a rapid and reliable diagnosis, they cannot replace culture or microscopy for the monitoring of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.9344177246094,
+        250.17709350585938,
+        433.37744140625
+      ],
+      "text": "bacteriological status during treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.6383056640625,
+        527.4342651367188,
+        455.0813293457031
+      ],
+      "text": "The evidence used to explore the added value of culture over sputum smear microscopy alone, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.83831787109375,
+        527.4210205078125,
+        468.2813415527344
+      ],
+      "text": "the optimal frequency of monitoring, was obtained from a subset of the IPD reported to WHO by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.0382995605469,
+        527.3880615234375,
+        481.4813232421875
+      ],
+      "text": "South Africa for the 2018 update. These observational data from South Africa comprised 26 522",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.2383117675781,
+        527.3915405273438,
+        494.68133544921875
+      ],
+      "text": "patients overall. Of these, 22 760 records were excluded from the dataset for the following reasons:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.43829345703125,
+        527.4464111328125,
+        507.8813171386719
+      ],
+      "text": "11 236 had a treatment outcome of death or LTFU; 698 had a successful treatment outcome but had",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.6383056640625,
+        527.39892578125,
+        521.081298828125
+      ],
+      "text": "received less than 17.5 months of treatment; 1357 had fewer than six culture samples recorded; 1632",
+      "font": "SegoeUI-Light",
+      "size": 10.993547439575195,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.8383178710938,
+        527.4332275390625,
+        534.2813110351562
+      ],
+      "text": "had no baseline culture recorded; 2502 were baseline culture negative; 2920 were smear negative",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.038330078125,
+        527.4212036132812,
+        547.4813232421875
+      ],
+      "text": "at baseline or had a missing smear at baseline; and 2415 had insufficient smear data to match the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.23828125,
+        527.6399536132812,
+        560.6812744140625
+      ],
+      "text": "culture data. This left 3762 MDR/RR-TB patients (with 1.8% being children; i.e. aged <15 years)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.4382934570312,
+        527.4278564453125,
+        573.8812866210938
+      ],
+      "text": "treated with longer MDR-TB regimens between 2010 and 2015, who had both monthly smear and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.638427734375,
+        527.4288330078125,
+        587.0814208984375
+      ],
+      "text": "culture data throughout treatment to address PICO question 11 (MDR/RR-TB, 2018). About 60% of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.8383178710938,
+        527.385009765625,
+        600.2813110351562
+      ],
+      "text": "these patients were PLHIV. The analysis focused on whether monthly culture versus monthly smear",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.038330078125,
+        527.2100219726562,
+        613.4813232421875
+      ],
+      "text": "microscopy or culture every 2 months is needed to not miss treatment failure in MDR/RR-TB patients",
+      "font": "SegoeUI-Light",
+      "size": 10.99484920501709,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.23828125,
+        527.4166870117188,
+        626.6812744140625
+      ],
+      "text": "on treatment. The odds of treatment failure in patients who do not convert at 6 months or later was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        162.04949951171875,
+        625.3283081054688,
+        318.1350402832031,
+        639.6832885742188
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.3283081054688,
+        527.4055786132812,
+        639.8812866210938
+      ],
+      "text": "Table 5.1 also discussed (see   and  ). The data could not address",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.638427734375,
+        527.4081420898438,
+        653.0814208984375
+      ],
+      "text": "the outcome on acquisition (amplification) of additional drug resistance, nor could it assess directly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.8383178710938,
+        527.2369995117188,
+        666.2813110351562
+      ],
+      "text": "whether the frequency of culture or smear microscopy had an identical effect on failure in patients on",
+      "font": "SegoeUI-Light",
+      "size": 10.988043785095215,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.038330078125,
+        527.2922973632812,
+        679.4813232421875
+      ],
+      "text": "the 9–12-month shorter MDR-TB regimen, as envisaged in the original PICO question 11 (MDR/RR-TB,",
+      "font": "SegoeUI-Light",
+      "size": 10.954355239868164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.23828125,
+        527.399169921875,
+        692.6812744140625
+      ],
+      "text": "2018). Based on an assessment of the certainty of the evidence, carried out using predefined criteria",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.4382934570312,
+        522.0421752929688,
+        705.8812866210938
+      ],
+      "text": "and documented in GRADEpro, the test accuracy certainty of the evidence was rated as moderate.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.142333984375,
+        527.416748046875,
+        727.5853271484375
+      ],
+      "text": "The IPD meta-analysis compared the performance of the two methods in terms of sensitivity and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.34228515625,
+        527.5951538085938,
+        740.7852783203125
+      ],
+      "text": "specificity, and culture testing once a month compared with once every 2 months (to assess the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.5422973632812,
+        527.4408569335938,
+        753.9852905273438
+      ],
+      "text": "minimum frequency of testing needed to not unnecessarily delay any revision of the treatment). The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  147",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

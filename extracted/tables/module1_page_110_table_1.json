@@ -1,0 +1,61 @@
+{
+  "file": "module1",
+  "page": 110,
+  "table_id": 1,
+  "bbox": [
+    56.692975997924805,
+    71.11666259765624,
+    784.3939819335938,
+    125.11619873046875
+  ],
+  "heading": null,
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "Certainty assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Certainty",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "IPT",
+      "no IPT or placebo",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Discontinuation of study drug due to toxicity",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

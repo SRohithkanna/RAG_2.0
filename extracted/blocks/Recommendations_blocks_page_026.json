@@ -1,0 +1,474 @@
+{
+  "file": "Recommendations",
+  "page": 26,
+  "blocks": [
+    {
+      "bbox": [
+        42.51919937133789,
+        42.10532760620117,
+        139.75521850585938,
+        51.10532760620117
+      ],
+      "text": "3.1 CHAPTER OBJECTIVES",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.528202056884766,
+        60.276031494140625,
+        399.6749267578125,
+        69.27603149414062
+      ],
+      "text": "This chapter presents a brief overview of the ﬁndings from studies of the molecular",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51020431518555,
+        72.27304077148438,
+        261.1022033691406,
+        81.27304077148438
+      ],
+      "text": "epidemiology of TB as it relates to contact investigation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.528202056884766,
+        102.09934997558594,
+        114.64521026611328,
+        111.09934997558594
+      ],
+      "text": "3.2 BACKGROUND",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.53720474243164,
+        120.13379669189453,
+        399.68377685546875,
+        129.27005004882812
+      ],
+      "text": "M. tuberculosis Genotyping of   has been used to study the transmission dynamics of the",
+      "font": "TheSansSemiLight-Italic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51920700073242,
+        132.26705932617188,
+        399.6390075683594,
+        141.26705932617188
+      ],
+      "text": "organism since the early 1990s, and a number of lessons have been learnt from this approach",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.465206146240234,
+        144.26406860351562,
+        399.6839904785156,
+        153.27304077148438
+      ],
+      "text": "(13). For certain reasons, however, including variations in the typing methods used, the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51920700073242,
+        156.27005004882812,
+        399.70770263671875,
+        165.27304077148438
+      ],
+      "text": "populations examined, the deﬁnitions used and study designs, the molecular epidemiology",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53379440307617,
+        168.27005004882812,
+        399.69866943359375,
+        177.27005004882812
+      ],
+      "text": "of tuberculosis is difﬁcult to review systematically. This should not diminish the importance",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53379440307617,
+        180.26705932617188,
+        401.6964416503906,
+        189.26705932617188
+      ],
+      "text": "of the lessons learnt from use of such methods. Although a number of publications give",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.56979751586914,
+        192.1278076171875,
+        400.00482177734375,
+        201.26406860351562
+      ],
+      "text": "M. tuberculosis the results of genotyping of   in low- and middle-income settings, only a few",
+      "font": "TheSansSemiLight-Italic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.83982467651367,
+        204.26107788085938,
+        399.5993347167969,
+        213.27908325195312
+      ],
+      "text": "were designed to identify the features of transmission and are thus relevant to contact",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.56082534790039,
+        216.27294921875,
+        99.17381286621094,
+        225.27609252929688
+      ],
+      "text": "investigations.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.57280349731445,
+        234.27294921875,
+        399.7374267578125,
+        243.27294921875
+      ],
+      "text": "Some of the applications of molecular epidemiology that, coupled with conventional",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.57280349731445,
+        246.26995849609375,
+        399.6839904785156,
+        255.26995849609375
+      ],
+      "text": "epidemiological methods, have led to a better understanding of the distribution and dynamics",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.50979995727539,
+        258.2669677734375,
+        78.2847900390625,
+        267.2669677734375
+      ],
+      "text": "of TB are:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.50979995727539,
+        276.2669677734375,
+        218.1178436279297,
+        285.2669677734375
+      ],
+      "text": "• identiﬁcation or conﬁrmation of outbreaks,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.518802642822266,
+        294.2669677734375,
+        249.81582641601562,
+        303.2669677734375
+      ],
+      "text": "• identiﬁcation of sites at which transmission occurs,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.52780532836914,
+        312.2669677734375,
+        251.05642700195312,
+        321.2759704589844
+      ],
+      "text": "• identiﬁcation of characteristics of TB disseminators,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.52639389038086,
+        330.2758483886719,
+        399.5655822753906,
+        339.2758483886719
+      ],
+      "text": "• characteristics of people at increased risk for acquiring TB infection and for rapid progression",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        50.89639663696289,
+        342.2728576660156,
+        72.0823974609375,
+        351.2728576660156
+      ],
+      "text": "to TB,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.39139938354492,
+        360.2728576660156,
+        204.13037109375,
+        369.2728576660156
+      ],
+      "text": "• detection of unsuspected transmission,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.4004020690918,
+        378.2728576660156,
+        228.99745178222656,
+        387.2728576660156
+      ],
+      "text": "• determination of the potential for reinfection,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.40940475463867,
+        396.2728576660156,
+        239.20343017578125,
+        405.2728576660156
+      ],
+      "text": "• detection of laboratory cross-contamination and",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.41840744018555,
+        414.2728576660156,
+        313.2283630371094,
+        423.2728576660156
+      ],
+      "text": "• evaluation of TB control activities designed to prevent transmission.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.42741012573242,
+        444.0991516113281,
+        152.54241943359375,
+        453.0991516113281
+      ],
+      "text": "3.3 SUMMARY OF FINDINGS",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.4364128112793,
+        462.2698669433594,
+        399.8074645996094,
+        471.2788391113281
+      ],
+      "text": "Perhaps the most relevant lesson from molecular epidemiology for contact investigation is",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.63351058959961,
+        474.13677978515625,
+        399.87017822265625,
+        483.2730407714844
+      ],
+      "text": "M. tuberculosis that substantial transmission of   may occur outside households, such as in",
+      "font": "TheSansSemiLight-Italic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.69649887084961,
+        486.2700500488281,
+        399.8341979980469,
+        495.2700500488281
+      ],
+      "text": "social settings like bars and in multi-resident housing such as hotels and shelters for the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.669498443603516,
+        498.26702880859375,
+        400.2573547363281,
+        507.26702880859375
+      ],
+      "text": "homeless (14–16). Thus, contact investigations should not focus exclusively on the household,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.6515007019043,
+        510.2640075683594,
+        399.7174072265625,
+        519.2730712890625
+      ],
+      "text": "depending on the circumstances. Molecular epidemiology has also been used to identify",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.543514251708984,
+        522.2700805664062,
+        399.69927978515625,
+        531.2700805664062
+      ],
+      "text": "groups at increased risk for acquiring infection and rapid progression to active TB. PLHIV",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53451156616211,
+        534.2670288085938,
+        400.1329650878906,
+        543.2688598632812
+      ],
+      "text": "obviously fall into this category, but homelessness and substance abuse are also risk factors.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.590091705322266,
+        546.265869140625,
+        400.2226257324219,
+        555.265869140625
+      ],
+      "text": "In addition, in population-based molecular epidemiological studies in British Columbia,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.61709213256836,
+        558.2628784179688,
+        399.7818603515625,
+        567.2628784179688
+      ],
+      "text": "Canada, The Netherlands and San Francisco, USA, 12–17% of new cases were the result of",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.61709213256836,
+        570.2598876953125,
+        399.7457275390625,
+        579.2778930664062
+      ],
+      "text": "transmission from smear-negative, culture-positive cases (17–19). Thus, although a large",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.58109664916992,
+        582.2703857421875,
+        399.5799865722656,
+        591.27490234375
+      ],
+      "text": "majority of cases result from contact with a smear-positive case, smear-negative cases can",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.406002044677734,
+        594.2673950195312,
+        143.39498901367188,
+        603.2673950195312
+      ],
+      "text": "also transmit the disease.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.24310302734375,
+        651.97265625,
+        224.96810913085938,
+        659.47265625
+      ],
+      "text": "24",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

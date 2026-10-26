@@ -1,0 +1,61 @@
+{
+  "file": "common childhood",
+  "page": 157,
+  "table_id": 1,
+  "bbox": [
+    281.48150634765625,
+    62.36262893676758,
+    359.34149169921875,
+    622.9133911132812
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZ­ ABILITY",
+      "OVERALL QUALITY",
+      "RELATIVE RISK (95% CI)",
+      "IMPORTANCE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES (PARTICIPANTS)",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Pneumonia case fatality rate",
+      "2 (12252)",
+      "Pre-post -1",
+      "Not adjusted for confound­ ing -0.5",
+      "No 0",
+      "No 0",
+      "No 0",
+      "No imprecision 0",
+      "No inconsistency 0",
+      "Only 1 country -0.5",
+      "Low",
+      "0.72 (0.6 to 0.86)",
+      "Critical"
+    ]
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "file": "Guidance for national",
+  "page": 81,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        83.1881103515625,
+        513.4375,
+        96.53961181640625
+      ],
+      "text": "WHO also recommends ART for all patients with HIV and drug-resistant TB requiring",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        99.18463134765625,
+        513.3685302734375,
+        112.5361328125
+      ],
+      "text": "second-line anti-TB drugs, irrespective of CD4 count, as early as possible (within the first",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        115.11215209960938,
+        350.0108642578125,
+        128.53265380859375
+      ],
+      "text": "(13) 8 weeks) following the start of anti-TB treatment .",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        128.035400390625,
+        137.34854125976562,
+        482.4712829589844,
+        151.56854248046875
+      ],
+      "text": "Summary of recommended ART regimens  for children in need",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        137.63653564453125,
+        127.723388671875,
+        151.56854248046875
+      ],
+      "text": "Table 8.",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        361.4375,
+        138.0313720703125,
+        365.3272705078125,
+        146.32162475585938
+      ],
+      "text": "a",
+      "font": "FrutigerLTStd-Bold",
+      "size": 6.995999813079834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        128.039306640625,
+        151.74856567382812,
+        217.18728637695312,
+        165.96856689453125
+      ],
+      "text": "of TB treatment",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        115.318603515625,
+        174.50701904296875,
+        478.95697021484375,
+        189.81602478027344
+      ],
+      "text": "Recommended regimen for children and infants starting ART while on TB  treatment b c",
+      "font": "HelveticaNeue-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        191.64649963378906,
+        464.629638671875,
+        205.74949645996094
+      ],
+      "text": "Younger than 3 years 2 NRTIs + NVP ensuring that dose is 200 mg/m 2",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5893859863281,
+        202.4464874267578,
+        319.78460693359375,
+        216.5494842529297
+      ],
+      "text": "or",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5893859863281,
+        213.24647521972656,
+        398.3318786621094,
+        227.34947204589844
+      ],
+      "text": "Triple NRTI (AZT + 3TC + ABC) d",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.0413818359375,
+        288.0428466796875,
+        461.0654296875,
+        302.14593505859375
+      ],
+      "text": "Younger than 3  Continue NVP ensuring that dose is 200 mg/m Child on standard  2",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.0413818359375,
+        298.84283447265625,
+        279.75238037109375,
+        312.94940185546875
+      ],
+      "text": "years NNRTI-based  or",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.0413818359375,
+        309.64288330078125,
+        398.3318786621094,
+        323.7493896484375
+      ],
+      "text": "regimen Triple NRTI (AZT + 3TC + ABC) d",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.0413818359375,
+        320.44287109375,
+        163.11135864257812,
+        334.5458984375
+      ],
+      "text": "(2 NRTIs + EFV or",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.0413818359375,
+        327.74542236328125,
+        405.6308288574219,
+        345.34588623046875
+      ],
+      "text": "3 years and older If on EFV, continue same regimen NVP)",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5848083496094,
+        344.5484313964844,
+        371.81781005859375,
+        358.6514587402344
+      ],
+      "text": "If on NVP, change to EFV",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5848083496094,
+        355.3484191894531,
+        279.747802734375,
+        369.4514465332031
+      ],
+      "text": "or",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5848083496094,
+        366.1484069824219,
+        398.3318786621094,
+        380.2514343261719
+      ],
+      "text": "Triple NRTI (AZT + 3TC + ABC) d",
+      "font": "HelveticaNeue",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        628.2904663085938,
+        512.438232421875,
+        640.2904663085938
+      ],
+      "text": "a \t Abbreviations used: ABC abacavir; AZT zidovudine; EFV efavirenz; LPV/r lopinavir/ritonavir; NNRTI non-nucleoside",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        637.8905029296875,
+        471.5184020996094,
+        649.8905029296875
+      ],
+      "text": "reverse-transcriptase inhibitor; NRTI nucleoside reverse-transcriptase inhibitor; RTV ritonavir; 3TC lamivudine",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        650.4905395507812,
+        383.9903259277344,
+        662.4905395507812
+      ],
+      "text": "b \t Ensure optimized dosing of rifampicin based on new dosing guidelines (Chapter 4).",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        663.0905151367188,
+        453.0223693847656,
+        675.0905151367188
+      ],
+      "text": "c \t Switch to age-appropriate ART regimen based on national first-line ART at termination of TB treatment.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        675.6904907226562,
+        512.50244140625,
+        687.6904907226562
+      ],
+      "text": "d \t Triple NRTI is recommended only for the duration of TB treatment; an age-appropriate PI- or NNRTI-based regimen",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        685.29052734375,
+        512.510498046875,
+        697.29052734375
+      ],
+      "text": "should be restarted at termination of rifampicin-based therapy. Based on findings from the ARROW trial (15) this regimen",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        694.8905639648438,
+        512.3984375,
+        706.8905639648438
+      ],
+      "text": "should be considered as the preferred option for children less than 3 years on LPV/r-based regimen when starting TB",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        704.4905395507812,
+        512.5021362304688,
+        716.4905395507812
+      ],
+      "text": "treatment. It should also be considered as the preferred regimen for children older than 3 years with history of NNRTI",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        714.0905151367188,
+        122.0143051147461,
+        726.0905151367188
+      ],
+      "text": "failure.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        726.6905517578125,
+        307.90234375,
+        738.6905517578125
+      ],
+      "text": "e \t Increase RTV until same dose as LPV in mg, in a ratio of 1:1.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.6063003540039,
+        739.29052734375,
+        512.4862670898438,
+        751.29052734375
+      ],
+      "text": "f \t Change to EFV should be considered as the preferred option (16) and EFV could be maintained after termination of TB",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.78230285644531,
+        750.0905151367188,
+        421.97430419921875,
+        762.0905151367188
+      ],
+      "text": "treatment to allow simplification and harmonization with ARVs regimen in use in older children.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        14.202799797058105,
+        805.8439331054688,
+        36.44280242919922,
+        835.8439331054688
+      ],
+      "text": "62",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

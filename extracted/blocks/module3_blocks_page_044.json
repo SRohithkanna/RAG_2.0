@@ -1,0 +1,330 @@
+{
+  "file": "module3",
+  "page": 44,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        520.3392333984375,
+        83.2621841430664
+      ],
+      "text": "PICO 2: Should moderate complexity automated NAATs be used on respiratory",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        83.57433319091797,
+        485.5453186035156,
+        97.6623306274414
+      ],
+      "text": "samples in people with signs and symptoms of pulmonary TB for",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        97.97423553466797,
+        510.4549255371094,
+        112.0622329711914
+      ],
+      "text": "detection of resistance to rifampicin, as compared with culture-based",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        112.37419891357422,
+        209.55862426757812,
+        126.46219635009766
+      ],
+      "text": "phenotypic DST?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.16522216796875,
+        526.9039306640625,
+        150.3102264404297
+      ],
+      "text": "A total of 18 studies with 2874 specimens provided data for resistance testing of rifampicin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.66522216796875,
+        526.9904174804688,
+        165.8102264404297
+      ],
+      "text": "using moderate complexity automated NAATs ( ). Of these 18 studies, nine were  Fig. 2.1.2.2",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.16522216796875,
+        526.8189086914062,
+        181.3102264404297
+      ],
+      "text": "conducted on the Abbott RealTi e RIF/INH test, three on FluoroType MTBDR, four on BD  m",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.66522216796875,
+        526.9700317382812,
+        196.8102264404297
+      ],
+      "text": "MAX and two on the cobas RIF/INH test. The reference standard for each of these studies for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.16522216796875,
+        527.0151977539062,
+        212.3102264404297
+      ],
+      "text": "resistance detection was phenotypic DST, using a composite reference standard with both",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.66522216796875,
+        265.75048828125,
+        227.8102264404297
+      ],
+      "text": "phenotypic DST and sequencing results.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.66912841796875,
+        526.7501831054688,
+        251.8141326904297
+      ],
+      "text": "Eight (44%) of the 18 studies had high or unclear risk of bias because they did not report",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.16912841796875,
+        414.81878662109375,
+        267.31414794921875
+      ],
+      "text": "participant selection or tested specimens before inclusion in the study.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.955322265625,
+        508.842041015625,
+        296.0433044433594
+      ],
+      "text": "Fig. 2.1.2.2 Forest plot of included studies for rifampicin resistance detection",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.3553466796875,
+        338.23809814453125,
+        310.4433288574219
+      ],
+      "text": "with phenotypic DST as the reference standard",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3233642578125,
+        526.5028076171875,
+        532.0783081054688
+      ],
+      "text": "CI: confidence interval; DST: drug susceptibility testing; FN: false negative; FP: false positive; TB: tuberculosis; TN:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.1233520507812,
+        194.85011291503906,
+        542.8782958984375
+      ],
+      "text": "true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.886474609375,
+        527.0028686523438,
+        573.031494140625
+      ],
+      "text": "The overall sensitivity for rifampicin resistance in these 18 studies ranged from 88% to 100%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        575.386474609375,
+        524.4234008789062,
+        588.531494140625
+      ],
+      "text": "and the specificity from 98% to 100%.  The pooled sensitivity was 96.7% (95% CI: 93.1–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.0404663085938,
+        421.260009765625,
+        603.9544677734375
+      ],
+      "text": "98.4%) and the pooled specificity was 98.9% (95% CI: 97.5–99.5%).",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.890380859375,
+        526.9110717773438,
+        628.035400390625
+      ],
+      "text": "In determining rifampicin resistance, the results from genetic sequencing (genotypic DST) were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.968905448913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.390380859375,
+        527.1245727539062,
+        643.535400390625
+      ],
+      "text": "obtained where possible, and a composite reference standard was developed that combined the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.890380859375,
+        527.2005004882812,
+        659.035400390625
+      ],
+      "text": "results from phenotypic and genotypic DST. For rifampicin resistance detection, the diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990195274353027,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.390380859375,
+        527.0140380859375,
+        674.535400390625
+      ],
+      "text": "test accuracy of moderate complexity automated NAATs was similar for phenotypic DST and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.890380859375,
+        239.42759704589844,
+        690.035400390625
+      ],
+      "text": "the composite reference standard.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "28 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

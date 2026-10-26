@@ -1,0 +1,474 @@
+{
+  "file": "module2",
+  "page": 11,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        219.73651123046875,
+        147.5496368408203
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        527.556396484375,
+        195.36158752441406
+      ],
+      "text": "The definitions below apply to terms as used in these guidelines, and they may have different",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        166.2939910888672,
+        208.5615997314453
+      ],
+      "text": "meanings elsewhere.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.5586395263672,
+        527.5050048828125,
+        230.26564025878906
+      ],
+      "text": "Active (tuberculosis) case-finding (ACF) : Provider-initiated screening and testing in communities",
+      "font": "SegoeUI-Bold",
+      "size": 10.98523998260498,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.0225372314453,
+        527.3869018554688,
+        243.4655303955078
+      ],
+      "text": "by mobile teams, often using mobile X-ray and rapid molecular tests. The term is sometimes used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.22254943847656,
+        262.96685791015625,
+        256.6655578613281
+      ],
+      "text": "synonymously with “systematic screening”.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.66253662109375,
+        527.4330444335938,
+        278.3695373535156
+      ],
+      "text": "Computer-aided detection (CAD):  The use of specialized software to interpret abnormalities on",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.12652587890625,
+        527.4278564453125,
+        291.5695495605469
+      ],
+      "text": "chest radiographs that are suggestive of TB. The results are expressed as abnormality scores. CAD",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.32647705078125,
+        237.2327117919922,
+        304.7695007324219
+      ],
+      "text": "may be used for screening or triage.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.76641845703125,
+        527.5059204101562,
+        326.4734191894531
+      ],
+      "text": "Enhanced (tuberculosis) case-finding : Health information or education, or awareness campaigns",
+      "font": "SegoeUI-Bold",
+      "size": 10.985039710998535,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.23040771484375,
+        527.603759765625,
+        339.6734313964844
+      ],
+      "text": "to provide information about what type of health-seeking behaviour is appropriate when people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.430419921875,
+        527.4299926757812,
+        352.8734436035156
+      ],
+      "text": "experience symptoms of TB; this type of case-finding may be combined with improving access to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.6304016113281,
+        477.647216796875,
+        366.07342529296875
+      ],
+      "text": "diagnostic services. Enhanced case-finding may or may not be combined with screening.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.0703430175781,
+        527.4151000976562,
+        387.77734375
+      ],
+      "text": "Initial screening : The first screening test, examination or other procedure applied in the population",
+      "font": "SegoeUI-Bold",
+      "size": 10.993398666381836,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        386.5343933105469,
+        168.481689453125,
+        400.9774169921875
+      ],
+      "text": "eligible for screening.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        407.9743347167969,
+        527.440185546875,
+        422.68133544921875
+      ],
+      "text": "Number needed to screen (NNS) : The number of persons that need to undergo screening in",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.43829345703125,
+        284.00628662109375,
+        435.8813171386719
+      ],
+      "text": "order to diagnose one person with TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.87823486328125,
+        527.4024047851562,
+        457.5852355957031
+      ],
+      "text": "Passive case-finding : A patient-initiated pathway to TB diagnosis involving: (1) a person with TB",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.3421936035156,
+        527.524169921875,
+        470.78521728515625
+      ],
+      "text": "disease who experiences symptoms that he or she recognizes as serious; (2) the person having access",
+      "font": "SegoeUI-Light",
+      "size": 10.977527618408203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.5422058105469,
+        527.2262573242188,
+        483.9852294921875
+      ],
+      "text": "to and seeking care, and presenting spontaneously at an appropriate health facility; (3) a health worker",
+      "font": "SegoeUI-Light",
+      "size": 10.961281776428223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.7422180175781,
+        527.4400634765625,
+        497.18524169921875
+      ],
+      "text": "correctly assessing that the person fulfils the criteria for presumptive TB; and (4) successful use of a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.94219970703125,
+        420.9192199707031,
+        510.3852233886719
+      ],
+      "text": "diagnostic algorithm with sufficient sensitivity and specificity to diagnose TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.3822631835938,
+        464.8355712890625,
+        532.0892333984375
+      ],
+      "text": "Repeat screening : This refers to rescreening the same population at a given interval.",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.0861206054688,
+        527.37060546875,
+        553.7930908203125
+      ],
+      "text": "Risk groups : Any group of people in which the prevalence or incidence of TB is significantly higher",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.5501098632812,
+        212.80421447753906,
+        566.9931030273438
+      ],
+      "text": "than in the general population.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        573.9900512695312,
+        527.4234008789062,
+        588.697021484375
+      ],
+      "text": "Screening test, examination or procedure for tuberculosis disease : A test, examination, or",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.4539794921875,
+        527.435546875,
+        601.89697265625
+      ],
+      "text": "other procedure used to distinguish people with a high likelihood of having TB disease from people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.6539916992188,
+        527.4266967773438,
+        615.0969848632812
+      ],
+      "text": "who are highly unlikely to have TB. A screening test is not intended to be diagnostic. People with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.85400390625,
+        527.3848876953125,
+        628.2969970703125
+      ],
+      "text": "positive results on a screening test should undergo further evaluation, depending on the screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.0540161132812,
+        142.29139709472656,
+        641.4970092773438
+      ],
+      "text": "algorithm used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.4940185546875,
+        527.321533203125,
+        663.2009887695312
+      ],
+      "text": "Second screening : A second screening test, examination or other procedure undergone by persons",
+      "font": "SegoeUI-Bold",
+      "size": 10.980883598327637,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.9580078125,
+        307.3759765625,
+        676.4010009765625
+      ],
+      "text": "whose results were positive during the initial screen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.39794921875,
+        527.37646484375,
+        698.1049194335938
+      ],
+      "text": "Systematic screening for TB disease : The systematic identification of people at risk for TB",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.8619384765625,
+        527.3926391601562,
+        711.304931640625
+      ],
+      "text": "disease, in a predetermined target group, by assessing symptoms and using tests, examinations or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.0618896484375,
+        527.4144287109375,
+        724.5048828125
+      ],
+      "text": "other procedures that can be applied rapidly. For those who screen positive, the diagnosis needs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        723.2619018554688,
+        527.428955078125,
+        737.7048950195312
+      ],
+      "text": "to be established by one or several diagnostic tests and additional clinical assessments. This term is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.4619140625,
+        527.4212036132812,
+        750.9049072265625
+      ],
+      "text": "sometimes used interchangeably with “active tuberculosis case-finding”. It should be distinguished",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.6619262695312,
+        425.90936279296875,
+        764.1049194335938
+      ],
+      "text": "from testing for TB infection (with a TB skin test or interferon-g release assay).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        489.3196105957031,
+        801.0170288085938,
+        552.4254150390625,
+        811.52099609375
+      ],
+      "text": "Definitions ix",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

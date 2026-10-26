@@ -1,0 +1,570 @@
+{
+  "file": "module6",
+  "page": 52,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.056396484375,
+        354.8602600097656,
+        88.63139343261719
+      ],
+      "text": "3.2.2\t Summary of evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.20639038085938,
+        486.2975158691406,
+        115.62739562988281
+      ],
+      "text": "Recommendation 27: Package of interventions for people with advanced HIV disease",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4212646484375,
+        129.8253936767578
+      ],
+      "text": "Tuberculosis is a marker for advanced HIV disease and is well recognized as a leading cause of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.3793334960938,
+        143.8253936767578
+      ],
+      "text": "morbidity and mortality among people living with HIV. People with HIV and TB have a higher risk",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.4529418945312,
+        157.8253936767578
+      ],
+      "text": "of mortality compared with people with TB who do not have HIV. Other causes of mortality among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.3936767578125,
+        171.8253936767578
+      ],
+      "text": "adults with advanced HIV disease globally include severe bacterial infections, cryptococcal disease,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4161987304688,
+        185.8253936767578
+      ],
+      "text": "histoplasmosis, toxoplasmosis and  pneumonia. Addressing these other  Pneumocystis jirovecii",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.43994140625,
+        199.8253936767578
+      ],
+      "text": "comorbidities as part of an integrated package of care for people with HIV-associated TB can help",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.4200439453125,
+        213.8253936767578
+      ],
+      "text": "to reduce mortality. TB and HIV programmes are therefore encouraged to work together to expand",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        484.8511657714844,
+        227.8253936767578
+      ],
+      "text": "access to an integrated package of care for advanced HIV disease among people with TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.428955078125,
+        255.8253936767578
+      ],
+      "text": "This recommendation is based on two RCTs: REMSTART   and REALITY  . REMSTART was  (103) (104)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.41796875,
+        269.8254089355469
+      ],
+      "text": "conducted in the United Republic of Tanzania and Zambia, and randomized 1999 ART-naïve adults",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        524.4285888671875,
+        283.8254089355469
+      ],
+      "text": "with HIV with CD4 count < 200 cells/mm  to either standard care or standard care plus enhanced clinic- 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4200439453125,
+        297.8254089355469
+      ],
+      "text": "based care with serum cryptococcal antigen (CrAg) screening, pre-emptive antifungal treatment for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4386596679688,
+        311.8254089355469
+      ],
+      "text": "those who screened positive for CrAg, as well as additional community support (comprising a weekly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.384765625,
+        325.8254089355469
+      ],
+      "text": "home or community visit by trained and paid lay workers who delivered ART, provided adherence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.3927001953125,
+        339.825439453125
+      ],
+      "text": "support and monitored participants for signs and symptoms of drug toxicity or new symptoms). The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.390380859375,
+        353.825439453125
+      ],
+      "text": "intervention group had 28% fewer people dying: mortality was 13% in the intervention group versus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        290.4031982421875,
+        367.825439453125
+      ],
+      "text": "18% in the group receiving standard care  .  (103)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.4155883789062,
+        395.825439453125
+      ],
+      "text": "The REALITY study enrolled 1805 people living with HIV with CD4 counts < 100 cells/mm in Kenya,  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.4221801757812,
+        409.825439453125
+      ],
+      "text": "Malawi, Uganda and Zimbabwe  . Participants were mainly adults (72 were 5–17 years old).  (104)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.4188842773438,
+        423.825439453125
+      ],
+      "text": "All underwent screening for TB disease at enrolment and were then randomized to the standard",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.4156494140625,
+        437.825439453125
+      ],
+      "text": "of care (co-trimoxazole) according to national guidelines or an enhanced prophylaxis package: 12",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.4298706054688,
+        451.825439453125
+      ],
+      "text": "weeks of fluconazole (100 mg once daily), 12 weeks of a fixed-dose combination of co-trimoxazole",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        527.4187622070312,
+        465.825439453125
+      ],
+      "text": "(800 + 160 mg) + isoniazid (300 mg) + pyridoxine (25 mg) as a scored once-daily tablet, five days",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4155883789062,
+        479.825439453125
+      ],
+      "text": "of 500 mg of azithromycin once daily and a single dose of 400 mg of albendazole. All drugs were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.3826904296875,
+        493.825439453125
+      ],
+      "text": "started simultaneously, and ART was offered on the same day as the prophylaxis package. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        527.4225463867188,
+        507.825439453125
+      ],
+      "text": "enhanced prophylaxis package at the time of ART initiation reduced mortality by 27% (from 12.2%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.3824462890625,
+        527.43994140625,
+        521.825439453125
+      ],
+      "text": "to 8.9%) over 24 weeks. Mortality from Cryptococcus species declined considerably, from 1.5% to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        527.434326171875,
+        535.825439453125
+      ],
+      "text": "0.4%, and mortality from unascertained causes (most people died at home) declined from 6.0% to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        527.4135131835938,
+        549.825439453125
+      ],
+      "text": "3.8%. TB incidence was reduced by 28%, cryptococcal disease by 62% and hospitalization by 17%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3824462890625,
+        527.4268798828125,
+        563.825439453125
+      ],
+      "text": "in the enhanced prophylaxis group versus the standard-of-care group. Most of the deaths in this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.3824462890625,
+        527.42236328125,
+        577.825439453125
+      ],
+      "text": "study occurred within the first three weeks, highlighting the value of early prophylaxis for people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        179.34970092773438,
+        591.8253784179688
+      ],
+      "text": "advanced disease  . (104)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.2064208984375,
+        427.9986877441406,
+        619.6273803710938
+      ],
+      "text": "Recommendations 28–29: Timing of ART initiation for HIV-associated TB",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.3717651367188,
+        633.8253784179688
+      ],
+      "text": "Early initiation of ART for people living with HIV-associated TB is critical in reducing morbidity and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.3948974609375,
+        647.8253784179688
+      ],
+      "text": "mortality and preventing HIV transmission. HIV and TB programmes should ensure that people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.3904418945312,
+        661.8253784179688
+      ],
+      "text": "TB who also have HIV are offered ART as early as possible, preferably within integrated services or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.3934326171875,
+        675.8253784179688
+      ],
+      "text": "within TB facilities  . In 2010, WHO recommended that ART be started as soon as possible within  (10)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4100952148438,
+        689.8253784179688
+      ],
+      "text": "eight weeks of initiating TB treatment, and in 2012, WHO recommended to initiate ART within two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4091186523438,
+        703.8253784179688
+      ],
+      "text": "weeks among those with CD4 count ≤ 50 cells/mm . Since 2021, WHO has recommended that ART  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4036254882812,
+        717.8253784179688
+      ],
+      "text": "should be started as soon as possible within two weeks of initiating TB treatment, regardless of CD4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        487.5975036621094,
+        731.8253784179688
+      ],
+      "text": "cell count for people with drug-susceptible TB and in whom TB meningitis is excluded  .  (21)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "34",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

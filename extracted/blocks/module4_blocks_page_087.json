@@ -1,0 +1,522 @@
+{
+  "file": "module4",
+  "page": 87,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        504.2485656738281,
+        86.53083038330078
+      ],
+      "text": "Recommendation 1.2 The 6-month bedaquiline, delamanid,",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.65083312988281,
+        482.59893798828125,
+        105.53083038330078
+      ],
+      "text": "linezolid, levofloxacin and clofazimine (BDLLfxC) regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        117.23619842529297,
+        236.23428344726562,
+        131.59120178222656
+      ],
+      "text": "No. Recommendation (NEW)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        138.850830078125,
+        495.4471740722656,
+        153.40382385253906
+      ],
+      "text": "1.2 WHO suggests the use of a 6-month treatment regimen composed of bedaquiline,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        150.96083068847656,
+        504.2615661621094,
+        165.40382385253906
+      ],
+      "text": "delamanid, linezolid (600 mg), levofloxacin, and clofazimine (BDLLfxC) in MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        162.96083068847656,
+        350.2570495605469,
+        177.40382385253906
+      ],
+      "text": "patients with or without fluoroquinolone resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        177.9368438720703,
+        389.42132568359375,
+        193.60084533691406
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.33322143554688,
+        119.47928619384766,
+        226.18521118164062
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.39320373535156,
+        524.5437622070312,
+        247.83619689941406
+      ],
+      "text": "1.\t  Drug susceptibility testing (DST) for fluoroquinolones is strongly encouraged in people with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        246.5930938720703,
+        527.3484497070312,
+        261.0361022949219
+      ],
+      "text": "RR-TB. Although it should not delay the initiation of the BDLLfxC, the test results should guide the",
+      "font": "SegoeUI-Light",
+      "size": 10.993748664855957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        259.7930908203125,
+        394.39093017578125,
+        274.2361145019531
+      ],
+      "text": "decision on whether levofloxacin or clofazimine should be retained.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.2451171875,
+        298.9967041015625,
+        291.6881408691406
+      ],
+      "text": "2.\t This recommendation applies to the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        294.69708251953125,
+        527.5748291015625,
+        309.1401062011719
+      ],
+      "text": "a.\t  People with MDR/RR-TB or pre-XDR-TB (i.e. MDR/RR-TB and resistance to fluoroquinolones).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        312.14898681640625,
+        527.1781616210938,
+        326.5920104980469
+      ],
+      "text": "b.\t Patients with less than 1 month of previous exposure to bedaquiline, linezolid, delamanid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        325.34912109375,
+        527.3880004882812,
+        339.7921447753906
+      ],
+      "text": "or clofazimine. When exposure is greater than 1 month, these patients may still receive the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        338.5491027832031,
+        527.4093017578125,
+        352.99212646484375
+      ],
+      "text": "regimen if resistance to the specific medicines involved in such exposure has been ruled out.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        356.0010070800781,
+        527.4124755859375,
+        370.44403076171875
+      ],
+      "text": "c.\t People with diagnosed pulmonary TB of all ages, including children, adolescents, PLHIV, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        369.2010192871094,
+        271.392822265625,
+        383.64404296875
+      ],
+      "text": "pregnant and breastfeeding women.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        386.65301513671875,
+        527.389404296875,
+        401.0960388183594
+      ],
+      "text": "d.\t People with all forms of extrapulmonary TB except for TB involving the CNS, osteoarticular",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        399.8529968261719,
+        388.4747009277344,
+        414.2960205078125
+      ],
+      "text": "TB, or disseminated forms of TB with multiorgan involvement.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        417.30499267578125,
+        527.44091796875,
+        431.7480163574219
+      ],
+      "text": "e.\t Children and adolescents who do not have bacteriological confirmation of TB or resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        430.5050048828125,
+        527.54736328125,
+        444.9480285644531
+      ],
+      "text": "patterns but who do have a high likelihood of MDR/RR-TB (based on clinical signs and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        443.70501708984375,
+        524.408447265625,
+        458.1480407714844
+      ],
+      "text": "symptoms of TB, in combination with a history of contact with a patient with confirmed MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        456.9049987792969,
+        137.6031036376953,
+        471.3480224609375
+      ],
+      "text": "RR-TB).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.3569030761719,
+        527.426025390625,
+        488.7999267578125
+      ],
+      "text": "3.\t When resistance to fluoroquinolones is unknown, the regimen should be started as BDLLfxC and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        487.5569152832031,
+        527.4227294921875,
+        501.99993896484375
+      ],
+      "text": "then adjusted based on the DST results. In cases of quinolone susceptibility, clofazimine should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        500.75689697265625,
+        527.1913452148438,
+        515.1998901367188
+      ],
+      "text": "be dropped and the regimen started or continued as bedaquiline, delamanid, linezolid and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        513.9569091796875,
+        527.386474609375,
+        528.39990234375
+      ],
+      "text": "levofloxacin (BDLLfx). In cases of resistance to fluoroquinolones, levofloxacin should be dropped",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        527.1568603515625,
+        527.2806396484375,
+        541.599853515625
+      ],
+      "text": "and the regimen started or continued as bedaquiline, delamanid, linezolid and clofazimine (BDLC).",
+      "font": "SegoeUI-Light",
+      "size": 10.967652320861816,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.9741821289062,
+        128.1744842529297,
+        570.8262329101562
+      ],
+      "text": "Rationale",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.0341186523438,
+        527.1273803710938,
+        592.4771118164062
+      ],
+      "text": "The rationale for this recommendation is based on the evidence and considerations described in detail",
+      "font": "SegoeUI-Light",
+      "size": 10.961984634399414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.234130859375,
+        527.4036254882812,
+        605.6771240234375
+      ],
+      "text": "in the following two subsections. Data from an RCT (BEAT Tuberculosis trial: NCT04062201) showed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.43408203125,
+        527.4608764648438,
+        618.8770751953125
+      ],
+      "text": "that the efficacy and safety of the BDLLfxC regimen was similar to that of the control arm regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.6340942382812,
+        527.572998046875,
+        632.0770874023438
+      ],
+      "text": "(WHO-recommended 9-month or longer regimens), and offers advantages based on its shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.8341064453125,
+        527.4058227539062,
+        645.277099609375
+      ],
+      "text": "duration and lower pill burden than the comparators. It was judged that implementing this regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.0341186523438,
+        527.4113159179688,
+        658.4771118164062
+      ],
+      "text": "was probably feasible and acceptable, with equity probably improved, and that implementing this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.234130859375,
+        527.4190063476562,
+        671.6771240234375
+      ],
+      "text": "regimen was probably suitable for most population groups, including pregnant and breastfeeding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.43408203125,
+        198.39019775390625,
+        684.8770751953125
+      ],
+      "text": "women, children and PLHIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.2512817382812,
+        191.23452758789062,
+        714.1033325195312
+      ],
+      "text": "Summary of evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.311279296875,
+        527.172119140625,
+        735.7542724609375
+      ],
+      "text": "This section provides the PICO question, the data and studies considered to answer the questions, the",
+      "font": "SegoeUI-Light",
+      "size": 10.976274490356445,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        734.5112915039062,
+        527.3914794921875,
+        748.9542846679688
+      ],
+      "text": "methods used for analysis and data synthesis, a summary of evidence on desirable and undesirable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        747.711181640625,
+        527.4432373046875,
+        762.1541748046875
+      ],
+      "text": "effects and the certainty of that evidence, and a summary of other evidence considered during the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  73",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

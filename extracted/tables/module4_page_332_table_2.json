@@ -1,0 +1,48 @@
+{
+  "file": "module4",
+  "page": 332,
+  "table_id": 2,
+  "bbox": [
+    143.14949798583984,
+    231.91200256347656,
+    514.77197265625,
+    347.3926595052083
+  ],
+  "heading": null,
+  "n_rows": 4,
+  "n_cols": 6,
+  "data": [
+    [
+      "Outcomes",
+      "№ of participants (studies) Follow-up",
+      "Certainty of the evidence (GRADE)",
+      "Relative effect (95% CI)",
+      "Anticipated absolute effects* (95% CI)",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Risk with the currently recommended standard of care",
+      "Risk difference with a 6-month regimen using bedaquiline, delamanid, and linezolid with or without the addition of levofloxacin or clofazimine or both (BDLLfx/C)"
+    ],
+    [
+      "Failure and 402 RR 1.20 Recurrence (1 RCT) Very lowa,b (0.61 to follow-up: 2.37) 76 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "70 per 1,000",
+      "14 more per 1,000 (38 fewer to 66 more)"
+    ]
+  ]
+}

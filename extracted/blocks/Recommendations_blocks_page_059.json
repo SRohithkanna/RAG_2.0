@@ -1,0 +1,390 @@
+{
+  "file": "Recommendations",
+  "page": 59,
+  "blocks": [
+    {
+      "bbox": [
+        51.023799896240234,
+        35.40137481689453,
+        232.52516174316406,
+        53.40137481689453
+      ],
+      "text": "ANNEX 3. SAMPLE FORMS",
+      "font": "TheSans-Plain",
+      "size": 18.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        56.53472900390625,
+        322.2665100097656,
+        70.33473205566406
+      ],
+      "text": "FOR CONTACT INVESTIGATIONS",
+      "font": "TheSans-Plain",
+      "size": 13.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        85.37181091308594,
+        408.2379455566406,
+        92.87181091308594
+      ],
+      "text": "These forms were designed for contact investigations and are examples of the com -",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.1081085205078,
+        97.37181091308594,
+        321.5680847167969,
+        104.87181091308594
+      ],
+      "text": "pre hensive data collection instruments that may be used.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        126.10533142089844,
+        408.2319641113281,
+        135.10533142089844
+      ],
+      "text": "FORM 1. INDEX CASE INTERVIEW AND CHART REVIEW: HOUSEHOLD",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.1081085205078,
+        138.1023406982422,
+        244.91819763183594,
+        147.1023406982422
+      ],
+      "text": "ROSTER AND CLINICAL DATA",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        169.22955322265625,
+        179.6455841064453,
+        176.72955322265625
+      ],
+      "text": "TB index case",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        187.37181091308594,
+        408.1479797363281,
+        194.87181091308594
+      ],
+      "text": "ID  Registry number (For example: 7101/K/11/201)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07810974121094,
+        205.37181091308594,
+        167.09808349609375,
+        212.87181091308594
+      ],
+      "text": "Surname",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07810974121094,
+        223.37181091308594,
+        172.0330810546875,
+        230.87181091308594
+      ],
+      "text": "First name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07810974121094,
+        241.37181091308594,
+        388.0180358886719,
+        248.87181091308594
+      ],
+      "text": "Interview date  /  /  (Date the index case is interviewed)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        179.99810791015625,
+        253.37181091308594,
+        273.6882019042969,
+        260.871826171875
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        271.371826171875,
+        175.7924041748047,
+        278.8718566894531
+      ],
+      "text": "Clinic name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.06491088867188,
+        289.3718566894531,
+        210.17984008789062,
+        296.8718566894531
+      ],
+      "text": "District TB coordinator",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07241821289062,
+        307.3718566894531,
+        212.19735717773438,
+        314.8718566894531
+      ],
+      "text": "TB contact investigator",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07992553710938,
+        325.3718566894531,
+        324.6973876953125,
+        332.8718566894531
+      ],
+      "text": "Was the patient screened for TB in the household?* Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        312.92242431640625,
+        337.3718566894531,
+        323.9474182128906,
+        344.8718566894531
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.08743286132812,
+        367.2295837402344,
+        220.61241149902344,
+        374.7295837402344
+      ],
+      "text": "Demographic information",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.08743286132812,
+        385.3718566894531,
+        408.1502380371094,
+        392.8718566894531
+      ],
+      "text": "Date of birth  /  /  (Date patient was born; if unknown, estimate)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.91995239257812,
+        397.3718566894531,
+        266.61004638671875,
+        404.8718566894531
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.01995849609375,
+        415.3718566894531,
+        336.1949462890625,
+        422.8718566894531
+      ],
+      "text": "Gender Male Female",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0274658203125,
+        433.3718566894531,
+        197.56497192382812,
+        440.8718566894531
+      ],
+      "text": "Address Ward",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        178.5449676513672,
+        451.3718566894531,
+        199.71743774414062,
+        458.8718566894531
+      ],
+      "text": "Street",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        178.5449676513672,
+        469.3718566894531,
+        228.33743286132812,
+        476.8718566894531
+      ],
+      "text": "House number",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        178.5449676513672,
+        487.3718566894531,
+        225.8774871826172,
+        494.8718566894531
+      ],
+      "text": "Ten cell leader",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        178.5449676513672,
+        505.3718566894531,
+        241.0199432373047,
+        512.871826171875
+      ],
+      "text": "Telephone number",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0274658203125,
+        523.371826171875,
+        374.19744873046875,
+        530.871826171875
+      ],
+      "text": "Occupation Teacher Health care worker",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.30996704101562,
+        535.371826171875,
+        335.70745849609375,
+        542.871826171875
+      ],
+      "text": "Correctional employee Farmer",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.31747436523438,
+        547.371826171875,
+        331.7192077636719,
+        554.871826171875
+      ],
+      "text": "Petty trader Other",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.3417205810547,
+        559.371826171875,
+        291.00921630859375,
+        566.871826171875
+      ],
+      "text": "Not employed in past 24 months",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.3417205810547,
+        571.371826171875,
+        230.7766876220703,
+        578.871826171875
+      ],
+      "text": "Other, specify",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        226.1497039794922,
+        651.97265625,
+        233.07220458984375,
+        659.47265625
+      ],
+      "text": "57",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

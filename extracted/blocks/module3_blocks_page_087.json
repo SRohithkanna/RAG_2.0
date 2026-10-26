@@ -1,0 +1,426 @@
+{
+  "file": "module3",
+  "page": 87,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.24410247802734,
+        489.01043701171875,
+        90.4740982055664
+      ],
+      "text": "2.4. Follow-on diagnostic tests for detection of",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        91.0440902709961,
+        497.85113525390625,
+        113.27408599853516
+      ],
+      "text": "additional drug-resistance after TB confirmation",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.87269592285156,
+        527.3751831054688,
+        140.25270080566406
+      ],
+      "text": "2.4.1 Low complexity automated NAATs for detection of resistance to",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        140.6726837158203,
+        333.0677795410156,
+        157.0526885986328
+      ],
+      "text": "isoniazid and second-line anti-TB agents",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.3037109375,
+        526.965576171875,
+        180.44871520996094
+      ],
+      "text": "Among 105 countries possessing representative data on resistance to fluoroquinolones from",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.8037109375,
+        526.9656982421875,
+        195.94871520996094
+      ],
+      "text": "the past 15 years, the proportion of MDR/RR-TB cases with resistance to any fluoroquinolone",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.3037109375,
+        526.96142578125,
+        211.44871520996094
+      ],
+      "text": "for which testing was done was 20.1% (95% CI: 15.5–25.0%)  . Thus, rapid and early testing  (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.8037109375,
+        527.18994140625,
+        226.94871520996094
+      ],
+      "text": "for the detection of fluoroquinolone resistance is essential for determining eligibility for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.3037109375,
+        527.1355590820312,
+        242.44871520996094
+      ],
+      "text": "treatment with the all-oral 9–12 month standardized shorter regimen for MDR/RR-TB. However,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.8037109375,
+        526.965576171875,
+        257.94873046875
+      ],
+      "text": "the current limitation with testing for fluoroquinolone resistance is the limited accessibility of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.3037109375,
+        526.9038696289062,
+        273.44873046875
+      ],
+      "text": "current technologies (which are often only available at higher tiers of the health system) and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.8037109375,
+        258.05047607421875,
+        288.94873046875
+      ],
+      "text": "poor yield in paucibacillary specimens.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.8077392578125,
+        526.9645385742188,
+        312.9527587890625
+      ],
+      "text": "Low complexity automated NAATs are a new class of diagnostics intended for use as a reflex",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.3077392578125,
+        527.26611328125,
+        328.4527587890625
+      ],
+      "text": "test in specimens determined to be Mtb complex (MTBC)-positive; they offer rapid DST in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.8077087402344,
+        526.9644165039062,
+        343.9527282714844
+      ],
+      "text": "intermediate and peripheral laboratories. The first product in this class simultaneously detects",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.3077087402344,
+        526.9644165039062,
+        359.4527282714844
+      ],
+      "text": "resistance to isoniazid, fluoroquinolones, ethionamide and amikacin. Results are available in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.8077087402344,
+        526.98095703125,
+        374.9527282714844
+      ],
+      "text": "under 90 minutes, leading to faster time to results than the current standard of care, which",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.3077087402344,
+        310.9376220703125,
+        390.4527282714844
+      ],
+      "text": "includes LPAs and culture-based phenotypic DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.3116149902344,
+        527.01953125,
+        414.4566345214844
+      ],
+      "text": "An additional value of the tests is the accurate and rapid detection of isoniazid resistance,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.8116149902344,
+        526.6504516601562,
+        429.9566345214844
+      ],
+      "text": "which is relevant for both RR-TB and rifampicin-susceptible TB; the latter is often undiagnosed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995348930358887,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.3116149902344,
+        526.9656982421875,
+        445.4566345214844
+      ],
+      "text": "and contributes to a large burden of disease. Globally, rifampicin-susceptible TB is estimated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.8116149902344,
+        526.7556762695312,
+        460.9566345214844
+      ],
+      "text": "to occur in 13.1% (95% CI: 9.9–16.9%) of new cases and 17.4% (95% CI: 0.5–54.0%) of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.3116149902344,
+        526.962890625,
+        476.4566345214844
+      ],
+      "text": "previously treated cases  . Thus, this test could also be used as a reflex test to complement  (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.8116149902344,
+        526.9259643554688,
+        491.9566345214844
+      ],
+      "text": "existing technologies that only test for rifampicin, allowing the rapid and accurate detection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.3116149902344,
+        302.45611572265625,
+        507.4566345214844
+      ],
+      "text": "of isoniazid-resistant, rifampicin-susceptible TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.3155517578125,
+        527.0801391601562,
+        531.4605712890625
+      ],
+      "text": "Although these new technologies are excellent at detecting resistance to selected drugs,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.8155517578125,
+        526.7268676757812,
+        546.9605712890625
+      ],
+      "text": "conventional culture-based phenotypic DST remains important to determine resistance to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.3155517578125,
+        526.8812866210938,
+        562.4605712890625
+      ],
+      "text": "other anti-TB agents, particularly the new and repurposed medicines such as bedaquiline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.8155517578125,
+        136.50291442871094,
+        577.9605712890625
+      ],
+      "text": "and linezolid.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.3270874023438,
+        192.72633361816406,
+        606.7070922851562
+      ],
+      "text": "Recommendations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41429901123047,
+        628.960205078125,
+        512.2264404296875,
+        641.8742065429688
+      ],
+      "text": "10.\tIn people with bacteriologically confirmed pulmonary TB, low complexity",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        644.460205078125,
+        512.5931396484375,
+        657.3742065429688
+      ],
+      "text": "automated NAATs may be used on sputum for the initial detection of resistance",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.961081504821777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        659.960205078125,
+        509.47406005859375,
+        672.8742065429688
+      ],
+      "text": "to isoniazid and fluoroquinolones, rather than culture-based phenotypic DST.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        678.3278198242188,
+        509.5883483886719,
+        691.2088012695312
+      ],
+      "text": "(Conditional recommendation, moderate certainty of evidence for diagnostic accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 10.947223663330078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 71",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

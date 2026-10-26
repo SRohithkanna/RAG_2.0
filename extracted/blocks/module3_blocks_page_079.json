@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 79,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        486.3060607910156,
+        83.2621841430664
+      ],
+      "text": "Table 2.3.2.1 Cost–effectiveness analysis of concurrent use of LC-aNAATs",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.57433319091797,
+        333.1740417480469,
+        97.6623306274414
+      ],
+      "text": "among children in Malawi and the Philippines",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        353.1299133300781,
+        116.61824035644531,
+        518.7222900390625,
+        129.53224182128906
+      ],
+      "text": "Effectiveness,  ICER (95% UR),",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        123.11824035644531,
+        336.9270935058594,
+        136.03224182128906
+      ],
+      "text": "Country Diagnostic strategy Cost, US$",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.1299133300781,
+        129.6182403564453,
+        458.73931884765625,
+        142.53224182128906
+      ],
+      "text": "DALYs US$",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        150.73651123046875,
+        486.3593444824219,
+        163.8815155029297
+      ],
+      "text": "LC-aNAAT on respiratory  114 0.93 Reference Malawi",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        163.73651123046875,
+        183.13458251953125,
+        176.8815155029297
+      ],
+      "text": "sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        183.875,
+        515.267333984375,
+        197.02000427246094
+      ],
+      "text": "LC-aNAATs on respiratory  204 0.57 253 (123–2317)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        196.875,
+        235.81356811523438,
+        210.02000427246094
+      ],
+      "text": "and stool samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        217.013427734375,
+        486.3593444824219,
+        230.15843200683594
+      ],
+      "text": "LC-aNAAT on respiratory  84 1.04 Reference Philippines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        230.013427734375,
+        183.13458251953125,
+        243.15843200683594
+      ],
+      "text": "sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        250.15179443359375,
+        502.63934326171875,
+        263.29681396484375
+      ],
+      "text": "LC-aNAATs on respiratory  149 0.62 156 (79–888)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.90159606933594,
+        263.15179443359375,
+        235.81356811523438,
+        276.29681396484375
+      ],
+      "text": "and stool samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.0794372558594,
+        526.5011596679688,
+        302.8344421386719
+      ],
+      "text": "DALY: disability-adjusted life year; ICER: incremental cost–effectiveness ratio; LC-aNAAT: low-complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.8794250488281,
+        330.6241760253906,
+        313.6344299316406
+      ],
+      "text": "automated nucleic acid amplification test; UR: uncertainty range.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.6426086425781,
+        526.964599609375,
+        343.7876281738281
+      ],
+      "text": "More information on the cost–effectiveness analysis of concurrent use of tests in children is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.1426086425781,
+        212.0390167236328,
+        359.2876281738281
+      ],
+      "text": "available in  Web Annex B.9.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.65423583984375,
+        179.01329040527344,
+        388.0342102050781
+      ],
+      "text": "User perspective",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.28509521484375,
+        527.0264892578125,
+        411.43011474609375
+      ],
+      "text": "The GDG assessed whether concurrent testing of multiple samples would increase the diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.78509521484375,
+        526.9666748046875,
+        426.93011474609375
+      ],
+      "text": "yield (i.e. the benefit to patients or the programme in terms of finding more people with TB).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.28509521484375,
+        527.003173828125,
+        442.43011474609375
+      ],
+      "text": "One of the PICO questions focused on the concurrent use of LC-aNAATs on respiratory and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.78509521484375,
+        306.0316467285156,
+        457.93011474609375
+      ],
+      "text": "stool samples for the diagnosis of TB in children.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.2967224121094,
+        253.505859375,
+        486.67669677734375
+      ],
+      "text": "User preferences and values",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.4276123046875,
+        494.171875,
+        508.5726318359375
+      ],
+      "text": "As important outcomes of the diagnostic test, people in high TB burden settings value:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.1795654296875,
+        78.81909942626953,
+        528.3245849609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        515.1795654296875,
+        527.1292724609375,
+        528.3245849609375
+      ],
+      "text": "getting an accurate diagnosis and reaching diagnostic closure (finally knowing “what is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        530.6795654296875,
+        171.57540893554688,
+        543.8245849609375
+      ],
+      "text": "wrong with me”);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.1795654296875,
+        78.81909942626953,
+        559.3245849609375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        546.1795654296875,
+        526.9630126953125,
+        559.3245849609375
+      ],
+      "text": "avoiding diagnostic delays, as they exacerbate existing financial hardships and emotional",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        561.6795654296875,
+        524.4429931640625,
+        574.8245849609375
+      ],
+      "text": "and physical suffering and make people feel guilty for infecting others (especially children);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997349739074707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.1796264648438,
+        78.81909942626953,
+        590.3246459960938
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        577.1796264648438,
+        236.3772735595703,
+        590.3246459960938
+      ],
+      "text": "having accessible facilities; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.6796264648438,
+        78.81909942626953,
+        605.8246459960938
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        592.6796264648438,
+        389.1407470703125,
+        605.8246459960938
+      ],
+      "text": "reducing diagnosis-associated costs (e.g. travel, missing work).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.5181884765625,
+        527.2449340820312,
+        632.6632080078125
+      ],
+      "text": "Participants appreciate that stool collection is far less invasive than gastric lavage and can",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.0181884765625,
+        527.1500244140625,
+        648.1632080078125
+      ],
+      "text": "thereby reduce physical and emotional suffering of children and their parents (see  Web",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.5181884765625,
+        136.68951416015625,
+        663.6632080078125
+      ],
+      "text": "). Annex B.10",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.02978515625,
+        112.7667007446289,
+        692.4097900390625
+      ],
+      "text": "Equity",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.6607055664062,
+        526.9918823242188,
+        715.8057250976562
+      ],
+      "text": "Concurrent specimen testing was not practiced in the interview study countries. However, it",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.1607055664062,
+        500.8010559082031,
+        731.3057250976562
+      ],
+      "text": "was believed to improve access to care by minimizing repeat visits and loss to follow-up.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.1647338867188,
+        527.182861328125,
+        755.3097534179688
+      ],
+      "text": "According to the interview study respondents, using non-sputum specimens has the potential",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996599197387695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        757.6647338867188,
+        527.124267578125,
+        770.8097534179688
+      ],
+      "text": "to improve access to care, especially with a test that can be performed at all levels of the health",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98293685913086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 63",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

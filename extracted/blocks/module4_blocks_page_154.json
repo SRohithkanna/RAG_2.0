@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 154,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3878173828125,
+        81.83369445800781
+      ],
+      "text": "to pyrazinamide) should be similarly excluded before treatment, to help avert the acquisition of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        213.3074951171875,
+        80.48070526123047,
+        368.74847412109375,
+        94.83570861816406
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        374.3392639160156,
+        95.03370666503906
+      ],
+      "text": "additional drug resistance (see  ).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.3781127929688,
+        116.73762512207031
+      ],
+      "text": "Empirical treatment of Hr-TB is generally not advised. In cases where a diagnosis of Hr-TB is strongly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.4200439453125,
+        129.93763732910156
+      ],
+      "text": "presumed (e.g. close contacts of Hr-TB cases with active TB but without laboratory confirmation of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.5722045898438,
+        143.13758850097656
+      ],
+      "text": "Hr-TB), (H)REZ–levofloxacin may be introduced pending laboratory confirmation of isoniazid resistance,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.0641479492188,
+        156.3376007080078
+      ],
+      "text": "provided that rifampicin resistance has been reliably excluded. Should DST results eventually indicate",
+      "font": "SegoeUI-Light",
+      "size": 10.995549201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4366455078125,
+        169.53773498535156
+      ],
+      "text": "susceptibility to isoniazid, levofloxacin is stopped, and the patient completes a 2HREZ/4HR regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4387817382812,
+        182.73768615722656
+      ],
+      "text": "(i.e. 2 months of HREZ followed by 4 months of HR). For patients in whom Hr-TB is detected after",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4276123046875,
+        195.9376983642578
+      ],
+      "text": "the start of treatment with the 2HREZ/4HR regimen, the (H)REZ component drugs are continued (or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.4013671875,
+        209.13771057128906
+      ],
+      "text": "pyrazinamide and ethambutol are reintroduced) and levofloxacin added, once rifampicin resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        159.16310119628906,
+        222.3376007080078
+      ],
+      "text": "has been excluded.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.59864807128906,
+        527.6049194335938,
+        244.04164123535156
+      ],
+      "text": "The duration of an (H)REZ–levofloxacin regimen is usually determined by the need to complete",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.79859924316406,
+        527.4465942382812,
+        257.2416076660156
+      ],
+      "text": "6 months of a levofloxacin-containing regimen. Thus, in cases where the diagnosis of Hr-TB is made",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.4332275390625,
+        270.4417419433594
+      ],
+      "text": "after first-line TB treatment has already been initiated, the patient may receive more than 6 months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.43115234375,
+        283.6416320800781
+      ],
+      "text": "of (H)REZ by the end of treatment. When the confirmation of isoniazid resistance arrives late into",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.42333984375,
+        296.8416442871094
+      ],
+      "text": "treatment with a 2HREZ/4HR regimen (e.g. 5 months after start during the continuation phase), the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        527.4511108398438,
+        310.0416564941406
+      ],
+      "text": "clinician would need to decide, based on an assessment of the patient’s condition, whether a 6-month",
+      "font": "SegoeUI-Light",
+      "size": 10.973267555236816,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        391.9715270996094,
+        323.2416076660156
+      ],
+      "text": "course of (H)REZ–levofloxacin needs to be started at that point or not.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.5025939941406,
+        527.453125,
+        344.94561767578125
+      ],
+      "text": "The addition of levofloxacin to (H)REZ is recommended in all patients with Hr-TB, with the exception",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.7025146484375,
+        527.58056640625,
+        358.1455383300781
+      ],
+      "text": "of the following situations: resistance to rifampicin cannot be excluded; known or suspected resistance",
+      "font": "SegoeUI-Light",
+      "size": 10.971814155578613,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        356.9026184082031,
+        527.4354248046875,
+        371.34564208984375
+      ],
+      "text": "to levofloxacin; known intolerance to fluoroquinolones; known or suspected risk for prolonged QT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.10260009765625,
+        527.390380859375,
+        384.5456237792969
+      ],
+      "text": "interval; and pregnancy or during breastfeeding (not an absolute contraindication). In a patient with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.3025207519531,
+        508.0457458496094,
+        397.74554443359375
+      ],
+      "text": "Hr-TB in whom a fluoroquinolone cannot be used, the patient may still be treated with 6(H)REZ.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.0065002441406,
+        527.4212036132812,
+        419.44952392578125
+      ],
+      "text": "When additional resistance (especially to pyrazinamide) is suspected or confirmed, appropriate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2065124511719,
+        527.4310913085938,
+        432.6495361328125
+      ],
+      "text": "treatment regimens will have to be designed individually. The data reviewed for this guideline could",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.406494140625,
+        397.6717224121094,
+        445.8495178222656
+      ],
+      "text": "not provide separate evidence-based recommendations for such cases.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.11041259765625,
+        527.6016235351562,
+        467.5534362792969
+      ],
+      "text": "Where possible, isoniazid resistance testing should also include information on the specific mutations",
+      "font": "SegoeUI-Light",
+      "size": 10.990395545959473,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.0343933105469,
+        527.5045166015625,
+        480.75341796875
+      ],
+      "text": "kat  inh associated with resistance to isoniazid ( G or A). In addition, knowledge about overall host",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.5104064941406,
+        527.4370727539062,
+        493.95343017578125
+      ],
+      "text": "acetylator  status at country or regional level will be useful, given that these may have implications  53",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        491.4344177246094,
+        184.87649536132812,
+        507.1534423828125
+      ],
+      "text": "(107) for regimen design  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        514.4144287109375,
+        527.1326904296875,
+        528.857421875
+      ],
+      "text": "Automated, cartridge-based and high-throughput diagnostic platforms are available (as an alternative",
+      "font": "SegoeUI-Light",
+      "size": 10.961883544921875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        527.6143798828125,
+        527.6104736328125,
+        542.057373046875
+      ],
+      "text": "to LPA) and countries have the capacity to use them. These platforms can, simultaneously or in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        540.8143920898438,
+        462.2209777832031,
+        555.2573852539062
+      ],
+      "text": "separate tests, detect TB, and resistance to rifampicin, fluoroquinolones and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        568.631591796875,
+        209.15663146972656,
+        584.483642578125
+      ],
+      "text": "Subgroup considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        600.8314819335938,
+        116.50701141357422,
+        616.4915161132812
+      ],
+      "text": "Children",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        623.6994018554688,
+        527.43017578125,
+        638.1423950195312
+      ],
+      "text": "In the IPD review, only 2% of Hr-TB patients were children; thus, a separate estimate of effect for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        636.8994140625,
+        527.1482543945312,
+        651.3424072265625
+      ],
+      "text": "paediatric patients was not possible. However, there is no reason why the results and recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.948830604553223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        650.0994262695312,
+        527.5715942382812,
+        664.5424194335938
+      ],
+      "text": "cannot be extrapolated from adults to children, considering that the regimen components have been",
+      "font": "SegoeUI-Light",
+      "size": 10.98569107055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        663.2994384765625,
+        296.07806396484375,
+        677.742431640625
+      ],
+      "text": "standard paediatric TB medicines for many years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        749.8719482421875,
+        526.3480224609375,
+        763.5758666992188
+      ],
+      "text": "Decreased efficacy and toxicity of isoniazid have been related to its increased metabolism (acetylation) in certain individuals, as  53",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        761.743896484375,
+        322.1424255371094,
+        773.1759033203125
+      ],
+      "text": "N determined by mutations in the  -acetyltransferase type 2 (NAT2) gene.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "140 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

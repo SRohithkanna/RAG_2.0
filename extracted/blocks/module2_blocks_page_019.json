@@ -1,0 +1,534 @@
+{
+  "file": "module2",
+  "page": 19,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.99839782714844,
+        515.2333984375,
+        82.86639404296875
+      ],
+      "text": "Fig. 1. Conceptual framework for the 2021 WHO update to guidelines for systematic",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        82.39842224121094,
+        525.6722412109375,
+        97.26641845703125
+      ],
+      "text": "screening for TB. Numbers in parentheses refer to the PICO (population, intervention,",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.79844665527344,
+        455.5105285644531,
+        111.66644287109375
+      ],
+      "text": "comparator and outcome) questions that guided the evidence gathering",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        300.6195983886719,
+        144.36163330078125,
+        521.1160888671875,
+        158.7166290283203
+      ],
+      "text": "INDIVIDUAL-LEVEL  POPULATION-LEVEL",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.94650268554688,
+        150.9615478515625,
+        253.66299438476562,
+        165.31654357910156
+      ],
+      "text": "INPUTS ACTIVITIES",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        318.7041015625,
+        157.5616455078125,
+        496.9330139160156,
+        171.91664123535156
+      ],
+      "text": "OUTCOMES OUTCOMES",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        303.1366882324219,
+        209.86070251464844,
+        511.97711181640625,
+        221.56069946289062
+      ],
+      "text": "Increased TB knowledge, awareness, care-seeking (5)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        303.3783874511719,
+        241.70823669433594,
+        511.7418518066406,
+        253.40823364257812
+      ],
+      "text": "Increased TB diagnosis and treatment initiation (4, 6)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        91.99030303955078,
+        247.9601287841797,
+        142.38040161132812,
+        259.6601257324219
+      ],
+      "text": "Political and",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.38670349121094,
+        257.9601135253906,
+        141.98672485351562,
+        269.6601257324219
+      ],
+      "text": "stakeholder",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.80809783935547,
+        264.7868347167969,
+        247.84869384765625,
+        279.6601257324219
+      ],
+      "text": "Screening  engagement",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        200.40660095214844,
+        273.5555114746094,
+        501.5279541015625,
+        286.4868469238281
+      ],
+      "text": "Reduced diagnostic  Reduced time of  interventions",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        200.5428009033203,
+        283.5555114746094,
+        506.17706298828125,
+        296.4868469238281
+      ],
+      "text": "delay and earlier  infectiousness and  and activities",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        98.73370361328125,
+        293.5555114746094,
+        508.2181701660156,
+        306.4868469238281
+      ],
+      "text": "diagnosis of TB (1) reduced prevalence  Financial  (including a range",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.15380096435547,
+        304.5179138183594,
+        510.5770568847656,
+        316.4868469238281
+      ],
+      "text": "of infectious cases in  resources of health centre-,",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.49620056152344,
+        314.5179138183594,
+        488.9411315917969,
+        326.4868469238281
+      ],
+      "text": "community community- and",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        191.8636016845703,
+        324.78680419921875,
+        390.7486267089844,
+        337.1029052734375
+      ],
+      "text": "household-based  Improved treatment",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        100.20700073242188,
+        331.0928039550781,
+        374.4323425292969,
+        347.1029052734375
+      ],
+      "text": "Human  activities designed  outcomes (2)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.36299896240234,
+        341.0928039550781,
+        512.379150390625,
+        357.8763122558594
+      ],
+      "text": "resources to systematically  Reduced transmission",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        198.66409301757812,
+        354.78680419921875,
+        483.10296630859375,
+        367.8763122558594
+      ],
+      "text": "screen people  of TB (7)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.67160034179688,
+        364.78680419921875,
+        384.7078552246094,
+        379.359130859375
+      ],
+      "text": "for TB) Reduced costs of  Equipment and",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        98.70989990234375,
+        377.2502136230469,
+        397.4088439941406,
+        389.359130859375
+      ],
+      "text": "treatment and financial  supplies",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.1315002441406,
+        387.2502136230469,
+        514.56591796875,
+        399.53472900390625
+      ],
+      "text": "loss, reduced risk  Reduced incidence and",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        316.2521057128906,
+        397.2502136230469,
+        505.6250915527344,
+        409.53472900390625
+      ],
+      "text": "of adverse social  prevalence of TB (7)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.8962097167969,
+        407.2502136230469,
+        384.6804504394531,
+        418.9502258300781
+      ],
+      "text": "consequences of",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        327.6261901855469,
+        417.2502136230469,
+        369.4851989746094,
+        428.9502258300781
+      ],
+      "text": "disease (3)",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        495.0158996582031,
+        527.5120239257812,
+        509.45892333984375
+      ],
+      "text": "A series of PICO (population, intervention, comparator and outcome) questions was established and",
+      "font": "SegoeUI-Light",
+      "size": 10.999300003051758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        508.2159423828125,
+        527.4282836914062,
+        522.658935546875
+      ],
+      "text": "systematic reviews were sought or commissioned for each of the PICO questions and the priority",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        521.4158935546875,
+        175.5177001953125,
+        535.85888671875
+      ],
+      "text": "background questions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        543.1198120117188,
+        527.6041259765625,
+        557.5628051757812
+      ],
+      "text": "The first PICO questions aimed at summarizing the evidence on the effectiveness of systematic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        556.31982421875,
+        467.60137939453125,
+        570.7628173828125
+      ],
+      "text": "screening interventions for TB disease to address individual and community outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        578.023681640625,
+        527.3516235351562,
+        592.4666748046875
+      ],
+      "text": "1.\t Among people with TB disease, does TB screening identify people at an earlier stage of disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        591.2236938476562,
+        258.8438415527344,
+        605.6666870117188
+      ],
+      "text": "compared with passive case-finding?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        608.6757202148438,
+        527.2317504882812,
+        623.1187133789062
+      ],
+      "text": "2.\t Is there a difference in TB treatment outcomes between people with TB identified through",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        621.875732421875,
+        521.6812744140625,
+        636.3187255859375
+      ],
+      "text": "screening interventions compared with people with TB identified through passive case-finding?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        639.3276977539062,
+        527.5197143554688,
+        653.7706909179688
+      ],
+      "text": "3.\t  For people with TB disease and their families, does receiving a diagnosis and undergoing a course",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        652.5277099609375,
+        527.4409790039062,
+        666.970703125
+      ],
+      "text": "of treatment after case detection through screening have a different cost of illness and risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        665.7277221679688,
+        527.4044189453125,
+        680.1707153320312
+      ],
+      "text": "adverse social consequences compared with receiving a diagnosis and undergoing a course of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        678.927734375,
+        344.6241149902344,
+        693.3707275390625
+      ],
+      "text": "treatment after diagnosis through passive case-finding?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        696.379638671875,
+        527.4109497070312,
+        710.8226318359375
+      ],
+      "text": "4.\t For people being screened who do not have TB disease, what are the consequences of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        709.57958984375,
+        138.91299438476562,
+        724.0225830078125
+      ],
+      "text": "screening?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.31089782714844,
+        727.0316162109375,
+        527.60009765625,
+        741.474609375
+      ],
+      "text": "5.\t Does TB screening used in addition to passive case-finding affect subsequent health-seeking",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.31089782714844,
+        740.2316284179688,
+        333.1300048828125,
+        754.6746215820312
+      ],
+      "text": "behaviour compared with passive case-finding alone?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        475.78839111328125,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1. Introduction 7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

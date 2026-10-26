@@ -1,0 +1,546 @@
+{
+  "file": "module6",
+  "page": 28,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.202392578125,
+        486.0950927734375,
+        82.86639404296875
+      ],
+      "text": "Table 2.2 Diagnostic accuracy of CRP using a cut-off of > 5 mg/L among different",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.15240478515625,
+        526.9130859375,
+        95.81640625
+      ],
+      "text": "subpopulations of people living with HIV compared with culture as a reference standard",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        99.33599090576172,
+        503.1258239746094,
+        112.52599334716797
+      ],
+      "text": "Population  No. of studies \n Sensitivity \n Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.50180053710938,
+        110.12773895263672,
+        496.0026550292969,
+        123.31774139404297
+      ],
+      "text": "(no. of participants)  (95% CI)  (95% CI)",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        130.62985229492188,
+        488.41595458984375,
+        143.79214477539062
+      ],
+      "text": "WHO target product profile  NA  > 0.90  > 0.70",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        151.35519409179688,
+        506.814697265625,
+        164.51760864257812
+      ],
+      "text": "All people living with HIV  6 (3971)  0.90 (0.78–0.96)  0.50 (0.29–0.71)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        172.08071899414062,
+        506.814697265625,
+        185.24313354492188
+      ],
+      "text": "Inpatients  1 (400)  0.98 (0.93–1.00)  0.12 (0.09–0.17)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        192.80624389648438,
+        506.814697265625,
+        205.96853637695312
+      ],
+      "text": "Outpatients on ART  1 (381)  0.40 (0.10–0.80)  0.80 (0.75–0.84)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        213.53164672851562,
+        506.814697265625,
+        226.69400024414062
+      ],
+      "text": "Outpatients not on ART  4 (3186)  0.89 (0.85–0.92)  0.54 (0.45–0.62)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        234.25711059570312,
+        506.814697265625,
+        247.41952514648438
+      ],
+      "text": "CD4 ≤ 200 cells/μL  6 (1829)  0.93 (0.87–0.97)  0.40 (0.22–0.62)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        254.98263549804688,
+        506.814697265625,
+        268.1449890136719
+      ],
+      "text": "Pregnant women living with HIV  2 (62)  0.70 (0.12–0.97)  0.41 (0.12–0.78)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.8971862792969,
+        272.6158752441406,
+        286.08819580078125
+      ],
+      "text": "ART: antiretroviral therapy; CI: confidence interval; NA: not applicable",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38232421875,
+        527.424560546875,
+        311.8253479003906
+      ],
+      "text": "As a point-of-care biomedical test, CRP represents an opportunity for enhancing TB screening among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38232421875,
+        527.4265747070312,
+        325.8253479003906
+      ],
+      "text": "people living with HIV. Health staff and patients might be more motivated to pursue a confirmatory",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3822937011719,
+        527.4234619140625,
+        339.8253173828125
+      ],
+      "text": "diagnostic test following a positive screen for CRP. The specificity and predictive value of the test for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3822937011719,
+        527.4511108398438,
+        353.8253173828125
+      ],
+      "text": "detecting TB, however, will likely be reduced in settings with a lower TB prevalence than in those",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3822937011719,
+        206.69412231445312,
+        367.8253173828125
+      ],
+      "text": "included in the meta-analysis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.206298828125,
+        229.59170532226562,
+        395.6272888183594
+      ],
+      "text": "Recommendation 4: Chest X-ray",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3822937011719,
+        527.400146484375,
+        409.8253173828125
+      ],
+      "text": "Where available, WHO recommends using CXR in parallel with the W4SS, to assist in ruling out TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3822937011719,
+        527.4400634765625,
+        423.8253173828125
+      ],
+      "text": "disease prior to initiating TPT among people living with HIV who are on ART. The GDG agreed that,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3822937011719,
+        527.4376220703125,
+        437.8253173828125
+      ],
+      "text": "due to the increased sensitivity, the evidence supported using CXR in addition to the W4SS as a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3822937011719,
+        527.3661499023438,
+        451.8253173828125
+      ],
+      "text": "parallel screening strategy in which a positive or abnormal result on either screen would indicate a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3822937011719,
+        527.4309692382812,
+        465.8253173828125
+      ],
+      "text": "referral for diagnostic evaluation. Data on “any abnormality” and an “abnormality suggestive of TB”",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3822937011719,
+        527.4035034179688,
+        479.8253173828125
+      ],
+      "text": "detected by CXR were reviewed and either approach is recommended, depending on the context,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3822937011719,
+        527.4244995117188,
+        493.8253173828125
+      ],
+      "text": "the availability of radiological expertise, resources and preference towards higher sensitivity or higher",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3822937011719,
+        116.07279968261719,
+        507.8253173828125
+      ],
+      "text": "specificity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.38232421875,
+        527.4058837890625,
+        535.8253173828125
+      ],
+      "text": "The evidence reviewed for the performance of CXR and the W4SS for all people living with HIV came",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.38232421875,
+        527.421142578125,
+        549.8253173828125
+      ],
+      "text": "from eight studies conducted in Benin, Botswana, Brazil, Guinea, India, Kenya, Malawi, Myanmar,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.38232421875,
+        527.3892211914062,
+        563.8253173828125
+      ],
+      "text": "Peru, South Africa and Zimbabwe, with a total of 6238 participants. The average prevalence of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.38232421875,
+        527.3970336914062,
+        577.8253173828125
+      ],
+      "text": "in all people living with HIV in the studies was 7%, ranging from 3% to 18%. Among outpatients on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.38232421875,
+        249.09251403808594,
+        591.8253173828125
+      ],
+      "text": "ART, the average prevalence was 2.6%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.38232421875,
+        527.4190063476562,
+        619.8253173828125
+      ],
+      "text": "CXR alone was found to have similar sensitivity to and similar or higher specificity than the W4SS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.38232421875,
+        527.408935546875,
+        633.8253173828125
+      ],
+      "text": "across all subpopulations. When combined in a sequence whereby CXR followed a positive W4SS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.38232421875,
+        527.4147338867188,
+        647.8253173828125
+      ],
+      "text": "screen, CXR had a lower or similar sensitivity with higher or similar specificity. When combined and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.38232421875,
+        527.3826293945312,
+        661.8253173828125
+      ],
+      "text": "used in parallel with the W4SS, whereby a positive screen from either tool indicates the need for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.38232421875,
+        527.42236328125,
+        675.8253173828125
+      ],
+      "text": "a diagnostic test, it had a higher or similar sensitivity and similar specificity (see Table 2.3). The IPD",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.38232421875,
+        527.4178466796875,
+        689.8253173828125
+      ],
+      "text": "meta-analysis found this strategy to have the highest sensitivity (0.85; 95% CI: 0.69–0.94) compared",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.38232421875,
+        527.4278564453125,
+        703.8253173828125
+      ],
+      "text": "with the W4SS (0.53; 95% CI: 0.36–0.69) and the other tools and strategies assessed for TB screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.38232421875,
+        527.4476318359375,
+        717.8253173828125
+      ],
+      "text": "in outpatients on ART. While the data were limited for inpatients living with HIV, the combined",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.38232421875,
+        527.4144287109375,
+        731.8253173828125
+      ],
+      "text": "strategy of CXR and the W4SS had a very low specificity (0.07; 95% CI: 0.03–0.19), similar to findings",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.38232421875,
+        223.85411071777344,
+        745.8253173828125
+      ],
+      "text": "for using CRP or the W4SS alone.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "10",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

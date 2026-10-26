@@ -1,0 +1,594 @@
+{
+  "file": "module4",
+  "page": 170,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4159545898438,
+        81.83369445800781
+      ],
+      "text": "proportional to the relative group size was applied, improving upon a constant correction. The method",
+      "font": "SegoeUI-Light",
+      "size": 10.95269775390625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        79.31470489501953,
+        527.3906860351562,
+        95.03370666503906
+      ],
+      "text": "(148) considers sparse data and imbalanced groups  . Between-study heterogeneity was assessed",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.51471710205078,
+        527.4172973632812,
+        108.23371887207031
+      ],
+      "text": "(149) (150) using Cochran’s Q test  , with a 0.10 significance threshold and the I-squared metric   (>50%",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.4003295898438,
+        121.43373107910156
+      ],
+      "text": "indicating significant heterogeneity). For descriptive analysis, the pooled proportions of the seven",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.5921630859375,
+        134.6337432861328
+      ],
+      "text": "outcomes of interest were calculated in the groups of patients receiving MDR-TB and HCV treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.997900009155273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.1991577148438,
+        147.8336944580078
+      ],
+      "text": "co-administration and, separately, in the groups receiving MDR-TB treatment with delay of HCV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.4539184570312,
+        161.03370666503906
+      ],
+      "text": "treatment. The single-arm proportions were pooled by fitting binomial generalized linear mixed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.3848266601562,
+        174.2337188720703
+      ],
+      "text": "models with a logit link. Although the analysis of comparative data was used for decision-making,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        524.41259765625,
+        187.43373107910156
+      ],
+      "text": "the pooled proportions (which included additional data, albeit from a mix of comparative and non-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.1907501220703,
+        527.5536499023438,
+        200.6337432861328
+      ],
+      "text": "comparative cohorts) were also considered, to support the GDG’s discussions (e.g. when considering",
+      "font": "SegoeUI-Light",
+      "size": 10.996549606323242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3907012939453,
+        181.52610778808594,
+        213.8336944580078
+      ],
+      "text": "the direction of effects).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.23463439941406,
+        523.96435546875,
+        245.89462280273438
+      ],
+      "text": "Summary of evidence on desirable and undesirable effects and certainty of evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.1024932861328,
+        527.548828125,
+        267.5455017089844
+      ],
+      "text": "Sixteen respondents (expert clinicians) from nine countries provided patient outcome data in the expert",
+      "font": "SegoeUI-Light",
+      "size": 10.945363998413086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.302490234375,
+        527.52978515625,
+        280.7455139160156
+      ],
+      "text": "evidence survey, with outcomes reported for a total of 135 patients who received co-administration of",
+      "font": "SegoeUI-Light",
+      "size": 10.970660209655762,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.50250244140625,
+        527.186279296875,
+        293.9455261230469
+      ],
+      "text": "treatment for MDR-TB and HCV, and 439 patients who received treatment for MDR-TB only, with delay",
+      "font": "SegoeUI-Light",
+      "size": 10.962937355041504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.7025146484375,
+        527.4376220703125,
+        307.1455383300781
+      ],
+      "text": "of HCV treatment. Among these responses, eight respondents contributed data from both cohorts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.90252685546875,
+        527.4562377929688,
+        320.3455505371094
+      ],
+      "text": "(i.e. intervention and comparator) for the comparative analysis, and the other eight contributed data",
+      "font": "SegoeUI-Light",
+      "size": 10.999750137329102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.1024169921875,
+        527.4432983398438,
+        333.5454406738281
+      ],
+      "text": "only for the intervention or comparator cohorts for the descriptive analysis. The overall certainty of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.3023986816406,
+        527.4168090820312,
+        346.74542236328125
+      ],
+      "text": "the evidence was very low, with the calculated estimates of effects based on outcome data from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.5024108886719,
+        527.4146118164062,
+        359.9454345703125
+      ],
+      "text": "recall or records obtained from the expert evidence survey; hence, there was a very serious risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.702392578125,
+        527.4067993164062,
+        373.1454162597656
+      ],
+      "text": "bias due to potential confounding, selection bias, and recall (i.e. outcome assessment) bias, as well",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.90240478515625,
+        331.1832580566406,
+        386.3454284667969
+      ],
+      "text": "as imprecision in the effect estimates for most outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.7463073730469,
+        161.05809020996094,
+        418.40631103515625
+      ],
+      "text": "Desirable effects",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.61431884765625,
+        527.572021484375,
+        440.0573425292969
+      ],
+      "text": "Co-administration of MDR-TB and HCV treatments as compared to MDR-TB treatment only with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.814208984375,
+        527.4520263671875,
+        453.2572326660156
+      ],
+      "text": "delay of HCV treatment may result in an increase in MDR-TB treatment success, but the evidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.0141906738281,
+        527.4221801757812,
+        466.45721435546875
+      ],
+      "text": "is very uncertain (RR: 1.25; 95% CI: 1.07 to 1.46; very low certainty in the evidence of effects); this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.2142028808594,
+        527.6270751953125,
+        479.6572265625
+      ],
+      "text": "corresponds to 163 more MDR-TB treatment successes per 1000 patients (95% CI: 46 more to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.4142150878906,
+        527.4100952148438,
+        492.85723876953125
+      ],
+      "text": "300 more). Use of MDR-TB and HCV treatment co-administration may also result in fewer cases of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.61431884765625,
+        527.4057006835938,
+        506.0573425292969
+      ],
+      "text": "MDR-TB treatment failure, but again the evidence is very uncertain (RR: 0.30; 95% CI: 0.12 to 0.74;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.814208984375,
+        527.4146118164062,
+        519.2572021484375
+      ],
+      "text": "very low certainty in the evidence of effects); this corresponds to 27 fewer failed MDR-TB treatments",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.01416015625,
+        527.3946533203125,
+        532.4571533203125
+      ],
+      "text": "per 1000 patients (95% CI: 34 fewer to 10 fewer). Co-administration of treatments may also result",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.2142333984375,
+        527.41796875,
+        545.6572265625
+      ],
+      "text": "in fewer losses to follow-up, but the evidence is very uncertain (RR: 0.42; 95% CI: 0.24 to 0.73; very",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.4141845703125,
+        527.4111328125,
+        558.857177734375
+      ],
+      "text": "low certainty in the evidence of effects); this corresponds to 103 fewer losses to follow-up per 1000",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.6143188476562,
+        259.6370849609375,
+        572.0573120117188
+      ],
+      "text": "patients (95% CI: 135 fewer to 48 fewer).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.3182373046875,
+        527.3914184570312,
+        593.76123046875
+      ],
+      "text": "Use of MDR-TB and HCV treatment co-administration may also result in a small decrease in deaths,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.5181884765625,
+        527.5352783203125,
+        606.961181640625
+      ],
+      "text": "although the evidence is again very uncertain (RR: 0.98; 95% CI: 0.22 to 4.33; very low certainty in the",
+      "font": "SegoeUI-Light",
+      "size": 10.983988761901855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.7182006835938,
+        527.1251220703125,
+        620.1611938476562
+      ],
+      "text": "evidence of effects); this corresponds to two fewer deaths per 1000 patients (95% CI: 92 fewer to 391",
+      "font": "SegoeUI-Light",
+      "size": 10.995348930358887,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.918212890625,
+        527.395751953125,
+        633.3612060546875
+      ],
+      "text": "more). For HCV treatment success, very few events were reported based on only seven patients in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.1182250976562,
+        527.4124145507812,
+        646.5612182617188
+      ],
+      "text": "one of the comparative cohorts, and no conclusions could be drawn regarding this health outcome.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.3182373046875,
+        527.438720703125,
+        659.76123046875
+      ],
+      "text": "The GDG noted the knowledge gap about HCV treatment outcomes due to insufficient data. In nine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.5181884765625,
+        527.4441528320312,
+        672.961181640625
+      ],
+      "text": "cohorts with a total of 124 patients receiving co-administration of MDR-TB and HCV treatments, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.7182006835938,
+        527.4376220703125,
+        686.1611938476562
+      ],
+      "text": "pooled estimate for HCV treatment success was 95.1% (95% CI: 84.3% to 98.6%). With respect to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.918212890625,
+        527.4090576171875,
+        699.3612060546875
+      ],
+      "text": "additional considerations, the GDG also noted the potential benefit of additional adherence support",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.1182250976562,
+        527.368408203125,
+        712.5612182617188
+      ],
+      "text": "for HCV treatment while also receiving MDR-TB treatment. The GRADE evidence profile provides",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.3182373046875,
+        527.635498046875,
+        725.76123046875
+      ],
+      "text": "a complete description of the estimates of effects, as well as the descriptive analysis of pooled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        724.5181884765625,
+        397.0227355957031,
+        738.961181640625
+      ],
+      "text": "proportions of events from all cohorts for each of the health outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "156 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

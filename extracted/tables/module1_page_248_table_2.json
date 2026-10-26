@@ -1,0 +1,79 @@
+{
+  "file": "module1",
+  "page": 248,
+  "table_id": 2,
+  "bbox": [
+    71.10227351718478,
+    559.951220703125,
+    524.2786475287544,
+    774.6506958007812
+  ],
+  "heading": "Table A5.6. Incidence of TB among all participants",
+  "n_rows": 7,
+  "n_cols": 7,
+  "data": [
+    [
+      "Characteristic",
+      "Levofloxacin",
+      "Levofloxacin- incidence per 100 person-years",
+      "Placebo",
+      "Placebo incidence per 100 person-years",
+      "Incidence rate ratio (95% CI)",
+      "P value"
+    ],
+    [
+      "Intention to treat population",
+      "n = 1023",
+      "",
+      "n = 1018",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Completed 30 months follow- up or reached a trial end- point, n (%)",
+      "996 (97.4%)",
+      "–",
+      "999 (98.1%)",
+      "–",
+      "–",
+      "–"
+    ],
+    [
+      "Total follow-up, person-years",
+      "2586.1",
+      "–",
+      "2564.6",
+      "–",
+      "–",
+      "–"
+    ],
+    [
+      "Bacteriologically confirmeda, n",
+      "6",
+      "0.232",
+      "11",
+      "0.429",
+      "0.55 (0.19 ; 1.62)",
+      "0.278"
+    ],
+    [
+      "Clinically diagnosed only, n",
+      "1",
+      "0.039",
+      "2",
+      "0.078",
+      "0.49 (0.045 ; 5.46)",
+      "0.566"
+    ],
+    [
+      "Either bacteriologically confirmed or clinical TB, n (%)",
+      "7",
+      "0.271",
+      "13",
+      "0.507",
+      "0.54 (0.20 ; 1.46)",
+      "0.226"
+    ]
+  ]
+}

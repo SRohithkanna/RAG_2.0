@@ -1,0 +1,678 @@
+{
+  "file": "module2",
+  "page": 38,
+  "blocks": [
+    {
+      "bbox": [
+        71.86609649658203,
+        67.39069366455078,
+        525.3873901367188,
+        81.83369445800781
+      ],
+      "text": "The GDG considered the performance of CAD software separately for the screening- and triage-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        80.59070587158203,
+        528.381591796875,
+        95.03370666503906
+      ],
+      "text": "use cases. For this guideline, triaging is defined as the process of deciding the diagnostic and care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        93.79071807861328,
+        528.4124755859375,
+        108.23371887207031
+      ],
+      "text": "pathways for people based on their symptoms, signs, risk markers and test results. Triaging involves",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        104.19673156738281,
+        528.4215698242188,
+        121.43373107910156
+      ],
+      "text": "(73) assessing the likelihood of various differential diagnoses as a basis for making clinical decisions .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        120.19074249267578,
+        528.4607543945312,
+        134.6337432861328
+      ],
+      "text": "It can follow more- or less-standardized protocols and algorithms, and it may be done in multiple",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        130.59669494628906,
+        528.41259765625,
+        147.8336944580078
+      ],
+      "text": "68 steps ( ). A triage test for TB is one that can be rapidly conducted among people presenting to",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        146.59071350097656,
+        528.3804321289062,
+        161.03370666503906
+      ],
+      "text": "a health facility to differentiate those who should have further diagnostic evaluation for TB (those",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        159.7907257080078,
+        528.4312744140625,
+        174.2337188720703
+      ],
+      "text": "whose TB triage test is positive or abnormal) from those who should undergo further investigation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        170.1967315673828,
+        528.4144287109375,
+        187.43373107910156
+      ],
+      "text": "(74) for non-TB diagnoses (for those whose TB triage test is negative or normal) . While there may",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        186.1907501220703,
+        528.4321899414062,
+        200.6337432861328
+      ],
+      "text": "be overlap between triaging and screening, there are several reasons to distinguish screening from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        199.3907012939453,
+        336.2250671386719,
+        213.8336944580078
+      ],
+      "text": "triage when evaluating the performance of CAD software:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        221.09461975097656,
+        528.4400024414062,
+        235.53761291503906
+      ],
+      "text": "•\t The disease presentation may be different in screening populations in which one is more likely to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        234.2946319580078,
+        528.4277954101562,
+        248.7376251220703
+      ],
+      "text": "encounter CXR findings of earlier TB than when compared with triage populations. Therefore, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        247.49464416503906,
+        528.4454956054688,
+        261.9376525878906
+      ],
+      "text": "same sensitivity and specificity point may not be achieved or may be achieved but with a different",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        260.694580078125,
+        156.47171020507812,
+        275.1376037597656
+      ],
+      "text": "threshold score.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        273.89459228515625,
+        528.5943603515625,
+        288.3376159667969
+      ],
+      "text": "•\t  TB prevalence will typically be much lower in screening populations (< 5%) than in triage populations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        287.0947265625,
+        528.4125366210938,
+        301.5377502441406
+      ],
+      "text": "(10–20%), which will impact a test’s predictive values and the numbers of individuals correctly and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        300.294677734375,
+        184.5490264892578,
+        314.7377014160156
+      ],
+      "text": "incorrectly diagnosed.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        313.49468994140625,
+        528.4346313476562,
+        327.9377136230469
+      ],
+      "text": "•\t The ethical consequences of not detecting TB or other non-TB-related CXR findings (but clinically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        326.6947021484375,
+        528.4497680664062,
+        341.1377258300781
+      ],
+      "text": "relevant abnormalities) that require follow-up examination are different for populations that do",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        337.1007080078125,
+        269.2206726074219,
+        354.3377380371094
+      ],
+      "text": "(11) not seek care than for those that do  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        361.5986022949219,
+        528.4376220703125,
+        376.0416259765625
+      ],
+      "text": "A previous assessment of using CAD for automated interpretation of digital CXRs for TB by WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        374.7986145019531,
+        528.277099609375,
+        389.24163818359375
+      ],
+      "text": "determined that in order to adequately assess diagnostic accuracy, it was necessary to evaluate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        387.99859619140625,
+        528.428955078125,
+        402.4416198730469
+      ],
+      "text": "CAD software using a standard panel of CXR files with associated demographic and clinical data,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        401.1986083984375,
+        528.4202270507812,
+        415.6416320800781
+      ],
+      "text": "including TB diagnosis, drawn from a representative population for the corresponding use case for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        414.39862060546875,
+        528.3881225585938,
+        428.8416442871094
+      ],
+      "text": "the technology. It was deemed essential that such evaluations ensure that CXR libraries used in an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        424.80462646484375,
+        528.43994140625,
+        442.0416259765625
+      ],
+      "text": "(68) evaluation not be made available for CAD software development, training or evaluation  . For this",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.998749732971191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        440.7986145019531,
+        528.4454345703125,
+        455.24163818359375
+      ],
+      "text": "GDG meeting, a scoping review for independent evaluations that met these criteria was conducted.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        453.99859619140625,
+        528.232666015625,
+        468.4416198730469
+      ],
+      "text": "Three independent evaluations for both the screening use case and the triage use case that assessed",
+      "font": "SegoeUI-Light",
+      "size": 10.994499206542969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        467.1986083984375,
+        528.422119140625,
+        481.6416320800781
+      ],
+      "text": "the performance of three distinct CAD programmes were identified and presented to the GDG, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        480.39862060546875,
+        528.3904418945312,
+        494.8416442871094
+      ],
+      "text": "they included all products that had received a CE mark (for Conformité Européenne, indicating a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        493.5986022949219,
+        525.408447265625,
+        508.0416259765625
+      ],
+      "text": "product’s conformity with the European Economic Area’s directives or standards) by January 2020. 2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        506.798583984375,
+        528.1427612304688,
+        521.2415771484375
+      ],
+      "text": "The GDG was blinded to the brand names of the software programmes. A separate quality assessment",
+      "font": "SegoeUI-Light",
+      "size": 10.962536811828613,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        519.9985961914062,
+        386.9413757324219,
+        534.4415893554688
+      ],
+      "text": "of the evaluations was conducted and results presented to the GDG.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        541.7025146484375,
+        528.4100952148438,
+        556.1455078125
+      ],
+      "text": "CAD programmes produce a numerical abnormality score for each digital image read that can then",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        554.902587890625,
+        528.4324340820312,
+        569.3455810546875
+      ],
+      "text": "be compared to a threshold defined by the user to indicate if the patient is to be referred for further",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        568.1026000976562,
+        528.3991088867188,
+        582.5455932617188
+      ],
+      "text": "TB diagnostic evaluation. Because the abnormality scores produced are continuous, the sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        581.302490234375,
+        528.4243774414062,
+        595.7454833984375
+      ],
+      "text": "and specificity can vary from 0 to 100%, depending on where the threshold is set. For evaluation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        594.5026245117188,
+        528.4432373046875,
+        608.9456176757812
+      ],
+      "text": "for the GDG, each software programme was set to a threshold that corresponded to 90% sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        607.70263671875,
+        528.39794921875,
+        622.1456298828125
+      ],
+      "text": "for detecting pulmonary TB disease based on a microbiological reference standard. The resulting",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        620.902587890625,
+        528.4421997070312,
+        635.3455810546875
+      ],
+      "text": "accompanying specificity for the software at that threshold was then reported and compared with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        634.1025390625,
+        439.5862121582031,
+        648.5455322265625
+      ],
+      "text": "the diagnostic accuracy of human readers interpreting CXRs in the same studies.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        655.8065185546875,
+        528.5631103515625,
+        670.24951171875
+      ],
+      "text": "Due to specific methodological challenges, the estimates of CAD diagnostic accuracy were not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        669.0064697265625,
+        528.429931640625,
+        683.449462890625
+      ],
+      "text": "able to be pooled across software programmes or across evaluations. Thus, the performances of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        682.20654296875,
+        528.5177001953125,
+        696.6495361328125
+      ],
+      "text": "CAD programmes and human readers from the included evaluations were presented as ranges",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.57710266113281,
+        695.2965087890625,
+        129.0155029296875,
+        709.6514892578125
+      ],
+      "text": "Table 4",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        695.406494140625,
+        528.430908203125,
+        709.8494873046875
+      ],
+      "text": "(see  ). The three included evaluations assessed each programme’s performance in different",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        708.4965209960938,
+        528.4217529296875,
+        723.0494995117188
+      ],
+      "text": "Web Annex B Web Annex C populations and in different settings (see  , Tables 11 and 12, and  , Tables",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.985840797424316,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        721.8065185546875,
+        115.26109313964844,
+        736.24951171875
+      ],
+      "text": "4 and 5).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        71.86609649658203,
+        753.0718383789062,
+        527.5971069335938,
+        763.5758056640625
+      ],
+      "text": "The three technologies that had received a CE mark by January 2020 and were included in all the evaluations are CAD4TB v6, Delft  2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        762.6718139648438,
+        287.1245422363281,
+        773.17578125
+      ],
+      "text": "Imaging; Lunit Insight CXR, Lunit Insight; and qXR v2, Qure.ai.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "26",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

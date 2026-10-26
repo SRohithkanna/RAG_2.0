@@ -1,0 +1,32 @@
+{
+  "file": "module1",
+  "page": 139,
+  "table_id": 1,
+  "bbox": [
+    56.83580126081194,
+    118.0201416015625,
+    453.4185485839844,
+    148.42008463541666
+  ],
+  "heading": "Population: Adults and adolescents with HIV on ART",
+  "n_rows": 2,
+  "n_cols": 6,
+  "data": [
+    [
+      "Sensitivity",
+      "0.51 (95% CI: 0.28 ; 0.73)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Specificity",
+      "0.71 (95% CI: 0.48 ; 0.86)",
+      "Prevalence",
+      "1%",
+      "5%",
+      "10%"
+    ]
+  ]
+}

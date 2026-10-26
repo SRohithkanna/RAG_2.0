@@ -1,0 +1,522 @@
+{
+  "file": "Latent",
+  "page": 40,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        457.8085021972656,
+        82.56494140625
+      ],
+      "text": "6.\t Preventive treatment for contacts",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        113.39409637451172,
+        75.58094787597656,
+        476.8619689941406,
+        106.56494140625
+      ],
+      "text": "of patients with multidrug-resistant",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        113.39409637451172,
+        99.58094787597656,
+        242.36053466796875,
+        130.56494140625
+      ],
+      "text": "tuberculosis",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        182.26649475097656,
+        493.38653564453125,
+        194.54049682617188
+      ],
+      "text": "In selected high-risk household contacts of patients with multidrug-resistant tuberculosis, preventive",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        194.2649688720703,
+        501.8861083984375,
+        206.53897094726562
+      ],
+      "text": "treatment may be considered based on individualised risk assessment and a sound clinical justification.",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        206.22543334960938,
+        392.5163879394531,
+        218.53744506835938
+      ],
+      "text": "New recommendation ) (Conditional recommendation, very low-quality evidence.",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        223.89541625976562,
+        119.28404235839844,
+        236.15992736816406
+      ],
+      "text": "Remarks",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        241.60340881347656,
+        496.0007629394531,
+        253.87741088867188
+      ],
+      "text": "The preventive treatment should be individualized after a careful assessment of the intensity of exposure, the",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        253.6018829345703,
+        505.4801025390625,
+        265.8758850097656
+      ],
+      "text": "certainty of the source case, reliable information on the drug resistance pattern of the source case and potential",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        265.600341796875,
+        143.20599365234375,
+        277.8743591308594
+      ],
+      "text": "adverse events.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        283.27032470703125,
+        506.16778564453125,
+        295.5443420410156
+      ],
+      "text": "The preventive treatment should be given only to household contacts at high risk (e.g. children, people receiving",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        295.268798828125,
+        300.2391052246094,
+        307.5428161621094
+      ],
+      "text": "immunosuppressive therapy and people living with HIV).",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        312.93878173828125,
+        425.9583435058594,
+        325.2127990722656
+      ],
+      "text": "The drugs should be selected according to the drug susceptibility profile of the source case.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        330.6087951660156,
+        282.31634521484375,
+        342.8828125
+      ],
+      "text": "Confirmation of infection with LTBI tests is required.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        348.27880859375,
+        504.71234130859375,
+        360.5528259277344
+      ],
+      "text": "This recommendation must not affect on-going placebo-controlled clinical trials of MDR-TB contacts on ethical",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        360.2773132324219,
+        416.2541198730469,
+        372.55133056640625
+      ],
+      "text": "grounds. The results of such clinical trials are crucial for updating this recommendation.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        377.94732666015625,
+        503.22564697265625,
+        390.2213439941406
+      ],
+      "text": "Strict clinical observation and close monitoring for the development of active TB disease for at least 2 years are",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        389.9458312988281,
+        314.74462890625,
+        402.2198486328125
+      ],
+      "text": "required, regardless of the provision of preventive treatment.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.6101989746094,
+        174.2017364501953,
+        447.11419677734375
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.4328308105469,
+        526.6781616210938,
+        463.2328186035156
+      ],
+      "text": "A systematic review of the effectiveness of preventive treatment for contacts of people with MDR-TB conducted",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.4328308105469,
+        526.7091674804688,
+        477.2328186035156
+      ],
+      "text": "for the 2015 LTBI guidelines  was updated. The updated review comprised 10 studies (6 newly identified   (9, 10)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        478.4328308105469,
+        526.6583862304688,
+        491.2328186035156
+      ],
+      "text": "and 4 from the previous review) that allowed comparisons between participants who received preventive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        492.4328308105469,
+        524.3831176757812,
+        505.2328186035156
+      ],
+      "text": "treatment for MDR-TB and those who did not. Because of clinical heterogeneity among the studies, a meta-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        506.432861328125,
+        526.7122192382812,
+        519.2328491210938
+      ],
+      "text": "analysis could not be performed. Of the 10 studies, one was excluded because only isoniazid monotherapy",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        520.432861328125,
+        526.67138671875,
+        533.2328491210938
+      ],
+      "text": "was used, and an additional five studies were excluded as fewer than 20 participants completed preventive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        534.432861328125,
+        526.6664428710938,
+        547.2328491210938
+      ],
+      "text": "TB treatment. Therefore, the quality of the evidence was based on only four studies. The evidence-to-decision",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        236.037109375,
+        548.3728637695312,
+        305.6881408691406,
+        561.3028564453125
+      ],
+      "text": "Annexes 1 and 2",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        548.432861328125,
+        308.2861328125,
+        561.2328491210938
+      ],
+      "text": "and the GRADE tables are presented in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        568.1028442382812,
+        526.6561279296875,
+        580.90283203125
+      ],
+      "text": "No TB case was reported in either the intervention or the control group in one study  , while one case of  (64)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        582.1028442382812,
+        526.6712036132812,
+        594.90283203125
+      ],
+      "text": "active TB due to a drug-susceptible strain that was different from that of the source case was reported in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        596.1028442382812,
+        526.6820678710938,
+        608.90283203125
+      ],
+      "text": "another study  . The remaining two studies   addressed the efficacy of preventive treatment. In  (65) (66, 67)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        610.1028442382812,
+        526.654296875,
+        622.90283203125
+      ],
+      "text": "one study of 119 cohorts, 104 contacts with LTBI initiated fluoroquinolone-based preventive treatment, of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        624.1028442382812,
+        526.6333618164062,
+        636.90283203125
+      ],
+      "text": "whom 93 (89%) completed treatment, and none developed active TB; while 3 of 15 (20%) contacts who",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        638.1028442382812,
+        526.6620483398438,
+        650.90283203125
+      ],
+      "text": "refused treatment developed MDR-TB (odds ratio, 0.02, 95% CI 0.00;0.39)  . In the other study, confirmed  (66)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85614013671875,
+        652.1028442382812,
+        526.57421875,
+        664.90283203125
+      ],
+      "text": "or probable TB developed in 2 of 41 (4.9%) children receiving tailored preventive treatment and in 13 of 64",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85614013671875,
+        666.1028442382812,
+        519.6361694335938,
+        678.90283203125
+      ],
+      "text": "(20.3%) children who did not receive proper preventive treatment (odds ratio, 0.2, 95% CI 0.04;0.94)  .  (67)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85617065429688,
+        685.7728271484375,
+        526.6263427734375,
+        698.5728149414062
+      ],
+      "text": "The drugs used in these studies were mainly fluoroquinolones (e.g. moxifloxacin, levofloxacin) with or without",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85617065429688,
+        699.7728271484375,
+        526.708251953125,
+        712.5728149414062
+      ],
+      "text": "other agents (e.g. ethambutol, ethionamide). None of studies included a comparison of the risk for adverse",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85617065429688,
+        713.7728271484375,
+        526.6993408203125,
+        726.5728149414062
+      ],
+      "text": "events, although one reported that no serious adverse events could be attributed to fluoroquinolone-based",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85617065429688,
+        727.7728271484375,
+        526.6452026367188,
+        740.5728149414062
+      ],
+      "text": "preventive treatment  . The median proportion of participants who discontinued treatment because of  (66)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.85617065429688,
+        741.7728271484375,
+        381.3232421875,
+        754.5728149414062
+      ],
+      "text": "adverse events in all the studies was 5.1% (interquartile range, 1.9–30.2%).",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.3202018737793,
+        790.2608032226562,
+        56.69620132446289,
+        810.61279296875
+      ],
+      "text": "28",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

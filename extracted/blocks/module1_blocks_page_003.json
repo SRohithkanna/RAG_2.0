@@ -1,0 +1,102 @@
+{
+  "file": "module1",
+  "page": 3,
+  "blocks": [
+    {
+      "bbox": [
+        44.50270080566406,
+        165.16622924804688,
+        211.40347290039062,
+        236.53077697753906
+      ],
+      "text": "WHO",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581398010253906,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.50270080566406,
+        233.13821411132812,
+        401.3822326660156,
+        304.50274658203125
+      ],
+      "text": "consolidated",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581398010253906,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.50270080566406,
+        301.1101989746094,
+        315.0551452636719,
+        372.4747314453125
+      ],
+      "text": "guidelines",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581398010253906,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        314.2063903808594,
+        301.1101989746094,
+        399.0262145996094,
+        372.4747314453125
+      ],
+      "text": "on",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581398010253906,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.502685546875,
+        369.0821838378906,
+        360.6719055175781,
+        440.44671630859375
+      ],
+      "text": "tuberculosis",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581398010253906,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.50170135498047,
+        491.54833984375,
+        325.0216369628906,
+        525.7103271484375
+      ],
+      "text": "Module 1: Prevention",
+      "font": "AvenirLTStd-Roman",
+      "size": 29.00014877319336,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.50170135498047,
+        542.077880859375,
+        538.8896484375,
+        578.9368896484375
+      ],
+      "text": "Tuberculosis preventive treatment",
+      "font": "AvenirLTStd-Heavy",
+      "size": 31.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        44.50170135498047,
+        749.4677124023438,
+        226.10667419433594,
+        778.917724609375
+      ],
+      "text": "Second edition",
+      "font": "AvenirLTStd-Roman",
+      "size": 25.0,
+      "type": "heading_main"
+    }
+  ]
+}

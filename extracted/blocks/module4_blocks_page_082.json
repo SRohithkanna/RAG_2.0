@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 82,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4232788085938,
+        81.83369445800781
+      ],
+      "text": "The GDG panel discussed the subgroups and implementation considerations, and the monitoring",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.435546875,
+        95.03370666503906
+      ],
+      "text": "and evaluation and research priorities as they pertain to the summary recommendation rather than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        250.1034393310547,
+        108.23371887207031
+      ],
+      "text": "for each individual sub-PICO question.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.60794067382812,
+        209.15652465820312,
+        137.45993041992188
+      ],
+      "text": "Subgroup considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        153.8078155517578,
+        207.4549102783203,
+        169.46780395507812
+      ],
+      "text": "Children and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.6757354736328,
+        527.4113159179688,
+        191.1187286376953
+      ],
+      "text": "Children were excluded from the ZeNix trial (aged 0–13 years) and the TB-PRACTECAL trial (aged",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.87574768066406,
+        527.2178344726562,
+        204.31874084472656
+      ],
+      "text": "0–14 years); therefore, no analysis specific to this subgroup of patients could be performed. All",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.07569885253906,
+        527.4344482421875,
+        217.51869201660156
+      ],
+      "text": "medicines in the BPaLM regimen have been used in children except for pretomanid. New data on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        216.2758331298828,
+        527.3759765625,
+        230.7188262939453
+      ],
+      "text": "bedaquiline has been recently reviewed and its use has been expanded to all ages (see additional",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.19984436035156,
+        527.4127197265625,
+        243.91883850097656
+      ],
+      "text": "(30) recommendation in the section on longer regimens and  ). The lack of safety data on pretomanid",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.67579650878906,
+        527.4520874023438,
+        257.1188049316406
+      ],
+      "text": "in children aged below 14 years was the main barrier for potential extrapolation of the BPaLM/BPaL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.8758087158203,
+        527.4387817382812,
+        270.3188171386719
+      ],
+      "text": "recommendation to the threshold of being aged below 14 years. Thus, the recommendation of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.0758056640625,
+        439.79962158203125,
+        283.5188293457031
+      ],
+      "text": "BPaLM/BPaL regimen applies to adults and adolescents aged 14 years and older.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.919677734375,
+        190.875732421875,
+        315.5796813964844
+      ],
+      "text": "People living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.78759765625,
+        527.6141357421875,
+        337.2306213378906
+      ],
+      "text": "HIV was diagnosed in 34 of 172 (19.8%) people enrolled in the ZeNix trial; however, it was impossible",
+      "font": "SegoeUI-Light",
+      "size": 10.99744987487793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.98760986328125,
+        527.4090576171875,
+        350.4306335449219
+      ],
+      "text": "to perform any adjusted stratified analyses for people living with HIV (PLHIV), owing to the small",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.1875915527344,
+        527.4256591796875,
+        363.630615234375
+      ],
+      "text": "sample size in sub-PICO comparisons 3.2, 3.3, 3.4 and 3.5. PLHIV were eligible for enrolment in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.3876037597656,
+        527.4235229492188,
+        376.83062744140625
+      ],
+      "text": "ZeNix trial if they had a CD4 count of more than 100 cells/mm  and if they were using antiretroviral  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        375.5876159667969,
+        527.5521850585938,
+        390.0306396484375
+      ],
+      "text": "medications.  No aspects specific to HIV status or CD4 count were in the list of TB-PRACTECAL  31",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        388.78759765625,
+        527.581787109375,
+        403.2306213378906
+      ],
+      "text": "exclusion criteria, and PLHIV represented 27% of those enrolled. The median CD4 count among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        401.98760986328125,
+        403.18621826171875,
+        416.4306335449219
+      ],
+      "text": "PLHIV was 322 (interquartile range [IQR] 217–622) across the four arms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        423.6914978027344,
+        527.6155395507812,
+        438.134521484375
+      ],
+      "text": "It is important to take drug–drug interactions into account when administering TB and HIV medications",
+      "font": "SegoeUI-Light",
+      "size": 10.950489044189453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        436.8915100097656,
+        527.2588500976562,
+        451.33453369140625
+      ],
+      "text": "in combination; such interactions are discussed below under implementation considerations. Although",
+      "font": "SegoeUI-Light",
+      "size": 10.961081504821777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        450.09149169921875,
+        527.4090576171875,
+        464.5345153808594
+      ],
+      "text": "some therapies are to be avoided, there are alternative antiretroviral agents that can be considered",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        463.29150390625,
+        527.1961059570312,
+        477.7345275878906
+      ],
+      "text": "when pretomanid is used. Thus, the recommendation of the BPaLM/BPaL regimen applies to all people",
+      "font": "SegoeUI-Light",
+      "size": 10.956313133239746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        476.49151611328125,
+        527.4048461914062,
+        490.9345397949219
+      ],
+      "text": "regardless of HIV status, although some caution should be used when enrolling patients with CD4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        489.6914978027344,
+        222.88270568847656,
+        504.134521484375
+      ],
+      "text": "counts lower than 100 cells/mm . 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.535400390625,
+        269.50933837890625,
+        536.1954345703125
+      ],
+      "text": "Pregnant and breastfeeding women",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.4033203125,
+        527.433349609375,
+        557.8463134765625
+      ],
+      "text": "Pregnant and breastfeeding women were excluded from the ZeNix and TB-PRACTECAL trials owing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.603271484375,
+        527.3803100585938,
+        571.0462646484375
+      ],
+      "text": "to unknown effects of the new medicine, pretomanid, on fetal development; therefore, no analysis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.8033447265625,
+        527.4367065429688,
+        584.246337890625
+      ],
+      "text": "specific to this subgroup of patients could be performed. The use of bedaquiline in pregnancy has",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.00341796875,
+        527.4080200195312,
+        597.4464111328125
+      ],
+      "text": "been associated with infants born with a lower mean birth weight than infants whose mothers did",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.203369140625,
+        527.6181640625,
+        610.6463623046875
+      ],
+      "text": "not take bedaquiline; however, when infants were followed up over time, no evidence of late adverse",
+      "font": "SegoeUI-Light",
+      "size": 10.998000144958496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.66810607910156,
+        609.2933349609375,
+        452.9006652832031,
+        623.6483154296875
+      ],
+      "text": "Treatment of drug-resistant TB using longer regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.4033203125,
+        527.4200439453125,
+        623.8463134765625
+      ],
+      "text": "impacts was found (see  ). Breastfeeding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.3272705078125,
+        524.3951416015625,
+        637.0462646484375
+      ],
+      "text": "(39) is not recommended for women taking pretomanid  . Thus, the recommendation of the BPaLM/",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.8032836914062,
+        527.5486450195312,
+        650.2462768554688
+      ],
+      "text": "BPaL regimen does not apply to pregnant and breastfeeding women. While the safety of pretomanid",
+      "font": "SegoeUI-Light",
+      "size": 10.992547035217285,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.00341796875,
+        481.7667541503906,
+        663.4464111328125
+      ],
+      "text": "during pregnancy and breastfeeding is unclear, other treatment options need to be used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        730.6719360351562,
+        526.691162109375,
+        744.3757934570312
+      ],
+      "text": "In the ZeNix trial, permitted antiretroviral treatments were nevirapine in combination with any nucleoside reverse transcriptase inhibitors  31",
+      "font": "SegoeUI-Light",
+      "size": 7.990044116973877,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        743.471923828125,
+        526.5809326171875,
+        753.9758911132812
+      ],
+      "text": "(NRTIs); lopinavir/ritonavir in combination with any NRTIs; tenofovir/lamivudine/abacavir (if normal renal function); triple NRTI therapy",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0718994140625,
+        526.5936889648438,
+        763.5758666992188
+      ],
+      "text": "consisting of zidovudine, lamivudine and abacavir (noting the increased risk of peripheral nerve toxicity with zidovudine and linezolid);",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6719360351562,
+        221.43414306640625,
+        773.1759033203125
+      ],
+      "text": "and raltegravir in combination with NRTIs.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "68 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

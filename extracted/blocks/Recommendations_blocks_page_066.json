@@ -1,0 +1,150 @@
+{
+  "file": "Recommendations",
+  "page": 66,
+  "blocks": [
+    {
+      "bbox": [
+        127.55860900878906,
+        42.10532760620117,
+        295.56158447265625,
+        51.10532760620117
+      ],
+      "text": "FORM 3. HOUSEHOLD TB CONTACT ROSTER",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.55860900878906,
+        67.37181091308594,
+        399.6960144042969,
+        74.87181091308594
+      ],
+      "text": "Index case ID  (Registry #, e.g. 7101/K/11/201)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57359313964844,
+        85.37181091308594,
+        183.29107666015625,
+        92.87181091308594
+      ],
+      "text": "Index case name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57359313964844,
+        103.37181091308594,
+        189.11109924316406,
+        110.87181091308594
+      ],
+      "text": "Address Ward",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.09109497070312,
+        121.37181091308594,
+        191.26356506347656,
+        128.87181091308594
+      ],
+      "text": "Street",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.09109497070312,
+        139.37181091308594,
+        219.88356018066406,
+        146.87181091308594
+      ],
+      "text": "House number",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.09109497070312,
+        157.37181091308594,
+        217.42361450195312,
+        164.87181091308594
+      ],
+      "text": "Ten cell leader",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57359313964844,
+        175.37181091308594,
+        190.04856872558594,
+        182.87181091308594
+      ],
+      "text": "Telephone number",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57359313964844,
+        193.37181091308594,
+        203.6985321044922,
+        200.87181091308594
+      ],
+      "text": "TB contact investigator",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58110046386719,
+        211.37181091308594,
+        267.5760498046875,
+        218.87181091308594
+      ],
+      "text": "Date of ﬁrst household visit /  /",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        215.38360595703125,
+        223.37181091308594,
+        309.0738525390625,
+        230.87181091308594
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.86441040039062,
+        651.97265625,
+        225.346923828125,
+        659.47265625
+      ],
+      "text": "64",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

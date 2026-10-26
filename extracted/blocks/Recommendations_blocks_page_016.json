@@ -1,0 +1,462 @@
+{
+  "file": "Recommendations",
+  "page": 16,
+  "blocks": [
+    {
+      "bbox": [
+        42.51919937133789,
+        42.10532760620117,
+        195.8612060546875,
+        51.10532760620117
+      ],
+      "text": "1.6 STRENGTH OF RECOMMENDATIONS",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.53719711303711,
+        60.276031494140625,
+        399.5582580566406,
+        69.27603149414062
+      ],
+      "text": "A judgement about the strength of the recommendations was based on the quality of the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.38419723510742,
+        72.27304077148438,
+        399.6032409667969,
+        81.27304077148438
+      ],
+      "text": "evidence, values, costs and opinions about trade-offs between beneﬁt and harm. The group",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.429195404052734,
+        84.27005004882812,
+        399.6029052734375,
+        93.27005004882812
+      ],
+      "text": "graded the strength of each recommendation to reﬂect the degree of conﬁdence that the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.43819808959961,
+        96.26705932617188,
+        399.57586669921875,
+        105.26705932617188
+      ],
+      "text": "desirable effects of adherence to the recommendation would outweigh the undesirable",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.411197662353516,
+        108.26406860351562,
+        400.12591552734375,
+        117.27597045898438
+      ],
+      "text": "effects. Although degree of conﬁdence is necessarily a continuum, we used two categories:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.49300003051758,
+        120.27297973632812,
+        399.7026672363281,
+        129.27297973632812
+      ],
+      "text": "strong and conditional. The quality of the evidence was assessed according to the GRADE",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53799819946289,
+        132.26998901367188,
+        91.71399688720703,
+        141.26998901367188
+      ],
+      "text": "method (12).",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53799819946289,
+        150.26998901367188,
+        399.9456481933594,
+        159.26998901367188
+      ],
+      "text": "‘Moderate’ quality of evidence indicates that the estimate of an effect of the intervention",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.77199935913086,
+        162.26699829101562,
+        400.5130920410156,
+        171.26699829101562
+      ],
+      "text": "might be uncertain, and further research may affect conﬁdence in the estimate while ‘low’",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.70000076293945,
+        174.26400756835938,
+        399.6705322265625,
+        183.27603149414062
+      ],
+      "text": "quality of evidence suggests that the estimate of the effect is highly uncertain, and further",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.50568771362305,
+        186.27304077148438,
+        400.1116943359375,
+        195.27304077148438
+      ],
+      "text": "research is likely to affect conﬁdence in the estimate. In contrast, for high-quality evidence,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.49668502807617,
+        198.27005004882812,
+        323.2156066894531,
+        207.27005004882812
+      ],
+      "text": "further research is unlikely to change conﬁdence in the estimated effect.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51468276977539,
+        216.27005004882812,
+        399.6614990234375,
+        225.27005004882812
+      ],
+      "text": "A strong recommendation indicates that the desirable effects of adherence to the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.49668502807617,
+        228.26705932617188,
+        400.3184814453125,
+        237.26705932617188
+      ],
+      "text": "recommendation clearly outweigh the undesirable effects. The words ‘should’ or ‘should not’",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.50568771362305,
+        240.26406860351562,
+        399.7068176269531,
+        249.2730712890625
+      ],
+      "text": "are used in strong recommendations. No alternatives are listed. A conditional recommendation",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53268814086914,
+        252.27008056640625,
+        399.6810302734375,
+        261.27294921875
+      ],
+      "text": "indicates that the desirable effects of adherence to the recommendation probably outweigh",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.50710678100586,
+        264.26995849609375,
+        399.7259826660156,
+        273.26995849609375
+      ],
+      "text": "the undesirable effects, but the trade-offs are uncertain. Reasons for lack of certainty include:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.56110763549805,
+        282.26995849609375,
+        291.4830627441406,
+        291.26995849609375
+      ],
+      "text": "• lack of high-quality evidence to support the recommendation,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.57011032104492,
+        300.26995849609375,
+        253.13400268554688,
+        309.26995849609375
+      ],
+      "text": "• few beneﬁts of implementing the recommendation,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5791130065918,
+        318.26995849609375,
+        205.19113159179688,
+        327.2789611816406
+      ],
+      "text": "• the beneﬁts may not justify the costs or",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.52512741088867,
+        336.2758483886719,
+        279.2508544921875,
+        345.2789611816406
+      ],
+      "text": "• it was not possible to arrive at precise estimates of beneﬁt.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53279495239258,
+        354.2758483886719,
+        358.00970458984375,
+        363.2758483886719
+      ],
+      "text": "Conditional recommendations contain the word ‘may’. Alternatives may be listed.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5507926940918,
+        372.2758483886719,
+        401.4793701171875,
+        381.2758483886719
+      ],
+      "text": "Table 1 shows the differences between strong and conditional recommendations in terms",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.3527946472168,
+        384.2728576660156,
+        399.5174255371094,
+        393.2728576660156
+      ],
+      "text": "of both wording and the factors used to judge their strength. Strong and conditional",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.3527946472168,
+        396.2698669433594,
+        399.5625,
+        405.2698669433594
+      ],
+      "text": "recommendations have different implications for policy-makers, patients and health care",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5237922668457,
+        408.2757568359375,
+        224.76377868652344,
+        417.27587890625
+      ],
+      "text": "providers; these are also summarized in Table 1.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.531803131103516,
+        426.2757568359375,
+        401.685546875,
+        435.2757568359375
+      ],
+      "text": "In this document recommendations 1, 3, 4, and 5 are categorized as “strong” even though",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.55880355834961,
+        438.27276611328125,
+        401.66748046875,
+        447.27276611328125
+      ],
+      "text": "the evidence is graded as “very low”. These recommendations are so categorized because",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.54080581665039,
+        450.2697448730469,
+        401.6407165527344,
+        459.2697448730469
+      ],
+      "text": "the systematic reviews indicated beneﬁts with little potential harms, but there were no data",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5138053894043,
+        462.2667541503906,
+        399.69677734375,
+        471.2757568359375
+      ],
+      "text": "on alternative approaches, cost, or overall programmatic impact. Recommendation 2 was",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.52279281616211,
+        474.2727355957031,
+        399.62457275390625,
+        483.2727355957031
+      ],
+      "text": "categorized as “conditional” based “very low” quality evidence because the studies cited in the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.45978927612305,
+        486.2697448730469,
+        399.39044189453125,
+        495.2697448730469
+      ],
+      "text": "systematic reviews, by-and-large, included only household contacts of sputum smear positive",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.22578811645508,
+        498.2661437988281,
+        399.9477233886719,
+        507.2667541503906
+      ],
+      "text": "patients so the data do not directly relate to the contacts covered by the recommendation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.404720306396484,
+        510.2631530761719,
+        399.60565185546875,
+        519.26318359375
+      ],
+      "text": "Recommendation 6 is categorized as “conditional” with “very low” quality evidence because",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.44072341918945,
+        522.2601928710938,
+        399.6925964355469,
+        531.2781372070312
+      ],
+      "text": "the existing data are very limited, but HIV testing of symptomatic persons is standard clinical",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.527896881103516,
+        534.2706909179688,
+        219.5939178466797,
+        543.2706909179688
+      ],
+      "text": "practice, at least in high HIV prevalence areas.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.77560424804688,
+        651.97265625,
+        224.43560791015625,
+        659.47265625
+      ],
+      "text": "14",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

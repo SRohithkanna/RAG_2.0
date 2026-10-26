@@ -1,0 +1,606 @@
+{
+  "file": "module5",
+  "page": 8,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.41015625,
+        81.83369445800781
+      ],
+      "text": "International Development (USAID), United States), Rahab Mwaniki (Kenya Aids NGOs Consortium",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4102783203125,
+        95.03370666503906
+      ],
+      "text": "(KANCO), Kenya), Marc Nicol (University of Western Australia, Australia), Elizabeth Maleche Obimbo",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.3990478515625,
+        108.23371887207031
+      ],
+      "text": "(University of Nairobi, Kenya), Peter Owiti (Wote Youth Development Project, Kenya), Nyan Win Phyo",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.6401977539062,
+        121.43373107910156
+      ],
+      "text": "(Civil Society Taskforce; World Vision, Thailand), Ramatoulaye Sall (Independent Consultant, Senegal),",
+      "font": "SegoeUI-Light",
+      "size": 10.990145683288574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.2286987304688,
+        134.6337432861328
+      ],
+      "text": "Rina Triasih (Universitas Gadyah Mada, Indonesia) and Eric Wobudeya (Mulago National Referral",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.5520629882812,
+        147.8336944580078
+      ],
+      "text": "Hospital, Uganda; Makerere University – Johns Hopkins University (MU-JHU) Research Collaboration,",
+      "font": "SegoeUI-Light",
+      "size": 10.99639892578125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        115.6250991821289,
+        161.03370666503906
+      ],
+      "text": "Uganda).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        174.38392639160156,
+        207.21969604492188,
+        195.26393127441406
+      ],
+      "text": "Evidence reviewers",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.4678497314453,
+        527.4354248046875,
+        215.9108428955078
+      ],
+      "text": "The following persons contributed to the reviews and summarized evidence for the guidelines using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.6678009033203,
+        527.590087890625,
+        229.1107940673828
+      ],
+      "text": "the Population, Intervention, Comparator and Outcomes (PICO) framework (see section 1.3 for more",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.86793518066406,
+        253.2725067138672,
+        242.31092834472656
+      ],
+      "text": "information about the PICO questions).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.4617919921875,
+        527.5813598632812,
+        264.0148010253906
+      ],
+      "text": "PICO question 1  (TB screening in children): Bryan Vonasek (Baylor College of Medicine, United",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.77178955078125,
+        527.6151733398438,
+        277.2148132324219
+      ],
+      "text": "States; University of Wisconsin, United States); Tara Ness, Alexander W Kay, Anna Mandalakas (Baylor",
+      "font": "SegoeUI-Light",
+      "size": 10.998600006103516,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.9718017578125,
+        527.2001342773438,
+        290.4148254394531
+      ],
+      "text": "College of Medicine, United States); Yemisi Takwoingi (University of Birmingham, United Kingdom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.17169189453125,
+        527.4255981445312,
+        303.6147155761719
+      ],
+      "text": "of Great Britain and Northern Ireland (United Kingdom)); Susan S van Wyk (Stellenbosch University,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.3717041015625,
+        527.5661010742188,
+        316.8147277832031
+      ],
+      "text": "South Africa); Laura Ouellette (Texas Medical Center Library, United States); Ben J Marais (Marie Bashir",
+      "font": "SegoeUI-Light",
+      "size": 10.977677345275879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.57171630859375,
+        527.3859252929688,
+        330.0147399902344
+      ],
+      "text": "Institute for Infectious Diseases; University of Sydney, Australia); Karen R Steingart (Liverpool School",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.7716979980469,
+        247.99490356445312,
+        343.2147216796875
+      ],
+      "text": "of Tropical Medicine, United Kingdom).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.36572265625,
+        527.165283203125,
+        364.9187316894531
+      ],
+      "text": "PICO question 2a  (Integrated treatment decision algorithms to diagnose pulmonary TB): Ted Cohen",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.988744735717773,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.67572021484375,
+        527.404541015625,
+        378.1187438964844
+      ],
+      "text": "and Kenneth S Gunasekera (Yale School of Public Health, United States); James A Seddon (Imperial",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.8757019042969,
+        400.5832824707031,
+        391.3187255859375
+      ],
+      "text": "College London, United Kingdom; Stellenbosch University, South Africa).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.4696350097656,
+        527.39208984375,
+        413.02264404296875
+      ],
+      "text": "PICO question 2b  (Use of Xpert Ultra in gastric aspirate or stool to diagnose pulmonary TB and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.77960205078125,
+        527.3816528320312,
+        426.2226257324219
+      ],
+      "text": "rifampicin resistance): Alexander W Kay and Tara Ness (Baylor College of Medicine, United States);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.9796142578125,
+        527.4464111328125,
+        439.4226379394531
+      ],
+      "text": "Yemisi Takwoingi (University of Birmingham, United Kingdom), Karen R Steingart (Liverpool School of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.1795959472656,
+        236.07110595703125,
+        452.62261962890625
+      ],
+      "text": "Tropical Medicine, United Kingdom).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.7735290527344,
+        527.413330078125,
+        474.3265380859375
+      ],
+      "text": "PICO question 3  (Treatment shortening in children and adolescents with non-severe drug-susceptible",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.959726333618164,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        473.08349609375,
+        527.4048461914062,
+        487.5265197753906
+      ],
+      "text": "TB): Anna Turkova, Genevieve H Wills, Louise Choo, Krissy LeBeau, Margaret J Thomason, Angela",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        486.28350830078125,
+        527.392578125,
+        500.7265319824219
+      ],
+      "text": "M Crook, Diana M Gibb (University College London, United Kingdom); Chishala Chabala (University",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        499.4835205078125,
+        527.5543212890625,
+        513.926513671875
+      ],
+      "text": "Teaching Hospital, Zambia), Helen McIlleron (University of Cape Town, South Africa), Paul Revill, James",
+      "font": "SegoeUI-Light",
+      "size": 10.978629112243652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        512.6834716796875,
+        527.4345092773438,
+        527.12646484375
+      ],
+      "text": "Love-Koh (University of York, United Kingdom), Graeme Hoddinott (Stellenbosch University, South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        525.883544921875,
+        343.648681640625,
+        540.3265380859375
+      ],
+      "text": "Africa), Hayley Jones (University of Bristol, United Kingdom).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.4775390625,
+        527.4169311523438,
+        562.030517578125
+      ],
+      "text": "PICO question 4a and 4b  (Use of bedaquiline and delamanid in children with MDR/RR-TB, aged",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        557.9934692382812,
+        527.40869140625,
+        575.23046875
+      ],
+      "text": "Pharmacokinetic (PK) and safety analysis below 6 years (bedaquiline) and below 3 years (delamanid)):  :",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.976425170898438,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.1935424804688,
+        527.4411010742188,
+        588.4305419921875
+      ],
+      "text": "Paediatric drug-resistant  Susan M. Abdel-Rahman (Children’s Mercy Research Institute, United States);",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.979681968688965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.3934936523438,
+        527.4219360351562,
+        601.6304931640625
+      ],
+      "text": "(DR)-TB individual patient dataset (IPD) : Anthony Garcia-Prats (Stellenbosch University, South Africa;",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.3873901367188,
+        527.400390625,
+        614.8303833007812
+      ],
+      "text": "University of Wisconsin, United States); Vivian Cox, Rory Dunbar, Tina Sachs, Jessica Workman, Rose",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.5875244140625,
+        527.4244384765625,
+        628.030517578125
+      ],
+      "text": "Brown, Anneke C. Hesseling (Stellenbosch University, South Africa); Maria Garcia-Cremades, Kendra",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.7874755859375,
+        527.4421997070312,
+        641.23046875
+      ],
+      "text": "Radtke, Alexander Floren, Rada Savic (University of California San Francisco, United States), Tamara",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        639.9874877929688,
+        423.5447082519531,
+        654.4304809570312
+      ],
+      "text": "Kredo, Funeka Bango (South African Medical Research Council, South Africa).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.5814208984375,
+        527.3632202148438,
+        676.1343994140625
+      ],
+      "text": "PICO question 5  (Treatment of TB meningitis in children and adolescents): Giorgia Sulis (McGill",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.8914184570312,
+        527.4102172851562,
+        689.3344116210938
+      ],
+      "text": "University, Canada), Gamuchirai Tavaziva, Andrea Benedetti and Faiz Ahmad Khan (McGill University,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.0914306640625,
+        527.2880859375,
+        702.534423828125
+      ],
+      "text": "Canada), Geneviève Gore (McGill University, Canada), Regan Solomons and Ronald van Toorn",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.2913818359375,
+        527.0936279296875,
+        715.734375
+      ],
+      "text": "(Stellenbosch University, South Africa), Stephanie Thee (Charité-Universitätsmedizin Berlin, Germany),",
+      "font": "SegoeUI-Light",
+      "size": 10.982486724853516,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.4913940429688,
+        527.4003295898438,
+        728.9343872070312
+      ],
+      "text": "Jeremy Day (University of Oxford, United Kingdom), Silvia S Chiang (Alpert Medical School of Brown",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.69140625,
+        356.9688720703125,
+        742.1343994140625
+      ],
+      "text": "University, United States; Rhode Island Hospital, United States).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.2853393554688,
+        527.4276123046875,
+        763.8383178710938
+      ],
+      "text": "PICO question 6  (Models of care for TB case detection and TB prevention in high TB burden settings):",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.966299057006836,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        762.5953369140625,
+        527.425537109375,
+        777.038330078125
+      ],
+      "text": "Yael Hirsch-Moverman (Columbia University, United States), Hamidah Hussain (Interactive Research",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.721500396728516,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "vi WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

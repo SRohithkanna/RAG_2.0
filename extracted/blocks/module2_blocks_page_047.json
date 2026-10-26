@@ -1,0 +1,546 @@
+{
+  "file": "module2",
+  "page": 47,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        488.9819030761719,
+        89.46791076660156
+      ],
+      "text": "3.4 Tools for systematic screening for TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.472900390625,
+        353.9053039550781,
+        112.26789855957031
+      ],
+      "text": "among children and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        126.23969268798828,
+        495.1599426269531,
+        140.6826934814453
+      ],
+      "text": "16. Among individuals younger than 15 years who are close contacts of someone with TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        138.2397003173828,
+        503.9831848144531,
+        152.6826934814453
+      ],
+      "text": "systematic screening for TB disease should be conducted using a symptom screen including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        150.2397003173828,
+        427.75531005859375,
+        164.6826934814453
+      ],
+      "text": "any one of cough, fever or poor weight gain; or chest radiography; or both",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        163.6977081298828,
+        508.26654052734375,
+        180.93470764160156
+      ],
+      "text": "new recommendation: strong recommendation, moderate to low certainty of evidence for test  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        175.6977081298828,
+        128.73240661621094,
+        192.93470764160156
+      ],
+      "text": "accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        194.7436065673828,
+        501.90850830078125,
+        209.1865997314453
+      ],
+      "text": "17. Among children younger than 10 years who are living with HIV, systematic screening for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        206.7436065673828,
+        512.8689575195312,
+        221.1865997314453
+      ],
+      "text": "TB disease should be conducted using a symptom screen including any one of current cough,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        218.7436065673828,
+        344.5205078125,
+        233.1865997314453
+      ],
+      "text": "fever, poor weight gain or close contact with a TB patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        232.2017364501953,
+        494.8145751953125,
+        249.43873596191406
+      ],
+      "text": "new recommendation: strong recommendation, low certainty of evidence for test accuracy ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.9134216308594,
+        352.87506103515625,
+        295.1834411621094
+      ],
+      "text": "3.4.1 Summary of the evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.8892822265625,
+        527.463623046875,
+        316.3323059082031
+      ],
+      "text": "Case detection is a crucial step in the cascade of care for children with TB; however, for most children",
+      "font": "SegoeUI-Light",
+      "size": 10.999850273132324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.2952880859375,
+        527.4248046875,
+        329.5323181152344
+      ],
+      "text": "(80) who die from TB, the disease is never diagnosed . Children and adolescents who are younger",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.289306640625,
+        527.4048461914062,
+        342.7323303222656
+      ],
+      "text": "than 15 years represented approximately 12% of incident cases but 16% of the estimated 1.4 million",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.6953125,
+        527.4332275390625,
+        355.9323425292969
+      ],
+      "text": "(1). deaths from TB in 2019   This relatively higher share of mortality in children highlights the urgent",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.68939208984375,
+        527.4156494140625,
+        369.1324157714844
+      ],
+      "text": "need for improved case detection and subsequent access to preventive and curative treatment in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.8893127441406,
+        306.0408935546875,
+        382.33233642578125
+      ],
+      "text": "this age group, particularly for those at highest risk.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.5932922363281,
+        527.569091796875,
+        404.03631591796875
+      ],
+      "text": "These recommendations relate to the two subpopulations of children for whom TB screening is strongly",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.7933044433594,
+        527.3564453125,
+        417.236328125
+      ],
+      "text": "recommended but for whom there is as yet no standard screening approach: children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 10.960729598999023,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.9933166503906,
+        527.3926391601562,
+        430.43634033203125
+      ],
+      "text": "younger than 15 years who are close contacts of individuals with TB, and children younger than 10",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.19329833984375,
+        527.4486694335938,
+        443.6363220214844
+      ],
+      "text": "years who are living with HIV. Adolescents living with HIV who are aged 10–19 years are covered in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        392.35308837890625,
+        442.2833251953125,
+        518.8530883789062,
+        456.6383056640625
+      ],
+      "text": "Recommendations 11–15",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.393310546875,
+        527.4190673828125,
+        456.8363342285156
+      ],
+      "text": "previous recommendations for screening people living with HIV (see  ),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.5932922363281,
+        527.3826904296875,
+        470.03631591796875
+      ],
+      "text": "and screening of contacts 15 years of age and older is covered in the previous recommendation on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.3822021484375,
+        468.6833190917969,
+        284.04241943359375,
+        483.0382995605469
+      ],
+      "text": "Recommendations 9–10",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.7933044433594,
+        289.61029052734375,
+        483.236328125
+      ],
+      "text": "screening tools (see  ).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.4971923828125,
+        527.4257202148438,
+        504.9402160644531
+      ],
+      "text": "Data from a systematic review of the diagnostic accuracy of multiple screening tools used to detect",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.69720458984375,
+        527.422119140625,
+        518.1401977539062
+      ],
+      "text": "TB disease among children and adolescents, which were compared against a microbiological or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.897216796875,
+        527.4353637695312,
+        531.3402099609375
+      ],
+      "text": "composite reference standard, were used to inform this recommendation. Because bacteriological",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.09716796875,
+        527.4498291015625,
+        544.5401611328125
+      ],
+      "text": "testing for TB is difficult in children, a composite reference standard is often used when evaluating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.2972412109375,
+        246.91015625,
+        557.740234375
+      ],
+      "text": "diagnostic accuracy in this age group.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.7998046875,
+        304.7893371582031,
+        583.5317993164062
+      ],
+      "text": "3.4.1.1 Close contacts younger than 15 years",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.7396850585938,
+        527.406982421875,
+        605.1826782226562
+      ],
+      "text": "The evidence reviewed about the performance of symptom screening among children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 10.946721076965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.9398193359375,
+        527.4553833007812,
+        618.3828125
+      ],
+      "text": "younger than 15 years who are close contacts of someone with TB included 4 studies with a total of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.02978515625,
+        527.4230346679688,
+        631.582763671875
+      ],
+      "text": "Web Annex B Web Annex C 2 695 participants (see  , Table 17, and  , Table 10). In this population, a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.3397216796875,
+        527.38916015625,
+        644.78271484375
+      ],
+      "text": "symptom screen involving any one of cough, fever or poor weight gain (where the presence of any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.5396728515625,
+        527.4403076171875,
+        657.982666015625
+      ],
+      "text": "symptom constitutes a positive screen), when compared against a composite reference standard, had",
+      "font": "SegoeUI-Light",
+      "size": 10.979931831359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.7396850585938,
+        526.1979370117188,
+        671.1826782226562
+      ],
+      "text": "a pooled sensitivity of 0.89 (95% CI: 0.52–0.98) and a pooled specificity of 0.69 (95% CI: 0.51–0.83).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.4437255859375,
+        527.5111083984375,
+        692.88671875
+      ],
+      "text": "The evidence reviewed about the performance of chest radiography among close contacts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.53369140625,
+        527.4364013671875,
+        706.086669921875
+      ],
+      "text": "Web  younger than 15 years of TB patients included 4 studies with a total of 2 550 participants (see",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.7337036132812,
+        527.4281005859375,
+        719.2866821289062
+      ],
+      "text": "Annex B Web Annex C , Table 18, and  , Table 8). Compared with a composite reference standard,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.043701171875,
+        527.4246826171875,
+        732.4866943359375
+      ],
+      "text": "chest radiography using abnormalities suggestive of TB as a positive screen had a pooled sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.2435913085938,
+        436.00128173828125,
+        745.6865844726562
+      ],
+      "text": "of 0.84 (95% CI: 0.70–0.92) and a pooled specificity of 0.91 (95% CI: 0.90–0.92).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        293.323486328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "3. Recommendations for tools for systematic screening for TB disease 35",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

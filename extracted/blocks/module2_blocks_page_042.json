@@ -1,0 +1,594 @@
+{
+  "file": "module2",
+  "page": 42,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.99839782714844,
+        524.6175537109375,
+        82.86639404296875
+      ],
+      "text": "Table 5. Diagnostic accuracy of the WHO-recommended four-symptom screen among",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        82.39842224121094,
+        486.0001220703125,
+        97.26641845703125
+      ],
+      "text": "different subpopulations of people living with HIV compared with culture as a",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.79844665527344,
+        171.92889404296875,
+        111.66644287109375
+      ],
+      "text": "reference standard",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        251.845703125,
+        127.19352722167969,
+        508.6109619140625,
+        141.82752990722656
+      ],
+      "text": "No. of studies  Sensitivity  Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        133.3185272216797,
+        134.3657989501953,
+        147.82752990722656
+      ],
+      "text": "Population",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        236.28030395507812,
+        139.1935272216797,
+        500.7794189453125,
+        153.82752990722656
+      ],
+      "text": "(no. of participants) (95% CI) (95% CI)",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        161.19703674316406,
+        493.7353210449219,
+        175.64002990722656
+      ],
+      "text": "WHO target product profile NA > 0.90 > 0.70",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        182.8115997314453,
+        515.4398803710938,
+        197.2545928955078
+      ],
+      "text": "All people living with HIV 23 (16 269) 0.83 (0.74–0.89) 0.38 (0.25–0.53)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        204.4263458251953,
+        515.4398803710938,
+        218.8693389892578
+      ],
+      "text": "Inpatients 4 (672) 0.96 (0.92–0.98) 0.11 (0.08–0.14)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        226.0408477783203,
+        515.4398803710938,
+        240.4838409423828
+      ],
+      "text": "Outpatients on ART 9 (4 309) 0.53 (0.36–0.69) 0.70 (0.50–0.85)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        247.65553283691406,
+        515.4398803710938,
+        262.0985412597656
+      ],
+      "text": "Outpatients not on ART 19 (11 159) 0.84 (0.75–0.90) 0.37 (0.25–0.50)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        269.27001953125,
+        515.4398803710938,
+        283.7130432128906
+      ],
+      "text": "CD4 ≤ 200 cells/µL 22 (5 956) 0.86 (0.77–0.92) 0.30 (0.18–0.45)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        290.88458251953125,
+        515.4398803710938,
+        305.3276062011719
+      ],
+      "text": "Pregnant women living with HIV 8 (1 937) 0.61 (0.39–0.79) 0.58 (0.39–0.75)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.658203125,
+        310.3146667480469,
+        330.1622009277344
+      ],
+      "text": "ART: antiretroviral treatment; CI: confidence interval; NA: not applicable.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.0649108886719,
+        527.401611328125,
+        355.5079345703125
+      ],
+      "text": "While there may be real-life limitations to the W4SS in terms of consistency and quality of delivery",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.264892578125,
+        527.390380859375,
+        368.7079162597656
+      ],
+      "text": "that might not be reflected in studies, it remains the simplest non-invasive tool to implement in any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.46490478515625,
+        527.4344482421875,
+        381.9079284667969
+      ],
+      "text": "setting, requiring no infrastructure. However, the high proportion of W4SS positivity (94%) and very",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        380.6649169921875,
+        527.3033447265625,
+        395.1079406738281
+      ],
+      "text": "low specificity in medical inpatients living with HIV in settings where TB prevalence among study",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.8648986816406,
+        527.0828857421875,
+        408.30792236328125
+      ],
+      "text": "participants was > 10% gives it limited utility as a screen to rule in TB prior to diagnostic confirmation",
+      "font": "SegoeUI-Light",
+      "size": 10.995949745178223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.0649108886719,
+        234.99221801757812,
+        421.5079345703125
+      ],
+      "text": "by mWRD in this very ill population.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.768798828125,
+        527.4310302734375,
+        443.2118225097656
+      ],
+      "text": "The meta-analysis of IPD found no alternative screening tools or strategies that were significantly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.96881103515625,
+        527.3893432617188,
+        456.4118347167969
+      ],
+      "text": "higher in both sensitivity and specificity than the W4SS or that met the WHO target product profile",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.1687927246094,
+        527.5645141601562,
+        469.61181640625
+      ],
+      "text": "for a screening test on both parameters. In all cases, when sensitivity was higher and met the minimal",
+      "font": "SegoeUI-Light",
+      "size": 10.990045547485352,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.3688049316406,
+        527.5534057617188,
+        482.81182861328125
+      ],
+      "text": "requirements of the target product profile, specificity was compromised, and vice versa. Depending on",
+      "font": "SegoeUI-Light",
+      "size": 10.964592933654785,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.5688171386719,
+        527.0546264648438,
+        496.0118408203125
+      ],
+      "text": "a programme’s decision to prioritize higher sensitivity or higher specificity, other tools or combinations",
+      "font": "SegoeUI-Light",
+      "size": 10.969106674194336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.768798828125,
+        289.8996276855469,
+        509.2118225097656
+      ],
+      "text": "of tools may be used to complement the W4SS.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.271484375,
+        202.31289672851562,
+        535.0034790039062
+      ],
+      "text": "3.3.1.2 C-reactive protein",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        542.2113037109375,
+        527.4971313476562,
+        556.654296875
+      ],
+      "text": "CRP is an indicator of general inflammation that can be measured using point-of-care tests performed",
+      "font": "SegoeUI-Light",
+      "size": 10.972916603088379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.4113159179688,
+        527.6092529296875,
+        569.8543090820312
+      ],
+      "text": "on capillary blood collected via finger prick. The evidence reviewed for the performance of CRP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.5013427734375,
+        527.4364013671875,
+        583.0543212890625
+      ],
+      "text": "Web  included 6 studies from Kenya, South Africa and Uganda with a total of 3 971 participants (see",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.7012939453125,
+        527.4210815429688,
+        596.2542724609375
+      ],
+      "text": "Annex B Web Annex C , Table 13, and  , Table 6). The average unweighted prevalence of TB among",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.0112915039062,
+        354.6650390625,
+        609.4542846679688
+      ],
+      "text": "participants in the studies was 14%, ranging from 1% to 26%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.71533203125,
+        527.4356689453125,
+        631.1583251953125
+      ],
+      "text": "Data on the accuracy of CRP using a cut-off value of > 5 mg/L and of > 10 mg/L as indicators of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.915283203125,
+        527.4244384765625,
+        644.3582763671875
+      ],
+      "text": "TB disease were reviewed and both cut-offs were considered to have similar or superior accuracy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.1152954101562,
+        527.41796875,
+        657.5582885742188
+      ],
+      "text": "when compared with the W4SS. The cut-off of > 5 mg/L was recommended because it is the lowest",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.315185546875,
+        524.4282836914062,
+        670.7581787109375
+      ],
+      "text": "threshold indicating abnormality in many clinical settings, and it has higher sensitivity than the cut-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.5153198242188,
+        527.4420166015625,
+        683.9583129882812
+      ],
+      "text": "off of > 10 mg/L. The choice of cut-off will depend on the availability of CRP technology in a given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.71533203125,
+        527.4573974609375,
+        697.1583251953125
+      ],
+      "text": "setting, the prevalence of TB and of other conditions that may increase CRP and the preference for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.915283203125,
+        271.00787353515625,
+        710.3582763671875
+      ],
+      "text": "increased sensitivity or increased specificity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.6192016601562,
+        527.4081420898438,
+        732.0621948242188
+      ],
+      "text": "The IPD meta-analysis on CRP using a cut-off of > 5 mg/L reported similar sensitivity to and higher",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        382.85699462890625,
+        730.709228515625,
+        417.9811096191406,
+        745.064208984375
+      ],
+      "text": "Table 6",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        730.8192138671875,
+        527.4207153320312,
+        745.26220703125
+      ],
+      "text": "or similar specificity to the W4SS in all subpopulations assessed (see  ). When combined with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        744.0192260742188,
+        527.6372680664062,
+        758.4622192382812
+      ],
+      "text": "the W4SS and used in parallel, whereby a positive screen for either tool led to a diagnostic test, it was",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        757.21923828125,
+        527.394775390625,
+        771.6622314453125
+      ],
+      "text": "found to have similar or higher sensitivity and specificity to the W4SS for all populations, depending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "30",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

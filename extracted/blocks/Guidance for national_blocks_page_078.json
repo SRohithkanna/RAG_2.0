@@ -1,0 +1,534 @@
+{
+  "file": "Guidance for national",
+  "page": 78,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        171.1653289794922,
+        87.1683578491211,
+        419.2303161621094,
+        101.35948944091797
+      ],
+      "text": "WHO-recommended algorithm for TB screening and IPT in chlidren",
+      "font": "HelveticaNeue-CondensedB",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.26559448242188,
+        87.3828125,
+        168.57325744628906,
+        101.36881256103516
+      ],
+      "text": "Figure 3",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        168.57325744628906,
+        87.3828125,
+        171.1653289794922,
+        101.36881256103516
+      ],
+      "text": ".",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.2375946044922,
+        98.35713958740234,
+        339.41693115234375,
+        112.54827117919922
+      ],
+      "text": "over 12 months of age and living with HIV (6)",
+      "font": "HelveticaNeue-CondensedB",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        189.3986053466797,
+        133.6597900390625,
+        381.6815185546875,
+        147.64578247070312
+      ],
+      "text": "Child over 12 months of age and living with HIV a",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.25830078125,
+        171.9393310546875,
+        395.2604675292969,
+        185.92532348632812
+      ],
+      "text": "Screen for TB with any one of the following symptoms:",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.25830078125,
+        183.12811279296875,
+        256.2449951171875,
+        197.11410522460938
+      ],
+      "text": "–  poor weight gain b",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.25830078125,
+        194.31671142578125,
+        205.45175170898438,
+        208.30270385742188
+      ],
+      "text": "–  fever",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.25830078125,
+        205.5054931640625,
+        242.076416015625,
+        219.49148559570312
+      ],
+      "text": "–  current cough",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.25830078125,
+        216.69427490234375,
+        307.35369873046875,
+        230.68026733398438
+      ],
+      "text": "–  contact history with a TB case",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.06399536132812,
+        242.79498291015625,
+        351.6568603515625,
+        257.0207824707031
+      ],
+      "text": "No Yes",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        94.93730163574219,
+        297.9346923828125,
+        476.0157165527344,
+        311.9206848144531
+      ],
+      "text": "Assess for contraindications to IPT Investigate for TB and other diseases c d",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        126.24800109863281,
+        334.8284912109375,
+        484.595458984375,
+        348.8144836425781
+      ],
+      "text": "No Yes Other diagnosis Not TB TB",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        115.36699676513672,
+        370.3587951660156,
+        488.6607666015625,
+        384.34478759765625
+      ],
+      "text": "Give IPT Defer IPT Give appropriate Follow up and Treat",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        313.8192138671875,
+        381.547607421875,
+        491.1596374511719,
+        395.5335998535156
+      ],
+      "text": "treatment and consider IPT for TB",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        316.8401794433594,
+        392.7364196777344,
+        366.9286804199219,
+        406.722412109375
+      ],
+      "text": "consider IPT",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        243.92750549316406,
+        432.0931091308594,
+        335.15350341796875,
+        446.0791015625
+      ],
+      "text": "Screen for TB regularly",
+      "font": "HelveticaNeue-Light",
+      "size": 9.324000358581543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        474.7176208496094,
+        512.38818359375,
+        486.7176208496094
+      ],
+      "text": "All children and infants less than one year old should be provided with IPT if they have household contact history with an  a",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21199798583984,
+        484.317626953125,
+        166.78799438476562,
+        496.317626953125
+      ],
+      "text": "infectious TB case.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        496.9176330566406,
+        512.4044799804688,
+        508.9176330566406
+      ],
+      "text": "Poor weight gain is defined as reported weight loss, very low weight (weight-for-age less than -3 z-score), underweight  b",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21240234375,
+        506.5176696777344,
+        468.84454345703125,
+        518.5176391601562
+      ],
+      "text": "(weight-for-age less than -2 z-score), confirmed weight loss (>5%) since last visit, or growth curve flattening.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        519.1176147460938,
+        512.4198608398438,
+        531.1176147460938
+      ],
+      "text": "Contraindications include: active hepatitis (acute or chronic) and symptoms of peripheral neuropathy. Past history of TB  c",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21199798583984,
+        528.7175903320312,
+        512.508056640625,
+        540.7175903320312
+      ],
+      "text": "should not be a contraindication for starting IPT. Although not a requirement for starting IPT, TST may be done as part of",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21199798583984,
+        538.3175659179688,
+        225.59608459472656,
+        550.3175659179688
+      ],
+      "text": "eligibility screening in some settings.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        550.9176025390625,
+        387.8685607910156,
+        562.9176025390625
+      ],
+      "text": "Investigations for TB should be done in accordance with existing national guidelines. d",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        577.30419921875,
+        408.7405090332031,
+        594.1602172851562
+      ],
+      "text": "6.5\t T  TB (  HIV)",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        129.0334014892578,
+        581.31103515625,
+        373.0563049316406,
+        593.1102294921875
+      ],
+      "text": "reatment of in children living with",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        604.3770141601562,
+        213.58639526367188,
+        618.0045166015625
+      ],
+      "text": "Recommendation 26 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        628.1315307617188,
+        513.2845458984375,
+        643.4655151367188
+      ],
+      "text": "Children with suspected or confirmed pulmonary TB or tuberculous peripheral",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        641.33154296875,
+        513.2954711914062,
+        656.66552734375
+      ],
+      "text": "lymphadenitis living in settings with a high HIV prevalence (or with confirmed",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        654.531494140625,
+        510.2485046386719,
+        669.865478515625
+      ],
+      "text": "HIV infection) should not be treated with intermittent regimens (that is, twice-",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        667.7315063476562,
+        264.44232177734375,
+        683.0654907226562
+      ],
+      "text": "weekly or thrice-weekly doses)",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        693.2529907226562,
+        513.4854125976562,
+        706.6044921875
+      ],
+      "text": "(Strong recommendation, low to moderate quality of evidence against the use of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        707.0530395507812,
+        269.84637451171875,
+        720.404541015625
+      ],
+      "text": "intermittent treatment in children)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        731.78955078125,
+        513.47412109375,
+        745.2100219726562
+      ],
+      "text": "Rapid advice: treatment of tuberculosis in children. Source:   Geneva, World Health",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        745.5895385742188,
+        343.84893798828125,
+        759.010009765625
+      ],
+      "text": "(12) Organization, 2010 (WHO/HTM/TB/2010.13)",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04139709472656,
+        767.6580200195312,
+        513.3934936523438,
+        781.009521484375
+      ],
+      "text": "Children living in settings where the prevalence of HIV is high should be treated with",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04139709472656,
+        783.6544799804688,
+        513.4279174804688,
+        797.0059814453125
+      ],
+      "text": "a four-drug regimen (HRZE) for 2 months followed by a two-drug regimen (HR) for",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        558.6439208984375,
+        805.8439331054688,
+        580.8839111328125,
+        835.8439331054688
+      ],
+      "text": "59",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

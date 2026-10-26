@@ -1,0 +1,72 @@
+{
+  "file": "common childhood",
+  "page": 118,
+  "table_id": 1,
+  "bbox": [
+    57.6515998840332,
+    62.36199951171875,
+    385.44179565429687,
+    623.6220296223959
+  ],
+  "heading": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+  "n_rows": 4,
+  "n_cols": 12,
+  "data": [
+    [
+      "STUDY’S FIRST AUTHOR, PUB­ LICATION DATE, SETTING",
+      "SETTING (ALTI­ TUDE ABOVE SEA LEVEL)",
+      "STUDY OBJECTIVES",
+      "DESIGN",
+      "AGE",
+      "SAMPLE SIZE (NUMBER WITH HYPOXAEMIA)",
+      "INCLUSION CRITERIA",
+      "EXCLUSION CRITERIA",
+      "DEFINITION OF HYPOXIA",
+      "METHODOLOGY FOR DETECTING CLINICAL SIGNS CLEARLY DESCRIBED?",
+      "METHODOLOGY FOR GOLD STAND­ ARD MEASURE­ MENTS CLEARLY DESCRIBED?",
+      "NOTES"
+    ],
+    [
+      "Smyth 1998 Zambia",
+      "Children’s ward, Tertiary hospital (1150m)",
+      "Determine the usefulness of clinical signs and symptoms in predicting hypoxaemia",
+      "Prospective observational",
+      "1 mths– 4 yrs",
+      "167 (55)",
+      "WHO- defined severe or very severe pneumonia, or pneumonia with compli­ cations",
+      "Widespread wheeze",
+      "<92%",
+      "Yes",
+      "Yes",
+      ""
+    ],
+    [
+      "Usen 1999 The Gambia",
+      "Paediatric ward, tertiary hospital (SL)",
+      "Determine clinical predictors and outcomes of hypoxaemia in children with ALRI",
+      "Prospective cohort",
+      "2–33 mths",
+      "1072 (63)",
+      "Admitted with pneumonia or other ALRI. No details given.",
+      "Structural heart disease, Down’s syndrome",
+      "<90%",
+      "Yes",
+      "Yes",
+      "Results not stratified by age"
+    ],
+    [
+      "Duke 2002 PNG",
+      "Children’s ward, Provincial hospital (1600m)",
+      "Determine in sick neonates and children: 1) incidence and severity of hypoxaemia 2) hypoxaemia in non-ALRI illnesses 3) power of clinical signs to predict hypoxaemia",
+      "Prospective observational",
+      "1 mths– 5 years",
+      "491 (257)",
+      "Children admitted over 12 month period by 2 investi­ gators. Represen­ tatives of all admissions.",
+      "Nil.",
+      "86% for neonates 88% for older children",
+      "Yes",
+      "Yes",
+      ""
+    ]
+  ]
+}

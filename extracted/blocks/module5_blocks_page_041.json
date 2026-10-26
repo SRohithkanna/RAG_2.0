@@ -1,0 +1,534 @@
+{
+  "file": "module5",
+  "page": 41,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        518.2996826171875,
+        147.5496368408203
+      ],
+      "text": "4. Diagnostic approaches for TB",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.349609375,
+        448.3860168457031,
+        185.94960021972656
+      ],
+      "text": "in children and adolescents",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.31861877441406,
+        527.4419555664062,
+        233.76161193847656
+      ],
+      "text": "Of the estimated 1.1 million children who developed TB annually, only 399 000 (36.5%) were notified",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.5186309814453,
+        527.465576171875,
+        246.9616241455078
+      ],
+      "text": "to NTPs in 2020. Under-notification is worst among children below 5 years of age, with only 27.5% of",
+      "font": "SegoeUI-Light",
+      "size": 10.999650001525879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.9246368408203,
+        527.4346923828125,
+        260.1616516113281
+      ],
+      "text": "(1) children with TB being notified  . These ‘missing’ children are not diagnosed and/or not reported.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.12457275390625,
+        527.4215698242188,
+        273.3616027832031
+      ],
+      "text": "(1) TB-related mortality among children below 15 years of age was estimated at 226 000 for 2020  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.11859130859375,
+        527.4100952148438,
+        286.5616149902344
+      ],
+      "text": "Modelling has shown that 80% of TB-related deaths are among children under 5 years of age, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.52459716796875,
+        368.6537780761719,
+        299.7616271972656
+      ],
+      "text": "(15) that 96% of children who die of TB, did not access treatment  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.0225830078125,
+        527.38818359375,
+        321.4656066894531
+      ],
+      "text": "The low case detection rate among (young) children is due to several factors including: the fact that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.2225036621094,
+        527.5667114257812,
+        334.66552734375
+      ],
+      "text": "young children have paucibacillary TB and do not excrete enough bacilli to be detectable by available",
+      "font": "SegoeUI-Light",
+      "size": 10.977877616882324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.4225158691406,
+        527.4017333984375,
+        347.86553955078125
+      ],
+      "text": "bacteriological tests; the lack of a sensitive point-of-care diagnostic test; difficulties in collecting suitable",
+      "font": "SegoeUI-Light",
+      "size": 10.959927558898926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.62261962890625,
+        524.3842163085938,
+        361.0656433105469
+      ],
+      "text": "respiratory samples for bacteriological confirmation; and misdiagnosis due to the overlap of non-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.822509765625,
+        527.3916015625,
+        374.2655334472656
+      ],
+      "text": "specific symptoms of TB with other common childhood diseases. Children often first access care at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.0224914550781,
+        527.3880004882812,
+        387.46551513671875
+      ],
+      "text": "the PHC level, where there may be little or no awareness and capacity to diagnose and manage",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.2225036621094,
+        527.4133911132812,
+        400.66552734375
+      ],
+      "text": "children with TB (this includes capacity for sample collection, access to bacteriological tests and CXR,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.4225158691406,
+        527.4389038085938,
+        413.86553955078125
+      ],
+      "text": "as well as capacity and confidence in making a clinical diagnosis when bacteriological testing is not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.62261962890625,
+        527.3991088867188,
+        427.0656433105469
+      ],
+      "text": "available or is negative). In addition, paediatric TB services are often highly centralized at secondary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.822509765625,
+        527.468505859375,
+        440.2655334472656
+      ],
+      "text": "or tertiary levels of the health system and managed in a vertical, non-integrated way. TB screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.228515625,
+        451.6864013671875,
+        453.46551513671875
+      ],
+      "text": "(10) is often not systematically incorporated into clinical algorithms for child health  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.72650146484375,
+        527.3794555664062,
+        475.1695251464844
+      ],
+      "text": "This chapter contains two new recommendations relevant to the diagnosis of TB in children and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.926513671875,
+        527.4024047851562,
+        488.3695373535156
+      ],
+      "text": "adolescents as well as other valid WHO recommendations that apply to children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.1264953613281,
+        527.3915405273438,
+        501.56951904296875
+      ],
+      "text": "on TB diagnosis. The two new recommendations relate to the use of the Xpert Ultra assay in gastric",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.3265075683594,
+        527.4036865234375,
+        514.76953125
+      ],
+      "text": "aspirate and stool specimens for the diagnosis of PTB and detection of rifampicin resistance among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.5264892578125,
+        527.4157104492188,
+        527.969482421875
+      ],
+      "text": "children, and the use of integrated treatment decision algorithms  for the diagnosis of PTB in children.  23",
+      "font": "SegoeUI-Light",
+      "size": 10.966699600219727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        526.7265014648438,
+        527.4367065429688,
+        541.1694946289062
+      ],
+      "text": "Prior to 2022, Xpert Ultra had already been recommended for use in nasopharyngeal aspirate (NPA)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.926513671875,
+        527.48046875,
+        554.3695068359375
+      ],
+      "text": "and sputum specimens; hence, the 2022 recommendation widens the number of specimens that can",
+      "font": "SegoeUI-Light",
+      "size": 10.992998123168945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.12646484375,
+        527.2030639648438,
+        567.5694580078125
+      ],
+      "text": "be used and aligns this with the WHO recommendation on Xpert MTB/RIF (which WHO recommends",
+      "font": "SegoeUI-Light",
+      "size": 10.98178482055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.3265380859375,
+        527.4288940429688,
+        580.76953125
+      ],
+      "text": "for use in gastric aspirate, NPA, sputum and stool specimens to diagnose PTB and detect rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.7324829101562,
+        464.4483947753906,
+        593.969482421875
+      ],
+      "text": "(16) resistance)  . The two new recommendations are described in detail in this chapter.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        601.2304077148438,
+        119.54681396484375,
+        615.6734008789062
+      ],
+      "text": "Section 4.3",
+      "font": "SegoeUI-Light",
+      "size": 10.956413269042969,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        119.50409698486328,
+        601.2304077148438,
+        527.2083740234375,
+        615.6734008789062
+      ],
+      "text": "consolidates recommendations from current WHO guidelines on rapid diagnostic tests and",
+      "font": "SegoeUI-Light",
+      "size": 10.956413269042969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.6364135742188,
+        527.4265747070312,
+        628.8734130859375
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis.  the use of commercial serodiagnostic tests, namely the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.8363647460938,
+        527.4354858398438,
+        642.0733642578125
+      ],
+      "text": "Module 3: diagnosis – rapid diagnostics for tuberculosis detection, 2021 update (16)  Commercial  and the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.964994430541992,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.036376953125,
+        527.4312744140625,
+        655.2733764648438
+      ],
+      "text": "serodiagnostic tests for diagnosis of tuberculosis: policy statement (17) . For more information on each",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.0303955078125,
+        527.4288940429688,
+        668.473388671875
+      ],
+      "text": "recommendation including the remarks, source of evidence, justification, subgroup, implementation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.2304077148438,
+        406.14288330078125,
+        681.6734008789062
+      ],
+      "text": "and monitoring and evaluation considerations, the source guidelines or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        406.8869934082031,
+        667.2304077148438,
+        474.5700378417969,
+        681.6734008789062
+      ],
+      "text": "WHO’s TB KSP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        474.56689453125,
+        667.2304077148438,
+        527.421875,
+        681.6734008789062
+      ],
+      "text": "should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.430419921875,
+        117.63809204101562,
+        694.8734130859375
+      ],
+      "text": "consulted.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.13427734375,
+        527.42236328125,
+        716.5772705078125
+      ],
+      "text": "The WHO convened an expert consultation on the classification of intrathoracic TB disease among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.3342895507812,
+        527.5546264648438,
+        729.7772827148438
+      ],
+      "text": "children in September 2021. The experts reviewed evidence from the point of view of pathophysiology,",
+      "font": "SegoeUI-Light",
+      "size": 10.957266807556152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8717041015625,
+        526.53759765625,
+        763.57568359375
+      ],
+      "text": "Treatment decision algorithms are defined as: A flow chart allocating evidence-based scores to microbiological, clinical and radiological  23",
+      "font": "SegoeUI-Light",
+      "size": 7.995448589324951,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        384.94677734375,
+        773.1756591796875
+      ],
+      "text": "features that allow clinicians to make a decision regarding starting TB treatment in children.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        325.393798828125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "4. Diagnostic approaches for TB in children and adolescents 17",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

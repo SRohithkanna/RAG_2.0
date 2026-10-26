@@ -1,0 +1,91 @@
+{
+  "file": "module1",
+  "page": 210,
+  "table_id": 2,
+  "bbox": [
+    56.69297875298394,
+    346.8240051269531,
+    784.4113159179688,
+    464.2234700520833
+  ],
+  "heading": "Overall quality: moderate",
+  "n_rows": 5,
+  "n_cols": 13,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "3-month RPT+isoniazid",
+      "6 or 9 months isoniazid",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Active TB",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "6 fewer per RR 0.132 0/471 3/434 1000 1 RCT Not serious Not serious Seriousa Not seriousb None (0.007– Moderate Critical (0.0%) (0.7%) (from 7 fewer 2.542) to 11 more)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "All-cause mortality",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

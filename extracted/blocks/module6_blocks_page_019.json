@@ -1,0 +1,462 @@
+{
+  "file": "module6",
+  "page": 19,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.0303955078125,
+        107.28009796142578,
+        149.400390625
+      ],
+      "text": "1.",
+      "font": "SegoeUI-SemiBold",
+      "size": 34.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        114.64139556884766,
+        292.5143737792969,
+        147.14138793945312
+      ],
+      "text": "HIV: introduction",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.30270385742188,
+        201.92471313476562,
+        208.48770141601562
+      ],
+      "text": "1.1\t Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.3441162109375,
+        227.8253936767578
+      ],
+      "text": "People living with HIV are about 14 times more likely to develop TB disease, have poorer TB treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.37939453125,
+        241.8253936767578
+      ],
+      "text": "outcomes and have more than two-fold higher mortality during TB treatment, compared to all people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        170.06300354003906,
+        255.8253936767578
+      ],
+      "text": "diagnosed with TB  .  (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4227905273438,
+        283.8254089355469
+      ],
+      "text": "The WHO  , endorsed by the World Health Assembly in May 2014, provides  End TB strategy (3)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.4464111328125,
+        297.8254089355469
+      ],
+      "text": "the strategic direction for the achievement of TB targets within the UN Sustainable Development",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.3670654296875,
+        311.8254089355469
+      ],
+      "text": "Goals  , including the provision of universal health coverage to all people affected by TB.  (5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.435302734375,
+        325.8254089355469
+      ],
+      "text": "Integrated patient-centred care and prevention of HIV-associated TB are key components of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.3884887695312,
+        339.825439453125
+      ],
+      "text": ", which outlines a range of medical and socioeconomic interventions to prevent  End TB strategy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4485473632812,
+        353.825439453125
+      ],
+      "text": "TB and address TB morbidity and mortality. The importance of integrated people-centred services",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.4132690429688,
+        367.825439453125
+      ],
+      "text": "was reiterated in the political declarations of the respective UN high-level meetings on the fight",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        255.02960205078125,
+        381.825439453125
+      ],
+      "text": "against TB   and on HIV and AIDS  . (4) (5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.4356689453125,
+        409.825439453125
+      ],
+      "text": "To support countries to reduce the burden of HIV-associated TB in populations at risk of or affected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        527.4215698242188,
+        423.825439453125
+      ],
+      "text": "by both diseases, WHO published an  in 2004  ,  Interim policy on collaborative TB/HIV activities  (9)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.4124145507812,
+        437.825439453125
+      ],
+      "text": "which was updated in 2012  . The WHO-recommended collaborative TB/HIV activities outlined  (10)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        256.432861328125,
+        451.825439453125
+      ],
+      "text": "within the 2012 policy are listed in Fig. 1.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.1996154785156,
+        389.989501953125,
+        476.8636169433594
+      ],
+      "text": "Fig. 1.  2012 WHO policy on collaborative TB/HIV activities  (10)",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.43470001220703,
+        507.8016052246094,
+        484.782470703125,
+        528.1554565429688
+      ],
+      "text": "WHO-recommended collaborative TB/HIV activities WHO-recommended collaborative TB/HIV activities",
+      "font": "SegoeUI-Bold",
+      "size": 15.431300163269043,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        82.78369903564453,
+        539.9615478515625,
+        475.9851989746094,
+        553.8062744140625
+      ],
+      "text": "A. Establish and strengthen the mechanisms for delivering integrated TB and HIV  A. Establish and strengthen the mechanisms for delivering integrated TB and HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.609000205993652,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.44808959960938,
+        551.4086303710938,
+        134.3540496826172,
+        565.2533569335938
+      ],
+      "text": "services services",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.609000205993652,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.45320129394531,
+        566.679931640625,
+        474.4805603027344,
+        578.076904296875
+      ],
+      "text": "A.1.  Set up and strengthen a coordinating body for collaborative TB/HIV activities functional at all levels A.1.  Set up and strengthen a coordinating body for collaborative TB/HIV activities functional at all levels",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.44451904296875,
+        579.8302612304688,
+        461.9203186035156,
+        591.2272338867188
+      ],
+      "text": "A.2.  Determine HIV prevalence among TB patients and TB prevalence among people living with HIV A.2.  Determine HIV prevalence among TB patients and TB prevalence among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.44451904296875,
+        592.9805908203125,
+        404.32769775390625,
+        604.3775634765625
+      ],
+      "text": "A.3.  Carry out joint TB/HIV planning to integrate the delivery of TB and HIV services A.3.  Carry out joint TB/HIV planning to integrate the delivery of TB and HIV services",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.43582153320312,
+        606.1309814453125,
+        304.1419372558594,
+        617.5279541015625
+      ],
+      "text": "A.4.  Monitor and evaluate collaborative TB/HIV activities A.4.  Monitor and evaluate collaborative TB/HIV activities",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.78369903564453,
+        622.6696166992188,
+        488.5355224609375,
+        636.5143432617188
+      ],
+      "text": "B.  Reduce the burden of TB in people living with HIV and initiate early antiretroviral  B.  Reduce the burden of TB in people living with HIV and initiate early antiretroviral",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.609000205993652,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.4375,
+        634.1167602539062,
+        255.62554931640625,
+        647.9614868164062
+      ],
+      "text": "therapy (the Three I’s for HIV/TB) therapy (the Three I’s for HIV/TB)",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.609000205993652,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.45320129394531,
+        649.387939453125,
+        388.9899597167969,
+        660.784912109375
+      ],
+      "text": "B.1.  Intensify TB case-ﬁ nding and ensure high quality antituberculosis treatment B.1.  Intensify TB case-ﬁ nding and ensure high quality antituberculosis treatment",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.46185302734375,
+        662.5382690429688,
+        428.5365295410156,
+        673.9352416992188
+      ],
+      "text": "B.2.  Initiate TB prevention with Isoniazid preventive therapy and early antiretroviral therapy B.2.  Initiate TB prevention with Isoniazid preventive therapy and early antiretroviral therapy",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.46185302734375,
+        675.6885986328125,
+        396.1163635253906,
+        687.0855712890625
+      ],
+      "text": "B.3.  Ensure control of TB Infection in health-care facilities and congregate settings B.3.  Ensure control of TB Infection in health-care facilities and congregate settings",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.78369903564453,
+        692.2282104492188,
+        450.15216064453125,
+        706.0729370117188
+      ],
+      "text": "C.  Reduce the burden of HIV in patients with presumptive and diagnosed TB C.  Reduce the burden of HIV in patients with presumptive and diagnosed TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.609000205993652,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.45320129394531,
+        707.4976196289062,
+        418.86700439453125,
+        718.8945922851562
+      ],
+      "text": "C.1.  Provide HIV testing and counselling to patients with presumptive and diagnosed TB C.1.  Provide HIV testing and counselling to patients with presumptive and diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.45320129394531,
+        720.64794921875,
+        426.31451416015625,
+        732.044921875
+      ],
+      "text": "C.2.  Provide HIV prevention interventions for patients with presumptive and diagnosed TB C.2.  Provide HIV prevention interventions for patients with presumptive and diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.44450378417969,
+        733.79833984375,
+        379.9973449707031,
+        745.1953125
+      ],
+      "text": "C.3.  Provide co-trimoxazole preventive therapy for TB patients living with HIV C.3.  Provide co-trimoxazole preventive therapy for TB patients living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.44451904296875,
+        746.9486694335938,
+        429.6390686035156,
+        758.3456420898438
+      ],
+      "text": "C.4.  Ensure HIV prevention interventions, treatment and care for TB patients living with HIV C.4.  Ensure HIV prevention interventions, treatment and care for TB patients living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.45320129394531,
+        760.0989990234375,
+        330.9721374511719,
+        771.4959716796875
+      ],
+      "text": "C.5.  Provide antiretroviral therapy for TB patients living with HIV C.5.  Provide antiretroviral therapy for TB patients living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.680100440979004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        549.2883911132812,
+        801.2599487304688,
+        553.4083862304688,
+        811.763916015625
+      ],
+      "text": "1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

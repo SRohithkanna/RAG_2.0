@@ -1,0 +1,210 @@
+{
+  "file": "module5",
+  "page": 80,
+  "blocks": [
+    {
+      "bbox": [
+        78.04429626464844,
+        74.39279174804688,
+        393.4560241699219,
+        88.81379699707031
+      ],
+      "text": "Monitoring patient response to MDR-TB treatment using culture",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        96.18341827392578,
+        517.5934448242188,
+        110.62641906738281
+      ],
+      "text": "In multidrug- or rifampicin-resistant tuberculosis (MDR/RR-TB) patients on longer regimens, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        108.18341827392578,
+        504.266845703125,
+        122.62641906738281
+      ],
+      "text": "performance of sputum culture in addition to sputum smear microscopy is recommended to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        120.18341827392578,
+        211.89779663085938,
+        134.6264190673828
+      ],
+      "text": "monitor treatment response.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        133.6414337158203,
+        516.2133178710938,
+        150.87843322753906
+      ],
+      "text": "(Strong recommendation, moderate certainty in the estimates of test accuracy) . It is desirable for",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        148.43544006347656,
+        313.8705749511719,
+        162.87843322753906
+      ],
+      "text": "sputum culture to be repeated at monthly intervals.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        161.8933868408203,
+        493.9923400878906,
+        179.0753936767578
+      ],
+      "text": "Patients <15 years of age with MDR/RR-TB comprised less than  Subgroup considerations:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        173.8933868408203,
+        507.44134521484375,
+        191.0753936767578
+      ],
+      "text": "2% of the IPD-MA analysed for PICO question 11 (MDR/RR-TB, 2018). Younger children usually",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        185.8933868408203,
+        508.64794921875,
+        203.0753936767578
+      ],
+      "text": "cannot produce sufficient sputum spontaneously to allow a bacteriological diagnosis (many are",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        197.8933868408203,
+        512.6287841796875,
+        215.0753936767578
+      ],
+      "text": "typically sputum smear-microscopy negative). In these patients, culture may be a more sensitive",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        209.8933868408203,
+        506.6899108886719,
+        227.0753936767578
+      ],
+      "text": "means to detect viable TB bacilli even if very few organisms are present in the sputum or other",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        221.8933868408203,
+        517.7548217773438,
+        239.0753936767578
+      ],
+      "text": "samples, below the detection threshold of direct microscopy. However, in children who are unable",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        233.8933868408203,
+        516.3424682617188,
+        251.0753936767578
+      ],
+      "text": "to expectorate, gastric aspirates or induced sputa may be possible but the repetition of such tests",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        245.8933868408203,
+        282.2073669433594,
+        263.07537841796875
+      ],
+      "text": "at monthly frequency may not be acceptable.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "56 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

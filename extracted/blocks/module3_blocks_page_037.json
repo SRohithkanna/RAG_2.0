@@ -1,0 +1,474 @@
+{
+  "file": "module3",
+  "page": 37,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        179.01329040527344,
+        85.31422424316406
+      ],
+      "text": "User perspective",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        297.7045593261719,
+        108.71018981933594
+      ],
+      "text": "This section deals with the following question:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.55284118652344,
+        459.9349670410156,
+        134.64083862304688
+      ],
+      "text": "Are there implications for user preferences and values, patient equity,",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.9528045654297,
+        523.0919799804688,
+        149.04080200195312
+      ],
+      "text": "accessibility, feasibility and human rights from the implementation of Xpert MTB/",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.3528289794922,
+        182.53692626953125,
+        163.44082641601562
+      ],
+      "text": "RIF and Xpert Ultra?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        174.10772705078125,
+        526.96435546875,
+        187.2527313232422
+      ],
+      "text": "This review included 49 qualitative studies, of which 17 were identified in the updated search",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.60772705078125,
+        526.77001953125,
+        202.7527313232422
+      ],
+      "text": "(since 2022). All studies about LC-aNAATs for detection of TB and DR-TB were conducted in high",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94662094116211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.10772705078125,
+        526.96240234375,
+        218.2527313232422
+      ],
+      "text": "TB burden settings in Africa, Asia and Eastern Europe. Two studies provided user perspectives",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.60772705078125,
+        527.2835693359375,
+        233.7527313232422
+      ],
+      "text": "on Xpert Ultra and the rest on Xpert MTB/RIF or other rapid molecular tests. The studies about",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996748924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.10772705078125,
+        526.7062377929688,
+        249.2527313232422
+      ],
+      "text": "Xpert Ultra were conducted in Africa and Eastern Europe and focused on all people with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.60772705078125,
+        301.7198181152344,
+        264.75274658203125
+      ],
+      "text": "presumptive TB, DR-TB and extrapulmonary TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.6116943359375,
+        527.0383911132812,
+        288.7567138671875
+      ],
+      "text": "Although standard Xpert MTB/RIF has been superseded by Xpert Ultra and other rapid NAATs,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.983488082885742,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.1116943359375,
+        526.8837890625,
+        304.2567138671875
+      ],
+      "text": "qualitative evidence for the latter NAATs is limited. Whereas LC-NAATs are generally valued for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.976876258850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.6116943359375,
+        527.2109375,
+        319.7567138671875
+      ],
+      "text": "their accuracy, ease of use and potential to reduce time to diagnosis, the most recent generation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.1117248535156,
+        526.490478515625,
+        335.2567443847656
+      ],
+      "text": "of NAATs, such as Xpert Ultra, are valued for their greater accuracy in hard-to-diagnose patients,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.948630332946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.6117248535156,
+        526.969970703125,
+        350.7567443847656
+      ],
+      "text": "ease of implementation on existing GeneXpert platforms and ease of integration with rapid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.1117248535156,
+        526.965576171875,
+        366.2567443847656
+      ],
+      "text": "testing for other diseases. Challenges limiting the realization of these values for more recent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.6117248535156,
+        527.0253295898438,
+        381.7567443847656
+      ],
+      "text": "NAATs are similar to those with Xpert MTB/RIF – that is, weak infrastructure, fragmented",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.1117248535156,
+        527.3433837890625,
+        397.2567443847656
+      ],
+      "text": "systems, heavy workloads, and limited availability of NAATs and their supplies. We recommend",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.973318099975586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.6117248535156,
+        518.5363159179688,
+        412.7567443847656
+      ],
+      "text": "that qualitative studies be conducted to ascertain perspectives on concurrent use of NAATs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.6156005859375,
+        526.9667358398438,
+        436.7606201171875
+      ],
+      "text": "There was high confidence in the evidence contributing to the findings of this review. More",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.1156005859375,
+        485.1969909667969,
+        452.2606201171875
+      ],
+      "text": "details on the qualitative evaluation of LC-aNAATs are available in  Web Annex B.10.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.6272277832031,
+        253.505859375,
+        481.0072021484375
+      ],
+      "text": "User preferences and values",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.25811767578125,
+        527.0031127929688,
+        504.40313720703125
+      ],
+      "text": "Findings from Xpert MTB/RIF studies showed that providers valued its utility in making a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.75811767578125,
+        527.0831298828125,
+        519.9031372070312
+      ],
+      "text": "diagnosis of drug resistance in people living with HIV, accuracy and resulting confidence in the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.988493919372559,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.2581176757812,
+        524.6482543945312,
+        535.4031372070312
+      ],
+      "text": "test, rapid turnaround times, low costs of diagnostic testing for patients, and improved patient–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959023475646973,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.7581176757812,
+        526.6354370117188,
+        550.9031372070312
+      ],
+      "text": "provider relationships. Providers also valued the diversity of sample types that can be analysed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995498657226562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.2581176757812,
+        524.9658813476562,
+        566.4031372070312
+      ],
+      "text": "by the test. Laboratory personnel valued its ease of use, and they reported increased staff",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.7581176757812,
+        526.947998046875,
+        581.9031372070312
+      ],
+      "text": "satisfaction compared with sputum microscopy. People with TB valued receiving an accurate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.2581176757812,
+        526.9700927734375,
+        597.4031372070312
+      ],
+      "text": "diagnosis, avoiding diagnostic delays and having low costs associated with diagnostic testing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.7581176757812,
+        526.961181640625,
+        612.9031372070312
+      ],
+      "text": "Compared with Xpert MTB/RIF, providers valued Xpert Ultra’s capacity for improving TB case",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.2581176757812,
+        526.991943359375,
+        628.4031372070312
+      ],
+      "text": "detection among hard-to-diagnose patients (those with extrapulmonary TB, paediatric TB or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.7581176757812,
+        352.87890625,
+        643.9031372070312
+      ],
+      "text": "coinfection with HIV) and detecting more people with TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.7620849609375,
+        526.83642578125,
+        667.9071044921875
+      ],
+      "text": "Compared with Xpert MTB/RIF, providers valued Xpert Ultra for its ease of implementation and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.969457626342773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.2620849609375,
+        526.9258422851562,
+        683.4071044921875
+      ],
+      "text": "integration with testing for other diseases (made possible by its having been built on existing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.7620849609375,
+        526.9633178710938,
+        698.9071044921875
+      ],
+      "text": "Xpert platforms). Acceptability of Xpert Ultra among providers seemed high, but there was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.2620849609375,
+        526.9732055664062,
+        714.4071044921875
+      ],
+      "text": "uncertainty about its accuracy, potentially leading to reduced trust and litigation in the event",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.7620849609375,
+        166.3342742919922,
+        729.9071044921875
+      ],
+      "text": "of a false diagnosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 21",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

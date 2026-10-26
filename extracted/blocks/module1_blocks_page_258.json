@@ -1,0 +1,606 @@
+{
+  "file": "module1",
+  "page": 258,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        507.2510070800781,
+        82.6147232055664
+      ],
+      "text": "(19) Table A5.16. Summary of Dodd et al.  global modelling study on the cost-",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.18668365478516,
+        487.56256103515625,
+        97.01468658447266
+      ],
+      "text": "effectiveness of several MDR-TB HHC management scenarios for children",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.58670806884766,
+        129.19090270996094,
+        111.41471099853516
+      ],
+      "text": "< 15 years",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.11710357666016,
+        123.4846420288086,
+        521.919189453125,
+        133.82064819335938
+      ],
+      "text": "Household contact management scenario Life-years lost, 3%  Total deaths  Deaths averted  ICER (US$",
+      "font": "Whitney-Medium",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        255.57069396972656,
+        133.48463439941406,
+        520.155517578125,
+        143.82064819335938
+      ],
+      "text": "discounted (thousands) averted with TPT provision per DALY)",
+      "font": "Whitney-Medium",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11620330810547,
+        147.64852905273438,
+        520.1595458984375,
+        159.1685333251953
+      ],
+      "text": "No detection or treatment of co-prevalent TB  171 – – –",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11620330810547,
+        158.64852905273438,
+        208.91021728515625,
+        170.1685333251953
+      ],
+      "text": "disease; no TPT (baseline scenario)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        173.84835815429688,
+        520.1569213867188,
+        185.3683624267578
+      ],
+      "text": "Detection and treatment of co-prevalent TB  105 2350 – 960",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        184.84835815429688,
+        209.54830932617188,
+        196.3683624267578
+      ],
+      "text": "disease for HHCs aged < 15; no TPT",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        200.04824829101562,
+        520.1569213867188,
+        211.5683135986328
+      ],
+      "text": "Detection and treatment of co-prevalent TB  80.6 3220 870 738",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        211.04824829101562,
+        248.49671936035156,
+        222.56825256347656
+      ],
+      "text": "disease; TPT (6Lfx/6MFX) for all children < 5",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        222.04824829101562,
+        174.13870239257812,
+        233.56825256347656
+      ],
+      "text": "and children < 15 with HIV",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        237.24819946289062,
+        520.161376953125,
+        248.76820373535156
+      ],
+      "text": "Detection and treatment of co-prevalent TB  72.6 3510 1160 773",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        248.24819946289062,
+        234.94271850585938,
+        259.7681884765625
+      ],
+      "text": "disease; TPT (6Lfx/6MFX) for all children",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        259.2481994628906,
+        240.10333251953125,
+        270.7681884765625
+      ],
+      "text": "< 5 years and children < 15 with HIV or TST-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.1162109375,
+        270.2482604980469,
+        104.55609893798828,
+        281.76824951171875
+      ],
+      "text": "positive",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11618041992188,
+        285.4480285644531,
+        520.1586303710938,
+        296.968017578125
+      ],
+      "text": "Detection and treatment of co-prevalent TB  70.3 3590 1240 838",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        75.11618041992188,
+        296.4480895996094,
+        234.94268798828125,
+        307.96807861328125
+      ],
+      "text": "disease; TPT (6Lfx/6MFX) for all children",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.11618041992188,
+        307.4480895996094,
+        89.9175796508789,
+        318.96807861328125
+      ],
+      "text": "< 15",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        330.7926330566406,
+        526.7653198242188,
+        341.296630859375
+      ],
+      "text": "6Lfx, 6 months of levofloxacin; 6MFX, 6 months of moxifloxacin; HHC, household contacts; ICER, incremental cost-effectiveness ratio; DALY,",
+      "font": "SegoeUI-Light",
+      "size": 7.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        341.7926330566406,
+        340.5126647949219,
+        352.296630859375
+      ],
+      "text": "disability-adjusted life year; TPT, TB preventive treatment; TST, tuberculin skin test",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        372.0310974121094,
+        142.29466247558594,
+        390.3011169433594
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        397.00701904296875,
+        527.59716796875,
+        411.4500427246094
+      ],
+      "text": "No randomized controlled trials that addressed the objectives of this systematic review were identified.",
+      "font": "SegoeUI-Light",
+      "size": 10.96479320526123,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        410.2070007324219,
+        527.1244506835938,
+        424.6500244140625
+      ],
+      "text": "Hence, no high-quality evidence on the efficacy of FQ-based TPT for MDR-TB contacts was found. All",
+      "font": "SegoeUI-Light",
+      "size": 10.981935501098633,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        423.4070129394531,
+        527.1668090820312,
+        437.85003662109375
+      ],
+      "text": "the observational studies identified had problems of selection bias and small samples; none suggested",
+      "font": "SegoeUI-Light",
+      "size": 10.962937355041504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        436.60699462890625,
+        527.1876831054688,
+        451.0500183105469
+      ],
+      "text": "any significant benefit of use of FQ-based TPT to prevent development of MDR-TB disease. Although",
+      "font": "SegoeUI-Light",
+      "size": 10.988243103027344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        449.8070068359375,
+        527.4398803710938,
+        464.2500305175781
+      ],
+      "text": "the quality of evidence was low, the results from larger observational studies suggest that FQ-based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        463.00701904296875,
+        527.4180297851562,
+        477.4500427246094
+      ],
+      "text": "TPT is safe for use among MDR-TB contacts. No grade 3, 4 or serious adverse events related to Lfx",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        476.20703125,
+        527.4392700195312,
+        490.6500549316406
+      ],
+      "text": "or MFX were reported, and FQ monotherapy had high completion rates and acceptability. Mild or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        489.4070129394531,
+        527.5457763671875,
+        503.85003662109375
+      ],
+      "text": "moderate adverse events were observed in children and adolescents. A high-quality modelling study",
+      "font": "SegoeUI-Light",
+      "size": 10.989895820617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        502.60699462890625,
+        527.2254638671875,
+        517.0499877929688
+      ],
+      "text": "evaluating cost-effectiveness found that targeting the highest risk groups – children < 5 or < 15 years",
+      "font": "SegoeUI-Light",
+      "size": 10.987893104553223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        515.8070068359375,
+        527.6034545898438,
+        530.25
+      ],
+      "text": "with HIV – was the most cost-effective, but provision of FQ TPT to all contacts <  15 years would have",
+      "font": "SegoeUI-Light",
+      "size": 10.992297172546387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        529.0070190429688,
+        527.394775390625,
+        543.4500122070312
+      ],
+      "text": "greater impact and still be more cost-effective than detection of prevalent TB disease alone. Higher",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        542.20703125,
+        527.4202880859375,
+        556.6500244140625
+      ],
+      "text": "quality evidence is necessary on the efficacy of FQ-based TPT for prevention of MDR-TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        555.406982421875,
+        147.07521057128906,
+        569.8500366210938
+      ],
+      "text": "contacts. among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        583.8381958007812,
+        164.24758911132812,
+        608.6331787109375
+      ],
+      "text": "References",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        615.92822265625,
+        527.11083984375,
+        629.0582275390625
+      ],
+      "text": "1.\t Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M et al. The Newcastle–Ottawa Scale (NOS) for",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86620330810547,
+        629.92822265625,
+        444.86773681640625,
+        643.0582275390625
+      ],
+      "text": "assessing the quality of nonrandomized studies in meta-analyses. ScienceOpen. 2015 (",
+      "font": "SegoeUI-Light",
+      "size": 9.998099327087402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        444.7195129394531,
+        629.92822265625,
+        524.4310913085938,
+        643.0582275390625
+      ],
+      "text": "http://www.ohri.ca/",
+      "font": "SegoeUI-Light",
+      "size": 9.998099327087402,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.86620330810547,
+        643.92822265625,
+        270.44830322265625,
+        657.0582275390625
+      ],
+      "text": "programs/clinical_epidemiology/oxford.htm",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.4482116699219,
+        643.92822265625,
+        397.50811767578125,
+        657.0582275390625
+      ],
+      "text": ", accessed 9 September 2023).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        662.1802368164062,
+        527.25048828125,
+        675.3102416992188
+      ],
+      "text": "2.\t  Downes MJ, Brennan ML, Williams HC, Dean RS. Development of a critical appraisal tool to assess the quality",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86620330810547,
+        676.1802368164062,
+        472.35516357421875,
+        689.3102416992188
+      ],
+      "text": "of cross-sectional studies (AXIS). BMJ Open 2016;6(12). doi:10.1136/bmjopen-2016–011458.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        694.43212890625,
+        526.884033203125,
+        707.5621337890625
+      ],
+      "text": "3.\t  Gomersall JS, Jadotte YT, Xue Y, Lockwood S, Riddle D, Preda A. Conducting systematic reviews of economic",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86620330810547,
+        708.43212890625,
+        475.8061218261719,
+        721.5621337890625
+      ],
+      "text": "evaluations. Int J Evid Based Healthc. 2015;13(3):170–8. doi:10.1097/XEB.0000000000000063.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        726.6841430664062,
+        527.3138427734375,
+        739.8141479492188
+      ],
+      "text": "4.\t  Gureva T, Turkova A, Yablokova E, Smirnova P, Sveshnikova O, Zolotaya O et al. Fluoroquinolone preventive",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.86620330810547,
+        740.6841430664062,
+        527.3077392578125,
+        753.8141479492188
+      ],
+      "text": "therapy for children exposed to MDR-TB. Int J Tuberc Lung Dis. 2022;26(2):171–3. doi:10.5588/ijtld.21.0443.",
+      "font": "SegoeUI-Light",
+      "size": 9.980130195617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17265319824219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "240 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

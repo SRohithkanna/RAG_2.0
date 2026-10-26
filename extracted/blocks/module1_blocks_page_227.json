@@ -1,0 +1,54 @@
+{
+  "file": "module1",
+  "page": 227,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.14942169189453,
+        189.23464965820312,
+        84.94541931152344
+      ],
+      "text": "Summary of judgements",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.69300079345703,
+        428.25579833984375,
+        192.2790985107422,
+        445.0517883300781
+      ],
+      "text": "Type of recommendation",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.58251953125,
+        40.87300109863281,
+        575.9425048828125
+      ],
+      "text": "209",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "file": "Guidance for national",
+  "page": 17,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        80.14373779296875,
+        103.71139526367188,
+        109.03973388671875
+      ],
+      "text": "D",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.07140350341797,
+        87.01253509521484,
+        382.0361328125,
+        107.23973083496094
+      ],
+      "text": "efinitions and distinctions",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        125.86973571777344,
+        507.3492736816406,
+        137.53973388671875
+      ],
+      "text": "Note:  The definitions given below apply to the terms as used in this guidance. The terms may have",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        137.9297332763672,
+        242.46939086914062,
+        149.53973388671875
+      ],
+      "text": "different meanings in other contexts.",
+      "font": "FrutigerLTStd-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        161.21969604492188,
+        145.71139526367188,
+        175.439697265625
+      ],
+      "text": "adolescent",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        183.96319580078125,
+        282.4579162597656,
+        197.314697265625
+      ],
+      "text": "Refers to the 10-18-year age group.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        208.61959838867188,
+        371.10736083984375,
+        222.839599609375
+      ],
+      "text": "background HIV and TB drug resistance prevalence",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        231.36309814453125,
+        513.366455078125,
+        244.714599609375
+      ],
+      "text": "Settings with high HIV prevalence are defined as those in which the HIV prevalence",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        247.359619140625,
+        513.4124755859375,
+        260.71112060546875
+      ],
+      "text": "is ≥1% among adult pregnant women or ≥5% among TB patients. WHO does not",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        263.35614013671875,
+        513.4354858398438,
+        276.7076416015625
+      ],
+      "text": "intend to establish thresholds for low, moderate or high levels of prevalence of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        279.3526611328125,
+        467.7460632324219,
+        292.70416259765625
+      ],
+      "text": "isoniazid resistance: NTPs will establish definitions for their own countries.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        304.0196838378906,
+        111.70339965820312,
+        318.23968505859375
+      ],
+      "text": "child",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        326.7632141113281,
+        276.06390380859375,
+        340.1147155761719
+      ],
+      "text": "Refers to the 0-10-year age group.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        351.4197082519531,
+        157.69940185546875,
+        365.63970947265625
+      ],
+      "text": "close contact",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        374.1632080078125,
+        513.4009399414062,
+        387.51470947265625
+      ],
+      "text": "A person who is not in the household but who shared an enclosed space, such as",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        390.1596984863281,
+        513.4813232421875,
+        403.5111999511719
+      ],
+      "text": "a social gathering place, workplace, or facility, with the index case for extended",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        406.15618896484375,
+        513.4354248046875,
+        419.5076904296875
+      ],
+      "text": "daytime periods during the 3 months before the start of the current treatment",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        422.1526794433594,
+        147.1949005126953,
+        435.5041809082031
+      ],
+      "text": "episode.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        446.8197021484375,
+        126.36740112304688,
+        461.0397033691406
+      ],
+      "text": "contact",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        469.5632019042969,
+        363.2109375,
+        482.9147033691406
+      ],
+      "text": "Any person who has been exposed to an index case.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        494.2197265625,
+        231.0673828125,
+        508.4397277832031
+      ],
+      "text": "contact clinical evaluation",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        516.9631958007812,
+        513.4586181640625,
+        530.314697265625
+      ],
+      "text": "A systematic process for the diagnosis or exclusion of active TB among contacts.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        532.959716796875,
+        513.435546875,
+        546.3112182617188
+      ],
+      "text": "Clinical evaluation is undertaken if the results of contact identification and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        548.9562377929688,
+        513.4931030273438,
+        562.3077392578125
+      ],
+      "text": "prioritization indicate a risk for having, or developing, TB. For the purposes of this",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        564.9526977539062,
+        513.4930419921875,
+        578.30419921875
+      ],
+      "text": "guidance, the definition of contact clinical evaluation includes, at a minimum, a more",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        580.94921875,
+        513.4356079101562,
+        594.3007202148438
+      ],
+      "text": "extensive assessment of symptoms compatible with TB. Additional components",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        596.9457397460938,
+        171.45989990234375,
+        610.2972412109375
+      ],
+      "text": "may include:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        618.9451904296875,
+        280.56036376953125,
+        632.2966918945312
+      ],
+      "text": "–\t a more detailed medical history;",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        640.9447021484375,
+        234.7673797607422,
+        654.2962036132812
+      ],
+      "text": "–\t a physical examination;",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        662.9442138671875,
+        505.2589416503906,
+        676.2957153320312
+      ],
+      "text": "–\t microbiological assessment of specimens from sites of suspected involvement;",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        684.9436645507812,
+        275.0403747558594,
+        698.295166015625
+      ],
+      "text": "–\t radiographic examinations; and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        706.9431762695312,
+        240.5173797607422,
+        720.294677734375
+      ],
+      "text": "–\t invasive diagnostic tests.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        728.9426879882812,
+        513.4354858398438,
+        742.294189453125
+      ],
+      "text": "Implementation of these components will depend on the clinical circumstances and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        744.939208984375,
+        513.4240112304688,
+        758.2907104492188
+      ],
+      "text": "the available resources. In addition, depending on the epidemiological circumstances",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        760.9356689453125,
+        513.4699096679688,
+        774.2871704101562
+      ],
+      "text": "and available resources, a tuberculin skin test or an interferon gamma release assay",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        776.9321899414062,
+        400.1834411621094,
+        790.28369140625
+      ],
+      "text": "for latent TB infection may be part of the clinical evaluation.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        14.032999992370605,
+        805.8439331054688,
+        36.61300277709961,
+        835.8439331054688
+      ],
+      "text": "xvi",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

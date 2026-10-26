@@ -1,0 +1,510 @@
+{
+  "file": "module3",
+  "page": 31,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4132690429688,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.1.3. Forest plot of LC-aNAAT sensitivity and specificity for detection of TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.58296203613281,
+        313.17645263671875,
+        98.7621841430664
+      ],
+      "text": "a meningitis in cerebrospinal fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        108.59033966064453,
+        516.3125610351562,
+        121.07804870605469
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 7.959951400756836,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        121.87914276123047,
+        362.45098876953125,
+        133.7825164794922
+      ],
+      "text": "Mekkaoui 2021 0 2 0 49 Not estimable 0.96 [0.87, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        133.50372314453125,
+        362.4483337402344,
+        145.4070281982422
+      ],
+      "text": "Osei 2019 0 0 0 6 Not estimable 1.00 [0.54, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        145.12994384765625,
+        362.4483337402344,
+        157.0332489013672
+      ],
+      "text": "Perez-Risco 2018 3 0 0 1 1.00 [0.29, 1.00] 1.00 [0.03, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        156.756103515625,
+        362.4483337402344,
+        168.65940856933594
+      ],
+      "text": "Spencer-Gomes 2021 1 0 0 49 1.00 [0.03, 1.00] 1.00 [0.93, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        168.38232421875,
+        362.4483337402344,
+        180.28575134277344
+      ],
+      "text": "Sharma 2020 54 0 2 188 0.96 [0.88, 1.00] 1.00 [0.98, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        180.008544921875,
+        362.4483337402344,
+        191.9119110107422
+      ],
+      "text": "Sharma 2021 35 38 3 40 0.92 [0.79, 0.98] 0.51 [0.40, 0.63]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        191.63470458984375,
+        362.4483337402344,
+        203.5381317138672
+      ],
+      "text": "Donovan 2020 20 4 2 62 0.91 [0.71, 0.99] 0.94 [0.85, 0.98]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        203.26104736328125,
+        362.4483337402344,
+        215.1643524169922
+      ],
+      "text": "Bahr 2017 9 12 1 107 0.90 [0.55, 1.00] 0.90 [0.83, 0.95]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        214.88720703125,
+        362.4483337402344,
+        226.79063415527344
+      ],
+      "text": "Cresswell 2020 24 15 3 162 0.89 [0.71, 0.98] 0.92 [0.86, 0.95]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        226.513427734375,
+        362.4483337402344,
+        238.41673278808594
+      ],
+      "text": "Quinn 2021 13 4 2 29 0.87 [0.60, 0.98] 0.88 [0.72, 0.97]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        238.1396484375,
+        362.4483337402344,
+        250.0428924560547
+      ],
+      "text": "Wang 2019 19 0 3 17 0.86 [0.65, 0.97] 1.00 [0.80, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        249.76580810546875,
+        362.4483337402344,
+        261.6692199707031
+      ],
+      "text": "Yadav 2023 43 0 7 250 0.86 [0.73, 0.94] 1.00 [0.99, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        261.39215087890625,
+        362.4483337402344,
+        273.2953796386719
+      ],
+      "text": "Huang 2021 6 19 1 58 0.86 [0.42, 1.00] 0.75 [0.64, 0.84]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        273.018310546875,
+        362.4483337402344,
+        284.9216003417969
+      ],
+      "text": "Chin 2019 4 3 1 3 0.80 [0.28, 0.99] 0.50 [0.12, 0.88]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        284.64453125,
+        362.4483337402344,
+        296.5478210449219
+      ],
+      "text": "Penata 2021 12 8 3 181 0.80 [0.52, 0.96] 0.96 [0.92, 0.98]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        296.270751953125,
+        362.4483337402344,
+        308.1739807128906
+      ],
+      "text": "Ninan 2022 3 0 1 37 0.75 [0.19, 0.99] 1.00 [0.91, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        307.89691162109375,
+        362.4483337402344,
+        319.8003234863281
+      ],
+      "text": "Slail 2023 6 1 2 29 0.75 [0.35, 0.97] 0.97 [0.83, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        319.52325439453125,
+        362.4483337402344,
+        331.4264831542969
+      ],
+      "text": "Shao 2020 2 26 2 54 0.50 [0.07, 0.93] 0.68 [0.56, 0.78]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        366.9715881347656,
+        331.15032958984375,
+        517.7465209960938,
+        343.0527038574219
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        427.0232238769531,
+        526.5052490234375,
+        437.7782287597656
+      ],
+      "text": "CI: confidence interval; CSF: cerebrospinal fluid; FN: false negative; FP: false positive; LC-aNAAT: low-complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        437.82330322265625,
+        526.5012817382812,
+        448.57830810546875
+      ],
+      "text": "automated nucleic acid amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        448.6231994628906,
+        176.14822387695312,
+        459.3782043457031
+      ],
+      "text": "negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        462.2420349121094,
+        247.6328582763672,
+        473.0129089355469
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        491.5288391113281,
+        281.777587890625,
+        507.9088134765625
+      ],
+      "text": "Detection of extrapulmonary TB",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        519.143310546875,
+        504.0782775878906,
+        533.2312622070312
+      ],
+      "text": "Should LC-aNAATs on lymph node fluid be used to diagnose lymph node TB in",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        533.54345703125,
+        506.8863220214844,
+        547.6314086914062
+      ],
+      "text": "adults and adolescents with signs and symptoms of lymph node TB, against an",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        547.9434204101562,
+        101.89099884033203,
+        562.0313720703125
+      ],
+      "text": "MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        572.6983032226562,
+        527.1161499023438,
+        585.8433227539062
+      ],
+      "text": "LC-aNAAT summary sensitivity and specificity from nine Xpert Ultra studies (445 participants) to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959224700927734,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        588.1983032226562,
+        526.6205444335938,
+        601.3433227539062
+      ],
+      "text": "diagnose lymph node TB in lymph node fluid in adults and adolescents with signs and symptoms",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        603.6983032226562,
+        526.7589111328125,
+        616.8433227539062
+      ],
+      "text": "of lymph node TB ( ) were 85.3% (95% CI: 73.4–92.4) and 74.1% (95% CI: 63.5–82.5),  Fig. 2.1.4",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995199203491211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        619.1983032226562,
+        526.964599609375,
+        632.3433227539062
+      ],
+      "text": "respectively. The certainty of evidence was low for sensitivity and very low for specificity. Only",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        634.6983032226562,
+        526.97265625,
+        647.8433227539062
+      ],
+      "text": "data on Xpert Ultra were included in the evaluation to answer this PICO question. The diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        650.1983032226562,
+        526.9260864257812,
+        663.3433227539062
+      ],
+      "text": "accuracy of LC-aNAATs against a composite reference standard (CRS) that comprised the MRS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        665.6983032226562,
+        526.9049072265625,
+        678.8433227539062
+      ],
+      "text": "plus patients who received clinical diagnoses (but were bacteriologically unconfirmed) was also",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.961081504821777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        681.1983032226562,
+        526.89794921875,
+        694.3433227539062
+      ],
+      "text": "considered. The use of the CRS markedly increased specificity to 97.4% (95% CI: 82.2–99.7) but",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97692584991455,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        696.6983032226562,
+        526.964599609375,
+        709.8433227539062
+      ],
+      "text": "decreased sensitivity to 71.3% (95% CI: 64.3–77.4), highlighting the known challenges with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        712.1983032226562,
+        526.9467163085938,
+        725.3433227539062
+      ],
+      "text": "culture-based confirmation of TB with this sample type (see  ). Data on Truenat  Web Annex B.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.984389305114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.6983032226562,
+        272.4713439941406,
+        740.8433227539062
+      ],
+      "text": "were limited and thus were not included.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 15",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

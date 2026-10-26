@@ -1,0 +1,342 @@
+{
+  "file": "module4",
+  "page": 308,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        284.2853088378906,
+        86.53083038330078
+      ],
+      "text": "Question 1 (SA_new regimen)",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.73468780517578,
+        527.4388427734375,
+        107.17768859863281
+      ],
+      "text": "Should a shorter all-oral regimen (less than 12 months) containing at least three Group A medicines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        105.82469940185547,
+        421.9056396484375,
+        120.37770080566406
+      ],
+      "text": "MDR/RR-TB  be used in patients with  (fluoroquinolone resistance excluded)?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        133.14019775390625,
+        433.72430419921875,
+        147.4951934814453
+      ],
+      "text": "Population Intervention* Comparator** Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        154.8647003173828,
+        481.40380859375,
+        169.3076934814453
+      ],
+      "text": "Patients with MDR/ SA_new ‒WHO_short 1.\tTreatment success",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        166.8647003173828,
+        176.20071411132812,
+        181.3076934814453
+      ],
+      "text": "RR-TB (FQ resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        288.7298889160156,
+        171.11671447753906,
+        500.246826171875,
+        185.55970764160156
+      ],
+      "text": "‒WHO_long*** 2.\tFailure and recurrence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        178.8647003173828,
+        173.31431579589844,
+        193.3076934814453
+      ],
+      "text": "excluded, plus other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        187.3686065673828,
+        420.7673645019531,
+        205.3076934814453
+      ],
+      "text": "3.\tLTFU inclusion criteria as for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        202.8647003173828,
+        426.3443908691406,
+        218.06373596191406
+      ],
+      "text": "SA_new) 4.\tDeath",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        217.84071350097656,
+        515.0571899414062,
+        234.3156280517578
+      ],
+      "text": "Stratified by: 5.\tAdverse events (DDIs for",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        231.8726348876953,
+        509.2074279785156,
+        249.8115997314453
+      ],
+      "text": "HIV-infected patients, if  •\tAdults, adolescents,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        243.8726348876953,
+        464.9653625488281,
+        261.8116149902344
+      ],
+      "text": "data available) children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        260.1246337890625,
+        498.39556884765625,
+        278.0637512207031
+      ],
+      "text": "6.\tAmplification of drug  •\tPTB, EXPTB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        398.7893981933594,
+        272.1246337890625,
+        443.5715026855469,
+        286.5676574707031
+      ],
+      "text": "resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        279.87261962890625,
+        173.51071166992188,
+        294.3156433105469
+      ],
+      "text": "•\tComorbidities: HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        291.87261962890625,
+        125.33729553222656,
+        306.3156433105469
+      ],
+      "text": "diabetes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        319.7182922363281,
+        286.9453430175781,
+        331.11029052734375
+      ],
+      "text": "*\t Data sources: South Africa + OR in other countries (public call)",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        333.5530090332031,
+        130.6833953857422,
+        344.9850158691406
+      ],
+      "text": "Data sources: \n **",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        344.5530090332031,
+        512.9375,
+        355.94500732421875
+      ],
+      "text": "- Shorter regimen: SA (provided by country & 2 comparator regimens in TB-PRATECAL) & other countries (public call or OR studies)",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.5840072631836,
+        355.5530090332031,
+        410.5738830566406,
+        366.94500732421875
+      ],
+      "text": "Longer regimens: Belarus, Republic of Moldova, Georgia, Russia Federation, and others (public call) -",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        370.31561279296875,
+        526.6072387695312,
+        380.8196105957031
+      ],
+      "text": "***\tIf eligibility criteria for the SA_new is aligned and restricted to the same criteria as WHO_short then comparisons with the WHO_long",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        381.31561279296875,
+        524.4104614257812,
+        391.8196105957031
+      ],
+      "text": "becomes less relevant but if sufficient data we do this comparison (we may not have sufficient numbers of records with truly WHO-",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        392.31561279296875,
+        251.31822204589844,
+        402.8196105957031
+      ],
+      "text": "long, restricted to the same population as SA_new)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        405.2223205566406,
+        348.0988464355469,
+        416.6543273925781
+      ],
+      "text": "public call for additional data is required for both intervention and comparator Note:",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "294 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

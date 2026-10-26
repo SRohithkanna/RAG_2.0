@@ -1,0 +1,414 @@
+{
+  "file": "Recommendations",
+  "page": 30,
+  "blocks": [
+    {
+      "bbox": [
+        42.51919937133789,
+        42.10532760620117,
+        140.82620239257812,
+        51.10532760620117
+      ],
+      "text": "4.1 CHAPTER OBJECTIVES",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.528202056884766,
+        60.276031494140625,
+        282.4861145019531,
+        69.27603149414062
+      ],
+      "text": "This chapter deﬁnes the terms used in the recommendations.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53720474243164,
+        90.10234069824219,
+        109.02019500732422,
+        99.10234069824219
+      ],
+      "text": "4.2 DEFINITIONS",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.546207427978516,
+        108.10234069824219,
+        142.68917846679688,
+        117.10234069824219
+      ],
+      "text": "Index case (index patient)",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.546207427978516,
+        120.27005004882812,
+        399.5225830078125,
+        129.27005004882812
+      ],
+      "text": "The initially identiﬁed case of new or recurrent TB in a person of any age in a speciﬁc household",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.35720443725586,
+        132.26705932617188,
+        307.6142272949219,
+        141.26705932617188
+      ],
+      "text": "or other comparable setting in which others may have been exposed",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.366207122802734,
+        150.26705932617188,
+        71.76020812988281,
+        159.26705932617188
+      ],
+      "text": "Remark",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.51919937133789,
+        162.27603149414062,
+        399.6838684082031,
+        171.27603149414062
+      ],
+      "text": "An index case is the case around which a contact investigation is centered. Because the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51919937133789,
+        174.27304077148438,
+        399.9357604980469,
+        183.27304077148438
+      ],
+      "text": "investigation generally focuses on a deﬁned group of potentially exposed people in which",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.7621955871582,
+        186.27005004882812,
+        400.37713623046875,
+        195.27005004882812
+      ],
+      "text": "other (secondary) cases may be found, the index case is generally the case identiﬁed initially,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.77119827270508,
+        198.26705932617188,
+        400.0985412597656,
+        207.26705932617188
+      ],
+      "text": "although she or he may not be the source case. Contact investigation may center on secondary",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.924198150634766,
+        210.26406860351562,
+        347.6826171875,
+        219.27593994140625
+      ],
+      "text": "cases if the exposed group differs from that exposed to the original index case.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5286979675293,
+        246.10523986816406,
+        72.89469146728516,
+        255.10523986816406
+      ],
+      "text": "Contact",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.5286979675293,
+        258.27294921875,
+        313.4286193847656,
+        267.27294921875
+      ],
+      "text": "Any person who has been exposed to an index case (as deﬁned above)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53770065307617,
+        276.27294921875,
+        71.93170166015625,
+        285.27294921875
+      ],
+      "text": "Remark",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.51919937133789,
+        288.27606201171875,
+        399.87359619140625,
+        297.27606201171875
+      ],
+      "text": "Exposure may be intense or casual, easily identiﬁed or obscure. Close exposure, such as sharing",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.69919967651367,
+        300.2730712890625,
+        400.5395202636719,
+        309.2730712890625
+      ],
+      "text": "a living or working space, is generally easily identiﬁed and quantiﬁed, whereas casual exposure,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.93320083618164,
+        312.27008056640625,
+        322.6172180175781,
+        321.27008056640625
+      ],
+      "text": "such as on public transport or in social situations, may be unidentiﬁable.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.942203521728516,
+        348.099365234375,
+        116.1841812133789,
+        357.099365234375
+      ],
+      "text": "Household contact",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.942203521728516,
+        360.26708984375,
+        402.0150451660156,
+        369.26708984375
+      ],
+      "text": "A person who shared the same enclosed living space for one or more nights or for frequent",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.88820266723633,
+        372.26409912109375,
+        399.65704345703125,
+        381.2731018066406
+      ],
+      "text": "or extended periods during the day with the index case during the 3 months before",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.492191314697266,
+        384.2701110839844,
+        235.95753479003906,
+        393.2730712890625
+      ],
+      "text": "commencement of the current treatment episode",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.502506256103516,
+        402.2730712890625,
+        71.89649963378906,
+        411.2730712890625
+      ],
+      "text": "Remark",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        42.51919937133789,
+        414.27606201171875,
+        399.738037109375,
+        423.27606201171875
+      ],
+      "text": "Deﬁnitions of ‘household’ vary considerably and must be adapted to the local context. Within",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.5641975402832,
+        426.2730712890625,
+        399.711181640625,
+        435.2730712890625
+      ],
+      "text": "households, there is a gradation of exposure, ranging from sharing the same bed as the index",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.53719711303711,
+        438.27008056640625,
+        399.7470397949219,
+        447.27008056640625
+      ],
+      "text": "case to living in the same compound but not in the same enclosed space. Quantiﬁcation of",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.58219528198242,
+        450.2670593261719,
+        399.531005859375,
+        459.2670593261719
+      ],
+      "text": "the amount of exposure, estimated as the time spent with the index case, is likely to be highly",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.35719680786133,
+        462.2640686035156,
+        399.70159912109375,
+        471.2753601074219
+      ],
+      "text": "subjective. For this reason, the infectious period for the index case is set somewhat arbitrarily",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.527706146240234,
+        474.2723388671875,
+        399.67449951171875,
+        483.2723388671875
+      ],
+      "text": "at 3 months before initiation of treatment rather than relying on recall by the index case of",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.509708404541016,
+        486.2693176269531,
+        401.6544494628906,
+        495.2693176269531
+      ],
+      "text": "the time symptoms began. The 3-month period is a general guideline; the actual period",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.527706146240234,
+        498.2663269042969,
+        399.8994445800781,
+        507.2663269042969
+      ],
+      "text": "of infectiousness may be longer or shorter. For example, prolonged infectiousness may be",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.73470687866211,
+        510.2633361816406,
+        399.69256591796875,
+        519.2723388671875
+      ],
+      "text": "associated with nonadherence (if directly observed treatment is not being used) or with",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.51870346069336,
+        522.2693481445312,
+        221.78433227539062,
+        531.2711791992188
+      ],
+      "text": "unrecognized or untreated MDR-TB or XDR-TB.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.2281036376953,
+        651.97265625,
+        224.9831085205078,
+        659.47265625
+      ],
+      "text": "28",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

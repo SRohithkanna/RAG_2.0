@@ -1,0 +1,438 @@
+{
+  "file": "Recommendations",
+  "page": 64,
+  "blocks": [
+    {
+      "bbox": [
+        127.55860900878906,
+        43.37181091308594,
+        339.40350341796875,
+        50.87181091308594
+      ],
+      "text": "If yes, what medications are you taking? (ask for medication card)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.56611633300781,
+        61.37181091308594,
+        333.40350341796875,
+        68.87181091308594
+      ],
+      "text": "Do you have any other underlying medical conditions? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        321.41864013671875,
+        73.37181091308594,
+        332.4436340332031,
+        80.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57363891601562,
+        91.37181091308594,
+        200.12863159179688,
+        98.87181091308594
+      ],
+      "text": "If yes, please list them",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57363891601562,
+        121.22956085205078,
+        227.7960968017578,
+        128.72955322265625
+      ],
+      "text": "Level of exposure to index case",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.58114624023438,
+        139.37181091308594,
+        377.8035583496094,
+        146.87181091308594
+      ],
+      "text": "How much time in one day do you spend in the same room as the index case?",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        134.3461456298828,
+        151.37181091308594,
+        172.213623046875,
+        158.87181091308594
+      ],
+      "text": "All the time",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        134.3461456298828,
+        163.37181091308594,
+        176.78109741210938,
+        170.87181091308594
+      ],
+      "text": "Only at night",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        134.3461456298828,
+        175.37181091308594,
+        198.32859802246094,
+        182.87181091308594
+      ],
+      "text": "Only during the day",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58863830566406,
+        193.37181091308594,
+        286.4385070800781,
+        200.87181091308594
+      ],
+      "text": "Do you share a bed with the index case? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        276.08111572265625,
+        205.37181091308594,
+        285.4710998535156,
+        212.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.588623046875,
+        223.37181091308594,
+        314.78851318359375,
+        230.87181091308594
+      ],
+      "text": "Do you sleep in the same room as the index case? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.4311218261719,
+        235.37181091308594,
+        313.82110595703125,
+        242.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.59613037109375,
+        253.37181091308594,
+        399.6957092285156,
+        260.8718566894531
+      ],
+      "text": "How long have you lived in the same house as the index case?  years",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        271.5582275390625,
+        265.3718566894531,
+        399.7032470703125,
+        272.8718566894531
+      ],
+      "text": "If less than 1 year,  months",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5732421875,
+        295.2295837402344,
+        230.4582061767578,
+        302.7295837402344
+      ],
+      "text": "TB contact investigator ﬁndings",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.58074951171875,
+        313.3718566894531,
+        357.3130798339844,
+        320.8718566894531
+      ],
+      "text": "Is the investigator referring this contact for clinical evaluation? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        346.95574951171875,
+        325.3718566894531,
+        356.3457336425781,
+        332.8718566894531
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.59574890136719,
+        355.3718566894531,
+        296.18804931640625,
+        362.8718566894531
+      ],
+      "text": "Bring this sheet with you to the clinic for evaluation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.60325622558594,
+        373.3718566894531,
+        399.74078369140625,
+        380.8718566894531
+      ],
+      "text": "Contact information: to be ﬁlled in by the Tb contact investigator at the time of house -",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.61825561523438,
+        385.3718566894531,
+        175.1007537841797,
+        392.8718566894531
+      ],
+      "text": "hold screening",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.61825561523438,
+        403.3718566894531,
+        399.75567626953125,
+        410.8718566894531
+      ],
+      "text": "Index case ID  (Registry #, e.g. 7101/K/11/201)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.63325500488281,
+        421.3718566894531,
+        193.45309448242188,
+        428.8718566894531
+      ],
+      "text": "Index case surname",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55810546875,
+        439.3718566894531,
+        198.05056762695312,
+        446.8718566894531
+      ],
+      "text": "Index case ﬁrst name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55810546875,
+        457.3718566894531,
+        399.68804931640625,
+        464.8718566894531
+      ],
+      "text": "Contact number  (Example: _01, _02, _10)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55810546875,
+        475.3718566894531,
+        185.12806701660156,
+        482.8718566894531
+      ],
+      "text": "Contact surname",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55810546875,
+        493.3718566894531,
+        189.72555541992188,
+        500.8718566894531
+      ],
+      "text": "Contact ﬁrst name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55810546875,
+        523.371826171875,
+        399.90594482421875,
+        530.871826171875
+      ],
+      "text": "Medical examination results: to be ﬁlled at the clinic by the clinician or district TB",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.77560424804688,
+        535.371826171875,
+        290.6230163574219,
+        542.871826171875
+      ],
+      "text": "coordinator if the contact is being evaluated for TB",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.78311157226562,
+        553.371826171875,
+        269.0905456542969,
+        560.871826171875
+      ],
+      "text": "Date of clinical examination  /  /",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.00311279296875,
+        565.371826171875,
+        310.693359375,
+        572.871826171875
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.78311157226562,
+        583.371826171875,
+        232.7530975341797,
+        590.871826171875
+      ],
+      "text": "Chest X-ray reading Normal",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.2506103515625,
+        595.371826171875,
+        290.15814208984375,
+        602.871826171875
+      ],
+      "text": "Abnormal (report results)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.25811767578125,
+        607.371826171875,
+        240.0655975341797,
+        614.871826171875
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.25811767578125,
+        619.371826171875,
+        238.51312255859375,
+        626.871826171875
+      ],
+      "text": "Not done",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.1156005859375,
+        651.97265625,
+        225.09561157226562,
+        659.47265625
+      ],
+      "text": "62",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

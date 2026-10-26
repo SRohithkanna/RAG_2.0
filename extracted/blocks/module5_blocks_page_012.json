@@ -1,0 +1,690 @@
+{
+  "file": "module5",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.44374084472656,
+        94.26744842529297,
+        81.146240234375
+      ],
+      "text": "NPA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        67.54874420166016,
+        259.57513427734375,
+        81.33524322509766
+      ],
+      "text": "nasopharyngeal aspirate",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.76258850097656,
+        101.45468139648438,
+        98.465087890625
+      ],
+      "text": "NRTIs",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        84.86759185791016,
+        334.2500915527344,
+        98.65409088134766
+      ],
+      "text": "nucleoside reverse transcriptase inhibitors",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.08149719238281,
+        98.86959075927734,
+        115.78399658203125
+      ],
+      "text": "NTLP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        102.1865005493164,
+        349.14337158203125,
+        115.9729995727539
+      ],
+      "text": "National TB and Leprosy Control Programme",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        119.40028381347656,
+        93.73509216308594,
+        133.102783203125
+      ],
+      "text": "NTP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        119.50528717041016,
+        298.9974365234375,
+        133.29177856445312
+      ],
+      "text": "National Tuberculosis Programme",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        136.7191925048828,
+        92.67459869384766,
+        150.42169189453125
+      ],
+      "text": "OSF",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        136.82418823242188,
+        270.3995666503906,
+        150.61068725585938
+      ],
+      "text": "optimized sucrose flotation",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        154.03810119628906,
+        94.12359619140625,
+        167.7406005859375
+      ],
+      "text": "PHC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        154.14309692382812,
+        237.2058868408203,
+        167.92959594726562
+      ],
+      "text": "primary health care",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3571319580078,
+        97.25154876708984,
+        185.05963134765625
+      ],
+      "text": "PICO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        171.46212768554688,
+        382.8514709472656,
+        185.24862670898438
+      ],
+      "text": "Population, Intervention, Comparator and Outcomes",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.67604064941406,
+        86.30109405517578,
+        202.3785400390625
+      ],
+      "text": "PK",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        188.78103637695312,
+        234.02337646484375,
+        202.56753540039062
+      ],
+      "text": "pharmacokinetic(s)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.99488830566406,
+        92.02359771728516,
+        219.6973876953125
+      ],
+      "text": "PTB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        206.09988403320312,
+        254.3839111328125,
+        219.88638305664062
+      ],
+      "text": "pulmonary tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.3137969970703,
+        80.29508972167969,
+        237.01629638671875
+      ],
+      "text": "R",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        223.41879272460938,
+        194.66409301757812,
+        237.20529174804688
+      ],
+      "text": "rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.63270568847656,
+        92.47509002685547,
+        254.335205078125
+      ],
+      "text": "RAL",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        240.73770141601562,
+        195.99758911132812,
+        254.52420043945312
+      ],
+      "text": "raltegravir",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        257.9516296386719,
+        103.19559478759766,
+        271.65411376953125
+      ],
+      "text": "RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        258.0566101074219,
+        289.42132568359375,
+        271.8431091308594
+      ],
+      "text": "rifampicin-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.2705383300781,
+        99.1541519165039,
+        288.9730224609375
+      ],
+      "text": "SAGE",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        275.3755187988281,
+        384.1618957519531,
+        289.1620178222656
+      ],
+      "text": "Strategic Advisory Group of Experts on Immunisation",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.5894470214844,
+        96.21309661865234,
+        306.29193115234375
+      ],
+      "text": "SAM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        292.6944274902344,
+        262.2221374511719,
+        306.4809265136719
+      ],
+      "text": "severe acute malnutrition",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.9083557128906,
+        98.83808898925781,
+        323.61083984375
+      ],
+      "text": "SDGs",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        310.0133361816406,
+        290.4766845703125,
+        323.7998352050781
+      ],
+      "text": "Sustainable Development Goals",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.22723388671875,
+        106.41279602050781,
+        340.9297180175781
+      ],
+      "text": "SL-LPA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        327.33221435546875,
+        277.346435546875,
+        341.11871337890625
+      ],
+      "text": "second-line line-probe assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.546142578125,
+        93.11559295654297,
+        358.2486267089844
+      ],
+      "text": "SOS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        344.651123046875,
+        337.91290283203125,
+        358.4376220703125
+      ],
+      "text": "simple one step (stool processing method)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.8650207519531,
+        92.01309204101562,
+        375.5675048828125
+      ],
+      "text": "SPK",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        361.9700012207031,
+        235.46923828125,
+        375.7565002441406
+      ],
+      "text": "stool processing kit",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.1839294433594,
+        85.89159393310547,
+        392.88641357421875
+      ],
+      "text": "TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        379.2889099121094,
+        203.66262817382812,
+        393.0754089355469
+      ],
+      "text": "tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.5028381347656,
+        95.59359741210938,
+        410.205322265625
+      ],
+      "text": "TBM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        396.6078186035156,
+        250.62911987304688,
+        410.3943176269531
+      ],
+      "text": "tuberculous meningitis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.82171630859375,
+        91.47759246826172,
+        427.5242004394531
+      ],
+      "text": "TPT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        413.92669677734375,
+        256.7936706542969,
+        427.71319580078125
+      ],
+      "text": "TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.140625,
+        91.05758666992188,
+        444.8431091308594
+      ],
+      "text": "TST",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        431.24560546875,
+        233.1151123046875,
+        445.0321044921875
+      ],
+      "text": "tuberculin skin test",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.45953369140625,
+        106.44009399414062,
+        462.1620178222656
+      ],
+      "text": "UNGA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        448.56451416015625,
+        301.2496337890625,
+        462.35101318359375
+      ],
+      "text": "United Nations General Assembly",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.7784423828125,
+        109.42839813232422,
+        479.4809265136719
+      ],
+      "text": "US FDA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        465.8834228515625,
+        346.07415771484375,
+        479.669921875
+      ],
+      "text": "United States Food and Drug Administration",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.0973205566406,
+        99.55209350585938,
+        496.7998046875
+      ],
+      "text": "WHO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        483.2023010253906,
+        269.43670654296875,
+        496.9888000488281
+      ],
+      "text": "World Health Organization",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.4162292480469,
+        110.6821060180664,
+        514.1187133789062
+      ],
+      "text": "XDR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        500.5212097167969,
+        317.3020324707031,
+        514.3077392578125
+      ],
+      "text": "extensively drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.735107421875,
+        79.9170913696289,
+        531.4376220703125
+      ],
+      "text": "Z",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        517.8401489257812,
+        210.94960021972656,
+        531.6266479492188
+      ],
+      "text": "pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.67070007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "x WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

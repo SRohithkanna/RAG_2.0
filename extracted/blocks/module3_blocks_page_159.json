@@ -1,0 +1,474 @@
+{
+  "file": "module3",
+  "page": 159,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        162.42474365234375,
+        85.31422424316406
+      ],
+      "text": "Evidence base",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.7391357421875,
+        108.71018981933594
+      ],
+      "text": "A systematic, structured, evidence-based process for TB diagnostic policy generation was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        527.0966796875,
+        124.21018981933594
+      ],
+      "text": "followed. The first step constituted systematic reviews and meta-analysis of available data",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        526.5839233398438,
+        139.71018981933594
+      ],
+      "text": "(published and unpublished), using standard methods appropriate for diagnostic accuracy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.065185546875,
+        527.1353759765625,
+        155.21018981933594
+      ],
+      "text": "studies. The second step involved the convening of a GDG to evaluate the strength of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.565185546875,
+        527.2350463867188,
+        170.71018981933594
+      ],
+      "text": "evidence base, evaluate the risks and benefits of using IGRAs in LMIC and identify gaps to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.065185546875,
+        526.9655151367188,
+        186.21018981933594
+      ],
+      "text": "be addressed in future research. Based on the Expert Group findings, the third and final step",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.565185546875,
+        526.7324829101562,
+        201.71018981933594
+      ],
+      "text": "involved development of a WHO policy guidance, with eventual dissemination to WHO Member",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.065185546875,
+        201.82017517089844,
+        217.21018981933594
+      ],
+      "text": "States for implementation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.069091796875,
+        527.0582885742188,
+        241.21409606933594
+      ],
+      "text": "The GRADE system, adopted by WHO for all policy and guideline development, was used",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.569091796875,
+        527.30029296875,
+        256.714111328125
+      ],
+      "text": "by the GDG. Given the absence of studies evaluating patient-important outcomes among",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.069091796875,
+        526.9744262695312,
+        272.214111328125
+      ],
+      "text": "TB suspects randomized to treatment based on IGRA results, reviews were focused on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.569091796875,
+        527.0419921875,
+        287.714111328125
+      ],
+      "text": "diagnostic accuracy of IGRAs versus the TST in detecting TB infection or TB disease. Recognizing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967852592468262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.069091796875,
+        526.9589233398438,
+        303.214111328125
+      ],
+      "text": "that test results may be surrogates for patient-important outcomes, the GDG evaluated the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.569091796875,
+        527.0030517578125,
+        318.714111328125
+      ],
+      "text": "accuracy of IGRAs while also drawing inferences on the likely impact of these tests on patient",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.0691223144531,
+        517.8436889648438,
+        334.2141418457031
+      ],
+      "text": "outcomes, as reflected by false negatives (i.e. cases of TB infection missed) or false positives.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.0731201171875,
+        526.9645385742188,
+        358.2181396484375
+      ],
+      "text": "Systematic reviews were undertaken following detailed protocols with predefined questions",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.5731201171875,
+        526.8853149414062,
+        373.7181396484375
+      ],
+      "text": "relevant to the individual topics. Summaries of methodologies followed for each topic are given",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.956714630126953,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.0731201171875,
+        219.52870178222656,
+        389.2181396484375
+      ],
+      "text": "in the relevant sections below.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.2309875488281,
+        149.7691192626953,
+        413.1449890136719
+      ],
+      "text": "PICO questions",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.0810241699219,
+        527.01953125,
+        437.2260437011719
+      ],
+      "text": "What is the diagnostic accuracy of commercial IGRAs for pulmonary TB in adult pulmonary TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.5810241699219,
+        526.9656372070312,
+        452.7260437011719
+      ],
+      "text": "suspects and confirmed TB cases in LMIC as compared with microbiological (culture or smear-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.0810241699219,
+        316.38201904296875,
+        468.2260437011719
+      ],
+      "text": "microscopy) or clinical diagnosis of pulmonary TB?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.2388916015625,
+        241.74012756347656,
+        492.15289306640625
+      ],
+      "text": "Hierarchy of reference standards",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.08880615234375,
+        526.9920654296875,
+        516.2338256835938
+      ],
+      "text": "Studies evaluating the performance of IGRAs are hampered by the lack of a gold standard to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.5888061523438,
+        526.9810791015625,
+        531.7338256835938
+      ],
+      "text": "distinguish the presence or absence of TB infection. Since diagnostic accuracy for TB infection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.0888061523438,
+        526.9920654296875,
+        547.2338256835938
+      ],
+      "text": "could not be directly assessed, a hierarchy of reference standards was developed and agreed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.5888061523438,
+        527.2119750976562,
+        562.7338256835938
+      ],
+      "text": "beforehand with the systematic reviewers, to evaluate the role of IGRAs, depending on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.0888061523438,
+        526.9150390625,
+        578.2338256835938
+      ],
+      "text": "individual topic (i.e. not all systematic reviews necessarily used the hierarchy). Primary outcomes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.5889282226562,
+        526.9694213867188,
+        593.7339477539062
+      ],
+      "text": "were predefined for each systematic review as relevant; for example, the predictive value of IGRAs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.956914901733398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.0889282226562,
+        526.9431762695312,
+        609.2339477539062
+      ],
+      "text": "for development of active TB, the sensitivity of IGRAs in individuals with culture- confirmed active",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.980232238769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.5889282226562,
+        526.580810546875,
+        624.7339477539062
+      ],
+      "text": "TB (as a surrogate reference standard for TB infection), and the correlation between IGRA and TST",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.963489532470703,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.0889282226562,
+        526.9407348632812,
+        640.2339477539062
+      ],
+      "text": "results. In addition to primary outcomes, specific characteristics of IGRAs that could influence their",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.956765174865723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.5889282226562,
+        526.9638061523438,
+        655.7339477539062
+      ],
+      "text": "overall utility were evaluated where relevant; for example, the proportion of indeterminate IGRA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.980082511901855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.1539306640625,
+        526.951171875,
+        671.970947265625
+      ],
+      "text": "γ results (i.e. not able to be interpreted, either due to a high IFN-  response in the negative control",
+      "font": "TimesNewRomanPSMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.6539306640625,
+        526.975341796875,
+        687.470947265625
+      ],
+      "text": "γ or a low IFN-  response in the positive control), the impact of HIV-related immunosuppression",
+      "font": "TimesNewRomanPSMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.0889282226562,
+        526.9371337890625,
+        702.2339477539062
+      ],
+      "text": "(i.e. CD4+ cell count) on test performance where available and correlation of IGRA results with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.5889282226562,
+        436.06097412109375,
+        717.7339477539062
+      ],
+      "text": "an exposure gradient (typically used in contact and outbreak investigations).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        347.6684875488281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "3. Recommendations for diagnosis of TB infection 143",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

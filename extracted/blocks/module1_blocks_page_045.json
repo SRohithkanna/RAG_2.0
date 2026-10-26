@@ -1,0 +1,618 @@
+{
+  "file": "module1",
+  "page": 45,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4244995117188,
+        81.83369445800781
+      ],
+      "text": "Interventions to enhance adherence and completion of treatment should be tailored to each risk",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4178466796875,
+        95.03370666503906
+      ],
+      "text": "group and local context. A systematic review conducted for the WHO 2015 TPT guidelines provided",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4375610351562,
+        108.23371887207031
+      ],
+      "text": "heterogeneous results for interventions to improve treatment adherence and completion, and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        105.71472930908203,
+        527.4219970703125,
+        121.43373107910156
+      ],
+      "text": "(39) evidence was considered inconclusive . WHO guidance for TB care and support includes several",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        118.91474151611328,
+        441.8940734863281,
+        134.6337432861328
+      ],
+      "text": "(116,117) interventions to support adherence, which could also be applied to TPT  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.538818359375,
+        156.3376007080078
+      ],
+      "text": "In areas with high background resistance to rifampicin, such as countries in eastern Europe, it is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.6158447265625,
+        169.53773498535156
+      ],
+      "text": "particularly important to test the strain from the presumed source for drug susceptibility so that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.2947540283203,
+        527.1610107421875,
+        182.7377471923828
+      ],
+      "text": "TPT is more likely to work. Contacts of patients with laboratory-confirmed isoniazid-resistant,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.49476623535156,
+        527.39599609375,
+        195.93775939941406
+      ],
+      "text": "rifampicin-susceptible TB may be offered a 4-month regimen of daily rifampicin. If there is rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.6947784423828,
+        527.4014282226562,
+        209.1377716064453
+      ],
+      "text": "monoresistance or other contraindications to rifampicin, an isoniazid regimen of ≥ 6 months may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.89466857910156,
+        527.5665893554688,
+        222.33766174316406
+      ],
+      "text": "be the most appropriate option. Unfortunately, in many settings, rifampicin resistance is often",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.0948028564453,
+        506.6378173828125,
+        235.5377960205078
+      ],
+      "text": "accompanied by isoniazid resistance – MDR-TB – so that other drugs are required (see below).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        245.96128845214844,
+        336.1119079589844,
+        264.2312927246094
+      ],
+      "text": "TB preventive treatment with levofloxacin",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41539764404297,
+        284.293701171875,
+        513.6181030273438,
+        298.7367248535156
+      ],
+      "text": "21. In contacts exposed to multidrug- or rifampicin-resistant tuberculosis, 6 months of daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        296.21771240234375,
+        513.6512451171875,
+        311.9367370605469
+      ],
+      "text": "(Strong recommendation, moderate  levofloxacin should be used as TB preventive treatment.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        309.417724609375,
+        242.6405029296875,
+        325.1367492675781
+      ],
+      "text": "certainty of the estimates of effect) .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.4497985839844,
+        524.3141479492188,
+        365.892822265625
+      ],
+      "text": "Drug-resistant TB is one of the most prominent causes of morbidity and mortality from an antimicrobial-",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.6498107910156,
+        527.4210815429688,
+        379.09283447265625
+      ],
+      "text": "resistant organism. It is thus important to take all measures possible to lower the risk of secondary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.8498229980469,
+        527.4322509765625,
+        392.2928466796875
+      ],
+      "text": "cases of MDR/RR-TB. This includes use of appropriate TPT with regimens of proven effectiveness.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.0498352050781,
+        527.3795776367188,
+        405.49285888671875
+      ],
+      "text": "Recommendation 21 was first issued in this edition of the consolidated guidelines and is based on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        444.4543151855469,
+        404.24981689453125,
+        490.1263427734375,
+        418.6928405761719
+      ],
+      "text": "annexes 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        490.12860107421875,
+        404.24981689453125,
+        513.4155883789062,
+        418.6928405761719
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.194580078125,
+        404.24981689453125,
+        518.8595581054688,
+        418.6928405761719
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.24981689453125,
+        527.4190673828125,
+        418.69287109375
+      ],
+      "text": ").  moderately certain evidence, as summarized in the GRADE tables (see PICO 10 in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        417.4498291015625,
+        527.4156494140625,
+        431.8928527832031
+      ],
+      "text": "The current recommendation replaces the previous conditional recommendation for TPT in selected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        430.64984130859375,
+        527.4140014648438,
+        445.0928649902344
+      ],
+      "text": "household contacts of MDR/RR-TB that was issued in 2018 that was based on very low certainty of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        442.57379150390625,
+        194.86129760742188,
+        458.2928771972656
+      ],
+      "text": "(39) . the estimates of effect",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        468.7164001464844,
+        236.09176635742188,
+        486.9864196777344
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.6922912597656,
+        527.4158935546875,
+        508.13531494140625
+      ],
+      "text": "Before this second edition of the guidelines, the GDG considered evidence from two randomized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.61639404296875,
+        527.4383544921875,
+        521.3353881835938
+      ],
+      "text": "(15,16) controlled trials, TB CHAMP and V-QUIN  , and a systematic review commissioned by WHO on",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.09228515625,
+        167.61880493164062,
+        534.5352783203125
+      ],
+      "text": "TPT for MDR/RR-TB (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        167.63360595703125,
+        520.09228515625,
+        205.06878662109375,
+        534.5352783203125
+      ],
+      "text": "Annex 5",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        205.07080078125,
+        520.09228515625,
+        527.4114990234375,
+        534.5352783203125
+      ],
+      "text": "). In addition, studies on the programmatic feasibility and acceptability",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86607360839844,
+        533.2924194335938,
+        527.4035034179688,
+        547.7354125976562
+      ],
+      "text": "of 6Lfx were conducted. In contrast, the previous WHO recommendation in the 2018 guidelines was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86607360839844,
+        546.4923095703125,
+        527.4465942382812,
+        560.935302734375
+      ],
+      "text": "based on a review of 10 studies, none of which was an RCT. Overall, 6Lfx reduced the risk of TB by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.6922607421875,
+        527.5722045898438,
+        574.13525390625
+      ],
+      "text": "62% over 1 year among household contacts of people with MDR/RR-TB (RR 0.38; 95% CI 0.17 ; 0.86),",
+      "font": "SegoeUI-Light",
+      "size": 10.989794731140137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.892333984375,
+        527.42431640625,
+        587.3353271484375
+      ],
+      "text": "with similar effects in the two trials: hazard ratio, 0.44; 95% CI 0.15 ; 1.25 for TB CHAMP and 0.34;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        586.09228515625,
+        527.4299926757812,
+        600.5352783203125
+      ],
+      "text": "95% CI 0.09 ; 1.25 for V-QUIN. A Bayesian analysis of data from the two clinical trials gave similar",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.2924194335938,
+        527.5694580078125,
+        613.7354125976562
+      ],
+      "text": "findings, with credible intervals showing a statistically significant difference from 1 (hazard ratio, 0.38;",
+      "font": "SegoeUI-Light",
+      "size": 10.996599197387695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.492431640625,
+        524.0973510742188,
+        626.9354248046875
+      ],
+      "text": "95% credible interval, 0.15 ; 0.94 in TB CHAMP and 0.41; 95% credible interval, 0.18 ; 0.95 in V-QUIN).",
+      "font": "SegoeUI-Light",
+      "size": 10.975221633911133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.1962890625,
+        527.3328857421875,
+        648.6392822265625
+      ],
+      "text": "A systematic review of relevant studies published between June 2016 and September 2023 comprised",
+      "font": "SegoeUI-Light",
+      "size": 10.974019050598145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3963012695312,
+        527.4615478515625,
+        661.8392944335938
+      ],
+      "text": "three observational studies of TB prevention with fluoroquinolones (alone or in combination with other",
+      "font": "SegoeUI-Light",
+      "size": 10.959023475646973,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.5963134765625,
+        527.4378662109375,
+        675.039306640625
+      ],
+      "text": "TB drugs), and one assessed prevention of TB with isoniazid. All four were observational studies with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.7963256835938,
+        527.4771728515625,
+        688.2393188476562
+      ],
+      "text": "substantial risk of bias, notably selection bias. Data from these studies could not be pooled for a joint",
+      "font": "SegoeUI-Light",
+      "size": 10.99959945678711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.996337890625,
+        527.3949584960938,
+        701.4393310546875
+      ],
+      "text": "analysis. An analysis of unpublished data on 496 527 individual contacts identified 8952 contacts of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.1962890625,
+        527.3902587890625,
+        714.6392822265625
+      ],
+      "text": "patients with MDR/RR-TB of whom 722 received isoniazid and 4223 received no TPT. The reasons",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.3963012695312,
+        527.3783569335938,
+        727.8392944335938
+      ],
+      "text": "for initiating or not initiating isoniazid and the duration of isoniazid were not given, and data on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.5963134765625,
+        527.4430541992188,
+        741.039306640625
+      ],
+      "text": "completion of TPT, concomitant exposure and drug sensitivity patterns in the untreated group that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.7963256835938,
+        527.238037109375,
+        754.2393188476562
+      ],
+      "text": "developed disease were not available. The GDG noted that the findings on effectiveness, survival and",
+      "font": "SegoeUI-Light",
+      "size": 10.987793922424316,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.996337890625,
+        527.4041748046875,
+        767.4393310546875
+      ],
+      "text": "completion were inconclusive and considered that the analysis – and also a published study of IPT in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 27",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

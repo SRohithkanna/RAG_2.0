@@ -1,0 +1,594 @@
+{
+  "file": "module1",
+  "page": 28,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30284118652344,
+        174.92857360839844,
+        84.57283782958984
+      ],
+      "text": "People with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41419982910156,
+        104.63520050048828,
+        513.6649780273438,
+        119.07820129394531
+      ],
+      "text": "9. Infants and children living with HIV who have poor weight gain,  fever or current cough or who  4",
+      "font": "SegoeUI-Light",
+      "size": 10.990996360778809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        117.83533477783203,
+        513.609375,
+        132.27833557128906
+      ],
+      "text": "have a history of contact with a person with TB should be evaluated for TB and other diseases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        131.0353546142578,
+        513.5462646484375,
+        145.4783477783203
+      ],
+      "text": "that cause such symptoms. If TB disease is excluded after an appropriate clinical evaluation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        144.23524475097656,
+        513.635986328125,
+        158.67823791503906
+      ],
+      "text": "or according to national guidelines, these children should be offered TB preventive treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        156.15919494628906,
+        474.9559020996094,
+        171.8782501220703
+      ],
+      "text": "(Strong recommendation, low certainty of the estimates of effect) regardless of their age.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        179.1392364501953,
+        513.6021728515625,
+        193.5822296142578
+      ],
+      "text": "10. Adults and adolescents living with HIV should be screened for TB according to a clinical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        192.33924865722656,
+        513.6136474609375,
+        206.78224182128906
+      ],
+      "text": "algorithm. Those who do not report any of the symptoms of current cough, fever, weight loss",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        205.5392608642578,
+        513.6168823242188,
+        219.9822540283203
+      ],
+      "text": "or night sweats are unlikely to have TB disease. Those who report any of these symptoms may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        218.73927307128906,
+        513.5928955078125,
+        233.18226623535156
+      ],
+      "text": "have TB, should be evaluated for TB and other diseases and should be offered TB preventive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        230.66322326660156,
+        513.6351318359375,
+        246.3822784423828
+      ],
+      "text": "(Strong  treatment if TB disease is excluded, regardless of their antiretroviral treatment status.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        243.8632354736328,
+        369.24627685546875,
+        259.5272216796875
+      ],
+      "text": "recommendation, moderate certainty of the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        266.84307861328125,
+        513.634521484375,
+        281.2861022949219
+      ],
+      "text": "11. Among adults and adolescents living with HIV, chest X-ray may be used to screen for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        278.76708984375,
+        438.1466064453125,
+        294.4861145019531
+      ],
+      "text": "(Conditional recommendation, low certainty of the estimates of effect) disease.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        301.74713134765625,
+        513.6240844726562,
+        316.1901550292969
+      ],
+      "text": "12. Among adults and adolescents living with HIV, C-reactive protein at a cut-off of > 5 mg/L",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        313.67108154296875,
+        513.7255249023438,
+        329.3901672363281
+      ],
+      "text": "(Conditional recommendation, low certainty in the  may be used to screen for TB disease",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        326.87109375,
+        169.3897705078125,
+        342.53509521484375
+      ],
+      "text": "estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        349.85101318359375,
+        513.7908935546875,
+        364.2940368652344
+      ],
+      "text": "13. Among adults and adolescents living with HIV, molecular WHO-recommended rapid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        361.7749938964844,
+        513.705078125,
+        377.4940185546875
+      ],
+      "text": "(Conditional recommendation, moderate  diagnostic tests may be used to screen for TB disease.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.985190391540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        374.9750061035156,
+        240.01426696777344,
+        390.6390075683594
+      ],
+      "text": "certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        420.1697998046875,
+        236.09176635742188,
+        438.4398193359375
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.14569091796875,
+        527.4014892578125,
+        459.5887145996094
+      ],
+      "text": "A systematic review of studies on infants and children, conducted for the 2011 guidelines provided",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.0697021484375,
+        527.45556640625,
+        472.7887268066406
+      ],
+      "text": "(26) limited evidence on the best approach to screening  . Using these few studies and expert opinion,",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.996599197387695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.54571533203125,
+        527.4072875976562,
+        485.9887390136719
+      ],
+      "text": "the previous GDG recommended a screening rule of poor weight gain, fever, current cough and a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.6357116699219,
+        527.4144897460938,
+        499.1887512207031
+      ],
+      "text": "recommendation 9 ). A systematic review was undertaken  history of contact with a person with TB (",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.9457092285156,
+        527.4482421875,
+        512.3887329101562
+      ],
+      "text": "for the 2018 update to assess the performance of the screening rule; however, the only publication",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.86968994140625,
+        527.4129028320312,
+        525.5887451171875
+      ],
+      "text": "(51) . In this  found was of a study of 168 children aged ≤ 12 years hospitalized with HIV in Kenya",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        524.345703125,
+        527.4080810546875,
+        538.7886962890625
+      ],
+      "text": "study, the sensitivity was 100% (95% CI, 94 ; 100.0) and the specificity was 5% (95% CI, 1 ; 11). The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.5457153320312,
+        527.435791015625,
+        551.9887084960938
+      ],
+      "text": "systematic review conducted for the 2021 TB screening guidelines comprised two studies conducted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.4697265625,
+        527.4370727539062,
+        565.188720703125
+      ],
+      "text": "(13) in outpatient settings, with a total of 20 926 participants  . In this review, the combined symptom",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.9456787109375,
+        527.426513671875,
+        578.388671875
+      ],
+      "text": "screen (in which the presence of any symptom constituted a positive screen) had a pooled sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.1456909179688,
+        448.5566711425781,
+        591.5886840820312
+      ],
+      "text": "of 61% (95% CI 58% ; 64%) and a pooled specificity of 94% (95% CI 86% ; 98%) (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        448.5794982910156,
+        577.1456909179688,
+        480.94482421875,
+        591.5886840820312
+      ],
+      "text": "Table 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        480.94610595703125,
+        577.1456909179688,
+        527.4210815429688,
+        591.5886840820312
+      ],
+      "text": "). Despite",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.345703125,
+        527.5345458984375,
+        604.7886962890625
+      ],
+      "text": "the lack of high-certainty evidence, the GDG considered that a strong recommendation for symptom",
+      "font": "SegoeUI-Light",
+      "size": 10.990145683288574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.5457153320312,
+        527.4212646484375,
+        617.9887084960938
+      ],
+      "text": "screening was warranted for children < 10 years who were living with HIV, given the high risk of disease",
+      "font": "SegoeUI-Light",
+      "size": 10.959726333618164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.7457275390625,
+        391.50909423828125,
+        631.188720703125
+      ],
+      "text": "and of mortality when the diagnosis is missed and TB is left untreated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        638.4495849609375,
+        527.578369140625,
+        652.892578125
+      ],
+      "text": "Infants and children with HIV should be screened for TB as part of standard, routine clinical care,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.6497192382812,
+        527.1504516601562,
+        666.0927124023438
+      ],
+      "text": "regardless of whether they are receiving TPT or ART. Symptom-based screening is generally acceptable",
+      "font": "SegoeUI-Light",
+      "size": 10.996199607849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.8497314453125,
+        527.4124755859375,
+        679.292724609375
+      ],
+      "text": "to caregivers and people and is feasible even in resource-limited settings. Therefore, the GDG decided",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.0496826171875,
+        527.2555541992188,
+        692.49267578125
+      ],
+      "text": "to make a strong recommendation for use of symptom screening in children with HIV. TB disease should",
+      "font": "SegoeUI-Light",
+      "size": 10.981233596801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.2496948242188,
+        527.37744140625,
+        705.6926879882812
+      ],
+      "text": "be ruled out for those who have one or more symptoms. The GDG also noted that clinicians should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.4495849609375,
+        527.4453125,
+        718.892578125
+      ],
+      "text": "broaden the differential diagnosis to include other diseases that may cause current cough, fever and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.6497192382812,
+        527.414794921875,
+        732.0927124023438
+      ],
+      "text": "poor weight gain in children with HIV. If the evaluation shows no signs of TB disease and the clinician",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.143798828125,
+        526.5811157226562,
+        763.5758056640625
+      ],
+      "text": "Poor weight gain  here is defined as reported weight loss, very low weight-for-age (< –3 Z-scores), underweight (weight-for-age < –2  4",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        362.7798156738281,
+        773.17578125
+      ],
+      "text": "Z-scores), confirmed weight loss (> 5%) since the last visit or growth curve flattening",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "10 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

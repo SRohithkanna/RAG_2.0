@@ -1,0 +1,102 @@
+{
+  "file": "Latent",
+  "page": 72,
+  "blocks": [
+    {
+      "bbox": [
+        229.77529907226562,
+        373.97247314453125,
+        239.3752899169922,
+        761.1022338867188
+      ],
+      "text": "Risk of bias in selection of the control group, and none of the studies adjusted for confounders. Downgraded by two levels.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        236.27780151367188,
+        489.0951843261719,
+        248.3752899169922,
+        766.7078857421875
+      ],
+      "text": "The study by Shaaf et al. was excluded, as the incidence of MDR-TB was not reported.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        245.27780151367188,
+        552.6350708007812,
+        257.37530517578125,
+        766.7603759765625
+      ],
+      "text": "Small sample sizes and wide 95% CIs. Downgraded by two levels.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        256.7828063964844,
+        713.9031982421875,
+        293.37530517578125,
+        727.3687133789062
+      ],
+      "text": "(58) (56) (57) (59)",
+      "font": "Whitney-BookItalic",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        256.7752990722656,
+        727.3687133789062,
+        293.37530517578125,
+        761.1022338867188
+      ],
+      "text": "Reference  Reference  Reference  Reference",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        230.4428253173828,
+        766.7078857421875,
+        290.0396423339844,
+        771.0234985351562
+      ],
+      "text": "2 \t 3 \t 4\t 1 \t 6\t 5\t 7",
+      "font": "Whitney-Book",
+      "size": 4.372499942779541,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        37.77320098876953,
+        790.2608032226562,
+        56.693206787109375,
+        810.61279296875
+      ],
+      "text": "60",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

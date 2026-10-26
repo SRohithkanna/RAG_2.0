@@ -1,0 +1,618 @@
+{
+  "file": "module1",
+  "page": 241,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30271911621094,
+        293.65972900390625,
+        84.57271575927734
+      ],
+      "text": "Randomization and trial procedure",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        91.01463317871094,
+        527.3776245117188,
+        105.72163391113281
+      ],
+      "text": "TB CHAMP : All eligible children in a household were treated with the same drug (either all Lfx or all",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        104.47858428955078,
+        527.3984985351562,
+        118.92158508300781
+      ],
+      "text": "placebo). Households were randomized (allocated by chance) to be in the Lfx or the placebo group.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.67859649658203,
+        527.3783569335938,
+        132.12159729003906
+      ],
+      "text": "Allocation conducted by computer, and households had an equal chance of being in either group.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        130.8787384033203,
+        527.430419921875,
+        145.3217315673828
+      ],
+      "text": "In this “double blind” study, neither the children (or their family) nor the researchers knew whether",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.07862854003906,
+        287.24835205078125,
+        158.52162170410156
+      ],
+      "text": "the tablets each child took were Lfx or placebo.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        165.78260803222656,
+        527.392578125,
+        180.22560119628906
+      ],
+      "text": "A CXR (anteroposterior and lateral images) was completed at baseline and, if any evidence of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        178.9826202392578,
+        527.4322509765625,
+        193.4256134033203
+      ],
+      "text": "on the CXR or if the child had any symptoms or signs suggestive of TB, they underwent sampling",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        192.18263244628906,
+        527.3827514648438,
+        206.62562561035156
+      ],
+      "text": "for mycobacterial evaluation. IGRA and HIV testing were done in all children at baseline, and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        205.3826446533203,
+        527.3967895507812,
+        219.8256378173828
+      ],
+      "text": "result was required before enrolment of children aged 5–17 years. A pregnancy test was performed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        218.58265686035156,
+        527.3648681640625,
+        233.02565002441406
+      ],
+      "text": "at baseline for all female participants who had begun menstruation. A full blood count, alanine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        231.7826690673828,
+        527.4306030273438,
+        246.2256622314453
+      ],
+      "text": "transaminase and bilirubin were collected at baseline in all children. Children were followed at 4, 8,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        244.98255920410156,
+        527.3853149414062,
+        259.4255676269531
+      ],
+      "text": "12, 16, 24, 48 and 72 weeks and at additional unscheduled visits as clinically indicated. At each visit,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        258.18267822265625,
+        527.3969116210938,
+        272.6257019042969
+      ],
+      "text": "children were assessed clinically for symptoms and signs of TB, new exposure to TB and for evidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        271.3826904296875,
+        527.450439453125,
+        285.8257141113281
+      ],
+      "text": "of any adverse events due to the medication. Adherence to medication was quantified by pill returns",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        284.58270263671875,
+        527.4376220703125,
+        299.0257263183594
+      ],
+      "text": "and counts, treatment diaries and questionnaires. Weight and height were measured at each visit,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        297.78271484375,
+        527.219970703125,
+        312.2257385253906
+      ],
+      "text": "all concomitant medications documented, and any outpatient or inpatient health-care visits were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        310.98260498046875,
+        527.4367065429688,
+        325.4256286621094
+      ],
+      "text": "recorded. The dose of medication was adjusted monthly as necessary. A CXR (AP and lateral) was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.1826171875,
+        527.5888061523438,
+        338.6256408691406
+      ],
+      "text": "done at baseline and at 12 and 48 weeks and at any time of clinical concern. Two respiratory samples",
+      "font": "SegoeUI-Light",
+      "size": 10.991446495056152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.3825988769531,
+        527.4168090820312,
+        351.82562255859375
+      ],
+      "text": "were collected for mycobacterial evaluation if the child had any symptoms or signs suggestive of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.5826110839844,
+        527.5455322265625,
+        365.025634765625
+      ],
+      "text": "or if they had an abnormal CXR. Sampling for presumed pulmonary TB consisted of induced sputum",
+      "font": "SegoeUI-Light",
+      "size": 10.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.7825927734375,
+        527.16748046875,
+        378.2256164550781
+      ],
+      "text": "or gastric aspiration in children < 5 years, while children aged ≥ 5 years were encouraged to produce",
+      "font": "SegoeUI-Light",
+      "size": 10.988393783569336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.98260498046875,
+        527.3848876953125,
+        391.4256286621094
+      ],
+      "text": "an expectorated sputum sample. Samples for presumed extrapulmonary TB were taken according",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.1826171875,
+        527.4068603515625,
+        404.6256408691406
+      ],
+      "text": "to the site of disease. All samples were examined by smear microscopy, Xpert MTB/RIF Ultra and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.3825988769531,
+        527.5968627929688,
+        417.82562255859375
+      ],
+      "text": "mycobacterial culture. Drug susceptibility (first- and second-line drugs) was tested in all mycobacterial",
+      "font": "SegoeUI-Light",
+      "size": 10.97697639465332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.5826110839844,
+        290.360107421875,
+        431.025634765625
+      ],
+      "text": "isolates by genotypic and phenotypic methods.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.02252197265625,
+        527.4266967773438,
+        452.7295227050781
+      ],
+      "text": "V-QUIN : Participants were assigned to parallel groups in a 1:1 ratio in a permuted block design with",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.48651123046875,
+        527.3051147460938,
+        465.9295349121094
+      ],
+      "text": "varying block size, stratified by province. The allocation sequence was concealed before randomization.",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.6864929199219,
+        527.3886108398438,
+        479.1295166015625
+      ],
+      "text": "Within a household, participants were placed on the same regimen if enrolled within 90 days of one",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.8865051269531,
+        255.2568817138672,
+        492.32952880859375
+      ],
+      "text": "another to avoid a contamination effect.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        499.59039306640625,
+        527.4166870117188,
+        514.0333862304688
+      ],
+      "text": "During the 6-month treatment period, participants attended a clinic monthly to assess toxicity and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        512.79052734375,
+        527.4055786132812,
+        527.2335205078125
+      ],
+      "text": "support adherence. Patients were also telephoned between scheduled visits, every 2 weeks. After",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        525.9903564453125,
+        527.41259765625,
+        540.433349609375
+      ],
+      "text": "treatment, participants attended follow-up sessions for assessment of incident TB with a symptom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        539.1904907226562,
+        527.4317626953125,
+        553.6334838867188
+      ],
+      "text": "screen and CXR at 6, 12, 18, 24 and 30 months. In addition, patients were assessed by telephone",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.390380859375,
+        527.5985717773438,
+        566.8333740234375
+      ],
+      "text": "interviews for symptoms every 3 months during the follow-up. Throughout follow-up, participants with",
+      "font": "SegoeUI-Light",
+      "size": 10.950589179992676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.5903930664062,
+        527.5184936523438,
+        580.0333862304688
+      ],
+      "text": "symptoms consistent with TB or CXR abnormalities were asked to produce three sputum samples for",
+      "font": "SegoeUI-Light",
+      "size": 10.99945068359375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.79052734375,
+        527.5643310546875,
+        593.2335205078125
+      ],
+      "text": "Xpert MTB/RIF and liquid culture. After the 30-month follow-up period (up to 134 weeks), participants",
+      "font": "SegoeUI-Light",
+      "size": 10.970159530639648,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.990478515625,
+        527.4315795898438,
+        606.4334716796875
+      ],
+      "text": "were asked to produce a single sputum sample for Xpert MTB/RIF testing. Those diagnosed with TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.1904296875,
+        527.4209594726562,
+        619.6334228515625
+      ],
+      "text": "disease were treated with a standard first- or second-line regimen according to national guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.390380859375,
+        285.2543029785156,
+        632.8333740234375
+      ],
+      "text": "and the drug susceptibility profile – if available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        643.2570190429688,
+        224.97715759277344,
+        661.5269775390625
+      ],
+      "text": "Outcome ascertainment",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.9690551757812,
+        527.1077270507812,
+        682.676025390625
+      ],
+      "text": "TB CHAMP : The primary end-point for efficacy was incident TB disease (bacteriologically confirmed",
+      "font": "SegoeUI-Bold",
+      "size": 10.995599746704102,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.4329833984375,
+        527.5449829101562,
+        695.8759765625
+      ],
+      "text": "or clinically diagnosed) or death from TB at the 48-week study visit after randomization, with a 6-week",
+      "font": "SegoeUI-Light",
+      "size": 10.970710754394531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.6329956054688,
+        527.3992309570312,
+        709.0759887695312
+      ],
+      "text": "window allowed, i.e. through week 54. The prespecified main secondary end-point for safety was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.8328857421875,
+        527.4014892578125,
+        722.27587890625
+      ],
+      "text": "adverse events (AEs) grade ≥ 3 assessed by the site investigator as at least possibly associated with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.0330200195312,
+        341.16650390625,
+        735.4760131835938
+      ],
+      "text": "the study treatment. Other secondary end-points included:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.7369384765625,
+        78.23609924316406,
+        757.179931640625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        742.7369384765625,
+        190.2041015625,
+        757.179931640625
+      ],
+      "text": "TB disease by 72 weeks",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.9368896484375,
+        78.23609924316406,
+        770.3798828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        755.9368896484375,
+        167.018310546875,
+        770.3798828125
+      ],
+      "text": "all-cause mortality",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.7414855957031,
+        801.0170288085938,
+        556.0995483398438,
+        811.52099609375
+      ],
+      "text": "Annex 5. Summary of unpublished studies (PICO 10) 223",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

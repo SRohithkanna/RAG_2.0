@@ -1,0 +1,90 @@
+{
+  "file": "module1",
+  "page": 248,
+  "blocks": [
+    {
+      "bbox": [
+        70.3723373413086,
+        66.30271911621094,
+        170.94705200195312,
+        84.57271575927734
+      ],
+      "text": "Results V-QUIN",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        96.8158950805664,
+        281.1421203613281,
+        112.6438980102539
+      ],
+      "text": "Table A5.5. Participant characteristics",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.272216796875,
+        230.8092803955078,
+        520.7761840820312
+      ],
+      "text": "IQR, interquartile range; TST, Tuberculin skin test",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.3815307617188,
+        352.63568115234375,
+        550.2095336914062
+      ],
+      "text": "Table A5.6. Incidence of TB among all participants",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "230 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

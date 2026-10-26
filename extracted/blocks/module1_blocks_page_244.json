@@ -1,0 +1,390 @@
+{
+  "file": "module1",
+  "page": 244,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        66.7865982055664,
+        233.1949462890625,
+        82.6146011352539
+      ],
+      "text": "Fig. A5.1. CONSORT diagram",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        89.82263946533203,
+        527.42236328125,
+        104.26564025878906
+      ],
+      "text": "TB CHAMP: Overview of enrolment, randomization and analysis of multi-drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        103.02259063720703,
+        121.31220245361328,
+        117.46559143066406
+      ],
+      "text": "child HHCs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        191.0478973388672,
+        133.3411865234375,
+        352.7119445800781,
+        143.78118896484375
+      ],
+      "text": "5063 adult MDR-TB index patients identified",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        204.88389587402344,
+        184.135986328125,
+        338.88946533203125,
+        194.57598876953125
+      ],
+      "text": "631 MDR-TB index patients screened",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        230.02450561523438,
+        234.9307861328125,
+        313.74847412109375,
+        245.37078857421875
+      ],
+      "text": "1120 children screened",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        190.0937957763672,
+        309.11883544921875,
+        355.13623046875,
+        319.67083740234375
+      ],
+      "text": "922 child participants from 497 households",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        211.25379943847656,
+        318.11883544921875,
+        331.7657470703125,
+        328.67083740234375
+      ],
+      "text": "enrolled and randomly assigned",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        79.00689697265625,
+        387.55133056640625,
+        469.1085205078125,
+        397.9513244628906
+      ],
+      "text": "453 child participants from 248 households  469 child participants from 249 households",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        113.11090087890625,
+        396.55133056640625,
+        426.1243591308594,
+        406.9513244628906
+      ],
+      "text": "assigned to levofloxacin assigned to placebo",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        178.4604034423828,
+        443.3356018066406,
+        517.3298950195312,
+        453.735595703125
+      ],
+      "text": "2 late screening failures with  4 late screening failures with",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.04440307617188,
+        451.3356018066406,
+        489.54986572265625,
+        461.735595703125
+      ],
+      "text": "TB at baseline TB at baseline",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.24130249023438,
+        491.2771301269531,
+        436.87725830078125,
+        501.6771240234375
+      ],
+      "text": "451 included in modified  465 included in modified",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.89730072021484,
+        500.77313232421875,
+        444.23004150390625,
+        511.1731262207031
+      ],
+      "text": "intention-to-treat population  intention-to-treat population",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.0093002319336,
+        510.2691345214844,
+        435.9172058105469,
+        520.6691284179688
+      ],
+      "text": "(primary efficacy analysis) (primary efficacy analysis)",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        571.072265625,
+        512.2095947265625,
+        581.5896606445312
+      ],
+      "text": "73 participants further excluded  58 participants further excluded",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        579.0733032226562,
+        506.2518310546875,
+        589.5906372070312
+      ],
+      "text": "from per-protocol population:  from per-protocol population:",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        589.9093017578125,
+        495.1351318359375,
+        600.4266357421875
+      ],
+      "text": "n=1  Received incorrect trial  n=32 Not adhering to trial",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.31991577148438,
+        597.9102783203125,
+        460.95428466796875,
+        608.4276733398438
+      ],
+      "text": "treatment to original   treatment",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.31991577148438,
+        605.9113159179688,
+        223.8679962158203,
+        615.0113525390625
+      ],
+      "text": "allocation",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        412.0570983886719,
+        610.16357421875,
+        503.6646728515625,
+        619.2636108398438
+      ],
+      "text": "n=18 Missing information on",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        616.747314453125,
+        496.9526062011719,
+        627.2646484375
+      ],
+      "text": "n=41 Not adhering to trial   treatment adherence",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.31991577148438,
+        624.748291015625,
+        224.2200927734375,
+        633.8483276367188
+      ],
+      "text": "treatment",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        412.0570983886719,
+        629.0006103515625,
+        516.8568725585938,
+        638.1006469726562
+      ],
+      "text": "n=8   Other late screening failures",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        635.5843505859375,
+        267.14544677734375,
+        644.6843872070312
+      ],
+      "text": "n=16 Missing information on",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.31991577148438,
+        643.5853271484375,
+        258.30035400390625,
+        652.6853637695312
+      ],
+      "text": "treatment adherence",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        175.32290649414062,
+        654.4213256835938,
+        280.1226806640625,
+        663.5213623046875
+      ],
+      "text": "n=15  Other late screening failures",
+      "font": "SegoeUI",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.63770294189453,
+        693.3742065429688,
+        461.29461669921875,
+        703.7742309570312
+      ],
+      "text": "378 included in per-protocol population 407 included in per-protocol population",
+      "font": "SegoeUI",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        732.6302490234375,
+        427.94134521484375,
+        743.1342163085938
+      ],
+      "text": "MDR, multidrug-resistant; TB, tuberculosis; CXR, chest x-ray; IGRA, interferon-  release assay; INH, isoniazid γ",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "226 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "file": "Guidance for national",
+  "page": 10,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        80.14361572265625,
+        103.71139526367188,
+        109.03961181640625
+      ],
+      "text": "A",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.07140350341797,
+        87.01241302490234,
+        291.0386657714844,
+        107.23960876464844
+      ],
+      "text": "cknowledgements",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        137.9017333984375,
+        513.448974609375,
+        151.25323486328125
+      ],
+      "text": "This document represents consensus guidance developed by the WHO Global TB",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        153.89825439453125,
+        495.33660888671875,
+        167.249755859375
+      ],
+      "text": "Programme with input from the Childhood TB subgroup of the Stop TB Partnership.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        178.40472412109375,
+        513.4030151367188,
+        191.7562255859375
+      ],
+      "text": "The Global TB Programme of the World Health Organization gratefully acknowledges",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        194.4012451171875,
+        513.4146118164062,
+        207.75274658203125
+      ],
+      "text": "the members – listed below - of the Guidelines Development Group (henceforth referred",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        210.39776611328125,
+        166.83889770507812,
+        223.749267578125
+      ],
+      "text": "to as the Panel).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        234.90423583984375,
+        513.4721069335938,
+        248.2557373046875
+      ],
+      "text": "Stephen Graham (University of Melbourne, Melbourne, Australia, and International",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        250.9007568359375,
+        513.471923828125,
+        264.25225830078125
+      ],
+      "text": "Union Against Tuberculosis and Lung Disease, Paris, France) led the team that compiled,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        266.89727783203125,
+        513.4029541015625,
+        280.248779296875
+      ],
+      "text": "synthesized and evaluated the evidence underlying the recent recommendations that",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        282.893798828125,
+        271.0058288574219,
+        296.24530029296875
+      ],
+      "text": "were considered for possible revision.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        307.40032958984375,
+        387.6963806152344,
+        320.7518310546875
+      ],
+      "text": "Suzanne Hill chaired and facilitated the meeting of the Panel.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        331.9068298339844,
+        513.4144897460938,
+        345.2583312988281
+      ],
+      "text": "Technical advice relating to drug dosages was provided by Professor Peter Donald",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        347.9033203125,
+        513.4490966796875,
+        361.25482177734375
+      ],
+      "text": "(University of Stellenbosch, Cape Town, South Africa) and Dr Susan Abdel-Rahman",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        363.8998107910156,
+        392.84832763671875,
+        377.2513122558594
+      ],
+      "text": "(Children’s Mercy Hospitals and Clinics, Kansas City, MO, USA).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        388.40631103515625,
+        513.4260864257812,
+        401.7578125
+      ],
+      "text": "Information and feedback on specific issues was provided by the following WHO",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        404.4028015136719,
+        513.4029541015625,
+        417.7543029785156
+      ],
+      "text": "staff: Annemieke Brands, Dennis Falzon, Haileyesus Getahun, Malgosia Grzemska,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        420.3992919921875,
+        513.3914184570312,
+        433.75079345703125
+      ],
+      "text": "Lisa Hedman, Christian Lienhardt, Lisa Nelson, Martina Penazzato, Mario Raviglione,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        436.3957824707031,
+        431.9828186035156,
+        449.7472839355469
+      ],
+      "text": "Charalampos Sismanidis, Fraser Wares, Karin Weyer and Patrick Zuber.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        460.90228271484375,
+        473.9809265136719,
+        474.2537841796875
+      ],
+      "text": "Useful feedback was also provided by the External Review Group (listed below).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        485.4087829589844,
+        513.4490356445312,
+        498.7602844238281
+      ],
+      "text": "Additional feedback and support were provided by the WHO Guidelines Review",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        501.4052734375,
+        373.2179260253906,
+        514.7567749023438
+      ],
+      "text": "Committee (Chair, Charles Penn; Secretariat, Susan Norris).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        525.9118041992188,
+        513.403076171875,
+        539.2633056640625
+      ],
+      "text": "Tara Kedia (intern, WHO, and New Hampshire, USA) and Nicole Wong (Monash",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        541.9082641601562,
+        510.2866516113281,
+        555.259765625
+      ],
+      "text": "University, Melbourne, Australia) provided support in the preparation of the document.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        566.4147338867188,
+        300.58392333984375,
+        579.7662353515625
+      ],
+      "text": "Natacha Barras provided secretarial support.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        590.9212646484375,
+        513.3800659179688,
+        604.2727661132812
+      ],
+      "text": "The revision of this guidance, including the meeting of the Guidelines Development Group,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        606.9177856445312,
+        513.4144287109375,
+        620.269287109375
+      ],
+      "text": "was funded by the United States Agency for International Development (USAID) under",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        622.9142456054688,
+        513.403076171875,
+        636.2657470703125
+      ],
+      "text": "TB CARE I Collaborative Agreement No. AID-OAA-A-10-00020. The contents do not",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        638.9107666015625,
+        449.8654479980469,
+        652.2622680664062
+      ],
+      "text": "necessarily reflect the views of USAID or of the United States Government.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        676.79150390625,
+        161.10450744628906,
+        698.1215209960938
+      ],
+      "text": "W  C",
+      "font": "FrutigerLTStd-Bold-SC700",
+      "size": 18.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        103.30940246582031,
+        681.8405151367188,
+        228.3434295654297,
+        696.7715454101562
+      ],
+      "text": "riting ommittee",
+      "font": "FrutigerLTStd-Bold-SC700",
+      "size": 12.600000381469727,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        704.8143310546875,
+        513.391357421875,
+        718.1658325195312
+      ],
+      "text": "The Writing Committee was made up of Dr Stephen Graham, Dr Malgosia Grzemska,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        720.810791015625,
+        346.8369140625,
+        734.1622924804688
+      ],
+      "text": "Dr Suzanne Hill, Ms Tara Kedia and Ms Nicole Wong.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        748.1463012695312,
+        513.4605712890625,
+        761.497802734375
+      ],
+      "text": "Mrs Annemieke Brands, Dr Stephen Graham and Dr Malgosia Grzemska finalized the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        764.142822265625,
+        408.7529602050781,
+        777.4943237304688
+      ],
+      "text": "document after review by the WHO Guideline Review Committee.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        563.10400390625,
+        805.8439331054688,
+        576.4240112304688,
+        835.8439331054688
+      ],
+      "text": "ix",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

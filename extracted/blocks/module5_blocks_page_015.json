@@ -1,0 +1,570 @@
+{
+  "file": "module5",
+  "page": 15,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.4398803710938,
+        81.83369445800781
+      ],
+      "text": "Grading of Recommendations Assessment, Development and Evaluation (GRADE):  System for",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.991296768188477,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.5465087890625,
+        95.03370666503906
+      ],
+      "text": "rating quality of evidence and strength of recommendations. This approach is explicit, comprehensive,",
+      "font": "SegoeUI-Light",
+      "size": 10.971061706542969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        198.59019470214844,
+        108.23371887207031
+      ],
+      "text": "transparent and pragmatic. 7",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38463592529297,
+        527.4161987304688,
+        129.93763732910156
+      ],
+      "text": "High tuberculosis transmission setting:  Setting with a high frequency of people with undetected",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4092407226562,
+        143.13758850097656
+      ],
+      "text": "or undiagnosed TB disease, or where people with infectious TB are present and there is a high risk",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.5905151367188,
+        156.3376007080078
+      ],
+      "text": "of TB transmission. People with TB are most infectious when they are untreated or inadequately",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.3923950195312,
+        169.53773498535156
+      ],
+      "text": "treated. Spread is increased by aerosol-generating procedures and by the presence of highly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        158.6925048828125,
+        182.73768615722656
+      ],
+      "text": "susceptible people.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.88873291015625,
+        527.4002075195312,
+        204.4417266845703
+      ],
+      "text": "Household contact:  Person who shared the same enclosed living space as the index case for one",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.19862365722656,
+        527.4080200195312,
+        217.64161682128906
+      ],
+      "text": "or more nights or for frequent or extended daytime periods during the 3 months before the start of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        216.3986358642578,
+        153.51876831054688,
+        230.8416290283203
+      ],
+      "text": "current treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        237.99249267578125,
+        527.4478149414062,
+        252.5454864501953
+      ],
+      "text": "Index case (index patient) of tuberculosis:  Initially identified person of any age with new or",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.30250549316406,
+        527.3739013671875,
+        265.7455139160156
+      ],
+      "text": "recurrent TB in a specific household or other comparable setting in which others may have been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        264.50262451171875,
+        527.5277709960938,
+        278.9456481933594
+      ],
+      "text": "exposed. An index case is the person on which a contact investigation is centred but is not necessarily",
+      "font": "SegoeUI-Light",
+      "size": 10.983887672424316,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.70257568359375,
+        144.3563995361328,
+        292.1455993652344
+      ],
+      "text": "the source case.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.2965087890625,
+        527.4361572265625,
+        313.8495178222656
+      ],
+      "text": "Inpatient health care setting:  Health care facility where people are admitted and assigned a bed",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.60650634765625,
+        495.2022705078125,
+        327.0495300292969
+      ],
+      "text": "while undergoing diagnosis and receiving treatment and care, for at least one overnight stay.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.2004089355469,
+        527.5237426757812,
+        348.75341796875
+      ],
+      "text": "Integrated treatment decision algorithm:  Flowchart allocating evidence-based scores to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        347.5104064941406,
+        527.4102783203125,
+        361.95343017578125
+      ],
+      "text": "microbiological, clinical and radiological features that allow clinicians to make decisions regarding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        360.7104187011719,
+        220.73379516601562,
+        375.1534423828125
+      ],
+      "text": "starting TB treatment in children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        379.62042236328125,
+        524.4043579101562,
+        396.857421875
+      ],
+      "text": "Mycobacterium tuberculosis Interferon-gamma release assay (IGRA):  Blood test used to test for",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        395.6144104003906,
+        379.33587646484375,
+        410.05743408203125
+      ],
+      "text": "infection by measuring the body’s immune response to TB bacteria.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        414.5242919921875,
+        527.4034423828125,
+        431.7613220214844
+      ],
+      "text": "Mycobacterium tuberculosis Multidrug-resistant tuberculosis (MDR-TB):  TB caused by   strains that",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.987142562866211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        430.518310546875,
+        311.9385070800781,
+        444.9613342285156
+      ],
+      "text": "are resistant to at least both rifampicin and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        452.1122131347656,
+        527.3687744140625,
+        466.66522216796875
+      ],
+      "text": "New case:  Newly registered episode of TB in a person who has never been treated for TB or has",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        465.4222106933594,
+        262.4674072265625,
+        479.865234375
+      ],
+      "text": "taken TB medicines for less than 1 month.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        487.0162353515625,
+        527.5764770507812,
+        501.3712158203125
+      ],
+      "text": "Non-severe pulmonary tuberculosis for the purpose of determining treatment duration",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        500.2162170410156,
+        527.5570678710938,
+        514.7692260742188
+      ],
+      "text": "for drug-susceptible tuberculosis:  Intrathoracic lymph node TB without airway obstruction;",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        513.5262451171875,
+        527.4103393554688,
+        527.96923828125
+      ],
+      "text": "uncomplicated TB pleural effusion or paucibacillary, non-cavitary disease confined to one lobe of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        526.7261962890625,
+        251.34239196777344,
+        541.169189453125
+      ],
+      "text": "the lungs and without a miliary pattern.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        548.3201293945312,
+        527.4888305664062,
+        562.8731079101562
+      ],
+      "text": "Number needed to screen:  Number of people who need to undergo screening in order to diagnose",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.970961570739746,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        561.630126953125,
+        198.7080078125,
+        576.0731201171875
+      ],
+      "text": "one person with TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        583.2239990234375,
+        527.4727783203125,
+        597.7769775390625
+      ],
+      "text": "Operational research or implementation research:  In the context of this document, applied",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        596.5341186523438,
+        527.2542724609375,
+        610.9771118164062
+      ],
+      "text": "research that aims to develop the critical evidence base that informs the effective, sustained and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        609.734130859375,
+        527.443359375,
+        624.1771240234375
+      ],
+      "text": "embedded adoption of interventions within a health system to improve health or patient outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        622.93408203125,
+        527.4465942382812,
+        637.3770751953125
+      ],
+      "text": "Such research deals with the knowledge gap between efficacy, effectiveness and current practice to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        636.134033203125,
+        527.4119873046875,
+        650.5770263671875
+      ],
+      "text": "produce the greatest gains in disease control.  Operational research also provides decision-makers  8",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        649.333984375,
+        486.2983093261719,
+        663.7769775390625
+      ],
+      "text": "with information to enable them to improve the performance of their health programmes. 9",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        689.8026123046875,
+        526.79052734375,
+        700.3065795898438
+      ],
+      "text": "GRADE is a transparent framework for developing and presenting summaries of evidence. It provides a systematic approach for making  7",
+      "font": "SegoeUI-Light",
+      "size": 7.993947505950928,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        699.4026489257812,
+        526.6063842773438,
+        709.9066162109375
+      ],
+      "text": "clinical and public health practice recommendations. Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        709.0026245117188,
+        327.6157531738281,
+        719.506591796875
+      ],
+      "text": "quality of evidence and strength of recommendations. BMJ. 2008;336:924.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        721.4373168945312,
+        526.4371337890625,
+        731.9412841796875
+      ],
+      "text": "Guide to operational research in programs supported by the Global Fund. Geneva: Global Fund to Fight AIDS, Tuberculosis and Malaria;  8",
+      "font": "SegoeUI-Light",
+      "size": 7.991195201873779,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        731.0372924804688,
+        382.04620361328125,
+        741.541259765625
+      ],
+      "text": "2007 (https://www.who.int/hiv/pub/operational/or_guide_gf.pdf, accessed 11 March 2022).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        743.471923828125,
+        526.5992431640625,
+        753.9758911132812
+      ],
+      "text": "Expanding capacity for operations research in reproductive health: summary report of a consultative meeting. Geneva: World Health  9",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        753.0718994140625,
+        526.3823852539062,
+        763.5758666992188
+      ],
+      "text": "Organization; 2003 (https://apps.who.int/iris/bitstream/handle/10665/67936/WHO_RHR_02.18.pdf?sequence=1&isAllowed=y, accessed",
+      "font": "SegoeUI-Light",
+      "size": 7.976565837860107,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        762.6719360351562,
+        135.9329071044922,
+        773.1759033203125
+      ],
+      "text": "11 March 2022).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        489.3196105957031,
+        801.0170288085938,
+        554.064697265625,
+        811.52099609375
+      ],
+      "text": "Definitions  xiii",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

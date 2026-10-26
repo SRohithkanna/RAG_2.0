@@ -1,0 +1,606 @@
+{
+  "file": "Guidance for national",
+  "page": 89,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.723388671875,
+        82.81961059570312,
+        482.46734619140625,
+        97.03961181640625
+      ],
+      "text": "Summary of drug groups used to treat drug-resistant TB  (4, 10)",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        83.10761260986328,
+        127.723388671875,
+        97.03961181640625
+      ],
+      "text": "Table 9.",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        105.46539306640625,
+        498.206298828125,
+        120.7743911743164
+      ],
+      "text": "Drug group Drug name Daily  Maximum  Daily  adult adult paediatric",
+      "font": "HelveticaNeue-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        275.39337158203125,
+        116.265380859375,
+        498.04437255859375,
+        131.5743865966797
+      ],
+      "text": "dose in mg/kg daily dose (mg) dose in mg/kg",
+      "font": "HelveticaNeue-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        425.4774169921875,
+        127.06536865234375,
+        504.2862854003906,
+        142.37437438964844
+      ],
+      "text": "(max. dose in mg) a",
+      "font": "HelveticaNeue-Bold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        144.6504364013672,
+        469.8807067871094,
+        158.1504364013672
+      ],
+      "text": "Group 1: first-line oral  Ethambutol 20-25   2 000 15",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        155.45042419433594,
+        115.67644500732422,
+        168.95042419433594
+      ],
+      "text": "drugs  b",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.58270263671875,
+        161.4534149169922,
+        394.07373046875,
+        174.9534149169922
+      ],
+      "text": "Pyrazinamide 30-40   2 000",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03671264648438,
+        178.15745544433594,
+        164.7357177734375,
+        191.65745544433594
+      ],
+      "text": "Group 2: injectable",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03671264648438,
+        188.9574432373047,
+        117.93418884277344,
+        202.4574432373047
+      ],
+      "text": "agents c",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        202.73838806152344,
+        493.7333984375,
+        219.25340270996094
+      ],
+      "text": "15-22.5 (1000) 1 000 15-20 Amikacin Aminoglycosides",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        182.58538818359375,
+        213.5383758544922,
+        489.9803771972656,
+        229.72044372558594
+      ],
+      "text": "15-30 (1000) 1 000 15-20 Kanamycin",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        229.34239196777344,
+        489.9803771972656,
+        246.05540466308594
+      ],
+      "text": "1 000 15-30 (1000) 15-20 Capreomycin Cyclic polypeptide",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03936767578125,
+        249.2413787841797,
+        503.318359375,
+        262.7413635253906
+      ],
+      "text": "Group 3:  Ofloxacin 15-20    800 15-20 (800) 2x daily",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03936767578125,
+        260.0413513183594,
+        488.7293395996094,
+        273.5413513183594
+      ],
+      "text": "fluoroquinolones Levofloxacin 7.5-10    750 7.5-10 (750)",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        182.58535766601562,
+        270.8413391113281,
+        488.7293395996094,
+        284.3413391113281
+      ],
+      "text": "Moxifloxacin 7.5-10    400 7.5-10 (400)",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03933715820312,
+        287.5453186035156,
+        505.813720703125,
+        301.0592956542969
+      ],
+      "text": "Group 4: second-line  Ethionamide (or  15-20   1 000 15-20 (1000) 2x daily",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03933715820312,
+        298.3453063964844,
+        240.26368713378906,
+        311.8592834472656
+      ],
+      "text": "oral drugs prothionamide) d",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.58270263671875,
+        309.1592712402344,
+        504.562744140625,
+        322.6592712402344
+      ],
+      "text": "Cycloserine (or  10-20   1 000 10-20 (1000) 1x/2x",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        182.58270263671875,
+        319.9592590332031,
+        473.5396728515625,
+        333.4592590332031
+      ],
+      "text": "terizidone) daily",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.58270263671875,
+        330.7592468261719,
+        504.1487731933594,
+        344.25927734375
+      ],
+      "text": "p-aminosalicylic acid 150 (12 000) 2x/3x  150 12 000  e",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        182.57872009277344,
+        341.5592346191406,
+        473.5396728515625,
+        355.0592956542969
+      ],
+      "text": "daily (PAS; 4-g sachets)",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        358.2605285644531,
+        391.5716247558594,
+        371.76324462890625
+      ],
+      "text": "15-20    400 High-dose Isoniazid Group 5: third-line   g",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        369.063232421875,
+        411.07464599609375,
+        385.39691162109375
+      ],
+      "text": "drugs of unclear  10-12, 2x daily 300, 1x/2x daily Linezolid  h",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        379.86322021484375,
+        137.88467407226562,
+        393.36322021484375
+      ],
+      "text": "efficacy (not",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.5825958251953,
+        385.5305480957031,
+        334.47564697265625,
+        399.0316162109375
+      ],
+      "text": "15 amoxicillin  Amoxicillin/",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        390.6632080078125,
+        159.8896942138672,
+        404.1632080078125
+      ],
+      "text": "recommended by",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.5825958251953,
+        396.3305358886719,
+        320.6335754394531,
+        409.83160400390625
+      ],
+      "text": "3x daily clavulanate",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        401.46319580078125,
+        170.55467224121094,
+        414.96319580078125
+      ],
+      "text": "WHO for routine use",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03268432617188,
+        408.83160400390625,
+        404.9096374511719,
+        425.76318359375
+      ],
+      "text": "500, 2x daily 7.5-15, 2x daily Clarithromycin in MDR-TB patients)  f",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.5825958251953,
+        422.46661376953125,
+        391.5716552734375,
+        437.10162353515625
+      ],
+      "text": "150 3-4 Thioacetazone  i",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.5825958251953,
+        437.2355041503906,
+        320.96661376953125,
+        450.7355651855469
+      ],
+      "text": "Imipenem/cilastatin (only IV)",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.5825958251953,
+        449.7366027832031,
+        391.5716552734375,
+        464.3705749511719
+      ],
+      "text": "300 Clofazimine 3-5",
+      "font": "HelveticaNeue-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        470.63311767578125,
+        512.5032348632812,
+        482.63311767578125
+      ],
+      "text": "a \t In children, doses of all drugs, including the fluoroquinolones, should be at the higher end of the recommended ranges",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21530151367188,
+        480.2331237792969,
+        512.4472045898438,
+        492.2331237792969
+      ],
+      "text": "wherever possible,   ethambutol. Ethambutol should be dosed at 15 mg/kg, and not at 25 mg/kg as sometimes  except",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21530151367188,
+        489.8331298828125,
+        390.3593444824219,
+        501.8331298828125
+      ],
+      "text": "used in adults with DR-TB, as monitoring for optic neuritis is more difficult in children.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        502.4331359863281,
+        412.4793395996094,
+        514.43310546875
+      ],
+      "text": "b \t DST could be unreliable – use an additional drug if DST is not done or result is susceptible.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        515.0331420898438,
+        512.4793090820312,
+        527.0331420898438
+      ],
+      "text": "c \t Choose one drug in each of these groups; amikacin is preferred to kanamycin in children. Intramuscular injection of",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.22330474853516,
+        524.6331176757812,
+        322.8153381347656,
+        536.6331176757812
+      ],
+      "text": "amikacin is very painful -intravenous infusion should be preferred.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        537.2330932617188,
+        343.1512756347656,
+        549.2330932617188
+      ],
+      "text": "d \t Choose one or more of these drugs to make up total of four new drugs",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        549.8331298828125,
+        480.6793518066406,
+        561.8331298828125
+      ],
+      "text": "e \t PAS (including PAS Na) is administered in acidic medium (e.g. yoghurt or orange juice) for improved absorption.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        562.4331665039062,
+        512.4795532226562,
+        574.4331665039062
+      ],
+      "text": "f \t Consider use of these drugs if there are insufficient drugs in other groups to build an acceptable regimen. Each drug is",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.22330474853516,
+        572.0331420898438,
+        424.35931396484375,
+        584.0331420898438
+      ],
+      "text": "considered as only half a drug - therefore two drugs in this group count as one additional drug.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        584.6331176757812,
+        321.3353576660156,
+        596.6331176757812
+      ],
+      "text": "g \t In adults, high-dose isoniazid is defined as 16-20 mg/kg per day.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        597.233154296875,
+        512.4236450195312,
+        609.233154296875
+      ],
+      "text": "h \t Linezolid dosage for TB is uncertain, but lower doses (300 mg twice daily or even 300 mg daily in adults) cause fewer",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.22330474853516,
+        606.8331909179688,
+        233.03134155273438,
+        618.8331909179688
+      ],
+      "text": "adverse effects and still seem effective.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04730224609375,
+        620.6331787109375,
+        510.2394714355469,
+        632.6331787109375
+      ],
+      "text": "i \t Thioacetazone should not be used in people living with HIV because of the serious risk of life-threatening adverse reaction.",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        14.202799797058105,
+        805.8439331054688,
+        36.44280242919922,
+        835.8439331054688
+      ],
+      "text": "70",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

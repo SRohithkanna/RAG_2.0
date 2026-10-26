@@ -1,0 +1,234 @@
+{
+  "file": "module1",
+  "page": 181,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.14942169189453,
+        192.2790069580078,
+        84.94541931152344
+      ],
+      "text": "Type of recommendation",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        151.05709838867188,
+        122.66140747070312,
+        167.8531036376953
+      ],
+      "text": "Conclusions",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.69390106201172,
+        176.17620849609375,
+        128.93910217285156,
+        187.7952117919922
+      ],
+      "text": "Recommendation",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        191.3760986328125,
+        496.5502624511719,
+        202.99510192871094
+      ],
+      "text": "A regimen with four months of daily rifampicin may be used as preventive treatment in people at risk of active TB",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        202.39410400390625,
+        334.4090881347656,
+        213.9051055908203
+      ],
+      "text": "(conditional recommendation; moderate confidence in the estimates of effect)",
+      "font": "Whitney-BookItalic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        217.57598876953125,
+        108.42620849609375,
+        229.1949920654297
+      ],
+      "text": "Justification",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        232.784912109375,
+        760.0894775390625,
+        244.30491638183594
+      ],
+      "text": "When formulating this recommendation, the GDG considered primarily data from the randomized controlled trials (RCT) of the 4R regimen that included sites in high TB burden settings",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        243.784912109375,
+        758.2081298828125,
+        255.30491638183594
+      ],
+      "text": ". The 4R regimen had already been recommended by WHO for low TB incidence settings by the time the results of the phase 3 trials in children and adults were released in 2018.  (62–65)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        254.784912109375,
+        767.3884887695312,
+        266.3049011230469
+      ],
+      "text": "Phase 2   and phase 3   open-label RCTs have been conducted in nine countries (Australia, Benin, Brazil, Canada, Ghana, Guinea, Indonesia, Saudi Arabia, and Republic of Korea),  (64) (62,63)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        265.784912109375,
+        762.7571411132812,
+        277.3049011230469
+      ],
+      "text": "assigning children (0–17y) and adults (18y and more) with LTBI to receive treatment with 4R or 9H. In adults, the difference in rate of confirmed TB between 4R and 9H (4R arm minus 9H",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        276.7848815917969,
+        766.8328247070312,
+        288.30487060546875
+      ],
+      "text": "arm) was <0.01 cases per 100 person-years (95% confidence interval [CI], −0.14; 0.16); the difference in treatment completion was 15.1% (95% CI, 12.7; 17.4); the difference for Grade 3–5",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        287.78485107421875,
+        773.7134399414062,
+        299.3048400878906
+      ],
+      "text": "adverse events was −1.1% (95% CI, −1.9; -0.4). In children, the difference in rate of active TB between 4R and 9H was -0.37 cases per 100 person-years (95% CI, −0.88; 0.14); the difference",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        298.784912109375,
+        772.749267578125,
+        310.3049011230469
+      ],
+      "text": "in treatment completion was 13.4% (95% CI, 7.5; 19.3); the difference in risk for adverse events attributed to the medicine used and resulting in discontinuation was −0.0 (95% CI, −0.1; 0.1).",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        312.61962890625,
+        753.1810913085938,
+        324.1396179199219
+      ],
+      "text": "Out of the 17 GDG members, 13 expressed their views on this regimen during the GDG meeting and all were in favour of a conditional recommendation. The GDG considered that there",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        323.6195983886719,
+        765.7154541015625,
+        335.13958740234375
+      ],
+      "text": "was moderate certainty that 4R is not inferior to 9H, and when also considering the good safety profile of the 4R regimen and its reduced length, it recommended that this regimen also be",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        334.6195983886719,
+        763.4490966796875,
+        346.13958740234375
+      ],
+      "text": "used in high TB-burden settings. The GDG considered that most people would value the shorter regimen, but raised concerns regarding variation in acceptability, uncertainty in resources",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        345.61956787109375,
+        401.2682189941406,
+        357.1395568847656
+      ],
+      "text": "requirements, and potential for reducing equity, leading to a conditional recommendation.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.5826416015625,
+        40.87300109863281,
+        575.942626953125
+      ],
+      "text": "163",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

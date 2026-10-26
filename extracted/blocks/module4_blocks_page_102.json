@@ -1,0 +1,654 @@
+{
+  "file": "module4",
+  "page": 102,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.11469268798828,
+        527.4476318359375,
+        81.83369445800781
+      ],
+      "text": "p receive any injectable agents, nor were they administered cycloserine, terizidone,  -aminosalicylic acid,",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.957517623901367,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.2802124023438,
+        95.03370666503906
+      ],
+      "text": "delamanid or linezolid. According to the clinical guidance issued by the South African Department of",
+      "font": "SegoeUI-Light",
+      "size": 10.994248390197754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.426513671875,
+        108.23371887207031
+      ],
+      "text": "Health, at the time of regimen roll-out patients were not enrolled on the all-oral shorter regimen if",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.547607421875,
+        121.43373107910156
+      ],
+      "text": "they had extensive disease, severe extrapulmonary TB, fluoroquinolone resistance, previous exposure",
+      "font": "SegoeUI-Light",
+      "size": 10.984188079833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        118.91474151611328,
+        527.4244995117188,
+        134.6337432861328
+      ],
+      "text": "inh to second-line treatment for more than 1 month or genotypic DST showing mutations in both  A",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        132.1147003173828,
+        145.3928985595703,
+        147.8336944580078
+      ],
+      "text": "kat and  G genes.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        153.81861877441406,
+        527.4241333007812,
+        169.53761291503906
+      ],
+      "text": "(55) In June 2021, WHO issued a public call   for IPD on the treatment of DR-TB. The call for individual",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.2946319580078,
+        524.15087890625,
+        182.7376251220703
+      ],
+      "text": "patients’ data on bacteriologically confirmed MDR/RR-TB patients (including MDR/RR-TB, MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.49464416503906,
+        527.3837890625,
+        195.93763732910156
+      ],
+      "text": "RR-TB with additional resistance to second-line TB drugs, and patients with pre-XDR-TB or XDR-TB)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69459533691406,
+        215.296142578125,
+        209.13758850097656
+      ],
+      "text": "included the following specifics:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        216.3986358642578,
+        78.23609924316406,
+        230.8416290283203
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        216.3986358642578,
+        524.6036376953125,
+        230.8416290283203
+      ],
+      "text": "use of the modified shorter (<12 months) all-oral regimens using at least bedaquiline and linezolid;",
+      "font": "SegoeUI-Light",
+      "size": 10.976876258850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.59864807128906,
+        78.23609924316406,
+        244.04164123535156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        229.59864807128906,
+        527.5159912109375,
+        244.04164123535156
+      ],
+      "text": "use of the WHO-recommended shorter all-oral bedaquiline-containing regimen (9–11 months) in",
+      "font": "SegoeUI-Light",
+      "size": 10.99639892578125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        242.79859924316406,
+        527.4376831054688,
+        257.2416076660156
+      ],
+      "text": "the following combination: 4 or 6 months of bedaquiline (used for at least 6 months), levofloxacin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        255.9987335205078,
+        527.4047241210938,
+        270.4417419433594
+      ],
+      "text": "(or moxifloxacin), clofazimine, pyrazinamide, ethionamide, ethambutol and high-dose isoniazid,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        269.1986083984375,
+        527.581298828125,
+        283.6416320800781
+      ],
+      "text": "followed by 5 months of levofloxacin (or moxifloxacin), clofazimine, pyrazinamide and ethambutol;",
+      "font": "SegoeUI-Light",
+      "size": 10.989995002746582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        282.39862060546875,
+        100.3450927734375,
+        296.8416442871094
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        78.23609924316406,
+        310.0416564941406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        295.5986328125,
+        527.4277954101562,
+        310.0416564941406
+      ],
+      "text": "use of the WHO-recommended longer all-oral treatment regimen containing at least bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        308.798583984375,
+        146.71011352539062,
+        323.2416076660156
+      ],
+      "text": "and linezolid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.5025939941406,
+        527.5895385742188,
+        344.94561767578125
+      ],
+      "text": "The South African Department of Health provided WHO with the programmatic data from 2018",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.7025146484375,
+        527.3672485351562,
+        358.1455383300781
+      ],
+      "text": "to 2019 on the use of a 9-month regimen in which ethionamide was replaced by linezolid. Several",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        356.9026184082031,
+        527.5665283203125,
+        371.34564208984375
+      ],
+      "text": "country programmes that provided WHO with IPD on the use of longer regimens according to WHO",
+      "font": "SegoeUI-Light",
+      "size": 10.992497444152832,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.82659912109375,
+        524.409423828125,
+        384.5456237792969
+      ],
+      "text": "Scope of the 2022 update and available evidence recommendations are listed in the Introduction (See  ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.977375984191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.8065185546875,
+        527.2561645507812,
+        406.2495422363281
+      ],
+      "text": "Once again, in 2021, the evidence review was based on programmatic data from South Africa",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.0065002441406,
+        527.4420166015625,
+        419.44952392578125
+      ],
+      "text": "on treatment outcomes of patients treated with the 9-month regimen (with either ethionamide or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2065124511719,
+        527.4190673828125,
+        432.6495361328125
+      ],
+      "text": "linezolid), recorded in the EDRWeb. Both datasets from South Africa (2017 and 2018–2019) with the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.406494140625,
+        527.1804809570312,
+        445.8495178222656
+      ],
+      "text": "9-month regimens systematically excluded patients with extensive TB disease (extensive bilateral",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.60650634765625,
+        527.4134521484375,
+        459.0495300292969
+      ],
+      "text": "pulmonary cavitations), severe forms of extrapulmonary TB (meningoencephalitis, osteoarticular TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.8065185546875,
+        527.158935546875,
+        472.2495422363281
+      ],
+      "text": "pericardial effusion), fluoroquinolone resistance, previous exposure to second-line treatment for more",
+      "font": "SegoeUI-Light",
+      "size": 10.975021362304688,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.7304992675781,
+        527.4083862304688,
+        485.44952392578125
+      ],
+      "text": "inh kat than 1 month or with genotypic DST showing mutations in both  A and  G genes. In addition,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.2065124511719,
+        527.4244384765625,
+        498.6495361328125
+      ],
+      "text": "comparative analyses were carried out using the 2021 IPD, which was compiled for the review and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.406494140625,
+        527.395751953125,
+        511.8495178222656
+      ],
+      "text": "analyses in preparation for the GDG 2022; this IPD was of individual patients who had been treated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.60650634765625,
+        527.4667358398438,
+        525.0494995117188
+      ],
+      "text": "for MDR/RR-TB. The evidence review focused on the performance of a standardized shorter regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.986491203308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.8065185546875,
+        527.3932495117188,
+        538.24951171875
+      ],
+      "text": "in which the injectable agent was replaced by bedaquiline (used for 6 months), in combination",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.0064697265625,
+        527.3143310546875,
+        551.449462890625
+      ],
+      "text": "with levofloxacin/moxifloxacin, ethionamide, ethambutol, isoniazid (high-dose), pyrazinamide and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        550.20654296875,
+        527.1260375976562,
+        564.6495361328125
+      ],
+      "text": "clofazimine for 4 months (with the possibility of extending to 6 months if the patient remained",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.406494140625,
+        524.6152954101562,
+        577.8494873046875
+      ],
+      "text": "sputum smear positive at the end of 4 months), followed by 5 months of treatment with levofloxacin/",
+      "font": "SegoeUI-Light",
+      "size": 10.998749732971191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.6065063476562,
+        527.3936767578125,
+        591.0494995117188
+      ],
+      "text": "moxifloxacin, clofazimine, ethambutol and pyrazinamide. The comparators used included a nearly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        589.8065185546875,
+        527.5370483398438,
+        604.24951171875
+      ],
+      "text": "identical regimen where ethionamide was replaced by 2 months of linezolid (600 mg once daily) and",
+      "font": "SegoeUI-Light",
+      "size": 10.999249458312988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.0064697265625,
+        442.61004638671875,
+        617.449462890625
+      ],
+      "text": "the set of longer regimens designed based on the 2020 WHO recommendations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.8502807617188,
+        316.7821350097656,
+        649.5103149414062
+      ],
+      "text": "Methods used for analysis and data synthesis",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.7183227539062,
+        527.2220458984375,
+        671.1613159179688
+      ],
+      "text": "For comparisons between dataset or cohorts, outcomes were presented as unadjusted RRs and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.9183349609375,
+        527.4212646484375,
+        684.361328125
+      ],
+      "text": "aRRs; the latter were calculated using a log-binomial generalized linear regression (binomial error",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.1182861328125,
+        527.4699096679688,
+        697.561279296875
+      ],
+      "text": "distribution with log link function). Confounders were adjusted for using inverse probability propensity",
+      "font": "SegoeUI-Light",
+      "size": 10.972716331481934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.3182983398438,
+        527.4180297851562,
+        710.7612915039062
+      ],
+      "text": "score weighting. No convergence issues with the log-binomial model arose. When outcome rates were",
+      "font": "SegoeUI-Light",
+      "size": 10.95274829864502,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        709.518310546875,
+        527.375,
+        723.9613037109375
+      ],
+      "text": "close to the boundary (<5 positive or negative cases) aRRs were not calculated and unadjusted RRs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        722.7183227539062,
+        527.4474487304688,
+        737.1613159179688
+      ],
+      "text": "alone were presented. For outcomes where the number of outcome events was zero, an unadjusted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.9183349609375,
+        527.4378051757812,
+        750.361328125
+      ],
+      "text": "RD was calculated. For unadjusted RDs or RRs, the score method was used for calculating CIs. These",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.1182861328125,
+        527.580810546875,
+        763.561279296875
+      ],
+      "text": "approaches applied where one arm of a randomized trial was being compared with an external",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "88 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

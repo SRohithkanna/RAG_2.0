@@ -1,0 +1,642 @@
+{
+  "file": "module3",
+  "page": 133,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        191.30810546875,
+        85.31422424316406
+      ],
+      "text": "Research priorities",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.7605590820312,
+        108.71018981933594
+      ],
+      "text": "Several key research priorities emerged from the reviews of the available evidence on targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98569107055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        527.008544921875,
+        124.21018981933594
+      ],
+      "text": "NGS for detecting TB drug resistance. They fall into three main categories: clinical research,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        354.99237060546875,
+        139.71018981933594
+      ],
+      "text": "implementation research, and monitoring and evaluation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        151.55284118652344,
+        163.24810791015625,
+        165.64083862304688
+      ],
+      "text": "Clinical research:",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        514.642578125,
+        176.28829956054688,
+        521.9005737304688,
+        183.95184326171875
+      ],
+      "text": "14",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 6.384185314178467,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.3077392578125,
+        78.81909942626953,
+        189.45274353027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        176.3077392578125,
+        524.409423828125,
+        189.45274353027344
+      ],
+      "text": "Conduct clinical trials to assess the impact of targeted NGS on patient-important outcomes .",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.950589179992676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        191.8077392578125,
+        78.81909942626953,
+        204.95274353027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        191.8077392578125,
+        526.9532470703125,
+        204.95274353027344
+      ],
+      "text": "Evaluate the accuracy and impact on patient-important outcomes of targeted NGS among",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        207.3077392578125,
+        526.9752807617188,
+        220.45274353027344
+      ],
+      "text": "populations of individuals diagnosed with TB, across a range of prevalences of rifampicin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        222.8077392578125,
+        208.29319763183594,
+        235.95274353027344
+      ],
+      "text": "or other drug resistance).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.3077392578125,
+        78.81909942626953,
+        251.45274353027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        238.3077392578125,
+        526.7113647460938,
+        251.45274353027344
+      ],
+      "text": "Assess the accuracy and impact on patient-important outcomes of targeted NGS for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        253.8077392578125,
+        527.0908203125,
+        266.9527587890625
+      ],
+      "text": "detecting resistance to new and repurposed drugs, including pretomanid, across varied",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        269.3077392578125,
+        296.1811828613281,
+        282.4527587890625
+      ],
+      "text": "geographical and epidemiological settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.8077392578125,
+        78.81909942626953,
+        297.9527587890625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        284.8077392578125,
+        526.7113647460938,
+        297.9527587890625
+      ],
+      "text": "Assess the accuracy and impact on patient-important outcomes of targeted NGS for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        300.3077392578125,
+        526.6286010742188,
+        313.4527587890625
+      ],
+      "text": "analysing extrapulmonary samples, including CSF for meningitis, non-sputum samples (e.g.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995549201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        315.8077392578125,
+        526.8382568359375,
+        328.9527587890625
+      ],
+      "text": "nasopharyngeal aspirate, gastric aspirate or stool) for children, and alternative sample types",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977276802062988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        331.3077087402344,
+        318.18145751953125,
+        344.4527282714844
+      ],
+      "text": "(e.g. tongue swabs) in both adults and children.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.8077087402344,
+        78.81909942626953,
+        359.9527282714844
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        346.8077087402344,
+        527.052490234375,
+        359.9527282714844
+      ],
+      "text": "Undertake additional qualitative and quantitative research to further understand the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        362.3077087402344,
+        526.9640502929688,
+        375.4527282714844
+      ],
+      "text": "perspectives of end-users and clinicians regarding the acceptability and feasibility of using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        377.8077087402344,
+        154.15150451660156,
+        390.9527282714844
+      ],
+      "text": "targeted NGS.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.6299133300781,
+        213.64808654785156,
+        419.7179260253906
+      ],
+      "text": "Implementation research:",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.3849182128906,
+        78.81909942626953,
+        443.5299377441406
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        430.3849182128906,
+        526.8153686523438,
+        443.5299377441406
+      ],
+      "text": "Develop and evaluate effective and efficient implementation models by integrating targeted",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95410442352295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        445.8849182128906,
+        526.9069213867188,
+        459.0299377441406
+      ],
+      "text": "NGS into laboratory networks and optimizing algorithms, with the aim of enhancing timely",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992447853088379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        461.3849182128906,
+        454.7652282714844,
+        474.5299377441406
+      ],
+      "text": "access to testing and treatment initiation, and improving patient outcomes.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.8849182128906,
+        78.81909942626953,
+        490.0299377441406
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        476.8849182128906,
+        526.889404296875,
+        490.0299377441406
+      ],
+      "text": "Develop strategies to enhance the efficiency of targeted NGS testing, including sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        492.3849182128906,
+        527.118408203125,
+        505.5299377441406
+      ],
+      "text": "processing and concentration techniques, determining optimal thresholds of bacterial",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        507.8848876953125,
+        526.7290649414062,
+        521.0299072265625
+      ],
+      "text": "load from initial tests before performing targeted NGS, and employing molecular transport",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.994348526000977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        523.3848876953125,
+        439.08001708984375,
+        536.5299072265625
+      ],
+      "text": "medium for the ambient storage and transfer of samples to testing sites.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.8848876953125,
+        78.81909942626953,
+        552.0299072265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        538.8848876953125,
+        526.9532470703125,
+        552.0299072265625
+      ],
+      "text": "Regularly update the WHO catalogue of mutations  , incorporating additional genetic  (53)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        554.3848876953125,
+        527.2916870117188,
+        567.5299072265625
+      ],
+      "text": "targets and including new drugs (e.g. pretomanid) to enhance the sensitivity and specificity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989094734191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        569.8848876953125,
+        166.9882049560547,
+        583.0299072265625
+      ],
+      "text": "of targeted NGS.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.3848876953125,
+        78.81909942626953,
+        598.5299072265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        585.3848876953125,
+        526.9203491210938,
+        598.5299072265625
+      ],
+      "text": "Explore technological advancements to simplify the testing process, automate steps",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        600.8848876953125,
+        527.1624145507812,
+        614.0299072265625
+      ],
+      "text": "(especially library preparation), develop decentralized targeted NGS solutions and investigate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        616.3848876953125,
+        524.4353637695312,
+        629.5299072265625
+      ],
+      "text": "potential synergies with existing initial tests (e.g. using leftover DNA or smear-positive slides).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.950287818908691,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.8848876953125,
+        78.81909942626953,
+        645.0299072265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        631.8848876953125,
+        527.05419921875,
+        645.0299072265625
+      ],
+      "text": "Conduct comprehensive mapping of sequencing capacity within countries and perform",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        647.3848876953125,
+        526.9533081054688,
+        660.5299072265625
+      ],
+      "text": "diagnostic network optimization exercises. Placement of the technology should consider",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        662.8848876953125,
+        527.1734619140625,
+        676.0299072265625
+      ],
+      "text": "the demand for sequencing across multiple diseases, facilitating cross-disciplinary use of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        678.3848876953125,
+        237.51971435546875,
+        691.5299072265625
+      ],
+      "text": "the machines and shared costs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.8848876953125,
+        78.81909942626953,
+        707.0299072265625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        693.8848876953125,
+        527.0082397460938,
+        707.0299072265625
+      ],
+      "text": "Compile and use lessons learned from applying targeted NGS technology in other diseases",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        709.3848876953125,
+        426.5168151855469,
+        722.5299072265625
+      ],
+      "text": "(e.g. COVID-19) to develop effective implementation strategies for TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        760.1837768554688,
+        336.1417236328125,
+        772.9437866210938
+      ],
+      "text": "Mortality, Cure, Lost to follow up; Time to diagnosis; Time to 14\t treatment.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 117",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

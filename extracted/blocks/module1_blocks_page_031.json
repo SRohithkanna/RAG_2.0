@@ -1,0 +1,594 @@
+{
+  "file": "module1",
+  "page": 31,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.4140014648438,
+        81.83369445800781
+      ],
+      "text": "Recommendation 11  on use of CXR for people with HIV was first made in 2018 to update the",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        79.31470489501953,
+        527.4059448242188,
+        95.03370666503906
+      ],
+      "text": "(26) position in the 2011 guidelines  . Since 2021, WHO has also conditionally recommended use of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4345703125,
+        108.23371887207031
+      ],
+      "text": "CAD software programmes to interpret digital CXRs for pulmonary TB during screening and triage",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        105.71472930908203,
+        327.2587890625,
+        121.43373107910156
+      ],
+      "text": "(13) of people aged ≥ 15 years, regardless of HIV status  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.549560546875,
+        143.13758850097656
+      ],
+      "text": "Use of CXR for screening in parallel with symptom screening improves the sensitivity over that with the",
+      "font": "SegoeUI-Light",
+      "size": 10.970510482788086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.6160278320312,
+        156.3376007080078
+      ],
+      "text": "W4SS alone in all subgroups of people with HIV. In particular, screening with CXR significantly improves",
+      "font": "SegoeUI-Light",
+      "size": 10.963689804077148,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4453735351562,
+        169.53773498535156
+      ],
+      "text": "the sensitivity in people with HIV who are on ART and is the most sensitive screening strategy for this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.2947540283203,
+        527.37744140625,
+        182.7377471923828
+      ],
+      "text": "group. When available, CXR is recommended for use in parallel with the W4SS to rule out TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.2187042236328,
+        527.4254760742188,
+        195.93775939941406
+      ],
+      "text": "(13) . The evidence on the performance of  before initiating TPT in people with HIV who are on ART",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.4390258789062,
+        209.13771057128906
+      ],
+      "text": "CXR and the W4SS for all people with HIV reviewed before making the 2021 TB screening guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.062255859375,
+        222.3376007080078
+      ],
+      "text": "was from eight studies, conducted in Benin, Botswana, Brazil, Guinea, India, Kenya, Malawi, Myanmar,",
+      "font": "SegoeUI-Light",
+      "size": 10.988794326782227,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        376.1571044921875,
+        235.53773498535156
+      ],
+      "text": "Peru, South Africa and Zimbabwe, with a total of 6238 participants (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        376.177001953125,
+        221.09474182128906,
+        407.6986083984375,
+        235.53773498535156
+      ],
+      "text": "Table 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7001037597656,
+        221.09474182128906,
+        527.4202270507812,
+        235.53773498535156
+      ],
+      "text": "). CXR alone was found to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        234.2947540283203,
+        527.4374389648438,
+        248.7377471923828
+      ],
+      "text": "have similar sensitivity to and similar or higher specificity than the W4SS in all subpopulations. When",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        247.49476623535156,
+        527.3764038085938,
+        261.9377746582031
+      ],
+      "text": "CXR was conducted after a positive W4SS, CXR was less or similarly sensitive and more or similarly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        260.69476318359375,
+        527.3960571289062,
+        275.1377868652344
+      ],
+      "text": "specific. When CXR was used in parallel with the W4SS, the sensitivity was higher or similar and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        273.89459228515625,
+        168.0431365966797,
+        288.3376770019531
+      ],
+      "text": "similar. specificity was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.4886474609375,
+        527.5471801757812,
+        310.0416564941406
+      ],
+      "text": "Recommendation 12  relates to the use of CRP for screening adults and adolescents with HIV for TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.999099731445312,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.4266357421875,
+        323.2416076660156
+      ],
+      "text": "disease. CRP is an indicator of general inflammation that can be measured with point-of-care tests in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.4351806640625,
+        336.4416198730469
+      ],
+      "text": "capillary blood collected by finger prick. The evidence reviewed comprised six studies conducted in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.922607421875,
+        527.4420776367188,
+        349.6416320800781
+      ],
+      "text": "(13) Kenya, South Africa and Uganda with a total of 3971 participants  . The accuracy of CRP based on",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.377197265625,
+        362.8416442871094
+      ],
+      "text": "cut-off values of > 5 mg/L and > 10 mg/L as indicators of TB disease was reviewed, and the accuracy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986328125,
+        527.4091186523438,
+        376.0416564941406
+      ],
+      "text": "of two was considered to be similar or superior to that of the W4SS. The cut-off value of > 5 mg/L",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.79864501953125,
+        527.389892578125,
+        389.2416687011719
+      ],
+      "text": "was recommended, as it is the lowest threshold for abnormality in many clinical settings and is more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.9986572265625,
+        527.4168701171875,
+        402.4416809082031
+      ],
+      "text": "sensitive than the value of > 10 mg/L. The meta-analysis of data on individual patients on CRP with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.19866943359375,
+        527.3873291015625,
+        415.6416931152344
+      ],
+      "text": "a cut-off of > 5 mg/L reported similar sensitivity and higher or similar specificity to the W4SS in all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        206.48899841308594,
+        414.39862060546875,
+        238.00730895996094,
+        428.8416442871094
+      ],
+      "text": "Table 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        527.3876953125,
+        428.8417053222656
+      ],
+      "text": "). When CRP was combined with the W4SS and used in parallel,  the subpopulations assessed (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86607360839844,
+        427.5986328125,
+        527.4041137695312,
+        442.0416564941406
+      ],
+      "text": "it had similar or greater sensitivity and specificity than the W4SS alone in all populations, depending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.7986145019531,
+        527.5265502929688,
+        455.24163818359375
+      ],
+      "text": "on the cut-off threshold used and the subpopulation assessed, while a positive screen with either tool",
+      "font": "SegoeUI-Light",
+      "size": 10.990546226501465,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.99859619140625,
+        527.4091186523438,
+        468.4416198730469
+      ],
+      "text": "led to a diagnostic test. CRP was found to be most accurate for outpatients who were not on ART as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.1986083984375,
+        527.4232788085938,
+        481.6416320800781
+      ],
+      "text": "compared with the W4SS alone, which had a sensitivity of 84% (95% CI 75% ; 90%) and a specificity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.39862060546875,
+        527.1923217773438,
+        494.8416442871094
+      ],
+      "text": "of 37% (95% CI 25% ; 50%) in this subpopulation. When performed sequentially after a positive W4SS",
+      "font": "SegoeUI-Light",
+      "size": 10.981284141540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.5986022949219,
+        527.4443969726562,
+        508.0416259765625
+      ],
+      "text": "in people with HIV who were not on ART, CRP with a cut-off of > 5 mg/L was as sensitive (84%; 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.798583984375,
+        527.437255859375,
+        521.2415771484375
+      ],
+      "text": "CI 73% ; 90%) as the W4SS alone but was significantly more specific (64%; 95% CI 55 ; 72%). Like the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.9986572265625,
+        527.4111328125,
+        534.441650390625
+      ],
+      "text": "W4SS, the specificity of CRP for TB screening in inpatients with HIV was extremely low, probably due",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.1986083984375,
+        465.8311462402344,
+        547.6416015625
+      ],
+      "text": "to competing comorbidities that would also result in raised CRP levels and symptoms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.7926025390625,
+        527.4332275390625,
+        569.3455810546875
+      ],
+      "text": "Recommendation 13  relates to use of mWRD for screening adults and adolescents with HIV for TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.1026000976562,
+        527.3936157226562,
+        582.5455932617188
+      ],
+      "text": "disease. A systematic review of the performance of mWRD in screening for TB among people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.302490234375,
+        527.4453735351562,
+        595.7454833984375
+      ],
+      "text": "HIV comprised 14 studies with a total of 9209 participants. The Xpert MTB/RIF assay was the mWRD",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.5025634765625,
+        527.3748779296875,
+        608.945556640625
+      ],
+      "text": "used in most of the studies. Use of an mWRD alone had a sensitivity of 69% (95% CI 60% ; 76%) and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.7025756835938,
+        527.4400634765625,
+        622.1455688476562
+      ],
+      "text": "a specificity of 98% (95% CI 97% ; 99%) as compared with use of the W4SS followed by an mWRD,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.902587890625,
+        487.8069763183594,
+        635.3455810546875
+      ],
+      "text": "which had sensitivity of 62% (95% CI 56% ; 69%) and a specificity of 99% (95% CI 97% ; 99%) (",
+      "font": "SegoeUI-Light",
+      "size": 10.97983169555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        487.77899169921875,
+        620.902587890625,
+        518.9454345703125,
+        635.3455810546875
+      ],
+      "text": "Table 3",
+      "font": "SegoeUI-Light",
+      "size": 10.97983169555664,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        518.9146118164062,
+        620.902587890625,
+        527.4103393554688,
+        635.3455810546875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.97983169555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.1025390625,
+        527.3953857421875,
+        648.5455322265625
+      ],
+      "text": "The accuracy of the mWRD was not significantly different from that of the W4SS followed by the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.302490234375,
+        228.76016235351562,
+        661.7454833984375
+      ],
+      "text": "mWRD in various subpopulations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 13",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

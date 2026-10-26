@@ -1,0 +1,510 @@
+{
+  "file": "Latent",
+  "page": 26,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        433.0357360839844,
+        82.56494140625
+      ],
+      "text": "3.\t Algorithms for ruling out active",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        113.39409637451172,
+        75.58094787597656,
+        318.5364990234375,
+        106.56494140625
+      ],
+      "text": "tuberculosis disease",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.95880126953125,
+        520.1851806640625,
+        180.7587890625
+      ],
+      "text": "This section recommends algorithms for ruling out active TB disease before providing preventive treatment.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.917724609375,
+        411.6453552246094,
+        212.7007293701172
+      ],
+      "text": "3.1\t Adults, adolescents, children and infants living with HIV",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        214.63775634765625,
+        282.2812194824219,
+        231.4337615966797
+      ],
+      "text": "3.1.1\t Adults and adolescents with HIV",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        250.0130157470703,
+        493.3779296875,
+        262.2870178222656
+      ],
+      "text": "Adults and adolescents living with HIV should be screened for TB according to a clinical algorithm.",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        262.011474609375,
+        504.7332458496094,
+        274.2854919433594
+      ],
+      "text": "Those who do not report any of the symptoms of current cough, fever, weight loss or night sweats are",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        274.00994873046875,
+        503.5486755371094,
+        286.2839660644531
+      ],
+      "text": "unlikely to have active TB and should be offered preventive treatment, regardless of their ART status.",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        286.0084228515625,
+        404.1444396972656,
+        298.2824401855469
+      ],
+      "text": "(Strong recommendation, moderate-quality evidence. Updated recommendation)",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        303.67840576171875,
+        489.6064758300781,
+        315.9524230957031
+      ],
+      "text": "Chest radiography may be offered to people living with HIV and on ART and preventive treatment",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        315.6768798828125,
+        491.4570617675781,
+        327.9508972167969
+      ],
+      "text": "be given to those with no abnormal radiographic findings.  (Conditional recommendation, low-quality",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        327.63739013671875,
+        225.36968994140625,
+        339.94940185546875
+      ],
+      "text": "New recommendation evidence.  )",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        345.34539794921875,
+        484.1106872558594,
+        357.6194152832031
+      ],
+      "text": "Adults and adolescents living with HIV who are screened for TB according to a clinical algorithm",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        357.3439025878906,
+        492.13818359375,
+        369.617919921875
+      ],
+      "text": "and who report any of the symptoms of current cough, fever, weight loss or night sweats may have",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        369.3424072265625,
+        482.3741760253906,
+        381.6164245605469
+      ],
+      "text": "active TB and should be evaluated for TB and other diseases that cause such symptoms.  (Strong",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37870788574219,
+        381.3409118652344,
+        373.3028869628906,
+        393.61492919921875
+      ],
+      "text": "recommendation, moderate-quality evidence. Updated recommendation)",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03570556640625,
+        398.9729309082031,
+        428.67059326171875,
+        411.2849426269531
+      ],
+      "text": "Remark:  Chest radiography should not be a requirement for initiating preventive treatment.",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.67950439453125,
+        174.2017364501953,
+        456.1835021972656
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.5021057128906,
+        526.6260986328125,
+        472.3020935058594
+      ],
+      "text": "Active TB disease must be excluded before initiating preventive treatment. In 2011, WHO conducted a",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.5021057128906,
+        526.6583251953125,
+        486.3020935058594
+      ],
+      "text": "systematic review and a meta-analysis of individual patient data and recommended a symptom-screening rule",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.5021057128906,
+        526.6834716796875,
+        500.3020935058594
+      ],
+      "text": "of a combination of current cough, weight loss, night sweats and fever in order to exclude active TB. The review",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.5021057128906,
+        526.681396484375,
+        514.3021240234375
+      ],
+      "text": "showed that the rule had a sensitivity of 79%, a specificity of 50% and a negative predictive value of 97.7%",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.5020751953125,
+        526.6842651367188,
+        528.3020629882812
+      ],
+      "text": "at a TB prevalence of 5%. Most of the people living with HIV who were included in studies in the systematic",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.5020751953125,
+        222.0360870361328,
+        542.3020629882812
+      ],
+      "text": "review were not receiving ART  .  (30)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        549.172119140625,
+        524.4303588867188,
+        561.9721069335938
+      ],
+      "text": "During updating of the guidelines, we conducted a systematic review to assess the performance of the four-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        563.172119140625,
+        526.7230834960938,
+        575.9721069335938
+      ],
+      "text": "symptom screening rule in people living with HIV who were and were not receiving ART; 17 studies with such",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        453.05126953125,
+        577.1121215820312,
+        521.8033447265625,
+        590.0421142578125
+      ],
+      "text": "Annexes 1 and 2",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        577.172119140625,
+        524.4060668945312,
+        589.9721069335938
+      ],
+      "text": "information were retained. The evidence-to-decision and the GRADE tables are presented in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        596.8421020507812,
+        526.630126953125,
+        609.64208984375
+      ],
+      "text": "The pooled sensitivity of the four-symptom screening rule for people living with HIV on ART was 51.0% (95%",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        610.8421020507812,
+        526.703125,
+        623.64208984375
+      ],
+      "text": "CI 28.4;73.2), and the specificity was 70.7% (95% CI 47.7;86.4); the pooled sensitivity of the rule for people",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        624.8421020507812,
+        526.622314453125,
+        637.64208984375
+      ],
+      "text": "living with HIV but not receiving ART was 89.3% (95% CI 82.6;93.6), and the specificity was 27.2% (95% CI",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        638.8421020507812,
+        526.7061767578125,
+        651.64208984375
+      ],
+      "text": "17.3;40.0). Two studies provided data on addition of abnormal chest radiographic findings to the screening",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        652.8421020507812,
+        526.6990356445312,
+        665.64208984375
+      ],
+      "text": "rule for people living with HIV on ART. The pooled sensitivity was higher (84.6%, 95% CI 69.7; 92.9), but the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        666.8421020507812,
+        447.1962890625,
+        679.64208984375
+      ],
+      "text": "specificity was lower (29.8%, 95% CI 26.3;33.6) than those of the symptom screen alone.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        686.5120849609375,
+        526.6221923828125,
+        699.3120727539062
+      ],
+      "text": "In all studies, the median prevalence of TB among people living with HIV on ART was 1.5% (interquartile range,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        700.5120849609375,
+        526.6971435546875,
+        713.3120727539062
+      ],
+      "text": "0.6–3.5%). At a 1% prevalence of TB, the negative predictive value of the symptom screening rule was 99.3%;",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        714.5120849609375,
+        478.880126953125,
+        727.3120727539062
+      ],
+      "text": "addition of abnormal chest radiographic findings increased the negative predictive value by 0.2%.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        734.18212890625,
+        526.6712646484375,
+        746.9821166992188
+      ],
+      "text": "No studies of the addition of chest radiography to the symptom rule for pregnant women were found in the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        453.2681884765625,
+        748.1221313476562,
+        475.1431579589844,
+        761.0521240234375
+      ],
+      "text": "Fig. 1",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        748.18212890625,
+        477.6460876464844,
+        760.9821166992188
+      ],
+      "text": "review. The algorithm for TB screening in adults and adolescents living with HIV is shown in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.79240036010742,
+        790.2608032226562,
+        56.68840026855469,
+        810.61279296875
+      ],
+      "text": "14",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

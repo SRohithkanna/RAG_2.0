@@ -1,0 +1,38 @@
+{
+  "file": "module1",
+  "page": 30,
+  "table_id": 1,
+  "bbox": [
+    70.86601257324219,
+    92.10600280761719,
+    769.9967346191406,
+    151.58777364095053
+  ],
+  "heading": null,
+  "n_rows": 2,
+  "n_cols": 9,
+  "data": [
+    [
+      "Population",
+      "W4SS",
+      "",
+      "C-Reactive protein Cut off > 5–10 mg/L",
+      "",
+      "CXR",
+      "",
+      "mWRDs",
+      ""
+    ],
+    [
+      "",
+      "Sensitivity",
+      "Specificity",
+      "Sensitivity",
+      "Specificity",
+      "Sensitivity",
+      "Specificity",
+      "Sensitivity",
+      "Specificity"
+    ]
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "file": "module1",
+  "page": 80,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "62",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        60.59551239013672,
+        682.5971069335938,
+        102.19551086425781
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        112.8873062133789,
+        714.561767578125,
+        127.33030700683594
+      ],
+      "text": "Older terminology used in the context of TPT, such as latent TB infection (LTBI) and active TB, has been retained in the original text of the tables.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        145.0985107421875,
+        130.939208984375,
+        169.7985076904297
+      ],
+      "text": "Contents",
+      "font": "SegoeUI",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        183.64340209960938,
+        715.4580078125,
+        197.99839782714844
+      ],
+      "text": "PICO 1: What is the prevalence of TB infection, the risk of \n PICO 6: In people of all ages at risk of TB disease, does a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.69287109375,
+        196.84341430664062,
+        741.88427734375,
+        211.1984100341797
+      ],
+      "text": "progression to TB disease and the cumulative prevalence of \n 4-month daily rifampicin regimen safely prevent TB disease as",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.69287109375,
+        210.04342651367188,
+        739.243896484375,
+        224.39842224121094
+      ],
+      "text": "TB disease among household contacts without HIV in different \n compared with other recommended TB preventive treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.69287109375,
+        223.243408203125,
+        784.4449462890625,
+        237.5984344482422
+      ],
+      "text": "63 77 age groups in high TB incidence countries? regimens?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        244.9473876953125,
+        759.083984375,
+        259.3023681640625
+      ],
+      "text": "PICO 2: What is the accuracy of WHO symptomatic screening \n PICO 7: In people of all ages at risk of TB disease, does a 1-month",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        258.14727783203125,
+        756.5474243164062,
+        272.50225830078125
+      ],
+      "text": "to exclude TB disease in individuals with HIV on antiretroviral  daily rifapentine plus isoniazid regimen safely prevent TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        271.3472900390625,
+        749.7130737304688,
+        285.7023010253906
+      ],
+      "text": "treatment (ART)? as compared with other recommended TB preventive treatment  69",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        429.44891357421875,
+        284.5473937988281,
+        784.4449462890625,
+        298.9023742675781
+      ],
+      "text": "regimens? 82",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        293.0513000488281,
+        360.09661865234375,
+        307.4062805175781
+      ],
+      "text": "PICO 3: What is the accuracy of symptomatic screening and/",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        306.25128173828125,
+        735.339111328125,
+        320.6062927246094
+      ],
+      "text": "PICO 8: Should 3-month weekly rifapentine and isoniazid be \n or chest x-ray to exclude TB disease in contacts of people with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        319.4512939453125,
+        745.94775390625,
+        333.8063049316406
+      ],
+      "text": "70 offered as an alternative regimen to isoniazid monotherapy for  pulmonary TB without HIV in high TB incidence countries?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        429.4488830566406,
+        332.65130615234375,
+        784.4449462890625,
+        347.00628662109375
+      ],
+      "text": "treatment of TB infection in high TB incidence countries? 87",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        341.1551818847656,
+        337.8868713378906,
+        355.5101623535156
+      ],
+      "text": "PICO 4: Could interferon-γ release assays be used as an",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        354.35516357421875,
+        769.093994140625,
+        368.7101745605469
+      ],
+      "text": "alternative to tuberculin skin tests to identify individuals at \n PICO 9: In pregnant and postpartum women, is isoniazid preventive",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        367.55517578125,
+        784.4449462890625,
+        381.9101867675781
+      ],
+      "text": "greatest risk of progression from TB infection to TB disease in \n treatment for TB as safe as other preventive treatment regimens? 91",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        380.75518798828125,
+        411.6891174316406,
+        395.11016845703125
+      ],
+      "text": "high TB incidence settings? 72",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        429.44891357421875,
+        389.25909423828125,
+        730.0914916992188,
+        403.61407470703125
+      ],
+      "text": "PICO 10: Should 6 months of levofloxacin rather than other",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        402.4591979980469,
+        730.988525390625,
+        416.8141784667969
+      ],
+      "text": "PICO 5: Should 3-month daily rifampicin plus isoniazid (3RH) \n regimens or no TPT be recommended for people in contact",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        415.6591796875,
+        784.4449462890625,
+        431.21417236328125
+      ],
+      "text": "be offered as a preventive treatment option for children\n with patients with MDR/RR-TB? 94",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        428.85919189453125,
+        359.35015869140625,
+        443.21417236328125
+      ],
+      "text": "and adolescents <15 years of age as an alternative to 6 or 9",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        442.0592041015625,
+        351.45989990234375,
+        456.4141845703125
+      ],
+      "text": "months' isoniazid (INH) monotherapy in high TB incidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        455.25909423828125,
+        411.6891174316406,
+        469.61407470703125
+      ],
+      "text": "countries? 75",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    }
+  ]
+}

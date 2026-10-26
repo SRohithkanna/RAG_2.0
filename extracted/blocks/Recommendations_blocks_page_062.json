@@ -1,0 +1,426 @@
+{
+  "file": "Recommendations",
+  "page": 62,
+  "blocks": [
+    {
+      "bbox": [
+        127.55860900878906,
+        42.10532760620117,
+        337.0245056152344,
+        51.10532760620117
+      ],
+      "text": "FORM 2. HOUSEHOLD TB CONTACT SCREENING FORM",
+      "font": "TheSansSemiBold-Plain",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.55860900878906,
+        73.22956085205078,
+        243.22352600097656,
+        80.72956085205078
+      ],
+      "text": "Contact and index case information",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.56611633300781,
+        91.37181091308594,
+        399.7035217285156,
+        98.87181091308594
+      ],
+      "text": "Index case ID  (Registry #, e.g. 7101/K/11/201)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58110046386719,
+        109.37181091308594,
+        193.47607421875,
+        116.87181091308594
+      ],
+      "text": "Index case surname",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58110046386719,
+        127.37181091308594,
+        198.0735626220703,
+        134.87181091308594
+      ],
+      "text": "Index case ﬁrst name",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58110046386719,
+        145.37181091308594,
+        399.7110290527344,
+        152.87181091308594
+      ],
+      "text": "Contact number  (Example: _01, _02, _10)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58857727050781,
+        163.37181091308594,
+        185.15853881835938,
+        170.87181091308594
+      ],
+      "text": "Contact surname",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.58857727050781,
+        181.37181091308594,
+        188.81854248046875,
+        188.87181091308594
+      ],
+      "text": "Contact ﬁrst vame",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.59608459472656,
+        199.37181091308594,
+        400.108642578125,
+        206.87181091308594
+      ],
+      "text": "Contact date of birth  /  /  (Date contact was born; if unknown,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.611083984375,
+        211.37181091308594,
+        285.8612060546875,
+        218.87181091308594
+      ],
+      "text": "estimate) (  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.61859130859375,
+        229.37181091308594,
+        210.2085723876953,
+        236.87181091308594
+      ],
+      "text": "Contact gender Male",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.9110870361328,
+        241.37181091308594,
+        217.24359130859375,
+        248.87181091308594
+      ],
+      "text": "Female",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.62608337402344,
+        259.371826171875,
+        326.6683654785156,
+        266.871826171875
+      ],
+      "text": "What is your relation to the index case? Husband or wife",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.2160949707031,
+        271.371826171875,
+        289.98529052734375,
+        278.8718566894531
+      ],
+      "text": "Child",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.2153015136719,
+        283.3718566894531,
+        317.67529296875,
+        290.8718566894531
+      ],
+      "text": "Other relative",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.2153015136719,
+        295.3718566894531,
+        309.91278076171875,
+        302.8718566894531
+      ],
+      "text": "Not related",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.55780029296875,
+        313.3718566894531,
+        211.07025146484375,
+        320.8718566894531
+      ],
+      "text": "GPS coordinates of house",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5653076171875,
+        349.3718566894531,
+        284.00775146484375,
+        356.8718566894531
+      ],
+      "text": "Date of this household interview  /  /",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        231.80780029296875,
+        361.3718566894531,
+        325.49810791015625,
+        368.8718566894531
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5653076171875,
+        379.3718566894531,
+        247.70022583007812,
+        386.8718566894531
+      ],
+      "text": "Which household visit is this? 1st",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.21029663085938,
+        391.3718566894531,
+        251.31529235839844,
+        398.8718566894531
+      ],
+      "text": "2nd",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.21029663085938,
+        403.3718566894531,
+        249.42530822753906,
+        410.8718566894531
+      ],
+      "text": "3rd",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.21029663085938,
+        415.3718566894531,
+        250.34776306152344,
+        422.8718566894531
+      ],
+      "text": "4th",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5653076171875,
+        433.3718566894531,
+        171.852783203125,
+        440.8718566894531
+      ],
+      "text": "Index case ID",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5653076171875,
+        451.3718566894531,
+        182.21026611328125,
+        458.8718566894531
+      ],
+      "text": "Contact number",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.5653076171875,
+        481.2295837402344,
+        231.4627685546875,
+        488.7295837402344
+      ],
+      "text": "Note to TB contact investigators",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.58030700683594,
+        499.3718566894531,
+        399.69549560546875,
+        506.8718566894531
+      ],
+      "text": "• Fill in the top part of the last sheet of paper on this form, and give it to this",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0703125,
+        511.371826171875,
+        199.35528564453125,
+        518.871826171875
+      ],
+      "text": "household contact.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.57281494140625,
+        529.371826171875,
+        399.6882019042969,
+        536.871826171875
+      ],
+      "text": "• If this contact answers ‘Yes’ to any of the symptom screening questions, or the",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0703125,
+        541.371826171875,
+        307.8119812011719,
+        548.871826171875
+      ],
+      "text": "contact is HIV-positive or a child under 5 years of age:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07699584960938,
+        559.371826171875,
+        387.0943603515625,
+        566.871826171875
+      ],
+      "text": "• Tell this contact that she or he should go to the health clinic for evaluation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0919952392578,
+        577.371826171875,
+        399.69482421875,
+        584.871826171875
+      ],
+      "text": "• Tell this contact to present the sheet of paper to the clinic at the time of",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.57449340820312,
+        589.371826171875,
+        180.33447265625,
+        596.871826171875
+      ],
+      "text": "evaluation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07699584960938,
+        607.371826171875,
+        399.4993591308594,
+        614.871826171875
+      ],
+      "text": "• Inform the district TB coordiantor that he or she will be coming in for evaluation.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        216.63180541992188,
+        651.97265625,
+        225.57931518554688,
+        659.47265625
+      ],
+      "text": "60",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

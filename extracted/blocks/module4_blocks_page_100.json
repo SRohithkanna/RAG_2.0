@@ -1,0 +1,606 @@
+{
+  "file": "module4",
+  "page": 100,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        119.47928619384766,
+        82.6147232055664
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.412841796875,
+        104.26564025878906
+      ],
+      "text": "1.\t The 9-month all-oral regimen consists of bedaquiline (used for 6 months), in combination with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        103.02259063720703,
+        527.3311157226562,
+        117.46559143066406
+      ],
+      "text": "levofloxacin/moxifloxacin, ethionamide, ethambutol, isoniazid (high-dose), pyrazinamide and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        116.22272491455078,
+        527.3842163085938,
+        130.6657257080078
+      ],
+      "text": "clofazimine (for 4 months, with the possibility of extending to 6 months if the patient remains",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        129.42274475097656,
+        524.600341796875,
+        143.86573791503906
+      ],
+      "text": "sputum smear positive at the end of 4  months), followed by treatment with levofloxacin/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        142.62269592285156,
+        527.582275390625,
+        157.06568908691406
+      ],
+      "text": "moxifloxacin, clofazimine, ethambutol and pyrazinamide (for 5 months). Ethionamide can be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        155.8227081298828,
+        313.4705505371094,
+        170.2657012939453
+      ],
+      "text": "replaced by 2 months of linezolid (600 mg daily).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.2747344970703,
+        527.1705322265625,
+        187.7177276611328
+      ],
+      "text": "2.\t  A 9-month regimen with linezolid instead of ethionamide may be used in pregnant women, unlike",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        186.47474670410156,
+        230.25001525878906,
+        200.91773986816406
+      ],
+      "text": "the regimen with ethionamide.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.92665100097656,
+        236.62672424316406,
+        218.36964416503906
+      ],
+      "text": "3.\t This recommendation applies to:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        221.3786163330078,
+        416.3178405761719,
+        235.8216094970703
+      ],
+      "text": "a.\t people with MDR/RR-TB and without resistance to fluoroquinolones;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        238.8306427001953,
+        469.20220947265625,
+        253.2736358642578
+      ],
+      "text": "b.\t patients without extensive TB disease  and without severe extrapulmonary TB; 32 33",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        256.28253173828125,
+        527.22216796875,
+        270.7255554199219
+      ],
+      "text": "c.\t patients with less than 1 month exposure to bedaquiline, fluoroquinolones, ethionamide,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        269.48248291015625,
+        527.4409790039062,
+        283.9255065917969
+      ],
+      "text": "linezolid and clofazimine; when exposure is greater than 1 month, these patients may still",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        282.6826171875,
+        527.3914794921875,
+        297.1256408691406
+      ],
+      "text": "receive this regimen if resistance to the specific medicines with such exposure has been ruled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        295.88262939453125,
+        121.63109588623047,
+        310.3256530761719
+      ],
+      "text": "out;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        313.33453369140625,
+        264.5519104003906,
+        327.7775573730469
+      ],
+      "text": "d.\t all people regardless of HIV status;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        330.7864990234375,
+        527.4638671875,
+        345.2295227050781
+      ],
+      "text": "e.\t children (and patients in other age groups) who do not have bacteriological confirmation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        343.98651123046875,
+        527.3287353515625,
+        358.4295349121094
+      ],
+      "text": "of TB or resistance patterns but who do have a high likelihood of MDR/RR-TB (based on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        357.1864929199219,
+        527.4456787109375,
+        371.6295166015625
+      ],
+      "text": "clinical signs and symptoms of TB, in combination with a history of contact with a patient with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        370.3865051269531,
+        213.9111785888672,
+        384.82952880859375
+      ],
+      "text": "confirmed MDR/RR-TB).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.2037048339844,
+        128.1744842529297,
+        414.0556945800781
+      ],
+      "text": "Rationale",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.26361083984375,
+        527.4222412109375,
+        435.7066345214844
+      ],
+      "text": "The rationale for this recommendation is based on the evidence and considerations described in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.4635925292969,
+        527.4114379882812,
+        448.9066162109375
+      ],
+      "text": "detail in the following two subsections. The 9-month regimens can be used in patients not eligible",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.6636962890625,
+        527.3748168945312,
+        462.1067199707031
+      ],
+      "text": "for the shorter, 6-month regimens; also, they represent a preferred treatment option over the longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.8636169433594,
+        527.5751953125,
+        475.306640625
+      ],
+      "text": "regimens. The intention to determine a relatively shorter duration of treatment for patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.063720703125,
+        527.4574584960938,
+        488.5067443847656
+      ],
+      "text": "forms of DR-TB or other eligibility criteria not compatible with the 6-month regimen has driven the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.26361083984375,
+        246.37881469726562,
+        501.7066345214844
+      ],
+      "text": "assessments presented in this section.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.9676513671875,
+        527.1863403320312,
+        523.41064453125
+      ],
+      "text": "Briefly, two assessments have been performed: first, comparing the outcomes of the 9-month regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.962937355041504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.1676025390625,
+        527.3871459960938,
+        536.610595703125
+      ],
+      "text": "including linezolid for 2 months and the identical regimen that included ethionamide for 4 months;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3676147460938,
+        527.4234008789062,
+        549.8106079101562
+      ],
+      "text": "and second, comparing the outcomes of the 9-month regimen including linezolid with the longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.567626953125,
+        527.2637329101562,
+        563.0106201171875
+      ],
+      "text": "regimens that were designed individually but included both bedaquiline and linezolid along with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.767578125,
+        527.4528198242188,
+        576.2105712890625
+      ],
+      "text": "other medicines as recommended by WHO. Data on most of the 9-month regimens were obtained",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.9675903320312,
+        278.01702880859375,
+        589.4105834960938
+      ],
+      "text": "from a programmatic setting in South Africa.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.6715087890625,
+        527.4256591796875,
+        611.114501953125
+      ],
+      "text": "The first assessment showed similar levels of treatment success (64% vs 66%), failure or recurrence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.8715209960938,
+        527.2398071289062,
+        624.3145141601562
+      ],
+      "text": "(1.1% vs 1.4%), deaths (20% vs 21%), loss to follow-up (15% vs 12%) and amplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.071533203125,
+        527.4432373046875,
+        637.5145263671875
+      ],
+      "text": "resistance (0.6% vs 0%). AEs were noted in 5% of participants receiving the 9-month regimen with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.271484375,
+        527.433349609375,
+        650.7144775390625
+      ],
+      "text": "linezolid; however, no comparisons could be made because no data were available for participants",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.4716186523438,
+        527.3924560546875,
+        663.9146118164062
+      ],
+      "text": "receiving the 9-month regimen with ethionamide. The second assessment of the 9-month regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.6715087890625,
+        527.4111328125,
+        677.114501953125
+      ],
+      "text": "compared with longer regimens also showed lower levels of treatment success (64% vs 74%), failure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.8715209960938,
+        527.4299926757812,
+        690.3145141601562
+      ],
+      "text": "or recurrence (1% vs 3%) or amplification of drug resistance (1% vs 2%); and higher levels of deaths",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.6371459960938,
+        526.7523193359375,
+        722.3410034179688
+      ],
+      "text": "Extensive (or advanced) pulmonary TB disease is defined as the presence of bilateral cavitary disease or extensive parenchymal damage  32",
+      "font": "SegoeUI-Light",
+      "size": 7.989593029022217,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        721.43701171875,
+        526.556884765625,
+        731.9409790039062
+      ],
+      "text": "on chest radiography. In children aged below 15 years, advanced disease is usually defined by the presence of cavities or bilateral",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        731.037109375,
+        180.61090087890625,
+        741.5410766601562
+      ],
+      "text": "disease on chest radiography.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.2718505859375,
+        526.6334228515625,
+        753.9757690429688
+      ],
+      "text": "Severe extrapulmonary TB is defined as presence of miliary TB, TB meningitis, osteoarticular or pericardial TB. In children aged below  33",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0718383789062,
+        526.5471801757812,
+        763.5758056640625
+      ],
+      "text": "15 years, extrapulmonary forms of disease other than lymphadenopathy (peripheral nodes or isolated mediastinal mass without",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        225.05406188964844,
+        773.17578125
+      ],
+      "text": "compression) are considered to be severe.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "86 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "file": "module4",
+  "page": 400,
+  "blocks": [
+    {
+      "bbox": [
+        163.36819458007812,
+        73.71237182617188,
+        175.1132049560547,
+        120.756103515625
+      ],
+      "text": "Importance",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.995248794555664,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        79.92005157470703,
+        454.1582946777344,
+        114.54302978515625
+      ],
+      "text": "CRITICAL CRITICAL CRITICAL CRITICAL",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        218.88888549804688,
+        474.1582946777344,
+        254.50079345703125
+      ],
+      "text": "Relative\n (95% CI) (0.93 to  (1.29 to  (0.19 to  (0.08 to  RR 1.06 RR 4.45 RR 0.83 RR 0.22 15.34) 1.21) 3.64) 0.63)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        258.4570617675781,
+        454.1582946777344,
+        320.1727294921875
+      ],
+      "text": "recommended  92/119 (77.3%)  20/119 (16.8%)  longer WHO  3/119 (2.5%)  4/119 (3.4%)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.47900390625,
+        269.9519348144531,
+        196.2239990234375,
+        309.3973388671875
+      ],
+      "text": "currently  regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        132.25738525390625,
+        304.7015686035156,
+        144.0023956298828,
+        361.1730041503906
+      ],
+      "text": "№ of patients",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        206.70050048828125,
+        314.6965637207031,
+        218.44549560546875,
+        527.1982421875
+      ],
+      "text": "Sustained Treatment Success (follow-up: 104 weeks)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        144.47900390625,
+        323.5130920410156,
+        292.88861083984375,
+        514.75732421875
+      ],
+      "text": "a 9-month regimen  Failure and Recurrence (follow-up: 104 weeks) moxifloxacin, and  using delamanid,",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        334.5858459472656,
+        454.1582946777344,
+        394.02191162109375
+      ],
+      "text": "88/107 (82.2%)  12/107 (11.2%)  pyrazinamide  clofazimine,  3/107 (2.8%)  4/107 (3.7%)",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        194.47900390625,
+        349.7221984863281,
+        206.2239990234375,
+        381.3392028808594
+      ],
+      "text": "(DCMZ)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        355.5867004394531,
+        361.16693115234375,
+        441.7746887207031,
+        480.7283020019531
+      ],
+      "text": "Death (follow-up: 104 weeks) after treatment completion)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.11859893798828,
+        405.05389404296875,
+        122.56159973144531,
+        771.02392578125
+      ],
+      "text": "regimens in patients with pulmonary RR-TB (without fluoroquinolone resistance)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        174.47900390625,
+        411.283447265625,
+        186.2239990234375,
+        470.6924133300781
+      ],
+      "text": "considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        426.80426025390625,
+        176.2239990234375,
+        452.6792297363281
+      ],
+      "text": "Other",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        431.3655700683594,
+        454.1582946777344,
+        450.589599609375
+      ],
+      "text": "none none none none",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        169.47900390625,
+        478.2020263671875,
+        454.1582946777344,
+        587.4462280273438
+      ],
+      "text": "Indirectness Imprecision f very serious extremely  extremely  extremely",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        229.01210021972656,
+        487.345703125,
+        389.7151794433594,
+        516.4974365234375
+      ],
+      "text": "b d e serious serious serious",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        535.293212890625,
+        454.1582946777344,
+        579.1015014648438
+      ],
+      "text": "a a a a not serious not serious not serious not serious",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        132.25738525390625,
+        546.4577026367188,
+        144.0023956298828,
+        632.5004272460938
+      ],
+      "text": "Certainty assessment",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        169.47900390625,
+        587.4462280273438,
+        181.2239990234375,
+        641.0552978515625
+      ],
+      "text": "Inconsistency",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.961166381835938,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        593.6414184570312,
+        454.1582946777344,
+        634.8524169921875
+      ],
+      "text": "not serious not serious not serious not serious",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        648.637939453125,
+        464.1582946777344,
+        678.4755859375
+      ],
+      "text": "Risk of  serious serious serious serious",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        174.47900390625,
+        656.0612182617188,
+        454.1582946777344,
+        672.9714965820312
+      ],
+      "text": "not  not  not  not  bias",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        686.0717163085938,
+        454.1582946777344,
+        732.756103515625
+      ],
+      "text": "randomised  randomised  randomised  randomised",
+      "font": "SegoeUI-Light",
+      "size": 8.982833862304688,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        696.606201171875,
+        186.2239990234375,
+        724.2008056640625
+      ],
+      "text": "Study  design",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        64.67269897460938,
+        698.1133422851562,
+        89.46769714355469,
+        771.02392578125
+      ],
+      "text": "PICO 2.5",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        229.01210021972656,
+        702.0123291015625,
+        464.1582946777344,
+        719.2833251953125
+      ],
+      "text": "trials trials trials trials",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        94.80860137939453,
+        720.2149047851562,
+        109.16360473632812,
+        771.02392578125
+      ],
+      "text": "Question:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        164.47900390625,
+        738.9078979492188,
+        186.2239990234375,
+        767.7169189453125
+      ],
+      "text": "studies № of",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        219.01210021972656,
+        750.9904174804688,
+        454.1582946777344,
+        755.6254272460938
+      ],
+      "text": "1 1 1 1",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "386 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "file": "module4",
+  "page": 335,
+  "table_id": 2,
+  "bbox": [
+    143.9369879828559,
+    127.73887939453125,
+    480.42124938964844,
+    231.1806427001953
+  ],
+  "heading": null,
+  "n_rows": 9,
+  "n_cols": 3,
+  "data": [
+    [
+      "",
+      "Regimen",
+      "Estimated Regimen Price"
+    ],
+    [
+      "Beat – Tuberculosis Trial Regimens",
+      "6BDLL (FQ-S) $1374",
+      ""
+    ],
+    [
+      "",
+      "6BDLC (FQ-R) $1460",
+      ""
+    ],
+    [
+      "",
+      "6BDLLC (FQ – Unknown) $1479",
+      ""
+    ],
+    [
+      "WHO-Recommended Regimens",
+      "BPaLM $443",
+      ""
+    ],
+    [
+      "",
+      "BPaL $415",
+      ""
+    ],
+    [
+      "",
+      "Shorter Regimen $418",
+      ""
+    ],
+    [
+      "",
+      "Shorter Regimen (with Lzd) $396",
+      ""
+    ],
+    [
+      "",
+      "Longer Regimen (18BLLC) $632 6",
+      ""
+    ]
+  ]
+}

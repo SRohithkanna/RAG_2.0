@@ -1,0 +1,774 @@
+{
+  "file": "module4",
+  "page": 174,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        504.8789367675781,
+        86.53083038330078
+      ],
+      "text": "The 6-month bedaquiline, delamanid, linezolid, levofloxacin",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.65083312988281,
+        323.858154296875,
+        105.53083038330078
+      ],
+      "text": "and clofazimine (BDLLfxC) regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.73468780517578,
+        296.2384948730469,
+        126.17768859863281
+      ],
+      "text": "Further research is needed in the following areas:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.43873596191406,
+        78.23609924316406,
+        147.88172912597656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        133.43873596191406,
+        524.4553833007812,
+        147.88172912597656
+      ],
+      "text": "research on choice of quinolones for 6-month regimens and treatment outcomes (e.g. moxifloxacin/",
+      "font": "SegoeUI-Light",
+      "size": 10.952597618103027,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        146.6387481689453,
+        161.914306640625,
+        161.0817413330078
+      ],
+      "text": "levofloxacin); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.8386993408203,
+        78.23609924316406,
+        174.2816925048828
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        159.8386993408203,
+        202.17210388183594,
+        174.2816925048828
+      ],
+      "text": "cost–effectiveness studies.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.6320343017578,
+        399.5027770996094,
+        208.5120391845703
+      ],
+      "text": "The 9-month all-oral regimen for MDR/RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.7158966064453,
+        296.2384948730469,
+        229.1588897705078
+      ],
+      "text": "Further research is needed in the following areas:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.41993713378906,
+        78.23609924316406,
+        250.86293029785156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        236.41993713378906,
+        527.4344482421875,
+        250.86293029785156
+      ],
+      "text": "the effectiveness and safety of variants of the shorter MDR-TB treatment regimen, in which the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        249.6199493408203,
+        527.398193359375,
+        264.0629577636719
+      ],
+      "text": "injectable agent is replaced by an oral agent (e.g. bedaquiline) and the total duration is reduced",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        262.81982421875,
+        173.1321258544922,
+        277.2628479003906
+      ],
+      "text": "to 6 months or less;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.0198974609375,
+        78.23609924316406,
+        290.4629211425781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        276.0198974609375,
+        425.1905212402344,
+        290.4629211425781
+      ],
+      "text": "comparison of the effectiveness of these variants of the shorter regimen in:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        289.21978759765625,
+        90.79509735107422,
+        303.6628112792969
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        289.21978759765625,
+        527.5362548828125,
+        303.6628112792969
+      ],
+      "text": "patient subgroups that have often been systematically excluded from studies or country",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.86609649658203,
+        302.419921875,
+        527.3634643554688,
+        316.8629455566406
+      ],
+      "text": "programme cohorts (e.g. children, patients with additional resistance, those with extrapulmonary",
+      "font": "SegoeUI-Light",
+      "size": 10.95350170135498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.86609649658203,
+        315.61993408203125,
+        298.37408447265625,
+        330.0629577636719
+      ],
+      "text": "TB, and pregnant or breastfeeding women);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        328.8197937011719,
+        90.79509735107422,
+        343.2628173828125
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        328.8197937011719,
+        527.1317749023438,
+        343.2628173828125
+      ],
+      "text": "settings where background resistance to drugs other than FQ and second-line injectable agents",
+      "font": "SegoeUI-Light",
+      "size": 10.975974082946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.86609649658203,
+        342.0198974609375,
+        329.64385986328125,
+        356.4629211425781
+      ],
+      "text": "is high (e.g. PZA or high-level isoniazid resistance);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.2198181152344,
+        78.23609924316406,
+        369.662841796875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        355.2198181152344,
+        527.6105346679688,
+        369.662841796875
+      ],
+      "text": "additional RCTs and odds ratios on all-oral shorter MDR-TB treatment regimens, also allowing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        368.4198913574219,
+        404.544677734375,
+        382.8629150390625
+      ],
+      "text": "comparison of all-oral shorter regimens with all-oral longer regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.6199035644531,
+        78.23609924316406,
+        396.06292724609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        381.6199035644531,
+        355.8741149902344,
+        396.06292724609375
+      ],
+      "text": "programmatic data from countries other than South Africa;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.8197937011719,
+        78.23609924316406,
+        409.2628173828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        394.8197937011719,
+        527.3782348632812,
+        409.2628173828125
+      ],
+      "text": "data from children, pregnant women, older people, patients with diabetes and other special",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        408.0198974609375,
+        142.23309326171875,
+        422.4629211425781
+      ],
+      "text": "populations;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.2198181152344,
+        78.23609924316406,
+        435.662841796875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        421.2198181152344,
+        332.1767272949219,
+        435.662841796875
+      ],
+      "text": "data on patients presenting with extensive TB disease;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.4198913574219,
+        78.23609924316406,
+        448.8629150390625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        434.4198913574219,
+        527.19189453125,
+        448.8629150390625
+      ],
+      "text": "information on the frequency and mechanisms of bedaquiline resistance acquisition, and the genetic",
+      "font": "SegoeUI-Light",
+      "size": 10.948478698730469,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        447.6199035644531,
+        297.05816650390625,
+        462.06292724609375
+      ],
+      "text": "markers that indicate probable resistance; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.8197937011719,
+        78.23609924316406,
+        475.2628173828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        460.8197937011719,
+        527.1661987304688,
+        475.2628173828125
+      ],
+      "text": "identification of optimal companion drugs that protect bedaquiline and limit the acquisition of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        474.0198974609375,
+        527.4189453125,
+        488.4629211425781
+      ],
+      "text": "bedaquiline resistance, including consideration of the need to protect the long “tail” of potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        487.2198181152344,
+        527.3927612304688,
+        501.662841796875
+      ],
+      "text": "single drug exposure (given its exceptionally long half-life) if bedaquiline is stopped at the same",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        500.4198913574219,
+        202.1611328125,
+        514.8629150390625
+      ],
+      "text": "time as companion drugs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.213134765625,
+        476.0420227050781,
+        549.0931396484375
+      ],
+      "text": "The modified 9-month all-oral regimens for MDR/RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.2969970703125,
+        299.25250244140625,
+        569.739990234375
+      ],
+      "text": "Further research is needed in the following areas:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.0009765625,
+        78.23609924316406,
+        591.4439697265625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        577.0009765625,
+        420.9259033203125,
+        591.4439697265625
+      ],
+      "text": "the role of PZA resistance and the requirement for its use in the regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.2009887695312,
+        78.23609924316406,
+        604.6439819335938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        590.2009887695312,
+        454.3780212402344,
+        604.6439819335938
+      ],
+      "text": "information on bedaquiline resistance in countries through surveillance research;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.40087890625,
+        78.23609924316406,
+        617.8438720703125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        603.40087890625,
+        488.7574157714844,
+        617.8438720703125
+      ],
+      "text": "the effect of the regimens in other patient groups, e.g. in children or those with diabetes;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.6008911132812,
+        78.23609924316406,
+        631.0438842773438
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        616.6008911132812,
+        311.589111328125,
+        631.0438842773438
+      ],
+      "text": "research on the acceptability of the regimens; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.801025390625,
+        78.23609924316406,
+        644.2440185546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        629.801025390625,
+        488.0555114746094,
+        644.2440185546875
+      ],
+      "text": "for the 9BDLLFxZ regimen, research about patient support and adherence to delamanid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.59423828125,
+        308.1988525390625,
+        678.4742431640625
+      ],
+      "text": "Longer regimens for MDR/RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.6781005859375,
+        296.2384948730469,
+        699.12109375
+      ],
+      "text": "Further research is needed in the following areas:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        706.382080078125,
+        78.23609924316406,
+        720.8250732421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        706.382080078125,
+        527.328369140625,
+        720.8250732421875
+      ],
+      "text": "the optimal combination of medicines and the approach to regimen design for adults and children",
+      "font": "SegoeUI-Light",
+      "size": 10.987342834472656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        719.5820922851562,
+        396.96014404296875,
+        734.0250854492188
+      ],
+      "text": "with MDR/RR-TB, with or without additional resistance to key agents;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.781982421875,
+        78.23609924316406,
+        747.2249755859375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        732.781982421875,
+        527.4954223632812,
+        747.2249755859375
+      ],
+      "text": "RCTs, which are lacking, especially those involving new drugs and regimens – the release of results",
+      "font": "SegoeUI-Light",
+      "size": 10.999500274658203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        745.9819946289062,
+        527.3792114257812,
+        760.4249877929688
+      ],
+      "text": "from the first Phase 3 trials for MDR-TB has led to debate about the clinical relevance of the design",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "160 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 17,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        242.21009826660156,
+        147.5496368408203
+      ],
+      "text": "Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        527.6092529296875,
+        195.36158752441406
+      ],
+      "text": "For several decades the World Health Organization (WHO) has developed and issued recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        527.5047607421875,
+        208.5615997314453
+      ],
+      "text": "on the treatment of tuberculosis (TB). The recent WHO recommendations for treating people affected",
+      "font": "SegoeUI-Light",
+      "size": 10.976425170898438,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.04261779785156,
+        524.3931884765625,
+        221.76161193847656
+      ],
+      "text": "Guidelines for treatment of drug- by drug-susceptible TB (DS-TB) have been defined in WHO’s",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.2426300048828,
+        527.3885498046875,
+        234.9616241455078
+      ],
+      "text": "susceptible tuberculosis and patient care (1, 2) , 2010 and 2017 updates  . These guidelines focused",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.71864318847656,
+        527.433349609375,
+        248.16163635253906
+      ],
+      "text": "on the 6-month treatment regimen composed of four first-line TB medicines – isoniazid, rifampicin,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.91859436035156,
+        527.5252075195312,
+        261.3616027832031
+      ],
+      "text": "ethambutol and pyrazinamide – recommended for the treatment of DS-TB. This regimen is well known",
+      "font": "SegoeUI-Light",
+      "size": 10.957818984985352,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.11859130859375,
+        527.3925170898438,
+        274.5616149902344
+      ],
+      "text": "and has been widely adopted worldwide for decades; while using it, about 85% of patients will have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.318603515625,
+        527.4321899414062,
+        287.7616271972656
+      ],
+      "text": "a successful treatment outcome. This regimen is based on seminal TB treatment studies conducted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.24261474609375,
+        527.4180908203125,
+        300.9616394042969
+      ],
+      "text": "(3) by the British Medical Research Council in the second half of the 20th century  . In addition to",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.7186279296875,
+        527.4410400390625,
+        314.1616516113281
+      ],
+      "text": "the recommendation on the treatment regimen, the 2010 and 2017 guideline updates included a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.9185791015625,
+        527.403564453125,
+        327.3616027832031
+      ],
+      "text": "number of recommendations on the modalities and formulations used for treatment, frequency of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.11859130859375,
+        527.4122314453125,
+        340.5616149902344
+      ],
+      "text": "treatment administration, special situations and patient care during treatment. The consolidated and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.318603515625,
+        527.4443969726562,
+        353.7616271972656
+      ],
+      "text": "updated guidelines chapter on DS-TB treatment in this current document brings together, without",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.51861572265625,
+        527.398193359375,
+        366.9616394042969
+      ],
+      "text": "modifications, all valid and evidence-based recommendations from the 2010 and 2017 guidelines; it",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.7185974121094,
+        527.4136352539062,
+        380.16162109375
+      ],
+      "text": "then adds a new section based on the most recent round of guidelines development in 2021 – the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.9186096191406,
+        314.22576904296875,
+        393.36163330078125
+      ],
+      "text": "recommendations for 4-month treatments of DS-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.62261962890625,
+        527.4387817382812,
+        415.0656433105469
+      ],
+      "text": "This chapter of the consolidated guidelines includes recommendations related to the treatment of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.822509765625,
+        527.0996704101562,
+        428.2655334472656
+      ],
+      "text": "DS-TB in all age groups. All recommendations on patient care and support during treatment, for both",
+      "font": "SegoeUI-Light",
+      "size": 10.97557258605957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.7464904785156,
+        527.427001953125,
+        441.46551513671875
+      ],
+      "text": "Tuberculosis  DS-TB and drug-resistant TB (DR-TB) have been merged in another dedicated chapter:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.9465026855469,
+        527.3941650390625,
+        454.66552734375
+      ],
+      "text": "care and support . The recommendations specific for children and adolescents are consolidated in",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.1465148925781,
+        420.2063903808594,
+        467.86553955078125
+      ],
+      "text": "(4) the module on management of tuberculosis in children and adolescents  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.1264953613281,
+        527.486083984375,
+        489.56951904296875
+      ],
+      "text": "The update of the guidelines for treatment of DS-TB is important in the context of the End TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.0505065917969,
+        465.5024108886719,
+        502.76953125
+      ],
+      "text": "(5) Strategy  , which recommends treatment and patient support for all people with TB.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.0303955078125,
+        527.376953125,
+        524.473388671875
+      ],
+      "text": "The most recent guideline update on DS-TB treatment in 2021 aimed to use the best available",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.2304077148438,
+        527.37841796875,
+        537.6734008789062
+      ],
+      "text": "evidence on the treatment of DS-TB to inform policy decisions made in this technical area by national",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.430419921875,
+        527.604736328125,
+        550.8734130859375
+      ],
+      "text": "TB programme (NTP) managers, national policy-makers and medical practitioners in a variety of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.63037109375,
+        270.30718994140625,
+        564.0733642578125
+      ],
+      "text": "geographical, economic and social settings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.3343505859375,
+        298.96209716796875,
+        585.77734375
+      ],
+      "text": "The objectives of these updated guidelines are to:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.038330078125,
+        78.23609924316406,
+        607.4813232421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        593.038330078125,
+        527.5180053710938,
+        607.4813232421875
+      ],
+      "text": "provide updated recommendations based on newly emerged evidence on the treatment of DS-TB;",
+      "font": "SegoeUI-Light",
+      "size": 10.977276802062988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        606.23828125,
+        100.3450927734375,
+        620.6812744140625
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.4382934570312,
+        78.23609924316406,
+        633.8812866210938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        619.4382934570312,
+        527.436767578125,
+        633.8812866210938
+      ],
+      "text": "provide a summary of changes in the new guidelines, together with all existing and valid WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        632.6383056640625,
+        292.5756530761719,
+        647.081298828125
+      ],
+      "text": "recommendations on the treatment of DS-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.3422241210938,
+        527.52001953125,
+        668.7852172851562
+      ],
+      "text": "The guidance provided in this chapter outlines specific WHO recommendations on the overall",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.542236328125,
+        527.1934204101562,
+        681.9852294921875
+      ],
+      "text": "treatment, management, care and monitoring of patients with DS-TB. It brings forward",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.7421875,
+        527.5941162109375,
+        695.1851806640625
+      ],
+      "text": "recommendations developed by various WHO-convened guideline development groups (GDGs),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.9423217773438,
+        527.4179077148438,
+        708.3853149414062
+      ],
+      "text": "using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach",
+      "font": "SegoeUI-Light",
+      "size": 10.966299057006836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.1422119140625,
+        527.3969116210938,
+        721.585205078125
+      ],
+      "text": "to summarize the evidence, and to formulate policy recommendations and accompanying remarks.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.3422241210938,
+        527.4608154296875,
+        734.7852172851562
+      ],
+      "text": "The recommendations and remarks in the current chapter on the treatment of DS-TB are the result",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.542236328125,
+        527.4278564453125,
+        747.9852294921875
+      ],
+      "text": "of collaborative efforts of professionals from a range of specialties who have extensive expertise and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.7421875,
+        527.3226318359375,
+        761.1851806640625
+      ],
+      "text": "experience in public health policy, TB programme management, the care and management of patients",
+      "font": "SegoeUI-Light",
+      "size": 10.960980415344238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.9423217773438,
+        350.9767761230469,
+        774.3853149414062
+      ],
+      "text": "with TB, members of affected communities and TB survivors.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.8607177734375,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "3",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

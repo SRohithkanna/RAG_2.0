@@ -1,0 +1,100 @@
+{
+  "file": "common childhood",
+  "page": 123,
+  "table_id": 1,
+  "bbox": [
+    145.4185028076172,
+    63.02090759277344,
+    309.448486328125,
+    623.6220296223959
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 7,
+  "n_cols": 10,
+  "data": [
+    [
+      "STUDY’S FIRST AUTHOR, PUBLICATION DATE AND SETTING",
+      "LEVEL (REFERRAL, FIRST LEVEL HEALTH FACILITY, COMMUNITY)",
+      "STUDY DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "COMPLETENESS OF FOLLOW-UP",
+      "ANALYSIS (INTENT TO TREAT)",
+      "NO. OF EVENTS/ TOTAL IN INTER­ VENTION GROUP",
+      "NO. OF EVENTS/ TOTAL IN CONTROL GROUP",
+      "EFFECT SIZE RR (95% CI)"
+    ],
+    [
+      "Neonatal mortality",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Gerard 1979 (Charleroi, Belgium)a",
+      "Hospital",
+      "Quasi- RCT",
+      "No (Quasi- RCT)",
+      "Unclear",
+      "100%",
+      "Unknown",
+      "0/29",
+      "0/38",
+      "–"
+    ],
+    [
+      "Wolf 1976 (Johannes­ burg, South Africa)b",
+      "Hospital",
+      "RCT",
+      "Unclear",
+      "Unclear",
+      "100%",
+      "Unknown",
+      "0/24",
+      "0/25",
+      "–"
+    ],
+    [
+      "Neonatal sepsis",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Gerard 1979 (Charleroi, Belgium)c",
+      "Hospital",
+      "Quasi- RCT",
+      "No (Quasi- RCT)",
+      "Unclear",
+      "100%",
+      "Unknown",
+      "0/29",
+      "0/38",
+      "–"
+    ],
+    [
+      "Wolf 1976 (Johannes­ burg, South Africa)d",
+      "Hospital",
+      "RCT",
+      "Unclear",
+      "Unclear",
+      "100%",
+      "Unknown",
+      "0/24",
+      "4/25",
+      "RR=0.12 (0.01; 2.04)"
+    ]
+  ]
+}

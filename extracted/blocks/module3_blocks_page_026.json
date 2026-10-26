@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 26,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        249.63351440429688,
+        85.31422424316406
+      ],
+      "text": "Diagnostic class description",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        401.32550048828125,
+        108.71018981933594
+      ],
+      "text": "The features shown in   define the class of LC-aNAATs.: Table 2.1.1.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.35143280029297,
+        303.1260986328125,
+        137.43943786621094
+      ],
+      "text": "Table 2.1.1.1 Class criteria for LC-aNAATs",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        152.89942932128906,
+        429.55072021484375,
+        165.8134307861328
+      ],
+      "text": "Purpose Detection of TB and rifampicin resistance",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        174.0177001953125,
+        376.2216491699219,
+        187.16270446777344
+      ],
+      "text": "Nucleic acid amplification testing Principle of action",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        194.15618896484375,
+        510.3445739746094,
+        207.3011932373047
+      ],
+      "text": "Reagents Most reagents are enclosed in a disposable sealed container  Complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.0157012939453,
+        207.15618896484375,
+        508.9805603027344,
+        220.3011932373047
+      ],
+      "text": "to which a clinical specimen is added. The disposable sealed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.0157012939453,
+        220.15618896484375,
+        479.25860595703125,
+        233.3011932373047
+      ],
+      "text": "container does not have special storage requirements",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        240.29461669921875,
+        518.6991577148438,
+        253.4396209716797
+      ],
+      "text": "Skills Basic technical skills (e.g. basic pipetting, precision not critical)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        260.4329833984375,
+        465.629638671875,
+        273.5780029296875
+      ],
+      "text": "Pipetting Either no, or only one, pipetting step in the process",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        280.571533203125,
+        493.8015441894531,
+        293.716552734375
+      ],
+      "text": "Testing   May require an initial manual specimen treatment step  y",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        293.571533203125,
+        516.6815185546875,
+        306.716552734375
+      ],
+      "text": "procedure before transferring the specimen into the disposable sealed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.5196990966797,
+        306.571533203125,
+        398.8276672363281,
+        319.716552734375
+      ],
+      "text": "container for automated processing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.0157012939453,
+        323.8235168457031,
+        357.0826416015625,
+        336.9685363769531
+      ],
+      "text": "Automated DNA extraction y",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.0157012939453,
+        341.07550048828125,
+        350.2516174316406,
+        354.22052001953125
+      ],
+      "text": "Automated real-time PCR  y",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        214.0157012939453,
+        358.3274230957031,
+        313.8746337890625,
+        371.4724426269531
+      ],
+      "text": "Results generation y",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        378.4659118652344,
+        270.6326599121094,
+        391.6109313964844
+      ],
+      "text": "Automated Type of test result",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        391.6199035644531,
+        126.9094009399414,
+        404.5339050292969
+      ],
+      "text": "reporting",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        411.60430908203125,
+        462.5385437011719,
+        424.74932861328125
+      ],
+      "text": "Basic laboratory (no special infrastructure needed)  Setting of use",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.8625183105469,
+        526.501220703125,
+        445.6175231933594
+      ],
+      "text": "DNA: deoxyribonucleic acid; LC-aNAAT: low-complexity automated nucleic acid amplification test; PCR: polymerase",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.6625061035156,
+        197.1541290283203,
+        456.4175109863281
+      ],
+      "text": "chain reaction; TB: tuberculosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.92572021484375,
+        524.3990478515625,
+        485.07073974609375
+      ],
+      "text": "The products for which eligible data met the class-based performance criteria for LC-aNAATs were:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.6777038574219,
+        78.81909942626953,
+        504.8227233886719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        491.6777038574219,
+        526.9202880859375,
+        504.8227233886719
+      ],
+      "text": "Xpert MTB/RIF Ultra (Cepheid, Sunnyvale, United States of America [USA]) – for pulmonary",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        507.177734375,
+        357.6742248535156,
+        520.32275390625
+      ],
+      "text": "TB, extrapulmonary TB and resistance to rifampicin; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.677734375,
+        78.81909942626953,
+        535.82275390625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        522.677734375,
+        527.0961303710938,
+        535.82275390625
+      ],
+      "text": "Truenat MTB Plus and Truenat MTB-RIF Dx (Molbio, Goa, India) – for pulmonary TB and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        538.177734375,
+        201.37396240234375,
+        551.32275390625
+      ],
+      "text": "resistance to rifampicin.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.0162963867188,
+        501.8063659667969,
+        578.1613159179688
+      ],
+      "text": "Data on Truenat MTB Plus and MTB-RIF Dx were more limited than those for Xpert Ultra.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        589.0203247070312,
+        526.9368286132812,
+        602.1653442382812
+      ],
+      "text": "Regulatory approval from national regulatory authorities or other relevant bodies is required",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.5203247070312,
+        526.965576171875,
+        617.6653442382812
+      ],
+      "text": "before implementation of these diagnostic tests. Extrapolation to other brand-specific tests",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.0203247070312,
+        527.1572265625,
+        633.1653442382812
+      ],
+      "text": "cannot be made, and any new in-class technologies, or new indications for technologies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.5203247070312,
+        524.630615234375,
+        648.6653442382812
+      ],
+      "text": "currently included in the class, will need to be evaluated by WHO PQ and WHO/GTB, respectively.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.5242309570312,
+        526.9922485351562,
+        672.6692504882812
+      ],
+      "text": "The publication  describes  WHO operational handbook on tuberculosis. Module 3: Diagnosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.0242309570312,
+        217.1636962890625,
+        688.1692504882812
+      ],
+      "text": "the tests included in this class.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "10 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "file": "module4",
+  "page": 302,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        271.1389465332031,
+        82.6147232055664
+      ],
+      "text": "Recommendation 10. PICO question",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        89.71263885498047,
+        528.9744262695312,
+        104.06764221191406
+      ],
+      "text": "Does the use of adjuvant corticosteroids in tuberculous meningitis provide mortality and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        102.91259002685547,
+        169.44949340820312,
+        117.26759338378906
+      ],
+      "text": "morbidity benefits?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        130.2281494140625,
+        444.56201171875,
+        144.58314514160156
+      ],
+      "text": "Population  Intervention  Comparator  Outcomes",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        151.9525909423828,
+        424.4161071777344,
+        166.3955841064453
+      ],
+      "text": "Patients with  First-line oral  First-line oral agents  •\tDeath",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        163.9525909423828,
+        341.4593200683594,
+        178.3955841064453
+      ],
+      "text": "tuberculous  agents plus  plus placebo",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        390.8611145019531,
+        168.20460510253906,
+        446.67022705078125,
+        182.64759826660156
+      ],
+      "text": "•\tAdherence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        175.9525909423828,
+        226.5482177734375,
+        190.3955841064453
+      ],
+      "text": "meningitis systemic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.01220703125,
+        184.4564971923828,
+        502.6635437011719,
+        202.3955841064453
+      ],
+      "text": "•\tConstrictive pericarditis corticosteroid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.01220703125,
+        199.9525909423828,
+        219.92620849609375,
+        214.3955841064453
+      ],
+      "text": "therapy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        239.57699584960938,
+        271.31414794921875,
+        255.42898559570312
+      ],
+      "text": "Recommendation 11. PICO question",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        262.52703857421875,
+        528.9197387695312,
+        276.88201904296875
+      ],
+      "text": "Does the use of adjuvant corticosteroids in tuberculous pericarditis provide mortality and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        275.7269287109375,
+        169.44949340820312,
+        290.0819091796875
+      ],
+      "text": "morbidity benefits?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        303.04229736328125,
+        444.56201171875,
+        317.39727783203125
+      ],
+      "text": "Population  Intervention  Comparator  Outcomes",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        324.76690673828125,
+        482.0682067871094,
+        339.2099304199219
+      ],
+      "text": "Patients with  First-line oral  First-line oral agents  •\tCure or treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        336.76690673828125,
+        448.506103515625,
+        351.2099304199219
+      ],
+      "text": "tuberculous  agents plus  plus placebo completion",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        348.76690673828125,
+        226.5482177734375,
+        363.2099304199219
+      ],
+      "text": "pericarditis systemic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        390.8611145019531,
+        353.0189208984375,
+        432.42742919921875,
+        367.4619445800781
+      ],
+      "text": "•\tSurvival",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.01220703125,
+        360.76690673828125,
+        250.85494995117188,
+        375.2099304199219
+      ],
+      "text": "corticosteroid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        185.01220703125,
+        369.27081298828125,
+        514.6414184570312,
+        387.2099304199219
+      ],
+      "text": "•\tStaying disease free after  therapy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        381.27081298828125,
+        504.02203369140625,
+        395.7138366699219
+      ],
+      "text": "treatment; sustaining a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        393.27081298828125,
+        416.5962219238281,
+        407.7138366699219
+      ],
+      "text": "cure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        390.8611145019531,
+        409.5227966308594,
+        462.8941650390625,
+        423.9658203125
+      ],
+      "text": "•\tAcquisition or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        421.5227966308594,
+        494.9844665527344,
+        435.9658203125
+      ],
+      "text": "amplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        433.5227966308594,
+        441.6432189941406,
+        447.9658203125
+      ],
+      "text": "resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        390.8611145019531,
+        449.7748107910156,
+        475.9742431640625,
+        464.21783447265625
+      ],
+      "text": "•\tSmear or culture",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        461.7748107910156,
+        482.6600646972656,
+        476.21783447265625
+      ],
+      "text": "conversion during",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8611145019531,
+        473.7748107910156,
+        441.5419921875,
+        488.21783447265625
+      ],
+      "text": "treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        390.8611145019531,
+        490.0267028808594,
+        491.187255859375,
+        504.4697265625
+      ],
+      "text": "•\tDrug adverse events",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "288 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

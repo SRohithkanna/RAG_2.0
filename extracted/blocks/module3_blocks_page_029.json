@@ -1,0 +1,666 @@
+{
+  "file": "module3",
+  "page": 29,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        247.89328002929688,
+        85.31422424316406
+      ],
+      "text": "Detection of pulmonary TB",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.54881286621094,
+        512.7697143554688,
+        110.63681030273438
+      ],
+      "text": "Should LC-aNAATs on respiratory samples be used to diagnose pulmonary TB in",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.94883728027344,
+        504.01580810546875,
+        125.03683471679688
+      ],
+      "text": "adults and adolescents with signs and symptoms or who screened positive for",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        125.34880065917969,
+        406.8686218261719,
+        139.43679809570312
+      ],
+      "text": "pulmonary TB, against a microbiological reference standard?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.10382080078125,
+        526.9591064453125,
+        163.2488250732422
+      ],
+      "text": "Thirty-five studies (14 845 participants) assessed diagnostic accuracy using sputum specimens",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.60382080078125,
+        526.7335205078125,
+        178.7488250732422
+      ],
+      "text": "and comparing with a microbiological reference standard (MRS); however, one of those studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.962435722351074,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.10382080078125,
+        527.0360717773438,
+        194.2488250732422
+      ],
+      "text": "had no people with TB (Zar 2019) and so sensitivity was not estimable. The sensitivities in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.60382080078125,
+        526.9588623046875,
+        209.7488250732422
+      ],
+      "text": "the remaining 34 studies (14 840 participants) included in the meta-analysis were between",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.10382080078125,
+        526.9639282226562,
+        225.2488250732422
+      ],
+      "text": "54% and 100%, and the specificities were between 71% and 100% ( ). The summary  Fig. 2.1.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.60382080078125,
+        526.9645385742188,
+        240.7488250732422
+      ],
+      "text": "sensitivity was 90.4% (95% confidence interval [CI]: 88.0–92.4), and the summary specificity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.10382080078125,
+        526.9185791015625,
+        256.24884033203125
+      ],
+      "text": "was 94.9% (95% CI: 93.0–96.3). The certainty of evidence for sensitivity and specificity was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.60382080078125,
+        344.91650390625,
+        271.74884033203125
+      ],
+      "text": "graded as “high”. For more details, see  . Web Annex B.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.3900146484375,
+        506.11810302734375,
+        300.4779968261719
+      ],
+      "text": "Fig. 2.1.1. Forest plot of LC-aNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.6988220214844,
+        318.48065185546875,
+        314.8780212402344
+      ],
+      "text": "a pulmonary TB in sputum samples and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        331.2310485839844,
+        517.468017578125,
+        341.58404541015625
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Brand TN FN FP TP Study Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 6.518673896789551,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        341.7059326171875,
+        382.50372314453125,
+        351.526123046875
+      ],
+      "text": "0.98 [0.95, 1.00] 0.95 [0.74, 1.00] Truenat MTB Plus 181 1 3 18 Jose 2024",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        350.80218505859375,
+        382.50372314453125,
+        360.623291015625
+      ],
+      "text": "0.95 [0.93, 0.97] 0.96 [0.92, 0.98] Truenat MTB Plus 676 10 35 224 Ngangue 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        359.8984375,
+        382.50372314453125,
+        369.7218933105469
+      ],
+      "text": "0.96 [0.94, 0.97] 0.85 [0.81, 0.89] Truenat MTB Plus 1144 51 51 295 Penn-Nicholson 2021",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        368.99468994140625,
+        382.50372314453125,
+        378.82037353515625
+      ],
+      "text": "0.95 [0.92, 0.98] 0.87 [0.80, 0.92] Truenat MTB Plus 222 20 11 131 Theron 2024",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        378.0909423828125,
+        382.50372314453125,
+        387.9189758300781
+      ],
+      "text": "1.00 [0.16, 1.00] 0.67 [0.09, 0.99] Xpert Ultra 2 1 0 2 Aguilera-Alonso 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        387.18719482421875,
+        382.50372314453125,
+        397.0174865722656
+      ],
+      "text": "0.96 [0.91, 0.98] 0.89 [0.78, 0.96] Xpert Ultra 173 6 8 50 Berhanu 2018",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        396.283447265625,
+        382.50372314453125,
+        406.1160888671875
+      ],
+      "text": "0.99 [0.96, 1.00] 0.83 [0.72, 0.90] Xpert Ultra 131 13 1 62 Boyles 2020",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        405.37969970703125,
+        382.50372314453125,
+        415.214599609375
+      ],
+      "text": "0.94 [0.92, 0.96] 0.90 [0.86, 0.94] Xpert Ultra 612 24 37 223 Calderwood 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        414.4759521484375,
+        382.50372314453125,
+        424.3130798339844
+      ],
+      "text": "0.99 [0.93, 1.00] 0.88 [0.82, 0.92] Xpert Ultra 76 25 1 175 Chakravorty 2017",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        423.57220458984375,
+        382.50372314453125,
+        433.4115905761719
+      ],
+      "text": "0.95 [0.90, 0.98] 0.63 [0.35, 0.85] Xpert Ultra 141 6 8 10 Chien 2020",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        432.66845703125,
+        382.50372314453125,
+        442.5101013183594
+      ],
+      "text": "0.94 [0.92, 0.96] 0.83 [0.73, 0.90] Xpert Ultra 608 16 39 76 Chilukutu 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        441.76470947265625,
+        382.50372314453125,
+        451.6063537597656
+      ],
+      "text": "0.96 [0.94, 0.97] 0.88 [0.85, 0.91] Xpert Ultra 934 54 43 408 Dorman 2018",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        450.8609619140625,
+        382.50372314453125,
+        460.7026062011719
+      ],
+      "text": "0.80 [0.52, 0.96] 0.83 [0.36, 1.00] Xpert Ultra 12 1 3 5 Jaganath 2021",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        459.95721435546875,
+        382.50372314453125,
+        469.7988586425781
+      ],
+      "text": "0.92 [0.88, 0.95] 0.96 [0.90, 0.99] Xpert Ultra 247 4 21 96 Li 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        469.053466796875,
+        382.50372314453125,
+        478.8951110839844
+      ],
+      "text": "1.00 [0.40, 1.00] 1.00 [0.29, 1.00] Xpert Ultra 4 0 0 3 Liu 2021",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        478.14971923828125,
+        382.50372314453125,
+        487.9913635253906
+      ],
+      "text": "0.97 [0.96, 0.99] 0.97 [0.91, 1.00] Xpert Ultra 498 2 13 77 MacLean 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        487.2459716796875,
+        382.50372314453125,
+        497.0876159667969
+      ],
+      "text": "0.89 [0.84, 0.93] 0.86 [0.76, 0.93] Xpert Ultra 149 10 18 62 Mishra 2020a",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        496.34222412109375,
+        382.50372314453125,
+        506.1838684082031
+      ],
+      "text": "0.69 [0.60, 0.77] 0.86 [0.73, 0.95] Xpert Ultra 86 6 38 38 Mishra 2020b",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        505.4384765625,
+        382.50372314453125,
+        515.2801513671875
+      ],
+      "text": "0.98 [0.97, 0.99] 0.84 [0.74, 0.92] Xpert Ultra 706 11 13 59 Moodley 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        514.5347290039062,
+        382.50372314453125,
+        524.3763427734375
+      ],
+      "text": "0.94 [0.91, 0.97] 0.54 [0.25, 0.81] Xpert Ultra 289 6 17 7 Mukoka 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        523.6309814453125,
+        382.50372314453125,
+        533.47265625
+      ],
+      "text": "0.97 [0.92, 0.99] 0.96 [0.85, 0.99] Xpert Ultra 144 2 5 45 Opota 2019",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        532.7272338867188,
+        382.50372314453125,
+        542.56884765625
+      ],
+      "text": "1.00 [0.98, 1.00] 0.90 [0.70, 0.99] Xpert Ultra 260 2 1 19 Park 2019",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        541.823486328125,
+        382.50372314453125,
+        551.6651611328125
+      ],
+      "text": "0.94 [0.89, 0.97] 1.00 [0.85, 1.00] Xpert Ultra 147 0 10 23 Pereira 2020",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        550.9197387695312,
+        382.50372314453125,
+        560.7613525390625
+      ],
+      "text": "0.98 [0.94, 1.00] 0.94 [0.89, 0.98] Xpert Ultra 140 7 3 116 Piersimoni 2019",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        560.0159912109375,
+        382.50372314453125,
+        569.857666015625
+      ],
+      "text": "0.96 [0.95, 0.97] 0.95 [0.90, 0.98] Xpert Ultra 1210 8 52 149 Saavedra 2021",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        569.1122436523438,
+        382.50372314453125,
+        578.953857421875
+      ],
+      "text": "0.97 [0.85, 1.00] 0.80 [0.28, 0.99] Xpert Ultra 33 1 1 4 Sabi 2018",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        578.20849609375,
+        382.50372314453125,
+        588.0501708984375
+      ],
+      "text": "0.94 [0.85, 0.98] 0.76 [0.50, 0.93] Xpert Ultra 61 4 4 13 Sabi 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        587.3047485351562,
+        382.50372314453125,
+        597.1463623046875
+      ],
+      "text": "0.96 [0.93, 0.97] 0.95 [0.92, 0.97] Xpert Ultra 426 14 20 270 Sava 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        596.4010009765625,
+        382.50372314453125,
+        606.24267578125
+      ],
+      "text": "0.90 [0.80, 0.96] 0.95 [0.90, 0.98] Xpert Ultra 62 5 7 103 Sessolo 2023",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        605.4972534179688,
+        382.50372314453125,
+        615.3388671875
+      ],
+      "text": "1.00 [0.48, 1.00] 1.00 [0.03, 1.00] Xpert Ultra 5 0 0 1 Ssengooba 2020",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        614.593505859375,
+        382.50372314453125,
+        624.4351806640625
+      ],
+      "text": "0.90 [0.84, 0.94] 0.93 [0.84, 0.98] Xpert Ultra 160 5 18 66 Ssengooba 2024",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        623.6897583007812,
+        382.50372314453125,
+        633.5313720703125
+      ],
+      "text": "0.71 [0.66, 0.75] 0.87 [0.80, 0.93] Xpert Ultra 269 15 112 102 Wang 2019",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        632.7860107421875,
+        382.50372314453125,
+        642.627685546875
+      ],
+      "text": "0.86 [0.83, 0.88] 0.92 [0.89, 0.95] Xpert Ultra 627 27 102 322 Wang 2022",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        641.8822631835938,
+        382.50372314453125,
+        651.723876953125
+      ],
+      "text": "1.00 [0.48, 1.00] Not estimable Xpert Ultra 5 0 0 0 Zar 2019",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.0553970336914,
+        650.978515625,
+        382.50372314453125,
+        660.8201904296875
+      ],
+      "text": "0.92 [0.83, 0.97] 0.96 [0.80, 1.00] Xpert Ultra 68 1 6 24 Zhang 2021",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        389.4892883300781,
+        660.6559448242188,
+        518.7015991210938,
+        669.9705810546875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 6.518673896789551,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        683.0415649414062,
+        526.5006103515625,
+        693.7965087890625
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        693.841552734375,
+        519.183349609375,
+        704.5964965820312
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        707.4602661132812,
+        230.8838653564453,
+        718.2310791015625
+      ],
+      "text": "a  Studies are sorted by assay and author.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 13",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

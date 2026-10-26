@@ -1,0 +1,546 @@
+{
+  "file": "module2",
+  "page": 15,
+  "blocks": [
+    {
+      "bbox": [
+        77.91929626464844,
+        74.42979431152344,
+        288.5901794433594,
+        88.93879699707031
+      ],
+      "text": "Screening for TB in targeted populations",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        96.30841827392578,
+        503.9646301269531,
+        110.75141906738281
+      ],
+      "text": "6 Current and former workers in workplaces with silica exposure should be systematically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        108.30841827392578,
+        212.22142028808594,
+        122.75141906738281
+      ],
+      "text": "screened for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        121.76643371582031,
+        456.5772705078125,
+        139.00343322753906
+      ],
+      "text": "existing recommendation: strong recommendation, low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        146.1750030517578,
+        511.4435729980469,
+        160.6179962158203
+      ],
+      "text": "7 In settings where the TB prevalence in the general population is 100/100 000 population",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        158.1750030517578,
+        504.3726501464844,
+        172.6179962158203
+      ],
+      "text": "or higher, systematic screening for TB disease may be conducted among people with a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        170.1750030517578,
+        461.6156921386719,
+        184.6179962158203
+      ],
+      "text": "risk factor for TB who are either seeking health care or who are already in care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        183.6328887939453,
+        499.5728759765625,
+        200.86988830566406
+      ],
+      "text": "existing recommendation: conditional recommendation, very low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        208.04164123535156,
+        481.75115966796875,
+        222.48463439941406
+      ],
+      "text": "8 People with an untreated fibrotic lesion seen on chest X-ray may be systematically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        220.04164123535156,
+        212.22142028808594,
+        234.48463439941406
+      ],
+      "text": "screened for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        233.49952697753906,
+        499.5728759765625,
+        250.7365264892578
+      ],
+      "text": "existing recommendation: conditional recommendation, very low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        258.73681640625,
+        210.65847778320312,
+        273.24578857421875
+      ],
+      "text": "Tools for screening for TB",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        281.7081298828125,
+        486.5704345703125,
+        296.1511535644531
+      ],
+      "text": "9 Among individuals aged 15 years and older in populations in which TB screening is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        293.7081298828125,
+        511.85491943359375,
+        308.1511535644531
+      ],
+      "text": "recommended, systematic screening for TB disease may be conducted using a symptom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        305.7081298828125,
+        509.6735534667969,
+        320.1511535644531
+      ],
+      "text": "screen, chest X-ray or molecular WHO-recommended rapid diagnostic tests, alone or in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        317.7081298828125,
+        161.37831115722656,
+        332.1511535644531
+      ],
+      "text": "combination",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        331.1661376953125,
+        497.1116943359375,
+        348.40313720703125
+      ],
+      "text": "new recommendation: conditional recommendation, very low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        343.1661376953125,
+        168.06900024414062,
+        360.40313720703125
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        367.57470703125,
+        486.5704345703125,
+        382.0177307128906
+      ],
+      "text": "10 Among individuals aged 15 years and older in populations in which TB screening is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        379.57470703125,
+        515.2901000976562,
+        394.0177307128906
+      ],
+      "text": "recommended, computer-aided detection software programmes may be used in place of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        391.57470703125,
+        514.4773559570312,
+        406.0177307128906
+      ],
+      "text": "human readers for interpreting digital chest X-rays for screening and triage for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        405.03271484375,
+        462.4256591796875,
+        422.2146911621094
+      ],
+      "text": "(new recommendation: conditional recommendation, low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        429.4413146972656,
+        515.4266357421875,
+        443.88433837890625
+      ],
+      "text": "11 Among adults and adolescents living with HIV, systematic screening for TB disease should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        441.4413146972656,
+        519.3348388671875,
+        455.88433837890625
+      ],
+      "text": "be conducted using the WHO-recommended four symptom screen and those who report",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        453.4413146972656,
+        506.0315246582031,
+        467.88433837890625
+      ],
+      "text": "any one of the symptoms of current cough, fever, weight loss or night sweats may have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        465.4413146972656,
+        351.2383728027344,
+        479.88433837890625
+      ],
+      "text": "TB and should be evaluated for TB and other diseases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        478.89923095703125,
+        484.7002868652344,
+        496.13623046875
+      ],
+      "text": "existing recommendation: strong recommendation, moderate certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        503.307861328125,
+        483.2780456542969,
+        517.7508544921875
+      ],
+      "text": "12 Among adults and adolescents living with HIV, C-reactive protein using a cut-off of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        515.307861328125,
+        315.1363525390625,
+        529.7508544921875
+      ],
+      "text": ">5mg/L may be used to screen for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        528.7658081054688,
+        475.0357971191406,
+        546.0028076171875
+      ],
+      "text": "new recommendation: conditional recommendation, low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        540.7658081054688,
+        168.06900024414062,
+        558.0028076171875
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        565.1744384765625,
+        509.78363037109375,
+        579.617431640625
+      ],
+      "text": "13 Among adults and adolescents living with HIV, chest X-ray may be used to screen for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        577.1744384765625,
+        137.46429443359375,
+        591.617431640625
+      ],
+      "text": "disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        590.6323852539062,
+        503.15948486328125,
+        607.869384765625
+      ],
+      "text": "new recommendation: conditional recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        602.6323852539062,
+        168.06900024414062,
+        619.869384765625
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        627.0408935546875,
+        492.95355224609375,
+        641.48388671875
+      ],
+      "text": "14 Among adults and adolescents living with HIV, molecular WHO-recommended rapid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        639.0408935546875,
+        348.4366760253906,
+        653.48388671875
+      ],
+      "text": "diagnostic tests may be used to screen for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        652.4989013671875,
+        503.15948486328125,
+        669.7359008789062
+      ],
+      "text": "new recommendation: conditional recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        664.4989013671875,
+        168.06900024414062,
+        681.7359008789062
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.47460174560547,
+        688.907470703125,
+        488.49749755859375,
+        703.3504638671875
+      ],
+      "text": "15 Adult and adolescent inpatients with HIV in medical wards where the TB prevalence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        700.907470703125,
+        466.71636962890625,
+        715.3504638671875
+      ],
+      "text": "is > 10% should be tested systematically for TB disease with a molecular WHO-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        712.9075317382812,
+        267.1664733886719,
+        727.3505249023438
+      ],
+      "text": "recommended rapid diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        726.365478515625,
+        482.2385559082031,
+        743.6024780273438
+      ],
+      "text": "new recommendation: strong recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        738.365478515625,
+        168.06900024414062,
+        755.6024780273438
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        460.0578918457031,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "Executive summary 3",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

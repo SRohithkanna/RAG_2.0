@@ -1,0 +1,414 @@
+{
+  "file": "module1",
+  "page": 208,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "190",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        624.8394165039062,
+        127.20809936523438,
+        679.5685424804688,
+        138.7281036376953
+      ],
+      "text": "259 fewer per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        504.42144775390625,
+        138.20806884765625,
+        663.3870239257812,
+        149.7281036376953
+      ],
+      "text": "1000\n 53/164  RR 0.198",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.81300354003906,
+        143.70803833007812,
+        773.2053833007812,
+        155.2281036376953
+      ],
+      "text": "Moderate  Critical 1  RCT  Serious Not serious  Not serious Not serious  None  21/328 (6.4%)  b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        502.870849609375,
+        149.20803833007812,
+        671.559326171875,
+        160.7280731201172
+      ],
+      "text": "(from 221  (32.3%)  (0.124–0.317)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        625.79248046875,
+        160.2080078125,
+        678.6152954101562,
+        171.72801208496094
+      ],
+      "text": "to 283 fewer)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        175.39898681640625,
+        118.27877807617188,
+        187.0179901123047
+      ],
+      "text": "Hepatotoxicity",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        624.85009765625,
+        190.60791015625,
+        679.5576782226562,
+        202.12791442871094
+      ],
+      "text": "265 fewer per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        153.16946411132812,
+        201.60787963867188,
+        663.3869018554688,
+        213.12791442871094
+      ],
+      "text": "1000\n Not  46/164  RR 0.054",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.81300354003906,
+        207.10784912109375,
+        773.2052612304688,
+        218.62791442871094
+      ],
+      "text": "High  Critical 1  RCT  Not serious  Not serious  Not serious  None  5/328 (1.5%)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.29132080078125,
+        212.60784912109375,
+        672.3353881835938,
+        224.1278839111328
+      ],
+      "text": "(from 243  serious (28.0%)  (0.022–0.134)  c",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        625.9715576171875,
+        223.60781860351562,
+        678.4362182617188,
+        235.12782287597656
+      ],
+      "text": "to 274 fewer)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69300079345703,
+        238.79879760742188,
+        130.6356201171875,
+        250.4178009033203
+      ],
+      "text": "Drug-resistant TB",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        629.4775390625,
+        254.00772094726562,
+        674.9303588867188,
+        265.5277099609375
+      ],
+      "text": "0 fewer per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        567.5223999023438,
+        259.5077209472656,
+        604.3662109375,
+        271.0277099609375
+      ],
+      "text": "RR 1.000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        153.16957092285156,
+        265.0076599121094,
+        663.386962890625,
+        276.5276794433594
+      ],
+      "text": "Very  Not  1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.81300354003906,
+        270.5076599121094,
+        778.8330078125,
+        282.0276794433594
+      ],
+      "text": "Not serious  Not serious  Low  Important 1  RCT  None  2/328 (0.6%)  1/164 (0.6%)  (0.091–",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        146.5596160888672,
+        276.00762939453125,
+        679.1698608398438,
+        287.52764892578125
+      ],
+      "text": "serious serious  (from 6 fewer  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        569.9959106445312,
+        281.5076599121094,
+        601.8947143554688,
+        293.02764892578125
+      ],
+      "text": "10.948)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        629.6994018554688,
+        287.00762939453125,
+        674.7101440429688,
+        298.5276184082031
+      ],
+      "text": "to 61 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69309997558594,
+        302.1986083984375,
+        123.26470947265625,
+        313.817626953125
+      ],
+      "text": "Completion rate",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        625.3619995117188,
+        317.4074401855469,
+        679.0460815429688,
+        328.92742919921875
+      ],
+      "text": "354 more per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        153.16958618164062,
+        328.40740966796875,
+        663.3871459960938,
+        339.9273986816406
+      ],
+      "text": "Not  314/328  99/164  RR 1.586\n 1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.81310272216797,
+        333.9073791503906,
+        773.2056274414062,
+        345.4273986816406
+      ],
+      "text": "1  RCT  Not serious  Not serious  Not serious  None  High  Critical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        146.55972290039062,
+        339.4073791503906,
+        677.638916015625,
+        350.9273681640625
+      ],
+      "text": "serious  (95.7%)  (60.4%)  (1.398–1.799)  (from 240 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        630.7898559570312,
+        350.4073791503906,
+        673.618896484375,
+        361.9273681640625
+      ],
+      "text": "482 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.693199157714844,
+        372.1753845214844,
+        114.53019714355469,
+        381.775390625
+      ],
+      "text": "From reference  72",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.693199157714844,
+        378.1753845214844,
+        359.9490661621094,
+        390.775390625
+      ],
+      "text": "95% CIs of both relative and absolute effect indicate appreciable benefit and harm with 3HP. a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.693199157714844,
+        387.1753845214844,
+        365.30328369140625,
+        399.775390625
+      ],
+      "text": "The trial was open-label, which may have introduced bias in ascertainment of adverse events.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.693199157714844,
+        396.1753845214844,
+        607.6917114257812,
+        408.775390625
+      ],
+      "text": "Although the trial was open-label, this is unlikely to affect detection of hepatotoxicity, which is usually done by objective measurement (i.e. blood tests). Not downgraded.  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.693199157714844,
+        408.1753845214844,
+        637.306640625,
+        417.775390625
+      ],
+      "text": "Very low event rates. The upper limits of 95% CIs of both relative and absolute effect indicate appreciable harm with 3-month weekly RPT and isoniazid. Downgraded by two levels. d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

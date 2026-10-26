@@ -1,0 +1,858 @@
+{
+  "file": "module6",
+  "page": 32,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.32479858398438,
+        202.1728973388672,
+        87.50979614257812
+      ],
+      "text": "2.2\t TB diagnosis",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        96.16910552978516,
+        210.62709045410156,
+        111.99710845947266
+      ],
+      "text": "WHO recommendations",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        121.78783416748047,
+        271.9764099121094,
+        134.9778289794922
+      ],
+      "text": "Diagnosis of TB in people living with HIV",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        139.48773193359375,
+        420.2851867675781,
+        152.0182342529297
+      ],
+      "text": "WHO standard on the use of molecular WHO-approved rapid diagnostic tests",
+      "font": "SegoeUI-Bold",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        153.95028686523438,
+        81.44969940185547,
+        166.4237823486328
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        153.95028686523438,
+        514.7799072265625,
+        166.4237823486328
+      ],
+      "text": "All individuals with TB have access to a WHO-recommended rapid diagnostic (WRD ) as the initial diagnostic  a",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        165.35031127929688,
+        117.21770477294922,
+        177.8238067626953
+      ],
+      "text": "test.  (26)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        179.58493041992188,
+        81.44969940185547,
+        192.0584259033203
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        179.58493041992188,
+        506.9497985839844,
+        192.0584259033203
+      ],
+      "text": "In all facilities in all districts, the TB diagnostic algorithm requires use of a WRD  as the initial diagnostic test  a",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        190.98489379882812,
+        491.4729309082031,
+        203.45838928222656
+      ],
+      "text": "for all patients with presumed TB, including children, people living with HIV (combined with lateral flow",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        202.38504028320312,
+        317.80780029296875,
+        214.85853576660156
+      ],
+      "text": "lipoarabinomannan [LF-LAM]) and extrapulmonary TB.  (26)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        216.26272583007812,
+        422.034423828125,
+        226.8896026611328
+      ],
+      "text": "a  In the source document the term “WRD” refers to molecular WHO-recommended rapid diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        230.97564697265625,
+        470.1773986816406,
+        244.16563415527344
+      ],
+      "text": "Use of molecular WHO-approved rapid diagnostic tests in blood in the diagnosis of",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        242.97564697265625,
+        156.70240783691406,
+        256.1656494140625
+      ],
+      "text": "disseminated TB",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        260.2917175292969,
+        518.9293823242188,
+        272.7652282714844
+      ],
+      "text": "8. In HIV-positive adults and children with signs and symptoms of disseminated TB, Xpert MTB/RIF may be used",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        271.6917419433594,
+        508.49774169921875,
+        284.1652526855469
+      ],
+      "text": "in blood, as an initial diagnostic test for disseminated TB  (conditional recommendation, very low certainty of",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        283.1202087402344,
+        138.71609497070312,
+        295.3941955566406
+      ],
+      "text": "evidence). (14)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        294.4917297363281,
+        110.80470275878906,
+        306.9652404785156
+      ],
+      "text": "Remarks:",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        305.8916931152344,
+        520.1882934570312,
+        318.3652038574219
+      ],
+      "text": "Blood was only evaluated in people living with HIV and under particular processing specifications  , using third- (9)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        317.2917175292969,
+        522.7539672851562,
+        329.7652282714844
+      ],
+      "text": "generation Xpert MTB/RIF cartridges, based on one study with a small number of participants. The recommendation",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        328.69171142578125,
+        522.7731323242188,
+        341.16522216796875
+      ],
+      "text": "applies only to a particular population (HIV-positive adults with signs and symptoms of disseminated TB). The",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        340.0917053222656,
+        450.13128662109375,
+        352.5652160644531
+      ],
+      "text": "GDG did not feel comfortable extrapolating this recommendation to other patient populations.",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        356.859619140625,
+        369.16845703125,
+        370.04962158203125
+      ],
+      "text": "Use of LF-LAM in the diagnosis of TB in people living with HIV",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        374.55950927734375,
+        164.634521484375,
+        387.0899963378906
+      ],
+      "text": "In inpatient settings",
+      "font": "SegoeUI-Bold",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        386.1875305175781,
+        499.4308776855469,
+        398.6610412597656
+      ],
+      "text": "9. WHO strongly recommends using LF-LAM to assist in the diagnosis of active TB in HIV-positive adults,",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        397.5875244140625,
+        186.32919311523438,
+        410.06103515625
+      ],
+      "text": "adolescents and children:",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        411.8221130371094,
+        81.44969940185547,
+        424.2956237792969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        411.8221130371094,
+        496.4420166015625,
+        424.2956237792969
+      ],
+      "text": "with signs and symptoms of TB (pulmonary and/or extrapulmonary)  (strong recommendation, moderate",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        423.22210693359375,
+        313.0068054199219,
+        435.69561767578125
+      ],
+      "text": "; or  certainty in the evidence about the intervention effects)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        437.4568176269531,
+        81.44969940185547,
+        449.9303283691406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        437.4568176269531,
+        521.0714721679688,
+        449.9303283691406
+      ],
+      "text": "with advanced HIV disease or who are seriously ill  (strong recommendation, moderate certainty in the evidence",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        448.8568115234375,
+        213.22817993164062,
+        461.330322265625
+      ],
+      "text": "; or about the intervention effects)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        463.0914001464844,
+        81.44969940185547,
+        475.5649108886719
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        463.0914001464844,
+        487.5474548339844,
+        475.5649108886719
+      ],
+      "text": "irrespective of signs and symptoms of TB and with a CD4 cell count of less than 200 cells/mm (strong  3",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        474.5199279785156,
+        427.51519775390625,
+        486.7939147949219
+      ],
+      "text": "recommendation, moderate certainty in the evidence about the intervention effects). (14)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        489.1167297363281,
+        171.43936157226562,
+        501.647216796875
+      ],
+      "text": "In outpatient settings",
+      "font": "SegoeUI-Bold",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        500.7447204589844,
+        519.5762329101562,
+        513.2182006835938
+      ],
+      "text": "10. WHO suggests using LF-LAM to assist in the diagnosis of active TB in HIV-positive adults, adolescents and",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        512.1447143554688,
+        119.64395904541016,
+        524.6182250976562
+      ],
+      "text": "children:",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        526.3792724609375,
+        81.44969940185547,
+        538.852783203125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        526.3792724609375,
+        459.0920104980469,
+        538.852783203125
+      ],
+      "text": "with signs and symptoms of TB (pulmonary and/or extrapulmonary) or seriously ill  (conditional",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        537.779296875,
+        369.0442810058594,
+        550.2528076171875
+      ],
+      "text": "; and  recommendation, low certainty in the evidence about test accuracy)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        552.0139770507812,
+        81.44969940185547,
+        564.4874877929688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        552.0139770507812,
+        505.6136169433594,
+        564.4874877929688
+      ],
+      "text": "irrespective of signs and symptoms of TB and with a CD4 cell count of less than 100 cells/mm (conditional  3",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        563.4140014648438,
+        384.5285949707031,
+        575.8875122070312
+      ],
+      "text": ".  recommendation, very low certainty in the evidence about test accuracy) (14)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        579.62158203125,
+        171.43936157226562,
+        592.152099609375
+      ],
+      "text": "In outpatient settings",
+      "font": "SegoeUI-Bold",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        591.2495727539062,
+        501.13330078125,
+        603.7230834960938
+      ],
+      "text": "11. WHO recommends against using LF-LAM to assist in the diagnosis of active TB in HIV-positive adults,",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        602.6495971679688,
+        186.32919311523438,
+        615.1231079101562
+      ],
+      "text": "adolescents and children:",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        616.8842163085938,
+        81.35469818115234,
+        629.3577270507812
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.35469818115234,
+        616.8842163085938,
+        517.3206176757812,
+        629.3577270507812
+      ],
+      "text": "without assessing TB symptoms  ;  (strong recommendation, very low certainty in the evidence about test accuracy)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        631.118896484375,
+        81.44969940185547,
+        643.5924072265625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        631.118896484375,
+        517.48486328125,
+        643.5924072265625
+      ],
+      "text": "without TB symptoms and unknown CD4 cell count or without TB symptoms and CD4 cell count greater than",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        642.518798828125,
+        520.1578979492188,
+        654.9923095703125
+      ],
+      "text": "or equal to 200 cells/mm ; and (strong recommendation, very low certainty in the evidence about test accuracy) 3",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        656.7534790039062,
+        81.44969940185547,
+        669.2269897460938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.44969940185547,
+        656.7534790039062,
+        518.439208984375,
+        669.2269897460938
+      ],
+      "text": "without TB symptoms and with a CD4 cell count of 100–200 cells/mm (conditional recommendation, very low  3",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        668.1535034179688,
+        278.3030090332031,
+        680.6270141601562
+      ],
+      "text": ".  certainty in the evidence about test accuracy) (14)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        684.905029296875,
+        105.15769958496094,
+        696.0655517578125
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        105.15840148925781,
+        684.905029296875,
+        107.04540252685547,
+        696.0655517578125
+      ],
+      "text": ":",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        697.2396850585938,
+        503.5994873046875,
+        708.4002075195312
+      ],
+      "text": "1.\tThe reviewed evidence and recommendations apply to the use of AlereLAM only, because other in-house LAM-based",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        706.7396850585938,
+        520.6348876953125,
+        717.9002075195312
+      ],
+      "text": "assays have not been adequately validated or used outside limited research settings. Any new or generic LAM-based assay",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        716.2396850585938,
+        341.1683654785156,
+        727.4002075195312
+      ],
+      "text": "should be subject to adequate validation in the settings of intended use.",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        725.7396850585938,
+        511.3514709472656,
+        736.9002075195312
+      ],
+      "text": "2.\tAll patients with signs and symptoms of pulmonary TB who are capable of producing sputum should submit at least one",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        735.2396850585938,
+        518.7528076171875,
+        746.4002075195312
+      ],
+      "text": "sputum specimen for Xpert MTB/RIF (Ultra) assay, as their initial diagnostic test. This also includes children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        744.7396850585938,
+        288.2940673828125,
+        755.9002075195312
+      ],
+      "text": "living with HIV who are able to provide a sputum sample.",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        754.2396850585938,
+        498.1526184082031,
+        765.4002075195312
+      ],
+      "text": "3.\tThese recommendations also apply to adolescents and children living with HIV, based on generalization of data from",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        763.7396850585938,
+        400.2297668457031,
+        774.9002075195312
+      ],
+      "text": "adults, while acknowledging that there are very limited data for these population groups.",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        773.2396850585938,
+        503.43194580078125,
+        784.4002075195312
+      ],
+      "text": "4.\tLF-LAM should be used as an add-on to clinical judgement in combination with other tests; it should not be used as a",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        782.7396850585938,
+        177.0469207763672,
+        793.9002075195312
+      ],
+      "text": "replacement or triage test.",
+      "font": "SegoeUI-Light",
+      "size": 8.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "14",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "file": "Latent",
+  "page": 42,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        371.0941162109375,
+        82.56494140625
+      ],
+      "text": "7.\t Issues in implementation",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.309814453125,
+        225.42831420898438,
+        184.0928192138672
+      ],
+      "text": "7.1\t Ethical considerations",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.02813720703125,
+        526.6572265625,
+        202.828125
+      ],
+      "text": "LTBI testing and treatment raise a range of ethical issues  . First, LTBI is by definition an asymptomatic  (73, 74)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        204.02813720703125,
+        526.6502075195312,
+        216.828125
+      ],
+      "text": "state. This alters the ethical obligations that would be imposed by active TB. For example, the absence of an",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        218.02813720703125,
+        526.7211303710938,
+        230.828125
+      ],
+      "text": "immediate risk of transmission makes it unethical to restrict migration on the basis of the LTBI status of an",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        232.02813720703125,
+        526.607177734375,
+        244.828125
+      ],
+      "text": "individual. Secondly, the difficulty of accurate assessment of individual risk for the development of active TB",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        246.02813720703125,
+        526.6961059570312,
+        258.828125
+      ],
+      "text": "poses a challenge to communication. Informed consent requires effective, adequate communication of the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        260.02813720703125,
+        526.6201782226562,
+        272.828125
+      ],
+      "text": "uncertainty in LTBI testing, the risk for development of active TB, possible side-effects of treatment and the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        274.02813720703125,
+        526.626220703125,
+        286.828125
+      ],
+      "text": "protective benefits. Risk and uncertainty must be communicated in culturally and linguistically appropriate",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        288.02813720703125,
+        526.6593017578125,
+        300.828125
+      ],
+      "text": "forms and feedback obtained after screening programmes. Thirdly, LTBI disproportionately affects individuals",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        302.02813720703125,
+        526.6563720703125,
+        314.828125
+      ],
+      "text": "and groups that are already socially and medically vulnerable. Therefore, efforts must be made to ensure equity",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        316.02813720703125,
+        526.623046875,
+        328.828125
+      ],
+      "text": "and human rights, so that the vulnerability of target groups does not preclude their access to screening and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        330.02813720703125,
+        526.6851196289062,
+        342.828125
+      ],
+      "text": "treatment. Any intervention for vulnerable groups should include minimization of the risk for stigmatization.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        344.02813720703125,
+        526.67529296875,
+        356.828125
+      ],
+      "text": "Policies should be evaluated from an ethical perspective after implementation, both to consider possible",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8560791015625,
+        358.02813720703125,
+        524.3960571289062,
+        370.828125
+      ],
+      "text": "unexpected effects and to ensure that the evidence on which they are based remains current and relevant  . (75)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.98699951171875,
+        393.8822021484375,
+        402.77001953125
+      ],
+      "text": "7.2\t Programme management, monitoring and evaluation",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.7052307128906,
+        526.6362915039062,
+        421.5052185058594
+      ],
+      "text": "National programmes should prepare a national plan for programmatic LTBI management, including",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.7052307128906,
+        526.6433715820312,
+        435.5052185058594
+      ],
+      "text": "prioritization of groups at high risk on the basis of local epidemiology and the characteristics of the health system.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.7052307128906,
+        526.658447265625,
+        449.5052185058594
+      ],
+      "text": "They should create a conducive policy and programmatic environment, including national and local policies",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.7052307128906,
+        526.6660766601562,
+        463.5052185058594
+      ],
+      "text": "and standard operating procedures to facilitate implementation of the recommendations in these guidelines.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.7052307128906,
+        526.6714477539062,
+        477.5052185058594
+      ],
+      "text": "This should include promoting universal health coverage and offering public financing for LTBI management.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.7052307128906,
+        526.6663818359375,
+        491.5052185058594
+      ],
+      "text": "Furthermore, dedicated resources should be allocated, including for human resource development and service",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.7052307128906,
+        526.6782836914062,
+        505.5052185058594
+      ],
+      "text": "delivery in the community. National TB programmes should ensure meaningful engagement with affected",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.7052001953125,
+        526.6612548828125,
+        519.5051879882812
+      ],
+      "text": "populations, their communities, the private sector, other relevant health programmes and line ministries in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.7052001953125,
+        526.7155151367188,
+        533.5051879882812
+      ],
+      "text": "both planning and implementing the interventions. The national TB programme is also encouraged to ensure",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.7052001953125,
+        526.6812744140625,
+        547.5051879882812
+      ],
+      "text": "access to comprehensive care for co-existing risk factors for TB, such as diabetes, undernutrition and tobacco",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.7052001953125,
+        110.69811248779297,
+        561.5051879882812
+      ],
+      "text": "smoking.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.375244140625,
+        526.7153930664062,
+        581.1752319335938
+      ],
+      "text": "Preventive TB treatment for people living with HIV should be a core component of HIV preventive care and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        582.375244140625,
+        526.7201538085938,
+        595.1752319335938
+      ],
+      "text": "should be the responsibility of national AIDS programmes and HIV service providers. Preventive treatment",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.375244140625,
+        505.0434265136719,
+        609.1752319335938
+      ],
+      "text": "should not be viewed as an isolated intervention but should be part of a comprehensive package of care.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.0452270507812,
+        526.7191772460938,
+        628.84521484375
+      ],
+      "text": "Coverage of contact investigation and treatment of LTBI among child contacts and people living with HIV",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.0452270507812,
+        526.6481323242188,
+        642.84521484375
+      ],
+      "text": "are among the top 10 core indicators for monitoring implementation of the End TB Strategy. Programmatic",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.0452270507812,
+        526.6710815429688,
+        656.84521484375
+      ],
+      "text": "management of LTBI should include monitoring and evaluation systems that are aligned with national patient",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.0452270507812,
+        526.7044067382812,
+        670.84521484375
+      ],
+      "text": "monitoring and surveillance systems  . Appropriate recording and reporting tools should be developed, and  (76)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.96609497070312,
+        671.9852294921875,
+        209.28909301757812,
+        684.9152221679688
+      ],
+      "text": "Table 3",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        672.0452270507812,
+        526.6961669921875,
+        684.84521484375
+      ],
+      "text": "standardized indicators ( ) should be measured to regularly inform decision-making for programme",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        686.0452270507812,
+        526.696044921875,
+        698.84521484375
+      ],
+      "text": "implementation. Some may require changes to national legislation (e.g. making LTBI a notifiable condition)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        700.0452270507812,
+        526.6661987304688,
+        712.84521484375
+      ],
+      "text": "and to the policy framework, which should be addressed according to the local and national context. It is",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        714.0452270507812,
+        526.6473388671875,
+        726.84521484375
+      ],
+      "text": "important to engage the private health sector and to ensure proper recording and reporting from both the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        728.0452270507812,
+        526.670166015625,
+        740.84521484375
+      ],
+      "text": "private and public sectors. Use of electronic case-based monitoring will facilitate recording and reporting for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        742.0452270507812,
+        151.0341033935547,
+        754.84521484375
+      ],
+      "text": "LTBI management.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.4452018737793,
+        790.2608032226562,
+        56.693206787109375,
+        810.61279296875
+      ],
+      "text": "30",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

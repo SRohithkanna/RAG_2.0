@@ -1,0 +1,414 @@
+{
+  "file": "module3",
+  "page": 165,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        110.85870361328125,
+        348.8629150390625,
+        149.09869384765625
+      ],
+      "text": "Annex 1. Guideline",
+      "font": "FrutigerNeueLT-Bk",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.25872802734375,
+        396.4244689941406,
+        187.49871826171875
+      ],
+      "text": "development methods",
+      "font": "FrutigerNeueLT-Bk",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.0064239501953,
+        488.4845275878906,
+        242.3864288330078
+      ],
+      "text": "Methods used to develop World Health Organization guidelines",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.6373291015625,
+        527.0140380859375,
+        265.7823486328125
+      ],
+      "text": "To develop new or update existing guidelines for methods and tools to diagnose tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        268.1373291015625,
+        527.0187377929688,
+        281.2823486328125
+      ],
+      "text": "(TB), the World Health Organization (WHO) Global TB Programme commissions systematic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.6373291015625,
+        527.0350341796875,
+        296.7823486328125
+      ],
+      "text": "reviews on the performance or use of the tool or method in question. A systematic review",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.1373291015625,
+        527.0030517578125,
+        312.2823486328125
+      ],
+      "text": "provides a summary of the current literature on diagnostic accuracy or user aspects, for the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.6373291015625,
+        527.0029907226562,
+        327.7823486328125
+      ],
+      "text": "diagnosis of TB or the detection of anti-TB drug resistance in adults or children (or both) with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.1372985839844,
+        200.13681030273438,
+        343.2823181152344
+      ],
+      "text": "signs and symptoms of TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.14129638671875,
+        526.8053588867188,
+        367.28631591796875
+      ],
+      "text": "The certainty of the evidence is assessed consistently for documented evidence using the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        369.64129638671875,
+        526.9810180664062,
+        382.78631591796875
+      ],
+      "text": "Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.14129638671875,
+        526.991943359375,
+        398.28631591796875
+      ],
+      "text": "GRADE produces an overall quality assessment (or certainty) of evidence and a framework",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.64129638671875,
+        526.8272094726562,
+        413.78631591796875
+      ],
+      "text": "for translating evidence into recommendations. The certainty of the evidence is rated as",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.14129638671875,
+        526.9633178710938,
+        429.28631591796875
+      ],
+      "text": "high, moderate, low or very low. These four categories imply a gradient of confidence in the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.64129638671875,
+        526.966796875,
+        444.78631591796875
+      ],
+      "text": "estimates. Even if a diagnostic accuracy study is of observational design, it would initially be",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.14129638671875,
+        369.5661926269531,
+        460.28631591796875
+      ],
+      "text": "considered high-quality evidence in the GRADE approach  . (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.14520263671875,
+        527.276611328125,
+        484.29022216796875
+      ],
+      "text": "In addition, the WHO Global TB Programme commissions systematic reviews to collect evidence",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.958069801330566,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.64520263671875,
+        526.9656372070312,
+        499.79022216796875
+      ],
+      "text": "in the field of resource use (i.e. cost and cost–effectiveness), as well as end-user perspectives",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.14520263671875,
+        526.93701171875,
+        515.2902221679688
+      ],
+      "text": "on particular diagnostic tests or interventions. This evidence-to-recommendation process will",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.6452026367188,
+        437.6554870605469,
+        530.7902221679688
+      ],
+      "text": "inform domains such as feasibility, accessibility, equity and end-user values.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.6491088867188,
+        527.0093994140625,
+        554.7941284179688
+      ],
+      "text": "If systematic review evidence is unavailable or is scarce, the potential subsequent effects can be",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972616195678711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.1491088867188,
+        526.9656982421875,
+        570.2941284179688
+      ],
+      "text": "modelled for both diagnostic accuracy as well as cost and cost–effectiveness. For instance, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.6491088867188,
+        526.9700927734375,
+        585.7941284179688
+      ],
+      "text": "prevalence of the disease in question, combined with the sensitivity and specificity of a certain",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996099472045898,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.1491088867188,
+        527.1935424804688,
+        601.2941284179688
+      ],
+      "text": "test, can be used to estimate the number of false positives and false negatives in a population.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99804973602295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.6491088867188,
+        526.969970703125,
+        616.7941284179688
+      ],
+      "text": "Similarly, data on expenditures and cost–effectiveness ratios can be estimated and modelled,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.1491088867188,
+        526.936767578125,
+        632.2941284179688
+      ],
+      "text": "based on economical and epidemiological data. Finally, qualitative evidence on the end-user",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.6491088867188,
+        527.0029296875,
+        647.7941284179688
+      ],
+      "text": "perspective of using a particular test may be generated through end-user interviews if data",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.1491088867188,
+        225.73287963867188,
+        663.2941284179688
+      ],
+      "text": "are scarce in the public domain.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.153076171875,
+        526.8932495117188,
+        687.298095703125
+      ],
+      "text": "Following a systematic review, the WHO Global TB Programme convenes a Guideline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.653076171875,
+        526.991943359375,
+        702.798095703125
+      ],
+      "text": "Development Group (GDG) meeting to review the collected evidence. The GDG is made up of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.153076171875,
+        527.2506713867188,
+        718.298095703125
+      ],
+      "text": "external experts whose central task is to develop evidence-based recommendations. The GDG",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997550010681152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.653076171875,
+        526.9633178710938,
+        733.798095703125
+      ],
+      "text": "also performs the important task of finalizing the scope and key questions of the guideline in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.153076171875,
+        415.2485656738281,
+        749.298095703125
+      ],
+      "text": "PICO (i.e. population, intervention, comparator and outcomes) format.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        543.0333862304688,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "149",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

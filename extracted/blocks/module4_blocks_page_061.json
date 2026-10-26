@@ -1,0 +1,414 @@
+{
+  "file": "module4",
+  "page": 61,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        337.9189453125,
+        147.5496368408203
+      ],
+      "text": "Recommendations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.64593505859375,
+        491.1309814453125,
+        212.44093322753906
+      ],
+      "text": "1. Treatment of drug-resistant TB using 6-month",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.4459228515625,
+        150.30128479003906,
+        235.2409210205078
+      ],
+      "text": "regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.78114318847656,
+        512.57177734375,
+        267.6611328125
+      ],
+      "text": "Recommendation 1.1 The 6-month bedaquiline, pretomanid,",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.7811279296875,
+        391.37969970703125,
+        286.6611328125
+      ],
+      "text": "linezolid and moxifloxacin (BPaLM) regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        298.36651611328125,
+        203.97349548339844,
+        312.72149658203125
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        319.9811096191406,
+        495.4471740722656,
+        334.53411865234375
+      ],
+      "text": "1.1 WHO suggests the use of a 6-month treatment regimen composed of bedaquiline,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        332.0910949707031,
+        504.78070068359375,
+        346.53411865234375
+      ],
+      "text": "pretomanid, linezolid (600 mg) and moxifloxacin (BPaLM) rather than the 9-month or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        344.0910949707031,
+        356.4852600097656,
+        358.53411865234375
+      ],
+      "text": "longer (18-month) regimens in MDR/RR-TB patients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        359.0670166015625,
+        389.42132568359375,
+        374.73101806640625
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.4635314941406,
+        119.47928619384766,
+        407.3155212402344
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.5234069824219,
+        524.5437622070312,
+        428.9664306640625
+      ],
+      "text": "1.\t  Drug susceptibility testing (DST) for fluoroquinolones is strongly encouraged in people with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        427.7234191894531,
+        527.4183349609375,
+        442.16644287109375
+      ],
+      "text": "RR-TB, and although it should not delay initiation of the BPaLM, results of the test should guide",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        440.92340087890625,
+        527.4317016601562,
+        455.3664245605469
+      ],
+      "text": "the decision on whether moxifloxacin can be retained or should be dropped from the regimen –",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        454.1234130859375,
+        527.5908203125,
+        468.5664367675781
+      ],
+      "text": "in cases of documented resistance to fluoroquinolones, BPaL without moxifloxacin would be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        467.3233947753906,
+        187.41708374023438,
+        481.76641845703125
+      ],
+      "text": "initiated or continued.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.775390625,
+        298.9967041015625,
+        499.2184143066406
+      ],
+      "text": "2.\t This recommendation applies to the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        502.227294921875,
+        527.541259765625,
+        516.6702880859375
+      ],
+      "text": "a)\t  People with MDR/RR-TB or with MDR/RR-TB and resistance to fluoroquinolones (pre-XDR-TB).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        519.6793212890625,
+        527.4507446289062,
+        534.122314453125
+      ],
+      "text": "b)\t People with confirmed pulmonary TB and all forms of extrapulmonary TB except for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        532.8792724609375,
+        524.4076538085938,
+        547.322265625
+      ],
+      "text": "involving the CNS, osteoarticular or disseminated forms of TB with multiorgan involvement. 21",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        550.331298828125,
+        328.8546447753906,
+        564.7742919921875
+      ],
+      "text": "c)\t Adults and adolescents aged 14 years and older.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        567.783203125,
+        263.020751953125,
+        582.2261962890625
+      ],
+      "text": "d)\t All people regardless of HIV status.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        585.2352294921875,
+        527.4024658203125,
+        599.67822265625
+      ],
+      "text": "e)\t Patients with less than 1-month previous exposure to bedaquiline, linezolid, pretomanid or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        598.4351806640625,
+        527.40576171875,
+        612.878173828125
+      ],
+      "text": "delamanid. When exposure is greater than 1 month, these patients may still receive these",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        611.6351928710938,
+        502.966064453125,
+        626.0781860351562
+      ],
+      "text": "regimens if resistance to the specific medicines with such exposure has been ruled out.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.0872192382812,
+        527.4359130859375,
+        643.5302124023438
+      ],
+      "text": "3.\t This recommendation does not apply to pregnant and breastfeeding women owing to limited",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        642.2872314453125,
+        267.37139892578125,
+        656.730224609375
+      ],
+      "text": "evidence on the safety of pretomanid. 22",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.7391357421875,
+        527.368896484375,
+        674.18212890625
+      ],
+      "text": "4.\t The recommended dose of linezolid is 600 mg once daily, both for the BPaLM and the BPaL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        672.9390869140625,
+        133.77618408203125,
+        687.382080078125
+      ],
+      "text": "regimen. 23",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.1484985351562,
+        180.2205047607422,
+        740.8524780273438
+      ],
+      "text": "See subgroup considerations. 21",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.5831909179688,
+        526.5728759765625,
+        753.2871704101562
+      ],
+      "text": "Data on the use of pretomanid in pregnant women are limited. Animal studies do not indicate direct or indirect harmful effects with  22",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        752.3832397460938,
+        211.1412811279297,
+        762.88720703125
+      ],
+      "text": "respect to embryo-fetal development.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        761.6180419921875,
+        464.5126953125,
+        775.322021484375
+      ],
+      "text": "Additional details on linezolid dosing and possible dose reductions are given in the implementation considerations. 23",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        545.8001708984375,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "47",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

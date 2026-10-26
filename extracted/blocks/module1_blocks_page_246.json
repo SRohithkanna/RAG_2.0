@@ -1,0 +1,150 @@
+{
+  "file": "module1",
+  "page": 246,
+  "blocks": [
+    {
+      "bbox": [
+        70.3723373413086,
+        66.30271911621094,
+        121.6362533569336,
+        84.57271575927734
+      ],
+      "text": "Results",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        94.44132995605469,
+        141.88446044921875,
+        112.7113265991211
+      ],
+      "text": "TB CHAMP",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        124.95450592041016,
+        503.5634460449219,
+        140.78250122070312
+      ],
+      "text": "Table A5.1. Baseline characteristics of randomized child participants (N=922)",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        397.95941162109375,
+        432.1327209472656,
+        408.4634094238281
+      ],
+      "text": "Children and adolescents aged 5–17 years were required to be IGRA-positive or living with HIV to be eligible",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        411.7940368652344,
+        249.70457458496094,
+        422.29803466796875
+      ],
+      "text": "BCG, bacille Calmette-Guérin; IQR, interquartile range",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        444.4071960449219,
+        382.0129699707031,
+        460.2351989746094
+      ],
+      "text": "Table A5.2. Primary efficacy analysis – mITT population",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.212646484375,
+        304.1627197265625,
+        668.7166137695312
+      ],
+      "text": "Allowing for pre-defined ± 6–week window at study visit at 48 weeks a",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.0473022460938,
+        385.82794189453125,
+        682.55126953125
+      ],
+      "text": "Hazard ratio estimated by adjusting for site, age group and allowing for household clustering b",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        685.8818969726562,
+        180.45657348632812,
+        696.3858642578125
+      ],
+      "text": "mITT, modified intention-to-treat",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "228 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

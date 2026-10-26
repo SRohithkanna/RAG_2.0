@@ -1,0 +1,510 @@
+{
+  "file": "module2",
+  "page": 10,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        464.7381896972656,
+        147.1480255126953
+      ],
+      "text": "Abbreviations and acronyms",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.2340850830078,
+        92.88983917236328,
+        193.93658447265625
+      ],
+      "text": "ART",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        180.33908081054688,
+        252.00982666015625,
+        194.12557983398438
+      ],
+      "text": "antiretroviral treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.55299377441406,
+        94.84809875488281,
+        211.2554931640625
+      ],
+      "text": "CAD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        197.65798950195312,
+        483.56964111328125,
+        211.44448852539062
+      ],
+      "text": "computer-aided detection of TB-related abnormalities on chest radiography",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.8719024658203,
+        83.30859375,
+        228.57440185546875
+      ],
+      "text": "CI",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        214.97689819335938,
+        235.1195526123047,
+        228.76339721679688
+      ],
+      "text": "confidence interval",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.19081115722656,
+        92.94760131835938,
+        245.893310546875
+      ],
+      "text": "CRP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        232.29580688476562,
+        230.3956298828125,
+        246.08230590820312
+      ],
+      "text": "C-reactive protein",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.5097198486328,
+        93.31509399414062,
+        263.21221923828125
+      ],
+      "text": "CXR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        249.61471557617188,
+        284.07159423828125,
+        263.4012145996094
+      ],
+      "text": "chest radiograph (chest X-ray)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.8286437988281,
+        95.80255126953125,
+        280.5311279296875
+      ],
+      "text": "ERG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        266.9336242675781,
+        250.2091064453125,
+        280.7201232910156
+      ],
+      "text": "External Review Group",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.1475524902344,
+        98.80659484863281,
+        297.85003662109375
+      ],
+      "text": "GDG",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        284.2525329589844,
+        285.49755859375,
+        298.0390319824219
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.4664001464844,
+        107.6266098022461,
+        315.16888427734375
+      ],
+      "text": "GRADE",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        301.5713806152344,
+        468.46844482421875,
+        315.3578796386719
+      ],
+      "text": "Grading of Recommendations Assessment, Development and Evaluation",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.7853088378906,
+        90.44860076904297,
+        332.48779296875
+      ],
+      "text": "IPD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        318.8902893066406,
+        248.91758728027344,
+        332.6767883300781
+      ],
+      "text": "individual patient data",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.1042175292969,
+        110.53195190429688,
+        349.80670166015625
+      ],
+      "text": "LF-LAM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        336.2091979980469,
+        338.734619140625,
+        349.9956970214844
+      ],
+      "text": "lateral flow urine lipoarabinomannan assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.4231262207031,
+        107.26959228515625,
+        367.1256103515625
+      ],
+      "text": "mWRD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        353.5281066894531,
+        382.25714111328125,
+        367.3146057128906
+      ],
+      "text": "molecular WHO-recommended rapid diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.7420349121094,
+        95.57258605957031,
+        384.44451904296875
+      ],
+      "text": "NNS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        370.8470153808594,
+        476.87750244140625,
+        384.6335144042969
+      ],
+      "text": "number needed to screen (to detect one person with tuberculosis disease)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.0609436035156,
+        97.25154876708984,
+        401.763427734375
+      ],
+      "text": "PICO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        388.1659240722656,
+        434.84014892578125,
+        401.9524230957031
+      ],
+      "text": "population, intervention, comparator and outcomes (framework)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.37982177734375,
+        86.83659362792969,
+        419.0823059082031
+      ],
+      "text": "RR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        405.48480224609375,
+        200.32464599609375,
+        419.27130126953125
+      ],
+      "text": "relative risk",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.69873046875,
+        85.89159393310547,
+        436.4012145996094
+      ],
+      "text": "TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        422.8037109375,
+        203.66262817382812,
+        436.5902099609375
+      ],
+      "text": "tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.01763916015625,
+        91.47759246826172,
+        453.7201232910156
+      ],
+      "text": "TPT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        440.12261962890625,
+        256.7936706542969,
+        453.90911865234375
+      ],
+      "text": "TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.3365173339844,
+        101.14808654785156,
+        471.03900146484375
+      ],
+      "text": "W4SS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        457.4414978027344,
+        340.8776550292969,
+        471.2279968261719
+      ],
+      "text": "WHO-recommended four-symptom screen",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.6554260253906,
+        99.55209350585938,
+        488.35791015625
+      ],
+      "text": "WHO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        474.7604064941406,
+        269.43670654296875,
+        488.5469055175781
+      ],
+      "text": "World Health Organization",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.08089828491211,
+        801.0170288085938,
+        49.62489700317383,
+        811.52099609375
+      ],
+      "text": "viii",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

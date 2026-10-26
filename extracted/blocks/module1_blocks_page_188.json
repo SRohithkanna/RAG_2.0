@@ -1,0 +1,582 @@
+{
+  "file": "module1",
+  "page": 188,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "170",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        73.52651977539062,
+        621.09765625,
+        83.12651824951172
+      ],
+      "text": "Unknown cause of death censored in this analysis, which may cause bias in incidence rate difference if some of these deaths were related to TB  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        82.52651977539062,
+        228.6169891357422,
+        92.12651824951172
+      ],
+      "text": "(dependent censoring)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        91.52651977539062,
+        621.0138549804688,
+        101.12651824951172
+      ],
+      "text": "The GDG decided to downgrade by one level because of the open label design possibly leading to performance bias. The quality was not downgraded  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        100.52651977539062,
+        621.0384521484375,
+        110.12651824951172
+      ],
+      "text": "for Indirectness, but the GDG noted that the trial compared 1HP with 9H and therefore did not cover all other comparisons of the PICO, especially",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        109.52651977539062,
+        621.06689453125,
+        119.12651824951172
+      ],
+      "text": "6H, the most widespread standard of care in TPT. The GDG noted that Inconsistency could not be judged given that there was only a single trial;",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        118.52651977539062,
+        295.1031799316406,
+        128.1265106201172
+      ],
+      "text": "results from more trials would be desirable.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        127.52651977539062,
+        369.95623779296875,
+        137.1265106201172
+      ],
+      "text": "Trial conducted only in PLHIV and not all people at risk of active TB. c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        136.52651977539062,
+        488.74542236328125,
+        146.1265106201172
+      ],
+      "text": "Probable TB diagnoses and deaths with non-bacteriologically confirmed TB censored at the time of event d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        145.52651977539062,
+        621.0687255859375,
+        155.1265106201172
+      ],
+      "text": "When cause of death was determined to be unknown or not related to TB by blinded external reviewers, these were treated as a competing risk  e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        154.52651977539062,
+        461.7493591308594,
+        164.1265106201172
+      ],
+      "text": "rather than endpoint. Some of these may have actually been due to TB, which may bias estimate.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        163.52651977539062,
+        285.6568603515625,
+        173.1265106201172
+      ],
+      "text": "The proportion of events among controls f",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        172.52651977539062,
+        621.1090698242188,
+        182.1265106201172
+      ],
+      "text": "Per-protocol population consisted of all participants who completed treatment, or who had died or received a TB diagnosis while they were receiving  g",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        181.52651977539062,
+        189.1754608154297,
+        191.1265106201172
+      ],
+      "text": "treatment.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        190.52651977539062,
+        621.0700073242188,
+        200.1265106201172
+      ],
+      "text": "Deaths were reviewed by blinded external reviewers. Unknown causes of death were included as an endpoint, but misclassification of cause of  h",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.40359497070312,
+        199.52651977539062,
+        232.9701385498047,
+        209.1265106201172
+      ],
+      "text": "death may bias estimate",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        208.52651977539062,
+        542.2091674804688,
+        218.1265106201172
+      ],
+      "text": "There were 21 deaths in the one-month arm, 3 related to TB. There were 28 deaths in the nine-month arm, 3 related to TB. i",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        217.52651977539062,
+        230.25514221191406,
+        227.1265106201172
+      ],
+      "text": "Small number of events j",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        226.52651977539062,
+        313.806640625,
+        236.1265106201172
+      ],
+      "text": "Assessed via participant self-report at clinic visits k",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        235.52651977539062,
+        367.3805236816406,
+        245.1265106201172
+      ],
+      "text": "Resistance may be non-emergent and coming from infecting strain l",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.4822998046875,
+        241.52651977539062,
+        431.46734619140625,
+        254.1265106201172
+      ],
+      "text": "Small sample of bacteriologically confirmed TB who had drug susceptibility test results m",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.53640747070312,
+        260.6885070800781,
+        518.2490844726562,
+        272.3075256347656
+      ],
+      "text": "Estimated relative risks for different outcomes in TPT studies using rifapentine plus isoniazid a",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        158.3708953857422,
+        315.60589599609375,
+        595.2214965820312,
+        329.06591796875
+      ],
+      "text": "PLHIV  13  -0.13 0.75 0.79   0.81 1.04 ≥ 1HP 9H 1  ;  b",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.3708953857422,
+        324.60589599609375,
+        606.670654296875,
+        333.56591796875
+      ],
+      "text": "years (-0.52 ; 0.27) (0.42 ; 1.31) (0.59 ; 1.04) (0.06 ; 11.77) (0.99 ;  1.10) c d e",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        316.86383056640625,
+        338.2059326171875,
+        598.0078735351562,
+        347.1659240722656
+      ],
+      "text": "0.73  0.75  0.63   0.26   2.00   1.25",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.4547119140625,
+        342.7059326171875,
+        287.8360290527344,
+        351.6659240722656
+      ],
+      "text": "3HP 6H or 9H 2",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37091064453125,
+        347.2059326171875,
+        605.681640625,
+        358.4657897949219
+      ],
+      "text": "(0.23 ; 2.3) (0.44 ; 1.27) (0.43 ; 0.92) (0.12 ; 0.55) (0.26 ; 15.44) (1.01 ; 1.55) Adults with",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37091064453125,
+        358.505859375,
+        598.0302734375,
+        369.7658386230469
+      ],
+      "text": "HIV 1.50   1.06 0.20   0.05   1.00   1.59",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.45462036132812,
+        365.30584716796875,
+        287.205810546875,
+        374.2658386230469
+      ],
+      "text": "3HP continuous H 1",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        305.2074279785156,
+        369.8057861328125,
+        606.8721923828125,
+        378.76580810546875
+      ],
+      "text": "(0.69 ; 3.27) (0.47 ; 2.41) (0.12 ; 0.32) (0.02 ; 0.13) (0.09 ; 10.95) (1.40 ; 1.80)",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37081909179688,
+        383.40576171875,
+        597.2472534179688,
+        392.3657531738281
+      ],
+      "text": "Adults    0.44  0.75  0.87  0.16   0.47  1.19",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        208.45462036132812,
+        387.90570068359375,
+        287.205810546875,
+        396.8656921386719
+      ],
+      "text": "3HP 9H 1",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37081909179688,
+        392.40570068359375,
+        611.5189819335938,
+        401.36572265625
+      ],
+      "text": "without HIV (0.18 ; 1.07)  (0.47 ; 1.19) (0.73 ; 1.04) (0.10 ; 0.27) (0.04 ; 5.18) (1.16 ; 1.22)",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37075805664062,
+        406.005615234375,
+        598.290283203125,
+        414.96563720703125
+      ],
+      "text": "Children and  0.13  0.18  0.88  1.09",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        208.45455932617188,
+        410.505615234375,
+        537.7291259765625,
+        419.4656677246094
+      ],
+      "text": "3HP 9H 1  ;   ;",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        158.37075805664062,
+        415.00567626953125,
+        605.4295654296875,
+        423.9656677246094
+      ],
+      "text": "adolescents (0.01 ; 2.54) (0.01 ; 3.80) (0.32 ; 2.40) (1.03 ; 1.15)",
+      "font": "Whitney-Book",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        434.7496032714844,
+        616.488525390625,
+        444.349609375
+      ],
+      "text": "1HP: 1-month daily rifapentine plus H; 3HP: 3-month weekly rifapentine plus H; 6H: 6-month daily H; 9H; 9-month daily H; H: isoniazid; TB:",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        443.7496032714844,
+        194.66978454589844,
+        453.349609375
+      ],
+      "text": "tuberculosis",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        452.7496032714844,
+        395.38677978515625,
+        462.349609375
+      ],
+      "text": "a.\t Information on 3HP studies from the WHO report by Hamada et al.  (69).",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        461.7496032714844,
+        179.17132568359375,
+        471.349609375
+      ],
+      "text": "b.\t  (70)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        470.7496032714844,
+        411.2120056152344,
+        480.349609375
+      ],
+      "text": "c.\t Incidence rate ratio difference / 100 person-years between study and control",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        479.7496032714844,
+        238.7765655517578,
+        489.349609375
+      ],
+      "text": "d.\t Serious adverse events",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.5363006591797,
+        488.7496032714844,
+        616.4141845703125,
+        498.349609375
+      ],
+      "text": "e.\t Emergence of drug resistance to rifampicin among those with confirmed TB and with DST. The RR for emergence of drug resistance to INH",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        165.4575958251953,
+        497.7496032714844,
+        616.382080078125,
+        507.349609375
+      ],
+      "text": "was 1.63 (0.17 ; 15.99). Evidence considered of very low quality because apart from restriction to PLHIV, resistance may be non-emergent and",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        165.4575958251953,
+        506.7496032714844,
+        546.032958984375,
+        516.349609375
+      ],
+      "text": "coming from infecting strain and small sample of bacteriologically confirmed TB who had drug susceptibility test results",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

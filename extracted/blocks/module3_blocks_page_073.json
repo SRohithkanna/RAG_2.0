@@ -1,0 +1,594 @@
+{
+  "file": "module3",
+  "page": 73,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        78.81909942626953,
+        82.30619812011719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        69.16120147705078,
+        526.975341796875,
+        82.30619812011719
+      ],
+      "text": "LF-LAM is designed to detect mycobacterial LAM antigen in human urine. Other samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        84.66120147705078,
+        526.9533081054688,
+        97.80619812011719
+      ],
+      "text": "(e.g. sputum, serum, plasma, CSF and other body fluids) or pooled urine specimens should",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        100.16120147705078,
+        145.69271850585938,
+        113.30619812011719
+      ],
+      "text": "not be used.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        127.98350524902344,
+        219.61328125,
+        142.07150268554688
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.7384033203125,
+        78.81909942626953,
+        165.88340759277344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        152.7384033203125,
+        527.2338256835938,
+        165.88340759277344
+      ],
+      "text": "Monitor simultaneous specimen collection and turnaround time for the test results in a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        168.2384033203125,
+        227.41049194335938,
+        181.38340759277344
+      ],
+      "text": "concurrent testing approach.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.7384033203125,
+        78.81909942626953,
+        196.88340759277344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        183.7384033203125,
+        526.84375,
+        196.88340759277344
+      ],
+      "text": "Monitor patient access to, and loss to follow-up from, a second test in a concurrent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        199.2384033203125,
+        171.0915985107422,
+        212.38340759277344
+      ],
+      "text": "testing approach.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.7384033203125,
+        78.81909942626953,
+        227.88340759277344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        214.7384033203125,
+        527.0084838867188,
+        227.88340759277344
+      ],
+      "text": "Monitor patient access to, and loss to follow-up from, follow-on DST among those with a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        230.2384033203125,
+        351.32318115234375,
+        243.38340759277344
+      ],
+      "text": "positive LF-LAM result but a negative LC-aNAAT result.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.7384033203125,
+        78.81909942626953,
+        258.8834228515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        245.7384033203125,
+        527.1611938476562,
+        258.8834228515625
+      ],
+      "text": "Monitor trends in the discordance rate between the LF-LAM and LC-aNAAT results. If",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        261.2384033203125,
+        526.9642333984375,
+        274.3834228515625
+      ],
+      "text": "these differences vary from other local or regional patterns, or if the trends change, further",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        276.7384033203125,
+        489.2826843261719,
+        289.8834228515625
+      ],
+      "text": "investigation is required and outcomes should be tracked for recurrence over time.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.0847473144531,
+        191.30810546875,
+        321.4647216796875
+      ],
+      "text": "Research priorities",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.7156066894531,
+        78.81909942626953,
+        344.8606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        331.7156066894531,
+        526.9310302734375,
+        344.8606262207031
+      ],
+      "text": "Conduct more rigorous studies with higher quality reference standards, including multiple",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        347.2156066894531,
+        524.4315185546875,
+        360.3606262207031
+      ],
+      "text": "specimen types and extrapulmonary samples, to improve confidence in specificity estimates.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.965145111083984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.7156066894531,
+        78.81909942626953,
+        375.8606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        362.7156066894531,
+        524.4041137695312,
+        375.8606262207031
+      ],
+      "text": "Gather evidence on the impact of concurrent testing on TB treatment initiation and mortality.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.2156066894531,
+        78.81909942626953,
+        391.3606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        378.2156066894531,
+        527.0026245117188,
+        391.3606262207031
+      ],
+      "text": "Determine training, competency and quality assessment needs by setting and by cadre of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        393.7156066894531,
+        409.29132080078125,
+        406.8606262207031
+      ],
+      "text": "staff (i.e. health care worker, laboratory technician or clinical staff).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.2156066894531,
+        78.81909942626953,
+        422.3606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        409.2156066894531,
+        526.8906860351562,
+        422.3606262207031
+      ],
+      "text": "Perform country-specific cost–effectiveness and cost–benefit analyses of the concurrent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        424.7156066894531,
+        515.3084106445312,
+        437.8606262207031
+      ],
+      "text": "testing approaches or sequential testing approaches in different programmatic settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.2156066894531,
+        78.81909942626953,
+        453.3606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        440.2156066894531,
+        526.9641723632812,
+        453.3606262207031
+      ],
+      "text": "Develop and apply standardized methods for assessment of costs and cost–effectiveness,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        455.7156066894531,
+        373.30084228515625,
+        468.8606262207031
+      ],
+      "text": "to improve comparability and scope of economic evidence.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.2156066894531,
+        78.81909942626953,
+        484.3606262207031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        471.2156066894531,
+        524.6275024414062,
+        484.3606262207031
+      ],
+      "text": "Perform operational research on availability, requirements and best practices for the point-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.998149871826172,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        486.7156066894531,
+        526.9532470703125,
+        499.8606262207031
+      ],
+      "text": "of-care set-up: private specimen collection facility, tabletop space for testing samples, and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        502.215576171875,
+        526.5843505859375,
+        515.360595703125
+      ],
+      "text": "reporting system (preferably digital) for entry of results, with linkages to existing information",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.955660820007324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        517.715576171875,
+        498.4247131347656,
+        530.860595703125
+      ],
+      "text": "management systems (i.e. health and laboratory information management systems).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.7311401367188,
+        420.1354064941406,
+        568.1111450195312
+      ],
+      "text": "2.3.2 Concurrent use of tests in children without HIV",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        492.2799987792969,
+        558.3143310546875,
+        515.6900024414062,
+        570.0143432617188
+      ],
+      "text": "NEW",
+      "font": "FrutigerNeueLT-Md",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.5310668945312,
+        254.6147003173828,
+        584.9110717773438
+      ],
+      "text": "or with unknown HIV status",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.669677734375,
+        192.72633361816406,
+        613.0496826171875
+      ],
+      "text": "Recommendations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41429901123047,
+        635.3026733398438,
+        512.37939453125,
+        648.2166748046875
+      ],
+      "text": "8.\t For children who are HIV-negative or have an unknown HIV status, who have",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        650.8026733398438,
+        512.4774780273438,
+        663.7166748046875
+      ],
+      "text": "signs or symptoms or screen positive for pulmonary TB, concurrent testing using",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        666.3026733398438,
+        512.3668823242188,
+        679.2166748046875
+      ],
+      "text": "low-complexity automated NAATs on respiratory and stool samples should",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        681.8026733398438,
+        509.5730285644531,
+        694.7166748046875
+      ],
+      "text": "be used as the initial diagnostic strategy for diagnosing TB rather than low-",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        697.3026733398438,
+        461.79632568359375,
+        710.2166748046875
+      ],
+      "text": "complexity automated NAATs on respiratory or stool samples alone.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        715.6702880859375,
+        436.9792785644531,
+        728.55126953125
+      ],
+      "text": "(Strong recommendation, low certainty of evidence for test accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 57",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

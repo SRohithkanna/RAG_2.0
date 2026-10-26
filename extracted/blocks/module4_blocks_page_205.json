@@ -1,0 +1,594 @@
+{
+  "file": "module4",
+  "page": 205,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4168090820312,
+        81.83369445800781
+      ],
+      "text": "These recommendations for decentralized care should not preclude hospitalization if appropriate.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        338.5720520019531,
+        95.03370666503906
+      ],
+      "text": "This review did not include patients requiring surgical care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.40792846679688,
+        245.23455810546875,
+        124.25992584228516
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        131.35784912109375,
+        524.49951171875,
+        145.9108428955078
+      ],
+      "text": "Ambulatory care:  The cost varied widely across the modelled settings. The cost per disability-",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.6678009033203,
+        527.4444580078125,
+        159.1107940673828
+      ],
+      "text": "adjusted life year (DALY) averted by an ambulatory model in one setting was sometimes higher than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.86793518066406,
+        527.4265747070312,
+        172.31092834472656
+      ],
+      "text": "the cost per DALY averted by a hospitalization model in another setting. However, cost per DALY",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.0679473876953,
+        527.4376831054688,
+        185.5109405517578
+      ],
+      "text": "averted was lower under outpatient-based care than under inpatient-based care in the vast majority",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.26783752441406,
+        527.3602294921875,
+        198.71083068847656
+      ],
+      "text": "(at least 90%) of settings for which cost–effectiveness was modelled. The variation in cost–effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 10.960578918457031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.4678497314453,
+        527.1002807617188,
+        211.9108428955078
+      ],
+      "text": "among settings correlated most strongly with the variation in the cost of general health-care services",
+      "font": "SegoeUI-Light",
+      "size": 10.995498657226562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.6678009033203,
+        527.438720703125,
+        225.1107940673828
+      ],
+      "text": "and other non-drug costs. Despite the limitations in the data available, there was no evidence that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.86781311035156,
+        527.4199829101562,
+        238.31080627441406
+      ],
+      "text": "conflicted with the recommendation or which indicated that treatment in a hospital-based model of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        237.0678253173828,
+        310.6122131347656,
+        251.5108184814453
+      ],
+      "text": "care leads to a more favourable treatment outcome.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.771728515625,
+        527.4310913085938,
+        273.2147521972656
+      ],
+      "text": "The overall cost–effectiveness of care for a patient receiving treatment for MDR-TB can be improved",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.9716796875,
+        527.5501098632812,
+        286.4147033691406
+      ],
+      "text": "with an ambulatory model. The benefits include reduced use of resources, and at least as many deaths",
+      "font": "SegoeUI-Light",
+      "size": 10.964592933654785,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.17169189453125,
+        527.40478515625,
+        299.6147155761719
+      ],
+      "text": "avoided among primary and secondary cases as with hospitalization models. This result is based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.3717041015625,
+        527.400146484375,
+        312.8147277832031
+      ],
+      "text": "on clinic-based ambulatory treatment (i.e. patients attended a health-care facility); in some settings,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.57171630859375,
+        527.4243774414062,
+        326.0147399902344
+      ],
+      "text": "home-based ambulatory treatment (provided by a health worker in the community) might improve",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.7716979980469,
+        527.4366455078125,
+        339.2147216796875
+      ],
+      "text": "cost– effectiveness even further. The benefit of reduced transmission can be expected only if proper",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.9717102050781,
+        527.44970703125,
+        352.41473388671875
+      ],
+      "text": "infection control measures are in place in both the home and the clinic. Potential exposure to people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.17169189453125,
+        527.468994140625,
+        365.6147155761719
+      ],
+      "text": "who are infectious can be minimized by reducing or avoiding hospitalization where possible, reducing",
+      "font": "SegoeUI-Light",
+      "size": 10.972867012023926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.3717041015625,
+        527.4365234375,
+        378.8147277832031
+      ],
+      "text": "the number of outpatient visits, avoiding overcrowding in wards and waiting areas, and prioritizing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.29571533203125,
+        527.4343872070312,
+        392.0147399902344
+      ],
+      "text": "(134) community-care approaches for TB management  . The regimen used in one of the studies on",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.7716979980469,
+        527.2595825195312,
+        405.2147216796875
+      ],
+      "text": "ambulatory care derived from a period when the combinations of medicines were not yet optimized,",
+      "font": "SegoeUI-Light",
+      "size": 10.994647979736328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.9717102050781,
+        527.4113159179688,
+        418.41473388671875
+      ],
+      "text": "so the outcomes achieved were probably inferior to those that can be obtained with the regimens in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.17169189453125,
+        527.407958984375,
+        431.6147155761719
+      ],
+      "text": "use today. Admission to hospital for patients who do not warrant it may also have important social",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.3717041015625,
+        385.80712890625,
+        444.8147277832031
+      ],
+      "text": "and psychological consequences that need to be taken into account.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.0755920410156,
+        527.1478881835938,
+        466.51861572265625
+      ],
+      "text": "There may be some important barriers to accessing clinic-based ambulatory care, including distance of",
+      "font": "SegoeUI-Light",
+      "size": 10.949584007263184,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.27569580078125,
+        527.5647583007812,
+        479.7187194824219
+      ],
+      "text": "travel and other costs to individual patients. Shifting costs from the service provider to the patient must",
+      "font": "SegoeUI-Light",
+      "size": 10.956765174865723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.4757080078125,
+        527.1055297851562,
+        492.9187316894531
+      ],
+      "text": "be avoided, and implementation may need to be accompanied by appropriate enablers. While placing",
+      "font": "SegoeUI-Light",
+      "size": 10.955660820007324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.67572021484375,
+        527.3759155273438,
+        506.1187438964844
+      ],
+      "text": "patients on adequate therapy would be expected to decrease the bacterial load and transmission",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.875732421875,
+        527.5828247070312,
+        519.3187255859375
+      ],
+      "text": "of DR-TB, infection control measures for home-based and clinic-based measures will need to be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.0755615234375,
+        527.4124755859375,
+        532.5185546875
+      ],
+      "text": "part of an ambulatory model of care in order to decrease the risk of transmission in households,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.2756958007812,
+        527.4518432617188,
+        545.7186889648438
+      ],
+      "text": "the community and clinics. TB control programmes will have to consider whether they are capable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.4757080078125,
+        527.4234619140625,
+        558.918701171875
+      ],
+      "text": "of reallocating resources from hospital care to ambulatory care support in order to undertake the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.6757202148438,
+        527.524658203125,
+        572.1187133789062
+      ],
+      "text": "necessary changes in patient management. The choice between these options will affect the feasibility",
+      "font": "SegoeUI-Light",
+      "size": 10.970610618591309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.875732421875,
+        371.5511169433594,
+        585.3187255859375
+      ],
+      "text": "of implementing the recommendation in a particular programme.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.57958984375,
+        527.5825805664062,
+        607.0225830078125
+      ],
+      "text": "A high value was placed on conserving resources and on patient outcomes such as preventing death",
+      "font": "SegoeUI-Light",
+      "size": 10.990946769714355,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.7796020507812,
+        527.4122314453125,
+        620.2225952148438
+      ],
+      "text": "and transmission of MDR-TB as a result of delayed diagnosis and inpatient treatment. There should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.9796142578125,
+        527.373046875,
+        633.422607421875
+      ],
+      "text": "always be provision for a back-up facility to manage patients who need inpatient treatment. This may",
+      "font": "SegoeUI-Light",
+      "size": 10.993698120117188,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.1796264648438,
+        527.4081420898438,
+        646.6226196289062
+      ],
+      "text": "be necessary in certain groups of patients at particular risk, such as children during the intensive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.379638671875,
+        455.5218811035156,
+        659.8226318359375
+      ],
+      "text": "phase, among whom close monitoring may be required for a certain period of time.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        666.9736328125,
+        527.3006591796875,
+        681.526611328125
+      ],
+      "text": "Decentralized care:  National TB programmes should have standardized guidelines regarding which",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.994248390197754,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.2835083007812,
+        527.407958984375,
+        694.7265014648438
+      ],
+      "text": "patients are eligible for decentralized care. Patient preference should be given a high value when",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.4835205078125,
+        310.2447814941406,
+        707.926513671875
+      ],
+      "text": "choosing between centralized or decentralized care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.1875,
+        527.5328369140625,
+        729.6304931640625
+      ],
+      "text": "Decentralized care for MDR-TB patients requires appropriate treatment supervision, patient education",
+      "font": "SegoeUI-Light",
+      "size": 10.965696334838867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.3873901367188,
+        527.1865234375,
+        742.8303833007812
+      ],
+      "text": "and social support, staff training, infection control practices and quality assurance. The optimal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.5875244140625,
+        527.4036254882812,
+        756.030517578125
+      ],
+      "text": "treatment supervision options and treatment adherence interventions recommended in section 2.1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        754.7874755859375,
+        370.7019348144531,
+        769.23046875
+      ],
+      "text": "should be considered for MDR-TB patients on decentralized care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        323.2414855957031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 3 Tuberculosis care and support: Recommendations 191",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

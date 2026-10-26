@@ -1,0 +1,498 @@
+{
+  "file": "module6",
+  "page": 25,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.0303955078125,
+        107.28009796142578,
+        149.400390625
+      ],
+      "text": "2.",
+      "font": "SegoeUI-SemiBold",
+      "size": 34.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        114.64139556884766,
+        468.864501953125,
+        147.14138793945312
+      ],
+      "text": "Reduce the burden of TB among",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.88189697265625,
+        142.64138793945312,
+        354.2069091796875,
+        175.14138793945312
+      ],
+      "text": "people living with HIV",
+      "font": "SegoeUI",
+      "size": 25.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        527.4398803710938,
+        227.8253936767578
+      ],
+      "text": "Tuberculosis remains the primary cause of HIV-related morbidity and mortality worldwide, despite",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.3824005126953,
+        527.4210815429688,
+        241.8253936767578
+      ],
+      "text": "impressive scale-up of ART. In 2022, an estimated 671 000 (uncertainty interval (UI): 600 000–746 000)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.3824005126953,
+        527.4002075195312,
+        255.8253936767578
+      ],
+      "text": "people living with HIV developed TB disease, among whom only 426 958 (64%) were diagnosed and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.3824005126953,
+        527.431884765625,
+        269.8254089355469
+      ],
+      "text": "notified  . In the same year, an estimated 167 000 (UI: 139 000–198 000) people living with HIV died  (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.38238525390625,
+        527.4308471679688,
+        283.8254089355469
+      ],
+      "text": "from TB, representing 27% of all HIV-related deaths  . A systematic review and meta-analysis of  (1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.38238525390625,
+        527.3815307617188,
+        297.8254089355469
+      ],
+      "text": "post-mortem studies of global HIV-related deaths found that TB was the primary cause of death in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.4078979492188,
+        311.8254089355469
+      ],
+      "text": "37.2% of individuals (95% confidence interval (CI): 25.7–48.7%), and that TB remained undiagnosed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        362.0312805175781,
+        325.8254089355469
+      ],
+      "text": "prior to death in 45.8% of individuals (95% CI: 32.6–59.1%)  . (32)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.1216125488281,
+        203.2336883544922,
+        359.3066101074219
+      ],
+      "text": "2.1\t TB screening",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        367.9658203125,
+        210.62709045410156,
+        383.7938232421875
+      ],
+      "text": "WHO recommendations",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.785400390625,
+        392.97271728515625,
+        300.81146240234375,
+        406.1627197265625
+      ],
+      "text": "Screening for TB among people living with HIV",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        410.2887268066406,
+        518.18896484375,
+        422.7622375488281
+      ],
+      "text": "1. People living with HIV should be systematically screened for TB disease at each visit to a health facility  (strong",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        421.688720703125,
+        290.7760009765625,
+        434.1622314453125
+      ],
+      "text": ".  recommendation, very low certainty of evidence) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        436.5420227050781,
+        521.27490234375,
+        449.0155334472656
+      ],
+      "text": "2. Among adults and adolescents living with HIV, systematic screening for TB disease should be conducted using",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        447.9420166015625,
+        507.6342468261719,
+        460.41552734375
+      ],
+      "text": "the WHO-recommended four symptom screen, and those who report any one of the symptoms of current",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        459.3420104980469,
+        502.5289306640625,
+        471.8155212402344
+      ],
+      "text": "cough, fever, weight loss or night sweats may have TB and should be evaluated for TB and other diseases",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        470.74200439453125,
+        325.85992431640625,
+        483.21551513671875
+      ],
+      "text": "( ).  strong recommendation, moderate certainty of evidence (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        485.5953063964844,
+        513.879150390625,
+        498.0688171386719
+      ],
+      "text": "3. Among adults and adolescents living with HIV, C-reactive protein using a cut-off of >5 mg/L may be used to",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        496.99530029296875,
+        472.0477294921875,
+        509.46881103515625
+      ],
+      "text": "screen for TB disease  .  (conditional recommendation, low certainty of evidence for test accuracy) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        511.8484802246094,
+        514.722412109375,
+        524.3219604492188
+      ],
+      "text": "4. Among adults and adolescents living with HIV, chest X-ray may be used to screen for TB disease  (conditional",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        523.2484741210938,
+        362.3338317871094,
+        535.7219848632812
+      ],
+      "text": ".​  recommendation, moderate certainty of evidence for test accuracy) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        538.1017456054688,
+        519.4328002929688,
+        550.5752563476562
+      ],
+      "text": "5. Among individuals aged 15 years and older in populations in which TB screening is recommended, computer-",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        549.5017700195312,
+        509.05548095703125,
+        561.9752807617188
+      ],
+      "text": "aided detection software programmes may be used in place of human readers for interpreting digital chest",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        560.9017944335938,
+        502.3243103027344,
+        573.3753051757812
+      ],
+      "text": "X-rays for screening and triage for TB disease  .​  (conditional recommendation, low certainty of evidence) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        575.7550659179688,
+        512.9149780273438,
+        588.2285766601562
+      ],
+      "text": "6. Among adults and adolescents living with HIV, molecular WHO-recommended rapid diagnostic tests may",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        587.1550903320312,
+        495.405029296875,
+        599.6286010742188
+      ],
+      "text": "be used to screen for TB disease  (conditional recommendation, moderate certainty of evidence for test",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        598.5551147460938,
+        140.33029174804688,
+        611.0286254882812
+      ],
+      "text": ".​  accuracy) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        613.4082641601562,
+        492.8023986816406,
+        625.8817749023438
+      ],
+      "text": "7. Adult and adolescent inpatients with HIV in medical wards where the TB prevalence is >10% should be",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        624.8082885742188,
+        491.749755859375,
+        637.2817993164062
+      ],
+      "text": "tested systematically for TB disease with a molecular WHO-recommended rapid diagnostic test  (strong",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.5886001586914,
+        636.2083129882812,
+        362.3338317871094,
+        648.6818237304688
+      ],
+      "text": ".​  recommendation, moderate certainty of evidence for test accuracy) (12)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.056396484375,
+        194.8867950439453,
+        676.6314086914062
+      ],
+      "text": "2.1.1\t Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        527.4486694335938,
+        703.8253784179688
+      ],
+      "text": "Early detection and treatment for TB among people living with HIV is crucial for reducing morbidity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.3823852539062,
+        527.4334106445312,
+        717.8253784179688
+      ],
+      "text": "and mortality. TB screening tools are designed to distinguish people with a higher probability of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        527.4310302734375,
+        731.8253784179688
+      ],
+      "text": "having TB disease, from those with a lower probability. Screening tests need to be followed by a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3823852539062,
+        527.4212646484375,
+        745.8253784179688
+      ],
+      "text": "diagnostic test, offered as part of a comprehensive clinical evaluation, to confirm or rule out TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.3823852539062,
+        527.3851318359375,
+        759.8253784179688
+      ],
+      "text": "disease  . WHO recommends that people living with HIV are systematically screened for TB disease  (12)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        527.4420166015625,
+        773.8253784179688
+      ],
+      "text": "at each visit to a health facility. Initially, the four symptom screen was recommended by WHO for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        549.2883911132812,
+        801.2599487304688,
+        553.4083862304688,
+        811.763916015625
+      ],
+      "text": "7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "file": "module5",
+  "page": 38,
+  "blocks": [
+    {
+      "bbox": [
+        78.04429626464844,
+        74.69391632080078,
+        496.8716125488281,
+        89.13691711425781
+      ],
+      "text": "Children aged ≥5 years adolescents and adults who are household contacts of people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        86.69391632080078,
+        477.7844543457031,
+        101.13691711425781
+      ],
+      "text": "bacteriologically confirmed pulmonary TB who are found not to have TB disease by an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        98.69391632080078,
+        510.6492004394531,
+        113.13691711425781
+      ],
+      "text": "appropriate clinical evaluation or according to national guidelines may be given TB preventive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        110.69391632080078,
+        128.1811981201172,
+        125.13691711425781
+      ],
+      "text": "treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        124.15193176269531,
+        391.6231994628906,
+        141.3339385986328
+      ],
+      "text": "(Conditional recommendation, low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        148.5605010986328,
+        487.05194091796875,
+        163.0034942626953
+      ],
+      "text": "In selected high-risk household contacts of patients with multidrug-resistant tuberculosis,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        160.5605010986328,
+        511.3520812988281,
+        175.0034942626953
+      ],
+      "text": "preventive treatment may be considered based on individualized risk assessment and a sound",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        172.5605010986328,
+        167.73831176757812,
+        187.0034942626953
+      ],
+      "text": "clinical justification.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        186.0183868408203,
+        413.6983947753906,
+        203.2003936767578
+      ],
+      "text": "(Conditional recommendation, very low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        210.25100708007812,
+        493.4348449707031,
+        224.67201232910156
+      ],
+      "text": "Identifying populations for TB infection testing and TB preventive treatment – other",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        222.25100708007812,
+        144.7108917236328,
+        236.67201232910156
+      ],
+      "text": "people at risk",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        238.50289916992188,
+        360.7510681152344,
+        252.9239044189453
+      ],
+      "text": "(these populations may include children and adolescents)",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        260.2935791015625,
+        508.3582763671875,
+        274.7366027832031
+      ],
+      "text": "People who are initiating anti-TNF  treatment, or receiving dialysis, or preparing for an organ  20",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        272.2935791015625,
+        511.9130554199219,
+        286.7366027832031
+      ],
+      "text": "or haematological transplant, or who have silicosis should be systematically tested and treated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        284.2935791015625,
+        150.14950561523438,
+        298.7366027832031
+      ],
+      "text": "for TB infection.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        297.75152587890625,
+        421.9805908203125,
+        314.93353271484375
+      ],
+      "text": "(Strong recommendation, low to very low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        322.16021728515625,
+        514.3670654296875,
+        336.6032409667969
+      ],
+      "text": "Systematic TB infection testing and treatment may be considered for prisoners, health workers,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        334.16021728515625,
+        514.4701538085938,
+        348.6032409667969
+      ],
+      "text": "immigrants from countries with a high TB burden, homeless people and people who use drugs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        347.61810302734375,
+        444.1524963378906,
+        364.80010986328125
+      ],
+      "text": "(Conditional recommendation, low to very low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        372.0267028808594,
+        503.1701354980469,
+        386.4697265625
+      ],
+      "text": "Systematic TB infection testing and treatment is not recommended for people with diabetes,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        384.0267028808594,
+        507.043212890625,
+        398.4697265625
+      ],
+      "text": "people who engage in the harmful use of alcohol, tobacco smokers and underweight people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        396.0267028808594,
+        469.0059509277344,
+        410.4697265625
+      ],
+      "text": "unless they also belong to other risk groups included in the above recommendations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        409.4847412109375,
+        413.6983947753906,
+        426.6667175292969
+      ],
+      "text": "(Conditional recommendation, very low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        433.7173156738281,
+        241.85630798339844,
+        448.1383056640625
+      ],
+      "text": "Algorithms to rule out TB disease",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        455.5079040527344,
+        480.7005920410156,
+        469.950927734375
+      ],
+      "text": "Adults and adolescents living with HIV should be screened for TB according to a clinical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        467.5079040527344,
+        507.5680236816406,
+        481.950927734375
+      ],
+      "text": "algorithm. Those who do not report any of the symptoms of current cough, fever, weight loss",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        479.5079040527344,
+        498.68988037109375,
+        493.950927734375
+      ],
+      "text": "or night sweats are unlikely to have TB disease and should be offered preventive treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        491.5079040527344,
+        330.7033386230469,
+        505.950927734375
+      ],
+      "text": "regardless of their antiretroviral treatment (ART) status.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        504.96588134765625,
+        397.5743713378906,
+        522.1478881835938
+      ],
+      "text": "(Strong recommendation, moderate certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        529.37451171875,
+        519.3699340820312,
+        543.8175048828125
+      ],
+      "text": "Adults and adolescents living with HIV who are screened for TB according to a clinical algorithm",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        541.37451171875,
+        509.3115539550781,
+        555.8175048828125
+      ],
+      "text": "and who report any of the symptoms of current cough, fever, weight loss or night sweats may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        553.37451171875,
+        496.49102783203125,
+        567.8175048828125
+      ],
+      "text": "have TB disease and should be evaluated for TB and other diseases and offered preventive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        565.37451171875,
+        241.25022888183594,
+        579.8175048828125
+      ],
+      "text": "treatment if TB disease is excluded.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        578.8323974609375,
+        397.5743713378906,
+        596.014404296875
+      ],
+      "text": "(Strong recommendation, moderate certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        603.2410278320312,
+        509.76251220703125,
+        617.6840209960938
+      ],
+      "text": "Chest radiography may be offered to people living with HIV on ART and preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        615.2410278320312,
+        332.8770446777344,
+        629.6840209960938
+      ],
+      "text": "given to those with no abnormal radiographic findings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        628.6990356445312,
+        391.6231994628906,
+        645.8810424804688
+      ],
+      "text": "(Conditional recommendation, low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        653.1076049804688,
+        512.15283203125,
+        667.5505981445312
+      ],
+      "text": "Infants and children living with HIV who have poor weight gain, fever or current cough or who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        665.1076049804688,
+        511.0055847167969,
+        679.5505981445312
+      ],
+      "text": "have a history of contact with a person with TB should be evaluated for TB and other diseases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        677.1076049804688,
+        496.3304443359375,
+        691.5505981445312
+      ],
+      "text": "that cause such symptoms. If TB disease is excluded after an appropriate clinical evaluation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        689.1076049804688,
+        509.1102294921875,
+        703.5505981445312
+      ],
+      "text": "or according to national guidelines, these children should be offered TB preventive treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        701.1076049804688,
+        185.67599487304688,
+        715.5505981445312
+      ],
+      "text": "regardless of their age.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        714.5656127929688,
+        369.4512939453125,
+        731.7476196289062
+      ],
+      "text": "(Strong recommendation, low certainty in the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.4718017578125,
+        174.24293518066406,
+        773.17578125
+      ],
+      "text": "TNF: tumour necrosis factor 20",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "14 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

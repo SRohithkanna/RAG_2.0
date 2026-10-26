@@ -1,0 +1,72 @@
+{
+  "file": "common childhood",
+  "page": 125,
+  "table_id": 1,
+  "bbox": [
+    164.58389282226562,
+    63.77912902832031,
+    334.7878112792969,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 4,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZ­ ABILITY",
+      "POLLED EFFECT SIZE (CI-95%)",
+      "OVERALL QUALITY"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Mortality",
+      "4",
+      "RCT (0)",
+      "Adequate (0)",
+      "No, but objective outcome (0)",
+      "No (0)",
+      "Old studies, with very low levels of resistance to tested antibiot­ ics. (-1)",
+      "CI includes null and is wide (-1)",
+      "No inconsist­ ency (0)",
+      "Mostly from high-income countries. (-0.5)",
+      "0.88 (0.39 to 1.98)",
+      "LOW (Final score = -2.5)"
+    ],
+    [
+      "Cure rate",
+      "4",
+      "RCT (0)",
+      "Adequate (0)",
+      "No (-0.5)",
+      "No (0)",
+      "Old studies, with very low levels of resistance to tested antibiot­ ics. (-1)",
+      "CI includes null but is quite narrow (0)",
+      "No inconsist­ ency (0)",
+      "Mostly from high-income countries. (-0.5)",
+      "1.01 (0.94 to 1.08)",
+      "LOW (Final score = -2)"
+    ]
+  ]
+}

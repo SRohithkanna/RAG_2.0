@@ -1,0 +1,618 @@
+{
+  "file": "module6",
+  "page": 23,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.32479858398438,
+        405.56439208984375,
+        87.50979614257812
+      ],
+      "text": "1.6\t Process of consolidating the guidelines",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.4332275390625,
+        115.82539367675781
+      ],
+      "text": "To develop the TB/HIV guidelines, WHO mapped the WHO publications containing recommendations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4146118164062,
+        129.8253936767578
+      ],
+      "text": "on HIV-associated TB, which had been formulated by the respective GDGs and approved by the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.41455078125,
+        143.8253936767578
+      ],
+      "text": "WHO Guidelines Review Committee (GRC). All the recommendations included in these guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.4299926757812,
+        157.8253936767578
+      ],
+      "text": "were developed in accordance with the WHO guideline development process, as outlined in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.3827514648438,
+        171.8253936767578
+      ],
+      "text": "the source guidelines. A full list of the source guidelines that were used to consolidate all WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        415.9384765625,
+        185.8253936767578
+      ],
+      "text": "recommendations and inform the TB/HIV guidelines is provided in Box 1.1.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        214.1263885498047,
+        442.16326904296875,
+        228.63539123535156
+      ],
+      "text": "Box 1.1.  List of guidelines used to develop the 2023 TB/HIV guidelines",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        247.12274169921875,
+        212.07928466796875,
+        261.47772216796875
+      ],
+      "text": "WHO guidelines on HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        263.5791931152344,
+        496.4925842285156,
+        275.8531799316406
+      ],
+      "text": "Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring (21)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        264.9281921386719,
+        103.67979431152344,
+        275.4731750488281
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        276.9138488769531,
+        515.73046875,
+        289.1878356933594
+      ],
+      "text": "Consolidated guidelines on HIV, viral hepatitis and STI prevention, diagnosis, treatment and care for key",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        278.2628479003906,
+        103.67979431152344,
+        288.8078308105469
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        287.4138488769531,
+        178.8258056640625,
+        299.6878356933594
+      ],
+      "text": "populations (30)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        300.7485046386719,
+        515.6878662109375,
+        313.0224914550781
+      ],
+      "text": "Guidelines for diagnosing, preventing and managing cryptococcal disease among adults, adolescents",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        302.0975036621094,
+        103.67979431152344,
+        312.6424865722656
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        311.2485046386719,
+        238.86781311035156,
+        323.5224914550781
+      ],
+      "text": "and children living with HIV (31)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        324.5831298828125,
+        513.06689453125,
+        336.85711669921875
+      ],
+      "text": "Guidelines for diagnosing and managing disseminated histoplasmosis among people living with HIV (20)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        325.93212890625,
+        103.67979431152344,
+        336.47711181640625
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        337.9178161621094,
+        313.9888000488281,
+        350.1918029785156
+      ],
+      "text": "Consolidated guidelines on HIV testing services (23)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        339.2668151855469,
+        103.67979431152344,
+        349.8117980957031
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        99.21260070800781,
+        359.134521484375,
+        212.13858032226562,
+        373.489501953125
+      ],
+      "text": "WHO guidelines on TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        375.5910339355469,
+        515.6651611328125,
+        387.8650207519531
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 1: prevention – tuberculosis preventive treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        376.9400329589844,
+        103.67979431152344,
+        387.4850158691406
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        386.0910339355469,
+        130.28048706054688,
+        398.3650207519531
+      ],
+      "text": "(22)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        399.4256286621094,
+        515.7020874023438,
+        411.6996154785156
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 1: prevention – infection prevention and control",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        400.7746276855469,
+        103.67979431152344,
+        411.3196105957031
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        409.9256286621094,
+        130.29949951171875,
+        422.1996154785156
+      ],
+      "text": "(13)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        423.26031494140625,
+        515.67626953125,
+        435.5343017578125
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 2: screening – systematic screening for tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        424.60931396484375,
+        103.67979431152344,
+        435.154296875
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        433.76031494140625,
+        162.86495971679688,
+        446.0343017578125
+      ],
+      "text": "disease (12)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        447.09490966796875,
+        515.6620483398438,
+        459.368896484375
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 3: diagnosis – rapid diagnostics for tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        448.44390869140625,
+        103.67979431152344,
+        458.9888916015625
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        457.59490966796875,
+        221.99465942382812,
+        469.868896484375
+      ],
+      "text": "detection, 2021 update (14)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        470.92962646484375,
+        512.4423217773438,
+        483.20361328125
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 3: diagnosis – tests for tuberculosis infection (15)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        472.27862548828125,
+        103.67979431152344,
+        482.8236083984375
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        484.26422119140625,
+        515.6915283203125,
+        496.5382080078125
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment – drug-resistant tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        485.61322021484375,
+        103.67979431152344,
+        496.158203125
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        494.76422119140625,
+        223.08071899414062,
+        507.0382080078125
+      ],
+      "text": "treatment, 2022 update (16)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        508.0989074707031,
+        515.6932983398438,
+        520.3729248046875
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment – drug-susceptible tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        509.4479064941406,
+        103.67979431152344,
+        519.992919921875
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        518.598876953125,
+        172.9611053466797,
+        530.8729248046875
+      ],
+      "text": "treatment (17)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        531.9334716796875,
+        512.9390869140625,
+        544.20751953125
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment – tuberculosis care and support (18)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        533.282470703125,
+        103.67979431152344,
+        543.8275146484375
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        545.2681884765625,
+        515.6802368164062,
+        557.542236328125
+      ],
+      "text": "Guidance for national tuberculosis programmes on the management of tuberculosis in children, 2nd ed",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        546.6171875,
+        103.67979431152344,
+        557.1622314453125
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        555.7681884765625,
+        130.29949951171875,
+        568.042236328125
+      ],
+      "text": "(19)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.21260070800781,
+        576.9849243164062,
+        289.8975830078125,
+        591.3399047851562
+      ],
+      "text": "WHO guidelines on HIV-associated TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        116.22049713134766,
+        593.44140625,
+        308.0679931640625,
+        605.7154541015625
+      ],
+      "text": "WHO policy on collaborative TB/HIV activities (10)",
+      "font": "SegoeUI-LightItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.54329681396484,
+        594.7904052734375,
+        103.67979431152344,
+        605.33544921875
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        457.6470031738281,
+        801.2599487304688,
+        553.4083862304688,
+        811.8897705078125
+      ],
+      "text": "5 1. ﻿ HIV: introduction",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "file": "module4",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.2131958007812,
+        81.83369445800781
+      ],
+      "text": "provides decision-makers with information to enable them to improve the performance of their",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        166.7825927734375,
+        95.03370666503906
+      ],
+      "text": "health programmes. 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.18462371826172,
+        527.2404174804688,
+        116.73762512207031
+      ],
+      "text": "Pulmonary tuberculosis (PTB)  refers to any bacteriologically confirmed or clinically diagnosed case",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.988243103027344,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        372.8249206542969,
+        129.93763732910156
+      ],
+      "text": "of TB involving the lung parenchyma or the tracheobronchial tree.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.92250061035156,
+        524.4058837890625,
+        151.64149475097656
+      ],
+      "text": "M. tuberculosis Pre-extensively drug-resistant TB (pre-XDR-TB) : TB disease caused by a strain of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.3986358642578,
+        527.1841430664062,
+        164.8416290283203
+      ],
+      "text": "complex that is resistant to rifampicin (and may also be resistant to isoniazid), and that is also resistant",
+      "font": "SegoeUI-Light",
+      "size": 10.98133373260498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        163.59864807128906,
+        378.5008544921875,
+        178.04164123535156
+      ],
+      "text": "to at least one fluoroquinolone (either levofloxacin or moxifloxacin).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.02650451660156,
+        527.4251708984375,
+        199.74549865722656
+      ],
+      "text": "M. tuberculosis Rifampicin-resistant TB (RR-TB) : TB disease caused by a strain of   complex that is",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.5025177001953,
+        527.4572143554688,
+        212.9455108642578
+      ],
+      "text": "resistant to rifampicin. These strains may be susceptible or resistant to isoniazid (i.e. multidrug-resistant",
+      "font": "SegoeUI-Light",
+      "size": 10.95937442779541,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.70252990722656,
+        406.3343505859375,
+        226.14552307128906
+      ],
+      "text": "TB [MDR-TB]), or resistant to other first-line or second-line TB medicines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.29644775390625,
+        527.4598999023438,
+        247.8494415283203
+      ],
+      "text": "Rifampicin-susceptible, isoniazid-resistant TB (Hr-TB) : TB disease caused by a strain of",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.3303985595703,
+        441.01824951171875,
+        261.0494079589844
+      ],
+      "text": "M. tuberculosis  complex that is resistant to isoniazid but susceptible to rifampicin.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        268.200439453125,
+        527.569580078125,
+        282.7534484863281
+      ],
+      "text": "Serious adverse event : an adverse event that leads to death or a life-threatening experience,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.5103759765625,
+        527.1409301757812,
+        295.9533996582031
+      ],
+      "text": "to hospitalization or prolongation of hospitalization, to persistent or significant disability, or to a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.71038818359375,
+        527.5823364257812,
+        309.1534118652344
+      ],
+      "text": "congenital anomaly. Adverse events that do not immediately result in one of these outcomes but that",
+      "font": "SegoeUI-Light",
+      "size": 10.985740661621094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.910400390625,
+        527.4353637695312,
+        322.3534240722656
+      ],
+      "text": "require an intervention to prevent such an outcome from happening are included. Serious adverse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.11041259765625,
+        527.514404296875,
+        335.5534362792969
+      ],
+      "text": "events may require a drastic intervention, such as termination of the drug suspected of having caused",
+      "font": "SegoeUI-Light",
+      "size": 10.977726936340332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.3103942871094,
+        116.27410125732422,
+        348.75341796875
+      ],
+      "text": "the event.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.9044189453125,
+        527.3960571289062,
+        370.4574279785156
+      ],
+      "text": "Severe extrapulmonary TB : presence of miliary TB, TB meningitis, osteoarticular or pericardial TB.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        369.21429443359375,
+        527.5662231445312,
+        383.6573181152344
+      ],
+      "text": "In children aged below 15 years, extrapulmonary forms of disease other than lymphadenopathy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.4143981933594,
+        490.49853515625,
+        396.857421875
+      ],
+      "text": "(peripheral nodes or isolated mediastinal mass without compression) are considered severe.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.8423156738281,
+        527.4180908203125,
+        418.56134033203125
+      ],
+      "text": "M. tuberculosis Tuberculosis (TB) disease : A disease in humans caused by the   complex, which",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.04229736328125,
+        527.3125610351562,
+        431.7613220214844
+      ],
+      "text": "M. bovis, M. caprae, M. africanum, M. microti,  comprises eight distinct but closely related organisms –",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989444732666016,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.2423095703125,
+        527.40576171875,
+        444.9613342285156
+      ],
+      "text": "M. pinnipedii, M. mungi, M. orygis M. canetti.  and   The most common and important agent of human",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.4422912597656,
+        186.92820739746094,
+        458.16131591796875
+      ],
+      "text": "M. tuberculosis disease is  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3122253417969,
+        527.4365234375,
+        479.865234375
+      ],
+      "text": "Treatment support  terminology in this document is used to describe an approach to supporting",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.6221923828125,
+        527.3804321289062,
+        493.0652160644531
+      ],
+      "text": "patients who are taking prescribed doses of TB medicines in order to help ensure adherence to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.82220458984375,
+        524.4818725585938,
+        506.2652282714844
+      ],
+      "text": "treatment and maximize its efficacy. Treatment support needs to be provided in the context of people-",
+      "font": "SegoeUI-Light",
+      "size": 10.966650009155273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.022216796875,
+        527.4387817382812,
+        519.4652099609375
+      ],
+      "text": "centred care and should be based on the individual patient’s needs, acceptability and preferences. It",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.22216796875,
+        527.407958984375,
+        532.6651611328125
+      ],
+      "text": "includes aspects of support, motivation and understanding of patients without coercion. Historically,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.4222412109375,
+        441.57708740234375,
+        545.865234375
+      ],
+      "text": "this group of interventions were labelled as “directly observed treatment” or DOT.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.0162353515625,
+        301.9140625,
+        567.5692138671875
+      ],
+      "text": "TB case : the occurrence of TB disease in a person.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.7200927734375,
+        302.7527770996094,
+        589.2730712890625
+      ],
+      "text": "TB patient:  a person who is in care for TB disease.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0718383789062,
+        526.8118896484375,
+        763.5758056640625
+      ],
+      "text": "Expanding capacity for operations research in reproductive health: summary report of a consultative meeting WHO, Geneva, Switzerland,  3",
+      "font": "SegoeUI-Light",
+      "size": 7.974359035491943,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        303.046875,
+        773.17578125
+      ],
+      "text": "December 10–12, 2001. Geneva: World Health Organization; 2003 (",
+      "font": "SegoeUI-Light",
+      "size": 7.988391399383545,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        302.9668884277344,
+        762.6718139648438,
+        433.91650390625,
+        773.17578125
+      ],
+      "text": "https://iris.who.int/handle/10665/67936",
+      "font": "SegoeUI-Light",
+      "size": 7.988391399383545,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        433.8326110839844,
+        762.6718139648438,
+        524.4386596679688,
+        773.17578125
+      ],
+      "text": "). Licence:WHO/RHR/02.18.",
+      "font": "SegoeUI-Light",
+      "size": 7.988391399383545,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.67070007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "x WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

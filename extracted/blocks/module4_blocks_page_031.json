@@ -1,0 +1,618 @@
+{
+  "file": "module4",
+  "page": 31,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.4509887695312,
+        81.83369445800781
+      ],
+      "text": "People with extensive TB disease:  The trial reported on the presence of cavitation on chest",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.204833984375,
+        95.03370666503906
+      ],
+      "text": "radiograph (CXR), the extent of disease on CXR as a percentage, and cavity size (absent, < or > = 4cm).",
+      "font": "SegoeUI-Light",
+      "size": 10.949785232543945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.1557006835938,
+        116.73762512207031
+      ],
+      "text": "For patients with less severe and minimal forms of TB, such as lymph node TB there was limited or no",
+      "font": "SegoeUI-Light",
+      "size": 10.995199203491211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.4166259765625,
+        129.93763732910156
+      ],
+      "text": "evidence on the use of the shorter regimen. However, GDG members felt that the use of the shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.3672485351562,
+        143.13758850097656
+      ],
+      "text": "regimen could be considered because favourable outcomes were reported using the shorter regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.973868370056152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        226.912109375,
+        156.3376007080078
+      ],
+      "text": "in patients with extensive disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.7386016845703,
+        329.0520935058594,
+        188.39859008789062
+      ],
+      "text": "Subgroups excluded from the recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.6065216064453,
+        527.4324340820312,
+        210.0495147705078
+      ],
+      "text": "However, there were also subgroups for which there was no evidence (as they were not eligible for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        208.80653381347656,
+        527.4365844726562,
+        223.24952697753906
+      ],
+      "text": "inclusion in the trial) and therefore the use of the shorter regimen outside the research environment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.0065460205078,
+        341.9798583984375,
+        236.4495391845703
+      ],
+      "text": "is not indicated in these populations. These groups include:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.7104034423828,
+        78.23609924316406,
+        258.1534118652344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        243.7104034423828,
+        236.04112243652344,
+        258.1534118652344
+      ],
+      "text": "people weighing less than 40 kg;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.910400390625,
+        78.23609924316406,
+        271.3534240722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        256.910400390625,
+        527.5886840820312,
+        271.3534240722656
+      ],
+      "text": "people with certain forms of extra-pulmonary TB (such as TB meningitis, disseminated TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        270.11041259765625,
+        237.50633239746094,
+        284.5534362792969
+      ],
+      "text": "osteoarticular TB, abdominal TB);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.3104248046875,
+        78.23609924316406,
+        297.7534484863281
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        283.3104248046875,
+        527.4041137695312,
+        297.7534484863281
+      ],
+      "text": "persons living with HIV infection with a CD4 count less than 100 cells/mm  (NB: The trial did not  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        296.5103759765625,
+        527.4197998046875,
+        310.9533996582031
+      ],
+      "text": "include persons living with HIV infection if they had a CD4 count of less than 100 cells/mm  and  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        309.71038818359375,
+        527.4093627929688,
+        324.1534118652344
+      ],
+      "text": "the GDG panel expressed concerns at an increased risk of relapse in this group (also because this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        322.910400390625,
+        289.01824951171875,
+        337.3534240722656
+      ],
+      "text": "group is at a higher risk of disseminated TB);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.11041259765625,
+        78.23609924316406,
+        350.5534362792969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        336.11041259765625,
+        527.3707885742188,
+        350.5534362792969
+      ],
+      "text": "children less than 12 years of age (NB: The trial aimed to recruit people aged 12 years and above.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        349.3103942871094,
+        527.4345092773438,
+        363.75341796875
+      ],
+      "text": "The youngest participant was 13 years of age. Therefore, no children were included in the trial.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        362.5104064941406,
+        527.3904418945312,
+        376.95343017578125
+      ],
+      "text": "In the microbiologically-eligible population, there were 70 and 56 participants who were under",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        375.7104187011719,
+        460.8019714355469,
+        390.1534423828125
+      ],
+      "text": "20 years of age in the rifapentine-moxifloxacin and control arms respectively); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        388.910400390625,
+        78.23609924316406,
+        403.3534240722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        388.910400390625,
+        527.4367065429688,
+        403.3534240722656
+      ],
+      "text": "pregnant, breastfeeding and postpartum women (NB: Pregnant or breast-feeding women were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        402.11041259765625,
+        527.4202270507812,
+        416.5534362792969
+      ],
+      "text": "excluded from the study because of uncertainties about the safety of rifapentine, moxifloxacin,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        415.3103942871094,
+        527.5322875976562,
+        429.75341796875
+      ],
+      "text": "and pyrazinamide in these groups. Women who became pregnant while receiving study regimens",
+      "font": "SegoeUI-Light",
+      "size": 10.996599197387695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        428.5104064941406,
+        527.4232788085938,
+        442.95343017578125
+      ],
+      "text": "were deregistered from the study and were treated according to national TB programme or local",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        441.7104187011719,
+        527.5258178710938,
+        456.1534423828125
+      ],
+      "text": "guidelines. The women continued to receive scheduled study follow-up, were classified as being on",
+      "font": "SegoeUI-Light",
+      "size": 10.972214698791504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        454.910400390625,
+        527.5804443359375,
+        469.3534240722656
+      ],
+      "text": "a non-study regimen, and did not receive study radiographs. Women who became pregnant while",
+      "font": "SegoeUI-Light",
+      "size": 10.984539031982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        468.11041259765625,
+        527.3828125,
+        482.5534362792969
+      ],
+      "text": "on study follow-up (but not on study treatment) continued to receive scheduled study follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        481.3103942871094,
+        527.4290771484375,
+        495.75341796875
+      ],
+      "text": "and did not receive study radiographs. In all cases – i.e. whether pregnant during treatment or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        494.5104064941406,
+        450.3794860839844,
+        508.95343017578125
+      ],
+      "text": "during follow up – the outcome of the pregnancy was reported on study forms).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.3275756835938,
+        245.23455810546875,
+        538.1796264648438
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.3875732421875,
+        527.1821899414062,
+        559.83056640625
+      ],
+      "text": "A number of implementation considerations were discussed by the GDG. These included the following:",
+      "font": "SegoeUI-Light",
+      "size": 10.956413269042969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.9815063476562,
+        527.2279663085938,
+        581.5344848632812
+      ],
+      "text": "Drug susceptibility testing:  The panel agreed that national TB programmes should strive for universal",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.2916259765625,
+        527.4454345703125,
+        594.734619140625
+      ],
+      "text": "DST. The panel also acknowledged that universal DST is not always available but rapid DST for key",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.4915161132812,
+        527.4168090820312,
+        607.9345092773438
+      ],
+      "text": "medicines, including rifampicin, isoniazid and the fluoroquinolones is available and is expanding at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.6915283203125,
+        527.4498291015625,
+        621.134521484375
+      ],
+      "text": "an accelerated pace. Rapid genotypic testing for TB and rifampicin resistance is recommended by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.8914794921875,
+        527.3707275390625,
+        634.33447265625
+      ],
+      "text": "WHO as an initial test for TB and, if the same sputum sample can be tested for drug susceptibility",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.0914916992188,
+        527.4002685546875,
+        647.5344848632812
+      ],
+      "text": "for the fluoroquinolones and isoniazid, this can facilitate assignment of the most effective regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.2916259765625,
+        527.386962890625,
+        660.734619140625
+      ],
+      "text": "This would clearly have implications in terms of logistics, laboratory workload and cost. Balancing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.4915161132812,
+        527.4473876953125,
+        673.9345092773438
+      ],
+      "text": "the desired situation of having the universal DST with reality, the panel considered that although",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.6915283203125,
+        527.3902587890625,
+        687.134521484375
+      ],
+      "text": "desirable, baseline DST for fluoroquinolones would not be essential when patients with TB receive a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.8914794921875,
+        527.114990234375,
+        700.33447265625
+      ],
+      "text": "WHO-recommended rapid molecular diagnostic test to detect rifampicin resistance. Fluoroquinolone",
+      "font": "SegoeUI-Light",
+      "size": 10.982335090637207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.8154907226562,
+        527.4249877929688,
+        713.5344848632812
+      ],
+      "text": "(25) resistance in new patients with DS-TB can reach up to 15%  , although it is significantly lower in",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.015625,
+        527.48828125,
+        726.734619140625
+      ],
+      "text": "(29–33) most settings  . In countries with high prevalence of resistance to fluoroquinolones in new",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.4915161132812,
+        446.5766906738281,
+        739.9345092773438
+      ],
+      "text": "patients DST for the fluoroquinolones would be highly recommended at baseline.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        320.85479736328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 1 Drug-susceptible TB treatment: Recommendations 17",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

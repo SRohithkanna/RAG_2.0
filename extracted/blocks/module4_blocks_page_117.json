@@ -1,0 +1,438 @@
+{
+  "file": "module4",
+  "page": 117,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        323.6736145019531,
+        82.6147232055664
+      ],
+      "text": "Methods used for analysis and data synthesis",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.96259307861328,
+        183.37689208984375,
+        114.62259674072266
+      ],
+      "text": "Descriptive analyses",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.83051300048828,
+        527.6410522460938,
+        136.2735137939453
+      ],
+      "text": "Descriptive analyses of the baseline characteristics of participants in the study were performed.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.03053283691406,
+        527.2005615234375,
+        149.47352600097656
+      ],
+      "text": "Characteristics included demographics, pregnancy status and laboratory parameters such as HIV status,",
+      "font": "SegoeUI-Light",
+      "size": 10.981233596801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        148.2305450439453,
+        527.0859985351562,
+        162.6735382080078
+      ],
+      "text": "CD4 count (if applicable), drug susceptibility tests and diagnostic test results, TB treatment received before",
+      "font": "SegoeUI-Light",
+      "size": 10.949082374572754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        161.4304962158203,
+        520.26123046875,
+        175.8734893798828
+      ],
+      "text": "randomization, AEs and treatment regimens, and end-of-treatment and end-of-follow-up outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.27442932128906,
+        174.85330200195312,
+        207.93441772460938
+      ],
+      "text": "Statistical analyses",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.0323486328125,
+        452.1643981933594,
+        229.58534240722656
+      ],
+      "text": "Annex 2 Statistical analyses were based on the WHO outcome definitions listed in  .",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.84620666503906,
+        527.4222412109375,
+        251.28919982910156
+      ],
+      "text": "The endTB trial specified follow-up for at least 73 weeks, but most participants were followed up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.0463409423828,
+        527.4133911132812,
+        264.4893493652344
+      ],
+      "text": "until the end of the control regimen and 104 weeks post-randomization. The outcome was assigned",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.24627685546875,
+        527.4376220703125,
+        277.6893005371094
+      ],
+      "text": "for endpoints at 73 and 104 weeks. For the WHO review, the efficacy analyses used the week 104",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.4462890625,
+        488.37225341796875,
+        290.8893127441406
+      ],
+      "text": "endpoint. The study team performed the analyses and presented them to the WHO panel.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.15020751953125,
+        527.4266357421875,
+        312.5932312011719
+      ],
+      "text": "The endTB outcome definitions were similar to the WHO outcome definitions, except for the LTFU.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.3502197265625,
+        527.5409545898438,
+        325.7932434082031
+      ],
+      "text": "Patients who were originally classified as being LTFU based on the endTB protocol and statistical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.5502014160156,
+        527.4097290039062,
+        338.99322509765625
+      ],
+      "text": "analysis plans (and thus assigned an unfavourable outcome) were reclassified as “sustained treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.986541748046875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.7502136230469,
+        305.6534118652344,
+        352.1932373046875
+      ],
+      "text": "success” if all of the following conditions were met:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.4541015625,
+        78.23609924316406,
+        373.8971252441406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        359.4541015625,
+        272.392822265625,
+        373.8971252441406
+      ],
+      "text": "the participant had completed treatment;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.65411376953125,
+        78.23609924316406,
+        387.0971374511719
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        372.65411376953125,
+        527.3960571289062,
+        387.0971374511719
+      ],
+      "text": "the participant had been assigned an unfavourable outcome at week 104 based on the endTB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        385.8542175292969,
+        430.1295471191406,
+        400.2972412109375
+      ],
+      "text": "protocol solely because of missed visits, LTFU, or withdrawal of consent; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.0541076660156,
+        78.23609924316406,
+        413.49713134765625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        399.0541076660156,
+        524.1964111328125,
+        413.49713134765625
+      ],
+      "text": "the participant had at least one negative culture and no positive cultures after treatment completion.",
+      "font": "SegoeUI-Light",
+      "size": 10.948630332946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.460693359375,
+        507.7322082519531,
+        439.2886962890625
+      ],
+      "text": "Table 2.5. Cross-tabulation of endTB and WHO outcomes at week 104 – mITT",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.8607177734375,
+        132.87010192871094,
+        453.688720703125
+      ],
+      "text": "population",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        546.238037109375,
+        511.7042236328125,
+        560.791015625
+      ],
+      "text": "Favorable 0 574 0 0 574",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        567.8526611328125,
+        511.7042236328125,
+        582.4056396484375
+      ],
+      "text": "Unfavourable 7 41 16 61 125",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        589.4672241210938,
+        511.7057189941406,
+        604.0202026367188
+      ],
+      "text": "Death 0 0 16 0 16",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        611.081787109375,
+        511.7057189941406,
+        625.634765625
+      ],
+      "text": "Positive culture 0 25 0 0 25",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        632.6964111328125,
+        511.70721435546875,
+        647.2493896484375
+      ],
+      "text": "Poor evolution 0 0 0 0 0",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        654.31103515625,
+        511.70721435546875,
+        668.864013671875
+      ],
+      "text": "Recurrence 0 4 0 0 4",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        675.9255981445312,
+        511.7057189941406,
+        690.4785766601562
+      ],
+      "text": "AEs 0 12 0 0 12 a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        697.5402221679688,
+        511.7057189941406,
+        712.0932006835938
+      ],
+      "text": "Poor adherence 0 0 0 17 17 a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        719.1548461914062,
+        511.7057189941406,
+        733.7078247070312
+      ],
+      "text": "Consent withdrawal  0 0 0 17 17",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        86.66929626464844,
+        740.7694091796875,
+        511.7057189941406,
+        755.3223876953125
+      ],
+      "text": "LTFU 4 0 0 17 21",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  103",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

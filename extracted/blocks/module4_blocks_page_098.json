@@ -1,0 +1,522 @@
+{
+  "file": "module4",
+  "page": 98,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.390380859375,
+        81.83369445800781
+      ],
+      "text": "There is an opportunity to improve global capacity for DST for bedaquiline, delamanid and linezolid,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.111328125,
+        95.03370666503906
+      ],
+      "text": "given that current resources are limited and no rapid molecular tests are available for these medications.",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4388427734375,
+        108.23371887207031
+      ],
+      "text": "Prompt treatment initiation is vital, especially for patients with no prior exposure; this is particularly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.3870849609375,
+        121.43373107910156
+      ],
+      "text": "relevant in countries where bedaquiline usage is low, minimizing the risk of resistance transmission.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4299926757812,
+        134.6337432861328
+      ],
+      "text": "Individuals with a history of receiving bedaquiline, delamanid (or pretomanid) and linezolid for more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.4454956054688,
+        147.8336944580078
+      ],
+      "text": "than a month should have recent DST results confirming susceptibility before being enrolled on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.403564453125,
+        161.03370666503906
+      ],
+      "text": "BDLLfxC regimen. In settings where DST for bedaquiline, delamanid and linezolid can be done and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        457.2434387207031,
+        174.2337188720703
+      ],
+      "text": "resistance to any of these medicines is confirmed, the regimens should not be used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.6345977783203,
+        197.2645263671875,
+        206.29458618164062
+      ],
+      "text": "Drug–drug interactions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.5026397705078,
+        527.1990356445312,
+        227.9456329345703
+      ],
+      "text": "It is essential to consider drug–drug interactions when administering TB and HIV medications in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.7025909423828,
+        527.3679809570312,
+        241.1455841064453
+      ],
+      "text": "combination. The preferred ART regimens for coadministration with BDLLfxC are dolutegravir-based in",
+      "font": "SegoeUI-Light",
+      "size": 10.960529327392578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        239.90260314941406,
+        527.3611450195312,
+        254.34559631347656
+      ],
+      "text": "combination with two nucleoside reverse transcriptase inhibitors (NRTIs). The NRTI zidovudine should",
+      "font": "SegoeUI-Light",
+      "size": 10.980232238769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.1024932861328,
+        527.4299926757812,
+        267.5455017089844
+      ],
+      "text": "be avoided because of the overlapping toxicity of myelosuppression. The non-NRTIs (efavirenz) is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.302490234375,
+        483.24407958984375,
+        280.7455139160156
+      ],
+      "text": "contraindicated with bedaquiline. For newer agents, package inserts should be consulted.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.14642333984375,
+        184.57810974121094,
+        312.8064270019531
+      ],
+      "text": "Other considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.014404296875,
+        527.3739013671875,
+        334.4574279785156
+      ],
+      "text": "There was no exclusion based on BMI. Eighty-five (42%) patients randomized to BDLLfxC had a BMI",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.21429443359375,
+        527.3243408203125,
+        347.6573181152344
+      ],
+      "text": "below 18.5 g/m . No major effect of a low BMI was noted on the efficacy of the BDLLfxC versus  2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.4143981933594,
+        527.434326171875,
+        360.857421875
+      ],
+      "text": "the control (RD –4.1% (95% CI: –16.5%, 8.3%), but the evidence is too uncertain to draw specific",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.6144104003906,
+        129.1331024169922,
+        374.05743408203125
+      ],
+      "text": "conclusions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.31829833984375,
+        527.3946533203125,
+        395.7613220214844
+      ],
+      "text": "In the BEAT-TB trial patients with severe anaemia (haemoglobin <8 g/dL) could receive a transfusion",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.518310546875,
+        524.2813110351562,
+        408.9613342285156
+      ],
+      "text": "before starting treatment in either group. If the person’s haemoglobin levels recovered to above 8 g/",
+      "font": "SegoeUI-Light",
+      "size": 10.994297981262207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.7182922363281,
+        527.4299926757812,
+        422.16131591796875
+      ],
+      "text": "dL, they could then be enrolled in the trial. In programmatic settings, if transfusion is unavailable or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.9183044433594,
+        527.5369262695312,
+        435.361328125
+      ],
+      "text": "considered too risky, the treating physician must consider the benefit–risk profile of starting treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.983237266540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.1183166503906,
+        527.4244384765625,
+        448.56134033203125
+      ],
+      "text": "with the linezolid-containing BDLLfxC regimen versus the 9-month treatment regimen that does not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.31829833984375,
+        415.6568908691406,
+        461.7613220214844
+      ],
+      "text": "include linezolid or a longer individualized regimen that is linezolid sparing.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.022216796875,
+        527.2857666015625,
+        483.4652404785156
+      ],
+      "text": "Some groups of patients were excluded from the BEAT-TB trial, such as those with liver enzyme",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.2221984863281,
+        527.4157104492188,
+        496.66522216796875
+      ],
+      "text": "measurements three or more times over the upper limit of normal, people with a corrected QT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.4222106933594,
+        527.3914184570312,
+        509.865234375
+      ],
+      "text": "interval by Fredericia (QTcF) of more than 480 ms, or with a current peripheral neuropathy of Grade",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.6221923828125,
+        527.4222412109375,
+        523.065185546875
+      ],
+      "text": "3–4. These groups of patients may still receive the regimen if the treating physician judges it to be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.8222045898438,
+        494.87982177734375,
+        536.2651977539062
+      ],
+      "text": "the best option despite these contraindications and where adequate monitoring is available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.6394653320312,
+        460.78546142578125,
+        565.4915161132812
+      ],
+      "text": "Regimen composition, dosing of component medicines and frequency",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.6994018554688,
+        527.2669067382812,
+        587.1423950195312
+      ],
+      "text": "The dosing frequency should be 7 days a week. The BDLLfxC regimen comprises bedaquiline,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.8994140625,
+        527.3591918945312,
+        600.3424072265625
+      ],
+      "text": "delamanid and linezolid with levofloxacin and/or clofazimine throughout the duration of the regimen,",
+      "font": "SegoeUI-Light",
+      "size": 10.980432510375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.0994262695312,
+        527.3865356445312,
+        613.5424194335938
+      ],
+      "text": "depending on quinolone susceptibility. Delamanid was administered twice daily for 8 weeks and then",
+      "font": "SegoeUI-Light",
+      "size": 10.993597984313965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.2994384765625,
+        158.32708740234375,
+        626.742431640625
+      ],
+      "text": "daily for 16 weeks.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.143310546875,
+        224.8621063232422,
+        658.8033447265625
+      ],
+      "text": "Bedaquiline dosing schemes",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.01123046875,
+        527.4444580078125,
+        680.4542236328125
+      ],
+      "text": "The dosing strategy used in the BEAT-TB trial was daily as a loading dose of 400mg for 2 weeks,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.211181640625,
+        527.3914794921875,
+        693.6541748046875
+      ],
+      "text": "then 200mg three times weekly for 22 weeks. As an alternative, it is possible to use the daily dosing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.4111938476562,
+        527.4388427734375,
+        706.8541870117188
+      ],
+      "text": "strategy (i.e. loading dose daily of 200) for the first 2 months and then continue daily 100mg for the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.6112060546875,
+        141.87110900878906,
+        720.05419921875
+      ],
+      "text": "next 4 months.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "84 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

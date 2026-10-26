@@ -1,0 +1,426 @@
+{
+  "file": "module5",
+  "page": 33,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        461.6116943359375,
+        147.5496368408203
+      ],
+      "text": "2. TB screening and contact",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.349609375,
+        246.40211486816406,
+        185.94960021972656
+      ],
+      "text": "investigation",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.31861877441406,
+        527.3925170898438,
+        233.76161193847656
+      ],
+      "text": "This chapter includes current WHO recommendations that apply to children and adolescents on TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.5186309814453,
+        527.5784301757812,
+        246.9616241455078
+      ],
+      "text": "screening and contact investigation. They have been consolidated from current WHO guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.9246368408203,
+        527.4537963867188,
+        260.1616516113281
+      ],
+      "text": "WHO consolidated  on systematic screening for TB disease and contact investigation, namely the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.12457275390625,
+        524.3935546875,
+        273.30657958984375
+      ],
+      "text": "guidelines on tuberculosis. Module 2: screening – systematic screening for tuberculosis disease (11)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.3245849609375,
+        527.439208984375,
+        286.5616149902344
+      ],
+      "text": "Guidance for national tuberculosis programmes on the management of tuberculosis in children  and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.52459716796875,
+        527.3970336914062,
+        299.7616271972656
+      ],
+      "text": "(second edition) (8).  For more information on each recommendation including the remarks, source",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.51861572265625,
+        527.3936157226562,
+        312.9616394042969
+      ],
+      "text": "of evidence, justification, subgroup, implementation and monitoring and evaluation considerations,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.7186279296875,
+        183.83941650390625,
+        326.1616516113281
+      ],
+      "text": "the source guidelines or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        183.84170532226562,
+        311.7186279296875,
+        244.38571166992188,
+        326.1616516113281
+      ],
+      "text": "WHO TB KSP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        244.38470458984375,
+        311.7186279296875,
+        345.5517578125,
+        326.1616516113281
+      ],
+      "text": "should be consulted.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.9465026855469,
+        516.5523071289062,
+        357.6105041503906
+      ],
+      "text": "Table 3: WHO recommendations on TB screening and contact investigation relevant to",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.3465270996094,
+        199.9716796875,
+        372.0105285644531
+      ],
+      "text": "children and adolescents",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        388.6029052734375,
+        479.3011779785156,
+        402.9578857421875
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 2: screening – systematic",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        400.5368957519531,
+        265.6131286621094,
+        414.9578857421875
+      ],
+      "text": "(11) screening for tuberculosis disease",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        422.1515197753906,
+        277.28839111328125,
+        436.572509765625
+      ],
+      "text": "Screening for TB in targeted populations",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        443.9421081542969,
+        471.2658996582031,
+        458.3851318359375
+      ],
+      "text": "Household contacts and other close contacts of individuals with TB disease should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        455.9421081542969,
+        253.9036102294922,
+        470.3851318359375
+      ],
+      "text": "systematically screened for TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        469.40008544921875,
+        338.410888671875,
+        486.6371154785156
+      ],
+      "text": "(Strong recommendation, moderate certainty of evidence )",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        493.8087158203125,
+        513.9149780273438,
+        508.2517395019531
+      ],
+      "text": "People living with HIV should be systematically screened for TB disease at each visit to a health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        505.8087158203125,
+        110.83419036865234,
+        520.251708984375
+      ],
+      "text": "facility.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        519.2666625976562,
+        332.42138671875,
+        536.4486694335938
+      ],
+      "text": "(Strong recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        543.67529296875,
+        508.6273498535156,
+        558.1182861328125
+      ],
+      "text": "Systematic screening for TB disease may be conducted among subpopulations with structural",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        555.67529296875,
+        519.2289428710938,
+        570.1182861328125
+      ],
+      "text": "risk factors for TB. These include urban poor communities, homeless communities, communities",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        567.67529296875,
+        499.6612243652344,
+        582.1182861328125
+      ],
+      "text": "in remote or isolated areas, indigenous populations, migrants, refugees, internally displaced",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        579.67529296875,
+        482.0578918457031,
+        594.1182861328125
+      ],
+      "text": "persons and other vulnerable or marginalized groups with limited access to health care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        593.13330078125,
+        473.8250732421875,
+        610.3703002929688
+      ],
+      "text": "Existing recommendation: conditional recommendation, very low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        617.3658447265625,
+        205.44851684570312,
+        631.7868041992188
+      ],
+      "text": "Tools for screening for TB",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        639.1563720703125,
+        460.64544677734375,
+        653.599365234375
+      ],
+      "text": "Among individuals aged 15 years and older in populations in which TB screening is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        651.1563720703125,
+        485.9299011230469,
+        665.599365234375
+      ],
+      "text": "recommended, systematic screening for TB disease may be conducted using a symptom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        663.1563720703125,
+        483.74859619140625,
+        677.599365234375
+      ],
+      "text": "screen, chest X-ray or molecular WHO-recommended rapid diagnostic tests, alone or in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        675.1563720703125,
+        140.9093017578125,
+        689.599365234375
+      ],
+      "text": "combination.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        688.6143798828125,
+        431.3468933105469,
+        705.8513793945312
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence for test accuracy )",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        387.9992980957031,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "2. TB screening and contact investigation 9",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

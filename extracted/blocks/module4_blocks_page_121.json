@@ -1,0 +1,630 @@
+{
+  "file": "module4",
+  "page": 121,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.394775390625,
+        81.83369445800781
+      ],
+      "text": "The GDG judged the benefits of BLLfxCZ to be moderate and the undesirable effects to be small",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.2152099609375,
+        95.03370666503906
+      ],
+      "text": "compared with WHO-recommended longer regimens. The certainty of evidence was judged to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.445556640625,
+        108.23371887207031
+      ],
+      "text": "be very low overall, with probably no important uncertainty in the values that people place on the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.2241821289062,
+        121.43373107910156
+      ],
+      "text": "outcomes. Hence, the GDG determined that the balance of health effects probably favours the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        154.16690063476562,
+        134.6337432861328
+      ],
+      "text": "BLLfxCZ regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        145.00189208984375,
+        125.72310638427734,
+        159.3568878173828
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        166.7059326171875,
+        527.3493041992188,
+        181.06092834472656
+      ],
+      "text": "The BLLfxCZ regimen composed of bedaquiline, linezolid, levofloxacin, clofazimine and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.90594482421875,
+        527.4188232421875,
+        194.2609405517578
+      ],
+      "text": "pyrazinamide is suggested over currently recommended longer regimens in patients with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.10589599609375,
+        184.39707946777344,
+        207.4608917236328
+      ],
+      "text": "FQ-susceptible RR-TB.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        224.05970764160156,
+        142.8217010498047,
+        239.71969604492188
+      ],
+      "text": "Sub-PICO 2.3",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.65174865722656,
+        527.4620361328125,
+        261.3707580566406
+      ],
+      "text": "n Patients with MDR/RR-TB receiving the BDLLfxZ regimen ( =122 for failure and recurrence, death, and",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.964943885803223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.8516845703125,
+        527.3980102539062,
+        274.5707092285156
+      ],
+      "text": "n n LTFU;  =127 for AEs and  =128 for amplification of drug resistance) compared with those receiving",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.05169677734375,
+        527.4312133789062,
+        287.7707214355469
+      ],
+      "text": "n the currently recommended longer WHO regimens ( =119 for failure and recurrence, death and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.251708984375,
+        446.6846618652344,
+        300.9707336425781
+      ],
+      "text": "n n LTFU;  =126 for AEs and  =130 for amplification of drug resistance) experienced:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.23162841796875,
+        78.23609924316406,
+        322.6746520996094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        308.23162841796875,
+        527.4323120117188,
+        322.6746520996094
+      ],
+      "text": "lower levels of failure or recurrence: 1.6% versus 2.5%; RD=9 fewer per 1000 (95% CI: from 45",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        321.4316101074219,
+        211.64639282226562,
+        335.8746337890625
+      ],
+      "text": "fewer to 27 more per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.631591796875,
+        78.23609924316406,
+        349.0746154785156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        334.631591796875,
+        527.4122924804688,
+        349.0746154785156
+      ],
+      "text": "lower levels of death: 2.5% versus 3.4%; RD=9 fewer per 1000 (95% CI: from 52 fewer to 33 more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        347.83160400390625,
+        129.42909240722656,
+        362.2746276855469
+      ],
+      "text": "per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.0316162109375,
+        78.23609924316406,
+        375.4746398925781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        361.0316162109375,
+        527.41015625,
+        375.4746398925781
+      ],
+      "text": "lower levels of LTFU: 10.7% versus 16.8%; RD=62 fewer per 1000 (95% CI: from 148 fewer to 25",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        374.2315979003906,
+        159.6339874267578,
+        388.67462158203125
+      ],
+      "text": "more per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.4316101074219,
+        78.23609924316406,
+        401.8746337890625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        387.4316101074219,
+        527.4102172851562,
+        401.8746337890625
+      ],
+      "text": "lower levels of people with at least one Grade 3 to 5 AEs: 63.0% versus 65.1%; RD=21 fewer per",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        400.631591796875,
+        325.87481689453125,
+        415.0746154785156
+      ],
+      "text": "1000 (95% CI: from 139 fewer to 97 more per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.83160400390625,
+        78.23609924316406,
+        428.2746276855469
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        413.83160400390625,
+        527.3914794921875,
+        428.2746276855469
+      ],
+      "text": "lower levels of people with at least one serious AE: 15.7% versus 19.0%; RD=33 fewer per 1000",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        427.0316162109375,
+        320.6883544921875,
+        441.4746398925781
+      ],
+      "text": "(95% CI: from 126 fewer to 60 more per 1000); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.2315979003906,
+        78.23609924316406,
+        454.67462158203125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        440.2315979003906,
+        527.4069213867188,
+        454.67462158203125
+      ],
+      "text": "similar levels of amplified resistance: 0.0% versus 0.0%; RD=0 fewer per 1000 (95% CI: from 29",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        453.4316101074219,
+        214.660400390625,
+        467.8746337890625
+      ],
+      "text": "fewer to 29 more per 1000).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.1356201171875,
+        527.5178833007812,
+        489.5786437988281
+      ],
+      "text": "The GDG judged the benefits of BLLfxCZ to be small and the undesirable effects to be trivial compared",
+      "font": "SegoeUI-Light",
+      "size": 10.963088035583496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.3356018066406,
+        527.392578125,
+        502.77862548828125
+      ],
+      "text": "with WHO-recommended longer regimens. The certainty of evidence was judged to be very low",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.5355224609375,
+        527.4442749023438,
+        515.978515625
+      ],
+      "text": "overall, with probably no important uncertainty in the values that people place on the outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.735595703125,
+        524.5148315429688,
+        529.1785888671875
+      ],
+      "text": "Hence, the GDG determined that the balance of health effects probably favours the BDLLfxZ regimen.",
+      "font": "SegoeUI-Light",
+      "size": 10.976625442504883,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.5468139648438,
+        125.72310638427734,
+        553.9017944335938
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.2508544921875,
+        527.3860473632812,
+        575.6058349609375
+      ],
+      "text": "The BDLLfxZ regimen composed of bedaquiline, delamanid, linezolid, levofloxacin and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.4508056640625,
+        527.4188232421875,
+        588.8057861328125
+      ],
+      "text": "pyrazinamide is suggested over currently recommended longer regimens in patients with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.6507568359375,
+        184.39707946777344,
+        602.0057373046875
+      ],
+      "text": "FQ-susceptible RR-TB.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.6046142578125,
+        142.8217010498047,
+        634.2646484375
+      ],
+      "text": "Sub-PICO 2.4",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.1965942382812,
+        527.4569702148438,
+        655.9155883789062
+      ],
+      "text": "n Patients with MDR/RR-TB receiving the DCLLfxZ regimen ( =118 for death, failure and recurrence and",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.971212387084961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.396484375,
+        527.3958129882812,
+        669.115478515625
+      ],
+      "text": "n LTFU;  =124 for AEs and n=125 for amplification of drug-resistance) compared with those receiving",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.5966186523438,
+        527.4246215820312,
+        682.3156127929688
+      ],
+      "text": "n the currently recommended longer WHO regimens ( =119 for death, failure and recurrence and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.796630859375,
+        467.1807556152344,
+        695.515625
+      ],
+      "text": "n n LTFU and  =126 for AEs; and  =130 for amplification of drug resistance) experienced:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.7764892578125,
+        78.23609924316406,
+        717.219482421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        702.7764892578125,
+        527.4122924804688,
+        717.219482421875
+      ],
+      "text": "lower levels of death: 2.5% versus 3.4%; RD=8 fewer per 1000 (95% CI: from 51 fewer to 35 more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        715.9765014648438,
+        129.42909240722656,
+        730.4194946289062
+      ],
+      "text": "per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.176513671875,
+        78.23609924316406,
+        743.6195068359375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        729.176513671875,
+        527.41015625,
+        743.6195068359375
+      ],
+      "text": "lower levels of LTFU: 10.2% versus 16.8%; RD=66 fewer per 1000 (95% CI: from 153 fewer to 20",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        742.3765258789062,
+        159.6339874267578,
+        756.8195190429688
+      ],
+      "text": "more per 1000);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  107",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

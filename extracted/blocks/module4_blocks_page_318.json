@@ -1,0 +1,666 @@
+{
+  "file": "module4",
+  "page": 318,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        488.7460632324219,
+        86.53083038330078
+      ],
+      "text": "Question 10. Should 6-month regimen using bedaquiline,",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.65083312988281,
+        466.7877197265625,
+        105.53083038330078
+      ],
+      "text": "pretomanid, linezolid and clofazimine (BPaLC) be used",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.65083312988281,
+        451.22613525390625,
+        124.53083038330078
+      ],
+      "text": "in patients with pulmonary MDR/RR-TB and without",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        122.65083312988281,
+        270.4580993652344,
+        143.5308380126953
+      ],
+      "text": "fluoroquinolone resistance?",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        155.2362060546875,
+        462.8168029785156,
+        169.59120178222656
+      ],
+      "text": "Population Intervention Comparator Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        176.96083068847656,
+        513.5103149414062,
+        191.40382385253906
+      ],
+      "text": "Patients with  BPaLC : Other regimens conforming  1.\tTreatment success  a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        188.96083068847656,
+        480.6841125488281,
+        207.6558380126953
+      ],
+      "text": "pulmonary MDR/ to WHO guidelines b 6 Bdq-Pa- 2.\tFailure and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        200.850830078125,
+        170.91278076171875,
+        215.40382385253906
+      ],
+      "text": "without  RR-TB and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        189.01930236816406,
+        205.2128448486328,
+        482.2461242675781,
+        219.6558380126953
+      ],
+      "text": "Lzd-Cfz ‒Shorter regimen Recurrence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        212.850830078125,
+        143.8397979736328,
+        227.20582580566406
+      ],
+      "text": "FQ resistance",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        221.46473693847656,
+        455.4368896484375,
+        235.90773010253906
+      ],
+      "text": "‒Longer regimens 3.\tDeath",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        227.9368438720703,
+        133.68130493164062,
+        243.60084533691406
+      ],
+      "text": "Stratified by:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        237.7167510986328,
+        504.48590087890625,
+        252.1597442626953
+      ],
+      "text": "Other regimens: 4.\tLost to follow up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        245.46473693847656,
+        158.6893310546875,
+        259.9077453613281
+      ],
+      "text": "•\tSmear positivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        253.9687042236328,
+        500.6007080078125,
+        268.4117126464844
+      ],
+      "text": "‒6–9 Lzd Bdq Lfx Z Eto/Hh/ 5.\tAdverse events",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        261.71673583984375,
+        162.6537322998047,
+        276.1597595214844
+      ],
+      "text": "•\tCulture positivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.3692932128906,
+        265.96868896484375,
+        492.3858947753906,
+        280.4117126464844
+      ],
+      "text": "Trd \n (DDIs for HIV-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        277.96868896484375,
+        514.9029541015625,
+        292.4117126464844
+      ],
+      "text": "•\tCavitation on chest  (NeXT regimen) infected patients if",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        289.96868896484375,
+        511.4741516113281,
+        304.4117126464844
+      ],
+      "text": "x-ray  data are available)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        294.2205810546875,
+        386.4658203125,
+        308.6636047363281
+      ],
+      "text": "‒All-oral shorter regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        306.2205810546875,
+        502.6390380859375,
+        320.6636047363281
+      ],
+      "text": "•\tSmoker status containing 3 group A  6.\tAmplification of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.3692932128906,
+        318.2205810546875,
+        497.5152282714844,
+        332.6636047363281
+      ],
+      "text": "medicines (SA regimen  drug resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        322.47259521484375,
+        132.66329956054688,
+        336.9156188964844
+      ],
+      "text": "•\tHIV status",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.3692932128906,
+        330.2206115722656,
+        299.1313171386719,
+        344.66363525390625
+      ],
+      "text": "2019)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        338.724609375,
+        155.9943084716797,
+        353.1676330566406
+      ],
+      "text": "•\tDiabetes status",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        346.47259521484375,
+        404.4618835449219,
+        360.9156188964844
+      ],
+      "text": "‒6–9 Lzd 600–300 mg + Pa+",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.3692932128906,
+        358.47259521484375,
+        369.7051086425781,
+        372.9156188964844
+      ],
+      "text": "Bdq (PRATECAL arm)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.3692932128906,
+        374.724609375,
+        392.9415283203125,
+        389.1676330566406
+      ],
+      "text": "‒BPaL regimens (Nix/Zenix)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.5704040527344,
+        526.61962890625,
+        413.96240234375
+      ],
+      "text": "TB-Practecal intervention arm 2, with Linezolid 600mg daily for 16 weeks then 300mg daily (or 600mg x3/wk) for the remaining 8 weeks  a",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        413.5704040527344,
+        203.43409729003906,
+        424.96240234375
+      ],
+      "text": "or earlier when moderately tolerated.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.405029296875,
+        130.6833038330078,
+        438.7970275878906
+      ],
+      "text": "Data sources: \n b",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        438.405029296875,
+        294.5697937011719,
+        449.8370361328125
+      ],
+      "text": "-  Data contributed by countries (public call – for both SR & LR);",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        450.3330383300781,
+        232.1388702392578,
+        460.8370361328125
+      ],
+      "text": "- IPD: all-oral SR (from SA), EndTB regimens;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.4981994628906,
+        275.8404846191406,
+        504.3782043457031
+      ],
+      "text": "4.2.2. Guideline update 2025",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.67138671875,
+        354.26287841796875,
+        537.5513916015625
+      ],
+      "text": "Question 1 (BEAT-TB 6-month regimen)",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.75537109375,
+        527.3912963867188,
+        558.1983642578125
+      ],
+      "text": "Should a 6-month regimen using bedaquiline, delamanid, and linezolid with or without the addition",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.955322265625,
+        527.4442749023438,
+        571.3983154296875
+      ],
+      "text": "of levofloxacin or clofazimine or both (BDLLfx/C) be used in patients with pulmonary RR-TB (with or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.1553955078125,
+        475.29876708984375,
+        584.598388671875
+      ],
+      "text": "without fluoroquinolone resistance) over the currently recommended 9-month regimen?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        597.3607177734375,
+        435.43450927734375,
+        611.7156982421875
+      ],
+      "text": "Population Intervention Comparator Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        619.0853881835938,
+        490.39111328125,
+        633.5283813476562
+      ],
+      "text": "Patients with  BDLLfx/C  BEAT-Tuberculosis  •\tSustained treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        631.0853881835938,
+        429.5116271972656,
+        645.5283813476562
+      ],
+      "text": "microbiologically  regimen : comparator regimens: success a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        643.0853881835938,
+        499.9710388183594,
+        661.7802734375
+      ],
+      "text": "confirmed  6 2 6 Bdq-Dlm- •\t9 Bdq( )-Lzd( )- •\tFailure and recurrence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        655.0853881835938,
+        130.80479431152344,
+        669.5283813476562
+      ],
+      "text": "pulmonary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.50390625,
+        659.3372802734375,
+        346.18780517578125,
+        673.7802734375
+      ],
+      "text": "Lzd-Lfx/Cfz  Lfx-Cfz-Hh-Z-E (for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        663.5892944335938,
+        426.068603515625,
+        681.5283813476562
+      ],
+      "text": "•\tDeath  MDR/RR-TB and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.50390625,
+        671.3372802734375,
+        323.0537109375,
+        685.7802734375
+      ],
+      "text": "(and/or) Fq-susceptible)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        678.9754028320312,
+        472.1036071777344,
+        694.2843017578125
+      ],
+      "text": "with or without  •\tLost to follow up",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        687.5892944335938,
+        325.2328186035156,
+        705.3303833007812
+      ],
+      "text": "•\tWHO currently  FQ resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        253.7866973876953,
+        696.0932006835938,
+        465.20440673828125,
+        714.0322875976562
+      ],
+      "text": "•\tAdverse events recommended longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        253.7866973876953,
+        711.5892944335938,
+        516.2686157226562,
+        726.7882080078125
+      ],
+      "text": "regimens (18–20 months)  •\tAmplification (acquisition)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        253.7866973876953,
+        723.5892944335938,
+        477.05694580078125,
+        738.7882080078125
+      ],
+      "text": "(for Fq-resistant) of drug resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.19091796875,
+        291.93719482421875,
+        763.5829467773438
+      ],
+      "text": "BEAT-Tuberculosis trial intervention arm (6 months or 24 weeks) a",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "304 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

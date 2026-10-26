@@ -1,0 +1,810 @@
+{
+  "file": "module4",
+  "page": 9,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.44374084472656,
+        91.26759338378906,
+        81.146240234375
+      ],
+      "text": "IQR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        67.54874420166016,
+        232.98280334472656,
+        81.33524322509766
+      ],
+      "text": "interquartile range",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.19563293457031,
+        96.70344543457031,
+        97.89813232421875
+      ],
+      "text": "LTFU",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        84.3006362915039,
+        224.589111328125,
+        98.0871353149414
+      ],
+      "text": "loss to follow-up",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.94758605957031,
+        91.34929656982422,
+        114.65008544921875
+      ],
+      "text": "LPA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        101.0525894165039,
+        222.33372497558594,
+        114.8390884399414
+      ],
+      "text": "line probe assay",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        146.33901977539062,
+        116.58660125732422,
+        271.91253662109375,
+        131.53860473632812
+      ],
+      "text": "Mycobacterium tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.49569702148438,
+        117.69960021972656,
+        147.8944091796875,
+        131.402099609375
+      ],
+      "text": "M. tuberculosis",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        134.4516143798828,
+        113.88460540771484,
+        148.15411376953125
+      ],
+      "text": "MDR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        134.55661010742188,
+        289.1399230957031,
+        148.34310913085938
+      ],
+      "text": "multidrug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        151.20362854003906,
+        131.31460571289062,
+        164.9061279296875
+      ],
+      "text": "MDR/RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        151.30862426757812,
+        351.22637939453125,
+        165.09512329101562
+      ],
+      "text": "multidrug- or rifampicin-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.9556427001953,
+        93.0105972290039,
+        181.65814208984375
+      ],
+      "text": "MIC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        168.06063842773438,
+        300.80224609375,
+        181.84713745117188
+      ],
+      "text": "minimum inhibitory concentration",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.70753479003906,
+        94.4385986328125,
+        198.4100341796875
+      ],
+      "text": "MSF",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        184.81253051757812,
+        262.3103942871094,
+        198.59902954101562
+      ],
+      "text": "Médecins Sans Frontières",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.45948791503906,
+        98.3025894165039,
+        215.1619873046875
+      ],
+      "text": "NExT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        201.56448364257812,
+        386.57476806640625,
+        215.35098266601562
+      ],
+      "text": "Newer and Emerging Treatment for MDR/RR-TB (trial)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.21144104003906,
+        97.0635986328125,
+        231.9139404296875
+      ],
+      "text": "NGO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        218.31643676757812,
+        284.42230224609375,
+        232.10293579101562
+      ],
+      "text": "non-government organization",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.96339416503906,
+        93.73509216308594,
+        248.6658935546875
+      ],
+      "text": "NTP",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        235.06838989257812,
+        255.75100708007812,
+        248.85488891601562
+      ],
+      "text": "national TB programme",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.7154083251953,
+        94.12359619140625,
+        265.41790771484375
+      ],
+      "text": "PHC",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        251.82040405273438,
+        237.2058868408203,
+        265.6069030761719
+      ],
+      "text": "primary health care",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        268.4673156738281,
+        97.25154876708984,
+        282.1697998046875
+      ],
+      "text": "PICO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        268.5722961425781,
+        379.431640625,
+        282.3587951660156
+      ],
+      "text": "population, intervention, comparator and outcomes",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.2193298339844,
+        102.51309204101562,
+        298.92181396484375
+      ],
+      "text": "PLHIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        285.3243103027344,
+        247.43710327148438,
+        299.1108093261719
+      ],
+      "text": "people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.9713439941406,
+        130.5995635986328,
+        315.673828125
+      ],
+      "text": "pre-XDR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        302.0763244628906,
+        335.91748046875,
+        315.8628234863281
+      ],
+      "text": "pre-extensively drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.7233581542969,
+        96.21834564208984,
+        332.42584228515625
+      ],
+      "text": "QTcF",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        318.8283386230469,
+        302.9925842285156,
+        332.6148376464844
+      ],
+      "text": "corrected QT interval by Fredericia",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.4752197265625,
+        92.47824096679688,
+        349.1777038574219
+      ],
+      "text": "RCT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        335.5802001953125,
+        270.4951171875,
+        349.36669921875
+      ],
+      "text": "randomized controlled trial",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.22723388671875,
+        87.82359313964844,
+        365.9297180175781
+      ],
+      "text": "RD",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        352.33221435546875,
+        212.36605834960938,
+        366.11871337890625
+      ],
+      "text": "risk difference",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.9792175292969,
+        91.89759063720703,
+        382.68170166015625
+      ],
+      "text": "REZ",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        369.0841979980469,
+        314.76312255859375,
+        382.8706970214844
+      ],
+      "text": "rifampicin–ethambutol–pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.73114013671875,
+        86.83659362792969,
+        399.4336242675781
+      ],
+      "text": "RR",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        385.83612060546875,
+        188.91009521484375,
+        399.62261962890625
+      ],
+      "text": "risk ratio",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.4831237792969,
+        103.19559478759766,
+        416.18560791015625
+      ],
+      "text": "RR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        402.5881042480469,
+        289.42132568359375,
+        416.3746032714844
+      ],
+      "text": "rifampicin-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.2351379394531,
+        91.57209014892578,
+        432.9376220703125
+      ],
+      "text": "SAT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        419.3401184082031,
+        436.6041259765625,
+        433.1266174316406
+      ],
+      "text": "self-administered therapy (also meaning unsupervised treatment)",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.9870300292969,
+        94.87959289550781,
+        449.68951416015625
+      ],
+      "text": "SMS",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        436.0920104980469,
+        321.45587158203125,
+        449.8785095214844
+      ],
+      "text": "short message service or text message",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.739013671875,
+        91.14159393310547,
+        466.4414978027344
+      ],
+      "text": "SRL",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        452.843994140625,
+        317.2652893066406,
+        466.6304931640625
+      ],
+      "text": "TB supranational reference laboratory",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.49102783203125,
+        114.0726318359375,
+        483.1935119628906
+      ],
+      "text": "STREAM",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.479530334472656,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        469.59600830078125,
+        524.71533203125,
+        483.38250732421875
+      ],
+      "text": "Standard Treatment Regimen of Anti-tuberculosis Drugs for Patients with MDR-TB (trial)",
+      "font": "SegoeUI-Light",
+      "size": 10.479530334472656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.2430419921875,
+        85.89159393310547,
+        499.9455261230469
+      ],
+      "text": "TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        486.3480224609375,
+        203.66262817382812,
+        500.134521484375
+      ],
+      "text": "tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.9949035644531,
+        125.64458465576172,
+        516.6973876953125
+      ],
+      "text": "The Union",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        503.0998840332031,
+        407.0675964355469,
+        516.8864135742188
+      ],
+      "text": "International Union Against Tuberculosis and Lung Disease",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.7468872070312,
+        91.47759246826172,
+        533.4494018554688
+      ],
+      "text": "TPT",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        519.8519287109375,
+        256.7936706542969,
+        533.638427734375
+      ],
+      "text": "TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.498779296875,
+        94.76303100585938,
+        550.2012939453125
+      ],
+      "text": "VST",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        536.6038208007812,
+        271.1282958984375,
+        550.3903198242188
+      ],
+      "text": "video-supported treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.2507934570312,
+        93.89259338378906,
+        566.9533081054688
+      ],
+      "text": "USA",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        553.3558349609375,
+        259.90167236328125,
+        567.142333984375
+      ],
+      "text": "United States of America",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.0028076171875,
+        99.55209350585938,
+        583.705322265625
+      ],
+      "text": "WHO",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        570.1078491210938,
+        269.43670654296875,
+        583.8943481445312
+      ],
+      "text": "World Health Organization",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        586.7547607421875,
+        123.12354278564453,
+        600.457275390625
+      ],
+      "text": "WHO/GTB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        586.8598022460938,
+        520.0055541992188,
+        600.6463012695312
+      ],
+      "text": "Global Programme on Tuberculosis & Lung Health of the World Health Organization",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.5067138671875,
+        110.6821060180664,
+        617.209228515625
+      ],
+      "text": "XDR-TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.86610412597656,
+        603.6117553710938,
+        317.3020324707031,
+        617.3982543945312
+      ],
+      "text": "extensively drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        429.6321105957031,
+        801.0170288085938,
+        553.3721313476562,
+        811.52099609375
+      ],
+      "text": "﻿Abbreviations and acronyms vii",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

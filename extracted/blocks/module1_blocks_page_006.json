@@ -1,0 +1,534 @@
+{
+  "file": "module1",
+  "page": 6,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        343.4292907714844,
+        147.1480255126953
+      ],
+      "text": "Acknowledgements",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.24110412597656,
+        527.427490234375,
+        194.96009826660156
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 1:  The recommendations and the text of the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.4411163330078,
+        527.421630859375,
+        208.1601104736328
+      ],
+      "text": "Prevention – tuberculosis preventive treatment, second edition  are the result of collaboration among",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.91712951660156,
+        527.3992919921875,
+        221.36012268066406
+      ],
+      "text": "professionals in various specialties with extensive expertise and experience in public health policy,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.1171417236328,
+        527.139404296875,
+        234.5601348876953
+      ],
+      "text": "tuberculosis (TB) programme management and the clinical care of TB patients. The recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.975772857666016,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.3170928955078,
+        527.403564453125,
+        247.7600860595703
+      ],
+      "text": "in these guidelines were developed by successive guideline development groups (GDGs) convened",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.51710510253906,
+        527.1983642578125,
+        260.9601135253906
+      ],
+      "text": "by WHO, the latest of which met in December 2023. WHO gratefully acknowledges the contributions",
+      "font": "SegoeUI-Light",
+      "size": 10.994898796081543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.71710205078125,
+        332.5668029785156,
+        274.1601257324219
+      ],
+      "text": "of all experts involved in preparation of these guidelines. 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.4210205078125,
+        527.4283447265625,
+        295.8640441894531
+      ],
+      "text": "The production and writing of these guidelines were coordinated by Avinash Kanchar, Dennis Falzon,",
+      "font": "SegoeUI-Light",
+      "size": 10.999800682067871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.62109375,
+        527.408935546875,
+        309.0641174316406
+      ],
+      "text": "Saskia den Boon and Matteo Zignol under the overall direction of Tereza Kasaeva, Director of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.82098388671875,
+        247.2429962158203,
+        322.2640075683594
+      ],
+      "text": "WHO Global Tuberculosis Programme.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        332.6875915527344,
+        265.3293762207031,
+        350.9576110839844
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        357.6636047363281,
+        527.4222412109375,
+        372.10662841796875
+      ],
+      "text": "The GDG was composed of Mênonli Adjobimey (National TB Programme, Benin), Rolando Cedillos",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.8636169433594,
+        527.1028442382812,
+        385.306640625
+      ],
+      "text": "(University of El Salvador and Hospital Nacional Rosales, El Salvador), Ana Ciobanu (formerly National",
+      "font": "SegoeUI-Light",
+      "size": 10.982585906982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.0635986328125,
+        527.3966674804688,
+        398.5066223144531
+      ],
+      "text": "TB Programme, Republic of Moldova), Alexander Kay (Baylor College of Medicine, Eswatini), Naira",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.26361083984375,
+        527.1292724609375,
+        411.7066345214844
+      ],
+      "text": "Khachatryan (National TB Programme, Armenia), Amir Khan (Professional Association for Social",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        410.463623046875,
+        527.4220581054688,
+        424.9066467285156
+      ],
+      "text": "Development, Pakistan), Blessina Kumar (Global Coalition of TB Advocates, India), Natalia Litvinenko",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.66363525390625,
+        527.27294921875,
+        438.1066589355469
+      ],
+      "text": "(National Institute of TB and Lung Diseases, Ukraine), Nasehi Mahshid (TB Programme Manager,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.8636474609375,
+        527.2451782226562,
+        451.3066711425781
+      ],
+      "text": "Tehran, Islamic Republic of Iran), Charisse Malbacias (Department of Health, Philippines), Alberto",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.06365966796875,
+        527.4099731445312,
+        464.5066833496094
+      ],
+      "text": "Matteelli (University of Brescia, Italy), Norbert Ndjeka (National Department of Health, South Africa),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.263671875,
+        527.3935546875,
+        477.7066955566406
+      ],
+      "text": "Senia Rosales Klintz (European Centre for Disease Prevention and Control, Sweden), Nicole Salazar",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.46368408203125,
+        527.4244384765625,
+        490.9067077636719
+      ],
+      "text": "Austin (Johns Hopkins Center for Clinical Global Health Education, United States of America [USA]),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        489.6636962890625,
+        527.3958740234375,
+        504.1067199707031
+      ],
+      "text": "Susan Swindells (University of Nebraska, USA), Stavia Turyahabwe (Ministry of Health, Uganda) and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.86370849609375,
+        527.3990478515625,
+        517.3067016601562
+      ],
+      "text": "Paran Winarni (Global Tuberculosis Community Advisory Board, Indonesia). The Chair of the GDG",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.0635986328125,
+        527.5225830078125,
+        530.506591796875
+      ],
+      "text": "was Norbert Ndjeka, and the GRADE methodologist was Lawrence Mbuagbaw (McMaster University,",
+      "font": "SegoeUI-Light",
+      "size": 10.992648124694824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.2636108398438,
+        111.58808898925781,
+        543.7066040039062
+      ],
+      "text": "Canada).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        554.1302490234375,
+        188.2747802734375,
+        572.4002075195312
+      ],
+      "text": "External reviewers",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.1060791015625,
+        527.4365844726562,
+        593.549072265625
+      ],
+      "text": "The External Review Group (ERG) was composed of Helen Ayles (London School of Hygiene and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.3060913085938,
+        527.4058227539062,
+        606.7490844726562
+      ],
+      "text": "Tropical Medicine, United Kingdom of Great Britain and Northern Ireland [United Kingdom]), Anurag",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.506103515625,
+        527.390380859375,
+        619.9490966796875
+      ],
+      "text": "Bhargava Yenepoya Medical College Hospital, India), Gavin Churchyard (The Aurum Institute, South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.7061157226562,
+        527.1647338867188,
+        633.1491088867188
+      ],
+      "text": "Africa), Raquel Duarte (European Respiratory Society and University of Porto, Portugal), Amita Gupta",
+      "font": "SegoeUI-Light",
+      "size": 10.994898796081543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.9061279296875,
+        527.4080810546875,
+        646.34912109375
+      ],
+      "text": "(Johns Hopkins University, USA), Anthony D Harries (International Union Against Tuberculosis and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.1060791015625,
+        527.6094360351562,
+        659.549072265625
+      ],
+      "text": "Lung Disease, France), Nino Lomtadze (National TB Programme, Georgia), Ruslan Malyuta (UNICEF),",
+      "font": "SegoeUI-Light",
+      "size": 10.998000144958496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.3060913085938,
+        527.4256591796875,
+        672.7490844726562
+      ],
+      "text": "Giovanni B. Migliori (Maugeri Research Centre, Italy), Lindiwe Mvusi (National Department of Health,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.506103515625,
+        527.378662109375,
+        685.9490966796875
+      ],
+      "text": "South Africa), Anastasia Samoilova (National TB Programme, Russian Federation), Alena Skrahina",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.7061157226562,
+        527.4312133789062,
+        699.1491088867188
+      ],
+      "text": "(Republican TB Centre, Belarus), Carrie Tudor (Johns Hopkins University School of Nursing, USA) and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.9061279296875,
+        353.55865478515625,
+        712.34912109375
+      ],
+      "text": "Valentina Vilc (National TB Programme, Republic of Moldova).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0718383789062,
+        526.595703125,
+        763.5758056640625
+      ],
+      "text": "More information on the areas of expertise, gender and geographical distribution, declarations of interests and the management of  1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        409.0357971191406,
+        773.17578125
+      ],
+      "text": "potential conflict of members of the 2023 GDG and the External Review Group are summarized in",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        409.0379943847656,
+        762.6718139648438,
+        436.3500061035156,
+        773.17578125
+      ],
+      "text": "Annex 2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        436.3504943847656,
+        762.6718139648438,
+        438.1264953613281,
+        773.17578125
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.72145080566406,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "iv WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

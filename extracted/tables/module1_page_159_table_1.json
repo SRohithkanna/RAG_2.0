@@ -1,0 +1,100 @@
+{
+  "file": "module1",
+  "page": 159,
+  "table_id": 1,
+  "bbox": [
+    56.69298095703125,
+    71.11668844784008,
+    784.6968139648437,
+    351.91583760579425
+  ],
+  "heading": null,
+  "n_rows": 7,
+  "n_cols": 10,
+  "data": [
+    [
+      "No. of studies (no. of individuals)",
+      "Design",
+      "Quality",
+      "",
+      "",
+      "",
+      "Effect",
+      "",
+      "Quality (GRADE)",
+      "Importance"
+    ],
+    [
+      "",
+      "",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Relative (pooled)",
+      "Absolute effect",
+      "",
+      ""
+    ],
+    [
+      "C. Systematic review outcome (subgroup analysis) : Progression to active TB among contacts of TB cases",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1 (N = 1511 for Prospective Serious risk of Not assessed; Serious Serious TST TST Very low Critical TST, 1498 for cohort of bias single study Indirectness imprecision RR, single 14 more per IGRA) (56) household study = 1.31 1000 (7 fewer to contacts (C1) (-1) (C2) C3 (-1) C4 (-1) (CI: 0.85 ; 2.04) 45 more) IGRA IGRA RR, single 28 more per study = 1.87 1000 (4 to 69 (CI: 1.12 ; 3.11) more)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "D. Systematic review outcome (subgroup analysis): Progression to active TB among TB health care workers",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1 (N = 195 for Prospective Serious risk of Not assessed; Serious Very serious TST TST Very low Critical TST, 189 for cohort of health- bias single study Indirectness imprecision RR, single 6 fewer per IGRA) (54) care workers study = 0.40 1000 (9 fewer to (D1) (-1) (D2) D3 (-1) D4 (-2) (CI: 0.02 ; 9.81) 82 more) IGRA IGRA RR, single (difference study = 3.10 cannot be (CI: 0.13 ; 75.04) computed)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "E. Systematic review outcome (subgroup analysis): Progression to active TB among adolescents in a high-incidence setting",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

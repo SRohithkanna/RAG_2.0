@@ -1,0 +1,474 @@
+{
+  "file": "module3",
+  "page": 60,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4144287109375,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.2.1.10 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.57433319091797,
+        309.4140625,
+        97.6623306274414
+      ],
+      "text": "bone or joint TB in synovial fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        109.25808715820312,
+        515.7949829101562,
+        124.01885986328125
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.92684555053711,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        124.96720886230469,
+        354.03240966796875,
+        139.037353515625
+      ],
+      "text": "Danfack 2024a 1 0 0 4 1.00 [0.03, 1.00] 1.00 [0.40, 1.00]",
+      "font": "ArialMT",
+      "size": 8.92684555053711,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        356.90771484375,
+        138.7090301513672,
+        517.3217163085938,
+        152.7791748046875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.92684555053711,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        166.29660034179688,
+        526.5010375976562,
+        177.05160522460938
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        177.09658813476562,
+        519.1832275390625,
+        187.85159301757812
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.84349060058594,
+        514.004638671875,
+        219.93148803710938
+      ],
+      "text": "Should LC-mNAATs on urine be used to diagnose genitourinary TB in adults and",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.24339294433594,
+        486.876220703125,
+        234.33139038085938
+      ],
+      "text": "adolescents with signs and symptoms of genitourinary TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.9984130859375,
+        526.9600219726562,
+        258.1434326171875
+      ],
+      "text": "One study (32 participants, including two people with TB) assessed the accuracy of LC-mNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97241497039795,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.4984130859375,
+        526.958984375,
+        273.6434326171875
+      ],
+      "text": "for detecting genitourinary TB using urine and an MRS ( ). Estimated sensitivity and  Fig. 2.2.1.11",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972314834594727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.9984130859375,
+        527.2056884765625,
+        289.1434326171875
+      ],
+      "text": "specificity were 50% and 100%, respectively. Due to limited data, a recommendation on using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989845275878906,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.4984130859375,
+        419.96759033203125,
+        304.6434326171875
+      ],
+      "text": "LC-mNAATs with urine for detection of genitourinary TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.2846374511719,
+        527.4144287109375,
+        333.37261962890625
+      ],
+      "text": "Fig. 2.2.1.11 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.7846374511719,
+        267.174072265625,
+        348.87261962890625
+      ],
+      "text": "genitourinary TB in urine and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        358.4932861328125,
+        515.7950439453125,
+        373.2542419433594
+      ],
+      "text": "TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI) FP FN Study TP",
+      "font": "Arial-BoldMT",
+      "size": 8.92684555053711,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        374.2023620605469,
+        354.03240966796875,
+        388.272705078125
+      ],
+      "text": "30 0.50 [0.01, 0.99] 1.00 [0.88, 1.00] 0 1 Danfack 2024a 1",
+      "font": "ArialMT",
+      "size": 8.92684555053711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        356.90771484375,
+        387.9441833496094,
+        517.3217163085938,
+        402.01434326171875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.92684555053711,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.74542236328125,
+        526.5010375976562,
+        426.50042724609375
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.54541015625,
+        519.1832275390625,
+        437.3004150390625
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.8163146972656,
+        246.438720703125,
+        472.1962890625
+      ],
+      "text": "Cost–effectiveness analysis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.44720458984375,
+        350.33856201171875,
+        495.59222412109375
+      ],
+      "text": "This section deals with the following additional question:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.4347839355469,
+        465.8425598144531,
+        521.5227661132812
+      ],
+      "text": "What are the comparative costs, affordability and cost–effectiveness of",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.8348388671875,
+        247.0645294189453,
+        535.9227905273438
+      ],
+      "text": "implementation of LC-mNAATs?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.5897216796875,
+        527.1242065429688,
+        559.7347412109375
+      ],
+      "text": "A systematic review commissioned by WHO aimed to identify, evaluate and summarize",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.0897216796875,
+        527.2142944335938,
+        575.2347412109375
+      ],
+      "text": "the findings of available economic evidence on LC-mNAATs, among other technologies.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.5897216796875,
+        524.3872680664062,
+        590.7347412109375
+      ],
+      "text": "The systematic review provided an in-depth analysis of the financial implications and cost–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.0897216796875,
+        526.8944702148438,
+        606.2347412109375
+      ],
+      "text": "effectiveness of implementing TB LAMP in diverse settings. Through a range of economic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.5897216796875,
+        526.7503051757812,
+        621.7347412109375
+      ],
+      "text": "analyses, including cost–utility, cost–benefit and cost–affordability assessments, this study",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.0897216796875,
+        467.0353088378906,
+        637.2347412109375
+      ],
+      "text": "contributes valuable insights into the potential role of TB LAMP in TB diagnostics.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.0936889648438,
+        527.1858520507812,
+        661.2387084960938
+      ],
+      "text": "After removing 638 duplicate studies from those identified in the original search, 1990 unique",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990095138549805,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.5936889648438,
+        526.7496337890625,
+        676.7387084960938
+      ],
+      "text": "studies remained. Of these, six studies were included in the final systematic review. Studies that",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.970259666442871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.0936889648438,
+        526.9479370117188,
+        692.2387084960938
+      ],
+      "text": "did not involve people with TB, used TB LAMP as a diagnostic intervention or did not contain",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.5936889648438,
+        526.9617309570312,
+        707.7387084960938
+      ],
+      "text": "cost data were excluded. Of the six included studies, one performed a cost–utility analysis,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.0936889648438,
+        526.9644775390625,
+        723.2387084960938
+      ],
+      "text": "and two performed a cost–affordability analysis. The three other studies estimated the cost",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.5936889648438,
+        129.7266082763672,
+        738.7387084960938
+      ],
+      "text": "of TB LAMP.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "44 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

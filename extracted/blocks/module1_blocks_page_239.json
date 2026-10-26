@@ -1,0 +1,690 @@
+{
+  "file": "module1",
+  "page": 239,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.12663269042969,
+        248.2803192138672,
+        81.83363342285156
+      ],
+      "text": "Secondary objectives:  evaluation of:",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09449005126953,
+        263.1444396972656,
+        103.53749084472656
+      ],
+      "text": "1.\t incidence of grade 3–4 adverse events",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.54651641845703,
+        127.6518783569336,
+        120.98951721191406
+      ],
+      "text": "2.\t mortality",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.99854278564453,
+        407.8023986816406,
+        138.44154357910156
+      ],
+      "text": "3.\t adherence to treatment (completion of > 80% of doses in < 270 days)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.4503936767578,
+        167.0120849609375,
+        155.8933868408203
+      ],
+      "text": "4.\t cost-effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        158.9025421142578,
+        202.72142028808594,
+        173.3455352783203
+      ],
+      "text": "5.\t acquired resistance to Lfx",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        187.26414489746094,
+        150.58396911621094,
+        205.53414916992188
+      ],
+      "text": "Intervention",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.9759979248047,
+        527.41650390625,
+        226.68299865722656
+      ],
+      "text": "TB CHAMP:  comparison of 24 weeks of daily Lfx (15–20mg/kg, maximum 750 mg) to 24 weeks of",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.4401397705078,
+        134.03260803222656,
+        239.8831329345703
+      ],
+      "text": "daily placebo.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.87998962402344,
+        527.5299072265625,
+        261.5870056152344
+      ],
+      "text": "V-QUIN:  180 days of self-administered oral Lfx, or an indistinguishable placebo, once per day. Tablets",
+      "font": "SegoeUI-Bold",
+      "size": 10.976324081420898,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.343994140625,
+        527.3804931640625,
+        274.7870178222656
+      ],
+      "text": "were distributed every 4 weeks, and a pill count performed at each visit. The daily dosing range was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.54400634765625,
+        479.8748779296875,
+        287.9870300292969
+      ],
+      "text": "10–15 mg/kg for adults, and 15–20 mg/kg for children, with a maximum dose of 750 mg.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        298.4106140136719,
+        203.3920440673828,
+        316.6806335449219
+      ],
+      "text": "Population eligibility",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        326.5491943359375,
+        141.8843536376953,
+        344.8192138671875
+      ],
+      "text": "TB CHAMP",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.5251159667969,
+        527.529296875,
+        365.9681396484375
+      ],
+      "text": "The study was completed in urban and rural settings of five provinces in South Africa, a high-incidence",
+      "font": "SegoeUI-Light",
+      "size": 10.965496063232422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.72509765625,
+        527.4822998046875,
+        379.1681213378906
+      ],
+      "text": "country for TB, TB/HIV and MDR/RR-TB. Children were considered eligible for enrolment if they fulfilled",
+      "font": "SegoeUI-Light",
+      "size": 10.951994895935059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.92510986328125,
+        415.5859680175781,
+        392.3681335449219
+      ],
+      "text": "all the inclusion criteria and none of the exclusion criteria, as defined below.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.3651428222656,
+        359.7149353027344,
+        413.8741149902344
+      ],
+      "text": "Criteria for inclusion of a child or adolescent participant",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.3330078125,
+        78.23609924316406,
+        435.7760314941406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        421.3330078125,
+        527.4992065429688,
+        435.7760314941406
+      ],
+      "text": "child or adolescent < 18 years who is a HHC of an adult MDR-TB index case (as stated under adult",
+      "font": "SegoeUI-Light",
+      "size": 10.996349334716797,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        434.53302001953125,
+        524.40478515625,
+        448.9760437011719
+      ],
+      "text": "MDR-TB eligibility criteria) (up to version 2.0 protocol, only children aged < 5 years were eligible)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.7330017089844,
+        78.23609924316406,
+        462.176025390625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        447.7330017089844,
+        527.4349365234375,
+        462.176025390625
+      ],
+      "text": "primary residence in the household of the adult MDR-TB index patient or any contact resulting in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        460.9330139160156,
+        230.2188262939453,
+        475.37603759765625
+      ],
+      "text": "significant exposure of the child",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.13299560546875,
+        78.23609924316406,
+        488.5760192871094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        474.13299560546875,
+        347.155517578125,
+        488.5760192871094
+      ],
+      "text": "consent from the parent or legal guardian for HIV testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.3330078125,
+        78.23609924316406,
+        501.7760314941406
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        487.3330078125,
+        340.9228820800781,
+        501.7760314941406
+      ],
+      "text": "consent from the parent or legal guardian for enrolment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.53302001953125,
+        78.23609924316406,
+        514.9760131835938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        500.53302001953125,
+        334.9939270019531,
+        514.9760131835938
+      ],
+      "text": "assent obtained from any child or adolescent ≥ 7 years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.7330322265625,
+        78.23609924316406,
+        528.176025390625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        513.7330322265625,
+        524.3569946289062,
+        528.176025390625
+      ],
+      "text": "if > 5 years and < 18 years of age, the child or adolescent must have a positive IGRA (Quantiferon-",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        526.9329833984375,
+        527.5501708984375,
+        541.3759765625
+      ],
+      "text": "Gold Plus, Qiagen) test before enrolment, unless HIV positive. Children < 5 years eligible regardless",
+      "font": "SegoeUI-Light",
+      "size": 10.977627754211426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        540.1329956054688,
+        524.401611328125,
+        554.5759887695312
+      ],
+      "text": "of IGRA status. All HIV-positive children < 18 years of age are eligible regardless of IGRA test status.",
+      "font": "SegoeUI-Light",
+      "size": 10.980082511901855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.5729370117188,
+        361.7730407714844,
+        576.0819091796875
+      ],
+      "text": "Criteria for exclusion of a child or adolescent participant",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.540771484375,
+        78.23609924316406,
+        597.9837646484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        583.540771484375,
+        192.73960876464844,
+        597.9837646484375
+      ],
+      "text": "TB disease at enrolment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.7407836914062,
+        78.23609924316406,
+        611.1837768554688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        596.7407836914062,
+        527.6060180664062,
+        611.1837768554688
+      ],
+      "text": "currently on INH or a fluoroquinoline (e.g. Lfx, moxifloxacin, ofloxacin or ciprofloxacin) for ≥ 14 days.",
+      "font": "SegoeUI-Light",
+      "size": 10.963589668273926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        609.94091796875,
+        527.6260986328125,
+        624.3839111328125
+      ],
+      "text": "TPT may be interrupted provided that the child or adolescent participant is recruited into the study",
+      "font": "SegoeUI-Light",
+      "size": 10.98478889465332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        623.140869140625,
+        173.35032653808594,
+        637.5838623046875
+      ],
+      "text": "as soon as possible.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.3409423828125,
+        78.23609924316406,
+        650.783935546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        636.3409423828125,
+        268.4339294433594,
+        650.783935546875
+      ],
+      "text": "treated for TB in the previous 12 months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.540771484375,
+        78.23609924316406,
+        663.9837646484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        649.540771484375,
+        527.5592041015625,
+        663.9837646484375
+      ],
+      "text": "known concurrent exposure to an INH-susceptible (including rifampicin [RIF] mono-resistant) index",
+      "font": "SegoeUI-Light",
+      "size": 10.978479385375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        662.7407836914062,
+        103.00709533691406,
+        677.1837768554688
+      ],
+      "text": "case",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.94091796875,
+        78.23609924316406,
+        690.3839111328125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        675.94091796875,
+        154.44309997558594,
+        690.3839111328125
+      ],
+      "text": "weight < 3.0 kg",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.140869140625,
+        78.23609924316406,
+        703.5838623046875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        689.140869140625,
+        527.4281005859375,
+        703.5838623046875
+      ],
+      "text": "positive pregnancy test at enrolment (For women who become pregnant on study, continuation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        702.3408813476562,
+        223.56802368164062,
+        716.783935546875
+      ],
+      "text": "on study treatment is allowed.)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.5408325195312,
+        78.23609924316406,
+        729.9838256835938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        715.5408325195312,
+        196.4664306640625,
+        729.9838256835938
+      ],
+      "text": "≤ 6 months post-partum",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.9808349609375,
+        281.5523681640625,
+        751.4898071289062
+      ],
+      "text": "Inclusion criteria for adult index patients",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.94873046875,
+        78.23609924316406,
+        773.3917236328125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        758.94873046875,
+        151.51710510253906,
+        773.3917236328125
+      ],
+      "text": "age ≥ 18 years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.7414855957031,
+        801.0170288085938,
+        556.0995483398438,
+        811.52099609375
+      ],
+      "text": "Annex 5. Summary of unpublished studies (PICO 10) 221",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

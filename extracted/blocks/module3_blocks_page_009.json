@@ -1,0 +1,906 @@
+{
+  "file": "module3",
+  "page": 9,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        111.26031494140625,
+        467.6501159667969,
+        149.50030517578125
+      ],
+      "text": "Abbreviations and acronyms",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        183.97793579101562,
+        357.26910400390625,
+        196.5254364013672
+      ],
+      "text": "acquired immunodeficiency syndrome",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.12493896484375,
+        97.84059143066406,
+        196.45193481445312
+      ],
+      "text": "AIDS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        200.72982788085938,
+        309.1896057128906,
+        213.27732849121094
+      ],
+      "text": "Alere Determine TB LAM Ag",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        200.8768310546875,
+        123.1666030883789,
+        213.20382690429688
+      ],
+      "text": "AlereLAM",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        217.48184204101562,
+        371.2761535644531,
+        230.0293426513672
+      ],
+      "text": "automated nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.62884521484375,
+        108.41410064697266,
+        229.95584106445312
+      ],
+      "text": "aNAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        234.23373413085938,
+        287.68560791015625,
+        246.78123474121094
+      ],
+      "text": "bronchoalveolar lavage",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.3807373046875,
+        93.09459686279297,
+        246.70773315429688
+      ],
+      "text": "BAL",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        250.98574829101562,
+        290.3001403808594,
+        263.5332336425781
+      ],
+      "text": "bacille Calmette–Guérin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.13275146484375,
+        94.16559600830078,
+        263.4597473144531
+      ],
+      "text": "BCG",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        267.7377014160156,
+        258.6111145019531,
+        280.2851867675781
+      ],
+      "text": "Becton Dickinson",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.88470458984375,
+        87.7815933227539,
+        280.2117004394531
+      ],
+      "text": "BD",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        284.4895935058594,
+        274.5921325683594,
+        297.0370788574219
+      ],
+      "text": "colony forming units",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.6365966796875,
+        89.02059936523438,
+        296.9635925292969
+      ],
+      "text": "cfu",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        301.2417297363281,
+        267.39959716796875,
+        313.7892150878906
+      ],
+      "text": "confidence interval",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.38873291015625,
+        83.23509979248047,
+        313.7157287597656
+      ],
+      "text": "CI",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        317.9936218261719,
+        253.01461791992188,
+        330.5411071777344
+      ],
+      "text": "credible interval",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.140625,
+        87.37210083007812,
+        330.4676208496094
+      ],
+      "text": "CrI",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        334.74560546875,
+        318.2195739746094,
+        347.2930908203125
+      ],
+      "text": "composite reference standard",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.8926086425781,
+        92.27559661865234,
+        347.2196044921875
+      ],
+      "text": "CRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        351.4975280761719,
+        265.12109375,
+        364.0450134277344
+      ],
+      "text": "cerebrospinal fluid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.64453125,
+        91.12059783935547,
+        363.9715270996094
+      ],
+      "text": "CSF",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        368.24951171875,
+        302.7846984863281,
+        380.7969970703125
+      ],
+      "text": "disability-adjusted life year",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.3965148925781,
+        101.22159576416016,
+        380.7235107421875
+      ],
+      "text": "DALY",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        385.00140380859375,
+        443.9151611328125,
+        397.54888916015625
+      ],
+      "text": "Diagnostics for Multidrug Resistant Tuberculosis in Africa",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.1484069824219,
+        109.76859283447266,
+        397.47540283203125
+      ],
+      "text": "DIAMA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        401.75341796875,
+        279.4115905761719,
+        414.3009033203125
+      ],
+      "text": "deoxyribonucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.9004211425781,
+        96.71709442138672,
+        414.2274169921875
+      ],
+      "text": "DNA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        418.50543212890625,
+        302.58514404296875,
+        431.05291748046875
+      ],
+      "text": "drug-resistant tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.6524353027344,
+        103.7625961303711,
+        430.97943115234375
+      ],
+      "text": "DR-TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        435.2574157714844,
+        298.2381286621094,
+        447.8049011230469
+      ],
+      "text": "drug susceptibility testing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.4044189453125,
+        92.89509582519531,
+        447.7314147949219
+      ],
+      "text": "DST",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        452.0093078613281,
+        321.485107421875,
+        464.5567932128906
+      ],
+      "text": "External external review group",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.15631103515625,
+        93.51459503173828,
+        464.4833068847656
+      ],
+      "text": "ERG",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        468.7613220214844,
+        380.295654296875,
+        481.3088073730469
+      ],
+      "text": "Foundation for Innovative New Diagnostics",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.9083251953125,
+        97.70409393310547,
+        481.2353210449219
+      ],
+      "text": "FIND",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        485.5133056640625,
+        293.4501037597656,
+        498.060791015625
+      ],
+      "text": "first-line line probe assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.6603088378906,
+        106.83910369873047,
+        497.9873046875
+      ],
+      "text": "FL-LPA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        502.2652282714844,
+        318.0201110839844,
+        514.812744140625
+      ],
+      "text": "guideline development group",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.4122314453125,
+        96.41259002685547,
+        514.7391967773438
+      ],
+      "text": "GDG",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        519.0171508789062,
+        420.40570068359375,
+        531.564697265625
+      ],
+      "text": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.1641845703125,
+        136.57510375976562,
+        531.4911499023438
+      ],
+      "text": "Global Fund",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        535.7692260742188,
+        467.5400085449219,
+        548.3167724609375
+      ],
+      "text": "Grading of Recommendations Assessment, Development and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.916259765625,
+        108.86559295654297,
+        548.2432250976562
+      ],
+      "text": "GRADE",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        548.2692260742188,
+        393.3365783691406,
+        560.8167724609375
+      ],
+      "text": "EvaluationHIV human immunodeficiency virus",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        565.0210571289062,
+        345.1941223144531,
+        577.568603515625
+      ],
+      "text": "incremental cost–effectiveness ratio",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.1680908203125,
+        95.6565933227539,
+        577.4950561523438
+      ],
+      "text": "ICER",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        581.7730712890625,
+        327.4070739746094,
+        594.3206176757812
+      ],
+      "text": "interferon-gamma release assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.9201049804688,
+        98.50209045410156,
+        594.2470703125
+      ],
+      "text": "IGRA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        598.5250854492188,
+        261.37261962890625,
+        611.0726318359375
+      ],
+      "text": "in vitro diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.672119140625,
+        91.56159210205078,
+        610.9990844726562
+      ],
+      "text": "IVD",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        615.277099609375,
+        270.9906311035156,
+        627.8246459960938
+      ],
+      "text": "lipoarabinomannan",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.4241333007812,
+        96.57009887695312,
+        627.7510986328125
+      ],
+      "text": "LAM",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        632.0289916992188,
+        364.1991271972656,
+        644.5765380859375
+      ],
+      "text": "loop-mediated isothermal amplification",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.176025390625,
+        102.59709930419922,
+        644.5029907226562
+      ],
+      "text": "LAMP",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        648.781005859375,
+        445.7001037597656,
+        661.3285522460938
+      ],
+      "text": "low-complexity automated nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.9280395507812,
+        123.82810974121094,
+        661.2550048828125
+      ],
+      "text": "LC-aNAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        665.5330200195312,
+        428.7636413574219,
+        678.08056640625
+      ],
+      "text": "low-complexity manual nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.6800537109375,
+        127.79711151123047,
+        678.0070190429688
+      ],
+      "text": "LC-mNAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        682.2848510742188,
+        390.8061218261719,
+        694.8323974609375
+      ],
+      "text": "low-complexity nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.431884765625,
+        117.97960662841797,
+        694.7588500976562
+      ],
+      "text": "LC-NAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        699.036865234375,
+        380.3481140136719,
+        711.5844116210938
+      ],
+      "text": "lateral flow urine lipoarabinomannan assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.1838989257812,
+        110.86060333251953,
+        711.5108642578125
+      ],
+      "text": "LF-LAM",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        715.7887573242188,
+        338.379638671875,
+        728.3363037109375
+      ],
+      "text": "low- and middle-income countries",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.935791015625,
+        98.68060302734375,
+        728.2627563476562
+      ],
+      "text": "LMIC",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        732.540771484375,
+        252.64715576171875,
+        745.0883178710938
+      ],
+      "text": "line probe assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.6878051757812,
+        92.54859924316406,
+        745.0147705078125
+      ],
+      "text": "LPA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        749.2927856445312,
+        396.5391845703125,
+        761.84033203125
+      ],
+      "text": "London School of Hygiene & Tropical Medicine",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.4398193359375,
+        110.92359924316406,
+        761.7667846679688
+      ],
+      "text": "LSHTM",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        766.0447998046875,
+        474.5436096191406,
+        778.5923461914062
+      ],
+      "text": "moderate-complexity automated nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        766.1918334960938,
+        128.47959899902344,
+        778.518798828125
+      ],
+      "text": "MC-aNAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        782.7968139648438,
+        268.0401306152344,
+        795.3443603515625
+      ],
+      "text": "multidrug-resistant",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        782.94384765625,
+        97.78809356689453,
+        795.2708129882812
+      ],
+      "text": "MDR",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        546.0614013671875,
+        802.0169067382812,
+        553.7814331054688,
+        811.576904296875
+      ],
+      "text": "vii",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

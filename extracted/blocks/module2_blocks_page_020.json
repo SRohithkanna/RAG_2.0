@@ -1,0 +1,558 @@
+{
+  "file": "module2",
+  "page": 20,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.474853515625,
+        81.83369445800781
+      ],
+      "text": "6.\t  Does TB screening initially increase the number of people with TB detected compared with passive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        80.59070587158203,
+        176.0695037841797,
+        95.03370666503906
+      ],
+      "text": "case-finding alone?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.04273223876953,
+        527.1674194335938,
+        112.48573303222656
+      ],
+      "text": "7.\t Does TB screening affect the epidemiology of TB in a community, including the prevalence,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        111.24268341064453,
+        412.62860107421875,
+        125.68568420410156
+      ],
+      "text": "incidence and transmission, compared with passive case-finding alone?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        132.9466094970703,
+        527.402587890625,
+        147.3896026611328
+      ],
+      "text": "A series of questions focusing on the diagnostic accuracy and performance of screening tools was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.14662170410156,
+        140.89608764648438,
+        160.58961486816406
+      ],
+      "text": "also prioritized.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.8505401611328,
+        527.3941650390625,
+        182.2935333251953
+      ],
+      "text": "8.\t Among people living with HIV, what is the performance of a range of screening tools compared",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        181.0504913330078,
+        280.56658935546875,
+        195.4934844970703
+      ],
+      "text": "with a microbiological reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.5025177001953,
+        527.5645141601562,
+        212.9455108642578
+      ],
+      "text": "9.\t Among the general population and high-risk groups eligible for TB screening, what is the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        211.70252990722656,
+        524.4066772460938,
+        226.14552307128906
+      ],
+      "text": "performance of a range of screening tools compared with a microbiological reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.1544952392578,
+        527.432861328125,
+        243.5974884033203
+      ],
+      "text": "10.\tAmong children and adolescents eligible for TB screening, what is the performance of a range of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        242.35450744628906,
+        466.0143127441406,
+        256.7975158691406
+      ],
+      "text": "screening tools compared with a composite or microbiological reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.8065185546875,
+        527.4259033203125,
+        274.2495422363281
+      ],
+      "text": "11.\tWhat is the performance of computer-aided detection (CAD) software for automated reading of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        273.00653076171875,
+        524.3923950195312,
+        287.4495544433594
+      ],
+      "text": "digital chest radiographs (CXRs) for the detection of TB disease in the screening- and the triage-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        286.20648193359375,
+        134.72879028320312,
+        300.6495056152344
+      ],
+      "text": "use cases?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.65838623046875,
+        527.5645141601562,
+        318.1014099121094
+      ],
+      "text": "12.\tAmong the general population and high-risk groups eligible for TB screening, what is the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        316.8585205078125,
+        527.2996215820312,
+        331.3015441894531
+      ],
+      "text": "performance of molecular WHO-recommended rapid diagnostic tests (mWRDs) for screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        330.0585021972656,
+        397.3771057128906,
+        344.50152587890625
+      ],
+      "text": "for TB disease compared with a microbiological reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.7624206542969,
+        527.58056640625,
+        366.2054443359375
+      ],
+      "text": "Lastly, in addition to the PICO questions assessing the accuracy and effectiveness of screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.96240234375,
+        527.399169921875,
+        379.4054260253906
+      ],
+      "text": "interventions, there was a series of background questions prioritized to inform the implementation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.16241455078125,
+        206.25869750976562,
+        392.6054382324219
+      ],
+      "text": "of TB screening interventions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.8663024902344,
+        527.5458984375,
+        414.309326171875
+      ],
+      "text": "13.\t Among the general public and high-risk populations, what is the number needed to screen (NNS)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        413.0663146972656,
+        261.1410217285156,
+        427.50933837890625
+      ],
+      "text": "to detect one person with TB disease?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        430.518310546875,
+        524.385009765625,
+        444.9613342285156
+      ],
+      "text": "14.\t Among contacts of people with TB disease, what is the NNS to detect one person with TB disease?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        447.9703063964844,
+        458.0635986328125,
+        462.413330078125
+      ],
+      "text": "15.\tWhat are the estimated relative risks of TB associated with a range of risk factors?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.4222106933594,
+        485.0233154296875,
+        479.865234375
+      ],
+      "text": "16.\tWhat are the costs and cost–effectiveness of implementing TB screening interventions?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.87420654296875,
+        506.6103820800781,
+        497.3172302246094
+      ],
+      "text": "17.\tWhat are the perceptions and attitudes of communities towards TB screening programmes?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.305419921875,
+        394.8104553222656,
+        536.1004028320312
+      ],
+      "text": "1.4 Rationale for the guideline update",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.7573852539062,
+        527.4193115234375,
+        555.994384765625
+      ],
+      "text": "(5) Since the publication of the first WHO guidelines on systematic screening for TB in 2013  , there",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.7514038085938,
+        527.4189453125,
+        569.1943969726562
+      ],
+      "text": "have been numerous studies, including reviews, randomized controlled trials, observational studies,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.951416015625,
+        527.1902465820312,
+        582.3944091796875
+      ],
+      "text": "modelling and cost–effectiveness research, evaluating the real or potential impacts of screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.1514282226562,
+        527.4014282226562,
+        595.5944213867188
+      ],
+      "text": "interventions on both individual-level and community-level outcomes related to TB. There have also",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.3514404296875,
+        527.3961181640625,
+        608.79443359375
+      ],
+      "text": "been numerous prevalence surveys since 2013, which have shed new light on the magnitude of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.5513916015625,
+        527.2100219726562,
+        621.994384765625
+      ],
+      "text": "burden of TB in several key countries. The majority of prevalence surveys have shown that the burden",
+      "font": "SegoeUI-Light",
+      "size": 10.98143482208252,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.7514038085938,
+        254.36968994140625,
+        635.1943969726562
+      ],
+      "text": "of TB is greater than previously thought.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.1826171875,
+        396.7522277832031,
+        673.9776000976562
+      ],
+      "text": "1.5 Objectives of the guideline update",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.4285278320312,
+        302.56378173828125,
+        693.8715209960938
+      ],
+      "text": "The specific objectives of the guideline update are:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.1325073242188,
+        527.592041015625,
+        715.5755004882812
+      ],
+      "text": "1.\t to support Member States in implementing effective TB screening interventions by providing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        714.33251953125,
+        527.3952026367188,
+        728.7755126953125
+      ],
+      "text": "updated information about the expected impact of TB screening on patient-important outcomes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        727.5325317382812,
+        527.6251220703125,
+        741.9755249023438
+      ],
+      "text": "and the epidemiology of TB, the expected yield of screening interventions and the expected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        740.7324829101562,
+        345.56329345703125,
+        755.1754760742188
+      ],
+      "text": "performance of different screening tools and algorithms;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        47.41379928588867,
+        811.52099609375
+      ],
+      "text": "8",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

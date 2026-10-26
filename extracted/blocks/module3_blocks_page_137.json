@@ -1,0 +1,426 @@
+{
+  "file": "module3",
+  "page": 137,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        111.26031494140625,
+        429.1253356933594,
+        149.50030517578125
+      ],
+      "text": "3. Recommendations for",
+      "font": "FrutigerNeueLT-Bk",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.66033935546875,
+        421.8708190917969,
+        187.90032958984375
+      ],
+      "text": "diagnosis of TB infection",
+      "font": "FrutigerNeueLT-Bk",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.55262756347656,
+        491.6230773925781,
+        252.7826385498047
+      ],
+      "text": "3.1. Mycobacterium tuberculosis antigen-based",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.3526153564453,
+        440.1443176269531,
+        275.5826110839844
+      ],
+      "text": "skin tests for the diagnosis of TB infection",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.673583984375,
+        526.9370727539062,
+        297.818603515625
+      ],
+      "text": "Since 2011, the World Health Organization (WHO) has issued recommendations on the use",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.173583984375,
+        526.926025390625,
+        313.318603515625
+      ],
+      "text": "of IGRAs for the diagnosis of TB infection. In 2018, WHO updated the recommendations to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.673583984375,
+        526.9962158203125,
+        328.818603515625
+      ],
+      "text": "stipulate that the TST or IGRAs (or both) can be used to test for TB infection in LMIC. The TST is a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97241497039795,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.1736145019531,
+        526.8917236328125,
+        344.3186340332031
+      ],
+      "text": "widely used point-of-care test that involves intradermal injection of purified protein derivative",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99274730682373,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.6736145019531,
+        526.9644775390625,
+        359.8186340332031
+      ],
+      "text": "(PPD), a crude mixture of different mycobacterial antigens, which stimulates a delayed-type",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.1736145019531,
+        526.969970703125,
+        375.3186340332031
+      ],
+      "text": "hypersensitivity response and causes induration at the injection site within 48–72 hours. This",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.6736145019531,
+        526.9378051757812,
+        390.8186340332031
+      ],
+      "text": "test has relatively low specificity in those with recent bacille Calmette-Guérin (BCG) vaccination",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97652530670166,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.1736145019531,
+        527.102783203125,
+        406.3186340332031
+      ],
+      "text": "and low sensitivity in immunosuppressed individuals (e.g. people living with HIV [PLHIV]); hence,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.6736145019531,
+        526.9656982421875,
+        421.8186340332031
+      ],
+      "text": "interpretive cut-offs must be adapted for these populations. A follow-up clinic visit is required",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.1736145019531,
+        527.0029296875,
+        437.3186340332031
+      ],
+      "text": "after the placement of the TST, and results must be read within the suggested time frame",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.6736145019531,
+        526.9918823242188,
+        452.8186340332031
+      ],
+      "text": "to be valid. In contrast, IGRAs are in vitro tests that measure release of interferon- gamma",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.2386169433594,
+        526.9683227539062,
+        469.0556335449219
+      ],
+      "text": "γ (IFN- ) by T-cells following stimulation by the early secretory antigenic target 6 kDa protein",
+      "font": "TimesNewRomanPSMT",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.6736145019531,
+        526.9634399414062,
+        483.8186340332031
+      ],
+      "text": "(ESAT-6) and culture filtrate protein 10 (CFP-10) antigens that are specific to Mtb. Unlike the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.1736145019531,
+        527.0457763671875,
+        499.3186340332031
+      ],
+      "text": "TST, IGRAs are not affected by prior BCG vaccination, or by infection with nontuberculous",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.673583984375,
+        527.1240234375,
+        514.818603515625
+      ],
+      "text": "mycobacteria (NTM), with few exceptions. However, IGRA platforms are more expensive to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.173583984375,
+        526.9258422851562,
+        530.318603515625
+      ],
+      "text": "run and require specialized facilities and trained personnel; consequently, the TST is the most",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.673583984375,
+        526.5685424804688,
+        545.818603515625
+      ],
+      "text": "commonly used test for TB infection globally. Recent global shortages of PPD have underscored",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.963740348815918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.173583984375,
+        193.67999267578125,
+        561.318603515625
+      ],
+      "text": "the need for alternatives.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.177490234375,
+        526.9371337890625,
+        585.322509765625
+      ],
+      "text": "In addition to the TB skin tests and interferon gamma release assays previously recommended",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.677490234375,
+        526.9644165039062,
+        600.822509765625
+      ],
+      "text": "by WHO, Mtb antigen-based skin tests (TBSTs) based on specific antigens have recently been",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.177490234375,
+        524.41796875,
+        616.322509765625
+      ],
+      "text": "developed, using the same ESAT-6 and CFP-10 antigens; these tests combine the simpler skin-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.677490234375,
+        526.9634399414062,
+        631.822509765625
+      ],
+      "text": "test platform with the specificity of IGRAs. TBSTs include the Cy-Tb (Serum Institute of India,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.177490234375,
+        527.01953125,
+        647.322509765625
+      ],
+      "text": "India), Diaskintest® (Generium, Russian Federation) and C-TST (formerly known as ESAT6-CFP10",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.960227966308594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.677490234375,
+        527.0194702148438,
+        662.822509765625
+      ],
+      "text": "test, Anhui Zhifei Longcom, China). All tests use intradermal injection of antigen and, like the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.177490234375,
+        526.9369506835938,
+        678.322509765625
+      ],
+      "text": "TST, are read after 48–72 hours as induration in millimetres, using the method suggested by",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.677490234375,
+        526.9921875,
+        693.822509765625
+      ],
+      "text": "Mantoux. Emerging evidence suggests that, compared with IGRAs, the tests may have similar",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.177490234375,
+        527.134521484375,
+        709.322509765625
+      ],
+      "text": "specificity and provide more reliable results in children and adolescents as well as in PLHIV than",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.974821090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.677490234375,
+        413.2136535644531,
+        724.822509765625
+      ],
+      "text": "the TST. However, the evidence had not been systematically reviewed.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.681396484375,
+        526.9149169921875,
+        748.826416015625
+      ],
+      "text": "In 2021, WHO commissioned a systematic review of published and unpublished data on this",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        751.181396484375,
+        527.3097534179688,
+        764.326416015625
+      ],
+      "text": "new class of tests for TB infection not previously revieed by WHO. The systematic review included",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        543.0333862304688,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "121",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "file": "module3",
+  "page": 19,
+  "table_id": 1,
+  "bbox": [
+    71.29462541852679,
+    432.7801879882812,
+    525.0743146623884,
+    657.0318603515625
+  ],
+  "heading": "Table 1.1.1. Classes and products of TB tests for detection of TB, drug-resistant TB and TB infection included in the current guidelines",
+  "n_rows": 5,
+  "n_cols": 2,
+  "data": [
+    [
+      "Technology class",
+      "Included products"
+    ],
+    [
+      "Initial tests for TB diagnosis with drug-resistance detection",
+      ""
+    ],
+    [
+      "NEW: Low-complexity automated Xpert® MTB/RIF and Xpert MTB/RIF Ultra (Cepheid) nucleic acid amplification tests Truenat® MTB Plus and Truenat MTB-RIF Dx (Molbio) (NAATs) for detection of TB and resistance to rifampicin",
+      ""
+    ],
+    [
+      "Moderate-complexity automated Abbott RealTime® MTB and Abbott RealTime MTB NAATs for detection of TB and RIF/INH (Abbott) resistance to rifampicin and BD MAX™ MDR-TB (Becton Dickinson) isoniazid cobas® MTB and cobas MTB-RIF/INH (Roche) FluoroType® MTB and FluoroType MTBDR (Hain Lifescience/Bruker)",
+      ""
+    ],
+    [
+      "Initial tests for TB diagnosis without drug-resistance detection",
+      ""
+    ]
+  ]
+}

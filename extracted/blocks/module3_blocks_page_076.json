@@ -1,0 +1,618 @@
+{
+  "file": "module3",
+  "page": 76,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        513.2700805664062,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.3.2.2 Forest plot of LC-aNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.67418670654297,
+        314.5860900878906,
+        98.7621841430664
+      ],
+      "text": "pulmonary TB in sputum samples and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        109.39222717285156,
+        516.0487670898438,
+        122.2717056274414
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) TN FN FP TP Specificity (95% CI) Study",
+      "font": "Arial-BoldMT",
+      "size": 8.052717208862305,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        122.87120056152344,
+        361.0303955078125,
+        135.1243133544922
+      ],
+      "text": "1.00 [0.03, 1.00] Not estimable 1 0 0 0 Aguilera-Alonso 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        134.62998962402344,
+        361.0303955078125,
+        146.8831024169922
+      ],
+      "text": "1.00 [0.03, 1.00] Not estimable 1 0 0 0 Barcellini 2019",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        146.38877868652344,
+        361.0303955078125,
+        158.6418914794922
+      ],
+      "text": "0.86 [0.42, 1.00] Not estimable 6 0 1 0 Liu 2021",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        158.14756774902344,
+        361.0303955078125,
+        170.4006805419922
+      ],
+      "text": "1.00 [0.86, 1.00] Not estimable 25 0 0 0 NCT04121026",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        169.90635681152344,
+        361.0303955078125,
+        182.1594696044922
+      ],
+      "text": "1.00 [0.96, 1.00] 0.91 [0.59, 1.00] 93 1 0 10 Yenew 2023",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        181.66514587402344,
+        361.0303955078125,
+        193.9182586669922
+      ],
+      "text": "0.82 [0.72, 0.89] 0.83 [0.69, 0.93] 71 7 16 35 Enimill 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        193.42393493652344,
+        361.0303955078125,
+        205.6770477294922
+      ],
+      "text": "0.88 [0.85, 0.91] 0.82 [0.74, 0.89] 499 19 66 89 Zar 2018-2023",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        205.18272399902344,
+        361.0303955078125,
+        217.4358367919922
+      ],
+      "text": "0.95 [0.93, 0.97] 0.80 [0.28, 0.99] 379 1 18 4 Kabir 2020",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        216.94151306152344,
+        361.0303955078125,
+        229.1946258544922
+      ],
+      "text": "0.99 [0.93, 1.00] 0.78 [0.40, 0.97] 71 2 1 7 Jaganath 2021",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        228.70030212402344,
+        361.0303955078125,
+        240.9534149169922
+      ],
+      "text": "0.94 [0.91, 0.95] 0.78 [0.63, 0.88] 519 11 36 38 NCT03734172",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        240.45909118652344,
+        361.0303955078125,
+        252.7122039794922
+      ],
+      "text": "0.97 [0.94, 0.98] 0.72 [0.60, 0.83] 261 18 9 47 Nicol 2018",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        252.21788024902344,
+        361.0303955078125,
+        264.4709777832031
+      ],
+      "text": "0.89 [0.78, 0.95] 0.71 [0.29, 0.96] 56 2 7 5 NCT04899076",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        263.9766540527344,
+        361.0303955078125,
+        276.2297668457031
+      ],
+      "text": "0.97 [0.95, 0.99] 0.68 [0.46, 0.85] 340 8 10 17 Sabi 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        275.7354431152344,
+        361.0303955078125,
+        287.9885559082031
+      ],
+      "text": "0.96 [0.88, 0.99] 0.67 [0.09, 0.99] 68 1 3 2 Ssengooba 2020",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        287.4942321777344,
+        361.0303955078125,
+        299.7473449707031
+      ],
+      "text": "1.00 [0.97, 1.00] 0.57 [0.34, 0.78] 122 9 0 12 Sabi 2018",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        364.97088623046875,
+        299.5080261230469,
+        517.5028076171875,
+        311.5496520996094
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.7799987792969,
+        526.50048828125,
+        336.5350036621094
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.58001708984375,
+        519.1832275390625,
+        347.33502197265625
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.326904296875,
+        518.321044921875,
+        379.4149169921875
+      ],
+      "text": "Should LC-aNAATs on gastric aspirate specimens be used to diagnose pulmonary",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.7268981933594,
+        516.9435424804688,
+        393.8149108886719
+      ],
+      "text": "TB in children with signs and symptoms or who screened positive for pulmonary",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.12689208984375,
+        182.03890991210938,
+        408.21490478515625
+      ],
+      "text": "TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.88189697265625,
+        526.9677734375,
+        432.02691650390625
+      ],
+      "text": "Twelve studies (1959 participants) were identified, with sensitivities between 0% and 100%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.38189697265625,
+        526.947998046875,
+        447.52691650390625
+      ],
+      "text": "and specificities between 67% and 100% ( ). All 12 studies were included in the  Fig. 2.3.2.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        449.88189697265625,
+        527.271728515625,
+        463.02691650390625
+      ],
+      "text": "meta-analysis. The summary sensitivity was 69.6% (95% CI: 60.3–77.6) and summary specificity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.973467826843262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        465.38189697265625,
+        527.01416015625,
+        478.52691650390625
+      ],
+      "text": "was 91.0% (95% CI: 82.5–95.6). Certainty of evidence was moderate for both sensitivity and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        480.88189697265625,
+        439.53692626953125,
+        494.02691650390625
+      ],
+      "text": "specificity. The data on Truenat MTB Plus and MTB-RIF Dx were unavailable.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        508.6680908203125,
+        513.2702026367188,
+        522.756103515625
+      ],
+      "text": "Fig. 2.3.2.3 Forest plot of LC-aNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        524.076904296875,
+        312.0721740722656,
+        538.256103515625
+      ],
+      "text": "a pulmonary TB in gastric aspirate and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        548.947998046875,
+        516.048828125,
+        561.7655639648438
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) TN FN FP TP Specificity (95% CI) Study",
+      "font": "Arial-BoldMT",
+      "size": 8.052717208862305,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        562.4181518554688,
+        361.0230407714844,
+        574.6181640625
+      ],
+      "text": "0.68 [0.43, 0.87] 1.00 [0.03, 1.00] 13 0 6 1 NCT04899076",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        574.1769409179688,
+        361.0230407714844,
+        586.376953125
+      ],
+      "text": "1.00 [0.97, 1.00] 1.00 [0.40, 1.00] 137 0 0 4 NCT04121026",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        585.9357299804688,
+        361.0230407714844,
+        598.1357421875
+      ],
+      "text": "0.77 [0.61, 0.88] 0.83 [0.61, 0.95] 33 4 10 19 Aguilera-Alonso 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        597.6945190429688,
+        361.0230407714844,
+        609.89453125
+      ],
+      "text": "0.76 [0.53, 0.92] 0.81 [0.54, 0.96] 16 3 5 13 Parigi 2021",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        609.4533081054688,
+        361.0230407714844,
+        621.6533203125
+      ],
+      "text": "0.99 [0.98, 0.99] 0.78 [0.62, 0.89] 632 9 8 31 Yenew 2023",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        621.2120971679688,
+        361.0230407714844,
+        633.412109375
+      ],
+      "text": "0.80 [0.61, 0.92] 0.75 [0.19, 0.99] 24 1 6 3 NCT03734172",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        632.9708862304688,
+        361.0230407714844,
+        645.1708984375
+      ],
+      "text": "0.84 [0.71, 0.92] 0.72 [0.51, 0.88] 46 7 9 18 Liu 2021",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        644.7296752929688,
+        361.0230407714844,
+        656.9296875
+      ],
+      "text": "0.95 [0.93, 0.97] 0.56 [0.30, 0.80] 504 7 25 9 NCT04240990",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        656.4884643554688,
+        361.0230407714844,
+        668.6884765625
+      ],
+      "text": "0.95 [0.91, 0.97] 0.55 [0.32, 0.77] 212 9 12 11 Ssengooba 2020",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        668.2472534179688,
+        361.0230407714844,
+        680.447265625
+      ],
+      "text": "0.67 [0.22, 0.96] 0.50 [0.07, 0.93] 4 2 2 2 Enimill 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        680.0060424804688,
+        361.0230407714844,
+        692.2060546875
+      ],
+      "text": "0.90 [0.80, 0.96] 0.46 [0.19, 0.75] 56 7 6 6 Sabi 2022",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        73.99199676513672,
+        691.7648315429688,
+        361.0230407714844,
+        703.96484375
+      ],
+      "text": "0.88 [0.70, 0.98] 0.00 [0.00, 0.97] 23 1 3 0 Jaganath 2021",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        364.97088623046875,
+        703.7156982421875,
+        517.5029907226562,
+        715.7567749023438
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.052717208862305,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        728.4235229492188,
+        526.5006103515625,
+        739.178466796875
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        739.2235107421875,
+        519.183349609375,
+        749.9784545898438
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        752.8422241210938,
+        353.9654541015625,
+        763.6130981445312
+      ],
+      "text": "a  Studies are sorted on the plot by decreasing sensitivity and specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "60 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "file": "module4",
+  "page": 303,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        279.9220886230469,
+        86.53083038330078
+      ],
+      "text": "4.1.3. Guideline update 2022",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.84799194335938,
+        263.61370849609375,
+        114.69998931884766
+      ],
+      "text": "Recommendation 7. PICO question",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        121.79802703857422,
+        529.022216796875,
+        136.1530303955078
+      ],
+      "text": "In patients aged ≥ 12 years with drug-susceptible pulmonary TB, is a 4-month regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        134.9979248046875,
+        528.980224609375,
+        149.35292053222656
+      ],
+      "text": "composed of rifapentine, isoniazid, pyrazinamide and moxifloxacin as effective and safe as",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        148.19793701171875,
+        492.26531982421875,
+        162.5529327392578
+      ],
+      "text": "the standard drug-susceptible TB regimen composed according to WHO guidelines?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        175.5133056640625,
+        440.3465881347656,
+        189.86830139160156
+      ],
+      "text": "Population  Intervention  Comparator  Outcomes",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        197.1279296875,
+        472.00299072265625,
+        211.68092346191406
+      ],
+      "text": "Patients aged  A 17-week  The currently  •\tCure (favourable",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        209.1279296875,
+        450.12066650390625,
+        223.68092346191406
+      ],
+      "text": "≥ 12 years with drug- regimen  WHO  outcome)***",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        221.1279296875,
+        374.8749694824219,
+        235.68092346191406
+      ],
+      "text": "susceptible pulmonary  composed of  recommended",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        386.64569091796875,
+        225.4899444580078,
+        469.556640625,
+        239.9329376220703
+      ],
+      "text": "•\tAbsence of cure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        233.1279296875,
+        347.4794921875,
+        247.68092346191406
+      ],
+      "text": "TB, stratified by  two months  standard",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        392.64569091796875,
+        237.4899444580078,
+        516.5496826171875,
+        251.9329376220703
+      ],
+      "text": "(unfavourable outcome)***",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        245.1279296875,
+        330.6539001464844,
+        259.6809387207031
+      ],
+      "text": "sub-populations:  of rifapentine,  drug-",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        205.7008056640625,
+        253.74183654785156,
+        420.20068359375,
+        271.6809387207031
+      ],
+      "text": "•\tDeath isoniazid,  susceptible",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        261.37994384765625,
+        154.89918518066406,
+        275.73492431640625
+      ],
+      "text": "a.\twith signs of",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        269.2379150390625,
+        505.6101989746094,
+        287.73492431640625
+      ],
+      "text": "pyrazinamide  TB treatment  •\tAdherence to treatment  extensive disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        281.2379150390625,
+        513.119873046875,
+        299.73492431640625
+      ],
+      "text": "and moxifloxacin  regimen  (or treatment interruption  (i.e. bilateral cavitary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        293.2379150390625,
+        499.461181640625,
+        311.73492431640625
+      ],
+      "text": "followed by  composed of  due to non-adherence) disease or extensive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        205.7008056640625,
+        305.2379150390625,
+        361.87188720703125,
+        319.6809387207031
+      ],
+      "text": "two months  two months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        309.37994384765625,
+        497.4195861816406,
+        324.6888122558594
+      ],
+      "text": "parenchymal  •\tSevere adverse events",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        205.7008056640625,
+        317.2379150390625,
+        366.65911865234375,
+        331.6809387207031
+      ],
+      "text": "of rifapentine,  of rifampicin,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        321.3799133300781,
+        497.5307312011719,
+        336.6888427734375
+      ],
+      "text": "damage on  (defined as grade 3 or",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        205.7008056640625,
+        329.2379150390625,
+        349.68389892578125,
+        343.6809387207031
+      ],
+      "text": "pyrazinamide and  isoniazid,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        333.3799133300781,
+        425.1177062988281,
+        348.6888427734375
+      ],
+      "text": "radiography)* higher)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        205.7008056640625,
+        341.2379150390625,
+        369.3518981933594,
+        355.6809387207031
+      ],
+      "text": "moxifloxacin** pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        349.6318054199219,
+        513.4147338867188,
+        367.6809387207031
+      ],
+      "text": "b.\tadults ≥20 years  •\tAcquisition (amplification)  and",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        361.6318054199219,
+        474.2030334472656,
+        379.6809387207031
+      ],
+      "text": "and adolescents  of drug resistance ethambutol",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        373.6318054199219,
+        360.6618957519531,
+        391.6809387207031
+      ],
+      "text": "aged 12–19 years followed by",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        389.2379150390625,
+        375.6373291015625,
+        404.2388000488281
+      ],
+      "text": "four months of  c.\tpersons with HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        401.2379150390625,
+        372.783935546875,
+        416.2388000488281
+      ],
+      "text": "rifampicin and  (+/- ARVs)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.4408874511719,
+        413.2379150390625,
+        344.2279052734375,
+        427.6809387207031
+      ],
+      "text": "isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        418.1358337402344,
+        184.84120178222656,
+        432.4908142089844
+      ],
+      "text": "d.\twith comorbidities",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        430.1358337402344,
+        158.35540771484375,
+        444.4908142089844
+      ],
+      "text": "(e.g. diabetes",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        442.1358337402344,
+        133.67030334472656,
+        456.4908142089844
+      ],
+      "text": "mellitus;",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        88.66929626464844,
+        454.1358337402344,
+        154.2402801513672,
+        468.4908142089844
+      ],
+      "text": "malnutrition)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.01953125,
+        526.622314453125,
+        493.5235290527344
+      ],
+      "text": "* \t WHO defines extensive or advanced TB disease as: presence of bilateral cavitary disease or extensive parenchymal damage on chest",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        494.01953125,
+        526.558349609375,
+        504.5235290527344
+      ],
+      "text": "radiography. In children aged under 15 years, advanced disease is usually defined by the presence of cavities or bilateral disease on",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        505.01953125,
+        145.0948944091797,
+        515.5234985351562
+      ],
+      "text": "chest radiography.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.8541870117188,
+        526.777099609375,
+        529.358154296875
+      ],
+      "text": "**\t Standard doses (i.e. those that are currently recommended, and weight based, where relevant) of pyrazinamide, isoniazid and",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        529.8541870117188,
+        317.8244323730469,
+        540.358154296875
+      ],
+      "text": "moxifloxacin were used and the dose of rifapentine used was 1200mg.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.6887817382812,
+        526.7946166992188,
+        554.1927490234375
+      ],
+      "text": "***\tIn Study 31, a participant was classified as having a favorable outcome if any one of the following conditions was met and an unfavorable",
+      "font": "SegoeUI-Light",
+      "size": 7.973255157470703,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        554.6887817382812,
+        162.75892639160156,
+        565.1927490234375
+      ],
+      "text": "outcome did not occur:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        567.5953979492188,
+        456.0830993652344,
+        579.0274047851562
+      ],
+      "text": "M. tuberculosis 1.\tParticipants whose last culture result during the Month 12 analysis visit window was   negative.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        582.3580932617188,
+        526.587890625,
+        592.862060546875
+      ],
+      "text": "2.\t Participants who were seen during the Month 12 analysis visit window and were clinically without symptoms/signs of ongoing active",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.86609649658203,
+        593.3580932617188,
+        526.5745239257812,
+        603.862060546875
+      ],
+      "text": "TB (indicated by absence of initiation of possible poor treatment response (PPTR) evaluation or PPTR that did not indicate presence",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.86609649658203,
+        604.3580932617188,
+        437.0357666015625,
+        614.862060546875
+      ],
+      "text": "of symptoms/signs of ongoing active TB), and had achieved culture conversion prior to Month 12, and",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.86609649658203,
+        618.1926879882812,
+        447.234130859375,
+        628.6966552734375
+      ],
+      "text": "a)\t Were unable to produce a sputum specimen at any point during the Month 12 analysis visit window; or",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        93.86609649658203,
+        631.099365234375,
+        526.62939453125,
+        642.5313720703125
+      ],
+      "text": "M. tuberculosis b)\tProduced a sputum specimen that was contaminated or unevaluable without evidence of  , and no sputum",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        643.0274047851562,
+        423.1581115722656,
+        653.5313720703125
+      ],
+      "text": "specimens yielded positive or negative culture results during the Month 12 analysis visit window.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.8619995117188,
+        427.4670104980469,
+        667.365966796875
+      ],
+      "text": "A participant was classified as having an unfavorable outcome if any one of the following conditions is met:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.6967163085938,
+        526.552001953125,
+        681.20068359375
+      ],
+      "text": "1.\tA participant was considered to have absence of bacteriological cure if he/she had a sputum sample, obtained at or after Week 17 and",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        680.7686767578125,
+        526.6126708984375,
+        692.20068359375
+      ],
+      "text": "M. tuberculosis no later than the end of the Month 12 analysis visit window, that is   Culture Positive that was indistinguishable from the",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        691.7686767578125,
+        526.60302734375,
+        703.20068359375
+      ],
+      "text": "M. tuberculosis initial isolate (see separate sequencing plan for definitions), and this was confirmed by a second sample that was   culture",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        702.7686767578125,
+        526.6017456054688,
+        714.20068359375
+      ],
+      "text": "M. tuberculosis positive. A second confirmatory sample, on a different day without an intervening   negative culture result, was required,",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        714.6967163085938,
+        526.6080932617188,
+        725.20068359375
+      ],
+      "text": "as a single positive sputum culture result in isolation was not considered absence of bacteriological cure. If results from strain analysis",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        725.6967163085938,
+        359.6637878417969,
+        736.20068359375
+      ],
+      "text": "were inconclusive or unavailable, it was assumed that strains were indistinguishable.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.5313110351562,
+        526.6023559570312,
+        750.0352783203125
+      ],
+      "text": "2.\tParticipants who died from any cause during study treatment (‘study treatment phase’ is defined in the protocol), except from violent or",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.86609649658203,
+        750.5313110351562,
+        471.5989990234375,
+        761.0352783203125
+      ],
+      "text": "accidental cause (e.g. road traffic accident). Suicide during study treatment was classified as an unfavorable outcome.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        442.081298828125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 4. PICO questions 289",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

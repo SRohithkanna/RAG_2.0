@@ -1,0 +1,546 @@
+{
+  "file": "common childhood",
+  "page": 22,
+  "blocks": [
+    {
+      "bbox": [
+        113.12979888916016,
+        27.289522171020508,
+        340.4130554199219,
+        35.34652328491211
+      ],
+      "text": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        61.003204345703125,
+        89.587890625,
+        71.3622055053711
+      ],
+      "text": "TABLE 2.1",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        70.7892074584961,
+        205.2729034423828,
+        82.77920532226562
+      ],
+      "text": "Assessment of strength of evidence",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        87.69223022460938,
+        154.39401245117188,
+        95.74922943115234
+      ],
+      "text": "LEVEL OF EVIDENCE RATIONALE",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        100.94119262695312,
+        376.3780517578125,
+        111.3001937866211
+      ],
+      "text": "High Further research is very unlikely to change confidence in the estimate of effect.",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        116.07821655273438,
+        384.0190124511719,
+        126.43721771240234
+      ],
+      "text": "Moderate Further research is likely to have an important impact on confidence in the effect.",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        131.21511840820312,
+        397.554931640625,
+        141.57412719726562
+      ],
+      "text": "Low Further research is very likely to have an estimate of effect and is likely to change the",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        123.62200164794922,
+        142.21511840820312,
+        152.79100036621094,
+        152.57412719726562
+      ],
+      "text": "estimate.",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        157.35220336914062,
+        250.43214416503906,
+        167.71121215820312
+      ],
+      "text": "Very low Any estimate of effect is very uncertain.",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        190.1359100341797,
+        399.11163330078125,
+        203.62591552734375
+      ],
+      "text": "GRADE tables from systematic reviews were cross-checked, and where relevant,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        203.1359100341797,
+        399.0929260253906,
+        216.62591552734375
+      ],
+      "text": "risk-benefit analysis was produced by the GSC. Internal discussions were held to",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        216.1359100341797,
+        399.1128845214844,
+        229.62591552734375
+      ],
+      "text": "evaluate the quality of the evidence presented to the GDG and needed to produce",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        229.1359100341797,
+        399.1629943847656,
+        242.62591552734375
+      ],
+      "text": "draft recommendations, benefits, harms and risks, costs of implementation, and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        242.1359100341797,
+        399.072998046875,
+        255.62591552734375
+      ],
+      "text": "acceptability. Recommendations were then formulated and drafted in accordance",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        255.1359100341797,
+        399.11309814453125,
+        268.62591552734375
+      ],
+      "text": "with procedures outlined in the WHO Handbook for Guideline Development,  and  1",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        268.1358947753906,
+        326.3028869628906,
+        281.62591552734375
+      ],
+      "text": "guided by the quality of evidence using the GRADE methodology.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        281.1358947753906,
+        399.08154296875,
+        294.62591552734375
+      ],
+      "text": "In drafting the recommendations, the WHO Secretariat used those summaries of",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        294.1358947753906,
+        399.10284423828125,
+        307.62591552734375
+      ],
+      "text": "evidence for the critical outcomes (i.e. morbidity, mortality, disease progression and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        307.1358947753906,
+        399.1328125,
+        320.62591552734375
+      ],
+      "text": "sequelae, or adverse events for medicines); quality of evidence; risks and benefits of",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        320.1358947753906,
+        396.8529052734375,
+        333.62591552734375
+      ],
+      "text": "implementing the recommendations; acceptability; costs; and feasibility. The recom­",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        333.1358947753906,
+        399.0929870605469,
+        346.62591552734375
+      ],
+      "text": "men­dations were then were then ranked as strong or weak recommendation and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        346.1358947753906,
+        214.15289306640625,
+        359.62591552734375
+      ],
+      "text": "research gaps or needs were identified.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        369.68341064453125,
+        295.1069641113281,
+        382.8724060058594
+      ],
+      "text": "2.3\t Consensus building and external peer review",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        386.30908203125,
+        399.1429138183594,
+        399.7991027832031
+      ],
+      "text": "Draft recommendations, along with the supportive evidence (including summary of",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        399.30908203125,
+        399.0527648925781,
+        412.7991027832031
+      ],
+      "text": "the evidence of the systematic reviews with risk-benefit analysis and GRADE tables)",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        412.1791076660156,
+        399.1123046875,
+        425.7991027832031
+      ],
+      "text": "Pocket Book were circulated to selected expert external reviewers and some   users for",
+      "font": "MinionPro-It",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        98.6771011352539,
+        425.089111328125,
+        134.35708618164062,
+        438.7991027832031
+      ],
+      "text": "Annex 4",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        425.30908203125,
+        399.0729064941406,
+        438.7991027832031
+      ],
+      "text": "feedback ( ). This process was managed electronically through a (EZcollab",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        438.30908203125,
+        399.0327453613281,
+        451.7991027832031
+      ],
+      "text": "site accessible to external reviewers. Results of the peer review process were used to",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        451.30908203125,
+        358.0529479980469,
+        464.7991027832031
+      ],
+      "text": "modify the draft recommendations before presentation to the GDG panel.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        464.30908203125,
+        396.8714599609375,
+        477.7991027832031
+      ],
+      "text": "To formulate the final recommendations, these evidence summaries, with risk-",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        477.30908203125,
+        399.03289794921875,
+        490.7991027832031
+      ],
+      "text": "benefit analysis and GRADE tables, were presented and discussed at an expert panel",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        490.30908203125,
+        399.1028747558594,
+        503.7991027832031
+      ],
+      "text": "meeting held at WHO headquarters in Geneva, Switzerland, in February 2011. The",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        503.30908203125,
+        399.1327819824219,
+        516.799072265625
+      ],
+      "text": "panel weighed the quality of evidence, risks, and benefits, including acceptability,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        516.30908203125,
+        399.0328369140625,
+        529.799072265625
+      ],
+      "text": "and placed emphasis on the values and feasibility of implementation in low-resource",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        529.30908203125,
+        399.082763671875,
+        542.799072265625
+      ],
+      "text": "settings while ensuring that the recommendations are in line with international",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        542.30908203125,
+        399.0928955078125,
+        555.799072265625
+      ],
+      "text": "standards of care. Although most decisions were based on the evidence from",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        555.30908203125,
+        399.10302734375,
+        568.799072265625
+      ],
+      "text": "randomized clinical trials (RCTs), or large effect observational cohort data, where the",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        568.30908203125,
+        399.06298828125,
+        581.799072265625
+      ],
+      "text": "panel determined that there was insufficient evidence, expert consensus was used.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        597.0441284179688,
+        398.6336669921875,
+        607.9401245117188
+      ],
+      "text": "Handbook for Guideline Development. WHO   Geneva, World Health Organization, March 2010.  1",
+      "font": "MinionPro-It",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        606.1481323242188,
+        110.6715087890625,
+        616.9401245117188
+      ],
+      "text": "Available at",
+      "font": "MinionPro-Regular",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        113.22039794921875,
+        606.1481323242188,
+        335.65252685546875,
+        616.9401245117188
+      ],
+      "text": "http://www.who.int/hiv/topics/mtct/grc_handbook_mar2010_1.pdf",
+      "font": "MinionPro-Regular",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        335.7580871582031,
+        606.1481323242188,
+        398.67010498046875,
+        616.9401245117188
+      ],
+      "text": ". Accessed on 29",
+      "font": "MinionPro-Regular",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        615.1481323242188,
+        110.37548065185547,
+        625.9401245117188
+      ],
+      "text": "August 2011.",
+      "font": "MinionPro-Regular",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        224.52369689941406,
+        644.9403076171875,
+        228.5196990966797,
+        655.2992553710938
+      ],
+      "text": "8",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

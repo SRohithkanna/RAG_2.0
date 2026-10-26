@@ -1,0 +1,91 @@
+{
+  "file": "module1",
+  "page": 82,
+  "table_id": 1,
+  "bbox": [
+    56.69299087524414,
+    91.1857123123972,
+    784.697021484375,
+    206.585107421875
+  ],
+  "heading": "Development of TB disease in household contacts with TB infection in high TB incidence countries",
+  "n_rows": 5,
+  "n_cols": 13,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No of contacts (active TB/no. TBI)",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No, of studies",
+      "Design",
+      "Risk of bias",
+      "Limitations",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Comparator",
+      "0–5 years",
+      "RR (95% CI)",
+      "Absolute per 1000 (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Age groups compared: 5–15 years vs 0–5 years",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "0.28 83.8 4 (8,13,15,16) Cohort Not serious Not serious Seriousa Not serious Seriousb 54/1329 73/630 Low Critical (0.12 ; 0.65) (40.3 ; 102.3)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Age groups compared: > 15 years vs 0–5 years",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

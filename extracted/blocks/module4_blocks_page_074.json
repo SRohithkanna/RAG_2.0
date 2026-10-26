@@ -1,0 +1,630 @@
+{
+  "file": "module4",
+  "page": 74,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        125.72310638427734,
+        81.63569641113281
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        88.98461151123047,
+        527.4099731445312,
+        103.33961486816406
+      ],
+      "text": "The use of the 6-month treatment regimen composed of bedaquiline, pretomanid, linezolid",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.18462371826172,
+        527.4088745117188,
+        116.53962707519531
+      ],
+      "text": "and moxifloxacin (BPaLM) rather than BPaL is suggested in MDR/RR-TB patients with or",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38463592529297,
+        527.2860107421875,
+        129.73963928222656
+      ],
+      "text": "without resistance to fluoroquinolones, who have either had no previous exposure to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.5845947265625,
+        421.37994384765625,
+        142.93959045410156
+      ],
+      "text": "bedaquiline and linezolid or have been exposed for less than 1 month.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.5385284423828,
+        142.8217010498047,
+        175.19851684570312
+      ],
+      "text": "Sub-PICO 6.3",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.4064483642578,
+        524.4149780273438,
+        196.8494415283203
+      ],
+      "text": "The BPaLM regimen arm of the TB-PRACTECAL trial with a population including patients with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.6063995361328,
+        527.469482421875,
+        210.0493927001953
+      ],
+      "text": "RR-TB with or without fluoroquinolone resistance (MDR/RR-TB or pre-XDR-TB) was compared with the",
+      "font": "SegoeUI-Light",
+      "size": 10.959275245666504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        208.80641174316406,
+        527.416748046875,
+        223.24940490722656
+      ],
+      "text": "BPaLC arm of the TB-PRACTECAL trial that comprised MDR/RR-TB or pre-XDR-TB patients. Primary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.0063018798828,
+        353.2008972167969,
+        236.4492950439453
+      ],
+      "text": "analysis was undertaken at 72 weeks post treatment initiation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.71034240722656,
+        527.1202392578125,
+        258.1533508300781
+      ],
+      "text": "Participants with MDR/RR-TB (with or without fluoroquinolone resistance) receiving the BPaLM regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.949031829833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.63429260253906,
+        527.4261474609375,
+        271.3533020019531
+      ],
+      "text": "n n ( =62) compared with participants receiving the BPaLC regimen ( =64) in the TB-PRACTECAL trial",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.11029052734375,
+        129.1331024169922,
+        284.5533142089844
+      ],
+      "text": "experienced:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.814208984375,
+        78.23609924316406,
+        306.2572326660156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        291.814208984375,
+        527.2022705078125,
+        306.2572326660156
+      ],
+      "text": "higher levels of treatment success (89% vs 81%); that is, an 11% relative increase (aRR 1.11,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        305.0142822265625,
+        180.4910888671875,
+        319.4573059082031
+      ],
+      "text": "95% CI: 0.94 to 1.31);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.2142333984375,
+        78.23609924316406,
+        332.6572570800781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        318.2142333984375,
+        527.427734375,
+        332.6572570800781
+      ],
+      "text": "lower levels of failure and recurrence (8.1% vs 9.4%); that is, a 30% relative reduction (aRR= 0.70,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        331.4142150878906,
+        177.84010314941406,
+        345.85723876953125
+      ],
+      "text": "95% CI: 0.2 to 2.29);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.61431884765625,
+        78.23609924316406,
+        359.0573425292969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        344.61431884765625,
+        527.4421997070312,
+        359.0573425292969
+      ],
+      "text": "lower levels of deaths (0% vs 1.6%); that is, a 2% absolute reduction (RD= –0.02, 95% CI: –0.08",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        357.814208984375,
+        123.31309509277344,
+        372.2572326660156
+      ],
+      "text": "to 0.04);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.0141906738281,
+        78.23609924316406,
+        385.45721435546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        371.0141906738281,
+        527.2598876953125,
+        385.45721435546875
+      ],
+      "text": "lower levels of LTFU (3.2% vs 7.8%); that is, a 59% relative reduction (RR=0.41, 95% CI: 0.09 to 1.77);",
+      "font": "SegoeUI-Light",
+      "size": 10.97426986694336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.2142028808594,
+        78.23609924316406,
+        398.6572265625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        384.2142028808594,
+        527.59716796875,
+        398.6572265625
+      ],
+      "text": "lower levels of Grade 3–5 AEs (21% vs 34%); that is, a 39% relative reduction (aRR=0.61, 95% CI: 0.37",
+      "font": "SegoeUI-Light",
+      "size": 10.950638771057129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        397.4142150878906,
+        143.8061065673828,
+        411.85723876953125
+      ],
+      "text": "to 1.00); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        410.61431884765625,
+        78.23609924316406,
+        425.0573425292969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        410.61431884765625,
+        527.4860229492188,
+        425.0573425292969
+      ],
+      "text": "lower levels of amplified resistance (0% vs 1.9%); that is, a 2% absolute reduction (RD= –0.02,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        423.814208984375,
+        185.9910888671875,
+        438.2572326660156
+      ],
+      "text": "95% CI: –0.07 to 0.02).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.5182189941406,
+        527.194580078125,
+        459.96124267578125
+      ],
+      "text": "The GDG judged the benefits of BPaLM to be moderate and the undesirable effects to be trivial",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.71820068359375,
+        527.4232177734375,
+        473.1612243652344
+      ],
+      "text": "compared with BPaLC. The certainty of evidence was judged to be very low. Based on this, the panel",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.918212890625,
+        393.7403259277344,
+        486.3612365722656
+      ],
+      "text": "determined that the balance of health effects probably favours BPaLM.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.72943115234375,
+        125.72310638427734,
+        511.08441162109375
+      ],
+      "text": "Conclusion",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.4334106445312,
+        527.4099731445312,
+        532.7883911132812
+      ],
+      "text": "The use of the 6-month treatment regimen composed of bedaquiline, pretomanid, linezolid",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.6334228515625,
+        527.4132690429688,
+        545.9884033203125
+      ],
+      "text": "and moxifloxacin (BPaLM) rather than BPaLC is suggested in patients with MDR/RR-TB with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.8334350585938,
+        527.2783813476562,
+        559.1884155273438
+      ],
+      "text": "or without resistance to fluoroquinolones, who have either had no previous exposure to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.033447265625,
+        421.37994384765625,
+        572.388427734375
+      ],
+      "text": "bedaquiline and linezolid or have been exposed for less than 1 month.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.9871826171875,
+        142.8217010498047,
+        604.647216796875
+      ],
+      "text": "Sub-PICO 6.4",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.855224609375,
+        524.4182739257812,
+        626.2982177734375
+      ],
+      "text": "The BPaLC regimen arm of the TB-PRACTECAL trial with population including patients with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.05517578125,
+        527.6228637695312,
+        639.4981689453125
+      ],
+      "text": "RR-TB with or without fluoroquinolone resistance (MDR/RR-TB or pre-XDR-TB) was compared to the",
+      "font": "SegoeUI-Light",
+      "size": 10.998350143432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.2551879882812,
+        527.5409545898438,
+        652.6981811523438
+      ],
+      "text": "comparator arm of the TB-PRACTECAL trial comprised of MDR/RR-TB or pre-XDR-TB patients treated",
+      "font": "SegoeUI-Light",
+      "size": 10.971563339233398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.4552001953125,
+        527.4177856445312,
+        665.898193359375
+      ],
+      "text": "with multiple local SoC regimens recommended by WHO at the time of trial conduct (including a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.6552124023438,
+        527.1668090820312,
+        679.0982055664062
+      ],
+      "text": "9–12-month injectable-containing regimen; 18–24-month WHO-recommended regimen [pre-2019];",
+      "font": "SegoeUI-Light",
+      "size": 10.98178482055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.855224609375,
+        527.4057006835938,
+        692.2982177734375
+      ],
+      "text": "9–12-month all-oral regimen; and 18–20-month all-oral regimen). Primary analysis was undertaken",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.05517578125,
+        239.59072875976562,
+        705.4981689453125
+      ],
+      "text": "at 72 weeks post treatment initiation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.4830932617188,
+        527.4098510742188,
+        727.2020874023438
+      ],
+      "text": "n Participants with MDR/RR-TB (with or without fluoroquinolone resistance) receiving BPaLC ( =64)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        725.9591064453125,
+        527.4343872070312,
+        740.402099609375
+      ],
+      "text": "compared to participants receiving WHO-recommended SoC regimens used in the TB-PRACTECAL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.8831176757812,
+        185.6342010498047,
+        753.6021118164062
+      ],
+      "text": "n trial ( =66) experienced:",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "60 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

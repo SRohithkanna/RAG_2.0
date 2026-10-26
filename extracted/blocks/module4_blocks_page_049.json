@@ -1,0 +1,534 @@
+{
+  "file": "module4",
+  "page": 49,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        242.21009826660156,
+        147.5496368408203
+      ],
+      "text": "Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        524.5953979492188,
+        195.36158752441406
+      ],
+      "text": "Tuberculosis (TB) strains that are resistant to TB medicines are more difficult to treat than drug-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        527.3859252929688,
+        208.5615997314453
+      ],
+      "text": "susceptible ones, and present a major challenge for patients, health care workers and health care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.31861877441406,
+        527.4003295898438,
+        221.76161193847656
+      ],
+      "text": "services. In addition, the increase of drug-resistant TB (DR-TB) threatens global progress towards the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.2426300048828,
+        527.504150390625,
+        234.9616241455078
+      ],
+      "text": "(1) targets set by the End TB Strategy   of the World Health Organization (WHO). Thus, there is a critical",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.983137130737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.71864318847656,
+        527.4398193359375,
+        248.16163635253906
+      ],
+      "text": "need for the continual development of evidence-based policy recommendations on the treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.91859436035156,
+        524.4071655273438,
+        261.3616027832031
+      ],
+      "text": "and care of patients with DR-TB, based on the most recent and comprehensive evidence available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        268.62261962890625,
+        527.5780639648438,
+        283.0656433105469
+      ],
+      "text": "In the past decade, WHO has developed and issued evidence-based policy recommendations for the",
+      "font": "SegoeUI-Light",
+      "size": 10.983687400817871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.7125244140625,
+        527.4269409179688,
+        296.2655334472656
+      ],
+      "text": "Box 1 treatment and care of patients with DR-TB, published in a range of documents (see  ). WHO has",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.991496086120605,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.0225830078125,
+        527.4090576171875,
+        309.4656066894531
+      ],
+      "text": "recently started to consolidate guidelines, in response to requests from Member States, to facilitate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.2225341796875,
+        527.6203002929688,
+        322.6655578613281
+      ],
+      "text": "policy transfer at the country level. The first integrated recommendations for the management",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.1465148925781,
+        527.4404296875,
+        335.86553955078125
+      ],
+      "text": "WHO  and care of multidrug- or rifampicin-resistant TB (MDR/RR-TB) were released in 2019, as the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.34661865234375,
+        524.4076538085938,
+        349.0656433105469
+      ],
+      "text": "consolidated guidelines on drug-resistant tuberculosis treatment (2) (3)  with an update released in 2022  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.957869529724121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.822509765625,
+        527.1437377929688,
+        362.2655334472656
+      ],
+      "text": "The consolidation of WHO recommendations on TB and DR-TB has been expanded to better outline",
+      "font": "SegoeUI-Light",
+      "size": 10.995348930358887,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.7464904785156,
+        527.4215698242188,
+        375.46551513671875
+      ],
+      "text": "Mycobacterium tuberculosis the path that a patient will take following exposure to resistant strains of  ,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.2225036621094,
+        527.5383911132812,
+        388.66552734375
+      ],
+      "text": "once infection has progressed to TB disease, and the patient has been identified by the health system",
+      "font": "SegoeUI-Light",
+      "size": 10.985991477966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.4225158691406,
+        229.18801879882812,
+        401.86553955078125
+      ],
+      "text": "and referred for DR-TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.1264953613281,
+        527.2181396484375,
+        423.56951904296875
+      ],
+      "text": "The guidance provided in this chapter outlines specific WHO recommendations on the overall treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        422.3265075683594,
+        527.479248046875,
+        436.76953125
+      ],
+      "text": "management, care and monitoring of patients with MDR/RR-TB. It brings forward recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.99959945678711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.5265197753906,
+        527.4090576171875,
+        449.96954345703125
+      ],
+      "text": "developed by various Guideline Development Groups (GDGs) convened by WHO. The GDGs use",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.72650146484375,
+        527.4277954101562,
+        463.1695251464844
+      ],
+      "text": "the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.926513671875,
+        527.4002075195312,
+        476.3695373535156
+      ],
+      "text": "summarize the evidence, and formulate policy recommendations and accompanying remarks. This",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.1264953613281,
+        527.3989868164062,
+        489.56951904296875
+      ],
+      "text": "chapter incorporates recommendations that were made in 2022, based on new evidence that was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.3265075683594,
+        527.430419921875,
+        502.76953125
+      ],
+      "text": "available to WHO on the following: the use of the bedaquiline, pretomanid,  linezolid and moxifloxacin  18",
+      "font": "SegoeUI-Light",
+      "size": 10.951994895935059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.5264892578125,
+        527.1533203125,
+        515.969482421875
+      ],
+      "text": "(BPaLM) regimen for patients with MDR/RR-TB, and the use of 9-month all-oral bedaquiline-containing",
+      "font": "SegoeUI-Light",
+      "size": 10.949584007263184,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.7265014648438,
+        527.4310302734375,
+        529.1694946289062
+      ],
+      "text": "regimens for patients with MDR/RR-TB. It also includes new recommendations developed in June",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.926513671875,
+        527.4125366210938,
+        542.3695068359375
+      ],
+      "text": "2024 based on new evidence from the BEAT Tuberculosis (BEAT-TB) and endTB trials. The inclusion",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.12646484375,
+        527.4310913085938,
+        555.5694580078125
+      ],
+      "text": "of new recommendations in the current update of the consolidated guidelines was communicated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.050537109375,
+        527.4131469726562,
+        568.76953125
+      ],
+      "text": "(4) to the public via a rapid communication in August 2024  . This rapid communication was released",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.5264892578125,
+        527.6196899414062,
+        581.969482421875
+      ],
+      "text": "in advance of updated WHO consolidated guidelines, to inform national TB programmes (NTPs) and",
+      "font": "SegoeUI-Light",
+      "size": 10.998099327087402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.7265014648438,
+        527.4156494140625,
+        595.1694946289062
+      ],
+      "text": "other stakeholders of key changes in the treatment of DR-TB and to allow for rapid transition and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.926513671875,
+        207.69290161132812,
+        608.3695068359375
+      ],
+      "text": "planning at the country level.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.63037109375,
+        527.3970336914062,
+        630.0733642578125
+      ],
+      "text": "Overall, this chapter focuses on recommendations for the use of effective treatment regimens for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        628.8303833007812,
+        527.3958129882812,
+        643.2733764648438
+      ],
+      "text": "people with DR-TB; specifically, regimens for rifampicin-susceptible, isoniazid-resistant TB (Hr-TB),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.0303955078125,
+        527.4122924804688,
+        656.473388671875
+      ],
+      "text": "all-oral shorter regimens for MDR/RR-TB, longer regimens for MDR/RR-TB, monitoring the patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.2304077148438,
+        527.3914794921875,
+        669.6734008789062
+      ],
+      "text": "response to MDR/RR-TB treatment, starting antiretroviral therapy (ART) in patients on second-line",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.430419921875,
+        527.296875,
+        682.8734130859375
+      ],
+      "text": "anti-TB regimens, providing surgery for patients on MDR-TB treatment and hepatitis C and MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.63037109375,
+        527.425537109375,
+        696.0733642578125
+      ],
+      "text": "treatment co-administration. Additionally, to inform the global community of the major gaps and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.8303833007812,
+        527.545166015625,
+        709.2733764648438
+      ],
+      "text": "research areas to be addressed and to inform the development of evidence-based recommendations,",
+      "font": "SegoeUI-Light",
+      "size": 10.970059394836426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.0303955078125,
+        527.10400390625,
+        722.473388671875
+      ],
+      "text": "this document outlines the research priorities that will help to generate knowledge on evidence-based",
+      "font": "SegoeUI-Light",
+      "size": 10.969056129455566,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.2304077148438,
+        232.2977294921875,
+        735.6734008789062
+      ],
+      "text": "and attainable standards of health.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8717041015625,
+        526.7706909179688,
+        763.57568359375
+      ],
+      "text": "Pretomanid is a new chemical entity and a member of a class of compounds known as nitroimidazo-oxazines, which possess significant  18",
+      "font": "SegoeUI-Light",
+      "size": 7.998449802398682,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        250.08367919921875,
+        773.1756591796875
+      ],
+      "text": "anti-TB activity and a unique mechanism of action.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        545.8001708984375,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "35",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

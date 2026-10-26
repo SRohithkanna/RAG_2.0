@@ -1,0 +1,570 @@
+{
+  "file": "module1",
+  "page": 36,
+  "blocks": [
+    {
+      "bbox": [
+        440.96697998046875,
+        68.95364379882812,
+        520.2965698242188,
+        769.2125244140625
+      ],
+      "text": "For children aged ≥ 10 years, a four-symptom screen is used (current cough or fever or weight loss or night sweats). For children aged < 10 years, consider their history of contact with TB or reported or confirmed weight loss or growth curve   \tAny one of cough or fever or night sweats or haemoptysis or weight loss or chest pain or shortness of breath or fatigue. In children, poor weight gain (plateau on growth chart), reduced playfulness or lethargy should also be included in   \tIncluding acute or chronic hepatitis; peripheral neuropathy (if isoniazid is used); regular and heavy alcohol consumption. Pregnancy or a previous history of TB are not contraindications. The person is counselled about the benefits and potential   antigen-",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        440.1549987792969,
+        97.3572998046875,
+        450.12298583984375,
+        177.2545166015625
+      ],
+      "text": "Mycobacterium tuberculosis",
+      "font": "SegoeUI-LightItalic",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        480.2362976074219,
+        107.58808898925781,
+        489.42730712890625,
+        109.14208984375
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        480.2362976074219,
+        109.1468505859375,
+        489.42730712890625,
+        181.27490234375
+      ],
+      "text": "WHO guidance (TB-KSP)",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        69.65899658203125,
+        121.29052734375,
+        84.16799926757812,
+        215.10400390625
+      ],
+      "text": "a Other risk groups",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.27459716796875,
+        141.23953247070312,
+        57.10260009765625,
+        771.02392578125
+      ],
+      "text": "Fig. 1. Combined algorithm for screening and testing individuals at risk before starting TB preventive treatment",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        275.15350341796875,
+        165.96360778808594,
+        285.593505859375,
+        198.57080078125
+      ],
+      "text": "Negative",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        460.6015930175781,
+        170.57142639160156,
+        469.7926025390625,
+        197.40093994140625
+      ],
+      "text": "category.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        440.96697998046875,
+        177.11874389648438,
+        450.1579895019531,
+        771.02392578125
+      ],
+      "text": "CAD, computer aided detection of TB; CRP, C-reactive protein; CXR, chest radiography; IGRA, interferon-γ release assay; mWRD, molecular WHO-recommended rapid diagnostic test; TB, tuberculosis; TBST,",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        480.2362976074219,
+        181.27743530273438,
+        489.42730712890625,
+        765.3546142578125
+      ],
+      "text": "flattening or weight for age < –2 Z-scores. Asymptomatic infants aged < 1 year with HIV are given TPT only if they are household contacts of people with TB. For other screening options, see the latest",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        460.6015930175781,
+        199.35211181640625,
+        469.7926025390625,
+        769.00732421875
+      ],
+      "text": "Including miners with silicosis, people on dialysis or anti-TNF agent treatment, preparation for transplantation or other risks in national guidelines. TB disease should be ruled out for people in this",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        228.8658905029297,
+        238.72608947753906,
+        293.593505859375,
+        280.433349609375
+      ],
+      "text": "Positive or  unavailable TST, IGRA",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        194.0167999267578,
+        244.31707763671875,
+        247.30589294433594,
+        275.4139404296875
+      ],
+      "text": "≥5 years or TBST",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        320.8556823730469,
+        252.16160583496094,
+        426.177490234375,
+        589.1602172851562
+      ],
+      "text": "Follow-up for TB disease as necessary, even for people who have completed TPT f CXR",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        553.2095947265625,
+        273.5005187988281,
+        562.4005737304688,
+        305.62408447265625
+      ],
+      "text": "prescribed.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        162.85589599609375,
+        301.66729736328125,
+        173.2958984375,
+        312.57928466796875
+      ],
+      "text": "No",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        553.2095947265625,
+        307.543212890625,
+        562.4005737304688,
+        768.73828125
+      ],
+      "text": "Regimen chosen according to age, strain (drug susceptible or otherwise), risk of toxicity, availability and preference. Adherence supported until completion as",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        299.3970031738281,
+        325.23797607421875,
+        357.8180847167969,
+        366.58203125
+      ],
+      "text": "Normal or  unavailable Abnormal",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        194.0167999267578,
+        339.14044189453125,
+        204.45680236816406,
+        370.2292175292969
+      ],
+      "text": "<5 years",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        69.65899658203125,
+        359.5899353027344,
+        84.16799926757812,
+        456.90692138671875
+      ],
+      "text": "Household contact",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.09919738769531,
+        367.0223083496094,
+        114.53919982910156,
+        449.4543151855469
+      ],
+      "text": "Screen positive for TB?",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.17919921875,
+        371.23876953125,
+        130.6831817626953,
+        445.2383117675781
+      ],
+      "text": "c with symptoms, CXR  (+/- CAD) or mWRD?",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        162.85589599609375,
+        405.0588073730469,
+        173.2958984375,
+        416.660400390625
+      ],
+      "text": "Yes",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        499.8708801269531,
+        441.46221923828125,
+        509.0618896484375,
+        443.0162048339844
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        499.8708801269531,
+        443.02093505859375,
+        509.0618896484375,
+        515.1490478515625
+      ],
+      "text": "WHO guidance (TB-KSP)",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        530.7402954101562,
+        463.2876892089844,
+        539.9312744140625,
+        768.9634399414062
+      ],
+      "text": "In household contacts aged ≥ 5 years, TST, IGRA or TBST is recommended before consideration of TPT.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        228.8658905029297,
+        515.1499633789062,
+        509.0618896484375,
+        765.3546142578125
+      ],
+      "text": "symptom screening; cough may be absent. For other screening options see the latest  Evaluate for TB and",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        236.8658905029297,
+        525.3843994140625,
+        269.9700927734375,
+        585.08837890625
+      ],
+      "text": "other conditions e No TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        198.5522003173828,
+        548.4248046875,
+        208.99220275878906,
+        560.0264282226562
+      ],
+      "text": "Yes",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        449.3669738769531,
+        568.4065551757812,
+        458.5579833984375,
+        580.36962890625
+      ],
+      "text": "test.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        367.76800537109375,
+        580.6712646484375,
+        551.166015625,
+        771.02392578125
+      ],
+      "text": "g based skin test; TPT, TB preventive treatment; TST, tuberculin skin step. Give TPT",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        327.45770263671875,
+        588.3975830078125,
+        337.897705078125,
+        599.3096313476562
+      ],
+      "text": "No",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        539.1749877929688,
+        598.9771728515625,
+        551.166015625,
+        768.779296875
+      ],
+      "text": "CXR is required only if it was not conducted at a previous",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.09919738769531,
+        604.8450317382812,
+        122.68319702148438,
+        690.9403076171875
+      ],
+      "text": "with symptoms, CRP, CXR  Screen positive for TB?",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.46198272705078,
+        613.4395141601562,
+        126.5858154296875,
+        616.0513305664062
+      ],
+      "text": "b",
+      "font": "SegoeUI-Light",
+      "size": 4.664000034332275,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        69.65899658203125,
+        615.4108276367188,
+        84.16799926757812,
+        679.8311767578125
+      ],
+      "text": "HIV-positive",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        120.17919158935547,
+        616.0523071289062,
+        130.6831817626953,
+        684.540283203125
+      ],
+      "text": "(+/- CAD) or mWRD",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.9275817871094,
+        636.60888671875,
+        284.3675842285156,
+        715.228515625
+      ],
+      "text": "d TPT contraindicated?",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        198.5522003173828,
+        675.660400390625,
+        208.99220275878906,
+        686.5723876953125
+      ],
+      "text": "No",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        367.76800537109375,
+        685.2166137695312,
+        378.2080078125,
+        720.8726196289062
+      ],
+      "text": "Defer TPT",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        327.45770263671875,
+        702.1303100585938,
+        337.897705078125,
+        713.73193359375
+      ],
+      "text": "Yes",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.505615234375,
+        731.9793701171875,
+        528.6965942382812,
+        743.5616455078125
+      ],
+      "text": "TPT.",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        519.505615234375,
+        745.47802734375,
+        528.6965942382812,
+        765.3544921875
+      ],
+      "text": "risks of",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        460.8490295410156,
+        768.7384643554688,
+        558.8153686523438,
+        771.02392578125
+      ],
+      "text": "g b d f\t e a c",
+      "font": "SegoeUI-Light",
+      "size": 4.080999851226807,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "18 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

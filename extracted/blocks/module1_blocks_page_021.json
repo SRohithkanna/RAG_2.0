@@ -1,0 +1,414 @@
+{
+  "file": "module1",
+  "page": 21,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        361.8388977050781,
+        147.1480255126953
+      ],
+      "text": "1. Recommendations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.244384765625,
+        458.998046875,
+        212.0393829345703
+      ],
+      "text": "1.1 Identifying populations for TB preventive",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.04443359375,
+        155.9043731689453,
+        234.8394317626953
+      ],
+      "text": "treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        239.01429748535156,
+        527.497314453125,
+        254.73329162597656
+      ],
+      "text": "M. tuberculosis Among individuals infected with  , it is estimated that the average lifetime risk of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.2144317626953,
+        527.431884765625,
+        267.9334411621094
+      ],
+      "text": "(4) progressing to TB disease is about 5–10%  . The risk is particularly elevated among children under",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.414306640625,
+        527.431640625,
+        281.1333312988281
+      ],
+      "text": "(1) 5 years and among people with compromised immunity  . As any treatment entails risk of harms",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.890380859375,
+        527.3992919921875,
+        294.3334045410156
+      ],
+      "text": "and opportunity costs, TPT should be selectively targeted to population groups at highest risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.09027099609375,
+        527.4266357421875,
+        307.5332946777344
+      ],
+      "text": "progression to TB disease, who would benefit most. When identifying populations at increased risk,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.290283203125,
+        527.411376953125,
+        320.7333068847656
+      ],
+      "text": "consideration should be given to the epidemiology and pattern of TB transmission in the country, so",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.49041748046875,
+        527.6119384765625,
+        333.9334411621094
+      ],
+      "text": "that treatment is optimized to offer lasting protection. A comprehensive individual clinical assessment",
+      "font": "SegoeUI-Light",
+      "size": 10.985039710998535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.6903076171875,
+        527.5574951171875,
+        347.1333312988281
+      ],
+      "text": "that considers the balance between the risks and benefits for the person receiving treatment is critical.",
+      "font": "SegoeUI-Light",
+      "size": 10.976876258850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.89031982421875,
+        527.6163330078125,
+        360.3333435058594
+      ],
+      "text": "This section describes recommendations for identifying population groups considered at highest risk",
+      "font": "SegoeUI-Light",
+      "size": 10.997900009155273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.0903015136719,
+        527.4149169921875,
+        373.5333251953125
+      ],
+      "text": "of progression to disease and/or vulnerability to poor outcomes, namely people with HIV, contacts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.2903137207031,
+        182.9462127685547,
+        386.73333740234375
+      ],
+      "text": "and other people at risk.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        397.1568908691406,
+        174.92857360839844,
+        415.4269104003906
+      ],
+      "text": "People with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41510009765625,
+        435.4894104003906,
+        513.4075927734375,
+        449.93243408203125
+      ],
+      "text": "1. Adults and adolescents living with HIV who are unlikely to have TB disease on an appropriate",
+      "font": "SegoeUI-Light",
+      "size": 10.98138427734375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        448.68939208984375,
+        513.602783203125,
+        463.1324157714844
+      ],
+      "text": "clinical evaluation or according to national guidelines should receive TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        461.889404296875,
+        513.6071166992188,
+        476.3324279785156
+      ],
+      "text": "as part of a comprehensive package of HIV care. Treatment should also be given to those on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        475.08941650390625,
+        513.6179809570312,
+        489.5324401855469
+      ],
+      "text": "antiretroviral treatment, to pregnant women and to those who have previously been treated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        488.2894287109375,
+        513.6286010742188,
+        502.7324523925781
+      ],
+      "text": "for TB, irrespective of the degree of immunosuppression and even if testing for TB infection is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        500.21337890625,
+        438.4546813964844,
+        515.9324340820312
+      ],
+      "text": "(Strong recommendation, high certainty of the estimates of effect) unavailable.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        523.1932983398438,
+        513.6487426757812,
+        537.6362915039062
+      ],
+      "text": "2. Infants aged < 12 months living with HIV who are in contact with a person with TB and who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        536.393310546875,
+        513.6160278320312,
+        550.8363037109375
+      ],
+      "text": "are unlikely to have TB disease on an appropriate clinical evaluation or according to national",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        548.3172607421875,
+        513.7080078125,
+        564.0362548828125
+      ],
+      "text": "(Strong recommendation, moderate certainty  guidelines should receive TB preventive treatment.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.964643478393555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        561.517333984375,
+        198.16807556152344,
+        577.1813354492188
+      ],
+      "text": "of the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        584.4971923828125,
+        513.624267578125,
+        598.940185546875
+      ],
+      "text": "3. Children aged ≥ 12 months living with HIV who are considered unlikely to have TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        597.6972045898438,
+        513.6016235351562,
+        612.1401977539062
+      ],
+      "text": "on an appropriate clinical evaluation or according to national guidelines should be offered TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        610.897216796875,
+        513.7371826171875,
+        625.3402099609375
+      ],
+      "text": "preventive treatment as part of a comprehensive package of HIV prevention and care if they live",
+      "font": "SegoeUI-Light",
+      "size": 10.965546607971191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        622.8212890625,
+        513.638916015625,
+        638.540283203125
+      ],
+      "text": "(Strong recommendation,  in a setting with high TB transmission, regardless of contact with TB.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        636.0213012695312,
+        258.6626892089844,
+        651.685302734375
+      ],
+      "text": "low certainty of the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        659.001220703125,
+        513.64013671875,
+        673.4442138671875
+      ],
+      "text": "4. All children living with HIV who have successfully completed treatment for TB disease may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        670.9251708984375,
+        513.6515502929688,
+        686.6441650390625
+      ],
+      "text": "(Conditional recommendation, low certainty of the estimates  receive TB preventive treatment.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        684.1251831054688,
+        123.82140350341797,
+        699.7891845703125
+      ],
+      "text": "of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.8607177734375,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "3",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

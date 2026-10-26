@@ -1,0 +1,510 @@
+{
+  "file": "Latent",
+  "page": 30,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.51299285888672,
+        520.3609619140625,
+        67.4429931640625
+      ],
+      "text": "Fig. 3\t Algorithm for screening HIV-negative infants and children < 5 years of age who are household",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38609313964844,
+        67.51299285888672,
+        227.98806762695312,
+        80.4429931640625
+      ],
+      "text": "contacts of people with TB",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        160.58770751953125,
+        108.68714141845703,
+        438.8730773925781,
+        120.96114349365234
+      ],
+      "text": "Children < 5 years of age who are household contacts of people with",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        213.12271118164062,
+        120.68561553955078,
+        382.1523742675781,
+        132.95962524414062
+      ],
+      "text": "bacteriologically confirmed pulmonary TB",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24400329589844,
+        178.46669006347656,
+        453.3465270996094,
+        190.74069213867188
+      ],
+      "text": "Well Symptomatic a b",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.40399932861328,
+        220.98634338378906,
+        212.2294921875,
+        233.26034545898438
+      ],
+      "text": "Preventive treatment",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        122.20469665527344,
+        263.978515625,
+        217.00323486328125,
+        276.2525329589844
+      ],
+      "text": "If become symptomatic",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        250.5222930908203,
+        306.02569580078125,
+        343.80853271484375,
+        318.2997131347656
+      ],
+      "text": "Evaluate for TB disease",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.797607421875,
+        369.87469482421875,
+        348.7016296386719
+      ],
+      "text": "Children must be free of any TB and non-TB related symptoms to be considered well.   a",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.797607421875,
+        526.2153930664062,
+        358.7016296386719
+      ],
+      "text": "The commonest TB-related symptoms are persistence of: cough, fever, not eating well/anorexia, weight loss/failure to thrive, fatigue,  b",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        358.46160888671875,
+        526.1784057617188,
+        368.7016296386719
+      ],
+      "text": "reduced playfulness and decreased activity. If TB disease is suspected, refer to Chapter 3 in the Guidance for national tuberculosis",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        368.46160888671875,
+        338.6938781738281,
+        378.7016296386719
+      ],
+      "text": "programmes on the management of tuberculosis in children. Second edition",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        378.46160888671875,
+        272.7057189941406,
+        388.7016296386719
+      ],
+      "text": "(www.who.int/tb/publications/childtb_guidelines/en/).",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.797607421875,
+        526.221435546875,
+        398.7016296386719
+      ],
+      "text": "Isoniazid 10 mg/kg (7−15 mg/kg) daily for 6 months. 3-month weekly regimen of rifapentine plus isoniazid or 3-month daily  c",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        398.46160888671875,
+        318.103515625,
+        408.7016296386719
+      ],
+      "text": "rifampicin plus isoniazid may be used as an alternative (see section 5).",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.797607421875,
+        526.23583984375,
+        418.7016296386719
+      ],
+      "text": "If TB disease is diagnosed, anti-TB treatment should be started and the child registered with the national TB programme. If TB disease  d",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        418.46160888671875,
+        355.35888671875,
+        428.7016296386719
+      ],
+      "text": "is excluded, the child should be considered for eligibility for preventive treatment.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.09271240234375,
+        526.708251953125,
+        469.8927001953125
+      ],
+      "text": "negative people and people of unknown HIV status. The review covered 33 studies, including 17 newly",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.8111877441406,
+        471.03271484375,
+        468.8621520996094,
+        483.96270751953125
+      ],
+      "text": "Annexes 1 and 2",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.09271240234375,
+        526.6760864257812,
+        483.8927001953125
+      ],
+      "text": "identified. The evidence-to-decision and the GRADE tables are presented in  . To illustrate",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        485.09271240234375,
+        526.7192993164062,
+        497.8927001953125
+      ],
+      "text": "how the various screening and diagnostic algorithms are expected to rule out active TB, a simple model was",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        499.09271240234375,
+        526.6602172851562,
+        511.8927001953125
+      ],
+      "text": "constructed to compare the following six screening criteria: (i) any TB symptom, (ii) any cough, (iii) cough for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        513.0927124023438,
+        526.6641845703125,
+        525.8927001953125
+      ],
+      "text": "> 2–3 weeks, (iv) chest radiographic abnormality suggestive of TB, (v) any chest radiographic abnormality and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        527.0927124023438,
+        526.6451416015625,
+        539.8927001953125
+      ],
+      "text": "(vi) a combination of any chest radiographic abnormality or any TB symptom. The model suggested that the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        541.0927124023438,
+        526.6841430664062,
+        553.8927001953125
+      ],
+      "text": "combination of any chest radiographic abnormality and the presence of any symptoms suggestive of TB (i.e.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        555.0927124023438,
+        526.6922607421875,
+        567.8927001953125
+      ],
+      "text": "any cough of any duration, haemoptysis, fever, night sweats, weight loss, chest pain, shortness of breath and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        569.0927124023438,
+        513.5682373046875,
+        581.8927001953125
+      ],
+      "text": "fatigue) would offer the highest sensitivity (100%) and negative predictive value (100%) for ruling out TB.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        588.7026977539062,
+        94.57608032226562,
+        601.6326904296875
+      ],
+      "text": "Fig. 4",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.57608032226562,
+        588.7626953125,
+        524.4061279296875,
+        601.5626831054688
+      ],
+      "text": "presents the algorithm for targeted diagnosis and treatment of LTBI and exclusion of active TB in house-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        602.7626953125,
+        312.7220764160156,
+        615.8726806640625
+      ],
+      "text": "hold contacts aged  5 years and other at-risk populations. ≥",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.7819213867188,
+        402.25921630859375,
+        646.285888671875
+      ],
+      "text": "Rationale for the recommendation on HIV-negative household contacts",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.6044921875,
+        526.6892700195312,
+        662.4044799804688
+      ],
+      "text": "The GDG noted the lack of any new data and agreed to continue use of the existing symptom-based algorithms",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.90609741210938,
+        663.5444946289062,
+        98.73509216308594,
+        676.4744873046875
+      ],
+      "text": "Fig. 3",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.6044921875,
+        526.6492919921875,
+        676.4044799804688
+      ],
+      "text": "( ) for HIV-negative infants and children who are household contacts of TB cases. The GDG reiterated",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.6044921875,
+        526.6739501953125,
+        690.4044799804688
+      ],
+      "text": "that active TB should be ruled out primarily by investigations, according to national guidelines. It noted that",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        691.6044921875,
+        526.6570434570312,
+        704.4044799804688
+      ],
+      "text": "screening of child contacts could include LTBI testing and chest radiography, although the absence of those",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.6044921875,
+        526.6383056640625,
+        718.4044799804688
+      ],
+      "text": "investigations should not pose a barrier for either diagnosis of active TB disease or provision of preventive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.6044921875,
+        526.611083984375,
+        732.4044799804688
+      ],
+      "text": "treatment. In the absence of these tests, clinical assessment alone is sufficient to decide on eligibility for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.6044921875,
+        526.6975708007812,
+        746.4044799804688
+      ],
+      "text": "preventive treatment particularly for children < 5 years of age who are household contacts of a bacteriologically",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        747.6044921875,
+        179.43907165527344,
+        760.4044799804688
+      ],
+      "text": "confirmed pulmonary TB.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.07389831542969,
+        790.2608032226562,
+        56.697898864746094,
+        810.61279296875
+      ],
+      "text": "18",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 90,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4702758789062,
+        81.83369445800781
+      ],
+      "text": "The control group included participants on the WHO-recommended 9-month regimen with 2 months",
+      "font": "SegoeUI-Light",
+      "size": 10.966097831726074,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4299926757812,
+        95.03370666503906
+      ],
+      "text": "of linezolid (the SoC in South Africa at the time), and fewer patients on the longer individualized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        295.4894104003906,
+        108.23371887207031
+      ],
+      "text": "regimens designed for patients with pre-XDR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.60794067382812,
+        323.6736145019531,
+        137.45993041992188
+      ],
+      "text": "Methods used for analysis and data synthesis",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.55780029296875,
+        527.2955322265625,
+        159.1107940673828
+      ],
+      "text": "Descriptive analyses  of the baseline characteristics of participants in the study were performed.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.86793518066406,
+        527.6199340820312,
+        172.31092834472656
+      ],
+      "text": "Characteristics included demographics, pregnancy status, laboratory parameters (e.g. HIV status and",
+      "font": "SegoeUI-Light",
+      "size": 10.991146087646484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.0679473876953,
+        527.4046020507812,
+        185.5109405517578
+      ],
+      "text": "CD4 count, if applicable), drug susceptibility tests and diagnostic test results, TB treatment received",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.26783752441406,
+        527.5552978515625,
+        198.71083068847656
+      ],
+      "text": "before randomization, AEs and treatment regimens, and end-of-treatment and end-of-follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.4678497314453,
+        118.55109405517578,
+        211.9108428955078
+      ],
+      "text": "outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.06170654296875,
+        527.4215698242188,
+        233.6147003173828
+      ],
+      "text": "Statistical analyses  Annex 2 were based on the WHO treatment outcome definitions listed in  ,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.37171936035156,
+        527.3914184570312,
+        246.81471252441406
+      ],
+      "text": "slightly modified for use in a clinical trial that included post-treatment follow-up to 76 weeks after",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.5717315673828,
+        527.544189453125,
+        260.0147399902344
+      ],
+      "text": "randomization. The study team performed the analyses and presented them to the WHO panel.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.771728515625,
+        527.40478515625,
+        273.2147521972656
+      ],
+      "text": "For the end of follow-up outcome measured at 76 weeks after initiation of treatment, a successful",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.9716796875,
+        222.41314697265625,
+        286.4147033691406
+      ],
+      "text": "outcome was defined as follows:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.67572021484375,
+        78.23609924316406,
+        308.1187438964844
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        293.67572021484375,
+        527.5563354492188,
+        308.1187438964844
+      ],
+      "text": "Cured – culture negative at the end of follow-up or culture negative when last seen, if the participant",
+      "font": "SegoeUI-Light",
+      "size": 10.951693534851074,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        306.875732421875,
+        527.4445190429688,
+        321.3187561035156
+      ],
+      "text": "was lost before the end of follow-up and provided they had a successful treatment outcome at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        320.0755920410156,
+        210.1691131591797,
+        334.51861572265625
+      ],
+      "text": "the last study visit attended.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.77960205078125,
+        527.12939453125,
+        356.2226257324219
+      ],
+      "text": "For the end-of-follow-up outcome measured at 76 weeks after initiation of treatment, an unsuccessful",
+      "font": "SegoeUI-Light",
+      "size": 10.975522994995117,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.9796142578125,
+        282.71405029296875,
+        369.4226379394531
+      ],
+      "text": "outcome was defined as one of the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.6835021972656,
+        78.23609924316406,
+        391.12652587890625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        376.6835021972656,
+        527.5588989257812,
+        391.12652587890625
+      ],
+      "text": "Recurrence – two consecutive positive cultures separated by at least 14 days, or one positive culture",
+      "font": "SegoeUI-Light",
+      "size": 10.964693069458008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        389.8835144042969,
+        527.406005859375,
+        404.3265380859375
+      ],
+      "text": "after confirmed culture conversion with clinical signs and symptoms of TB, or no improvement or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        403.08349609375,
+        527.397216796875,
+        417.5265197753906
+      ],
+      "text": "worsening of radiological changes since baseline. An isolated positive smear or culture without",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        416.28350830078125,
+        527.4478149414062,
+        430.7265319824219
+      ],
+      "text": "clinical or radiographic deterioration after treatment completion provides insufficient evidence to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        429.4835205078125,
+        172.8669891357422,
+        443.9265441894531
+      ],
+      "text": "define recurrent TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.6835021972656,
+        78.23609924316406,
+        457.12652587890625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        442.6835021972656,
+        271.857177734375,
+        457.12652587890625
+      ],
+      "text": "Death (from any cause) during follow-up.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.8835144042969,
+        78.23609924316406,
+        470.3265380859375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        455.8835144042969,
+        527.1643676757812,
+        470.3265380859375
+      ],
+      "text": "Loss to follow-up with clinical signs or symptoms of TB (or both) when last seen, or sputum culture",
+      "font": "SegoeUI-Light",
+      "size": 10.996199607849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        469.08349609375,
+        527.3992309570312,
+        483.5265197753906
+      ],
+      "text": "positive when last seen, or not sputum culture negative and with clinical signs and symptoms of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        482.28350830078125,
+        170.2281036376953,
+        496.7265319824219
+      ],
+      "text": "TB when last seen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.987548828125,
+        527.4400024414062,
+        518.4305419921875
+      ],
+      "text": "For the primary analysis, a successful outcome was required at the end of treatment and at the end",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.1875,
+        132.0063018798828,
+        531.6304931640625
+      ],
+      "text": "of follow-up.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.8914184570312,
+        527.5442504882812,
+        553.3344116210938
+      ],
+      "text": "If treatment was modified or extended for participants allocated to either strategy, those people may",
+      "font": "SegoeUI-Light",
+      "size": 10.997099876403809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.0914306640625,
+        527.0607299804688,
+        566.534423828125
+      ],
+      "text": "still have been on treatment at the final follow-up visit 76 weeks after randomization. In this situation,",
+      "font": "SegoeUI-Light",
+      "size": 10.995549201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.2913818359375,
+        527.4124145507812,
+        579.734375
+      ],
+      "text": "for the primary efficacy outcome classification, the end of treatment outcome was defined at this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.4913940429688,
+        527.3948364257812,
+        592.9343872070312
+      ],
+      "text": "time point (or the last participant visit while on treatment) and the end of follow-up outcome was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.69140625,
+        353.49566650390625,
+        606.1343994140625
+      ],
+      "text": "considered to be the same as the end of treatment outcome.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.3953247070312,
+        527.4597778320312,
+        627.8383178710938
+      ],
+      "text": "The primary safety endpoint was the incidence of all treatment-emergent AEs of Grade 3 or higher,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.5953369140625,
+        527.3043212890625,
+        641.038330078125
+      ],
+      "text": "using the Division of AIDS (DAIDS) table for grading the severity of adult and paediatric AEs by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        639.7952880859375,
+        527.3927001953125,
+        654.23828125
+      ],
+      "text": "treatment arm and up to 30 days following the end of treatment. Serious AEs were collected until",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.9954223632812,
+        188.0601348876953,
+        667.4384155273438
+      ],
+      "text": "the end of the follow-up.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "76 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

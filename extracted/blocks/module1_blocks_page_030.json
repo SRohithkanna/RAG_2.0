@@ -1,0 +1,306 @@
+{
+  "file": "module1",
+  "page": 30,
+  "blocks": [
+    {
+      "bbox": [
+        133.19039916992188,
+        150.8845977783203,
+        147.54539489746094,
+        201.5836181640625
+      ],
+      "text": "Sensitivity",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        262.36724853515625,
+        160.20831298828125,
+        272.8712463378906,
+        771.02392578125
+      ],
+      "text": "Note: The estimates of accuracy are independent for each test. The negative predictive value of all of the above screening tests in populations with a TB prevalence of 0.5–2% is ≥ 99%.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        166.24142456054688,
+        234.20179748535156,
+        186.19537353515625
+      ],
+      "text": "69% 54% 72% 76%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        220.32875061035156,
+        147.54539489746094,
+        271.0936279296875
+      ],
+      "text": "Specificity",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        248.53260803222656,
+        225.59335327148438,
+        259.03662109375,
+        771.02392578125
+      ],
+      "text": "CD4, Cluster of differentiation 4; CXR, chest X-ray; mWRDs, molecular WHO-recommended rapid diagnostic test; W4SS, WHO-recommended four-symptom screen",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        235.72732543945312,
+        234.20179748535156,
+        255.6812744140625
+      ],
+      "text": "20% 33% 19% 14%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.2957992553711,
+        269.8194885253906,
+        117.80480194091797,
+        291.071533203125
+      ],
+      "text": "CXR",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        289.85638427734375,
+        147.54539489746094,
+        340.555419921875
+      ],
+      "text": "Sensitivity",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        305.2132263183594,
+        234.20179748535156,
+        325.16717529296875
+      ],
+      "text": "93% 85% 94% 94%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        359.3003234863281,
+        234.20179748535156,
+        410.0653991699219
+      ],
+      "text": "Specificity 80%/90% 54%/67% 40%/54% 50%/65%",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        111.42182922363281,
+        367.14697265625,
+        125.93083190917969,
+        471.7042541503906
+      ],
+      "text": "Cut off > 5–10 mg/L",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        95.16987609863281,
+        371.6860046386719,
+        109.67887878417969,
+        467.14947509765625
+      ],
+      "text": "C-Reactive protein",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        66.7864990234375,
+        402.0562438964844,
+        82.614501953125,
+        771.0238037109375
+      ],
+      "text": "Table 3. Diagnostic accuracy of screening tests in people with HIV",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        428.82818603515625,
+        234.20179748535156,
+        479.5272216796875
+      ],
+      "text": "Sensitivity 40%/20% 89%/82% 93%/90% 90%/83%",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        498.2721252441406,
+        147.54539489746094,
+        549.0372314453125
+      ],
+      "text": "Specificity",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        513.6708374023438,
+        234.20179748535156,
+        533.6248779296875
+      ],
+      "text": "70% 37% 30% 38%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.2957992553711,
+        543.5228271484375,
+        117.80480194091797,
+        573.2448120117188
+      ],
+      "text": "W4SS",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.19039916992188,
+        567.800048828125,
+        147.54539489746094,
+        618.4990234375
+      ],
+      "text": "Sensitivity",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        583.1567993164062,
+        234.20179748535156,
+        603.11083984375
+      ],
+      "text": "83% 53% 84% 86%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        198.1442413330078,
+        655.5406494140625,
+        212.5872344970703,
+        764.2206420898438
+      ],
+      "text": "Outpatients not on ART",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        154.91500854492188,
+        673.877685546875,
+        234.20179748535156,
+        764.220703125
+      ],
+      "text": "Outpatients on ART All people with HIV ≤ 200 CD4 cells/μL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        114.10319519042969,
+        707.773193359375,
+        128.61219787597656,
+        764.2197265625
+      ],
+      "text": "Population",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "12 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

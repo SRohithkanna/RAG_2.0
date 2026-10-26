@@ -1,0 +1,354 @@
+{
+  "file": "module4",
+  "page": 305,
+  "blocks": [
+    {
+      "bbox": [
+        162.76651000976562,
+        78.5724105834961,
+        177.1215057373047,
+        141.64422607421875
+      ],
+      "text": "Comparison",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        174.76651000976562,
+        104.7309341430664,
+        464.96551513671875,
+        118.5029296875
+      ],
+      "text": "1.1 1.2 2.1 2.2 2.3 2.4 3.1 3.2 3.3 3.4 3.5 #",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.76651000976562,
+        214.6656951904297,
+        183.1215057373047,
+        342.56719970703125
+      ],
+      "text": "Comparator [data source]",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        352.0640869140625,
+        222.29222106933594,
+        366.5071105957031,
+        342.56719970703125
+      ],
+      "text": "BPaL 1200–26 [Nix, ZeNix]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.99110412597656,
+        247.8748016357422,
+        301.663330078125,
+        342.56719970703125
+      ],
+      "text": "WHO_short [SA_old] WHO_short [SA_old]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        265.6056823730469,
+        258.26446533203125,
+        280.0487060546875,
+        342.56719970703125
+      ],
+      "text": "mix of SOC [NExT]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.605712890625,
+        266.7662353515625,
+        323.2779235839844,
+        342.56719970703125
+      ],
+      "text": "WHO_long [IPD] WHO_long [IPD]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.4494934082031,
+        306.7292175292969,
+        344.89251708984375,
+        342.56719970703125
+      ],
+      "text": "SA_new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        162.76651000976562,
+        368.1493225097656,
+        464.96551513671875,
+        432.60931396484375
+      ],
+      "text": "Intervention  BPaL 600–300",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        385.6786804199219,
+        373.8681640625,
+        421.736328125,
+        432.60931396484375
+      ],
+      "text": "BPaL 1200–9 BPaL 600–26",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        352.0640869140625,
+        379.5331726074219,
+        443.3509216308594,
+        432.60931396484375
+      ],
+      "text": "BPaL 600–9 BPaL (all 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        174.76651000976562,
+        388.8733215332031,
+        378.5071105957031,
+        432.60931396484375
+      ],
+      "text": "modified) regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.99110412597656,
+        396.77130126953125,
+        210.43409729003906,
+        432.60931396484375
+      ],
+      "text": "SA_new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        265.6056823730469,
+        409.05828857421875,
+        280.0487060546875,
+        432.60931396484375
+      ],
+      "text": "NExT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.76651000976562,
+        451.4525451660156,
+        183.1215057373047,
+        505.559326171875
+      ],
+      "text": "Population",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        195.99110412597656,
+        463.6210021972656,
+        390.5071105957031,
+        505.559326171875
+      ],
+      "text": "MDR/RR\n pre-XDR MDR/RR MDR/RR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        364.0640869140625,
+        485.0624084472656,
+        378.5071105957031,
+        505.559326171875
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        207.99110412597656,
+        517.4443969726562,
+        366.5071105957031,
+        713.1971435546875
+      ],
+      "text": "Should BPaL regimens with lower linezolid  than 12 months) containing at least three",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        277.6056823730469,
+        526.70751953125,
+        292.0487060546875,
+        713.1971435546875
+      ],
+      "text": "regimen containing Lzd, Bdq, Lfx, Z, Eto/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        195.99110412597656,
+        532.0062255859375,
+        402.5071105957031,
+        713.1971435546875
+      ],
+      "text": "Should a 6-to-9-month shorter all-oral  Group A medicines be used in patients  Should a shorter all-oral regimen (less  with MDR/RR-TB and fluoroquinolone  RR-TB and fluoroquinolone resistance  Hh/Trd be used in patients with MDR/ exposure (dose or duration) be used  instead of the original BPaL regimen  in patients who are eligible for BPaL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        134.20510864257812,
+        554.7359619140625,
+        150.05709838867188,
+        771.02392578125
+      ],
+      "text": "WHO PICO questions and comparisons",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        101.00790405273438,
+        566.113525390625,
+        121.88790130615234,
+        771.02392578125
+      ],
+      "text": "4.2.1. Guideline update 2022",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        64.67269897460938,
+        585.5440063476562,
+        89.46769714355469,
+        771.02392578125
+      ],
+      "text": "4.2. Drug-resistant TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        243.99110412597656,
+        619.5860595703125,
+        258.4341125488281,
+        713.1971435546875
+      ],
+      "text": "resistance excluded?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.76651000976562,
+        642.105224609375,
+        183.1215057373047,
+        713.1971435546875
+      ],
+      "text": "PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        313.6056823730469,
+        667.3821411132812,
+        414.5071105957031,
+        713.1971435546875
+      ],
+      "text": "excluded? regimen?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.76651000976562,
+        727.05615234375,
+        183.1215057373047,
+        764.220703125
+      ],
+      "text": "PICO #",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        195.99110412597656,
+        758.5557250976562,
+        366.5071105957031,
+        764.220703125
+      ],
+      "text": "1 2 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        442.081298828125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 4. PICO questions 291",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

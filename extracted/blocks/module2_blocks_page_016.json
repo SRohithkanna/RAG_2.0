@@ -1,0 +1,510 @@
+{
+  "file": "module2",
+  "page": 16,
+  "blocks": [
+    {
+      "bbox": [
+        77.91929626464844,
+        74.69379425048828,
+        484.70025634765625,
+        89.13679504394531
+      ],
+      "text": "16 Among individuals younger than 15 years who are close contacts of someone with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        86.69379425048828,
+        499.7989501953125,
+        101.13679504394531
+      ],
+      "text": "TB, systematic screening for TB disease should be conducted using a symptom screen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        98.69379425048828,
+        492.7764587402344,
+        113.13679504394531
+      ],
+      "text": "including any one of cough, fever or poor weight gain; or chest radiography; or both",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        112.15180969238281,
+        512.6931762695312,
+        129.38880920410156
+      ],
+      "text": "new recommendation: strong recommendation, moderate to low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        124.15180969238281,
+        168.06900024414062,
+        141.38880920410156
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        148.56044006347656,
+        508.5086975097656,
+        163.00343322753906
+      ],
+      "text": "17 Among children younger than 10 years who are living with HIV, systematic screening for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        160.56044006347656,
+        501.8185729980469,
+        175.00343322753906
+      ],
+      "text": "TB disease should be conducted using a symptom screen including any one of current",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        172.56044006347656,
+        399.3414001464844,
+        187.00343322753906
+      ],
+      "text": "cough, fever, poor weight gain or close contact with a TB patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        186.0183868408203,
+        454.115966796875,
+        203.25538635253906
+      ],
+      "text": "new recommendation: strong recommendation, low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        198.0183868408203,
+        168.06900024414062,
+        215.25538635253906
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.5861053466797,
+        124.51649475097656,
+        240.09010314941406
+      ],
+      "text": "TB: tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.37000274658203,
+        282.98382568359375,
+        382.3319091796875,
+        297.4927978515625
+      ],
+      "text": "Box 1. Main changes to the guidance in the current update",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        311.60247802734375,
+        515.8903198242188,
+        326.0455017089844
+      ],
+      "text": "Community-wide systematic screening using an accurate screening and diagnostic  Î",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        324.8025207519531,
+        515.7427978515625,
+        339.24554443359375
+      ],
+      "text": "algorithm may be used in settings with a TB prevalence of 0.5% and higher, based on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        338.00250244140625,
+        284.3122863769531,
+        352.4455261230469
+      ],
+      "text": "new evidence of public health benefit.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        356.8717956542969,
+        515.6597290039062,
+        371.3148193359375
+      ],
+      "text": "Computer-aided detection (CAD) is being recommended for the first time as an alternative  Î",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        370.0718078613281,
+        515.72314453125,
+        384.51483154296875
+      ],
+      "text": "to human interpretation of digital chest X-ray (CXR) for screening and triage for TB. Its",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        383.2718200683594,
+        515.7186889648438,
+        397.71484375
+      ],
+      "text": "use should be limited to the interpretation of plain CXRs for pulmonary TB in individuals",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        396.4718017578125,
+        215.88841247558594,
+        410.9148254394531
+      ],
+      "text": "aged 15 years or older.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        415.3410949707031,
+        515.8148803710938,
+        429.78411865234375
+      ],
+      "text": "Molecular WHO-recommended rapid diagnostic tests (mWRDs) may be used to improve  Î",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        428.5411071777344,
+        423.102783203125,
+        442.984130859375
+      ],
+      "text": "the accuracy of symptom screening in populations at high risk of TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        447.410400390625,
+        515.9397583007812,
+        461.8534240722656
+      ],
+      "text": "When scaling up CXR and innovations such as CAD, C-reactive protein and mWRDs  Î",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        460.61041259765625,
+        515.7582397460938,
+        475.0534362792969
+      ],
+      "text": "for screening, due consideration should be given to avoid creating inequities. The use",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        473.8103942871094,
+        515.9004516601562,
+        488.25341796875
+      ],
+      "text": "of mWRDs needs to be prioritized for diagnostic testing for people with presumptive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        487.0104064941406,
+        515.6655883789062,
+        501.45343017578125
+      ],
+      "text": "TB. Implementation of CAD will require thorough consideration of its infrastructure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        500.2104187011719,
+        515.7307739257812,
+        514.6534423828125
+      ],
+      "text": "requirements, including the availability of digital radiography equipment, computers and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        513.410400390625,
+        470.1226806640625,
+        527.8533935546875
+      ],
+      "text": "internet access, as well as the costs to licence and use different CAD products.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        532.2796630859375,
+        300.16375732421875,
+        546.72265625
+      ],
+      "text": "In adults and adolescents living with HIV:  Î",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.8936996459961,
+        551.1490478515625,
+        515.7572021484375,
+        565.592041015625
+      ],
+      "text": "screening with CXR improves the sensitivity of the WHO-recommended four-symptom  y",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        564.3489990234375,
+        515.7198486328125,
+        578.7919921875
+      ],
+      "text": "screen (cough, fever, weight loss or night sweats) for detecting TB, including in people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        577.5490112304688,
+        380.0065612792969,
+        591.9920043945312
+      ],
+      "text": "who attend HIV care services for antiretroviral treatment;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.8936996459961,
+        596.4183349609375,
+        515.6572875976562,
+        610.861328125
+      ],
+      "text": "C-reactive protein may be used for TB screening in addition to the WHO-recommended  y",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        609.6182861328125,
+        501.2809143066406,
+        624.061279296875
+      ],
+      "text": "four-symptom screen in all people living with HIV in settings with a high TB burden;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.8936996459961,
+        628.4876098632812,
+        515.7737426757812,
+        642.9306030273438
+      ],
+      "text": "mWRDs may be used to screen for TB in all people living with HIV as well as in other  y",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        641.6876220703125,
+        515.8448486328125,
+        656.130615234375
+      ],
+      "text": "high-risk populations in settings with a high TB burden. They offer a distinct opportunity",
+      "font": "SegoeUI-Light",
+      "size": 10.978729248046875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        654.8875732421875,
+        515.7506713867188,
+        669.33056640625
+      ],
+      "text": "to improve timely diagnosis and treatment in hospitalized patients with HIV in medical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.73619842529297,
+        668.0875244140625,
+        303.2057189941406,
+        682.530517578125
+      ],
+      "text": "wards in settings with a high TB burden.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        47.41379928588867,
+        811.52099609375
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "file": "module3",
+  "page": 110,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        527.2117919921875,
+        82.30619812011719
+      ],
+      "text": "The WHO Global TB Programme initiated an update of the current guidelines and commissioned",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        526.6401977539062,
+        97.80619812011719
+      ],
+      "text": "a systematic review on the use of high complexity reverse hybridization-based NAATs for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        100.16120147705078,
+        456.46490478515625,
+        113.30619812011719
+      ],
+      "text": "detection of pyrazinamide resistance in people with signs and symptoms of TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        122.66522979736328,
+        527.287841796875,
+        135.8102264404297
+      ],
+      "text": "Two PICO questions were designed to form the basis for the evidence search, retrieval",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        136.66522216796875,
+        133.08201599121094,
+        149.8102264404297
+      ],
+      "text": "and analysis:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        156.4171142578125,
+        527.1314697265625,
+        169.56211853027344
+      ],
+      "text": "1.\t  Should high complexity reverse hybridization-based NAATs on sputum be used to diagnose",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        171.9171142578125,
+        526.8828125,
+        185.06211853027344
+      ],
+      "text": "pyrazinamide resistance in patients with microbiologically confirmed pulmonary TB,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        187.4171142578125,
+        526.9862060546875,
+        200.56211853027344
+      ],
+      "text": "irrespective of resistance to rifampicin, as compared with culture-based phenotypic DST or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        202.9171142578125,
+        237.29930114746094,
+        216.06211853027344
+      ],
+      "text": "composite reference standard?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.9210205078125,
+        527.0806884765625,
+        240.06602478027344
+      ],
+      "text": "2.\t  Should high complexity reverse hybridization-based NAATs on isolates be used to diagnose",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        242.4210205078125,
+        526.8828125,
+        255.56602478027344
+      ],
+      "text": "pyrazinamide resistance in patients with microbiologically confirmed pulmonary TB,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        257.9210205078125,
+        518.2447509765625,
+        271.0660400390625
+      ],
+      "text": "irrespective of resistance to rifampicin, as compared with culture-based phenotypic DST?",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.92498779296875,
+        527.0030517578125,
+        295.07000732421875
+      ],
+      "text": "The databases searched were PubMed, Web of Science and Embase, and they were searched",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.42498779296875,
+        526.9647216796875,
+        310.57000732421875
+      ],
+      "text": "without language or date restrictions. The search query was (PZA OR pyrazinamide OR pncA)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.92498779296875,
+        526.9700927734375,
+        326.07000732421875
+      ],
+      "text": "AND (tuberculosis) AND (“line-probe assay” OR LPA OR “hybridization-based technology”). In",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.4250183105469,
+        452.7802734375,
+        341.5700378417969
+      ],
+      "text": "addition, we approached Nipro (Osaka, Japan) to identify non-published data.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.4289245605469,
+        526.9644165039062,
+        365.5739440917969
+      ],
+      "text": "The microbiological reference standard was defined either as phenotypic culture-based DST",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.9289245605469,
+        526.9371337890625,
+        381.0739440917969
+      ],
+      "text": "performed using BD MGIT 960 PZA liquid assay or another acceptable phenotypic assay, or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.4289245605469,
+        526.97509765625,
+        396.5739440917969
+      ],
+      "text": "as genotypic DST performed using either targeted sequencing of the   gene or whole  pncA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.9289245605469,
+        526.97314453125,
+        412.0739440917969
+      ],
+      "text": "genome sequencing. In the case of genotypic DST, all samples with a   wild type were  pncA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.4289245605469,
+        526.9361572265625,
+        427.5739440917969
+      ],
+      "text": "defined as being susceptible, while any variant in   was considered resistant, which implicitly  pncA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        429.9289245605469,
+        526.5733032226562,
+        443.0739440917969
+      ],
+      "text": "would categorize “silent” mutations as resistant. In contrast, the composite reference standard",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979681968688965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        445.4289245605469,
+        526.9766845703125,
+        458.5739440917969
+      ],
+      "text": "was defined by classifying all samples with   wild type,   silent mutations and neutral  pncA pncA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        460.9289245605469,
+        524.4095458984375,
+        474.0739440917969
+      ],
+      "text": "mutations as being susceptible, while any other variant in   was considered resistant  . pncA (13)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        483.43292236328125,
+        527.128662109375,
+        496.57794189453125
+      ],
+      "text": "Data synthesis was structured around the two preset PICO questions, as outlined below. Three",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990646362304688,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        497.43292236328125,
+        328.7355041503906,
+        510.57794189453125
+      ],
+      "text": "web annexes give additional information, as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        517.184814453125,
+        78.81920623779297,
+        530.329833984375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        517.184814453125,
+        526.9024658203125,
+        530.329833984375
+      ],
+      "text": "details of studies included in the current analysis ( Web Annex A.9: High complexity reverse",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99384880065918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        532.684814453125,
+        223.15321350097656,
+        545.829833984375
+      ],
+      "text": "); hybridization-based NAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.184814453125,
+        78.81909942626953,
+        561.329833984375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        548.184814453125,
+        524.4078369140625,
+        561.329833984375
+      ],
+      "text": "a summary of the results and details of the evidence quality assessment ( Web Annex A.9:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        563.684814453125,
+        363.04925537109375,
+        576.829833984375
+      ],
+      "text": "); and High complexity reverse hybridization-based NAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.184814453125,
+        78.81909942626953,
+        592.329833984375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        579.184814453125,
+        527.0126342773438,
+        592.329833984375
+      ],
+      "text": "a summary of the GDG panel judgements ( Web Annex A.9: High complexity reverse",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        594.684814453125,
+        222.84521484375,
+        607.829833984375
+      ],
+      "text": "). hybridization-based NAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.4710083007812,
+        472.9776611328125,
+        636.5590209960938
+      ],
+      "text": "PICO 1: Should high complexity reverse hybridization-based NAATs on",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        636.8710327148438,
+        510.92291259765625,
+        650.9590454101562
+      ],
+      "text": "sputum be used to diagnose pyrazinamide resistance in patients with",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        651.27099609375,
+        506.2416687011719,
+        665.3590087890625
+      ],
+      "text": "microbiologically confirmed pulmonary TB, irrespective of resistance",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        665.671142578125,
+        486.3096923828125,
+        679.7591552734375
+      ],
+      "text": "to rifampicin, as compared with culture-based phenotypic DST or",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        680.071044921875,
+        288.9806213378906,
+        694.1590576171875
+      ],
+      "text": "composite reference standard?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        704.8619995117188,
+        526.9920043945312,
+        718.0070190429688
+      ],
+      "text": "Three studies with a total of 122 participants provided data for evaluation of these NAATs for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.3619995117188,
+        527.0196533203125,
+        733.5070190429688
+      ],
+      "text": "detection of pyrazinamide resistance, including two studies (101 participants) with phenotypic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975873947143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.8619995117188,
+        526.9150390625,
+        749.0070190429688
+      ],
+      "text": "culture-based reference standard and one study (21 participants) with genotypic reference",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "94 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

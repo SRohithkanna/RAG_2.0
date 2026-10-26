@@ -1,0 +1,366 @@
+{
+  "file": "module4",
+  "page": 350,
+  "blocks": [
+    {
+      "bbox": [
+        109.84080505371094,
+        93.48419189453125,
+        131.65780639648438,
+        261.7659912109375
+      ],
+      "text": "The GDG judged the benefits of BLMZ to be  moderate and the undesirable effects to be",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        179.84080505371094,
+        100.7591552734375,
+        191.65780639648438,
+        261.7659912109375
+      ],
+      "text": "that the balance of health effects probably",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        131.0435791015625,
+        109.27429962158203,
+        261.7659912109375
+      ],
+      "text": "ADDITIONAL CONSIDERATIONS",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        189.84080505371094,
+        160.29197692871094,
+        201.65780639648438,
+        261.7659912109375
+      ],
+      "text": "favours the BLMZ regimen.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        347.92681884765625,
+        273.65496826171875,
+        379.7438049316406,
+        697.322998046875
+      ],
+      "text": "effects, decision thresholds vary for some of the outcomes and therefore only the descriptive labels (trivial, small,  Note: The positioning of point estimates and CIs is indicative and for illustration purposes only and exact figures",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        357.92681884765625,
+        286.4134521484375,
+        369.7438049316406,
+        697.322998046875
+      ],
+      "text": "are available in the GRADE evidence profiles. As indicated above in the sections on desirable and undesirable",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.5710754394531,
+        304.9291687011719,
+        325.93988037109375,
+        323.80450439453125
+      ],
+      "text": "Large",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        315.5696105957031,
+        334.1513671875,
+        325.93841552734375,
+        366.50286865234375
+      ],
+      "text": "Moderate",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        304.3875732421875,
+        343.85333251953125,
+        314.7563781738281,
+        396.51141357421875
+      ],
+      "text": "Favours control",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.30770111083984,
+        350.8053283691406,
+        97.05270385742188,
+        768.189208984375
+      ],
+      "text": "Does the balance between desirable and undesirable effects favor the intervention or the comparison?",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        315.5696105957031,
+        377.2376403808594,
+        325.93841552734375,
+        396.6334228515625
+      ],
+      "text": "Small",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        377.92681884765625,
+        392.21917724609375,
+        389.7438049316406,
+        697.322998046875
+      ],
+      "text": "moderate, large) are used for the x-axis rather than numerical values themselves.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.5696105957031,
+        410.627685546875,
+        325.93841552734375,
+        472.6632080078125
+      ],
+      "text": "Trivial or No Eﬀect",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        304.3875732421875,
+        462.42626953125,
+        314.7563781738281,
+        532.6966552734375
+      ],
+      "text": "Favours intervention",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        315.5696105957031,
+        489.6599426269531,
+        325.93841552734375,
+        509.05572509765625
+      ],
+      "text": "Small",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        315.5696105957031,
+        519.4814453125,
+        325.93841552734375,
+        551.8321533203125
+      ],
+      "text": "Moderate",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        315.5710754394531,
+        561.026611328125,
+        325.93988037109375,
+        579.90185546875
+      ],
+      "text": "Large",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        608.7323608398438,
+        261.7655029296875,
+        697.322998046875
+      ],
+      "text": "Serious Adverse Events RESEARCH EVIDENCE Failure and recurrence",
+      "font": "SourceSansPro-Regular",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        285.4306945800781,
+        612.3900146484375,
+        296.8363342285156,
+        691.1292114257812
+      ],
+      "text": "Sustained Tx Success",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        115.35687255859375,
+        623.0387573242188,
+        278.2522277832031,
+        694.8973388671875
+      ],
+      "text": "EndTB 1 – BLMZ Amplification of DR",
+      "font": "SourceSansPro-Semibold",
+      "size": 10.572099685668945,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        206.82530212402344,
+        631.1331176757812,
+        218.23094177246094,
+        694.8973388671875
+      ],
+      "text": "Loss to follow-up",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        233.3990020751953,
+        638.7546997070312,
+        244.8046417236328,
+        694.8973388671875
+      ],
+      "text": "Adverse events",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.71632385253906,
+        672.6138305664062,
+        189.12196350097656,
+        694.8973388671875
+      ],
+      "text": "Death",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.18910217285156,
+        676.1676025390625,
+        84.72010040283203,
+        768.189208984375
+      ],
+      "text": "Balance of effects",
+      "font": "SegoeUI-BoldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        169.84080505371094,
+        707.1221313476562,
+        201.65780639648438,
+        768.189208984375
+      ],
+      "text": "the comparison\n favor either the  intervention or",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        715.0238647460938,
+        271.65777587890625,
+        768.189208984375
+      ],
+      "text": "○ Don’t know JUDGEMENT ○ Favors the  ○ Favors the  intervention\n intervention\n ○ Does not  comparison\n comparison\n ○ Probably  ● Probably  favors the  favors the",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        249.84078979492188,
+        733.7485961914062,
+        261.65777587890625,
+        768.189208984375
+      ],
+      "text": "○ Varies",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "336 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

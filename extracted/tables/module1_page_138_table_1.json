@@ -1,0 +1,64 @@
+{
+  "file": "module1",
+  "page": 138,
+  "table_id": 1,
+  "bbox": [
+    56.9282424029182,
+    120.02025349934895,
+    784.4746500651041,
+    538.6196695963541
+  ],
+  "heading": "What is the accuracy of WHO symptomatic screening plus abnormal chest radiography for excluding TB disease in individuals with HIV on antiretroviral treatment (ART)?",
+  "n_rows": 8,
+  "n_cols": 4,
+  "data": [
+    [
+      "Type of recommendation",
+      "Symptom screening alone ",
+      "Symptom screening plus CXR ",
+      "No recommendation "
+    ],
+    [
+      "Strength of recommendation",
+      "Strong ",
+      "Conditional ",
+      ""
+    ],
+    [
+      "Recommendation",
+      "Chest radiography may be offered to PLHIV and on ART and preventive treatment be given to those with no abnormal radiographic findings. (Conditional recommendation, low-quality evidence) Remark: Chest radiography should not be a requirement for initiating preventive treatment.",
+      "",
+      ""
+    ],
+    [
+      "Justification",
+      "Overall, the GDG agreed that the screening rule based on four symptoms is very useful for ruling out active TB before providing preventive treatment to PLHIV, regardless of whether they receive ART. It also noted the marginal potential benefits of adding abnormal CXR findings to the four-symptom screening rule. Moreover, increased use of CXR would pick up false-positives to the screening rule, so that more clients would be subjected to investigations for TB and other illnesses. Therefore, the GDG reiterated that CXR adds value only if it does not present a barrier for the provision of preventive treatment for PLHIV. The GDG also noted that symptom screening with or without abnormal CXR findings would be acceptable to individuals and programme managers. Furthermore, the use of CXR could enhance the confidence of health-care providers that active TB has been ruled out and reduce their concern about development of drug resistance. The addition of CXR may incur costs to clients as well as inconvenience, as more clients would have to be investigated for TB and other diseases.",
+      "",
+      ""
+    ],
+    [
+      "Subgroup considerations",
+      "Although no study was found of the additive role of CXR in testing pregnant women, the GDG noted that pregnant women living with HIV could also benefit, as long as good clinical practices are observed to prevent any significant risk to the fetus. The GDG noted the paucity of data on the usefulness of the screening rule for children living with HIV. The single study showed that the symptom screening rule currently recommended for children with HIV performs well, but no study has been reported on the harm or challenges of the rule, such as resource requirements for implementation. Symptom-based screening is generally accepted by clients and is feasible in resource-constraint settings. Therefore, the GDG decided to make the same strong recommendation.",
+      "",
+      ""
+    ],
+    [
+      "Implementation considerations",
+      "Addition of abnormal chest radiographic findings to the symptom screening rule would complicate logistics, increasing the cost, workload, infrastructure and availability of qualified staf.f The GDG noted that CXR should not be a requirement or a barrier for initiating TPT in PLHIV because of the need for additional resources, in view of the marginal gain in negative predictive value. PLHIV who have any of the four symptoms or abnormal chest radiographic findings may have active TB and should be investigated for TB and other diseases. Xpert MTB/RIF should be used as the initial diagnostic test. Other diseases that cause any of the four symptoms should be investigated in accordance with national guidelines and sound clinical practice. PLHIV who present any of the four symptoms but in whom active TB is excluded by investigations may be considered for preventive treatment. The four-symptom screening method is recommended for all PLHIV at every visit to a health facility or contact with a health worker. As combining CXR with symptom screening at every visit could represent a significant burden on the health system as well as on clients, it should be used only to exclude active TB before giving preventive treatment, with due respect for good clinical practice. The role of CXR in regular TB screening and its optimal frequency is uncertain. Local authorities should define its application and frequency on the basis of their local epidemiology, health infrastructure and resource availability. It is essential to ensure the availability of CXR and trained health-care workers (e.g. radiologists) to implement the screening rule.",
+      "",
+      ""
+    ],
+    [
+      "Monitoring and evaluation",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Research priorities",
+      "• Performance and feasibility of the algorithms proposed in the present guidelines. • In particular, data on the screening rule for children and pregnant women.",
+      "",
+      ""
+    ]
+  ]
+}

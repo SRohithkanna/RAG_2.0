@@ -1,0 +1,606 @@
+{
+  "file": "module5",
+  "page": 30,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        344.24249267578125,
+        81.63569641113281
+      ],
+      "text": "PICO question 5: Treatment of paediatric TB meningitis",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09461212158203,
+        527.5719604492188,
+        103.53761291503906
+      ],
+      "text": "In children and adolescents with presumed or bacteriologically confirmed drug-susceptible TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4310302734375,
+        116.73762512207031
+      ],
+      "text": "meningitis, should a 6-month intensive regimen, compared to the 12-month regimen that conforms",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        238.10089111328125,
+        129.93763732910156
+      ],
+      "text": "to current WHO guidelines be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.0885009765625,
+        527.4412231445312,
+        151.44349670410156
+      ],
+      "text": "PICO question 6: Models of care for TB case detection and TB prevention settings with a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.28863525390625,
+        428.5608215332031,
+        164.6436309814453
+      ],
+      "text": "prevalence of TB in the general population of 100 per 100 000 or more:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.1024932861328,
+        527.4293823242188,
+        186.5454864501953
+      ],
+      "text": "a.\t In children and adolescents with signs and symptoms of TB, should decentralization of child and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        185.30250549316406,
+        527.4448852539062,
+        199.74549865722656
+      ],
+      "text": "adolescent TB services versus centralized child and adolescent TB services (at referral or tertiary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        198.5025177001953,
+        193.627685546875,
+        212.9455108642578
+      ],
+      "text": "hospital level) be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.9545440673828,
+        527.399658203125,
+        230.3975372314453
+      ],
+      "text": "b.\t In children and adolescents exposed to TB, should decentralization of child and adolescent TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        229.1544952392578,
+        527.5556030273438,
+        243.5974884033203
+      ],
+      "text": "prevention and care services versus centralized prevention and care services (at referral or tertiary",
+      "font": "SegoeUI-Light",
+      "size": 10.97697639465332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        242.35450744628906,
+        487.03399658203125,
+        256.7975158691406
+      ],
+      "text": "hospital level) be used to increase coverage of TPT in eligible children and adolescents?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.8065185546875,
+        527.4261474609375,
+        274.2495422363281
+      ],
+      "text": "c.\t In children and adolescents with signs and symptoms of TB, should family-centred, integrated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        273.00653076171875,
+        449.94171142578125,
+        287.4495544433594
+      ],
+      "text": "services versus standard, non-family-centred, non-integrated services be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.45849609375,
+        527.6107788085938,
+        304.9015197753906
+      ],
+      "text": "d.\t In children and adolescents exposed to TB, should family-centred, integrated services versus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        303.65838623046875,
+        527.4293823242188,
+        318.1014099121094
+      ],
+      "text": "standard, non-family-centred, non-integrated services be used to increase coverage of TPT in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        86.86609649658203,
+        316.8585205078125,
+        240.56520080566406,
+        331.3015441894531
+      ],
+      "text": "eligible children and adolescents?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.3996887207031,
+        274.0085144042969,
+        361.2796936035156
+      ],
+      "text": "1.6.2. Background questions",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.48370361328125,
+        488.2987060546875,
+        381.9267272949219
+      ],
+      "text": "a.\t What is the socioeconomic impact of TB on children and adolescents and their families?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.93560791015625,
+        470.0022888183594,
+        399.3786315917969
+      ],
+      "text": "b.\t How can adolescents with TB or eligible for TPT be optimally engaged in their care?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.1148986816406,
+        521.2685546875,
+        433.909912109375
+      ],
+      "text": "1.7. Publication, dissemination, evaluation and expiry",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.3608093261719,
+        527.6080932617188,
+        453.8038330078125
+      ],
+      "text": "The electronic version of the consolidated guidelines on the management of TB in children and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.560791015625,
+        217.06307983398438,
+        467.0038146972656
+      ],
+      "text": "adolescents will form part of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.06210327148438,
+        452.560791015625,
+        279.8941345214844,
+        467.0038146972656
+      ],
+      "text": "WHO TB KSP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.2196044921875,
+        452.560791015625,
+        527.4475708007812,
+        467.0038146972656
+      ],
+      "text": ", which features the following components for each TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        465.76080322265625,
+        527.1060180664062,
+        480.2038269042969
+      ],
+      "text": "module: (i) consolidated guidelines, (ii) operational handbooks with implementation guidance; as well",
+      "font": "SegoeUI-Light",
+      "size": 10.981935501098633,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        478.9608154296875,
+        290.24407958984375,
+        493.4038391113281
+      ],
+      "text": "as (iii) a catalogue of WHO e-learning materials.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        500.664794921875,
+        527.3828125,
+        515.1077880859375
+      ],
+      "text": "Further dissemination strategies include global, regional and country webinars and consultations,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        513.8648071289062,
+        527.2452392578125,
+        528.3078002929688
+      ],
+      "text": "development of training materials based on the guideline and the operational handbook, and technical",
+      "font": "SegoeUI-Light",
+      "size": 10.948078155517578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        527.0648193359375,
+        527.4312744140625,
+        541.5078125
+      ],
+      "text": "support for countries during programme reviews and other in-country missions, as well as review of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        540.2647705078125,
+        297.87322998046875,
+        554.707763671875
+      ],
+      "text": "national strategic plans and funding applications.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        561.96875,
+        527.4368286132812,
+        576.4117431640625
+      ],
+      "text": "Data collected for the annual global TB reports will be evaluated to monitor TB notification rates for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        575.168701171875,
+        527.4335327148438,
+        589.6116943359375
+      ],
+      "text": "children (0–4 and 5–9 years) and adolescents (10–14 and 15–19 years), the proportion of notified TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        588.3687133789062,
+        527.4467163085938,
+        602.8117065429688
+      ],
+      "text": "cases that are children and young adolescents under 15 years (for both DS-TB and DR-TB, and TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        601.5687255859375,
+        527.4036254882812,
+        616.01171875
+      ],
+      "text": "treatment coverage rates for children under 5 years, children and young adolescents 5–14 years of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        614.7686767578125,
+        527.4136352539062,
+        629.211669921875
+      ],
+      "text": "age. Other indicators that will be monitored include TB treatment outcomes for children and young",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        627.9686889648438,
+        527.4147338867188,
+        642.4116821289062
+      ],
+      "text": "adolescents under the age of 15 years as well as coverage of TPT among eligible contacts under the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        641.168701171875,
+        257.3283996582031,
+        655.6116943359375
+      ],
+      "text": "age of 5 years, as well as older contacts.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        662.8726196289062,
+        527.3948364257812,
+        677.3156127929688
+      ],
+      "text": "The recommendations included in the 2022 consolidated guidelines will be considered for updating",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        676.0726318359375,
+        527.3893432617188,
+        690.515625
+      ],
+      "text": "in five years’ time, or earlier if new evidence becomes available. For the interim recommendation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        689.2725830078125,
+        524.4335327148438,
+        703.715576171875
+      ],
+      "text": "on the use of treatment decision algorithms, new data will be generated and reviewed within a two-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        702.4727172851562,
+        152.00221252441406,
+        716.9157104492188
+      ],
+      "text": "year time period.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        730.9039306640625,
+        277.67926025390625,
+        755.6989135742188
+      ],
+      "text": "1.8. Document structure",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        761.1497802734375,
+        527.3892822265625,
+        775.5927734375
+      ],
+      "text": "A summary of the structure of the guidelines including a brief description of the contents is provided",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        774.3497924804688,
+        82.02020263671875,
+        788.7927856445312
+      ],
+      "text": "in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.02189636230469,
+        774.3497924804688,
+        107.27679443359375,
+        788.7927856445312
+      ],
+      "text": "Box 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.27680206298828,
+        774.3497924804688,
+        112.73280334472656,
+        788.7927856445312
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "6 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

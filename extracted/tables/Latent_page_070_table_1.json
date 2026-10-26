@@ -1,0 +1,76 @@
+{
+  "file": "Latent",
+  "page": 70,
+  "table_id": 1,
+  "bbox": [
+    71.11606517590974,
+    55.952196393694194,
+    183.31570434570312,
+    770.8052215576172
+  ],
+  "heading": null,
+  "n_rows": 4,
+  "n_cols": 13,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "3-month rifapentine + isoniazid",
+      "6 or 9 months isoniazid",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "COMPLETION RATE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1 (55)",
+      "RCT",
+      "Not serious",
+      "Not serious",
+      "Serious1",
+      "Not serious",
+      "None",
+      "415/471 (88.1%)",
+      "351/434 (80.9%)",
+      "RR 1.089 (1.030;1.153)",
+      "72 more per 1000 (from 24 more to 124 more)",
+      "㊉㊉㊉◯ Moderate",
+      "Critical"
+    ]
+  ]
+}

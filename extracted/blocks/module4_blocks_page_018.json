@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 18,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.41455078125,
+        81.83369445800781
+      ],
+      "text": "The recommendations included herein are part of WHO’s consolidated guidelines on TB and are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.205810546875,
+        95.03370666503906
+      ],
+      "text": "primarily intended for use by NTPs, public health agencies and other key constituencies involved in the",
+      "font": "SegoeUI-Light",
+      "size": 10.961432456970215,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4210815429688,
+        108.23371887207031
+      ],
+      "text": "planning, implementation and monitoring of activities for the programmatic management of DS-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.5768432617188,
+        129.93763732910156
+      ],
+      "text": "These recommendations have been developed through several meetings of the GDGs and have then",
+      "font": "SegoeUI-Light",
+      "size": 10.985190391540527,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.1322631835938,
+        143.13758850097656
+      ],
+      "text": "been consolidated in the present chapter. The recommendation on the use of the 4-month regimens",
+      "font": "SegoeUI-Light",
+      "size": 10.995549201965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.381591796875,
+        156.3376007080078
+      ],
+      "text": "stem from the GDG meetings that took place in 2021. The remainder of the recommendations have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.42578125,
+        169.53773498535156
+      ],
+      "text": "been consolidated from the GDGs that took place in 2009 and 2016, as expressed in the 2010 and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        183.70411682128906,
+        182.73768615722656
+      ],
+      "text": "2017 guidelines update.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.72589111328125,
+        275.3441162109375,
+        221.52088928222656
+      ],
+      "text": "Structure of the chapter",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.97193908691406,
+        527.5573120117188,
+        241.41493225097656
+      ],
+      "text": "The recommendations part of this chapter has four main sections on treatment of DS-TB. The elements",
+      "font": "SegoeUI-Light",
+      "size": 10.950538635253906,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.1719512939453,
+        127.4390869140625,
+        254.6149444580078
+      ],
+      "text": "covered are:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.87579345703125,
+        78.23609924316406,
+        276.3188171386719
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        261.87579345703125,
+        293.8912048339844,
+        276.3188171386719
+      ],
+      "text": "treatment of DS-TB using a 6-month regimen;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.0758056640625,
+        78.23609924316406,
+        289.5188293457031
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        275.0758056640625,
+        289.7100830078125,
+        289.5188293457031
+      ],
+      "text": "treatment of DS-TB using 4-month regimens;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.27581787109375,
+        78.23609924316406,
+        302.7188415527344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        288.27581787109375,
+        484.3518981933594,
+        302.7188415527344
+      ],
+      "text": "DS-TB treatment and anti-retroviral therapy (ART) in people living with HIV (PLHIV); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.475830078125,
+        78.23609924316406,
+        315.9188537597656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        301.475830078125,
+        437.3533020019531,
+        315.9188537597656
+      ],
+      "text": "the use of adjuvant steroids in the treatment of TB meningitis and pericarditis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.1797180175781,
+        527.520263671875,
+        337.62274169921875
+      ],
+      "text": "Each section starts with the current WHO recommendations for that element. It then gives information",
+      "font": "SegoeUI-Light",
+      "size": 10.96579647064209,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.37969970703125,
+        527.444091796875,
+        350.8227233886719
+      ],
+      "text": "on the evidence used to inform the recommendations, summarizes the analyses that were carried",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.5797119140625,
+        527.6512451171875,
+        364.0227355957031
+      ],
+      "text": "out based on the evidence, and describes considerations for specific subgroups, for monitoring",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.7796936035156,
+        527.4036254882812,
+        377.22271728515625
+      ],
+      "text": "and evaluation, and implementation. Research gaps that were identified for each of the sections are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        375.9797058105469,
+        527.3904418945312,
+        390.4227294921875
+      ],
+      "text": "presented at the end of the document; web annexes provide more details on the methods, the GDGs,",
+      "font": "SegoeUI-Light",
+      "size": 10.980483055114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.1797180175781,
+        527.2019653320312,
+        403.62274169921875
+      ],
+      "text": "the reports of systematic reviews and data analyses, evidence profiles, unpublished data and statistical",
+      "font": "SegoeUI-Light",
+      "size": 10.97467041015625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.37969970703125,
+        527.5884399414062,
+        416.8227233886719
+      ],
+      "text": "analysis plans. Each section reflects discussions held at GDG meetings. Additional information on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.5797119140625,
+        527.18408203125,
+        430.0227355957031
+      ],
+      "text": "implementing patient care interventions is presented in the relevant chapter of the WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 10.968404769897461,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.5036926269531,
+        527.4252319335938,
+        443.22271728515625
+      ],
+      "text": "(6) operational handbook on TB treatment and care  , which is a separate document that is designed",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.9797058105469,
+        210.12059020996094,
+        456.4227294921875
+      ],
+      "text": "to aid implementation efforts.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.4109191894531,
+        467.739990234375,
+        495.2059326171875
+      ],
+      "text": "Summary of WHO recommendations on drug-",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.21099853515625,
+        283.25762939453125,
+        518.0059814453125
+      ],
+      "text": "susceptible TB treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.5462036132812,
+        517.8085327148438,
+        550.4262084960938
+      ],
+      "text": "1.\tTreatment of drug-susceptible TB using a 6-month regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        562.131591796875,
+        199.95458984375,
+        576.486572265625
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        583.7462158203125,
+        509.3405456542969,
+        598.1011962890625
+      ],
+      "text": "1.1 New patients with pulmonary TB should receive a regimen containing 6 months",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        595.7462158203125,
+        510.5216979980469,
+        610.1011962890625
+      ],
+      "text": "of rifampicin: 2HRZE/4HR (strong recommendation, high certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        617.36083984375,
+        520.5155639648438,
+        631.7158203125
+      ],
+      "text": "1.2 Wherever feasible, the optimal dosing frequency for new patients with pulmonary",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        629.36083984375,
+        489.0484619140625,
+        643.7158203125
+      ],
+      "text": "TB is daily throughout the course of therapy (strong recommendation, high",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.4623794555664,
+        641.36083984375,
+        224.18124389648438,
+        655.7158203125
+      ],
+      "text": "certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        662.9754028320312,
+        488.9531555175781,
+        677.3303833007812
+      ],
+      "text": "1.3 In all patients with drug-susceptible pulmonary TB, the use of thrice-weekly",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        674.9754028320312,
+        482.73590087890625,
+        689.3303833007812
+      ],
+      "text": "dosing is not recommended in both the intensive and continuation phases",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        686.9754028320312,
+        477.4471740722656,
+        701.3303833007812
+      ],
+      "text": "of therapy, and daily dosing remains the recommended dosing frequency",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.4623794555664,
+        698.9754028320312,
+        420.3168640136719,
+        713.3303833007812
+      ],
+      "text": "(conditional recommendation, very low certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        720.5900268554688,
+        509.0380859375,
+        734.9450073242188
+      ],
+      "text": "1.4 The use of fixed-dose combination (FDC) tablets is recommended over separate",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        732.5900268554688,
+        515.2136840820312,
+        746.9450073242188
+      ],
+      "text": "drug formulations in treatment of patients with drug-susceptible TB (conditional",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.4623794555664,
+        744.5900268554688,
+        333.10107421875,
+        758.9450073242188
+      ],
+      "text": "recommendation, low certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "4 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

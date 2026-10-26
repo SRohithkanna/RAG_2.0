@@ -1,0 +1,342 @@
+{
+  "file": "module3",
+  "page": 45,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        520.2588500976562,
+        83.2621841430664
+      ],
+      "text": "PICO 3: Should moderate complexity automated NAATs be used on respiratory",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        83.57433319091797,
+        485.5453186035156,
+        97.6623306274414
+      ],
+      "text": "samples in people with signs and symptoms of pulmonary TB for",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        97.97423553466797,
+        503.4662170410156,
+        112.0622329711914
+      ],
+      "text": "detection of resistance to isoniazid, as compared with culture-based",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38580322265625,
+        112.37419891357422,
+        209.55862426757812,
+        126.46219635009766
+      ],
+      "text": "phenotypic DST?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.16522216796875,
+        527.1134033203125,
+        150.3102264404297
+      ],
+      "text": "A total of 18 studies with 1758 specimens provided data for resistance testing of isoniazid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.66522216796875,
+        526.9904174804688,
+        165.8102264404297
+      ],
+      "text": "using moderate complexity automated NAATs ( ). Of these 18 studies, nine were  Fig. 2.1.2.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.16522216796875,
+        526.8189086914062,
+        181.3102264404297
+      ],
+      "text": "conducted on the Abbott RealTi e RIF/INH test, three on FluoroType MTBDR, four on BD  m",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.66522216796875,
+        526.63623046875,
+        196.8102264404297
+      ],
+      "text": "MAX and two on the cobas MTB-RIF/INH test. The reference standard for each of these studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987692832946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.16522216796875,
+        526.9644775390625,
+        212.3102264404297
+      ],
+      "text": "for resistance detection was phenotypic DST, and a composite reference standard with both",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.66522216796875,
+        265.75048828125,
+        227.8102264404297
+      ],
+      "text": "phenotypic DST and sequencing results.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.66912841796875,
+        526.9590454101562,
+        251.8141326904297
+      ],
+      "text": "Eight (44%) of the 18 studies had high or unclear risk of bias, because participant selection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.16912841796875,
+        417.2621154785156,
+        267.31414794921875
+      ],
+      "text": "was not reported or prior testing was done on the included specimens.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.955322265625,
+        501.5340881347656,
+        296.0433044433594
+      ],
+      "text": "Fig. 2.1.2.3 Forest plot of included studies for isoniazid resistance detection",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.455322265625,
+        338.23809814453125,
+        311.5433044433594
+      ],
+      "text": "with phenotypic DST as the reference standard",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.2776184082031,
+        526.5016479492188,
+        513.0325927734375
+      ],
+      "text": "CI: confidence interval; DST: drug susceptibility testing; FN: false negative; FP: false positive; RIF: rifampicin; TB:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.07763671875,
+        263.2951354980469,
+        523.8325805664062
+      ],
+      "text": "tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.8408203125,
+        526.9038696289062,
+        553.98583984375
+      ],
+      "text": "The overall sensitivity for isoniazid resistance in these 18 studies ranged from 58% to 100%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.3408203125,
+        524.4234008789062,
+        569.48583984375
+      ],
+      "text": "and the specificity from 94% to 100%.  The pooled sensitivity was 86.4% (95% CI: 82.1–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.9948120117188,
+        421.260009765625,
+        584.9088134765625
+      ],
+      "text": "89.8%) and the pooled specificity was 99.8% (95% CI: 98.3–99.8%).",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        595.8447875976562,
+        527.1796875,
+        608.9898071289062
+      ],
+      "text": "In determining isoniazid resistance, the results from genetic sequencing (genotypic DST) were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.998149871826172,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.3447875976562,
+        526.9258422851562,
+        624.4898071289062
+      ],
+      "text": "obtained where possible, and a composite reference standard was developed that combined",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.8447875976562,
+        527.25439453125,
+        639.9898071289062
+      ],
+      "text": "the results from phenotypic and genotypic DST. For detecting isoniazid resistance, the diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.3447875976562,
+        502.9606628417969,
+        655.4898071289062
+      ],
+      "text": "test accuracy of phenotypic DST was similar to that of the composite reference standard.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.8563842773438,
+        246.438720703125,
+        684.2363891601562
+      ],
+      "text": "Cost–effectiveness analysis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.4873046875,
+        340.1640625,
+        707.63232421875
+      ],
+      "text": "This section answers the following additional question:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.6453247070312,
+        527.3364868164062,
+        731.559326171875
+      ],
+      "text": "What is the comparative cost, affordability and cost–effectiveness of implementation of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.998449325561523,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        734.1453247070312,
+        287.31109619140625,
+        747.059326171875
+      ],
+      "text": "moderate complexity automated NAATs?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 29",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

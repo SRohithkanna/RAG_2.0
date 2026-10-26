@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 99,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.89222717285156,
+        200.08187866210938,
+        85.3282241821289
+      ],
+      "text": "2.4.2 First-line LPAs",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.9260864257812,
+        108.71018981933594
+      ],
+      "text": "In 2008, WHO approved the use of commercial LPAs for detecting MTBC in combination with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        526.6622924804688,
+        124.21018981933594
+      ],
+      "text": "resistance to rifampicin and isoniazid in sputum smear-positive specimens (direct testing)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        526.93701171875,
+        139.71018981933594
+      ],
+      "text": "and in cultured isolates of MTBC (indirect testing). A systematic review at that time evaluated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.065185546875,
+        526.9529418945312,
+        155.21018981933594
+      ],
+      "text": "the diagnostic accuracy of two commercially available LPAs – the INNO-LiPA Rif.TB assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.565185546875,
+        526.954833984375,
+        170.71018981933594
+      ],
+      "text": "(Innogenetics, Ghent, Belgium), and the GenoType® MTBDR  (version 1), hereafter referred  plus",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992096900939941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.065185546875,
+        526.9815673828125,
+        186.21018981933594
+      ],
+      "text": "to as Hain version 1 – and provided evidence for WHO’s endorsement  . Excellent accuracy  (37, 38)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.565185546875,
+        526.9810791015625,
+        201.71018981933594
+      ],
+      "text": "was reported for both tests in detecting rifampicin resistance, but their diagnostic accuracy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.065185546875,
+        526.9645385742188,
+        217.21018981933594
+      ],
+      "text": "for isoniazid resistance had lower sensitivity, despite the high specificity. Because there were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.565185546875,
+        526.69384765625,
+        232.71018981933594
+      ],
+      "text": "inadequate data to allow stratification by smear status, WHO’s recommendation for using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.065185546875,
+        526.9151000976562,
+        248.21018981933594
+      ],
+      "text": "LPAs was limited to culture isolates or smear-positive sputum specimens. Further data have",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.565185546875,
+        526.9646606445312,
+        263.710205078125
+      ],
+      "text": "since been published on the use of LPAs; newer versions of LPA technology have now been",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.065185546875,
+        526.88818359375,
+        279.210205078125
+      ],
+      "text": "developed, such as the Hain GenoType MTBDR  version 2, hereafter referred to as Hain  plus",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.565185546875,
+        526.9808959960938,
+        294.710205078125
+      ],
+      "text": "version 2; and other manufacturers have entered the market, including Nipro (Tokyo, Japan),",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.065185546875,
+        477.3320007324219,
+        310.210205078125
+      ],
+      "text": "which developed the Genoscholar™ NTM+MDRTB II, hereafter referred to as Nipro.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.0691223144531,
+        527.26708984375,
+        334.2141418457031
+      ],
+      "text": "In 2015, FIND evaluated the Nipro and the Hain version 2 LPAs, and compared them with Hain",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997349739074707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.5691223144531,
+        526.9259643554688,
+        349.7141418457031
+      ],
+      "text": "version 1. The study demonstrated equivalence among the three commercially available LPAs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.0691223144531,
+        372.72271728515625,
+        365.2141418457031
+      ],
+      "text": "for detecting TB and resistance to rifampicin and isoniazid  . (5)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.85540771484375,
+        267.37811279296875,
+        393.9433898925781
+      ],
+      "text": "Table 2.4.2.1 Class criteria for LPAs",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        406.2518005371094,
+        522.7484130859375,
+        422.3174133300781
+      ],
+      "text": "Detection of resistance to first- and/ or second-line TB drugs  Purpose",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        430.5216979980469,
+        469.5404357910156,
+        443.6667175292969
+      ],
+      "text": "DNA-based reverse hybridization, or line probe, assays Principle of action",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        450.66009521484375,
+        507.98529052734375,
+        463.80511474609375
+      ],
+      "text": "Reagents Reagents are available within standardized kits and may have  Complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        463.66009521484375,
+        394.37744140625,
+        476.80511474609375
+      ],
+      "text": "temperature requirements for storage.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.06689453125,
+        483.7986145019531,
+        486.1064147949219,
+        496.9436340332031
+      ],
+      "text": "Skills Advanced technical skills (i.e., multiple sample or reagent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        496.7986145019531,
+        507.71051025390625,
+        509.9436340332031
+      ],
+      "text": "handling steps, precision pipetting, molecular workflows may",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        509.798583984375,
+        265.23748779296875,
+        522.943603515625
+      ],
+      "text": "be required)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.06689453125,
+        529.93701171875,
+        502.4028625488281,
+        543.08203125
+      ],
+      "text": "Pipetting Multiple precision pipetting steps required by the procedure.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.06689453125,
+        550.0755004882812,
+        474.3693542480469,
+        563.2205200195312
+      ],
+      "text": "Testing  May require multiple specimen treatment steps before",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.06689453125,
+        563.0755004882812,
+        517.0162963867188,
+        576.2205200195312
+      ],
+      "text": "Procedure transferring the specimen into a sealed container for multi-step",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        576.0755004882812,
+        241.20249938964844,
+        589.2205200195312
+      ],
+      "text": "testing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        593.3275146484375,
+        390.61541748046875,
+        606.4725341796875
+      ],
+      "text": "Manual or automated DNA extraction",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        610.5794067382812,
+        381.2323913574219,
+        623.7244262695312
+      ],
+      "text": "Manual or automated real-time PCR",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        627.8314208984375,
+        397.25933837890625,
+        640.9764404296875
+      ],
+      "text": "Instrument-based reverse hybridization",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        647.9697875976562,
+        244.7334747314453,
+        661.1148071289062
+      ],
+      "text": "Manual  Type of test result",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        661.123779296875,
+        126.9094009399414,
+        674.0377807617188
+      ],
+      "text": "reporting",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        681.1082763671875,
+        498.2943420410156,
+        694.2532958984375
+      ],
+      "text": "Molecular laboratory (special infrastructure and separate of  Setting of use",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.59449768066406,
+        694.1082763671875,
+        514.2882690429688,
+        707.2532958984375
+      ],
+      "text": "spaces for different parts of the testing procedure are required)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 83",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

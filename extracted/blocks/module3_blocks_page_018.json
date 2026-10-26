@@ -1,0 +1,594 @@
+{
+  "file": "module3",
+  "page": 18,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.7160034179688,
+        82.30619812011719
+      ],
+      "text": "This document is the fourth edition of WHO policy guidelines on TB diagnosis. Compared with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.994499206542969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.16120147705078,
+        305.1625671386719,
+        96.30619812011719
+      ],
+      "text": "the third edition, issued in 2024, this document:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.91321563720703,
+        78.81909942626953,
+        116.05821228027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        102.91321563720703,
+        526.96435546875,
+        116.05821228027344
+      ],
+      "text": "is the first to combine guidance on diagnosis of TB infection, disease and drug resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        118.41321563720703,
+        250.07009887695312,
+        131.55821228027344
+      ],
+      "text": "into a single reference document;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.9132080078125,
+        78.81909942626953,
+        147.05821228027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        133.9132080078125,
+        526.6559448242188,
+        147.05821228027344
+      ],
+      "text": "establishes two new classes of TB diagnostic technologies (for the initial detection of TB and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.978679656982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        149.4132080078125,
+        526.920166015625,
+        162.55821228027344
+      ],
+      "text": "resistance to rifampicin), which include tests previously recommended for use as individual",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        164.9132080078125,
+        152.97540283203125,
+        178.05821228027344
+      ],
+      "text": "products; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.4132080078125,
+        78.81909942626953,
+        193.55821228027344
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        180.4132080078125,
+        526.9642333984375,
+        193.55821228027344
+      ],
+      "text": "outlines new recommendations on concurrent testing of respiratory and non-respiratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        195.9132080078125,
+        526.9972534179688,
+        209.05821228027344
+      ],
+      "text": "samples among adults and adolescents with HIV, children with HIV, and children without",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        211.4132080078125,
+        244.43870544433594,
+        224.55821228027344
+      ],
+      "text": "HIV or with unknown HIV status.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.9041290283203,
+        499.1830749511719,
+        266.1341247558594
+      ],
+      "text": "1.2. WHO TB diagnostic class determination and",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.7040100097656,
+        287.0784912109375,
+        288.9339904785156
+      ],
+      "text": "product prequalification",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.5250244140625,
+        526.9285278320312,
+        309.6700439453125
+      ],
+      "text": "Over the past 16 years, WHO has endorsed a range of diagnostic technologies ( ). The  Table 1.1.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94651985168457,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.5250244140625,
+        526.9940185546875,
+        323.6700439453125
+      ],
+      "text": "WHO assessment process for TB diagnostics has recently evolved to focus on evaluating classes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.980181694030762,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.5250244140625,
+        526.9656372070312,
+        337.6700439453125
+      ],
+      "text": "of TB diagnostic technologies rather than specific products. Class determination is managed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.5250244140625,
+        526.9508666992188,
+        351.6700439453125
+      ],
+      "text": "by WHO/GTB for new diagnostic testing technologies, and it includes an evaluation of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.5250244140625,
+        192.5030975341797,
+        365.6700439453125
+      ],
+      "text": "following characteristics:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.27691650390625,
+        78.81909942626953,
+        385.42193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        372.27691650390625,
+        391.1755676269531,
+        385.42193603515625
+      ],
+      "text": "purpose of use (i.e. detection of TB or drug-specific resistance);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.77691650390625,
+        78.81909942626953,
+        400.92193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        387.77691650390625,
+        176.53599548339844,
+        400.92193603515625
+      ],
+      "text": "principle of action;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.27691650390625,
+        78.81909942626953,
+        416.42193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        403.27691650390625,
+        327.2788391113281,
+        416.42193603515625
+      ],
+      "text": "infrastructure and human resource requirements;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.77691650390625,
+        78.81909942626953,
+        431.92193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        418.77691650390625,
+        421.0515441894531,
+        431.92193603515625
+      ],
+      "text": "complexity of the testing procedure and associated instrumentation;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.27691650390625,
+        78.81909942626953,
+        447.42193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        434.27691650390625,
+        335.0582580566406,
+        447.42193603515625
+      ],
+      "text": "reporting method (automated versus manual); and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.77691650390625,
+        78.81909942626953,
+        462.92193603515625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        449.77691650390625,
+        516.3436889648438,
+        462.92193603515625
+      ],
+      "text": "intended setting of use (e.g. reference or peripheral low-complexity, near point-of-care).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.6155090332031,
+        526.6509399414062,
+        489.7605285644531
+      ],
+      "text": "These characteristics are compared between the new technology and each of the existing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.1155090332031,
+        526.9646606445312,
+        505.2605285644531
+      ],
+      "text": "classes already recommended by WHO. When characteristics differ from existing classes, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.615478515625,
+        526.9633178710938,
+        520.760498046875
+      ],
+      "text": "new technology will undergo an evidence review as “first-in-class” via Pathway A (described",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.115478515625,
+        526.53759765625,
+        536.260498046875
+      ],
+      "text": "below). When characteristics match those of an existing class, the new technology will undergo",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.96389102935791,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.615478515625,
+        301.3351745605469,
+        551.760498046875
+      ],
+      "text": "a “within-class” assessment (Pathway B below).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.1271362304688,
+        174.6999053955078,
+        580.5071411132812
+      ],
+      "text": "1.2.1 Pathway A",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.7579956054688,
+        526.7887573242188,
+        603.9030151367188
+      ],
+      "text": "New technologies will require a Pathway A review if they differ from technologies in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.2579956054688,
+        526.629150390625,
+        619.4030151367188
+      ],
+      "text": "existing classes in terms of the characteristics listed above. Evidence synthesis and review",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.7579956054688,
+        524.4512939453125,
+        634.9030151367188
+      ],
+      "text": "and development of recommendations will be conducted through the established WHO/",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.2579956054688,
+        526.6500854492188,
+        650.4030151367188
+      ],
+      "text": "GTB guideline development process using the Grading of Recommendations Assessment,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.7579956054688,
+        527.1014404296875,
+        665.9030151367188
+      ],
+      "text": "Development and Evaluation (GRADE) methodology. If recommended by a GDG after evidence",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967251777648926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.2579956054688,
+        526.965576171875,
+        681.4030151367188
+      ],
+      "text": "review, technologies will be referred for WHO prequalification assessment (as available). If a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.7579956054688,
+        526.9645385742188,
+        696.9030151367188
+      ],
+      "text": "prequalification assessment procedure is not available, the WHO/GTB recommendation will",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.2579956054688,
+        517.1622924804688,
+        712.4030151367188
+      ],
+      "text": "stand until the prequalification procedure becomes available and is successfully completed.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.05839920043945,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "2 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

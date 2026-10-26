@@ -1,0 +1,486 @@
+{
+  "file": "module2",
+  "page": 23,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        418.0949401855469,
+        147.1480255126953
+      ],
+      "text": "2. Recommendations for",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.947998046875,
+        457.6788635253906,
+        185.54798889160156
+      ],
+      "text": "systematic screening for TB",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.347900390625,
+        506.2004699707031,
+        223.94789123535156
+      ],
+      "text": "disease in targeted populations",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        257.3170166015625,
+        527.399169921875,
+        271.7600402832031
+      ],
+      "text": "In this guideline, recommendations about systematic screening for TB disease are made for distinct",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.51702880859375,
+        527.415771484375,
+        284.9600524902344
+      ],
+      "text": "populations for whom it is judged that the benefits and desirable effects of screening outweigh the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.71697998046875,
+        147.8177032470703,
+        298.1600036621094
+      ],
+      "text": "potential harms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.4208984375,
+        527.5706787109375,
+        319.8639221191406
+      ],
+      "text": "Systematic screening for TB disease can be done for an entire population (community-wide screening)",
+      "font": "SegoeUI-Light",
+      "size": 10.964693069458008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.62091064453125,
+        527.5091552734375,
+        333.0639343261719
+      ],
+      "text": "or it can be targeted at selected risk groups or subpopulations of people who may be at higher risk of",
+      "font": "SegoeUI-Light",
+      "size": 10.984138488769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.8208923339844,
+        527.3914184570312,
+        346.263916015625
+      ],
+      "text": "being exposed to TB, developing TB disease or suffering poor outcomes from the disease, or some",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.0209045410156,
+        527.456298828125,
+        359.46392822265625
+      ],
+      "text": "combination of these. It can target people who seek health care (with or without symptoms or signs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.2209167480469,
+        527.3792114257812,
+        372.6639404296875
+      ],
+      "text": "compatible with TB) and people who do not seek care (because they do not perceive that they have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.4208984375,
+        527.4036254882812,
+        385.8639221191406
+      ],
+      "text": "a health problem that warrants medical attention, barriers make it difficult to access health care, or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        384.62091064453125,
+        527.6078491210938,
+        399.0639343261719
+      ],
+      "text": "for other reasons). Furthermore, screening can help identify people who are at particularly high risk of",
+      "font": "SegoeUI-Light",
+      "size": 10.978128433227539,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.8208923339844,
+        527.0965576171875,
+        412.263916015625
+      ],
+      "text": "developing TB disease and thus may require repeat screening, for example, people with an abnormal",
+      "font": "SegoeUI-Light",
+      "size": 10.988994598388672,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.0209045410156,
+        527.2398681640625,
+        425.46392822265625
+      ],
+      "text": "CXR compatible with TB but who are not diagnosed with TB disease at the time of screening or people",
+      "font": "SegoeUI-Light",
+      "size": 10.968153953552246,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.2209167480469,
+        527.54248046875,
+        438.6639404296875
+      ],
+      "text": "for whom TPT is recommended. Combining screening for TB with screening for TB risk factors can also",
+      "font": "SegoeUI-Light",
+      "size": 10.964592933654785,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.4208984375,
+        527.4481201171875,
+        451.8639221191406
+      ],
+      "text": "help map individual- or community-level risk factors, comorbidities and socioeconomic determinants",
+      "font": "SegoeUI-Light",
+      "size": 10.986541748046875,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.62091064453125,
+        374.5628662109375,
+        465.0639343261719
+      ],
+      "text": "that need to be addressed to more effectively prevent the disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.3249206542969,
+        527.4266357421875,
+        486.7679443359375
+      ],
+      "text": "Strong recommendations are made for those risk groups or subpopulations for which the desirable",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.52490234375,
+        527.4204711914062,
+        499.9679260253906
+      ],
+      "text": "effects of adhering to the recommendation are judged to clearly outweigh the undesirable effects: for",
+      "font": "SegoeUI-Light",
+      "size": 10.980232238769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.72479248046875,
+        527.4234008789062,
+        513.1677856445312
+      ],
+      "text": "these recommendations, screening is judged to be feasible, acceptable and affordable in all settings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.9249267578125,
+        527.3926391601562,
+        526.367919921875
+      ],
+      "text": "Conditional recommendations are made for those risk groups for which the desirable effects of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.1248779296875,
+        527.5640869140625,
+        539.56787109375
+      ],
+      "text": "screening probably outweigh the undesirable effects, but the trade-offs, cost–effectiveness, feasibility",
+      "font": "SegoeUI-Light",
+      "size": 10.989895820617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.324951171875,
+        527.5138549804688,
+        552.7679443359375
+      ],
+      "text": "or affordability, or a combination of these, are uncertain. Reasons for uncertainty may include a lack of",
+      "font": "SegoeUI-Light",
+      "size": 10.97126293182373,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.52490234375,
+        527.5550537109375,
+        565.9678955078125
+      ],
+      "text": "high-quality evidence to support the recommendation; limited evidence of benefit from implementing",
+      "font": "SegoeUI-Light",
+      "size": 10.96389102935791,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.7247924804688,
+        496.10198974609375,
+        579.1677856445312
+      ],
+      "text": "the recommendation; high costs or low feasibility or acceptability, or a combination of these.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        586.4288330078125,
+        527.38818359375,
+        600.871826171875
+      ],
+      "text": "It is important that TB is diagnosed promptly in groups that have a particularly high likelihood of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.6287841796875,
+        527.3914794921875,
+        614.07177734375
+      ],
+      "text": "undetected TB or a high risk of poor health outcomes, or both, in the absence of early diagnosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.8287963867188,
+        527.4520263671875,
+        627.2717895507812
+      ],
+      "text": "and treatment, even if direct evidence of benefit from screening is lacking. This is the rationale for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        626.02880859375,
+        527.4442749023438,
+        640.4718017578125
+      ],
+      "text": "making strong recommendations despite a lack of high-quality direct evidence for some risk groups.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        639.2288208007812,
+        527.3569946289062,
+        653.6718139648438
+      ],
+      "text": "However, prioritization should also consider the risks associated with screening, including false-positive",
+      "font": "SegoeUI-Light",
+      "size": 10.960227966308594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.4288330078125,
+        527.4400024414062,
+        666.871826171875
+      ],
+      "text": "diagnoses, overtreatment and the opportunity costs of screening in terms of the resources required,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.6287841796875,
+        527.372802734375,
+        680.07177734375
+      ],
+      "text": "both across risk groups and in relation to other interventions aimed at improving early diagnosis,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.8287963867188,
+        527.422119140625,
+        693.2717895507812
+      ],
+      "text": "treatment and prevention. Therefore, owing to the lack of high-quality direct evidence comparing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.02880859375,
+        527.4623413085938,
+        706.4718017578125
+      ],
+      "text": "benefits with harms and on the cost–effectiveness of screening in many of the populations considered,",
+      "font": "SegoeUI-Light",
+      "size": 10.966448783874512,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.2288208007812,
+        484.6829528808594,
+        719.6718139648438
+      ],
+      "text": "many of the recommendations made for screening in specific populations are conditional.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.9327392578125,
+        527.160400390625,
+        741.375732421875
+      ],
+      "text": "The degree of uncertainty about the trade-offs between the desirable effects and undesirable effects",
+      "font": "SegoeUI-Light",
+      "size": 10.996249198913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.1326904296875,
+        527.532958984375,
+        754.57568359375
+      ],
+      "text": "varies across settings, and it depends on the epidemiological situation and the health system. Therefore,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.3328247070312,
+        527.4378051757812,
+        767.7758178710938
+      ],
+      "text": "a conditional recommendation in this guideline implies that the appropriateness of adhering to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        243.206298828125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "2. Recommendations for systematic screening for TB disease in targeted populations 11",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

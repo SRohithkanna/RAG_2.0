@@ -1,0 +1,474 @@
+{
+  "file": "module5",
+  "page": 35,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        331.2372741699219,
+        147.5496368408203
+      ],
+      "text": "3. Prevention of TB",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        527.3925170898438,
+        195.36158752441406
+      ],
+      "text": "This chapter includes current WHO recommendations that apply to children and adolescents on TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        527.392578125,
+        208.5615997314453
+      ],
+      "text": "prevention. They have been consolidated from current WHO guidelines on TB infection, prevention",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.5246124267578,
+        527.4853515625,
+        221.76161193847656
+      ],
+      "text": "WHO guidelines on tuberculosis  and control, a BCG position paper and guidelines on TPT, namely the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.990745544433594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.72462463378906,
+        527.4201049804688,
+        234.9616241455078
+      ],
+      "text": "infection prevention and control, 2019 update (12) BCG vaccines: WHO position paper , the   (published in",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.972064018249512,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.9246368408203,
+        527.2194213867188,
+        248.16163635253906
+      ],
+      "text": "(13) WHO consolidated guidelines on tuberculosis. Module 1:  the Weekly Epidemiological Record)   and the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.1245880126953,
+        527.4423828125,
+        261.3616027832031
+      ],
+      "text": "prevention – tuberculosis preventive treatment (14) . For more information on each recommendation",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.11859130859375,
+        527.4353637695312,
+        274.5616149902344
+      ],
+      "text": "including the remarks, source of evidence, justification, subgroup, implementation and monitoring",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.318603515625,
+        326.0331726074219,
+        287.7616271972656
+      ],
+      "text": "and evaluation considerations, the source guidelines or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        326.0360107421875,
+        273.318603515625,
+        386.5800476074219,
+        287.7616271972656
+      ],
+      "text": "WHO TB KSP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        386.5790100097656,
+        273.318603515625,
+        484.7320556640625,
+        287.7616271972656
+      ],
+      "text": "should be consulted.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.04254150390625,
+        467.8333740234375,
+        310.70654296875
+      ],
+      "text": "Table 4: WHO recommendations on TB infection prevention and control, BCG",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.442626953125,
+        364.45452880859375,
+        325.10662841796875
+      ],
+      "text": "vaccination and TPT relevant to children and adolescents",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04419708251953,
+        341.69903564453125,
+        471.2489929199219,
+        356.05401611328125
+      ],
+      "text": "TB infection prevention and control: WHO guidelines on tuberculosis infection",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04419708251953,
+        353.6330261230469,
+        281.3268127441406,
+        368.05401611328125
+      ],
+      "text": "(12) prevention and control, 2019 update",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        375.24761962890625,
+        192.94041442871094,
+        389.6686096191406
+      ],
+      "text": "Administrative controls",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        397.0382080078125,
+        471.2393493652344,
+        411.4812316894531
+      ],
+      "text": "Triage of people with TB signs and symptoms, or with TB disease, is recommended to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        406.24420166015625,
+        500.38934326171875,
+        423.4812316894531
+      ],
+      "text": "M. tuberculosis  reduce  transmission to health workers (including community health workers",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        421.0382080078125,
+        506.94989013671875,
+        435.4812316894531
+      ],
+      "text": "(CHW)), persons attending health care facilities or other persons in settings with a high risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        433.0382080078125,
+        140.12828063964844,
+        447.4812316894531
+      ],
+      "text": "transmission.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        446.4962158203125,
+        417.9664001464844,
+        463.6781921386719
+      ],
+      "text": "(Conditional recommendation, very low certainty in the estimates of effects)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        470.9048156738281,
+        494.8333435058594,
+        485.34783935546875
+      ],
+      "text": "Respiratory separation/isolation of people with presumed or demonstrated infectious TB is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        480.11083984375,
+        487.4716491699219,
+        497.34783935546875
+      ],
+      "text": "M. tuberculosis  recommended to reduce  transmission to health workers or other persons",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        494.9048156738281,
+        219.44384765625,
+        509.34783935546875
+      ],
+      "text": "attending health care facilities.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        508.36273193359375,
+        417.9664001464844,
+        525.5447387695312
+      ],
+      "text": "(Conditional recommendation, very low certainty in the estimates of effects)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        532.7713623046875,
+        519.0728759765625,
+        547.21435546875
+      ],
+      "text": "Prompt initiation of effective TB treatment of people with TB disease is recommended to reduce",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        541.9773559570312,
+        511.5420227050781,
+        559.21435546875
+      ],
+      "text": "M. tuberculosis  transmission to health workers, persons attending health care facilities or other",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        556.7713623046875,
+        311.78558349609375,
+        571.21435546875
+      ],
+      "text": "persons in settings with a high risk of transmission.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        570.2293090820312,
+        395.79449462890625,
+        587.4113159179688
+      ],
+      "text": "(Strong recommendation, very low certainty in the estimates of effects)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        594.637939453125,
+        502.6300964355469,
+        609.0809326171875
+      ],
+      "text": "Respiratory hygiene (including cough etiquette) in people with presumed or confirmed TB is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        603.8439331054688,
+        496.46087646484375,
+        621.0809326171875
+      ],
+      "text": "M. tuberculosis  recommended to reduce  transmission to health workers, persons attending",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        618.637939453125,
+        444.1938171386719,
+        633.0809326171875
+      ],
+      "text": "health care facilities or other persons in settings with a high risk of transmission.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        632.0958862304688,
+        373.71929931640625,
+        649.2778930664062
+      ],
+      "text": "(Strong recommendation, low certainty in the estimates of effects)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        656.3285522460938,
+        192.16160583496094,
+        670.74951171875
+      ],
+      "text": "Environmental controls",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        675.3251342773438,
+        510.733154296875,
+        692.5621337890625
+      ],
+      "text": "M. tuberculosis  Upper-room germicidal ultraviolet (GUV) systems are recommended to reduce",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        690.119140625,
+        491.160400390625,
+        704.5621337890625
+      ],
+      "text": "transmission to health workers, persons attending health care facilities or other persons in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        702.119140625,
+        261.566162109375,
+        716.5621337890625
+      ],
+      "text": "settings with a high risk of transmission.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        715.5769653320312,
+        424.0141906738281,
+        732.7589721679688
+      ],
+      "text": "(Conditional recommendation, moderate certainty in the estimates of effects)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        461.41339111328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "3. Prevention of TB 11",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

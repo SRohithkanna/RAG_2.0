@@ -1,0 +1,61 @@
+{
+  "file": "module1",
+  "page": 104,
+  "table_id": 1,
+  "bbox": [
+    56.692975997924805,
+    71.11664460834704,
+    784.197021484375,
+    135.11619873046874
+  ],
+  "heading": null,
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "Certainty assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Certainty",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "1 month daily rifapentine plus isoniazid",
+      "9 months daily isoniazid",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Emergence of drug resistance to pyrazinamide among those with confirmed TB and with DST (follow up: mean 3 years; assessed with: RCT evidence)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

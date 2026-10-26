@@ -1,0 +1,40 @@
+{
+  "file": "module1",
+  "page": 150,
+  "table_id": 1,
+  "bbox": [
+    56.69295120239258,
+    133.5510487275965,
+    784.697021484375,
+    187.95098876953125
+  ],
+  "heading": "Index test: Any symptom| Reference test: Sputum culture and/or smear Place of testing: Triage Test–treatment pathway: Symptom positive ➞ confirmatory test (mycobacterial culture or GeneXpert) ➞ anti-TB chemotherapy (6–9 months’ antibiotics)",
+  "n_rows": 2,
+  "n_cols": 10,
+  "data": [
+    [
+      "Outcome",
+      "No. of studies; no. of patients",
+      "Study design",
+      "Factors that may decrease quality of evidence",
+      "",
+      "",
+      "",
+      "",
+      "Effect per 100 000 Sensitivity: 0.73 (95% CI: 0.64 ; 0.80) Specificity: 0.77 (95% CI: 0.61 ; 0.87)",
+      "Quality of evidence"
+    ],
+    [
+      "",
+      "",
+      "",
+      "Risk of bias",
+      "Indirectness",
+      "Inconsistency",
+      "Imprecision",
+      "Publication bias",
+      "",
+      ""
+    ]
+  ]
+}

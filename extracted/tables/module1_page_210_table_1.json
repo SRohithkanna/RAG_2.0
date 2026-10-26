@@ -1,0 +1,61 @@
+{
+  "file": "module1",
+  "page": 210,
+  "table_id": 1,
+  "bbox": [
+    56.69297875298394,
+    71.11664460834704,
+    784.4113159179688,
+    125.11619873046875
+  ],
+  "heading": null,
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. of patients",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Study design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Other considerations",
+      "3-month RPT+isoniazid",
+      "6 or 9 months’ isoniazid",
+      "Relative (95% CI)",
+      "Absolute (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "Completion rate",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

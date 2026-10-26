@@ -1,0 +1,146 @@
+{
+  "file": "module1",
+  "page": 227,
+  "table_id": 1,
+  "bbox": [
+    56.925097601754324,
+    91.18565199110243,
+    784.4732537520559,
+    409.78414639559657
+  ],
+  "heading": "Summary of judgements",
+  "n_rows": 13,
+  "n_cols": 8,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Problem",
+      "No",
+      "Probably no",
+      "Probably yes",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Desirable effects",
+      "Trivial",
+      "Small",
+      "Moderate",
+      "Large",
+      "",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Undesirable effects",
+      "Large",
+      "Moderate",
+      "Small",
+      "Trivial",
+      "",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Certainty of evidence",
+      "Very low",
+      "Low",
+      "Moderate",
+      "High",
+      "",
+      "",
+      "No included studies"
+    ],
+    [
+      "Values",
+      "Important uncertainty or variation",
+      "Possibly important uncertainty or variation",
+      "Probably no important uncertainty or variation",
+      "No important uncertainty or variation",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Balance of effects",
+      "Favours the comparison",
+      "Probably favours the comparison",
+      "Does not favour either the intervention or the comparison",
+      "Probably favours the intervention",
+      "Favours the intervention",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Resources required",
+      "High costs",
+      "Moderate costs",
+      "Negligible costs and savings",
+      "Moderate savings",
+      "Large savings",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Certainty of evidence of required resources",
+      "Very low",
+      "Low",
+      "Moderate",
+      "High",
+      "",
+      "",
+      "No included studies"
+    ],
+    [
+      "Cost effectiveness",
+      "Favours the comparison",
+      "Probably favours the comparison",
+      "Does not favour either the intervention or the comparison",
+      "Probably favours the intervention",
+      "Favours the intervention",
+      "Varies",
+      "No included studies"
+    ],
+    [
+      "Equity",
+      "Reduced",
+      "Probably reduced",
+      "Probably no impact",
+      "Probably increased",
+      "Increased",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Acceptability",
+      "No",
+      "Probably no",
+      "Probably yes",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know"
+    ],
+    [
+      "Feasibility",
+      "No",
+      "Probably no",
+      "Probably yes",
+      "Yes",
+      "",
+      "Varies",
+      "Don’t know"
+    ]
+  ]
+}

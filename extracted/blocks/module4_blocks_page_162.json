@@ -1,0 +1,534 @@
+{
+  "file": "module4",
+  "page": 162,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4466552734375,
+        81.83369445800781
+      ],
+      "text": "focus of the analysis was to compare how the two tests performed in terms of predicting treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        149.60739135742188,
+        95.03370666503906
+      ],
+      "text": "failure or relapse.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4004516601562,
+        116.73762512207031
+      ],
+      "text": "The main findings of the analysis were that monthly culture had a higher sensitivity than monthly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.4222412109375,
+        129.93763732910156
+      ],
+      "text": "smear microscopy (0.93 vs 0.51) but slightly lower specificity (0.97 vs 0.99). Likewise, the sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4300537109375,
+        143.13758850097656
+      ],
+      "text": "of culture done every month was much higher than once every 2 months (0.93 vs 0.73) but had a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.4365234375,
+        156.3376007080078
+      ],
+      "text": "slightly lower specificity (0.97 vs 0.98). Monthly culture increased the number of patients detected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.423583984375,
+        169.53773498535156
+      ],
+      "text": "with a true positive bacteriological result by 13 per 1000 patients and reduced false negative results",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.3793334960938,
+        182.73768615722656
+      ],
+      "text": "by 13 per 1000 patients when compared with sputum smear microscopy alone. In contrast, monthly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.3192749023438,
+        195.9376983642578
+      ],
+      "text": "culture was estimated to lead to 17 per 1000 fewer true negative results and 17 per 1000 more",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.4135131835938,
+        209.13771057128906
+      ],
+      "text": "false positive results for treatment failure, implying that treatment may be prolonged in the case of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.44091796875,
+        222.3376007080078
+      ],
+      "text": "false positivity or missed true negativity. The added inconvenience to the patient and programme is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.3738403320312,
+        235.53773498535156
+      ],
+      "text": "considered relatively small, given that taking sputum and many other biological specimens is usually",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.4519653320312,
+        248.73768615722656
+      ],
+      "text": "non-invasive and routine practice in many programmes. In a setting where testing is repeated at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.4947052001953,
+        527.4036254882812,
+        261.9377136230469
+      ],
+      "text": "monthly intervals, a single false positive test result is unlikely to prove harmful to the patient because",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.4168090820312,
+        275.1377258300781
+      ],
+      "text": "treatment decisions usually rely upon at least two consecutive positive results (to denote prolonged",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.39697265625,
+        288.3376159667969
+      ],
+      "text": "positivity or reversion) and the effect of one spurious result would last only until the test repeated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        188.33731079101562,
+        301.5377502441406
+      ],
+      "text": "1 month later is reported.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.2328491210938,
+        323.2416076660156
+      ],
+      "text": "The crude odds of treatment failure increased steadily with each additional month without",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.43115234375,
+        336.4416198730469
+      ],
+      "text": "bacteriological conversion, from 3.6 at the end of the first month to 45 at the eighth month when",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.088623046875,
+        527.388427734375,
+        349.6416320800781
+      ],
+      "text": "Table 5.1 using culture ( ). However, no discrete cut-off point (to serve as a reliable marker of a failing",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.44873046875,
+        362.8416442871094
+      ],
+      "text": "regimen) could be discerned at which the odds of failure increased sharply when monitoring with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        527.235595703125,
+        376.0416259765625
+      ],
+      "text": "either sputum smear microscopy or culture. The threshold for when to change treatment thus depends",
+      "font": "SegoeUI-Light",
+      "size": 10.954907417297363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.37060546875,
+        389.24163818359375
+      ],
+      "text": "on the clinician’s desire to minimize the risk of failure and, in particular, to limit the risk of prolonging",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        149.91757202148438,
+        402.4416198730469
+      ],
+      "text": "a failing regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.90911865234375,
+        489.5089416503906,
+        436.73712158203125
+      ],
+      "text": "Table 5.1. Crude odds ratios (95% CLs) of treatment failure in MDR/RR-TB",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.3091125488281,
+        478.3838195800781,
+        451.1371154785156
+      ],
+      "text": "patients without sputum conversion by the end of successive months of",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.7091064453125,
+        521.8778686523438,
+        465.537109375
+      ],
+      "text": "treatment compared with patients who converted, by testing method used; IPD",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.1091003417969,
+        500.2465515136719,
+        479.9371032714844
+      ],
+      "text": "meta-analysis for PICO question 7 MDR/RR-TB, 2018 (South Africa, n=3762)",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        539.371826171875,
+        513.0970458984375,
+        553.726806640625
+      ],
+      "text": "Culture 3.6 4.1 5.2 7.4 10.3 16.4 24.7 44.5",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        185.0435028076172,
+        561.096435546875,
+        517.5782470703125,
+        575.5394287109375
+      ],
+      "text": "(2.11, (2.76, (3.55, (5.00, (6.88, (10.72, (15.53, (26.53,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        186.26539611816406,
+        577.3483276367188,
+        516.7149047851562,
+        591.7913208007812
+      ],
+      "text": "5.97) 6.09) 7.55) 10.80) 15.38) 25.00) 39.20) 74.46)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        598.8529052734375,
+        513.0970458984375,
+        613.2078857421875
+      ],
+      "text": "Smear microscopy 1.9 2.7 3.2 4.2 6.8 10.4 16.5 28.9",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        185.0435028076172,
+        620.5775146484375,
+        517.5782470703125,
+        635.0205078125
+      ],
+      "text": "(1.27, (1.82, (2.11, (2.69, (4.19, (6.00, (9.15, (14.87,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        186.26539611816406,
+        636.8294677734375,
+        516.7149047851562,
+        651.2724609375
+      ],
+      "text": "2.73) 3.88) 4.73) 6.48) 10.97) 17.92) 29.77) 56.14)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        665.6032104492188,
+        526.5863647460938,
+        676.107177734375
+      ],
+      "text": "CL: confidence limits; IPD: individual patient data; MDR/RR-TB: multidrug-resistant or rifampicin-resistant tuberculosis; PICO: population,",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.6032104492188,
+        202.84291076660156,
+        687.107177734375
+      ],
+      "text": "intervention, comparator and outcome.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.6790771484375,
+        527.4541625976562,
+        718.1220703125
+      ],
+      "text": "There was moderate certainty in the estimates of test accuracy and the GDG considered that, under",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.8790893554688,
+        527.4453125,
+        731.3220825195312
+      ],
+      "text": "normal conditions, culture would always be a more sensitive test of positive bacterial status than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        730.0792236328125,
+        527.4002075195312,
+        744.522216796875
+      ],
+      "text": "sputum smear microscopy. However, the overall quality of the evidence was judged to be low. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.2791137695312,
+        527.3794555664062,
+        757.7221069335938
+      ],
+      "text": "effects observed may vary in patients or populations with a profile markedly different from the one",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        756.4791259765625,
+        527.4409790039062,
+        770.922119140625
+      ],
+      "text": "included in the analysis, such as low HIV-prevalence settings, children, patients with extrapulmonary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "148 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

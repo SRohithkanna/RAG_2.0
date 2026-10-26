@@ -1,0 +1,666 @@
+{
+  "file": "module4",
+  "page": 64,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.6100463867188,
+        81.83369445800781
+      ],
+      "text": "regimens for evaluation in stage 2, based on 8-week safety and efficacy endpoints. Investigational arms",
+      "font": "SegoeUI-Light",
+      "size": 10.950489044189453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        524.318115234375,
+        95.03370666503906
+      ],
+      "text": "that did not meet predefined safety and efficacy criteria were not considered for further evaluation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4442138671875,
+        116.73762512207031
+      ],
+      "text": "The second stage of the study was equivalent to a Phase 3 trial investigating the safety and efficacy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.44873046875,
+        129.93763732910156
+      ],
+      "text": "of the most promising regimen. As intended in the study protocol, the regimen was evaluated for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4431762695312,
+        143.13758850097656
+      ],
+      "text": "safety and efficacy in comparison with the SoC arm at 72 weeks after randomization. Stage 2 of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.13818359375,
+        156.3376007080078
+      ],
+      "text": "trial included an intervention arm of BPaLM compared with the locally approved SoC, consistent with",
+      "font": "SegoeUI-Light",
+      "size": 10.996048927307129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4133911132812,
+        169.53773498535156
+      ],
+      "text": "WHO recommendations for the treatment of MDR/RR-TB or pre-XDR-TB at the time of trial conduct",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.3740234375,
+        182.73768615722656
+      ],
+      "text": "(including a 9–12-month injectable-containing regimen; 18–24-month WHO-recommended regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.973618507385254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4024658203125,
+        195.9376983642578
+      ],
+      "text": "[pre-2019]; 9–12-month all-oral regimen; and 18–20-month all-oral regimen). The TB-PRACTECAL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.209716796875,
+        209.13771057128906
+      ],
+      "text": "trial stopped enrolling patients soon after its independent data safety and monitoring board indicated",
+      "font": "SegoeUI-Light",
+      "size": 10.97467041015625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.5596923828125,
+        222.3376007080078
+      ],
+      "text": "that the BPaLM regimen is superior to the SoC, because it was considered that more data were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.4418334960938,
+        235.53773498535156
+      ],
+      "text": "extremely unlikely to change the results of the trial. This trial was not designed to compare the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        273.435546875,
+        248.73768615722656
+      ],
+      "text": "investigational regimens against each other.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.3969116210938,
+        270.4417419433594
+      ],
+      "text": "Eligible patients were aged 15 years and older, and had bacteriologically (molecular or phenotypic)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.4498291015625,
+        283.6416320800781
+      ],
+      "text": "confirmed TB and resistance to at least rifampicin by a molecular or phenotypic drug susceptibility",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.4244384765625,
+        296.8416442871094
+      ],
+      "text": "test. The primary efficacy outcome was the composite endpoint of unfavourable outcomes (failure,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        527.48046875,
+        310.0416564941406
+      ],
+      "text": "death, treatment discontinuation, recurrence or LTFU) at 72 weeks after randomization. Relevant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.5313110351562,
+        323.2416076660156
+      ],
+      "text": "secondary efficacy outcomes included culture conversion at 12 and 24 weeks, unfavourable outcomes",
+      "font": "SegoeUI-Light",
+      "size": 10.964141845703125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.4287719726562,
+        336.4416198730469
+      ],
+      "text": "at 24 weeks after randomization, unfavourable outcomes at 108 weeks after randomization, median",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.4344482421875,
+        349.6416320800781
+      ],
+      "text": "time to culture conversion and recurrence by week 48 in the investigational arms. Participants were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        515.119873046875,
+        362.8416442871094
+      ],
+      "text": "randomized in a 1:1:1:1 ratio into either the SoC or one of the following three intervention arms:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.10260009765625,
+        78.23609924316406,
+        384.5456237792969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        370.10260009765625,
+        282.5578918457031,
+        384.5456237792969
+      ],
+      "text": "Arm 1: 24 weeks of B-Pa-Lzd-Mfx (BPaLM);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.3025207519531,
+        78.23609924316406,
+        397.74554443359375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        383.3025207519531,
+        298.18011474609375,
+        397.74554443359375
+      ],
+      "text": "Arm 2: 24 weeks of B-Pa-Lzd-Cfz (BPaLC); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.5025939941406,
+        78.23609924316406,
+        410.94561767578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        396.5025939941406,
+        252.0450439453125,
+        410.94561767578125
+      ],
+      "text": "Arm 3: 24 weeks of B-Pa-Lzd (BPaL).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2065124511719,
+        527.3961181640625,
+        432.6495361328125
+      ],
+      "text": "In all intervention arms, linezolid was given at 600 mg daily for 16 weeks then 300 mg daily for the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.406494140625,
+        527.4365234375,
+        445.8495178222656
+      ],
+      "text": "remaining 8 weeks (or earlier when moderately tolerated). Bedaquiline was given at 400 mg once",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.60650634765625,
+        527.4420166015625,
+        459.0495300292969
+      ],
+      "text": "daily for 2 weeks followed by 200 mg three times per week for 22 weeks. Safety monitoring for most",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.8065185546875,
+        527.5572509765625,
+        472.2495422363281
+      ],
+      "text": "participants included multiple electrocardiograms (ECGs) at baseline, then weekly until week 8, every",
+      "font": "SegoeUI-Light",
+      "size": 10.999149322509766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.0065002441406,
+        527.1879272460938,
+        485.44952392578125
+      ],
+      "text": "4 weeks up to week 24 and then every 8 weeks thereafter. Microbiological monitoring included",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.2065124511719,
+        527.3707275390625,
+        498.6495361328125
+      ],
+      "text": "smear microscopy and culture at baseline and day 7, then every 4 weeks up until week 24 and every",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.406494140625,
+        159.21920776367188,
+        511.8495178222656
+      ],
+      "text": "8 weeks thereafter.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.2178344726562,
+        99.98310852050781,
+        536.5728149414062
+      ],
+      "text": "ZeNix",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        544.03173828125,
+        527.4036254882812,
+        558.4747314453125
+      ],
+      "text": "ZeNix was a Phase 3 partially blinded, randomized trial assessing the safety and efficacy of various",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.231689453125,
+        527.6248168945312,
+        571.6746826171875
+      ],
+      "text": "doses and treatment durations of linezolid plus bedaquiline and pretomanid in individuals with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.4317016601562,
+        527.4300537109375,
+        584.8746948242188
+      ],
+      "text": "pulmonary MDR/RR-TB and additional resistance to fluoroquinolones (with or without resistance to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.6317138671875,
+        527.4156494140625,
+        598.07470703125
+      ],
+      "text": "injectable agents) or those with treatment intolerant or nonresponsive MDR/RR-TB. Eligible patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.8317260742188,
+        527.0965576171875,
+        611.2747192382812
+      ],
+      "text": "were aged 14 years and older, weighed at least 35 kg, had a documented HIV result and had",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.03173828125,
+        527.1764526367188,
+        624.4747314453125
+      ],
+      "text": "bacteriologically confirmed sputum culture positive XDR-TB (pre-2021 definition) or bacteriologically",
+      "font": "SegoeUI-Light",
+      "size": 10.99479866027832,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.231689453125,
+        527.5145263671875,
+        637.6746826171875
+      ],
+      "text": "confirmed MDR/RR-TB, but were treatment intolerant or nonresponsive to previous MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.4317016601562,
+        527.5531616210938,
+        650.8746948242188
+      ],
+      "text": "treatment. The primary study outcome was the incidence of bacteriological failure or relapse or clinical",
+      "font": "SegoeUI-Light",
+      "size": 10.964994430541992,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.6317138671875,
+        527.1341552734375,
+        664.07470703125
+      ],
+      "text": "failure through follow-up until 26 weeks after the end of treatment. The secondary outcomes included",
+      "font": "SegoeUI-Light",
+      "size": 10.968855857849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.8317260742188,
+        527.4400634765625,
+        677.2747192382812
+      ],
+      "text": "incidence of bacteriological failure or relapse or clinical failure through follow-up until 78 weeks after",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.03173828125,
+        527.4078979492188,
+        690.4747314453125
+      ],
+      "text": "the end of treatment. Participants received 26 weeks of treatment with BPaL. Each of the four arms",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.231689453125,
+        527.4081420898438,
+        703.6746826171875
+      ],
+      "text": "varied the dose and duration of linezolid: 1200 mg 26 weeks, 1200 mg 9 weeks, 600 mg 26 weeks or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.4317016601562,
+        527.126953125,
+        716.8746948242188
+      ],
+      "text": "600 mg 9 weeks. Bedaquiline was given at 200 mg once daily for 8 weeks then 100 mg once daily for",
+      "font": "SegoeUI-Light",
+      "size": 10.995949745178223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.6317138671875,
+        527.2098388671875,
+        730.07470703125
+      ],
+      "text": "18 weeks. This off-label dosing schedule is supported by pharmacokinetic simulations for an alternative",
+      "font": "SegoeUI-Light",
+      "size": 10.95480728149414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.8317260742188,
+        527.395751953125,
+        743.2747192382812
+      ],
+      "text": "bedaquiline dosing schedule that provides comparable exposures and was developed to support",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.7557373046875,
+        527.4215698242188,
+        756.4747314453125
+      ],
+      "text": "(31) adherence and facilitate treatment administration (all medicines daily throughout the regimen)  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.231689453125,
+        527.43994140625,
+        769.6746826171875
+      ],
+      "text": "Safety monitoring included scheduled testing and assessments of laboratory parameters, ECG, vital",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "50 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

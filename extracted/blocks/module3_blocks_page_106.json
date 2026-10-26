@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 106,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.99462890625,
+        82.30619812011719
+      ],
+      "text": "The PICO questions in   were designed to form the basis for the evidence search,  Box 2.4.3.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        175.46388244628906,
+        97.80619812011719
+      ],
+      "text": "retrieval and analysis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.37000274658203,
+        132.49073791503906,
+        218.4320526123047,
+        145.4047393798828
+      ],
+      "text": "Box 2.4.3.1 PICO questions",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        161.28883361816406,
+        509.16790771484375,
+        174.2028350830078
+      ],
+      "text": "1.\t Should the MTBDRsl test be used to guide clinical decisions to use",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        176.78883361816406,
+        418.9350891113281,
+        189.7028350830078
+      ],
+      "text": "fluoroquinolones in patients with confirmed MDR/RR-TB?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.98500061035156,
+        194.969482421875,
+        495.4384765625,
+        208.11448669433594
+      ],
+      "text": "Direct testing (stratified by smear grade: smear negative; scanty; 1+; ≥2+).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        195.58547973632812,
+        127.98500061035156,
+        207.7954864501953
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.98500061035156,
+        216.13873291015625,
+        212.7707977294922,
+        229.2837371826172
+      ],
+      "text": "Indirect testing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        216.75473022460938,
+        127.98500061035156,
+        228.96473693847656
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        96.40550231933594,
+        237.4619903564453,
+        509.2120056152344,
+        250.37599182128906
+      ],
+      "text": "2.\t Should the MTBDRsl test be used to guide clinical decisions to use SLIDs in",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24800109863281,
+        252.9619903564453,
+        313.4670715332031,
+        265.8759765625
+      ],
+      "text": "patients diagnosed with MDR/RR-TB?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.98509979248047,
+        271.1427001953125,
+        495.4384765625,
+        284.2877197265625
+      ],
+      "text": "Direct testing (stratified by smear grade: smear negative; scanty; 1+; ≥2+).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        271.7586975097656,
+        127.98509979248047,
+        283.9687194824219
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.98509979248047,
+        292.3118896484375,
+        212.7707977294922,
+        305.4569091796875
+      ],
+      "text": "Indirect testing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        116.24810028076172,
+        292.9278869628906,
+        127.98509979248047,
+        305.1379089355469
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.8669128417969,
+        526.962646484375,
+        350.0119323730469
+      ],
+      "text": "Twenty-nine unique studies were identified; of these, 26 evaluated the MTBDR  version 1.0  sl",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.3669128417969,
+        526.9589233398438,
+        365.5119323730469
+      ],
+      "text": "assay (including 21 studies from the original Cochrane review). Three studies (one published",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.8669128417969,
+        524.408203125,
+        381.0119323730469
+      ],
+      "text": "and two unpublished) evaluated version 2.0. Data for version 1.0 and version 2.0 of the MTBDR sl",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.946017265319824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.3669128417969,
+        527.0399780273438,
+        396.5119323730469
+      ],
+      "text": "assay were analysed separately. A phenotypic culture-based DST reference standard was used",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.999249458312988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.8669128417969,
+        526.9656372070312,
+        412.0119323730469
+      ],
+      "text": "for the primary analyses. These analyses were stratified first by susceptibility or resistance to a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.3669128417969,
+        495.73394775390625,
+        427.5119323730469
+      ],
+      "text": "particular drug, and second by type of SL-LPA testing (indirect testing or direct testing).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.8785400390625,
+        495.0421142578125,
+        456.2585144042969
+      ],
+      "text": "Performance of SL-LPA on sputum specimens and culture isolates",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.5093994140625,
+        527.2813110351562,
+        479.6544189453125
+      ],
+      "text": "In patients with MDR/RR-TB, a positive SL-LPA result for fluoroquinolone resistance (as a class) or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.0093994140625,
+        527.2644653320312,
+        495.1544189453125
+      ],
+      "text": "SLID resistance (as a group) can be treated with confidence. The diagnostic accuracy of SL-LPA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997249603271484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.5093994140625,
+        526.991943359375,
+        510.6544189453125
+      ],
+      "text": "is similar when performed directly on sputum specimens or indirectly on cultured isolates of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.0093994140625,
+        146.56710815429688,
+        526.1544189453125
+      ],
+      "text": ". M. tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.0133056640625,
+        526.5927124023438,
+        550.1583251953125
+      ],
+      "text": "Given the confidence in a positive result and the ability of the test to provide rapid results,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.5133056640625,
+        526.9925537109375,
+        565.6583251953125
+      ],
+      "text": "the GDG felt that SL-LPA may be considered for use as an initial test for resistance to the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.0133056640625,
+        526.968994140625,
+        581.1583251953125
+      ],
+      "text": "fluoroquinolones and when relevant SLIDs. However, when the test shows a negative result,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.513427734375,
+        526.6620483398438,
+        596.658447265625
+      ],
+      "text": "phenotypic culture-based DST may be necessary, especially in settings with a high pretest",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.013427734375,
+        526.6776123046875,
+        612.158447265625
+      ],
+      "text": "probability for resistance to either fluoroquinolones or SLIDs (or both). The use of SL-LPA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.513427734375,
+        526.8490600585938,
+        627.658447265625
+      ],
+      "text": "in routine care should improve the time to the diagnosis of fluoroquinolone and where",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.013427734375,
+        526.81591796875,
+        643.158447265625
+      ],
+      "text": "relevant SLIDs, especially when used for the direct testing of sputum specimens of patients",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.513427734375,
+        526.794921875,
+        658.658447265625
+      ],
+      "text": "with confirmed MDR/RR-TB. Early detection of drug resistance should allow for the earlier",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.013427734375,
+        527.0030517578125,
+        674.158447265625
+      ],
+      "text": "initiation of appropriate patient therapy and improved patient health outcomes. Overall, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.513427734375,
+        527.2154541015625,
+        689.658447265625
+      ],
+      "text": "test performs well in the direct testing of sputum specimens from patients with confirmed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.013427734375,
+        526.9699096679688,
+        705.158447265625
+      ],
+      "text": "MDR/RR-TB, although the indeterminate rate is higher when testing smear-negative sputum",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        707.513427734375,
+        370.0953063964844,
+        720.658447265625
+      ],
+      "text": "specimens compared with smear-positive sputum specimens.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.517333984375,
+        526.9286499023438,
+        744.662353515625
+      ],
+      "text": "When the MTBDR  assay is used in the direct testing of smear-negative sputum specimens from  sl",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.953200340270996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        747.017333984375,
+        527.0350952148438,
+        760.162353515625
+      ],
+      "text": "a population of patients with confirmed DR-TB, up to 44% of the results may be indeterminate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.983488082885742,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "90 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

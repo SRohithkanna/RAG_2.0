@@ -1,0 +1,174 @@
+{
+  "file": "module1",
+  "page": 110,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "92",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        127.20803833007812,
+        769.2047119140625,
+        138.7281036376953
+      ],
+      "text": "Moderate  Critical 6 more per 1000\n 1  randomized  not  not serious  not serious  serious none  11/477  8/479  RR 1.38\n  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        105.4645767211914,
+        138.20803833007812,
+        656.7578125,
+        149.7281036376953
+      ],
+      "text": "(from 7 fewer to  trials serious  (2.3%)  (1.7%)  (0.56 to  (62)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        550.0899047851562,
+        149.2080078125,
+        631.8375854492188,
+        160.72804260253906
+      ],
+      "text": "40 more)  3.40)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        170.96859741210938,
+        226.77561950683594,
+        180.65110778808594
+      ],
+      "text": "CI: OR: RR:  Confidence interval;   Odds ratio;   Risk ratio",
+      "font": "Whitney-Semibold",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        188.97610473632812,
+        175.4758758544922,
+        198.5760955810547
+      ],
+      "text": "Optimal information size not met.  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        197.97610473632812,
+        377.6210632324219,
+        207.5760955810547
+      ],
+      "text": "Bias due to confounding is considered serious. Important confounders are not fully accounted for.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        206.97610473632812,
+        471.41839599609375,
+        216.5760955810547
+      ],
+      "text": "Large CI including both appreciable benefits and harms and very few events d. CI includes both appreciable benefits and harms  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        215.97610473632812,
+        786.8246459960938,
+        225.5760955810547
+      ],
+      "text": "Confounding was not accounted for. Bias due to measurement of hepatotoxicity is considered serious since liver function tests were performed only if clinically indicated, which was likely to be influenced by knowledge of the  e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61409759521484,
+        224.97610473632812,
+        110.51985168457031,
+        234.5760955810547
+      ],
+      "text": "receipt of IPT.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        233.97610473632812,
+        265.4533996582031,
+        243.5760955810547
+      ],
+      "text": "Very large sample size and CI of absolute effect is very narrow. f",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

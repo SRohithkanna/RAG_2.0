@@ -1,0 +1,234 @@
+{
+  "file": "module1",
+  "page": 92,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "74",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        69.27651977539062,
+        786.9686889648438,
+        78.87651824951172
+      ],
+      "text": "C1: Risk of bias is possible. Issues include selection bias, risk of incorporation bias (no information) and publication bias. Publication bias not formally assessed, but expected to be likely. Several large prospective studies are ongoing",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        78.27651977539062,
+        574.1641845703125,
+        87.87651824951172
+      ],
+      "text": "and/or are unpublished; their results were not included in this analysis; however, addition of results is not expected to change the overall conclusions of this review.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        87.27651977539062,
+        158.23692321777344,
+        96.87651824951172
+      ],
+      "text": "C2: Inconsistency not assessed.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        96.27651977539062,
+        526.7042236328125,
+        105.87651824951172
+      ],
+      "text": "C3: This single study comprises household case contacts in a high-incidence country. No direct evidence for other subpopulations of case contacts.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        105.27651977539062,
+        387.96649169921875,
+        114.87651824951172
+      ],
+      "text": "C4: Serious imprecision of TST effect estimates. Lower limit of 95% CI indicates lack of predictive utility.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        119.94583129882812,
+        786.9498291015625,
+        129.5458221435547
+      ],
+      "text": "D1: Risk of bias is possible. Issues include selection bias, lack of use of microbiological tools in methods to ascertain TB, incorporation bias and publication bias. Publication bias not formally assessed, but expected to be likely. Several",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        128.94583129882812,
+        694.7173461914062,
+        138.5458221435547
+      ],
+      "text": "large prospective studies are ongoing and/or are unpublished; their results were not included in this analysis; however, addition of results is not expected to change the overall conclusions of this review.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        137.94583129882812,
+        158.3816680908203,
+        147.5458221435547
+      ],
+      "text": "D2: Inconsistency not assessed.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        146.94583129882812,
+        629.5665893554688,
+        156.5458221435547
+      ],
+      "text": "D3: This single study comprises health-care workers at a primary health care clinic. No direct evidence for other subpopulations of health-care workers or all settings of health care.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        155.94583129882812,
+        558.7482299804688,
+        165.5458221435547
+      ],
+      "text": "D4: Very serious imprecision of IGRA and TST effect estimates; CIs are wide and indicate both significant predictive performance and lack of predictive utility.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        170.61508178710938,
+        786.9924926757812,
+        180.21507263183594
+      ],
+      "text": "E1: Risk of bias is possible. Issues include selection bias, incorporation of index tests in methods to ascertain incident TB and publication bias. Publication bias not formally assessed, but expected to be likely. Several large prospective",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        179.61508178710938,
+        639.7313842773438,
+        189.21507263183594
+      ],
+      "text": "studies are ongoing and/or are unpublished; their results were not included in this analysis; however, addition of results is not expected to change the overall conclusions of this review.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        188.61508178710938,
+        158.92616271972656,
+        198.21507263183594
+      ],
+      "text": "E2: Inconsistency not assessed.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        197.61508178710938,
+        513.1248168945312,
+        207.21507263183594
+      ],
+      "text": "E3: This single study comprises adolescents in a high-incidence setting. No direct evidence for other subpopulations of children or adolescents.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        206.61508178710938,
+        254.41177368164062,
+        216.21507263183594
+      ],
+      "text": "E4: No serious imprecision: Few events with large sample size.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

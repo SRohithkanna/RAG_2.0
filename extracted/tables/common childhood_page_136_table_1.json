@@ -1,0 +1,61 @@
+{
+  "file": "common childhood",
+  "page": 136,
+  "table_id": 1,
+  "bbox": [
+    156.4185028076172,
+    62.36262893676758,
+    242.27850341796875,
+    622.9133911132812
+  ],
+  "heading": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZ­ ABILITY",
+      "OVERALL QUALITY",
+      "RELATIVE RISK (95% CI)",
+      "IMPORTANCE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES (PARTICIPANTS)",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Treatment failure on day 5 (continuing to wheeze)",
+      "1 (780)",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "Some imprecision -0.5",
+      "One study -0.5",
+      "Only Pakistan -0.5",
+      "LOW",
+      "0.94 (0.68 to 1.29)",
+      "Important"
+    ]
+  ]
+}

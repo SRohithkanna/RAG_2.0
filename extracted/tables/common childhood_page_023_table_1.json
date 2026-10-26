@@ -1,0 +1,32 @@
+{
+  "file": "common childhood",
+  "page": 23,
+  "table_id": 1,
+  "bbox": [
+    57.192901611328125,
+    84.74920654296875,
+    396.8507995605469,
+    209.71121215820312
+  ],
+  "heading": "TABLE 2.2 Assessment criteria for the strengths of recommendations",
+  "n_rows": 4,
+  "n_cols": 2,
+  "data": [
+    [
+      "STRENGTH OF RECOMMENDATION",
+      "RATIONALE"
+    ],
+    [
+      "Strong",
+      "The panel is confident that the desirable effects of adherence to the recommendation outweigh the undesirable effects."
+    ],
+    [
+      "Conditional/Weak",
+      "The panel concludes that the desirable effects of adherence to a recommendation probably outweigh the undesirable effects. However: the recommendation is only applicable to a specific group, population or setting OR where the new evidence may result in changing the balance of risk to benefit OR where the benefits may not warrant the cost or resource requirements in all settings."
+    ],
+    [
+      "No recommendation",
+      "Further research is required before any recommendation can be made."
+    ]
+  ]
+}

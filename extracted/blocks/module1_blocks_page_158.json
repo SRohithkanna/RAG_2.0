@@ -1,0 +1,438 @@
+{
+  "file": "module1",
+  "page": 158,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "140",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.09741973876953,
+        549.9310302734375,
+        136.4346466064453
+      ],
+      "text": "GRADE table: Studies that included head-to-head evaluations of the TST and IGRA (N=5)  WHO consolidated",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        87.77970123291016,
+        781.6847534179688,
+        103.27169799804688
+      ],
+      "text": "Review question:  Among people at high risk of TB infection who are not treated with tuberculosis preventive therapy, which test (e.g. TST or IGRA)",
+      "font": "Whitney-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        100.79170227050781,
+        408.4225769042969,
+        116.15170288085938
+      ],
+      "text": "when positive, can best identify individuals most at risk of progression?",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        117.65338134765625,
+        530.2352294921875,
+        129.2723846435547
+      ],
+      "text": "Systematic review outcome:  The predictive utility of the TST vs. the commercial IGRAs for progression to active tuberculosis",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        128.65338134765625,
+        519.199951171875,
+        140.2723846435547
+      ],
+      "text": "Patients/population:  Longitudinal studies of adults and children without active TB at baseline not given preventive therapy",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        139.65338134765625,
+        736.3851928710938,
+        151.2723846435547
+      ],
+      "text": "Setting:  Community cohorts, individuals attending outpatient clinics (e.g. HIV-positive people), individuals participating in RCTs, household contacts; all in high-incidence countries",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        150.65338134765625,
+        610.9280395507812,
+        162.2723846435547
+      ],
+      "text": "Index test:  TSR (RT23 purified protein derivative or purified protein derivative-S) and/or commercial blood-based IGRAs (QFT-GIT or T.SPOT.-TB)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        161.65338134765625,
+        785.153076171875,
+        173.4613800048828
+      ],
+      "text": "Importance:  Longitudinal studies on the predictive value of a positive IGRA in TB high-incidence countries (  100/100 000) are still emerging. It is important to determine whether IGRA can be  ≥",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        172.66238403320312,
+        233.96507263183594,
+        184.18238830566406
+      ],
+      "text": "used as a replacement for the widely used TST.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        183.65338134765625,
+        405.4002380371094,
+        195.2723846435547
+      ],
+      "text": "Reference standard:  All diagnoses of incident active TB (microbiologically confirmed or not)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        194.65338134765625,
+        767.71240234375,
+        206.2723846435547
+      ],
+      "text": "Studies:  Any longitudinal study design (e.g. prospective or retrospective cohort) in TB high-incidence countries, regardless of immunological status (e.g. HIV-infected or not) or BCG status.",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        205.66238403320312,
+        363.1474914550781,
+        217.18238830566406
+      ],
+      "text": "Average follow-up should be for at least 1 year but can be either active or passive.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        276.1118469238281,
+        763.406005859375,
+        287.6319274902344
+      ],
+      "text": "Not serious  Serious  TST Very low Critical  TST 5 (N = 7675 for  Prospective  Serious risk of  Serious",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        287.11181640625,
+        617.2559204101562,
+        298.63189697265625
+      ],
+      "text": "imprecision RR = 1.49  10 more per  TST, 7641 for  cohort bias  inconsistency",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        298.11187744140625,
+        635.6978149414062,
+        309.63189697265625
+      ],
+      "text": "IGRA)  (TST) (TST) (A3)  (CI: 0.79 ; 2.80)  1000 (4 fewer to  (52–56)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        223.24070739746094,
+        309.1118469238281,
+        604.6513671875,
+        320.63189697265625
+      ],
+      "text": "I (A1) (-1) 37 more)  = 64.4%,  I  = 64.4% 2 2",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        424.4449157714844,
+        320.1118469238281,
+        467.1156921386719,
+        331.6318359375
+      ],
+      "text": "No serious",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        331.1118469238281,
+        590.5439453125,
+        342.6318359375
+      ],
+      "text": "Serious  imprecision  IGRA IGRA",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        342.1119079589844,
+        616.4945678710938,
+        353.6319274902344
+      ],
+      "text": "(IGRA) 15 more per  inconsistency  RR = 2.03",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        353.1119079589844,
+        624.2965087890625,
+        364.63189697265625
+      ],
+      "text": "(IGRA) (CI: 1.18 ; 3.50) 1000 (3 to 36",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        364.1118469238281,
+        593.1089477539062,
+        375.63189697265625
+      ],
+      "text": "(A4) (-1) more) I  = 49.6% I  = 49.6% 2 2",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        386.1118469238281,
+        311.9029235839844,
+        397.6318359375
+      ],
+      "text": "(A2) (-1)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        402.10699462890625,
+        698.8702392578125,
+        413.72601318359375
+      ],
+      "text": "B. Systematic review outcome (subgroup analysis): Progression to active TB in immunocompromised people (includes HIV and other immunosuppressive conditions)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        417.3157653808594,
+        764.4229736328125,
+        428.8358154296875
+      ],
+      "text": "Serious  Very serious TST 2 (N = 725 for  Prospective  TST Very low  Critical  Serious risk of  Serious",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        428.3157653808594,
+        618.3538208007812,
+        439.8358154296875
+      ],
+      "text": "39 more per  TST, 710 for  cohort of HIV- bias  inconsistency  indirectness imprecision for  RR = 1.64",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        439.3157653808594,
+        631.4102783203125,
+        450.8358154296875
+      ],
+      "text": "IGRA)  infected women  1000 (46 fewer  (B1) (-1)  = 77.4% (CI: 0.24 ; 11.18) (TST) I both TST and  (53,55) 2",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        450.3157653808594,
+        618.09375,
+        461.8358154296875
+      ],
+      "text": "pre- and post- (B3) (-1) IGRA to 616 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        461.3157653808594,
+        517.79345703125,
+        472.8358154296875
+      ],
+      "text": "Serious  IGRA delivery on ART",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        472.3157653808594,
+        590.5439453125,
+        483.8358154296875
+      ],
+      "text": "RR = 4.07  IGRA Prospective  inconsistency  (B4) (-2)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        483.3157653808594,
+        621.965576171875,
+        494.8357849121094
+      ],
+      "text": "149 more per  cohort of  (IGRA)  (CI: 0.18 ; 92.72)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        494.3157653808594,
+        631.8152465820312,
+        505.8358154296875
+      ],
+      "text": "HIV-infected  I  = 78.7% 1000 (40 fewer  2",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        133.44329833984375,
+        505.3158264160156,
+        625.8885498046875,
+        516.8358154296875
+      ],
+      "text": "individuals  to 4438 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        278.9439697265625,
+        516.3157958984375,
+        310.3387145996094,
+        527.8357543945312
+      ],
+      "text": "(B2) (-1)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

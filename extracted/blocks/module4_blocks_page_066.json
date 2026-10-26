@@ -1,0 +1,726 @@
+{
+  "file": "module4",
+  "page": 66,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        145.8531036376953,
+        81.63569641113281
+      ],
+      "text": "2021 WHO IPD",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09461212158203,
+        527.2254638671875,
+        103.53761291503906
+      ],
+      "text": "In 2021, WHO issued a public call for data to serve as a comparator group (SoC) against which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4642944335938,
+        116.73762512207031
+      ],
+      "text": "6–9-month regimens could be compared. These cohorts received treatment conforming to the WHO",
+      "font": "SegoeUI-Light",
+      "size": 10.979931831359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.4103393554688,
+        129.93763732910156
+      ],
+      "text": "DR-TB guidelines of 2020 with bedaquiline and linezolid for a duration ranging from 6 to 24 months.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        320.37255859375,
+        143.13758850097656
+      ],
+      "text": "Patients receiving injectable antibiotics were excluded.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.3986358642578,
+        422.746337890625,
+        164.8416290283203
+      ],
+      "text": "Included datasets comprised individuals using one of the following regimens:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.1024932861328,
+        78.23609924316406,
+        186.5454864501953
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        172.1024932861328,
+        416.1761169433594,
+        186.5454864501953
+      ],
+      "text": "6–12-month all-oral regimens using at least bedaquiline and linezolid; or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        173.4257049560547,
+        184.02650451660156,
+        194.29183959960938,
+        199.6905059814453
+      ],
+      "text": "2019",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989344596862793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.30250549316406,
+        78.23609924316406,
+        199.74549865722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        185.30250549316406,
+        527.1866455078125,
+        199.74549865722656
+      ],
+      "text": "9–12-month WHO ( ) all-oral bedaquiline-containing regimen in the combination, such as 4–6",
+      "font": "SegoeUI-Light",
+      "size": 10.989344596862793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        198.5025177001953,
+        356.9740295410156,
+        212.9455108642578
+      ],
+      "text": "Bdq(6m)-Lfx/Mfx-Cfz-Z-E-Hh-Eto / 5m Lfx/Mfx-Cfz-Z-E; or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        170.639892578125,
+        210.42652893066406,
+        191.45188903808594,
+        226.0905303955078
+      ],
+      "text": "2018",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.70252990722656,
+        78.23609924316406,
+        226.14552307128906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        211.70252990722656,
+        524.3998413085938,
+        226.14552307128906
+      ],
+      "text": "≥18-month WHO ( ) all-oral treatment regimen containing at least bedaquiline and linezolid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.4064483642578,
+        527.5183715820312,
+        247.8494415283203
+      ],
+      "text": "The individual datasets that are included in this cohort are described in detail in the statistical analysis",
+      "font": "SegoeUI-Light",
+      "size": 10.992697715759277,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.49639892578125,
+        527.4384765625,
+        261.0494079589844
+      ],
+      "text": "Annex 6 plan ( ). To be eligible for inclusion in a short comparator regimen (target 9–12 months at",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.806396484375,
+        425.5303649902344,
+        274.2494201660156
+      ],
+      "text": "treatment commencement), patients must have fulfilled each of the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.51031494140625,
+        78.23609924316406,
+        295.9533386230469
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        281.51031494140625,
+        320.50244140625,
+        295.9533386230469
+      ],
+      "text": "had a treatment duration not exceeding 12 months;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.7103271484375,
+        78.23609924316406,
+        309.1533508300781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        294.7103271484375,
+        411.7937316894531,
+        309.1533508300781
+      ],
+      "text": "received six or more drugs during treatment, including bedaquiline; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.9102783203125,
+        78.23609924316406,
+        322.3533020019531
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        307.9102783203125,
+        503.3521728515625,
+        322.3533020019531
+      ],
+      "text": "if given an outcome of cure or completed, had a treatment duration of 8.5 months or more.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        329.61431884765625,
+        527.4178466796875,
+        344.0573425292969
+      ],
+      "text": "To be eligible for inclusion in a longer comparator regimen (target 18–24 months), patients must",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.814208984375,
+        232.95663452148438,
+        357.2572326660156
+      ],
+      "text": "have fulfilled each of the following:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.5182189941406,
+        78.23609924316406,
+        378.96124267578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        364.5182189941406,
+        420.866455078125,
+        378.96124267578125
+      ],
+      "text": "be classified in the dataset as having received a longer regimen (if stated);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.71820068359375,
+        78.23609924316406,
+        392.1612243652344
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        377.71820068359375,
+        327.0034484863281,
+        392.1612243652344
+      ],
+      "text": "had a treatment duration not longer than 24 months;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.918212890625,
+        78.23609924316406,
+        405.3612365722656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        390.918212890625,
+        527.4324340820312,
+        405.3612365722656
+      ],
+      "text": "received four or more drugs (regardless of drug susceptibility; i.e. regardless of whether they were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        404.1181945800781,
+        303.0641174316406,
+        418.56121826171875
+      ],
+      "text": "likely to be effective), including bedaquiline; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.3182067871094,
+        78.23609924316406,
+        431.76123046875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        417.3182067871094,
+        502.8582763671875,
+        431.76123046875
+      ],
+      "text": "if given an outcome of cure or complete, had a treatment duration of 17.5 months or more.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.1354064941406,
+        323.6736145019531,
+        460.9873962402344
+      ],
+      "text": "Methods used for analysis and data synthesis",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        468.0853271484375,
+        527.4293823242188,
+        482.6383361816406
+      ],
+      "text": "Descriptive analyses  of the baseline characteristics of participants in all included studies were",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.3952941894531,
+        527.4222412109375,
+        495.83831787109375
+      ],
+      "text": "performed; characteristics included demographics, diagnostic test results, treatment regimens and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.5953063964844,
+        166.24598693847656,
+        509.038330078125
+      ],
+      "text": "treatment outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        516.1893310546875,
+        507.13653564453125,
+        530.7423095703125
+      ],
+      "text": "Comparative analyses  were performed within individual studies and between multiple studies:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.003173828125,
+        78.23609924316406,
+        552.4461669921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        538.003173828125,
+        527.1257934570312,
+        552.4461669921875
+      ],
+      "text": "Within study comparisons – for studies in which both a short-course (6 months in duration) regimen",
+      "font": "SegoeUI-Light",
+      "size": 10.962084770202637,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        551.2032470703125,
+        527.4322509765625,
+        565.646240234375
+      ],
+      "text": "and a relevant comparator are used, pairwise comparisons were conducted between each of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        564.4031982421875,
+        527.443115234375,
+        578.84619140625
+      ],
+      "text": "short-course regimens and the comparator. For included RCTs (e.g. the TB-PRACTECAL trial and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        577.6032104492188,
+        517.7589111328125,
+        592.0462036132812
+      ],
+      "text": "NExT trial), the primary outcome of the prespecified analysis was also calculated and reported.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.80322265625,
+        78.23609924316406,
+        605.2462158203125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        590.80322265625,
+        527.4605712890625,
+        605.2462158203125
+      ],
+      "text": "Pairwise comparisons between studies – comparisons addressing each PICO question were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        604.003173828125,
+        527.1437377929688,
+        618.4461669921875
+      ],
+      "text": "conducted by comparing outcomes among cohorts in which participants received either the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        617.2031860351562,
+        362.1792297363281,
+        631.6461791992188
+      ],
+      "text": "intervention or the control regimen relevant to that question.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.047119140625,
+        165.79330444335938,
+        663.7071533203125
+      ],
+      "text": "Statistical models",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.9150390625,
+        527.459716796875,
+        685.3580322265625
+      ],
+      "text": "For comparisons between dataset or cohorts, outcomes were presented as unadjusted and adjusted",
+      "font": "SegoeUI-Light",
+      "size": 10.999800682067871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.114990234375,
+        527.2374267578125,
+        698.5579833984375
+      ],
+      "text": "risk ratios (RR). Adjusted risk ratios (aRR) were calculated using a log-binomial generalized linear",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.3151245117188,
+        527.514404296875,
+        711.7581176757812
+      ],
+      "text": "regression (binomial error distribution with log link function). Pre-specified potential confounders were",
+      "font": "SegoeUI-Light",
+      "size": 10.96534538269043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.5150146484375,
+        527.3980712890625,
+        724.9580078125
+      ],
+      "text": "adjusted for using inverse probability propensity score weighting. No convergence issues arose with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        723.7150268554688,
+        527.4166259765625,
+        738.1580200195312
+      ],
+      "text": "the log-binomial model. When outcome rates were close to the boundary, aRR were not calculated,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.9150390625,
+        527.5439453125,
+        751.3580322265625
+      ],
+      "text": "and unadjusted RR were presented. For outcomes where the number of outcome events was zero, an",
+      "font": "SegoeUI-Light",
+      "size": 10.979029655456543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        750.114990234375,
+        527.4112548828125,
+        764.5579833984375
+      ],
+      "text": "unadjusted risk difference (RD) was calculated. For unadjusted RDs or RRs, 95% confidence intervals",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "52 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

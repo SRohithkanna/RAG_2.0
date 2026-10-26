@@ -1,0 +1,558 @@
+{
+  "file": "module5",
+  "page": 42,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.6326293945312,
+        81.83369445800781
+      ],
+      "text": "clinical and surveillance, and advised the WHO to update the classification of intrathoracic TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        243.37034606933594,
+        95.03370666503906
+      ],
+      "text": "lymphadenopathy in children as PTB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        109.02191162109375,
+        462.21295166015625,
+        133.81690979003906
+      ],
+      "text": "4.1. The use of the Xpert MTB/RIF Ultra assay",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        131.8218994140625,
+        469.187744140625,
+        156.6168975830078
+      ],
+      "text": "in gastric aspirate and stool specimens for the",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        154.62188720703125,
+        517.9019775390625,
+        179.41688537597656
+      ],
+      "text": "diagnosis of pulmonary TB and rifampicin resistance",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        193.9874267578125,
+        168.3994903564453,
+        208.34242248535156
+      ],
+      "text": "Recommendation:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        210.3494415283203,
+        485.63525390625,
+        224.7924346923828
+      ],
+      "text": "In children with signs and symptoms of pulmonary TB, Xpert Ultra should be used as the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        222.3494415283203,
+        509.8396301269531,
+        236.7924346923828
+      ],
+      "text": "initial diagnostic test for TB and detection of rifampicin resistance on sputum, nasopharyngeal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        234.3494415283203,
+        506.2976989746094,
+        248.7924346923828
+      ],
+      "text": "aspirate, gastric aspirate or stool, rather than smear microscopy/culture and phenotypic drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        246.3494415283203,
+        202.2333221435547,
+        260.7924499511719
+      ],
+      "text": "susceptibility testing (DST).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        259.80731201171875,
+        503.2308654785156,
+        277.0443420410156
+      ],
+      "text": "Strong recommendation, moderate certainty of evidence for test accuracy in stool and gastric  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        271.80731201171875,
+        511.8357849121094,
+        288.98931884765625
+      ],
+      "text": "aspirate; low certainty of evidence for test accuracy in sputum; very low certainty of evidence for",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        283.80731201171875,
+        267.9007873535156,
+        301.0443420410156
+      ],
+      "text": "test accuracy in nasopharyngeal aspirate) .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        308.41259765625,
+        120.14249420166016,
+        322.767578125
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        324.77459716796875,
+        478.031494140625,
+        339.2176208496094
+      ],
+      "text": "•\tThe recommendation on the use of Xpert Ultra to detect rifampicin resistance in stool",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        336.77459716796875,
+        490.02703857421875,
+        351.2176208496094
+      ],
+      "text": "and gastric aspirate was extrapolated from existing recommendations on its use in other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        348.77459716796875,
+        146.0727996826172,
+        363.2176208496094
+      ],
+      "text": "sample types.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        365.0265197753906,
+        513.96630859375,
+        379.46954345703125
+      ],
+      "text": "•\tConsiderations regarding the acceptability and feasibility of implementation of both stool and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        377.0265197753906,
+        347.31768798828125,
+        391.46954345703125
+      ],
+      "text": "gastric aspirate specimens need to be taken into account.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.7449951171875,
+        299.09967041015625,
+        440.625
+      ],
+      "text": "4.1.1. Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.82891845703125,
+        527.4342041015625,
+        461.2719421386719
+      ],
+      "text": "The development of the Xpert MTB/RIF assay (Cepheid, Sunnyvale, United States of America (United",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.0289001464844,
+        527.5482177734375,
+        474.471923828125
+      ],
+      "text": "States)) was a significant step forward in improving the diagnosis of TB and the detection of rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 10.977226257324219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.2289123535156,
+        527.1593017578125,
+        487.67193603515625
+      ],
+      "text": "resistance globally. However, Xpert MTB/RIF sensitivity is suboptimal, particularly among people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.42889404296875,
+        527.60107421875,
+        500.8719177246094
+      ],
+      "text": "(including children) with smear-negative TB and people (including children) living with HIV. The Xpert",
+      "font": "SegoeUI-Light",
+      "size": 10.998749732971191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.62890625,
+        527.2046508789062,
+        514.0718994140625
+      ],
+      "text": "MTB/RIF Ultra (Cepheid, Sunnyvale, United States), hereafter referred to as Xpert Ultra, was developed",
+      "font": "SegoeUI-Light",
+      "size": 10.968103408813477,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.8289184570312,
+        527.4111938476562,
+        527.2719116210938
+      ],
+      "text": "by Cepheid as the next-generation assay to overcome these limitations. Xpert Ultra has a lower limit",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        526.0289306640625,
+        527.4375,
+        540.471923828125
+      ],
+      "text": "of detection than the Xpert MTB/RIF, with an additional “trace” semi-quantitative category. It uses",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.2288818359375,
+        527.3997192382812,
+        553.671875
+      ],
+      "text": "the same GeneXpert  platform as the Xpert MTB/RIF. Xpert MTB/RIF is strongly recommended as  ®",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.4288940429688,
+        527.4593505859375,
+        566.8718872070312
+      ],
+      "text": "the initial diagnostic test for TB and rifampicin-resistance detection in sputum (including induced and",
+      "font": "SegoeUI-Light",
+      "size": 10.993047714233398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.62890625,
+        527.3969116210938,
+        580.0718994140625
+      ],
+      "text": "spontaneously expectorated sputum), gastric aspirate, NPA and stool specimens rather than smear",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.8289184570312,
+        527.3817749023438,
+        593.2719116210938
+      ],
+      "text": "microscopy/culture and phenotypic DST in children aged below 15 years with signs and symptoms",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.0289306640625,
+        527.436767578125,
+        606.471923828125
+      ],
+      "text": "of PTB. The Xpert Ultra assay is recommended in the same population as the initial diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.2288818359375,
+        527.5866088867188,
+        619.671875
+      ],
+      "text": "for TB and detection of rifampicin resistance in sputum or NPA, rather than smear microscopy/culture",
+      "font": "SegoeUI-Light",
+      "size": 10.984488487243652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.6348876953125,
+        189.02920532226562,
+        632.8718872070312
+      ],
+      "text": "(16) and phenotypic DST  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.1329345703125,
+        527.304931640625,
+        654.575927734375
+      ],
+      "text": "The 2020 rapid diagnostics guidelines and 2021 update listed the evaluation of the diagnostic accuracy",
+      "font": "SegoeUI-Light",
+      "size": 10.95410442352295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.3328247070312,
+        527.384033203125,
+        667.7758178710938
+      ],
+      "text": "of Xpert Ultra in gastric aspirate or stool specimens for PTB in children as a research priority. Therefore,",
+      "font": "SegoeUI-Light",
+      "size": 10.967101097106934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.5328369140625,
+        527.3081665039062,
+        680.975830078125
+      ],
+      "text": "a systematic review and meta-analysis were conducted to evaluate the use of the Xpert Ultra assay in",
+      "font": "SegoeUI-Light",
+      "size": 10.994149208068848,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.7327880859375,
+        527.0655517578125,
+        694.17578125
+      ],
+      "text": "two paediatric specimens, namely gastric aspirate and stool, for which insufficient data were available",
+      "font": "SegoeUI-Light",
+      "size": 10.98884391784668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.138916015625,
+        420.1894836425781,
+        707.3759155273438
+      ],
+      "text": "(18) at the time of the GDG meeting on molecular assays in December 2019  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.4608154296875,
+        527.2977905273438,
+        729.0797729492188
+      ],
+      "text": "PICO question:  In children aged below 10 years of age with signs and symptoms of pulmonary",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.8367919921875,
+        527.443359375,
+        742.27978515625
+      ],
+      "text": "TB seeking care at health care facilities, should Xpert Ultra in gastric aspirate or stool be used to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.0368041992188,
+        527.4420166015625,
+        755.4797973632812
+      ],
+      "text": "diagnose pulmonary TB and rifampicin resistance, as compared with a microbiological/composite",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        754.2366943359375,
+        161.4737091064453,
+        768.6796875
+      ],
+      "text": "reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "18 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

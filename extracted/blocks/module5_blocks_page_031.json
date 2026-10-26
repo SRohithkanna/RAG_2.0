@@ -1,0 +1,678 @@
+{
+  "file": "module5",
+  "page": 31,
+  "blocks": [
+    {
+      "bbox": [
+        79.37010192871094,
+        88.00041198730469,
+        349.473876953125,
+        102.50941467285156
+      ],
+      "text": "Box 1: Structure of the 2022 consolidated guidelines",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        116.50823211669922,
+        515.7692260742188,
+        131.0612335205078
+      ],
+      "text": "Chapter 1  is the introduction and provides background information, an overview of the",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        118.2132339477539,
+        102.47319793701172,
+        130.42323303222656
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        129.8181915283203,
+        515.7351684570312,
+        144.2611846923828
+      ],
+      "text": "scope (including PICO and background questions), the rationale, objectives and target",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        143.01820373535156,
+        237.45150756835938,
+        157.46119689941406
+      ],
+      "text": "audience for the guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        161.77740478515625,
+        515.7601318359375,
+        176.3303985595703
+      ],
+      "text": "Chapter 2  includes WHO recommendations on TB screening and contact investigation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        163.48239135742188,
+        102.47319793701172,
+        175.69239807128906
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        175.08753967285156,
+        515.8524780273438,
+        189.53053283691406
+      ],
+      "text": "that are relevant to children and adolescents. While no new recommendations were made",
+      "font": "SegoeUI-Light",
+      "size": 10.979230880737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        188.28749084472656,
+        515.7769165039062,
+        202.73048400878906
+      ],
+      "text": "in these areas by the GDG on the management of TB in children and adolescents, new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        201.48744201660156,
+        515.7650146484375,
+        215.93043518066406
+      ],
+      "text": "recommendations on TB screening in children and adolescents were issued by WHO in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        214.68739318847656,
+        515.708740234375,
+        229.13038635253906
+      ],
+      "text": "2021. These include recommendations on the populations to be screened (persons living",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        227.8874053955078,
+        515.7704467773438,
+        242.3303985595703
+      ],
+      "text": "with HIV infection and close contacts) and the screening tools that can be applied. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        241.08753967285156,
+        429.5957946777344,
+        255.53053283691406
+      ],
+      "text": "other recommendations in this chapter relate to contact investigation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        259.84674072265625,
+        515.8458251953125,
+        274.3997497558594
+      ],
+      "text": "Chapter 3  focuses on TB prevention. It includes existing recommendations on TB infection",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.996748924255371,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        261.5517272949219,
+        102.47319793701172,
+        273.7617492675781
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        273.15667724609375,
+        515.489501953125,
+        287.5997009277344
+      ],
+      "text": "prevention and control as well as TPT. The recommendations on TPT relate to the identification",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        286.356689453125,
+        515.7515258789062,
+        300.7997131347656
+      ],
+      "text": "of populations who should be tested for TB infection, algorithms to rule out TB disease,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        299.55682373046875,
+        515.73291015625,
+        313.9998474121094
+      ],
+      "text": "tests for TB infection and TPT regimens. This chapter also includes recommendations on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        312.7567138671875,
+        438.0488586425781,
+        327.1997375488281
+      ],
+      "text": "BCG vaccination that were published in a WHO position paper in 2018.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        331.5160217285156,
+        515.6930541992188,
+        346.06903076171875
+      ],
+      "text": "Chapter 4  includes WHO recommendations on diagnostic approaches. Two new",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        333.22100830078125,
+        102.47319793701172,
+        345.4310302734375
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        344.8260192871094,
+        515.590087890625,
+        359.26904296875
+      ],
+      "text": "recommendations were made in the 2021 GDG meeting on: (i) the use of Xpert Ultra",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        358.0260009765625,
+        515.91455078125,
+        372.4690246582031
+      ],
+      "text": "in gastric aspirate and stool specimens to diagnose pulmonary TB and rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        371.22601318359375,
+        515.742919921875,
+        385.6690368652344
+      ],
+      "text": "resistance; and (ii) the use of integrated treatment decision algorithms in children with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        384.4259948730469,
+        515.5604858398438,
+        398.8690185546875
+      ],
+      "text": "presumptive pulmonary TB. Other recommendations in this chapter include existing WHO",
+      "font": "SegoeUI-Light",
+      "size": 10.974771499633789,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        397.6260070800781,
+        515.7264404296875,
+        412.06903076171875
+      ],
+      "text": "recommendations on rapid diagnostic tests including Xpert MTB/RIF, Xpert Ultra, Truenat",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        410.8260192871094,
+        512.7112426757812,
+        425.26904296875
+      ],
+      "text": "MTB, MTB Plus and Truenat MTB-RIF Dx, lateral flow urine lipoarabinomannan (LF-LAM)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        424.0260009765625,
+        515.7616577148438,
+        438.4690246582031
+      ],
+      "text": "assays, low complexity automated nucleic acid amplification tests, line probe assays and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        437.22601318359375,
+        457.27557373046875,
+        451.6690368652344
+      ],
+      "text": "high complexity reverse hybridization-based nucleic acid amplification tests.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        455.9853210449219,
+        515.6146240234375,
+        470.538330078125
+      ],
+      "text": "Chapter 5  focuses on TB treatment. Four new recommendations were made by the",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        457.6903076171875,
+        102.47319793701172,
+        469.90032958984375
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        469.2953186035156,
+        515.7627563476562,
+        483.73834228515625
+      ],
+      "text": "child and adolescent TB GDG on TB treatment: (i) a 4-month regimen for children and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        482.49530029296875,
+        515.5577392578125,
+        496.9383239746094
+      ],
+      "text": "adolescents 3 months to 16 years of age with non-severe drug-susceptible TB; (ii) a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        495.6953125,
+        515.8970336914062,
+        510.1383361816406
+      ],
+      "text": "6-month intensive regimen to treat TB meningitis composed of isoniazid, rifampicin,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        508.895263671875,
+        515.8080444335938,
+        523.3382568359375
+      ],
+      "text": "pyrazinamide and ethionamide; (iii) use of bedaquiline as part of shorter or longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        522.0953369140625,
+        515.74609375,
+        536.538330078125
+      ],
+      "text": "regimens for children of all ages to treat MDR/RR-TB; and (iv) use of delamanid as part",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        535.2952880859375,
+        515.9044799804688,
+        549.73828125
+      ],
+      "text": "of longer regimens for children of all ages to treat MDR/RR-TB. A summary of other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        548.4953002929688,
+        515.7616577148438,
+        562.9382934570312
+      ],
+      "text": "valid treatment recommendations is also consolidated in this chapter, including for drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        561.6953125,
+        352.3876037597656,
+        576.1383056640625
+      ],
+      "text": "susceptible and DR-TB and for severe forms of EPTB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        580.45458984375,
+        515.6312255859375,
+        595.007568359375
+      ],
+      "text": "Chapter 6  includes WHO recommendations on models of care. Two new recommendations",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        582.1596069335938,
+        102.47319793701172,
+        594.3695678710938
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57869720458984,
+        593.7645874023438,
+        515.7396850585938,
+        608.2075805664062
+      ],
+      "text": "on models of care arose in 2021 including one on decentralized care and another on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        606.964599609375,
+        515.8615112304688,
+        621.4075927734375
+      ],
+      "text": "integrated family-centred care. Other WHO recommendations in this chapter include",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        620.1646118164062,
+        515.7405395507812,
+        634.6076049804688
+      ],
+      "text": "existing recommendations on health education and counselling, treatment adherence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        633.3646240234375,
+        499.74346923828125,
+        647.8076171875
+      ],
+      "text": "interventions, treatment support and decentralized care for people with MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        652.1239013671875,
+        515.7428588867188,
+        666.6768798828125
+      ],
+      "text": "Chapter 7  includes existing WHO recommendations on several specific situations such",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        653.8289184570312,
+        102.47319793701172,
+        666.0388793945312
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        665.4338989257812,
+        515.714599609375,
+        679.8768920898438
+      ],
+      "text": "as care of the child or adolescent living with TB and HIV, care of children with TB and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        678.6339111328125,
+        515.848388671875,
+        693.076904296875
+      ],
+      "text": "malnutrition, and optimal feeding of infants born to mothers with TB. The recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        691.8339233398438,
+        515.7193603515625,
+        706.2769165039062
+      ],
+      "text": "on HIV include those on HIV testing, eligibility for and timing of antiretroviral therapy (ART),",
+      "font": "SegoeUI-Light",
+      "size": 10.959927558898926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        705.033935546875,
+        388.7732849121094,
+        719.4769287109375
+      ],
+      "text": "co-trimoxazole prophylaxis and treatment regimens for ART.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.47319793701172,
+        723.793212890625,
+        515.737060546875,
+        738.34619140625
+      ],
+      "text": "Chapter 8  describes research priorities that were identified at the GDG meeting in 2021.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.73619842529297,
+        725.4982299804688,
+        102.47319793701172,
+        737.7081909179688
+      ],
+      "text": "Î",
+      "font": "Wingdings-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        737.1032104492188,
+        515.8081665039062,
+        751.5462036132812
+      ],
+      "text": "These signal areas where additional evidence is needed to improve the prevention,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        110.57879638671875,
+        750.30322265625,
+        374.2972717285156,
+        764.7462158203125
+      ],
+      "text": "management and care of TB in children and adolescents.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        475.78839111328125,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1. Introduction  7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

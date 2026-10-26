@@ -1,0 +1,486 @@
+{
+  "file": "module4",
+  "page": 38,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.306884765625,
+        81.83369445800781
+      ],
+      "text": "Monitoring for potential relapse is a priority for shorter regimens especially when they are introduced",
+      "font": "SegoeUI-Light",
+      "size": 10.98739242553711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3245239257812,
+        95.03370666503906
+      ],
+      "text": "into programmatic settings. Therefore, follow-up of children and young adolescents for up to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        385.02947998046875,
+        108.23371887207031
+      ],
+      "text": "12 months after completion of the four-month regimen is important.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        122.221923828125,
+        521.2781982421875,
+        147.0169219970703
+      ],
+      "text": "3. Drug-susceptible TB treatment and ART in people",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        145.02191162109375,
+        196.97479248046875,
+        169.81690979003906
+      ],
+      "text": "living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.3571319580078,
+        228.32371520996094,
+        202.2371368408203
+      ],
+      "text": "Recommendation 3.1",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        213.9425048828125,
+        203.97349548339844,
+        228.29750061035156
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        235.55712890625,
+        497.6448974609375,
+        249.91212463378906
+      ],
+      "text": "3.1 It is recommended that TB patients who are living with HIV should receive at",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        247.55712890625,
+        482.220703125,
+        261.912109375
+      ],
+      "text": "least the same duration of daily TB treatment as HIV-negative TB patients",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        263.80914306640625,
+        377.35003662109375,
+        278.16412353515625
+      ],
+      "text": "(Strong recommendation, high certainty of evidence)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.0395202636719,
+        220.7113037109375,
+        310.8915100097656
+      ],
+      "text": "Source of recommendation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.0994873046875,
+        527.3926391601562,
+        332.5425109863281
+      ],
+      "text": "This recommendation was first put forward in 2010 and considered valid in the guidelines update",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.18951416015625,
+        527.4271850585938,
+        345.7425231933594
+      ],
+      "text": "Annex 1 of 2017 (see summary of recommendations in  ). The recommendation is copied without",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.49951171875,
+        491.5469665527344,
+        358.9425354003906
+      ],
+      "text": "modification into this consolidated document and appears exactly as in the 2010 guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.31671142578125,
+        216.29168701171875,
+        388.168701171875
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3766174316406,
+        527.5213623046875,
+        409.81964111328125
+      ],
+      "text": "A systematic review and meta-analysis of 6 randomized controlled trials and 21 cohort studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.57659912109375,
+        527.3890991210938,
+        423.0196228027344
+      ],
+      "text": "provided pooled estimates of failure, relapse and death by duration of rifampicin, and daily intensive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.5006103515625,
+        527.398681640625,
+        436.2196350097656
+      ],
+      "text": "(41) phase versus intermittent throughout  . The systematic review revealed a marked and significant",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.9765930175781,
+        527.447509765625,
+        449.41961669921875
+      ],
+      "text": "reduction in failure and relapse in the arms where some or all patients received ART. In a regression",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.1766052246094,
+        527.4312133789062,
+        462.61962890625
+      ],
+      "text": "model, treatment failure or relapse was 1.8–2.5 times more likely with intermittent rather than daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.3766174316406,
+        527.377197265625,
+        475.81964111328125
+      ],
+      "text": "dosing in the intensive phase. Compared with 8 or more months of rifampicin, 2-month rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.57659912109375,
+        527.4521484375,
+        489.0196228027344
+      ],
+      "text": "regimens carried a 3-fold higher risk of relapse and 6-month regimens carried a 2.2 -fold higher risk.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.776611328125,
+        527.43212890625,
+        502.2196350097656
+      ],
+      "text": "Extending treatment beyond 6 months is recommended by some expert groups in certain persons",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.9765625,
+        527.4200439453125,
+        515.4195556640625
+      ],
+      "text": "living with HIV and the meta-analysis showed that this is associated with significantly lower relapse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.1766357421875,
+        527.433349609375,
+        528.61962890625
+      ],
+      "text": "rates. However, several other considerations were given greater weight. Separate regimens for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.3765869140625,
+        527.4432373046875,
+        541.819580078125
+      ],
+      "text": "patients living with or without HIV would be very challenging in operational terms and could create",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.5765991210938,
+        527.43994140625,
+        555.0195922851562
+      ],
+      "text": "stigma. Other potential harms of extending treatment are acquired resistance to rifampicin, and a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.776611328125,
+        494.99981689453125,
+        568.2196044921875
+      ],
+      "text": "longer period during which ART options are limited (because of ART–rifampicin interactions).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.5698852539062,
+        228.74610900878906,
+        602.4498901367188
+      ],
+      "text": "Recommendation 3.2",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66919708251953,
+        614.1552124023438,
+        203.973388671875,
+        628.5101928710938
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66919708251953,
+        635.7698364257812,
+        490.4320373535156,
+        650.1248168945312
+      ],
+      "text": "3.2 ART should be started as soon as possible within two weeks of initiating TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86920166015625,
+        647.7698364257812,
+        466.5011291503906,
+        662.1248168945312
+      ],
+      "text": "treatment, regardless of CD4 cell count, among people living with HIV. a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86920166015625,
+        664.0218505859375,
+        231.27316284179688,
+        678.3768310546875
+      ],
+      "text": "Adults and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.4811782836914,
+        680.2738037109375,
+        441.88946533203125,
+        694.6287841796875
+      ],
+      "text": "(Strong recommendation, low to moderate certainty of evidence);",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86920166015625,
+        696.5258178710938,
+        216.51556396484375,
+        710.8807983398438
+      ],
+      "text": "Children and infants",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.4811782836914,
+        712.7777099609375,
+        398.8255310058594,
+        727.1326904296875
+      ],
+      "text": "(Strong recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.6614990234375,
+        275.0029602050781,
+        752.1654663085938
+      ],
+      "text": "Except when signs and symptoms of meningitis are present. a.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "24 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file": "module4",
+  "page": 141,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    70.86602783203125,
+    524.4400024414062,
+    150.0958455403646
+  ],
+  "heading": null,
+  "n_rows": 2,
+  "n_cols": 5,
+  "data": [
+    [
+      "Medicine",
+      "Treatment failure or relapse versus treatment success",
+      "",
+      "Death versus treatment success",
+      ""
+    ],
+    [
+      "",
+      "Number treated",
+      "Adjusted odds ratio (95% CL)",
+      "Number treated",
+      "Adjusted odds ratio (95% CL)"
+    ]
+  ]
+}

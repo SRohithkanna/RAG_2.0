@@ -1,0 +1,36 @@
+{
+  "file": "common childhood",
+  "page": 22,
+  "table_id": 1,
+  "bbox": [
+    56.692901611328125,
+    84.74920654296875,
+    396.85009765625,
+    169.84820556640625
+  ],
+  "heading": "TABLE 2.1 Assessment of strength of evidence",
+  "n_rows": 5,
+  "n_cols": 2,
+  "data": [
+    [
+      "LEVEL OF EVIDENCE",
+      "RATIONALE"
+    ],
+    [
+      "High",
+      "Further research is very unlikely to change confidence in the estimate of effect."
+    ],
+    [
+      "Moderate",
+      "Further research is likely to have an important impact on confidence in the effect."
+    ],
+    [
+      "Low",
+      "Further research is very likely to have an estimate of effect and is likely to change the estimate."
+    ],
+    [
+      "Very low",
+      "Any estimate of effect is very uncertain."
+    ]
+  ]
+}

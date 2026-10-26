@@ -1,0 +1,106 @@
+{
+  "file": "Guidance for national",
+  "page": 91,
+  "table_id": 1,
+  "bbox": [
+    85.03900146484375,
+    369.03302001953125,
+    509.2359924316406,
+    758.4089965820312
+  ],
+  "heading": "Table 10. Adverse effects associated with first and second-line drugs used in the treatment of children with MDR- and XDR-TB a",
+  "n_rows": 18,
+  "n_cols": 3,
+  "data": [
+    [
+      "Drug",
+      "Adverse effects",
+      "Monitoring"
+    ],
+    [
+      "Group 1: first-line oral drugs",
+      "",
+      ""
+    ],
+    [
+      "Isoniazid",
+      "Hepatotoxicity",
+      "Jaundice, liver enzymes"
+    ],
+    [
+      "",
+      "Rash",
+      "Clinical observation for other adverse effects"
+    ],
+    [
+      "",
+      "Peripheral neuropathy (rare)",
+      ""
+    ],
+    [
+      "",
+      "Psychosis",
+      ""
+    ],
+    [
+      "Pyrazinamide",
+      "Hepatotoxicity",
+      "Jaundice, liver enzymes"
+    ],
+    [
+      "",
+      "Arthralgia",
+      "Clinical observation for other adverse effects"
+    ],
+    [
+      "",
+      "Rash",
+      ""
+    ],
+    [
+      "Ethambutol",
+      "Optic neuritis (rare)",
+      "Vision screening if possible"
+    ],
+    [
+      "Group 2: injectable agents",
+      "Ototoxicity (starts with high frequency and may continue after stopping culprit drug)",
+      "Hearing test (audiology)"
+    ],
+    [
+      "Amikacin",
+      "Nephrotoxicity (renal failure and severe hypokalaemia)",
+      ""
+    ],
+    [
+      "Kanamycin",
+      "",
+      ""
+    ],
+    [
+      "Capreomycin",
+      "",
+      "Serum creatinine and potassium levels"
+    ],
+    [
+      "Group 3: fluoroquinolones",
+      "Gastrointestinal disturbance",
+      "Clinical observation and caregivers’ report"
+    ],
+    [
+      "Ofloxacin",
+      "Insomnia",
+      ""
+    ],
+    [
+      "Levofloxacin",
+      "Arthralgia",
+      "Serum uric acid if used with pyrazinamide"
+    ],
+    [
+      "Moxifloxacin",
+      "",
+      ""
+    ]
+  ]
+}

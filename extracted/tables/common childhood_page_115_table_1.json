@@ -1,0 +1,70 @@
+{
+  "file": "common childhood",
+  "page": 115,
+  "table_id": 1,
+  "bbox": [
+    56.942901611328125,
+    62.36199951171875,
+    233.3859436035156,
+    622.9140014648438
+  ],
+  "heading": "ANNEX 6. TABLES",
+  "n_rows": 6,
+  "n_cols": 7,
+  "data": [
+    [
+      "YEAR",
+      "SITE",
+      "N° PTS (% HIV+)",
+      "TYPE OF SPECIMEN",
+      "INCIDENCE OF INFECTIONS (ISOLATED ORGANISMS)",
+      "SENSITIVITY PATTERN",
+      "RESISTANCE PATTERN"
+    ],
+    [
+      "1995",
+      "Gambia",
+      "111a",
+      "Nasopharyngeal and lung aspirate",
+      "(S. pneumoniae, Haemophilus, Salmonella, E. coli, S. aureus and other staphylococci)",
+      "S. pneumoniae: cotrimoxazole 100%, CAF 90%.",
+      ""
+    ],
+    [
+      "1994",
+      "Gambia",
+      "378a",
+      "Blood, lung spirate, pleural fluid",
+      "Pneumonia: 28% (S. pneumoniae, Haemophilus, viral)",
+      "",
+      ""
+    ],
+    [
+      "1993",
+      "Nigeria",
+      "99a",
+      "Blood Lung puncture aspirates",
+      "Klebsiella 39%, S. aureus 20%, E. coli 8 %",
+      "gentamicin, cloxacillin",
+      ""
+    ],
+    [
+      "1992",
+      "Tanzania",
+      "164",
+      "Blood Urine Multiple site cultures",
+      "Infections on admission: 92% Bacteremia (S. Aureus), UTI (E. coli, Klebsiella) Hospital infections: 49% (S. aureus, Strep faecalis, Klebsiella, E. coli)",
+      "S. aureus: erythro, genta, clox. G-: gentamicin Strep. faecalis: amp, erythro, penicillin.",
+      ""
+    ],
+    [
+      "1992",
+      "South Africa19",
+      "134",
+      "Urine",
+      "UTI=26%",
+      "",
+      ""
+    ]
+  ]
+}

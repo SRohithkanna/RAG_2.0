@@ -1,0 +1,270 @@
+{
+  "file": "module1",
+  "page": 252,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        67.39063262939453,
+        78.23619842529297,
+        81.83363342285156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        67.39063262939453,
+        527.1503295898438,
+        81.83363342285156
+      ],
+      "text": "Must include one of the following outcomes: TB disease incidence, prevention of disease, estimated",
+      "font": "SegoeUI-Light",
+      "size": 10.969306945800781,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        80.59058380126953,
+        362.2996826171875,
+        95.03358459472656
+      ],
+      "text": "TB-related and all-cause mortality and risk of adverse events.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        93.79059600830078,
+        78.23619842529297,
+        108.23359680175781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        93.79059600830078,
+        352.93450927734375,
+        108.23359680175781
+      ],
+      "text": "Study design: randomized control or observational studies.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        115.23063659667969,
+        159.58560180664062,
+        129.73963928222656
+      ],
+      "text": "Exclusion criteria",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        137.19850158691406,
+        527.4345703125,
+        151.64149475097656
+      ],
+      "text": "Literature reviews, abstracts, case reports, opinion articles, grey literature. For objective 2 specifically,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        150.3985137939453,
+        527.4490966796875,
+        164.8415069580078
+      ],
+      "text": "studies that did not provide denominators to allow estimates of TB disease incidence or incidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        163.59852600097656,
+        333.4913024902344,
+        178.04151916503906
+      ],
+      "text": "(risk) of adverse events or had fewer than 20 participants.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        185.03843688964844,
+        272.7810363769531,
+        199.5474395751953
+      ],
+      "text": "Quality assessment of included studies",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        207.0063018798828,
+        527.4260864257812,
+        221.4492950439453
+      ],
+      "text": "Two reviewers independently evaluated the design and the quality of the evidence in the included",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        220.20643615722656,
+        527.2263793945312,
+        234.64942932128906
+      ],
+      "text": "articles. Differences were resolved through discussion until a consensus was reached. For observational",
+      "font": "SegoeUI-Light",
+      "size": 10.95480728149414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        233.4064483642578,
+        527.6060180664062,
+        247.8494415283203
+      ],
+      "text": "studies, a quality assessment questionnaire was developed to evaluate bias with items from the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        245.3303985595703,
+        527.3379516601562,
+        261.0494689941406
+      ],
+      "text": "(1) . The cross-sectional studies (with acceptability as the outcome) were  Newcastle–Ottawa Scale",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        259.806396484375,
+        527.39599609375,
+        274.2494201660156
+      ],
+      "text": "evaluated using the AXIS tool and the one cost-effectiveness study included was evaluated using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        271.73028564453125,
+        527.4066772460938,
+        287.4493103027344
+      ],
+      "text": "(2,3) the Joanna-Briggs Institute critical appraisal tool for economic evaluations  . All studies were",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        286.2064208984375,
+        527.3702392578125,
+        300.6494445800781
+      ],
+      "text": "categorized into either “high”, “medium”, or “low” risk of bias for all items on the quality assessment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        299.40643310546875,
+        527.2769165039062,
+        313.8494567871094
+      ],
+      "text": "forms. The Grading of Recommendations, Assessment, Development, and Evaluations (GRADE)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        312.60638427734375,
+        355.3398742675781,
+        327.0494689941406
+      ],
+      "text": "evidence. framework was used to evaluate the quality of study",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "234 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

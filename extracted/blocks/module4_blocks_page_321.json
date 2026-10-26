@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 321,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        503.9349670410156,
+        86.53083038330078
+      ],
+      "text": "Models of care for people with drug-resistant TB (Guideline",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.65083312988281,
+        242.81015014648438,
+        105.53083038330078
+      ],
+      "text": "updates 2011 and 2017)",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.62468719482422,
+        527.4190673828125,
+        125.97969055175781
+      ],
+      "text": "Question 2. Among patients with MDR-TB, is ambulatory therapy compared with inpatient",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.82469940185547,
+        356.9640197753906,
+        139.17970275878906
+      ],
+      "text": "treatment, more or less likely to lead to better outcomes?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.52874755859375,
+        527.420166015625,
+        160.8837432861328
+      ],
+      "text": "Question 3. Is decentralized treatment and care for MDR-TB patients more or less likely to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.72869873046875,
+        244.69578552246094,
+        174.0836944580078
+      ],
+      "text": "lead to the outcomes listed below?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        187.04412841796875,
+        435.0211181640625,
+        201.3991241455078
+      ],
+      "text": "Population Intervention  Comparator Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        208.76869201660156,
+        508.05072021484375,
+        223.21168518066406
+      ],
+      "text": "Patients on  Decentralized  Treatment and  •\tAdherence to treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        220.76869201660156,
+        515.5603637695312,
+        235.21168518066406
+      ],
+      "text": "treatment for  treatment and care  care provided  (or treatment interruption",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        232.76869201660156,
+        501.9017028808594,
+        247.21168518066406
+      ],
+      "text": "MDR-TB  (provided by non- solely by centres  due to non-adherence)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        244.76869201660156,
+        335.1269836425781,
+        259.2117004394531
+      ],
+      "text": "specialized or periphery  or teams",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.0862121582031,
+        249.02064514160156,
+        473.2962341308594,
+        263.4636535644531
+      ],
+      "text": "•\tConventional TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        256.7686767578125,
+        355.7850341796875,
+        271.2117004394531
+      ],
+      "text": "health centres; by  specialized in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        261.0206298828125,
+        516.2225952148438,
+        275.4636535644531
+      ],
+      "text": "treatment outcomes: cure",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        268.7686767578125,
+        373.1914367675781,
+        283.2117004394531
+      ],
+      "text": "community health  drug-resistant TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        273.0206298828125,
+        512.6981811523438,
+        287.4636535644531
+      ],
+      "text": "or treatment completion,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        280.7686767578125,
+        262.05963134765625,
+        295.2117004394531
+      ],
+      "text": "workers, community",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        285.0206298828125,
+        504.8684387207031,
+        299.4636535644531
+      ],
+      "text": "failure, relapse, survival/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        292.7686767578125,
+        277.57623291015625,
+        307.2117004394531
+      ],
+      "text": "volunteers or treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        297.0206298828125,
+        421.38720703125,
+        311.4636535644531
+      ],
+      "text": "death",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        304.7686767578125,
+        219.17723083496094,
+        319.2117004394531
+      ],
+      "text": "supporters)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.0862121582031,
+        313.2725830078125,
+        504.0951232910156,
+        327.7156066894531
+      ],
+      "text": "•\tAdverse reactions from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        321.0205993652344,
+        276.41851806640625,
+        335.463623046875
+      ],
+      "text": "•\tTreatment and patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        325.2726135253906,
+        506.47113037109375,
+        339.71563720703125
+      ],
+      "text": "TB drugs (severity, type,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        333.0205993652344,
+        208.51661682128906,
+        347.463623046875
+      ],
+      "text": "support",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        337.2726135253906,
+        449.372314453125,
+        351.71563720703125
+      ],
+      "text": "organ class)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        349.2726135253906,
+        264.8531188964844,
+        363.71563720703125
+      ],
+      "text": "•\tInjection during the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.0862121582031,
+        353.52459716796875,
+        515.855224609375,
+        367.9676208496094
+      ],
+      "text": "•\tAcquisition (amplification)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        361.2726135253906,
+        242.71009826660156,
+        375.71563720703125
+      ],
+      "text": "intensive phase",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        365.52459716796875,
+        476.6435546875,
+        379.9676208496094
+      ],
+      "text": "of drug resistance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        166.48609924316406,
+        377.52459716796875,
+        255.45144653320312,
+        391.9676208496094
+      ],
+      "text": "•\tSpecialist care for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        389.0862121582031,
+        381.7765197753906,
+        483.647216796875,
+        396.21954345703125
+      ],
+      "text": "•\tCost to the patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        389.52459716796875,
+        264.6661376953125,
+        403.9676208496094
+      ],
+      "text": "co-morbidities (e.g.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        393.7765197753906,
+        509.98126220703125,
+        408.21954345703125
+      ],
+      "text": "(including direct medical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        401.52459716796875,
+        273.34954833984375,
+        415.9676208496094
+      ],
+      "text": "HIV, diabetes, chronic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        405.7765197753906,
+        498.8173522949219,
+        420.21954345703125
+      ],
+      "text": "costs as well as others",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        413.52459716796875,
+        251.71914672851562,
+        427.9676208496094
+      ],
+      "text": "lung diseases, or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        417.7765197753906,
+        502.4143371582031,
+        432.21954345703125
+      ],
+      "text": "such as transportation,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        425.52459716796875,
+        274.1591491699219,
+        439.9676208496094
+      ],
+      "text": "other conditions such",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        429.7765197753906,
+        479.0052185058594,
+        444.21954345703125
+      ],
+      "text": "lost wages due to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        437.52459716796875,
+        269.4038391113281,
+        451.9676208496094
+      ],
+      "text": "as auditory function,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        395.0862121582031,
+        441.7765197753906,
+        437.480224609375,
+        456.21954345703125
+      ],
+      "text": "disability)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        449.52459716796875,
+        262.4562072753906,
+        463.9676208496094
+      ],
+      "text": "renal function, liver",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        458.02850341796875,
+        498.4565124511719,
+        475.9676208496094
+      ],
+      "text": "•\tCost to health services function, neurology,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.48609924316406,
+        473.52459716796875,
+        245.42713928222656,
+        487.9676208496094
+      ],
+      "text": "ophthalmology)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        442.081298828125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 4. PICO questions 307",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

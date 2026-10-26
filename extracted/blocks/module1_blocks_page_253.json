@@ -1,0 +1,426 @@
+{
+  "file": "module1",
+  "page": 253,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7865982055664,
+        326.5609130859375,
+        82.6146011352539
+      ],
+      "text": "Fig. A5.3. PRISMA flow diagram of screening",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        162.10260009765625,
+        101.92272186279297,
+        403.2266845703125,
+        115.11272430419922
+      ],
+      "text": "Identification of studies via databases and registers",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        158.8509979248047,
+        143.29693603515625,
+        246.13258361816406,
+        153.7369384765625
+      ],
+      "text": "Records identified from:",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        154.83499145507812,
+        155.544921875,
+        250.15501403808594,
+        165.98492431640625
+      ],
+      "text": "All Databases (n = 10 491)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.88850402832031,
+        160.26284790039062,
+        89.44050598144531,
+        210.8948974609375
+      ],
+      "text": "Identification",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        168.635009765625,
+        167.8009033203125,
+        236.3478240966797,
+        178.24090576171875
+      ],
+      "text": "Embase (n = 3782)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        375.8102111816406,
+        173.2178955078125,
+        502.2207336425781,
+        183.65789794921875
+      ],
+      "text": "Records  removed before screening:",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        144.0030059814453,
+        180.056884765625,
+        507.0869445800781,
+        192.65789794921875
+      ],
+      "text": "Global Health Library (n = 3602) Duplicate records removed (n = 3598)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        167.23500061035156,
+        192.30487060546875,
+        237.7470245361328,
+        202.744873046875
+      ],
+      "text": "PubMed (n = 2463)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        176.57899475097656,
+        204.56085205078125,
+        228.41099548339844,
+        215.0008544921875
+      ],
+      "text": "TRIP (n = 644)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        149.60299682617188,
+        216.81683349609375,
+        255.3870086669922,
+        227.2568359375
+      ],
+      "text": "Cochrane CENTRAL (n = 191)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        151.25570678710938,
+        273.19061279296875,
+        452.82623291015625,
+        283.630615234375
+      ],
+      "text": "Records screened  Records excluded",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        164.03170776367188,
+        282.19061279296875,
+        437.7238464355469,
+        292.630615234375
+      ],
+      "text": "(n = 7084) (n = 7037)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.88850402832031,
+        331.7013244628906,
+        89.44050598144531,
+        368.7381286621094
+      ],
+      "text": "Screening",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        132.8708953857422,
+        340.1983947753906,
+        496.8372497558594,
+        350.6383972167969
+      ],
+      "text": "Reports sought for retrieval  Peer-Reviewed Reports not retrieved/only",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        168.47889709472656,
+        349.1983947753906,
+        498.3717956542969,
+        359.6383972167969
+      ],
+      "text": "(n = 47) conference abstracts or protocols published",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.92359924316406,
+        407.080322265625,
+        451.3009033203125,
+        417.64630126953125
+      ],
+      "text": "Reports excluded: Reports assessed for eligibility",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        168.47560119628906,
+        416.080322265625,
+        475.4098205566406,
+        426.64630126953125
+      ],
+      "text": "Not Specific to MDR-TB (n = 4) (n = 28)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        339.7401123046875,
+        430.7523193359375,
+        500.2393798828125,
+        441.19232177734375
+      ],
+      "text": "Unrelated to review objectives/outcomes of",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        391.93212890625,
+        439.7523193359375,
+        445.8265686035156,
+        450.19232177734375
+      ],
+      "text": "interest (n = 7)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.88850402832031,
+        486.5146179199219,
+        89.44050598144531,
+        519.0745849609375
+      ],
+      "text": "Included",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        133.8123016357422,
+        492.6614990234375,
+        234.16033935546875,
+        503.2135009765625
+      ],
+      "text": "Studies included in review",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        167.8762969970703,
+        501.6614990234375,
+        197.89230346679688,
+        512.2135009765625
+      ],
+      "text": "(n = 16)",
+      "font": "SegoeUI-Bold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.794921875,
+        527.5068969726562,
+        564.2379150390625
+      ],
+      "text": "No RCTs were found. All the studies included were observational, and no studies of resource",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.994873046875,
+        527.5458984375,
+        577.4378662109375
+      ],
+      "text": "requirements, feasibility or impact on equity were found. Four of the 16 studies included efficacy: one",
+      "font": "SegoeUI-Light",
+      "size": 10.99034595489502,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.1948852539062,
+        527.444580078125,
+        590.6378784179688
+      ],
+      "text": "with MFX or ofloxacin (OFX) monotherapy, two with Lfx or MFX with a companion drug (ETH, EMB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        589.3948974609375,
+        527.4057006835938,
+        603.837890625
+      ],
+      "text": "or PZA and one with standard INH therapy. Five studies reported on safety outcomes, four of which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        602.5949096679688,
+        527.3827514648438,
+        617.0379028320312
+      ],
+      "text": "were of children and adolescents and one of adult contacts. Six studies reported the acceptability",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        615.794921875,
+        527.59375,
+        630.2379150390625
+      ],
+      "text": "of FQ-based TPT; five reported quantitative measures and one the qualitative acceptability of a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        628.994873046875,
+        527.3783569335938,
+        643.4378662109375
+      ],
+      "text": "novel paediatric Lfx formulation to caregivers and child contacts. One study evaluated the global",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.1948852539062,
+        527.3213500976562,
+        656.6378784179688
+      ],
+      "text": "cost-effectiveness of providing Lfx to HHCs < 15 years. The studies included were too disparate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.3948974609375,
+        527.5936279296875,
+        669.837890625
+      ],
+      "text": "to allow any pooling of results or meta-analyses. Therefore, the results below reflect non-pooled",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        668.5948486328125,
+        527.37060546875,
+        683.037841796875
+      ],
+      "text": "findings. The protocol of this systematic review was registered on Prospero on 23 September 2023",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.7948608398438,
+        177.53306579589844,
+        696.2378540039062
+      ],
+      "text": "(ID: CRD42023462793).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.7414855957031,
+        801.0170288085938,
+        556.0995483398438,
+        811.52099609375
+      ],
+      "text": "Annex 5. Summary of unpublished studies (PICO 10) 235",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

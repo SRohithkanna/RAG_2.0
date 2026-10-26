@@ -1,0 +1,870 @@
+{
+  "file": "module1",
+  "page": 240,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        67.39063262939453,
+        78.23619842529297,
+        81.83363342285156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        67.39063262939453,
+        527.5586547851562,
+        81.83363342285156
+      ],
+      "text": "bacteriologically confirmed pulmonary TB diagnosed from a sputum sample, treatment for MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 10.957417488098145,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        80.59058380126953,
+        257.9080810546875,
+        95.03358459472656
+      ],
+      "text": "started within the preceding 6 months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        93.79059600830078,
+        78.23619842529297,
+        108.23359680175781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        93.79059600830078,
+        527.5743408203125,
+        108.23359680175781
+      ],
+      "text": "genotypic or phenotypic resistance to INH and rifampin (RIF). If only tested by Xpert MTB/RIF",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        106.99060821533203,
+        527.5687255859375,
+        121.43360900878906
+      ],
+      "text": "or MTB/RIF Ultra or other approved molecular tests e.g. line probe assay, the index case can",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        120.19062042236328,
+        527.4170532226562,
+        134.6336212158203
+      ],
+      "text": "be included if RIF-resistant, without other confirmed DST; i.e. confirmation of both RIF and INH",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        133.39064025878906,
+        189.83580017089844,
+        147.83363342285156
+      ],
+      "text": "resistance not required.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        146.59059143066406,
+        78.23619842529297,
+        161.03358459472656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        146.59059143066406,
+        527.0878295898438,
+        161.03358459472656
+      ],
+      "text": "written informed consent from the index case (or a close relative if the index case is deceased prior",
+      "font": "SegoeUI-Light",
+      "size": 10.989144325256348,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        159.7906036376953,
+        226.5758056640625,
+        174.2335968017578
+      ],
+      "text": "to the completion of screening)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        172.99061584472656,
+        78.23619842529297,
+        187.43360900878906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        172.99061584472656,
+        527.4376831054688,
+        187.43360900878906
+      ],
+      "text": "at least 1 HHC below the age of 18 years reported to have been residing in the same household",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        186.1906280517578,
+        303.7506408691406,
+        200.6336212158203
+      ],
+      "text": "as the adult index case in the previous 6 months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        207.6305389404297,
+        283.1529541015625,
+        222.13954162597656
+      ],
+      "text": "Exclusion criteria for adult index patients",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        229.59852600097656,
+        78.23619842529297,
+        244.04151916503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        229.59852600097656,
+        527.5816650390625,
+        244.04151916503906
+      ],
+      "text": "MDR-TB with confirmation of genotypic or phenotypic resistance to fluoroquinolones (FQs) (version",
+      "font": "SegoeUI-Light",
+      "size": 10.963438987731934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        242.7985382080078,
+        141.248291015625,
+        257.2415466308594
+      ],
+      "text": "3.0 protocol)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        267.6651306152344,
+        122.26277160644531,
+        285.9351501464844
+      ],
+      "text": "V-QUIN",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        292.6409912109375,
+        527.2037353515625,
+        307.0840148925781
+      ],
+      "text": "The study was conducted in Viet Nam, which is among the high-incidence countries for TB and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        305.84100341796875,
+        527.4314575195312,
+        320.2840270996094
+      ],
+      "text": "MDR/RR-TB. Participants were recruited in urban and rural settings in 10 provinces. The study sites",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        319.041015625,
+        527.4049072265625,
+        333.4840393066406
+      ],
+      "text": "delivered standard programmatic management of drug-resistant TB within the National Tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        332.24102783203125,
+        156.3582000732422,
+        346.6840515136719
+      ],
+      "text": "Programme (NTP).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        353.6809387207031,
+        253.95567321777344,
+        368.1899108886719
+      ],
+      "text": "Inclusion criteria for randomization",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        375.6488952636719,
+        78.23619842529297,
+        390.0919189453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        375.6488952636719,
+        527.4169921875,
+        390.0919189453125
+      ],
+      "text": "all ages (participants < 15 years were enrolled only during the final 6 months of recruitment in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        388.8489074707031,
+        412.71331787109375,
+        403.29193115234375
+      ],
+      "text": "conformity with the requirements of the local institutional review board)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        402.0489196777344,
+        78.23619842529297,
+        416.491943359375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        402.0489196777344,
+        112.1261978149414,
+        416.491943359375
+      ],
+      "text": "either:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86620330810547,
+        415.2489013671875,
+        527.6114501953125,
+        429.6919250488281
+      ],
+      "text": "(1)\ttuberculin skin test (TST) positive, defined as either (a) ≥ 10 mm first reading; (b) new TST",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.86620330810547,
+        428.44891357421875,
+        527.406005859375,
+        442.8919372558594
+      ],
+      "text": "conversion on the second reading (≥ 10 mm at second reading and an increase of ≥ 6 mm at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.86620330810547,
+        441.64892578125,
+        304.84228515625,
+        456.0919494628906
+      ],
+      "text": "the second reading over the first reading, OR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86620330810547,
+        454.8489074707031,
+        514.6483154296875,
+        469.29193115234375
+      ],
+      "text": "(2)\tany TST size if known HIV positive or severely malnourished (body mass index < 16 kg/m ). 2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.783935546875,
+        158.5251922607422,
+        494.29290771484375
+      ],
+      "text": "Exclusion criteria",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        501.75189208984375,
+        78.23619842529297,
+        516.1948852539062
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        501.75189208984375,
+        166.51132202148438,
+        516.1948852539062
+      ],
+      "text": "current TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        514.951904296875,
+        78.23619842529297,
+        529.3948974609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        514.951904296875,
+        185.08590698242188,
+        529.3948974609375
+      ],
+      "text": "known to be pregnant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        528.1519165039062,
+        78.23619842529297,
+        542.5949096679688
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        528.1519165039062,
+        223.07225036621094,
+        542.5949096679688
+      ],
+      "text": "unable to take oral medication",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        541.3519287109375,
+        78.23619842529297,
+        555.794921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        541.3519287109375,
+        175.8382110595703,
+        555.794921875
+      ],
+      "text": "body weight < 3 kg",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        554.5518798828125,
+        78.23619842529297,
+        568.994873046875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        554.5518798828125,
+        292.3392333984375,
+        568.994873046875
+      ],
+      "text": "unwilling or unable to participate in follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        567.7518920898438,
+        78.23619842529297,
+        582.1948852539062
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        567.7518920898438,
+        191.35150146484375,
+        582.1948852539062
+      ],
+      "text": "currently breastfeeding",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        580.951904296875,
+        78.23619842529297,
+        595.3948974609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        580.951904296875,
+        450.1574401855469,
+        595.3948974609375
+      ],
+      "text": "known allergy to FQ antibiotics or history of severe tendinopathy related to FQs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        594.1517944335938,
+        78.23619842529297,
+        608.5947875976562
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        594.1517944335938,
+        455.15032958984375,
+        608.5947875976562
+      ],
+      "text": "currently taking another medication reported to increase the cardiac QTc interval",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        607.3519287109375,
+        78.23619842529297,
+        621.794921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        607.3519287109375,
+        291.37237548828125,
+        621.794921875
+      ],
+      "text": "documented previous treatment for MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        620.5518798828125,
+        78.23619842529297,
+        634.994873046875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        620.5518798828125,
+        513.2831420898438,
+        634.994873046875
+      ],
+      "text": "documented treatment with antibiotics that are active against MDR-TB in the previous months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        633.7518920898438,
+        78.23619842529297,
+        648.1948852539062
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        633.7518920898438,
+        285.5577697753906,
+        648.1948852539062
+      ],
+      "text": "prior severe blistering reaction to tuberculin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        646.951904296875,
+        78.23619842529297,
+        661.3948974609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        646.951904296875,
+        279.949951171875,
+        661.3948974609375
+      ],
+      "text": "end-stage liver failure (class Child-Pugh C)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        660.1517944335938,
+        78.23619842529297,
+        674.5947875976562
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        660.1517944335938,
+        277.9610900878906,
+        674.5947875976562
+      ],
+      "text": "dialysis-dependent chronic kidney disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        673.3519287109375,
+        78.23619842529297,
+        687.794921875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        673.3519287109375,
+        527.4313354492188,
+        687.794921875
+      ],
+      "text": "a baseline liver function test, aspartate or alanine aminotransferase over three times the upper",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        686.5518798828125,
+        149.26332092285156,
+        700.994873046875
+      ],
+      "text": "limit of normal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        699.7518920898438,
+        78.23619842529297,
+        714.1948852539062
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        699.7518920898438,
+        513.164306640625,
+        714.1948852539062
+      ],
+      "text": "kidney tests show end-stage kidney disease (estimated glomerular filtration rate < 20 mL/min)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        712.951904296875,
+        78.23619842529297,
+        727.3948974609375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        712.951904296875,
+        229.3339080810547,
+        727.3948974609375
+      ],
+      "text": "platelet count < 50 × 10  cells/L 9",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        726.1517944335938,
+        78.23619842529297,
+        740.5947875976562
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        726.1517944335938,
+        388.5948181152344,
+        740.5947875976562
+      ],
+      "text": "baseline electrocardiogram shows a QT segment > 450 ms (adults)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "222 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

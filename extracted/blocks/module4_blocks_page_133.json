@@ -1,0 +1,594 @@
+{
+  "file": "module4",
+  "page": 133,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3980102539062,
+        81.83369445800781
+      ],
+      "text": "minimum duration for longer regimens recommended by WHO in the past – were also excluded",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        79.31470489501953,
+        527.3989868164062,
+        95.03370666503906
+      ],
+      "text": "n= ( 346). In cases where DST results were available, a medicine was considered effective if results",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.5524291992188,
+        108.23371887207031
+      ],
+      "text": "showed susceptibility, and was considered not effective if results showed resistance. Where DST results",
+      "font": "SegoeUI-Light",
+      "size": 10.970108985900879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.5772094726562,
+        121.43373107910156
+      ],
+      "text": "were missing, two situations existed. First, if the prevalence of resistance to that medicine was less than",
+      "font": "SegoeUI-Light",
+      "size": 10.971914291381836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4466552734375,
+        134.6337432861328
+      ],
+      "text": "10% in the same population (i.e. from the same country or study site if within one country, or overall",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.443359375,
+        147.8336944580078
+      ],
+      "text": "at all sites if local data were not available), then the medicine was counted as effective. This situation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.430908203125,
+        161.03370666503906
+      ],
+      "text": "applied to the following agents: cycloserine or terizidone, linezolid, clofazimine, bedaquiline, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.3297729492188,
+        174.2337188720703
+      ],
+      "text": "carbapenems and delamanid. Second, if the prevalence of resistance to that medicine was more than",
+      "font": "SegoeUI-Light",
+      "size": 10.98739242553711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        527.6176147460938,
+        187.43373107910156
+      ],
+      "text": "or equal to 10% in the same population (from the same country or study site if within one country, or",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.1907501220703,
+        527.4542236328125,
+        200.6337432861328
+      ],
+      "text": "overall, at all sites if local data were not available), then imputed DST results were used to determine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3907012939453,
+        527.41357421875,
+        213.8336944580078
+      ],
+      "text": "effectiveness if DST was missing. If the imputed DST result showed susceptibility, then the medicine",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.59071350097656,
+        527.4157104492188,
+        227.03370666503906
+      ],
+      "text": "was counted as effective; if the imputed DST result showed resistance, then the medicine was not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.7906036376953,
+        524.3935546875,
+        240.2335968017578
+      ],
+      "text": "counted as effective. This situation applied to the following agents: pyrazinamide, ethambutol, second-",
+      "font": "SegoeUI-Light",
+      "size": 10.953351020812988,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.99061584472656,
+        527.4243774414062,
+        253.43360900878906
+      ],
+      "text": "line injectable agents, fluoroquinolones, p-aminosalicylic acid, ethionamide and prothionamide. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.1906280517578,
+        527.4476318359375,
+        266.6336364746094
+      ],
+      "text": "following agents were not included when counting the number of medicines likely to be effective",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.390625,
+        527.5555419921875,
+        279.8336486816406
+      ],
+      "text": "(regardless of any DST result that may have been available): isoniazid (including high-dose isoniazid),",
+      "font": "SegoeUI-Light",
+      "size": 10.992247581481934,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.590576171875,
+        458.8779602050781,
+        293.0335998535156
+      ],
+      "text": "rifampicin, rifabutin, thioacetazone, amoxicillin–clavulanate and macrolide antibiotics.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.29449462890625,
+        527.60400390625,
+        314.7375183105469
+      ],
+      "text": "Subsets of the main 2018 IPD meta-analysis with 13 104 patients overall from 53 studies in 40",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.49462890625,
+        527.41015625,
+        327.9376525878906
+      ],
+      "text": "countries were analysed for the risk of treatment failure and relapse versus success associated with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.58453369140625,
+        527.4069213867188,
+        341.1375427246094
+      ],
+      "text": "Annex 5 different durations in these three recommendations on the duration of treatment (see   for the",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.967351913452148,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.89459228515625,
+        527.4320068359375,
+        354.3376159667969
+      ],
+      "text": "GRADE tables, and Annex 6 for the analysis plan). Patients were followed up for relapse but numbers",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.0946044921875,
+        527.4387817382812,
+        367.5376281738281
+      ],
+      "text": "of patients reported with relapse were relatively small. The three IPD subsets for PICO questions 5, 6",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.29449462890625,
+        221.5342559814453,
+        380.7375183105469
+      ],
+      "text": "and 7–2018 are discussed below.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.1058349609375,
+        497.9521484375,
+        405.4608154296875
+      ],
+      "text": "PICO question 5–2018 (MDR/RR-TB, 2018) (different durations of the intensive phase)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.9197998046875,
+        527.4190063476562,
+        427.3628234863281
+      ],
+      "text": "The primary analysis used a subset of records from 3750 patients from 42 observational studies; of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.1197204589844,
+        527.425537109375,
+        440.562744140625
+      ],
+      "text": "these patients, 2720 were treated with an individualized MDR-TB regimen and 1030 were treated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.3197937011719,
+        527.5507202148438,
+        453.7628173828125
+      ],
+      "text": "with standardized MDR-TB regimens. Of the 13 104 records in the main IPD, 9354 records were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.24371337890625,
+        527.4212036132812,
+        466.9627380371094
+      ],
+      "text": "n= n= excluded for the following reasons: lost to follow-up ( 2261), died ( 2043), did not receive an",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.4438171386719,
+        527.41455078125,
+        480.162841796875
+      ],
+      "text": "n n injectable ( =1094), no information on duration of injectable ( =2341), number of medicines likely",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.643798828125,
+        527.4186401367188,
+        493.3628234863281
+      ],
+      "text": "n to be effective less than five or less than four plus pyrazinamide ( =1450) and duration of injectable",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.8437194824219,
+        217.6287841796875,
+        506.562744140625
+      ],
+      "text": "n longer than 20 months ( =165).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.9310302734375,
+        398.1402587890625,
+        531.2860107421875
+      ],
+      "text": "PICO question 6–2018 (MDR/RR-TB, 2018) (on regimen duration)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.7449951171875,
+        527.2222290039062,
+        553.18798828125
+      ],
+      "text": "The evidence to inform PICO question 6–2018 (MDR/RR-TB, 2018) was derived from a subset of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.9449462890625,
+        527.1864624023438,
+        566.387939453125
+      ],
+      "text": "6356 patients from 51 observational studies for the primary analysis. Of the 6356 patients, 5352 were",
+      "font": "SegoeUI-Light",
+      "size": 10.988043785095215,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.14501953125,
+        527.4002075195312,
+        579.5880126953125
+      ],
+      "text": "treated with an individualized MDR-TB regimen and 1004 were treated with a standardized MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.344970703125,
+        527.5015869140625,
+        592.7879638671875
+      ],
+      "text": "regimen. Of the 13 104 records in the main IPD, 6748 records were excluded for the following reasons:",
+      "font": "SegoeUI-Light",
+      "size": 10.969758987426758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.26904296875,
+        527.4088745117188,
+        605.988037109375
+      ],
+      "text": "n n n lost to follow-up ( =2261), died ( =2043), treatment duration not available ( =230), number of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.4688720703125,
+        527.4177856445312,
+        619.1878662109375
+      ],
+      "text": "n effective drugs less than five or less than four plus pyrazinamide ( =2072), treatment duration less",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.6688842773438,
+        473.2782897949219,
+        632.3878784179688
+      ],
+      "text": "n n than 6 months ( =52) and treatment duration more than or equal to 36 months ( =90).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.7562255859375,
+        527.4199829101562,
+        657.1112060546875
+      ],
+      "text": "PICO question 7–2018 (MDR/RR-TB, 2018) (on treatment duration after culture conversion)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.570068359375,
+        527.3067016601562,
+        679.0130615234375
+      ],
+      "text": "The analysis to address PICO question 7–2018 (MDR/RR-TB, 2018) was derived from a subset of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        677.7701416015625,
+        527.5982055664062,
+        692.213134765625
+      ],
+      "text": "4175 patients from 39 observational studies. All but three of the 4175 patients were on individualized",
+      "font": "SegoeUI-Light",
+      "size": 10.990796089172363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        690.9700927734375,
+        527.385986328125,
+        705.4130859375
+      ],
+      "text": "regimens. The reasons for exclusion of 8929 records from the main dataset were as follows: lost to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.8942260742188,
+        527.4180297851562,
+        718.6132202148438
+      ],
+      "text": "n= n= n= follow-up ( 2261), died ( 2043), treatment duration not reported ( 230), culture information",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        716.09423828125,
+        527.41455078125,
+        731.813232421875
+      ],
+      "text": "n= n= n= not reported ( 1945), baseline culture negative ( 754), patient never culture converted ( 426),",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.2941284179688,
+        527.447265625,
+        745.0131225585938
+      ],
+      "text": "n= number of effective drugs less than five or less than four plus pyrazinamide ( 1215), treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.4940795898438,
+        527.4181518554688,
+        758.2130737304688
+      ],
+      "text": "n= n= duration less than 6 months ( 4), treatment duration more than or equal to 36 months ( 49) and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.694091796875,
+        253.01019287109375,
+        771.4130859375
+      ],
+      "text": "n= culture converted post-treatment ( 2).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  119",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

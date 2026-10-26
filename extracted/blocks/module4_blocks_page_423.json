@@ -1,0 +1,282 @@
+{
+  "file": "module4",
+  "page": 423,
+  "blocks": [
+    {
+      "bbox": [
+        97.529296875,
+        131.0435791015625,
+        109.27429962158203,
+        261.7659912109375
+      ],
+      "text": "ADDITIONAL CONSIDERATIONS",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.1613998413086,
+        287.11700439453125,
+        123.60140228271484,
+        424.4523010253906
+      ],
+      "text": "Anticipated absolute effects* (95% CI)",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        124.65489959716797,
+        391.4085388183594,
+        135.0948944091797,
+        426.2086181640625
+      ],
+      "text": "Risk with",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        123.40819549560547,
+        444.70208740234375,
+        427.1351013183594,
+        475.4117126464844
+      ],
+      "text": "Relative  (1.07 to  (0.12 to  (0.22 to  (0.24 to  (0.49 to  (0.23 to  (0.48 to  RR 1.25 RR 0.30 RR 0.98 RR 0.42 RR 0.72 RR 1.19 RR 0.78 effect\n (95%  1.46) 0.74) 4.33) 0.73) 1.07) 6.16) 1.27) CI) - -",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.90819549560547,
+        481.6086120605469,
+        147.3481903076172,
+        529.9532470703125
+      ],
+      "text": "the evidence\n Certainty of",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        145.90818786621094,
+        489.7271423339844,
+        385.60040283203125,
+        524.0350341796875
+      ],
+      "text": "b,c c,g c,g c,g c,e c,f (GRADE) c Very low Very low Very low Very low Very low Very low Very low",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.1376037597656,
+        505.2887268066406,
+        427.1351013183594,
+        508.47271728515625
+      ],
+      "text": "- -",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.30770111083984,
+        537.8572387695312,
+        383.65460205078125,
+        768.189208984375
+      ],
+      "text": "(8 observational  (8 observational  (8 observational  (8 observational  (4 observational  (4 observational  (1 observational  How substantial are the undesirable anticipated effects? participants",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        123.40819549560547,
+        548.687255859375,
+        392.65460205078125,
+        585.1832275390625
+      ],
+      "text": "Follow-up (studies)\n d studies) studies) studies) studies) studies) № of  studies) study) 327\n 327\n 327\n 327\n 232\n 232",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        364.1506042480469,
+        562.6767578125,
+        427.1351013183594,
+        568.9899291992188
+      ],
+      "text": "7\n - -",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.22850036621094,
+        602.4500122070312,
+        351.6675109863281,
+        694.4884033203125
+      ],
+      "text": "a Hepatic adverse events (as  a subset of adverse events) MDR-TB treatment success",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        609.2492065429688,
+        427.1351013183594,
+        697.322998046875
+      ],
+      "text": "MDR-TB treatment failure RESEARCH EVIDENCE Drug-drug interactions -  resistance - not reported",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        364.1506042480469,
+        617.6588134765625,
+        374.65460205078125,
+        694.4884033203125
+      ],
+      "text": "HCV treatment success",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        396.1376037597656,
+        622.047607421875,
+        406.6416015625,
+        694.4884033203125
+      ],
+      "text": "Amplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        268.18951416015625,
+        637.056396484375,
+        278.6935119628906,
+        694.4884033203125
+      ],
+      "text": "Loss to follow-up",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        300.176513671875,
+        643.7940673828125,
+        310.6805114746094,
+        694.4884033203125
+      ],
+      "text": "Adverse events",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        425.631103515625,
+        651.775634765625,
+        436.1351013183594,
+        694.4884033203125
+      ],
+      "text": "not reported",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.90818786621094,
+        657.6332397460938,
+        147.3481903076172,
+        694.4884033203125
+      ],
+      "text": "Outcomes",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.18910217285156,
+        668.8118896484375,
+        84.72010040283203,
+        768.189208984375
+      ],
+      "text": "Undesirable Effects",
+      "font": "SegoeUI-BoldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        236.20249938964844,
+        674.4483642578125,
+        246.7064971923828,
+        694.4884033203125
+      ],
+      "text": "Death",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        715.0238647460938,
+        171.65780639648438,
+        768.189208984375
+      ],
+      "text": "○ Don’t know JUDGEMENT ○ Moderate",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        109.84080505371094,
+        733.7485961914062,
+        161.65780639648438,
+        768.189208984375
+      ],
+      "text": "○ Varies\n ○ Large\n ○ Trivial\n ● Small",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        301.9407043457031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 5. GRADE evidence profiles and evidence-to-decision tables 409",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

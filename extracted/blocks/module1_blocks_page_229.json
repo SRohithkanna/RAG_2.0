@@ -1,0 +1,354 @@
+{
+  "file": "module1",
+  "page": 229,
+  "blocks": [
+    {
+      "bbox": [
+        60.692901611328125,
+        73.19952392578125,
+        182.0929718017578,
+        84.81852722167969
+      ],
+      "text": "Implementation considerations",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        88.40838623046875,
+        775.7621459960938,
+        99.92839050292969
+      ],
+      "text": "The strong recommendation reflects the GDG opinion that the benefits of levofloxacin outweigh the potential harm in most people who are eligible. Health programmes and clinicians should",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        99.40838623046875,
+        763.5646362304688,
+        110.92839050292969
+      ],
+      "text": "strive to ensure eligibility for its use and maximise the likelihood that treatment is completed as expected. TPT with levofloxacin should also consider factors such as age, risk of toxicity or",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        110.40835571289062,
+        559.2722778320312,
+        121.92835998535156
+      ],
+      "text": "interaction, co-morbidity, drug susceptibility of the strain of the most likely source case, availability and the individual’s preferences.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        124.24298095703125,
+        753.5570678710938,
+        135.7629852294922
+      ],
+      "text": "People receiving TPT should also be supported through access to advice on treatment and management of adverse events at their encounters with the health services. Contacts should",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        135.24295043945312,
+        757.93505859375,
+        146.76295471191406
+      ],
+      "text": "be followed up regardless of whether TPT was completed or not. Individuals receiving treatment, clinicians providing treatment and programme managers would prefer shorter to longer",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        146.242919921875,
+        750.7826538085938,
+        157.76292419433594
+      ],
+      "text": "regimens. The GDG noted that the 6-month duration of levofloxacin appear long to the patient and caregivers, in comparison to shorter TPT regimens of 4 or 12 week duration that are",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        157.24298095703125,
+        755.7108764648438,
+        168.7629852294922
+      ],
+      "text": "however only available for prevention of drug-susceptible TB (duration of treatment with delamanid is also for 6 months in the only other ongoing major trial investigating MDR-TB TPT).",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        171.0775146484375,
+        770.4156494140625,
+        182.59751892089844
+      ],
+      "text": "Obtaining a positive test for TB infection before starting TPT for MDR-TB is not required in child contacts and people with immunocompromising conditions. In other populations this would",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        182.07757568359375,
+        768.27392578125,
+        193.5975799560547
+      ],
+      "text": "be desirable but not mandatory. The unavailability of testing should not be a barrier to provide TPT to individuals who are at risk. Screening of all the household and other close contacts for",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        193.07754516601562,
+        221.90089416503906,
+        204.59754943847656
+      ],
+      "text": "co-prevalent TB disease will be important.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        206.91226196289062,
+        781.8540649414062,
+        218.43226623535156
+      ],
+      "text": "Levofloxacin is the preferred choice of fluoroquinolone to give as TPT, given that both trials used this agent. While there are no comparable data to support the use of alternatives, moxifloxacin",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        217.9122314453125,
+        737.8199462890625,
+        229.43223571777344
+      ],
+      "text": "can be used if levofloxacin is not available. Drug-susceptibility testing of the source case strain would be an important additional piece of information, especially in situations where",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        228.91220092773438,
+        752.9555053710938,
+        240.4322052001953
+      ],
+      "text": "fluoroquinolone resistance is known to be high. If the strain of the presumed source shows resistance to these medicines, other second line drugs can be used as TPT based on the best",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        239.91217041015625,
+        778.8661499023438,
+        251.4321746826172
+      ],
+      "text": "available information on the drug susceptibility profile of the presumed source. In this case, the certainty of the effectiveness of TPT is much lower than for the use of levofloxacin. Contacts of",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        250.9122314453125,
+        779.2280883789062,
+        262.4322204589844
+      ],
+      "text": "people with rifampicin-resistant TB (RR-TB) are usually treated as for MDR-TB unless isoniazid-susceptibility in the index case is reliably confirmed, in which case isoniazid may be considered",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        261.9122009277344,
+        95.52021789550781,
+        273.43218994140625
+      ],
+      "text": "effective.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        275.746826171875,
+        750.481201171875,
+        287.2668151855469
+      ],
+      "text": "The GDG considered that levofloxacin could be used in any setting, regardless of TB burden, provided that the health infrastructure can ensure the treatment is given correctly without",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        286.7467956542969,
+        747.8154907226562,
+        298.26678466796875
+      ],
+      "text": "creating inequities, and that TB disease can be excluded reliably before the initiation of treatment. As for other TPT, the GDG noted that treatment can be self-administered and that a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        297.74676513671875,
+        769.6746215820312,
+        309.2667541503906
+      ],
+      "text": "requirement for a direct observation could be a significant barrier to implementation. Digital adherence technologies (e.g., electronic medication monitors) may be used to support patients",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        308.7467346191406,
+        222.46337890625,
+        320.2667236328125
+      ],
+      "text": "but studies of their use for TPT are sparse.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        322.5814514160156,
+        779.9407348632812,
+        334.1014404296875
+      ],
+      "text": "The model by which care is delivered is important to enhance uptake of the recommendation. If the health system covers the cost of treatment and care then equity could increase. Caregivers",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        333.5814514160156,
+        778.3284301757812,
+        345.1014404296875
+      ],
+      "text": "should understand why the recommendation is strong in the presence of moderate certainty in the evidence: that high quality evidence from RCTs in different settings showed similar efficacy",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        344.5815124511719,
+        760.620361328125,
+        356.10150146484375
+      ],
+      "text": "for a regimen that safely lowers the risk for a life-threatening, infectious condition that is difficult to treat. Engaging stakeholders in the community is important as for other TPT efforts to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        355.5815124511719,
+        224.44973754882812,
+        367.10150146484375
+      ],
+      "text": "address the constraints in implementation.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        369.4161071777344,
+        768.1559448242188,
+        380.93609619140625
+      ],
+      "text": "The dosing schedule for LFX in children, adolescents and adults in the guideline have been updated in the operational handbook that accompanies following a discussion with the Technical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        380.4161071777344,
+        276.6884765625,
+        391.93609619140625
+      ],
+      "text": "Advisory Group for dosing of TB medicines in early 2024.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.5826416015625,
+        40.87300109863281,
+        575.942626953125
+      ],
+      "text": "211",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

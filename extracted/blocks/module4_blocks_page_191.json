@@ -1,0 +1,474 @@
+{
+  "file": "module4",
+  "page": 191,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        242.21009826660156,
+        147.5496368408203
+      ],
+      "text": "Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        527.433349609375,
+        195.36158752441406
+      ],
+      "text": "WHO aims to use the best available evidence on interventions to ensure adequate patient care and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        527.4025268554688,
+        208.5615997314453
+      ],
+      "text": "support and in order to inform policy decisions made by national TB control programme managers,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.31861877441406,
+        527.41796875,
+        221.76161193847656
+      ],
+      "text": "national policy-makers and medical practitioners in a variety of geographical, economic and social",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.5186309814453,
+        111.24708557128906,
+        234.9616241455078
+      ],
+      "text": "settings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        240.94654846191406,
+        527.4158935546875,
+        256.6655578613281
+      ],
+      "text": "WHO consolidated guidelines. Module 4: Treatment and care This chapter of the   aims to provide a",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.42250061035156,
+        515.031982421875,
+        269.8655090332031
+      ],
+      "text": "summary of existing WHO recommendations on care and support during tuberculosis treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.12652587890625,
+        527.4409790039062,
+        291.5695495605469
+      ],
+      "text": "The recommendations included in this chapter were developed by three Guidelines Development",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.05047607421875,
+        524.4161987304688,
+        304.7695007324219
+      ],
+      "text": "(1–3) Groups (GDGs) convened by the WHO Global Tuberculosis Programme in 2011, 2016 and 2021",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.991395950317383,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.41650390625,
+        527.4202270507812,
+        317.9695129394531
+      ],
+      "text": "Annex 7 in order to review the evidence available on key aspects of TB care and support (see  ). The",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.72650146484375,
+        446.7604675292969,
+        331.1695251464844
+      ],
+      "text": "GDGs were composed of a multidisciplinary group of TB experts external to WHO.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.430419921875,
+        527.132080078125,
+        352.8734436035156
+      ],
+      "text": "The recommendations were formulated by the GDGs using the GRADE approach. The recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.6304016113281,
+        527.4024658203125,
+        366.07342529296875
+      ],
+      "text": "were then reviewed by external review groups which were composed of experts and end-users from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.8304138183594,
+        148.64930725097656,
+        379.2734375
+      ],
+      "text": "all WHO regions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.5343933105469,
+        527.390380859375,
+        400.9774169921875
+      ],
+      "text": "The Global TB Programme (GTB) of the World Health Organization (WHO) has been combining all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.73431396484375,
+        527.573974609375,
+        414.1773376464844
+      ],
+      "text": "current recommendations into one overall set of consolidated guidelines on TB. The guidelines contain",
+      "font": "SegoeUI-Light",
+      "size": 10.957317352294922,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.9344177246094,
+        527.5311889648438,
+        427.37744140625
+      ],
+      "text": "recommendations regarding all areas related to the programmatic management of TB (e.g. screening,",
+      "font": "SegoeUI-Light",
+      "size": 10.970610618591309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.1343994140625,
+        527.407958984375,
+        440.5774230957031
+      ],
+      "text": "preventive treatment, diagnostics, the treatment of drug-susceptible and drug-resistant TB, patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.3343200683594,
+        527.6163940429688,
+        453.77734375
+      ],
+      "text": "care and support). The consolidated guidelines contain modules specific to each programmatic area.",
+      "font": "SegoeUI-Light",
+      "size": 10.991395950317383,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.7622985839844,
+        527.4207153320312,
+        475.4813232421875
+      ],
+      "text": "(4) The consolidated WHO evidence-based guidelines for the treatment of drug-resistant TB  , for the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.9623107910156,
+        527.4343872070312,
+        488.68133544921875
+      ],
+      "text": "(5) treatment of drug-susceptible TB (DS-TB)  , and for the management of tuberculosis in children",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.16229248046875,
+        527.40966796875,
+        501.8813171386719
+      ],
+      "text": "(3) and adolescents   were published in 2020 and 2022. The recommendations on tuberculosis care",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.6383056640625,
+        527.4089965820312,
+        515.081298828125
+      ],
+      "text": "and support contained in these guidelines were developed using the Grading of Recommendations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.8383178710938,
+        527.5430297851562,
+        528.2813110351562
+      ],
+      "text": "Assessment, Development and Evaluation (GRADE) method for assessment of the quality of evidence.",
+      "font": "SegoeUI-Light",
+      "size": 10.976675033569336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.542236328125,
+        527.4388427734375,
+        549.9852294921875
+      ],
+      "text": "People-centred care is an important element of the End TB Strategy which recommends treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.7421875,
+        527.4879760742188,
+        563.1851806640625
+      ],
+      "text": "and patient support for all people with TB. Several interventions to support patients in their adherence",
+      "font": "SegoeUI-Light",
+      "size": 10.9653959274292,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.9421997070312,
+        527.4002075195312,
+        576.3851928710938
+      ],
+      "text": "to TB treatment have been implemented by national TB programmes for many years (e.g. treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        575.1422119140625,
+        527.426513671875,
+        589.585205078125
+      ],
+      "text": "support with observation of medicine intake and social support), while others have been introduced",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.3422241210938,
+        527.4354248046875,
+        602.7852172851562
+      ],
+      "text": "recently (e.g. digital health interventions such as SMS messages, telephone calls or other reminders,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        601.542236328125,
+        527.40771484375,
+        615.9852294921875
+      ],
+      "text": "and video-supported treatment, or VST). These interventions and models of care have been assessed",
+      "font": "SegoeUI-Light",
+      "size": 10.980082511901855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.7421875,
+        527.5505981445312,
+        629.1851806640625
+      ],
+      "text": "using the GRADE method and WHO has issued guidelines with evidence-based recommendations for",
+      "font": "SegoeUI-Light",
+      "size": 10.971964836120605,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.9423217773438,
+        527.3231811523438,
+        642.3853149414062
+      ],
+      "text": "a variety of interventions for TB care and support. This chapter presents all WHO’s recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.993998527526855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        641.1422119140625,
+        527.4508666992188,
+        655.585205078125
+      ],
+      "text": "on TB care and support that are either newly developed or are existing recommendations that have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.3422241210938,
+        471.0682373046875,
+        668.7852172851562
+      ],
+      "text": "been published previously in other WHO guidelines that applied the GRADE approach.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.7734375,
+        275.3441162109375,
+        707.5684204101562
+      ],
+      "text": "Structure of the chapter",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.0194091796875,
+        527.263916015625,
+        727.46240234375
+      ],
+      "text": "The Recommendations part of this chapter has three main sections on elements of TB care and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.2194213867188,
+        233.3944091796875,
+        740.6624145507812
+      ],
+      "text": "support. The elements covered are:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        747.92333984375,
+        332.79095458984375,
+        762.3663330078125
+      ],
+      "text": "1.\t Care and support interventions for all people with TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        543.7396240234375,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "177",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

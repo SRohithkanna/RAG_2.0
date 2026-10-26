@@ -1,0 +1,462 @@
+{
+  "file": "module1",
+  "page": 238,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        105.54802703857422,
+        376.76702880859375,
+        147.1480255126953
+      ],
+      "text": "Annex 5. Summary of",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        143.947998046875,
+        485.4101867675781,
+        185.54798889160156
+      ],
+      "text": "unpublished studies (PICO 10)",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        207.6632080078125,
+        524.0503540039062,
+        232.4582061767578
+      ],
+      "text": "A5.1 Summary of TB CHAMP and V-QUIN clinical trials",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        237.64512634277344,
+        527.3937377929688,
+        252.3521270751953
+      ],
+      "text": "Tuberculosis Child Multidrug-Resistant Preventive Therapy Trial (TB CHAMP) : Efficacy",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        251.10914611816406,
+        527.398193359375,
+        265.5521545410156
+      ],
+      "text": "and safety of levofloxacin preventive treatment in child and adolescent HHCs of multidrug-resistant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        264.30914306640625,
+        301.01708984375,
+        278.7521667480469
+      ],
+      "text": "tuberculosis (MDR-TB). Author: Anneke Hesseling 7",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        285.7491455078125,
+        527.2377319335938,
+        300.4561462402344
+      ],
+      "text": "V-QUIN MDR-TB prevention study : Levofloxacin versus placebo for the treatment of tuberculosis",
+      "font": "SegoeUI-Bold",
+      "size": 10.98924446105957,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        299.213134765625,
+        389.25341796875,
+        313.6561584472656
+      ],
+      "text": "infection among contacts of patients with MDR-TB. Author: Greg Fox 8",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        324.07958984375,
+        129.24105834960938,
+        342.349609375
+      ],
+      "text": "Methods",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        348.7916259765625,
+        527.4042358398438,
+        363.4986267089844
+      ],
+      "text": "TB CHAMP:  A phase III cluster double-blind group randomized placebo-controlled trial to assess",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        362.255615234375,
+        527.3878173828125,
+        376.6986389160156
+      ],
+      "text": "the efficacy and safety of a 6-month regimen of daily levofloxacin (6Lfx) as TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        375.45562744140625,
+        527.4411010742188,
+        389.8986511230469
+      ],
+      "text": "(TPT) in child contacts of patients with MDR-TB. The trial protocol was registered at ISRCTN registry",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.07569885253906,
+        388.6556091308594,
+        349.31201171875,
+        403.0986328125
+      ],
+      "text": "https://doi.org/10.1186/ISRCTN92634082",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        388.6556091308594,
+        352.4486999511719,
+        403.0986633300781
+      ],
+      "text": ") (ISRCTN92634082;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        410.09552001953125,
+        527.4004516601562,
+        424.8025207519531
+      ],
+      "text": "V-QUIN:  Double-blind parallel group randomized controlled trial to compare a 6-month regimen",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        423.55950927734375,
+        527.3695068359375,
+        438.0025329589844
+      ],
+      "text": "of daily levofloxacin (6Lfx) with placebo for the treatment of TBI. The objective was to determine the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        436.759521484375,
+        527.3981323242188,
+        451.2025451660156
+      ],
+      "text": "efficacy of levofloxacin (Lfx) in preventing the development of bacteriologically confirmed TB. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        449.9595031738281,
+        527.6583251953125,
+        464.40252685546875
+      ],
+      "text": "trial was registered prospectively with the Australian and New Zealand Clinical Trials Registry (ACTRN",
+      "font": "SegoeUI-Light",
+      "size": 10.998099327087402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        463.1595153808594,
+        155.6322021484375,
+        477.6025390625
+      ],
+      "text": "12616000215426;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.654296875,
+        463.1595153808594,
+        457.9013977050781,
+        477.6025390625
+      ],
+      "text": "https://anzctr.org.au/Trial/Registration/TrialReview.aspx?id=369817",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        457.9179992675781,
+        463.1595153808594,
+        461.0199890136719,
+        477.6025390625
+      ],
+      "text": ")",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        488.0260925292969,
+        138.7428436279297,
+        506.2961120605469
+      ],
+      "text": "Objectives",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        516.1647338867188,
+        141.88446044921875,
+        534.4346923828125
+      ],
+      "text": "TB CHAMP",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        540.8766479492188,
+        527.4071655273438,
+        555.5836181640625
+      ],
+      "text": "Primary objective:  To assess whether Lfx given daily for 24 weeks (15–20 mg/kg) is effective in",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        554.340576171875,
+        335.91680908203125,
+        568.7835693359375
+      ],
+      "text": "preventing TB in child HHCs (HHC) of adults with MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        575.780517578125,
+        180.09840393066406,
+        590.2894897460938
+      ],
+      "text": "Secondary objectives",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        597.74853515625,
+        367.32672119140625,
+        612.1915283203125
+      ],
+      "text": "1.\t Does Lfx have acceptable toxicity and tolerability in children?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        615.200439453125,
+        266.6733703613281,
+        629.6434326171875
+      ],
+      "text": "2.\t Is adherence similar in the study arms?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        632.6524047851562,
+        405.8113098144531,
+        647.0953979492188
+      ],
+      "text": "3.\t Is Lfx cost-effective and acceptable to prevent MDR-TB in child HHC?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        650.1043701171875,
+        524.4055786132812,
+        664.54736328125
+      ],
+      "text": "4.\t Are there differences in Lfx resistance between study arms for children who develop incident TB?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        678.4661254882812,
+        122.26277160644531,
+        696.736083984375
+      ],
+      "text": "V-QUIN",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        703.1780395507812,
+        527.3931884765625,
+        717.885009765625
+      ],
+      "text": "Primary objective:  To evaluate the effectiveness of Lfx given for 6 months rather than placebo in",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        716.6420288085938,
+        480.9690246582031,
+        731.0850219726562
+      ],
+      "text": "prevention of TB disease among HHC of patients with MDR/RR-TB who have TB infection.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        750.2369384765625,
+        242.78219604492188,
+        760.7409057617188
+      ],
+      "text": "Stellenbosch University, Cape Town, South Africa 7",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        762.6716918945312,
+        208.35255432128906,
+        773.1756591796875
+      ],
+      "text": "University of Sydney, Sydney, Australia 8",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "220 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

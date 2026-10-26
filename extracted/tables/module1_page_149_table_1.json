@@ -1,0 +1,40 @@
+{
+  "file": "module1",
+  "page": 149,
+  "table_id": 1,
+  "bbox": [
+    56.69295120239258,
+    153.0201685288373,
+    784.197021484375,
+    207.42010207403274
+  ],
+  "heading": "Index test: any abnormality in CXR| Reference test: Sputum culture and/or smear Place of testing: Triage Test–treatment pathway: CXR positive ➞ confirmatory test (mycobacterial culture or GeneXpert) ➞ anti-TB chemotherapy (6–9 months of antibiotics)",
+  "n_rows": 2,
+  "n_cols": 10,
+  "data": [
+    [
+      "Outcome",
+      "No. of studies; no. of patients",
+      "Study design",
+      "Factors that may decrease quality of evidence",
+      "",
+      "",
+      "",
+      "",
+      "Effect per 100 000 Sensitivity: 0.94 (95% CI: 0.86 ; 0.98) Specificity: 0.87 (95% CI: 0.80 ; 0.92)",
+      "Quality of evidence"
+    ],
+    [
+      "",
+      "",
+      "",
+      "Risk of bias",
+      "Indirectness",
+      "Inconsistency",
+      "Imprecision",
+      "Publication bias",
+      "",
+      ""
+    ]
+  ]
+}

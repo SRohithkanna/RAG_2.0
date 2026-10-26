@@ -1,0 +1,36 @@
+{
+  "file": "module6",
+  "page": 29,
+  "table_id": 3,
+  "bbox": [
+    70.86599731445312,
+    630.2180960518973,
+    524.4097671508789,
+    713.1200648716518
+  ],
+  "heading": "WHO target product profile > 0.90 > 0.70",
+  "n_rows": 4,
+  "n_cols": 3,
+  "data": [
+    [
+      "Screening use case",
+      "",
+      ""
+    ],
+    [
+      "CAD software 0.90–0.92 0.23–0.66",
+      "",
+      ""
+    ],
+    [
+      "CXR with human reader 0.82–0.93 0.14–0.63",
+      "",
+      ""
+    ],
+    [
+      "Triage use case",
+      "",
+      ""
+    ]
+  ]
+}

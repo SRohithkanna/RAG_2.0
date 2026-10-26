@@ -1,0 +1,486 @@
+{
+  "file": "module4",
+  "page": 142,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        423.3331604003906,
+        82.6147232055664
+      ],
+      "text": "Table 3.3. Serious AEs in patients on longer MDR-TB regimens a",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        142.15943908691406,
+        381.9751892089844,
+        156.60243225097656
+      ],
+      "text": "Bedaquiline 2.4 [0.7, 7.6]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        163.7740020751953,
+        381.9751892089844,
+        178.2169952392578
+      ],
+      "text": "Moxifloxacin 2.9 [1.4, 5.6]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        185.3886260986328,
+        381.9751892089844,
+        199.8316192626953
+      ],
+      "text": "Amoxicillin–clavulanic acid 3.0 [1.5, 5.8]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        207.0032501220703,
+        381.9751892089844,
+        221.4462432861328
+      ],
+      "text": "Clofazimine 3.6 [1.3, 8.6]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        228.61781311035156,
+        381.9751892089844,
+        243.06080627441406
+      ],
+      "text": "Ethambutol 4.0 [2.4, 6.8]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        250.23243713378906,
+        381.9751892089844,
+        264.6754455566406
+      ],
+      "text": "Levofloxacin 4.1 [1.9, 8.8]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        271.84698486328125,
+        381.9751892089844,
+        286.2900085449219
+      ],
+      "text": "Streptomycin 4.5 [2.3, 8.8]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        293.46160888671875,
+        384.8069763183594,
+        307.9046325683594
+      ],
+      "text": "Cycloserine or terizidone 7.8 [5.8, 10.9]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        315.07623291015625,
+        384.8069763183594,
+        329.5192565917969
+      ],
+      "text": "Capreomycin 8.4 [5.7, 12.2]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        336.6907958984375,
+        384.8069763183594,
+        351.1338195800781
+      ],
+      "text": "Pyrazinamide 8.8 [5.6, 13.2]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        358.305419921875,
+        384.8069763183594,
+        372.7484436035156
+      ],
+      "text": "Ethionamide or prothionamide 9.5 [6.5, 14.5]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        379.9200134277344,
+        384.8069763183594,
+        394.363037109375
+      ],
+      "text": "Amikacin 10.3 [6.6, 17.0]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        401.53460693359375,
+        384.8069763183594,
+        415.9776306152344
+      ],
+      "text": "Kanamycin 10.8 [7.2, 16.1]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        421.8731994628906,
+        387.6387023925781,
+        437.59222412109375
+      ],
+      "text": "P -aminosalicylic acid 14.3 [10.1, 20.7]",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        444.7637939453125,
+        384.8069763183594,
+        459.2068176269531
+      ],
+      "text": "Thioacetazone 14.6 [4.9, 37.6]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        466.37841796875,
+        387.6387023925781,
+        480.8214416503906
+      ],
+      "text": "Linezolid 17.2 [10.1, 27.0]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.1522216796875,
+        453.4150085449219,
+        505.6562194824219
+      ],
+      "text": "GDG: Guideline Development Group; IPD: individual patient data; MDR-TB: multidrug-resistant TB; TB: tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.98681640625,
+        526.7357177734375,
+        519.4907836914062
+      ],
+      "text": "From an “arm-based network” meta-analysis of a patient subset from the 2016 IPD for which AEs resulting in permanent discontinuation of  a",
+      "font": "SegoeUI-Light",
+      "size": 7.983332633972168,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.98681640625,
+        526.5801391601562,
+        530.4907836914062
+      ],
+      "text": "a TB medicine (27 studies) or classified as Grade 3–5 (three studies) were reported. There are slight differences between the final estimates",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.0587768554688,
+        526.5732421875,
+        541.4907836914062
+      ],
+      "text": "(80) cited in the resultant publication   and the values derived at the time of the GDG and shown in this table, because an expanded dataset",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.98681640625,
+        526.614013671875,
+        552.4907836914062
+      ],
+      "text": "was used in the publication; however, the slight differences have no impact on the conclusions drawn on the use of these medicines. There",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.98681640625,
+        526.6215209960938,
+        563.4907836914062
+      ],
+      "text": "were insufficient records on delamanid, imipenem–cilastatin and meropenem to estimate risks. Agents that are not in Groups A, B or C",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.98681640625,
+        113.97970581054688,
+        574.4907836914062
+      ],
+      "text": "are italicized.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.0626831054688,
+        527.4375610351562,
+        605.5056762695312
+      ],
+      "text": "In 2018, the GDG recommended that, where possible, regimens be composed of all three Group A",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.2626953125,
+        527.4453735351562,
+        618.7056884765625
+      ],
+      "text": "agents and at least one Group B agent, so that treatment starts with at least four medicines likely to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.4625854492188,
+        527.4255981445312,
+        631.9055786132812
+      ],
+      "text": "be effective, and that at least three agents are continued for the remaining duration of treatment if",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.6627197265625,
+        527.3519287109375,
+        645.105712890625
+      ],
+      "text": "bedaquiline is stopped after 6 months. New evidence on the safety profile of bedaquiline use beyond",
+      "font": "SegoeUI-Light",
+      "size": 10.987192153930664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.8626708984375,
+        527.4190673828125,
+        658.3056640625
+      ],
+      "text": "6 months was available to the GDG 2019. This evidence supports the safety of using bedaquiline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.0626831054688,
+        527.401611328125,
+        671.5056762695312
+      ],
+      "text": "beyond 6 months in patients who receive appropriate schedules of baseline and follow-up monitoring.",
+      "font": "SegoeUI-Light",
+      "size": 10.959977149963379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.2626953125,
+        527.4519653320312,
+        684.7056884765625
+      ],
+      "text": "If only one or two Group A agents can be used, both Group B agents are included. If the regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.4625854492188,
+        527.556396484375,
+        697.9055786132812
+      ],
+      "text": "cannot be composed with agents from Groups A and B alone, Group C agents are added to complete",
+      "font": "SegoeUI-Light",
+      "size": 10.971863746643066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.552734375,
+        527.4212646484375,
+        711.105712890625
+      ],
+      "text": "For patients in whom two agents from Group A are more likely to be stopped before the  it.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        709.7527465820312,
+        527.3925170898438,
+        724.1077270507812
+      ],
+      "text": "end of treatment (e.g. pre-existing comorbidities require that both bedaquiline and linezolid",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.992096900939941,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        722.9526977539062,
+        527.5474853515625,
+        737.3076782226562
+      ],
+      "text": "be stopped early because of health risks), then starting with five effective agents rather",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.1527099609375,
+        527.4292602539062,
+        750.7056884765625
+      ],
+      "text": "than four may be advisable.  These provisions are expected to apply to most MDR/RR-TB patients,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.4625854492188,
+        443.15350341796875,
+        763.9055786132812
+      ],
+      "text": "including those with additional resistance to fluoroquinolones or other medicines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "128 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

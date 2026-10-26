@@ -1,0 +1,186 @@
+{
+  "file": "module1",
+  "page": 199,
+  "blocks": [
+    {
+      "bbox": [
+        60.692901611328125,
+        73.19952392578125,
+        182.0929718017578,
+        84.81852722167969
+      ],
+      "text": "Implementation considerations",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        88.40838623046875,
+        770.5656127929688,
+        99.92839050292969
+      ],
+      "text": "The GDG considered that the 1HP regimen could be an option to offer to people eligible for LTBI treatment regardless of TB burden setting. It should be considered not only as an alternative",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        99.40838623046875,
+        778.2011108398438,
+        110.92839050292969
+      ],
+      "text": "to 9H, which is how it was investigated in the trial, but on a broader judgement of the circumstances and other options available for people requiring LTBI treatment. Regimen choice is usually",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        110.40835571289062,
+        774.7244873046875,
+        121.92835998535156
+      ],
+      "text": "determined based on considerations of age, strain (drug susceptible or otherwise), risk of toxicity or interaction, co-morbidity, availability and preferences. Translation of trial learnings to the",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        121.4083251953125,
+        728.9622802734375,
+        132.92832946777344
+      ],
+      "text": "programmatic realities will be critical. More advice to help guideline users in implementing the recommended treatment is available in the respective WHO operational guidance.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        135.24295043945312,
+        764.0498046875,
+        146.76295471191406
+      ],
+      "text": "Use of HP in the presence of active TB is highly undesirable as it promotes chronicity and emergence of drug resistance. No effort should be spared to avoid such an eventuality. As for the",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        146.242919921875,
+        629.3611450195312,
+        157.76292419433594
+      ],
+      "text": "implementation of any TPT a robust algorithm to rule-out active disease is necessary. Rifapentine should not be used to treat other bacterial infections.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        160.07754516601562,
+        759.185791015625,
+        171.59754943847656
+      ],
+      "text": "There could be differences in long-term effectiveness for LTBI treatment of short duration in PLHIV with severe immunodeficiency or in settings with high TB transmission among PLHIV.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        171.0775146484375,
+        405.61163330078125,
+        182.59751892089844
+      ],
+      "text": "Observational studies to assess long-term effectiveness would be important in this respect.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        184.9122314453125,
+        756.1016845703125,
+        196.71128845214844
+      ],
+      "text": "The dosage recommended for 1HP should reflect the ones used in the trial: Isoniazid, 300 mg/day and Rifapentine, 600 mg/day in individuals aged  13 years, regardless of weight band. ≥",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        198.74688720703125,
+        709.082275390625,
+        210.2668914794922
+      ],
+      "text": "No data-supported recommendations exist on how to handle interruptions of 1HP, i.e. if missed doses are added at the end and after how many missed doses to start afresh.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        212.58160400390625,
+        779.4503173828125,
+        224.1016082763672
+      ],
+      "text": "If there are contraindications to rifapentine, then an isoniazid regimen of 6 or more months would be the most likely alternative to give. If there is a contraindication for isoniazid (e.g. exposure",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        223.58157348632812,
+        394.6297912597656,
+        235.10157775878906
+      ],
+      "text": "to confirmed isoniazid monoresistant strain), then probably 4R would be the best option.",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.5826416015625,
+        40.87300109863281,
+        575.942626953125
+      ],
+      "text": "181",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

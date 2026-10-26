@@ -1,0 +1,93 @@
+{
+  "file": "Latent",
+  "page": 24,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    87.61229529747597,
+    523.7423299153646,
+    245.61163330078125
+  ],
+  "heading": "Table 1. Pooled estimates of risk for active TB among household contacts stratified by age and baseline LTBI status as compared with the general population",
+  "n_rows": 7,
+  "n_cols": 9,
+  "data": [
+    [
+      "Age (years)",
+      "LTBI-positive at baseline",
+      "",
+      "",
+      "",
+      "Regardless of baseline LTBI status",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Follow-up < 12 months",
+      "",
+      "Follow-up < 24 months",
+      "",
+      "Follow-up < 12 months",
+      "",
+      "Follow-up < 24 months",
+      ""
+    ],
+    [
+      "",
+      "No. of studies",
+      "Risk ratio",
+      "No. of studies",
+      "Risk ratio",
+      "No. of studies",
+      "Risk ratio",
+      "No. of studies",
+      "Risk ratio"
+    ],
+    [
+      "General population",
+      "–",
+      "1.0 (reference)",
+      "–",
+      "1.0 (reference)",
+      "–",
+      "1.0 (reference)",
+      "–",
+      "1.0 (reference)"
+    ],
+    [
+      "0–4",
+      "2",
+      "24.3 (0.73–811.0)",
+      "3",
+      "22.9 (7.7–68.6)",
+      "3",
+      "25.9 (16.9–39.7)",
+      "5",
+      "14.8 (9.8–22.3)"
+    ],
+    [
+      "5–14",
+      "2",
+      "27.1 (17.5–54.1)",
+      "3",
+      "8.2 (2.3–29.4)",
+      "3",
+      "24.1 (16.9–34.4)",
+      "5",
+      "6.3 (2.9–13.7)"
+    ],
+    [
+      "≥ 15",
+      "1",
+      "30.7 (17.5–54.1)",
+      "2",
+      "13.4 (9.5–18.8)",
+      "1",
+      "24.7 (14.2–43.0)",
+      "3",
+      "11.7 (7.6–18.0)"
+    ]
+  ]
+}

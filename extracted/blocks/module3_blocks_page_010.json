@@ -1,0 +1,1086 @@
+{
+  "file": "module3",
+  "page": 10,
+  "blocks": [
+    {
+      "bbox": [
+        177.86610412597656,
+        69.23873901367188,
+        491.291259765625,
+        81.7862319946289
+      ],
+      "text": "multidrug-resistant tuberculosis or rifampicin-resistant tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        69.38573455810547,
+        132.17559814453125,
+        81.71273803710938
+      ],
+      "text": "MDR/RR-TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        85.99069213867188,
+        326.9976806640625,
+        98.5381851196289
+      ],
+      "text": "multidrug-resistant tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        86.13768768310547,
+        116.43609619140625,
+        98.46469116210938
+      ],
+      "text": "MDR-TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        102.74264526367188,
+        341.4876403808594,
+        115.2901382446289
+      ],
+      "text": "microbiological reference standard",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.88964080810547,
+        95.82459259033203,
+        115.21664428710938
+      ],
+      "text": "MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        119.673095703125,
+        308.0976257324219,
+        131.96859741210938
+      ],
+      "text": "Mycobacterium tuberculosis",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        119.694091796875,
+        91.42510223388672,
+        132.1260986328125
+      ],
+      "text": "Mtb",
+      "font": "FrutigerNeueLT-BdIt",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        308.0956115722656,
+        136.24649047851562,
+        350.3581237792969,
+        148.7939910888672
+      ],
+      "text": "complex",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        136.39349365234375,
+        99.91960144042969,
+        148.72048950195312
+      ],
+      "text": "MTBC",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        136.42498779296875,
+        308.0976257324219,
+        148.72048950195312
+      ],
+      "text": "Mycobacterium tuberculosis",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        152.99850463867188,
+        423.0201110839844,
+        165.54600524902344
+      ],
+      "text": "molecular WHO-recommended rapid diagnostic test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        153.1455078125,
+        108.43508911132812,
+        165.47250366210938
+      ],
+      "text": "mWRD",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        169.75051879882812,
+        316.3821105957031,
+        182.2980194091797
+      ],
+      "text": "nucleic acid amplification test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.89752197265625,
+        102.56559753417969,
+        182.22451782226562
+      ],
+      "text": "NAAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        186.50253295898438,
+        252.27960205078125,
+        199.05003356933594
+      ],
+      "text": "nucleic acid test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.6495361328125,
+        94.93209838867188,
+        198.97653198242188
+      ],
+      "text": "NAT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        203.25454711914062,
+        310.4706115722656,
+        215.8020477294922
+      ],
+      "text": "next-generation sequencing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.40155029296875,
+        94.72209167480469,
+        215.72854614257812
+      ],
+      "text": "NGS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        220.00643920898438,
+        334.10614013671875,
+        232.55393981933594
+      ],
+      "text": "national tuberculosis programme",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.1534423828125,
+        93.32559967041016,
+        232.48043823242188
+      ],
+      "text": "NTP",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        236.75839233398438,
+        300.9681396484375,
+        249.30589294433594
+      ],
+      "text": "polymerase chain reaction",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.9053955078125,
+        92.54859161376953,
+        249.23239135742188
+      ],
+      "text": "PCR",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        253.51034545898438,
+        263.567138671875,
+        266.0578308105469
+      ],
+      "text": "prediction interval",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.6573486328125,
+        82.7625961303711,
+        265.9843444824219
+      ],
+      "text": "PI",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        270.2622985839844,
+        417.67559814453125,
+        282.8097839355469
+      ],
+      "text": "population, intervention, comparator and outcome",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.4093017578125,
+        97.49410247802734,
+        282.7362976074219
+      ],
+      "text": "PICO",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        287.0143127441406,
+        252.16415405273438,
+        299.5617980957031
+      ],
+      "text": "prequalification",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.16131591796875,
+        87.7500991821289,
+        299.4883117675781
+      ],
+      "text": "PQ",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        303.7662048339844,
+        241.58013916015625,
+        316.3136901855469
+      ],
+      "text": "pyrazinamide",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.9132080078125,
+        93.0315933227539,
+        316.2402038574219
+      ],
+      "text": "PZA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        320.5182189941406,
+        298.70013427734375,
+        333.0657043457031
+      ],
+      "text": "quality evidence synthesis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.66522216796875,
+        93.36759948730469,
+        332.9922180175781
+      ],
+      "text": "QES",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        337.2702331542969,
+        407.0601806640625,
+        349.8177185058594
+      ],
+      "text": "quality assessment of diagnostic accuracy studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.417236328125,
+        118.0845947265625,
+        349.7442321777344
+      ],
+      "text": "QUADAS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        354.022216796875,
+        225.08462524414062,
+        366.5697021484375
+      ],
+      "text": "rifampicin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.1692199707031,
+        88.64259338378906,
+        366.4962158203125
+      ],
+      "text": "RIF",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        370.77410888671875,
+        251.21910095214844,
+        383.32159423828125
+      ],
+      "text": "ribonucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.9211120605469,
+        95.53059387207031,
+        383.24810791015625
+      ],
+      "text": "RNA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        387.526123046875,
+        368.7562255859375,
+        400.0736083984375
+      ],
+      "text": "rifampicin-resistance determining region",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.6731262207031,
+        100.80158996582031,
+        400.0001220703125
+      ],
+      "text": "RRDR",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        404.2781066894531,
+        327.33367919921875,
+        416.8255920410156
+      ],
+      "text": "rifampicin-resistant tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.42510986328125,
+        102.57609558105469,
+        416.7521057128906
+      ],
+      "text": "RR-TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        421.030029296875,
+        308.9796447753906,
+        433.5775146484375
+      ],
+      "text": "second-line line probe assay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.1770324707031,
+        107.21710205078125,
+        433.5040283203125
+      ],
+      "text": "SL-LPA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        437.7820129394531,
+        355.10614013671875,
+        450.3294982910156
+      ],
+      "text": "supranational TB reference laboratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.92901611328125,
+        91.173095703125,
+        450.2560119628906
+      ],
+      "text": "SRL",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        454.5340270996094,
+        300.254150390625,
+        467.0815124511719
+      ],
+      "text": "sputum smear microscopy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.6810302734375,
+        95.04759216308594,
+        467.0080261230469
+      ],
+      "text": "SSM",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        471.2859191894531,
+        423.4296875,
+        483.8334045410156
+      ],
+      "text": "Standards for Reporting Diagnostic Accuracy Studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.43292236328125,
+        107.0595932006836,
+        483.7599182128906
+      ],
+      "text": "STARD",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        488.0379333496094,
+        234.38763427734375,
+        500.5854187011719
+      ],
+      "text": "tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.1849365234375,
+        85.99659729003906,
+        500.5119323730469
+      ],
+      "text": "TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        197.2908935546875,
+        504.7898864746094,
+        308.3074645996094,
+        517.33740234375
+      ],
+      "text": "antigen-based skin test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.9368896484375,
+        95.05809783935547,
+        517.2638549804688
+      ],
+      "text": "TBST",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        504.9683837890625,
+        197.29110717773438,
+        517.2638549804688
+      ],
+      "text": "Mtb",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        521.5419311523438,
+        336.2377014160156,
+        534.0894775390625
+      ],
+      "text": "tuberculosis preventive treatment",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.68896484375,
+        91.38310241699219,
+        534.0159301757812
+      ],
+      "text": "TPT",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        538.2937622070312,
+        266.6226501464844,
+        550.84130859375
+      ],
+      "text": "tuberculin skin test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.4407958984375,
+        91.11009979248047,
+        550.7677612304688
+      ],
+      "text": "TST",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        555.0457763671875,
+        248.21612548828125,
+        567.5933227539062
+      ],
+      "text": "United Nations",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.1928100585938,
+        88.98909759521484,
+        567.519775390625
+      ],
+      "text": "UN",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        571.7976684570312,
+        430.6641845703125,
+        584.34521484375
+      ],
+      "text": "United Kingdom of Great Britain and Northern Ireland",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.9447021484375,
+        156.21011352539062,
+        584.2716674804688
+      ],
+      "text": "United Kingdom",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        588.5496826171875,
+        261.32012939453125,
+        601.0972290039062
+      ],
+      "text": "uncertainty range",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.6967163085938,
+        87.64509582519531,
+        601.023681640625
+      ],
+      "text": "UR",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        605.3016967773438,
+        294.01708984375,
+        617.8492431640625
+      ],
+      "text": "United States of America",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.44873046875,
+        94.50159454345703,
+        617.7756958007812
+      ],
+      "text": "USA",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        622.0536499023438,
+        423.5450744628906,
+        634.6011962890625
+      ],
+      "text": "United States Agency for International Development",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.20068359375,
+        105.46359252929688,
+        634.5276489257812
+      ],
+      "text": "USAID",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        638.8056030273438,
+        225.59910583496094,
+        651.3531494140625
+      ],
+      "text": "ultraviolet",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.95263671875,
+        88.22259521484375,
+        651.2796020507812
+      ],
+      "text": "UV",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        655.5575561523438,
+        305.3151550292969,
+        668.1051025390625
+      ],
+      "text": "whole genome sequencing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.70458984375,
+        97.72509002685547,
+        668.0315551757812
+      ],
+      "text": "WGS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        672.3095703125,
+        304.9476318359375,
+        684.8571166992188
+      ],
+      "text": "World Health Organization",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.4566040039062,
+        100.27659606933594,
+        684.7835693359375
+      ],
+      "text": "WHO",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        689.0614624023438,
+        526.6865234375,
+        701.6090087890625
+      ],
+      "text": "Global Programme on Tuberculosis & Lung Health of the World Health",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.20849609375,
+        125.68659210205078,
+        701.5354614257812
+      ],
+      "text": "WHO/GTB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        701.5614624023438,
+        239.54312133789062,
+        714.1090087890625
+      ],
+      "text": "Organization",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        718.3134765625,
+        373.9325866699219,
+        730.8610229492188
+      ],
+      "text": "WHO-recommended rapid diagnostic test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.4605102539062,
+        98.61759185791016,
+        730.7874755859375
+      ],
+      "text": "WRD",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        735.0653686523438,
+        263.3466491699219,
+        747.6129150390625
+      ],
+      "text": "willingness-to-pay",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.21240234375,
+        96.32859802246094,
+        747.5393676757812
+      ],
+      "text": "WTP",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        751.8175048828125,
+        297.419189453125,
+        764.3650512695312
+      ],
+      "text": "extensively drug-resistant",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        751.9645385742188,
+        94.82709503173828,
+        764.29150390625
+      ],
+      "text": "XDR",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.86610412597656,
+        768.5693969726562,
+        356.376708984375,
+        781.116943359375
+      ],
+      "text": "extensively drug-resistant tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        768.7164306640625,
+        108.22509765625,
+        781.0433959960938
+      ],
+      "text": "XDR-TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        40.510501861572266,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "viii WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

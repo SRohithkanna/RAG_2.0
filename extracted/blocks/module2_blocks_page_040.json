@@ -1,0 +1,594 @@
+{
+  "file": "module2",
+  "page": 40,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.30284118652344,
+        305.578857421875,
+        84.57283782958984
+      ],
+      "text": "3.2.2 Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        91.27869415283203,
+        527.386962890625,
+        105.72169494628906
+      ],
+      "text": "The evaluations reviewed by the GDG demonstrated substantial variation in the diagnostic accuracy",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        104.47870635986328,
+        527.4652709960938,
+        118.92170715332031
+      ],
+      "text": "(sensitivity and specificity) of CAD programmes across settings, even when using the same technology",
+      "font": "SegoeUI-Light",
+      "size": 10.972967147827148,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.67871856689453,
+        527.4210815429688,
+        132.12171936035156
+      ],
+      "text": "set to the same threshold. Thus, it will be essential to calibrate the threshold to be used for any given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        130.8787384033203,
+        527.4268188476562,
+        145.3217315673828
+      ],
+      "text": "software for each setting and population in which it will be used in order to ensure that the accuracy,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.07875061035156,
+        527.5739135742188,
+        158.52174377441406
+      ],
+      "text": "predictive values, overall yield and requirements for further diagnostic testing are as expected. Further",
+      "font": "SegoeUI-Light",
+      "size": 10.970008850097656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.27870178222656,
+        527.4552001953125,
+        171.72169494628906
+      ],
+      "text": "guidance on calibrating CAD in a new setting is provided in the operational handbook accompanying",
+      "font": "SegoeUI-Light",
+      "size": 10.979781150817871,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.4788360595703,
+        527.5169677734375,
+        184.9218292236328
+      ],
+      "text": "the guidelines, which links to a protocol for collecting the requisite data and a web-based tool to assist",
+      "font": "SegoeUI-Light",
+      "size": 10.969758987426758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.67884826660156,
+        527.0623779296875,
+        198.12184143066406
+      ],
+      "text": "with the analysis of data and calculation of receiver operating characteristic curves and sensitivity and",
+      "font": "SegoeUI-Light",
+      "size": 10.988794326782227,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.0847930908203,
+        294.57037353515625,
+        211.32179260253906
+      ],
+      "text": "(7) specificity values across a range of thresholds .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.5827178955078,
+        527.4573364257812,
+        233.0257110595703
+      ],
+      "text": "The feasibility of implementing CAD depends heavily on the setting, including ensuring access to the",
+      "font": "SegoeUI-Light",
+      "size": 10.999750137329102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        231.78273010253906,
+        527.4365844726562,
+        246.22572326660156
+      ],
+      "text": "required equipment for conducting digital radiography, a stable internet connection and required",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.9827423095703,
+        527.4332885742188,
+        259.4257507324219
+      ],
+      "text": "maintenance for the hardware and software. The required resources and the cost–effectiveness will",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.18267822265625,
+        430.8708801269531,
+        272.6257019042969
+      ],
+      "text": "depend on the setting, including the availability and salaries of human readers.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.6138916015625,
+        523.9761962890625,
+        311.4089050292969
+      ],
+      "text": "3.3 Tools for screening for TB disease among people",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.4139404296875,
+        197.18380737304688,
+        334.2089538574219
+      ],
+      "text": "living with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        348.1806945800781,
+        508.82550048828125,
+        362.62371826171875
+      ],
+      "text": "11. Among adults and adolescents living with HIV, systematic screening for TB disease should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        360.1806945800781,
+        515.2603759765625,
+        374.62371826171875
+      ],
+      "text": "be conducted using the WHO-recommended four symptom screen and those who report any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        372.1806945800781,
+        498.4326171875,
+        386.62371826171875
+      ],
+      "text": "one of the symptoms of current cough, fever, weight loss or night sweats may have TB and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        384.1806945800781,
+        295.74981689453125,
+        398.62371826171875
+      ],
+      "text": "should be evaluated for TB and other diseases",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57879638671875,
+        397.63873291015625,
+        461.3096618652344,
+        414.875732421875
+      ],
+      "text": "existing recommendation: strong recommendation, moderate certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        416.6846923828125,
+        517.1930541992188,
+        431.1277160644531
+      ],
+      "text": "12. Among adults and adolescents living with HIV, C-reactive protein with a cut-off of > 5 mg/L",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        428.6846923828125,
+        254.6647491455078,
+        443.1277160644531
+      ],
+      "text": "may be used to screen for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        442.1427001953125,
+        451.6451721191406,
+        459.3797302246094
+      ],
+      "text": "new recommendation: conditional recommendation, low certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        454.1427001953125,
+        144.67840576171875,
+        471.3797302246094
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        473.188720703125,
+        503.1834716796875,
+        487.6317443847656
+      ],
+      "text": "13. Among adults and adolescents living with HIV, chest X-ray may be used to screen for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        485.188720703125,
+        117.08768463134766,
+        499.6317443847656
+      ],
+      "text": "disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        498.6466064453125,
+        479.76885986328125,
+        515.8836059570312
+      ],
+      "text": "new recommendation: conditional recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        510.6466064453125,
+        144.67840576171875,
+        527.8836059570312
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        529.692626953125,
+        486.3533935546875,
+        544.1356201171875
+      ],
+      "text": "14. Among adults and adolescents living with HIV, molecular WHO-recommended rapid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        541.692626953125,
+        328.06005859375,
+        556.1356201171875
+      ],
+      "text": "diagnostic tests may be used to screen for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        555.1505737304688,
+        479.76885986328125,
+        572.3875732421875
+      ],
+      "text": "new recommendation: conditional recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        567.1505737304688,
+        144.67840576171875,
+        584.3875732421875
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        586.196533203125,
+        491.434326171875,
+        600.6395263671875
+      ],
+      "text": "15. Adult and adolescent inpatients with HIV in medical wards where the TB prevalence is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        598.196533203125,
+        504.2316589355469,
+        612.6395263671875
+      ],
+      "text": "> 10% should be tested systematically for TB disease with a molecular WHO-recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        610.196533203125,
+        176.35569763183594,
+        624.6395263671875
+      ],
+      "text": "rapid diagnostic test",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        623.6544799804688,
+        458.84796142578125,
+        640.8914794921875
+      ],
+      "text": "new recommendation: strong recommendation, moderate certainty of evidence for  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.57869720458984,
+        635.6544799804688,
+        144.67840576171875,
+        652.8914794921875
+      ],
+      "text": "test accuracy ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.3662109375,
+        352.95904541015625,
+        698.6361694335938
+      ],
+      "text": "3.3.1 Summary of the evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.3422241210938,
+        527.112548828125,
+        719.7852172851562
+      ],
+      "text": "TB remains the primary cause of AIDS-related morbidity and mortality worldwide, despite impressive",
+      "font": "SegoeUI-Light",
+      "size": 10.995498657226562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.542236328125,
+        527.4487915039062,
+        732.9852294921875
+      ],
+      "text": "scale up of antiretroviral treatment (ART). In 2019, TB was associated with an estimated 208 000 (30%)",
+      "font": "SegoeUI-Light",
+      "size": 10.979731559753418,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.9481811523438,
+        524.5531005859375,
+        746.1851806640625
+      ],
+      "text": "(1) AIDS-related deaths  . Global estimates show a 44% gap in case detection among people with HIV-",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.991347312927246,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.148193359375,
+        527.3988037109375,
+        759.3851928710938
+      ],
+      "text": "(1) associated TB  . A systematic review of postmortem studies of global AIDS-related deaths in adults",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.1422119140625,
+        527.50732421875,
+        772.585205078125
+      ],
+      "text": "found TB to be the primary cause of death in 37.2% of cases (95% CI: 25.7–48.7). TB was undiagnosed",
+      "font": "SegoeUI-Light",
+      "size": 10.971161842346191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "28",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

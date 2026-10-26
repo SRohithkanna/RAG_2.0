@@ -1,0 +1,474 @@
+{
+  "file": "module6",
+  "page": 29,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.202392578125,
+        505.04534912109375,
+        82.86639404296875
+      ],
+      "text": "Table 2.3 Diagnostic accuracy among different subpopulations of people living with",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        81.15240478515625,
+        507.92425537109375,
+        95.81640625
+      ],
+      "text": "HIV of the W4SS combined with CXR (any abnormality) compared with culture as the",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.1024169921875,
+        501.9482116699219,
+        108.76641845703125
+      ],
+      "text": "reference standard and using a positive or abnormal result on either screen or both",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        112.28600311279297,
+        503.1258239746094,
+        125.47600555419922
+      ],
+      "text": "Population  No. of studies \n Sensitivity \n Specificity",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.50180053710938,
+        123.07769012451172,
+        496.0025329589844,
+        136.26768493652344
+      ],
+      "text": "(no. of participants)  (95% CI)  (95% CI)",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        143.57980346679688,
+        488.4158630371094,
+        156.74209594726562
+      ],
+      "text": "WHO target product profile  NA  > 0.90  > 0.70",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        164.30532836914062,
+        506.8146057128906,
+        177.46774291992188
+      ],
+      "text": "All people living with HIV  8 (6238)  0.93 (0.88–0.96)  0.20 (0.10–0.38)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        185.03079223632812,
+        506.8146057128906,
+        198.19314575195312
+      ],
+      "text": "Inpatients  1 (52)  0.90 (0.33–0.99)  0.07 (0.03–0.19)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        205.75619506835938,
+        506.8146057128906,
+        218.91860961914062
+      ],
+      "text": "Outpatients on ART  4 (2670)  0.85 (0.69–0.94)  0.33 (0.15–0.58)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        226.48171997070312,
+        506.8146057128906,
+        239.64413452148438
+      ],
+      "text": "Outpatients not on ART  8 (3516)  0.94 (0.89–0.96)  0.19 (0.09–0.34)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        247.20724487304688,
+        506.8146057128906,
+        260.3695983886719
+      ],
+      "text": "CD4 ≤ 200 cells/μL  8 (2232)  0.94 (0.90–0.97)  0.14 (0.07–0.25)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        267.9327087402344,
+        506.8146057128906,
+        281.0950012207031
+      ],
+      "text": "Pregnant women living with HIV  1 (8)  0.75 (0.11–0.99)  0.56 (0.24–0.84)",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        289.8473205566406,
+        272.6158752441406,
+        299.038330078125
+      ],
+      "text": "ART: antiretroviral therapy; CI: confidence interval; NA: not applicable",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.2063903808594,
+        374.12835693359375,
+        325.62738037109375
+      ],
+      "text": "Recommendation 5: Computer-aided detection of chest X-ray",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.4554443359375,
+        339.825439453125
+      ],
+      "text": "In many settings, the use of CXR for TB screening and triage for TB disease is limited by the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        527.4267578125,
+        353.825439453125
+      ],
+      "text": "unavailability of trained health personnel to interpret radiography images and by substantial intra-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3824157714844,
+        527.3927001953125,
+        367.825439453125
+      ],
+      "text": "and inter-reader variability in its accuracy to detect abnormalities associated with TB. Numerous",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.3824157714844,
+        527.4321899414062,
+        381.825439453125
+      ],
+      "text": "software packages that provide CAD, or automated interpretation of digital CXR images for the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3824157714844,
+        527.3880615234375,
+        395.825439453125
+      ],
+      "text": "express purpose of determining the likelihood of TB disease, have been developed and offer a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.3824157714844,
+        527.394775390625,
+        409.825439453125
+      ],
+      "text": "potential technological answer to the numerous implementation challenges inherent in human",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.3824157714844,
+        173.6423797607422,
+        423.825439453125
+      ],
+      "text": "interpretation of CXRs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        527.429931640625,
+        451.825439453125
+      ],
+      "text": "For the development of the 2021 TB screening guidelines the performance of three CAD software",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.3824157714844,
+        527.4310913085938,
+        465.825439453125
+      ],
+      "text": "programmes was compared with the performance of human readers. Due to methodological",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.3824157714844,
+        527.4046020507812,
+        479.825439453125
+      ],
+      "text": "challenges, the estimates of CAD diagnostic accuracy were not able to be pooled across software",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        527.4256591796875,
+        493.825439453125
+      ],
+      "text": "programmes or across evaluations. Thus, the performances of CAD programmes and human readers",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.3824157714844,
+        400.29302978515625,
+        507.825439453125
+      ],
+      "text": "from the included evaluations were presented as ranges (see Table 2.4).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.4910278320312,
+        512.8909912109375,
+        532.155029296875
+      ],
+      "text": "Table 2.4 Sensitivity and specificity ranges of computer-aided detection software and",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.4409790039062,
+        520.188232421875,
+        545.10498046875
+      ],
+      "text": "human readers interpreting digital chest radiographs for detection of bacteriologically",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.3910522460938,
+        516.4682006835938,
+        558.0550537109375
+      ],
+      "text": "confirmed TB across three software programmes, from three independent evaluations",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.3410034179688,
+        347.3545227050781,
+        571.0050048828125
+      ],
+      "text": "of the software in a range of populations and settings",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        613.735595703125,
+        473.146240234375,
+        626.8079223632812
+      ],
+      "text": "> 0.90  > 0.70  WHO target product profile",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        635.7883911132812,
+        153.99412536621094,
+        647.5333862304688
+      ],
+      "text": "Screening use case",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        655.1866455078125,
+        476.7203369140625,
+        668.2588500976562
+      ],
+      "text": "0.90–0.92 0.23–0.66 CAD software",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        675.9119873046875,
+        479.18634033203125,
+        688.9843139648438
+      ],
+      "text": "0.82–0.93 0.14–0.63  CXR with human reader",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        697.9647827148438,
+        138.59690856933594,
+        709.7097778320312
+      ],
+      "text": "Triage use case",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        717.363037109375,
+        479.18634033203125,
+        730.435302734375
+      ],
+      "text": "0.90–0.91 0.25–0.79  CAD software",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        738.0884399414062,
+        479.18634033203125,
+        751.1607666015625
+      ],
+      "text": "0.89–0.96  0.36–0.63  CXR with human reader",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.9131469726562,
+        215.7268524169922,
+        769.1041259765625
+      ],
+      "text": "CAD: computer-aided detection; CXR: chest X-ray",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        329.7992858886719,
+        801.2599487304688,
+        553.4072875976562,
+        811.8897705078125
+      ],
+      "text": "11 2. ﻿ Reduce the burden of TB among people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

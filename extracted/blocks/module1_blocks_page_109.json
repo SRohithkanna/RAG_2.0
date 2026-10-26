@@ -1,0 +1,414 @@
+{
+  "file": "module1",
+  "page": 109,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.09741973876953,
+        730.8037719726562,
+        84.88041687011719
+      ],
+      "text": "PICO 9: In pregnant and postpartum women, is isoniazid preventive treatment for TB as safe as other preventive treatment",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        114.03329467773438,
+        98.88038635253906
+      ],
+      "text": "regimens?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        102.81869506835938,
+        465.7494812011719,
+        114.43769836425781
+      ],
+      "text": "Population:  Isoniazid Preventive Therapy (IPT) compared to no IPT or placebo in pregnant women with HIV.",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        113.81869506835938,
+        201.8031005859375,
+        125.43769836425781
+      ],
+      "text": "Bibliography:  (see references  )  62–65 a",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        124.81869506835938,
+        202.79600524902344,
+        136.4376983642578
+      ],
+      "text": "Overall quality of evidence rating:  low",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        205.27725219726562,
+        769.2047119140625,
+        216.7973175048828
+      ],
+      "text": "Moderate  Critical 66 more per 1000\n 1  randomized  not  not serious  not serious  serious none  106/449  78/460  OR 1.51\n  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.04049682617188,
+        216.27725219726562,
+        650.004150390625,
+        227.7973175048828
+      ],
+      "text": "(from 12 to 131  trials  serious  (23.6%)  (17.0%)  (1.09 to  (62)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        551.3552856445312,
+        227.2772216796875,
+        618.7120361328125,
+        238.79725646972656
+      ],
+      "text": "more)  2.10)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        242.46820068359375,
+        618.464111328125,
+        254.0872039794922
+      ],
+      "text": "Composite pregnancy outcomes (low birth weight, preterm delivery, spontaneous abortion, stillbirth, neonatal mortality, or congenital anomaly)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        72.58560180664062,
+        257.6770324707031,
+        769.2047729492188,
+        269.19708251953125
+      ],
+      "text": "Very low  Critical 151 fewer per 1000\n 2  observational  very  not serious  not serious  serious none  43/172  63/175  OR 0.471\n  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        109.75820922851562,
+        268.6770324707031,
+        633.8546142578125,
+        280.1970520019531
+      ],
+      "text": "(from 259  studies  serious (25.0%)  (36.0%)  (0.199 to   b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        109.37580108642578,
+        279.677001953125,
+        641.9456787109375,
+        291.19708251953125
+      ],
+      "text": "to 66 fewer)  0.742)  (64,65)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        294.8680114746094,
+        120.67862701416016,
+        306.4870300292969
+      ],
+      "text": "Maternal death",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        310.0768127441406,
+        769.2047119140625,
+        321.5968017578125
+      ],
+      "text": "1  randomized  not  not serious  not serious  very  none  1/477  3/479  RR 0.33\n 4 fewer per 1000\n Low  Critical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.4645767211914,
+        321.0767822265625,
+        657.081787109375,
+        332.5968017578125
+      ],
+      "text": "trials serious  serious (0.2%)  (0.6%)  (0.03 to  (from 6 fewer to  (62)  c",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        551.31982421875,
+        332.0767517089844,
+        629.2879028320312,
+        343.59674072265625
+      ],
+      "text": "3.21)  14 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        347.2677001953125,
+        120.67862701416016,
+        358.88671875
+      ],
+      "text": "Maternal death",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        72.58560180664062,
+        362.4765930175781,
+        769.2047729492188,
+        373.99658203125
+      ],
+      "text": "2  observational  very  not serious  not serious  not serious  none  18/10786  105/41311  RR 0.65\n 1 fewer per 1000\n Low  Critical",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        109.75820922851562,
+        373.4765930175781,
+        667.426513671875,
+        384.99658203125
+      ],
+      "text": "studies serious (0.2%)  (0.3%)  (0.39 to  (from 2 to 0 fewer)   b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        109.47789764404297,
+        384.4765625,
+        572.42919921875,
+        395.99658203125
+      ],
+      "text": "1.07)  (63,64)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        399.66748046875,
+        273.17657470703125,
+        411.2864990234375
+      ],
+      "text": "Grade 3 or 4 adverse events related to study treatment",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        414.87640380859375,
+        769.2047729492188,
+        426.39642333984375
+      ],
+      "text": "1  randomized  not  not serious  not serious  serious none  34/477  22/479  RR 1.55\n 25 more per 1000\n Moderate  Critical  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.4645767211914,
+        425.8763732910156,
+        657.3068237304688,
+        437.3963928222656
+      ],
+      "text": "trials serious  (7.1%)  (4.6%)  (0.92 to  (from 4 fewer to  (62)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        551.4832153320312,
+        436.8763732910156,
+        630.3527221679688,
+        448.3963623046875
+      ],
+      "text": "2.61)  74 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        452.0672912597656,
+        118.27877807617188,
+        463.6863098144531
+      ],
+      "text": "Hepatotoxicity",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        467.9477844238281,
+        769.2047729492188,
+        479.4677734375
+      ],
+      "text": "1  randomized  not  not serious  not serious  serious none  18/477  11/479  RR 1.64\n 15 more per 1000\n Moderate  Critical  a,d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.4645767211914,
+        478.9477844238281,
+        656.77587890625,
+        490.4677734375
+      ],
+      "text": "trials serious  (3.8%)  (2.3%)  (0.78 to  (from 5 fewer to  (62)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        550.1170043945312,
+        489.94775390625,
+        630.8162231445312,
+        501.4677429199219
+      ],
+      "text": "3.44)  56 more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        505.13861083984375,
+        118.27877807617188,
+        516.7576293945312
+      ],
+      "text": "Hepatotoxicity",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        520.3475341796875,
+        769.2047119140625,
+        531.8674926757812
+      ],
+      "text": "1  observational  very  not serious  not serious  not serious none  30/17015  114/41227  RR 1.01\n 0 fewer per 1000\n Low  Critical  f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        101.35256958007812,
+        531.3474731445312,
+        660.393798828125,
+        542.8674926757812
+      ],
+      "text": "studies serious (0.2%)  (0.3%)  (0.68 to  (from 1 fewer to 1  (63)  e",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        552.1207275390625,
+        542.3474731445312,
+        618.7120361328125,
+        553.867431640625
+      ],
+      "text": "1.51)  more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "91",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

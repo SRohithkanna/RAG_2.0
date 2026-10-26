@@ -1,0 +1,606 @@
+{
+  "file": "Guidance for national",
+  "page": 74,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        80.14361572265625,
+        365.4731750488281,
+        109.03961181640625
+      ],
+      "text": "6.\t M  TB",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        145.39939880371094,
+        87.01241302490234,
+        510.22161865234375,
+        107.23960876464844
+      ],
+      "text": "anagement of in children",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        235.056396484375,
+        107.74359130859375,
+        286.15234375,
+        136.63958740234375
+      ],
+      "text": "HIV",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        121.03939819335938,
+        114.61238861083984,
+        234.67550659179688,
+        134.83958435058594
+      ],
+      "text": "living with",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        149.02223205566406,
+        130.37139892578125,
+        165.87823486328125
+      ],
+      "text": "6.1\t C",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        130.5872039794922,
+        153.02903747558594,
+        235.6632537841797,
+        164.82823181152344
+      ],
+      "text": "hapter objectives",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        173.57098388671875,
+        457.386474609375,
+        186.9224853515625
+      ],
+      "text": "This chapter outlines how to prevent and treat TB in children living with HIV.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        208.9340362548828,
+        125.70940399169922,
+        225.7900390625
+      ],
+      "text": "6.2\t I",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        125.92539978027344,
+        212.9408416748047,
+        200.44459533691406,
+        224.7400360107422
+      ],
+      "text": "ntroduction",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        233.4827880859375,
+        513.391357421875,
+        246.83428955078125
+      ],
+      "text": "Children living with HIV infection have increased risk of TB exposure, infection,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        249.47930908203125,
+        513.4719848632812,
+        262.830810546875
+      ],
+      "text": "progression to disease, and TB-related morbidity and mortality. This risk is influenced by",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        265.475830078125,
+        513.4144897460938,
+        278.82733154296875
+      ],
+      "text": "the degree of immune suppression. All children living with HIV infection in a TB-endemic",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        281.47235107421875,
+        513.46044921875,
+        294.8238525390625
+      ],
+      "text": "setting should therefore be regularly screened for TB by clinical assessment at each visit",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        297.4688720703125,
+        513.4490356445312,
+        310.82037353515625
+      ],
+      "text": "to a health facility or contact with a health worker. Evaluation should aim to identify",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        313.46539306640625,
+        513.4951171875,
+        326.81689453125
+      ],
+      "text": "those patients who are likely to have TB disease, requiring anti-TB treatment, and those",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        329.4618835449219,
+        513.4375610351562,
+        342.8133850097656
+      ],
+      "text": "who should start IPT. Suspicion of TB disease in children with HIV is initially based on",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        345.4583740234375,
+        513.4835205078125,
+        358.80987548828125
+      ],
+      "text": "the presence of clinical symptoms. Clinical evaluation may be followed up with further",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        361.4548645019531,
+        513.4029541015625,
+        374.8063659667969
+      ],
+      "text": "investigations as appropriate (e.g. chest radiography). As for any child with suspected",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        377.45135498046875,
+        513.3683471679688,
+        390.8028564453125
+      ],
+      "text": "TB, attempts should be made to confirm diagnosis (e.g. culture, Xpert MTB/RIF assay)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        393.37884521484375,
+        194.3238983154297,
+        406.7993469238281
+      ],
+      "text": "(1). whenever possible",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        417.954345703125,
+        513.4834594726562,
+        431.30584716796875
+      ],
+      "text": "Childhood HIV infection is particularly common in settings where antenatal HIV",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        433.9508361816406,
+        513.3798217773438,
+        447.3023376464844
+      ],
+      "text": "prevalence is high and PMTCT interventions are not widely implemented. The prevalence",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        449.94732666015625,
+        513.4835815429688,
+        463.298828125
+      ],
+      "text": "of HIV is therefore particularly high among infants and young children, an age-group",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        465.9438171386719,
+        513.471923828125,
+        479.2953186035156
+      ],
+      "text": "also at risk for TB. In regions endemic for TB/HIV, TB is common in children living with",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        481.8713073730469,
+        365.8003845214844,
+        495.29180908203125
+      ],
+      "text": "(1) HIV, and HIV infection is common in children with TB  .",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        506.44683837890625,
+        513.4376220703125,
+        519.79833984375
+      ],
+      "text": "It is recommended that HIV testing be routinely offered to all children with suspected or",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        522.3743286132812,
+        378.3929748535156,
+        535.7947998046875
+      ],
+      "text": "(1) diagnosed TB   – see also Recommendation 7, Chapter 3.",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        555.5537109375,
+        131.92539978027344,
+        572.4097290039062
+      ],
+      "text": "6.3\t A",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        132.1414031982422,
+        559.560546875,
+        261.75457763671875,
+        571.3597412109375
+      ],
+      "text": "pproach to diagnosis",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        580.1024780273438,
+        513.4835815429688,
+        593.4539794921875
+      ],
+      "text": "The approach to diagnosing TB in children living with HIV is essentially the same as for",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        596.0989990234375,
+        513.4375610351562,
+        609.4505004882812
+      ],
+      "text": "diagnosis in HIV-negative children, as described in Chapter 3. This approach can be",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        612.0265502929688,
+        414.36492919921875,
+        625.447021484375
+      ],
+      "text": "(2) challenging in children living with HIV for the following reasons  :",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        636.6065063476562,
+        513.39453125,
+        649.9580078125
+      ],
+      "text": "Clinical features consistent with pulmonary TB are common in children living with",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        640.2783813476562,
+        91.36740112304688,
+        648.2783813476562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        652.60302734375,
+        513.4521484375,
+        665.9545288085938
+      ],
+      "text": "HIV but may be due to other diseases and therefore lack specificity for a diagnosis",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        668.5995483398438,
+        136.8385009765625,
+        681.9510498046875
+      ],
+      "text": "of TB.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        690.6065063476562,
+        513.4522094726562,
+        703.9580078125
+      ],
+      "text": "Most children living with HIV are infected by mother-to-child transmission. The peak",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        694.2783813476562,
+        91.36740112304688,
+        702.2783813476562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        706.60302734375,
+        513.4291381835938,
+        719.9545288085938
+      ],
+      "text": "age prevalence for HIV is therefore in infants and young children (<5 years), who",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        722.5994873046875,
+        513.3946533203125,
+        735.9509887695312
+      ],
+      "text": "also make up the age group in which it is most difficult to confirm the cause of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        738.5960083007812,
+        320.0335388183594,
+        751.947509765625
+      ],
+      "text": "acute or chronic lung disease, including TB.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        760.6065063476562,
+        513.4291381835938,
+        773.9580078125
+      ],
+      "text": "TST is less sensitive in children living with HIV than in HIV-negative children; induration",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        764.2783813476562,
+        91.36740112304688,
+        772.2783813476562
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        776.60302734375,
+        404.6505126953125,
+        789.9545288085938
+      ],
+      "text": "of >5 mm is considered positive if the child is living with HIV.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        558.6439208984375,
+        805.8439331054688,
+        580.8839111328125,
+        835.8439331054688
+      ],
+      "text": "55",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

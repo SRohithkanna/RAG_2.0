@@ -1,0 +1,1845 @@
+{
+  "file": "Latent",
+  "total_pages": 78,
+  "pages": [
+    {
+      "page": 1,
+      "label_raw": "A",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        32.0,
+        46.0
+      ],
+      "num_blocks": 2,
+      "num_images": 2,
+      "num_tables": 0
+    },
+    {
+      "page": 2,
+      "label_raw": "B",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 3,
+      "label_raw": "i",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        24.0,
+        28.0
+      ],
+      "num_blocks": 1,
+      "num_images": 1,
+      "num_tables": 0
+    },
+    {
+      "page": 4,
+      "label_raw": "ii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        9.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 5,
+      "label_raw": "iii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        12.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 6,
+      "label_raw": "iv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 7,
+      "label_raw": "v",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 8,
+      "label_raw": "vi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 9,
+      "label_raw": "vii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 10,
+      "label_raw": "viii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 11,
+      "label_raw": "ix",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 12,
+      "label_raw": "x",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 13,
+      "label_raw": "1",
+      "label_numeric": 1,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        12.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 14,
+      "label_raw": "2",
+      "label_numeric": 2,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 15,
+      "label_raw": "3",
+      "label_numeric": 3,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 16,
+      "label_raw": "4",
+      "label_numeric": 4,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 17,
+      "label_raw": "5",
+      "label_numeric": 5,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 18,
+      "label_raw": "6",
+      "label_numeric": 6,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 19,
+      "label_raw": "7",
+      "label_numeric": 7,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.829999923706055,
+        7.0,
+        8.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 20,
+      "label_raw": "8",
+      "label_numeric": 8,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 21,
+      "label_raw": "9",
+      "label_numeric": 9,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 22,
+      "label_raw": "10",
+      "label_numeric": 10,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 23,
+      "label_raw": "11",
+      "label_numeric": 11,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 24,
+      "label_raw": "12",
+      "label_numeric": 12,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        8.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 25,
+      "label_raw": "13",
+      "label_numeric": 13,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        12.0,
+        16.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 26,
+      "label_raw": "14",
+      "label_numeric": 14,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 27,
+      "label_raw": "15",
+      "label_numeric": 15,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        5.53849983215332,
+        7.0,
+        8.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        16.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 10
+    },
+    {
+      "page": 28,
+      "label_raw": "16",
+      "label_numeric": 16,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 29,
+      "label_raw": "17",
+      "label_numeric": 17,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        5.53849983215332,
+        7.0,
+        8.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 10
+    },
+    {
+      "page": 30,
+      "label_raw": "18",
+      "label_numeric": 18,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.53849983215332,
+        7.0,
+        8.0,
+        9.5,
+        10.0,
+        12.0,
+        16.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 31,
+      "label_raw": "19",
+      "label_numeric": 19,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.53849983215332,
+        7.0,
+        8.0,
+        9.5,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 32,
+      "label_raw": "20",
+      "label_numeric": 20,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 33,
+      "label_raw": "21",
+      "label_numeric": 21,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        9.0,
+        9.5,
+        10.0,
+        12.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 34,
+      "label_raw": "22",
+      "label_numeric": 22,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        12.0,
+        16.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 35,
+      "label_raw": "23",
+      "label_numeric": 23,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPi-Three",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        9.0,
+        9.5,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 36,
+      "label_raw": "24",
+      "label_numeric": 24,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        11.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 37,
+      "label_raw": "25",
+      "label_numeric": 25,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        8.0,
+        9.0,
+        10.0,
+        12.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 38,
+      "label_raw": "26",
+      "label_numeric": 26,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        11.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 39,
+      "label_raw": "27",
+      "label_numeric": 27,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        11.0,
+        16.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 40,
+      "label_raw": "28",
+      "label_numeric": 28,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        9.5,
+        10.0,
+        12.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 41,
+      "label_raw": "29",
+      "label_numeric": 29,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-MediumItalic"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        11.0,
+        12.0,
+        16.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 42,
+      "label_raw": "30",
+      "label_numeric": 30,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 43,
+      "label_raw": "31",
+      "label_numeric": 31,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        8.0,
+        9.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 44,
+      "label_raw": "32",
+      "label_numeric": 32,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 45,
+      "label_raw": "33",
+      "label_numeric": 33,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 46,
+      "label_raw": "34",
+      "label_numeric": 34,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 47,
+      "label_raw": "35",
+      "label_numeric": 35,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 48,
+      "label_raw": "36",
+      "label_numeric": 36,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 49,
+      "label_raw": "37",
+      "label_numeric": 37,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 50,
+      "label_raw": "38",
+      "label_numeric": 38,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 51,
+      "label_raw": "39",
+      "label_numeric": 39,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 52,
+      "label_raw": "40",
+      "label_numeric": 40,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 53,
+      "label_raw": "41",
+      "label_numeric": 41,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 54,
+      "label_raw": "42",
+      "label_numeric": 42,
+      "is_roman": false,
+      "font_inventory": [
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 55,
+      "label_raw": "43",
+      "label_numeric": 43,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 56,
+      "label_raw": "44",
+      "label_numeric": 44,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 57,
+      "label_raw": "45",
+      "label_numeric": 45,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 58,
+      "label_raw": "46",
+      "label_numeric": 46,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbats"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 59,
+      "label_raw": "47",
+      "label_numeric": 47,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbats"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 60,
+      "label_raw": "48",
+      "label_numeric": 48,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 61,
+      "label_raw": "49",
+      "label_numeric": 49,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 62,
+      "label_raw": "50",
+      "label_numeric": 50,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        7.5,
+        11.0,
+        16.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 63,
+      "label_raw": "51",
+      "label_numeric": 51,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 64,
+      "label_raw": "52",
+      "label_numeric": 52,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 65,
+      "label_raw": "53",
+      "label_numeric": 53,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 66,
+      "label_raw": "54",
+      "label_numeric": 54,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 67,
+      "label_raw": "55",
+      "label_numeric": 55,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 68,
+      "label_raw": "56",
+      "label_numeric": 56,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 69,
+      "label_raw": "57",
+      "label_numeric": 57,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 70,
+      "label_raw": "58",
+      "label_numeric": 58,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 71,
+      "label_raw": "59",
+      "label_numeric": 59,
+      "is_roman": false,
+      "font_inventory": [
+        "MS-PMincho",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        7.0,
+        8.0,
+        9.0,
+        13.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 72,
+      "label_raw": "60",
+      "label_numeric": 60,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        16.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 73,
+      "label_raw": "61",
+      "label_numeric": 61,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0,
+        24.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 74,
+      "label_raw": "62",
+      "label_numeric": 62,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 75,
+      "label_raw": "63",
+      "label_numeric": 63,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 76,
+      "label_raw": "64",
+      "label_numeric": 64,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Book",
+        "Whitney-Light",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.0,
+        10.0,
+        16.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 77,
+      "label_raw": "65",
+      "label_numeric": 65,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 78,
+      "label_raw": "66",
+      "label_numeric": 66,
+      "is_roman": false,
+      "font_inventory": [
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0
+      ],
+      "num_blocks": 3,
+      "num_images": 2,
+      "num_tables": 0
+    }
+  ]
+}

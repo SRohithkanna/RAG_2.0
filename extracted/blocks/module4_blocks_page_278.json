@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 278,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        310.55609130859375,
+        81.83369445800781
+      ],
+      "text": "Ramatoulaye Sall (Independent Consultant, Senegal)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.84259796142578,
+        296.74896240234375,
+        99.28559875488281
+      ],
+      "text": "Rina Triasih (Universitas Gadyah Mada, Indonesia)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.4066772460938,
+        116.73762512207031
+      ],
+      "text": "Eric Wobudeya (Mulago National Referral Hospital, Uganda; Makerere University – Johns Hopkins",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        319.46392822265625,
+        129.93763732910156
+      ],
+      "text": "University [MU-JHU] Research Collaboration, Uganda).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.33851623535156,
+        173.61489868164062,
+        161.99850463867188
+      ],
+      "text": "Evidence reviewers",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.20643615722656,
+        527.5591430664062,
+        183.64942932128906
+      ],
+      "text": "Yael Hirsch-Moverman (Columbia University, United States of America), Hamidah Hussain (Interactive",
+      "font": "SegoeUI-Light",
+      "size": 10.989794731140137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.4064483642578,
+        527.5764770507812,
+        196.8494415283203
+      ],
+      "text": "Research and Development [IRD] Global, Singapore), Daria Szkwarko (Brown University, United States",
+      "font": "SegoeUI-Light",
+      "size": 10.983537673950195,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.6063995361328,
+        527.4243774414062,
+        210.0493927001953
+      ],
+      "text": "of America) and Courtney Yuen (Harvard Medical School, United States of America) conducted the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        208.80641174316406,
+        527.3781127929688,
+        223.24940490722656
+      ],
+      "text": "evidence review for PICO Question 6: Models of care for TB case detection and TB prevention in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.0063018798828,
+        182.12779235839844,
+        236.4492950439453
+      ],
+      "text": "high TB burden settings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.8502960205078,
+        186.05892944335938,
+        268.5102844238281
+      ],
+      "text": "WHO Steering Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.71820068359375,
+        527.2839965820312,
+        290.1612243652344
+      ],
+      "text": "Annabel Baddeley, Lice Gonzalez Angulo, Ernesto Jaramillo, Avinash Kanchar, Charalambos Sismanidis",
+      "font": "SegoeUI-Light",
+      "size": 10.967501640319824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.918212890625,
+        527.6073608398438,
+        303.3612365722656
+      ],
+      "text": "(WHO Global Tuberculosis Programme); Martina Penazzato (WHO Global HIV, Hepatitis and Sexually",
+      "font": "SegoeUI-Light",
+      "size": 10.997249603271484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.11822509765625,
+        527.1400756835938,
+        316.5612487792969
+      ],
+      "text": "Transmitted Infections Programme); Bernadette Cappello, Lorenzo Moja (WHO Department of Health",
+      "font": "SegoeUI-Light",
+      "size": 10.975672721862793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.31817626953125,
+        527.5941772460938,
+        329.7611999511719
+      ],
+      "text": "Products, Policy and Standards); Marie Valentin (WHO Department of Regulation and Prequalification);",
+      "font": "SegoeUI-Light",
+      "size": 10.963288307189941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.5182189941406,
+        527.13037109375,
+        342.96124267578125
+      ],
+      "text": "Corinne Simone Collette Merle (WHO Special Programme for Research and Training in Tropical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.71820068359375,
+        527.4144287109375,
+        356.1612243652344
+      ],
+      "text": "Diseases); Valentina Baltag, Wilson Milton Were (WHO Department of Maternal, Newborn, Child &",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.918212890625,
+        527.4003295898438,
+        369.3612365722656
+      ],
+      "text": "Adolescent Health & Ageing); Lina Mahy (WHO Department of Nutrition and Food Safety); Chiara",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.1181945800781,
+        527.1793212890625,
+        382.56121826171875
+      ],
+      "text": "Servili (WHO Department of Mental Health and Substance Use); Sarah Rylance (WHO Department of",
+      "font": "SegoeUI-Light",
+      "size": 10.988444328308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.3182067871094,
+        527.5198974609375,
+        395.76123046875
+      ],
+      "text": "Noncommunicable Diseases Management); Ogtay Gozalov (WHO Regional Office for Europe); Mukta",
+      "font": "SegoeUI-Light",
+      "size": 10.972214698791504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.5182189941406,
+        527.3958740234375,
+        408.96124267578125
+      ],
+      "text": "Sharma (WHO Regional Office for South East Asia); Kyung Hyun Oh (WHO Regional Office for the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.71820068359375,
+        527.4069213867188,
+        422.1612243652344
+      ],
+      "text": "Western Pacific Region); Pedro Avedillo (Pan American Health Organization); Kenza Bennani, Martin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.918212890625,
+        527.4254760742188,
+        435.3612365722656
+      ],
+      "text": "van den Boom (WHO Regional Office for the Eastern Mediterranean Region); André Ndongosieme",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.1181945800781,
+        223.1831512451172,
+        448.56121826171875
+      ],
+      "text": "(WHO Regional Office for Africa).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.44278717041016,
+        462.1274108886719,
+        525.67724609375,
+        477.78741455078125
+      ],
+      "text": "Experts participating in the development of the guidelines on DR-TB treatment, 2011",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.13531494140625,
+        327.3817138671875,
+        509.7953186035156
+      ],
+      "text": "Guideline Development Group (GDG) members",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.003173828125,
+        527.2230834960938,
+        531.4461669921875
+      ],
+      "text": "Jaime Bayona, Socios En Salud Sucursal, Peru (programme management, public health); José A.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.2032470703125,
+        527.3926391601562,
+        544.646240234375
+      ],
+      "text": "Caminero, University General Hospital of Gran Canaria, Spain and the UNION, Paris, France (clinical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.4031982421875,
+        527.4410400390625,
+        557.84619140625
+      ],
+      "text": "practice); Charles L. Daley, National Jewish Health, United States of America (clinical practice); Agnes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.6032104492188,
+        527.6015625,
+        571.0462036132812
+      ],
+      "text": "Gebhard, Royal Dutch Tuberculosis Foundation (KNCV), Netherlands (programme management);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.80322265625,
+        527.4177856445312,
+        584.2462158203125
+      ],
+      "text": "Myriam Henkens, Médecins Sans Frontières, France (programme management); Timothy H. Holtz,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.003173828125,
+        527.43408203125,
+        597.4461669921875
+      ],
+      "text": "HIV/STD Research Program, United States Centers for Disease Control and Prevention (CDC),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.2031860351562,
+        527.5575561523438,
+        610.6461791992188
+      ],
+      "text": "Asia Regional Office, Thailand (epidemiology, surveillance, programme evaluation); Joël Keravec,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.4031982421875,
+        527.4332275390625,
+        623.84619140625
+      ],
+      "text": "Management Sciences for Health, Brazil (drug management); Salmaan Keshavjee, Harvard Medical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.6032104492188,
+        527.4265747070312,
+        637.0462036132812
+      ],
+      "text": "School, United States of America (programme management,  public health); Aamir J. Khan, Indus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.80322265625,
+        527.1736450195312,
+        650.2462158203125
+      ],
+      "text": "Hospital TB Program, Pakistan (epidemiology, programme management); Vaira Leimane, State",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.003173828125,
+        527.593994140625,
+        663.4461669921875
+      ],
+      "text": "Infectology Center, Clinic of Tuberculosis and Lung Diseases, Latvia (programme management, clinical",
+      "font": "SegoeUI-Light",
+      "size": 10.977025985717773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.2031860351562,
+        530.2960815429688,
+        676.6461791992188
+      ],
+      "text": "practice); Andrey Mariandyshev, Northern State Medical University, Archangelsk, Russian Federation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.4031982421875,
+        527.3565063476562,
+        689.84619140625
+      ],
+      "text": "(clinical practice); Carole D. Mitnick, Harvard Medical School, United States of America (epidemiology,",
+      "font": "SegoeUI-Light",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.6032104492188,
+        527.1402587890625,
+        703.0462036132812
+      ],
+      "text": "programme support); Gloria Nwagboniwe, Alliance for Hope, Nigeria (civil society); Domingo Palmero,",
+      "font": "SegoeUI-Light",
+      "size": 10.962034225463867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.80322265625,
+        527.413330078125,
+        716.2462158203125
+      ],
+      "text": "Pulmonology Division, Hospital Muñiz, Argentina (clinical practice); Ma. Imelda Quelapio, Tropical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.003173828125,
+        527.5791625976562,
+        729.4461669921875
+      ],
+      "text": "Disease Foundation, Philippines (programme management); Michael L. Rich, Partners In Health, United",
+      "font": "SegoeUI-Light",
+      "size": 10.956865310668945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.2031860351562,
+        527.1102294921875,
+        742.6461791992188
+      ],
+      "text": "States of America (clinical practice); Sarah Royce, PATH, United States of America (surveillance, public",
+      "font": "SegoeUI-Light",
+      "size": 10.99524974822998,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.4031982421875,
+        527.1802978515625,
+        755.84619140625
+      ],
+      "text": "health); Sabine Rüsch-Gerdes, National Reference Centre for Mycobacteria, Germany (laboratory",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        754.6032104492188,
+        527.4386596679688,
+        769.0462036132812
+      ],
+      "text": "specialist); Archil Salakaia, Management Sciences for Health, United States of America (programme",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "264 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

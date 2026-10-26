@@ -1,0 +1,570 @@
+{
+  "file": "module5",
+  "page": 13,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        228.51409912109375,
+        147.5496368408203
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        527.3981323242188,
+        195.36158752441406
+      ],
+      "text": "Unless otherwise specified, the terms defined here apply as used in this document. They may have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.1186065673828,
+        238.5847930908203,
+        208.5615997314453
+      ],
+      "text": "different meanings in other contexts.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.712646484375,
+        527.3126220703125,
+        230.26564025878906
+      ],
+      "text": "Active (tuberculosis) case-finding:  Provider-initiated screening and testing in communities by",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.0225372314453,
+        527.4409790039062,
+        243.4655303955078
+      ],
+      "text": "mobile teams, often using mobile X-ray and rapid molecular tests. The term is sometimes used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.22254943847656,
+        262.96685791015625,
+        256.6655578613281
+      ],
+      "text": "synonymously with “systematic screening”.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.8165283203125,
+        527.3887939453125,
+        278.3695373535156
+      ],
+      "text": "Adherence:  Extent to which a person’s behaviour (e.g. taking medicines, following a particular diet,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        277.12652587890625,
+        484.8091125488281,
+        291.5695495605469
+      ],
+      "text": "changing lifestyle) corresponds with agreed recommendations from a health care provider.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.72039794921875,
+        527.4513549804688,
+        313.2734069824219
+      ],
+      "text": "Advanced HIV disease:  For adolescents and children aged 5 years and over, this is defined as a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.0303955078125,
+        527.4521484375,
+        326.4734191894531
+      ],
+      "text": "CD4 cell count below 200 cells/mm  or a WHO clinical stage 3 or 4 event at presentation for care.  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.23040771484375,
+        527.427734375,
+        339.6734313964844
+      ],
+      "text": "All children aged under 5 years living with HIV should be considered as having advanced disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.430419921875,
+        142.1355743408203,
+        352.8734436035156
+      ],
+      "text": "at presentation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.0243225097656,
+        527.2964477539062,
+        374.57733154296875
+      ],
+      "text": "Adverse event:  Any untoward medical occurrence that may present in a person with TB during",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.3343200683594,
+        527.4100952148438,
+        387.77734375
+      ],
+      "text": "treatment with a pharmaceutical product but that does not necessarily have a causal relationship",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.5343933105469,
+        157.573974609375,
+        400.9774169921875
+      ],
+      "text": "with the treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.1283264160156,
+        527.4224243164062,
+        422.68133544921875
+      ],
+      "text": "Age groups:  Unless stated otherwise in the text, the following definitions apply to the terms used",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        421.43829345703125,
+        150.00430297851562,
+        435.8813171386719
+      ],
+      "text": "in this document:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        438.89031982421875,
+        78.2362060546875,
+        453.3333435058594
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.2362060546875,
+        438.89031982421875,
+        259.58489990234375,
+        453.3333435058594
+      ],
+      "text": "Infant: aged under 1 year (12 months).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.0903015136719,
+        78.23609924316406,
+        466.5333251953125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        452.0903015136719,
+        208.9381103515625,
+        466.5333251953125
+      ],
+      "text": "Child: aged under 10 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.36609649658203,
+        465.2901916503906,
+        247.90921020507812,
+        479.73321533203125
+      ],
+      "text": "Young child: aged under 5 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        466.30218505859375,
+        90.36609649658203,
+        479.5242004394531
+      ],
+      "text": "–",
+      "font": "MyriadPro-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.49029541015625,
+        78.23609924316406,
+        492.9333190917969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        478.49029541015625,
+        270.60858154296875,
+        492.9333190917969
+      ],
+      "text": "Adolescent: aged 10–19 years (inclusive).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.36609649658203,
+        491.6903076171875,
+        268.2710876464844,
+        506.1333312988281
+      ],
+      "text": "Young adolescent: aged 10–14 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        492.70233154296875,
+        90.36609649658203,
+        505.92431640625
+      ],
+      "text": "–",
+      "font": "MyriadPro-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.36609649658203,
+        504.89031982421875,
+        265.6714782714844,
+        519.3333129882812
+      ],
+      "text": "Older adolescent: aged 15–19 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        505.90234375,
+        90.36609649658203,
+        519.1243286132812
+      ],
+      "text": "–",
+      "font": "MyriadPro-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.09033203125,
+        78.23609924316406,
+        532.5333251953125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        518.09033203125,
+        214.6865997314453,
+        532.5333251953125
+      ],
+      "text": "Adult: aged 20 years or over.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.6842041015625,
+        527.3243408203125,
+        554.2371826171875
+      ],
+      "text": "Background HIV and tuberculosis drug resistance prevalence:  Settings with high HIV prevalence",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.988544464111328,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.9942016601562,
+        527.4464111328125,
+        567.4371948242188
+      ],
+      "text": "are defined as those in which the HIV prevalence is 1% or higher among adult pregnant women, or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.1942138671875,
+        527.4603881835938,
+        580.63720703125
+      ],
+      "text": "5% or higher among people with TB. WHO does not intend to establish thresholds for low, moderate",
+      "font": "SegoeUI-Light",
+      "size": 10.993098258972168,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.3942260742188,
+        527.3992919921875,
+        593.8372192382812
+      ],
+      "text": "or high levels of prevalence of isoniazid resistance. National TB programmes will establish definitions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.59423828125,
+        177.07980346679688,
+        607.0372314453125
+      ],
+      "text": "for their own countries.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.1881103515625,
+        524.3318481445312,
+        628.7410888671875
+      ],
+      "text": "Bacteriologically confirmed tuberculosis:  TB diagnosed in a biological specimen by a WHO-",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        627.4981079101562,
+        467.0968933105469,
+        641.9411010742188
+      ],
+      "text": "approved rapid test such as Xpert® MTB/RIF or LF-LAM, smear microscopy or culture.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.0921020507812,
+        303.9302062988281,
+        663.6450805664062
+      ],
+      "text": "Contact:  Any person exposed to a person with TB.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.7960205078125,
+        527.4189453125,
+        685.3489990234375
+      ],
+      "text": "Contact investigation:  Systematic identification of people, including children and adolescents, with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.1060180664062,
+        527.2744140625,
+        698.5490112304688
+      ],
+      "text": "previously undiagnosed TB disease and TB infection among the contacts of an index TB patient in the",
+      "font": "SegoeUI-Light",
+      "size": 10.987592697143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.3060302734375,
+        527.5906372070312,
+        711.7490234375
+      ],
+      "text": "household and in comparable settings in which transmission occurs. It consists of identification, clinical",
+      "font": "SegoeUI-Light",
+      "size": 10.969908714294434,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.5059814453125,
+        527.4188842773438,
+        724.948974609375
+      ],
+      "text": "evaluation and/or testing and provision of appropriate TB treatment (for people with confirmed TB)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        723.7059936523438,
+        341.2864685058594,
+        738.1489868164062
+      ],
+      "text": "or TB preventive treatment (for people without TB disease).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.300048828125,
+        527.44140625,
+        759.85302734375
+      ],
+      "text": "Decentralization:  Depending on the standard in the research settings used for the comparator, this",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.6099243164062,
+        527.4367065429688,
+        773.0529174804688
+      ],
+      "text": "includes provision of, access to or capacity for child and adolescent TB services at a lower level of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        489.3196105957031,
+        801.0170288085938,
+        552.4254150390625,
+        811.52099609375
+      ],
+      "text": "Definitions  xi",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

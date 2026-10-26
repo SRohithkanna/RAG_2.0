@@ -1,0 +1,330 @@
+{
+  "file": "module1",
+  "page": 243,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30271911621094,
+        122.26266479492188,
+        84.57271575927734
+      ],
+      "text": "V-QUIN",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        91.01463317871094,
+        131.14610290527344,
+        105.52363586425781
+      ],
+      "text": "Sample size",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        112.98261260986328,
+        527.10009765625,
+        127.42561340332031
+      ],
+      "text": "The risk of incident TB in the placebo group was expected to be 3% during the follow-up period, with",
+      "font": "SegoeUI-Light",
+      "size": 10.989395141601562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.18262481689453,
+        527.4630126953125,
+        140.62562561035156
+      ],
+      "text": "an expected reduction in incident TB with Lfx by 70% in the treatment group, based on estimates",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.3826446533203,
+        527.4419555664062,
+        153.8256378173828
+      ],
+      "text": "of isoniazid efficacy in DS-TB. The sample size was increased to allow for 17% FQ resistance among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.58265686035156,
+        527.3880615234375,
+        167.02565002441406
+      ],
+      "text": "patients with RR/MDR-TB in Viet Nam, a 10% drop-out rate and a design effect of 1.04 at district",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.7826690673828,
+        527.4443969726562,
+        180.2256622314453
+      ],
+      "text": "level and 1.07 at household level. To determine superiority, the required sample size was 1003 per",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        178.98268127441406,
+        527.4301147460938,
+        193.42567443847656
+      ],
+      "text": "arm on the basis of a two-sided alpha level of 0.05 and a power of 80%, allowing for clustering at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        192.18263244628906,
+        202.93161010742188,
+        206.6256866455078
+      ],
+      "text": "levels. district and household",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        217.0492401123047,
+        190.21238708496094,
+        235.31924438476562
+      ],
+      "text": "Statistical analyses",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.0251007080078,
+        78.23609924316406,
+        256.4681091308594
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        242.0251007080078,
+        527.4169921875,
+        256.4681091308594
+      ],
+      "text": "The analysis was conducted according to a plan. Group assignment was blinded until analyses",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        255.22511291503906,
+        527.4036865234375,
+        269.6681213378906
+      ],
+      "text": "were complete. The primary analysis included the intention-to-treat (ITT) population. ITT analyses",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        268.42510986328125,
+        527.4298706054688,
+        282.8681335449219
+      ],
+      "text": "were also performed on the secondary (composite) outcomes of bacteriologically confirmed or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        281.6251220703125,
+        527.5393676757812,
+        296.0681457519531
+      ],
+      "text": "clinically probable TB and all-cause mortality. The per-protocol population included all randomized",
+      "font": "SegoeUI-Light",
+      "size": 10.978679656982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        294.82513427734375,
+        527.1347045898438,
+        309.2681579589844
+      ],
+      "text": "participants who completed at least 80% of their assigned treatment. The mITT population excluded",
+      "font": "SegoeUI-Light",
+      "size": 10.955811500549316,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        308.02508544921875,
+        481.1102294921875,
+        322.4681091308594
+      ],
+      "text": "contacts of patients with RIF-susceptible TB and participants who did not start therapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.22509765625,
+        78.23609924316406,
+        335.6681213378906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        321.22509765625,
+        527.4344482421875,
+        335.6681213378906
+      ],
+      "text": "An interim safety analysis was performed to assess the rate of grade 3 and 4 adverse events after",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        334.42510986328125,
+        527.400146484375,
+        348.8681335449219
+      ],
+      "text": "600 contacts had completed 6 months of therapy. A pre-specified secondary Bayesian analysis was",
+      "font": "SegoeUI-Light",
+      "size": 10.980132102966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        347.6250915527344,
+        485.47723388671875,
+        362.068115234375
+      ],
+      "text": "conducted to evaluate the incidence of confirmed or clinically probable TB at 54 weeks.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.8251037597656,
+        78.23609924316406,
+        375.26812744140625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        360.8251037597656,
+        527.402099609375,
+        375.26812744140625
+      ],
+      "text": "The incidence rate ratios and 95% confidence intervals (95% CIs) were estimated in a marginal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        374.0251159667969,
+        401.95855712890625,
+        388.4681396484375
+      ],
+      "text": "Poisson regression model fitted via generalized estimating equations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.22509765625,
+        78.23609924316406,
+        401.6681213378906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        387.22509765625,
+        456.1239929199219,
+        401.6681213378906
+      ],
+      "text": "A complete case analysis was performed for the primary and secondary analyses.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.7414855957031,
+        801.0170288085938,
+        556.0995483398438,
+        811.52099609375
+      ],
+      "text": "Annex 5. Summary of unpublished studies (PICO 10) 225",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

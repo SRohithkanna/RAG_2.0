@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 16,
+  "blocks": [
+    {
+      "bbox": [
+        76.535400390625,
+        83.70941925048828,
+        516.0057983398438,
+        96.85441589355469
+      ],
+      "text": "15.\t For people with confirmed MDR/RR-TB, SL-LPA may be used as the initial test, instead",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37789916992188,
+        96.70941925048828,
+        420.3333740234375,
+        109.85441589355469
+      ],
+      "text": "of phenotypic culture-based DST, to detect resistance to the SLIDs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37789916992188,
+        114.14842987060547,
+        451.9310302734375,
+        127.02943420410156
+      ],
+      "text": "(Conditional recommendation, low certainty of evidence for test accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        142.60382080078125,
+        517.9802856445312,
+        155.7488250732422
+      ],
+      "text": "16.\t For people with bacteriologically confirmed TB, high-complexity reverse hybridization-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37789916992188,
+        155.60382080078125,
+        491.71588134765625,
+        168.7488250732422
+      ],
+      "text": "based NAATs may be used on   culture isolates for detection of pyrazinamide  Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        168.60382080078125,
+        355.57098388671875,
+        181.7488250732422
+      ],
+      "text": "resistance rather than culture-based phenotypic DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        186.042724609375,
+        393.9391174316406,
+        198.92372131347656
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        214.49810791015625,
+        494.72088623046875,
+        227.6431121826172
+      ],
+      "text": "17.\t For people with bacteriologically confirmed pulmonary TB disease, targeted next-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        227.49810791015625,
+        516.7979736328125,
+        240.6431121826172
+      ],
+      "text": "generation sequencing technologies may be used on respiratory samples to diagnose",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        240.49810791015625,
+        507.81085205078125,
+        253.6431121826172
+      ],
+      "text": "resistance to rifampicin, isoniazid, fluoroquinolones, pyrazinamide and ethambutol,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        253.49810791015625,
+        304.31097412109375,
+        266.64312744140625
+      ],
+      "text": "rather than culture-based phenotypic DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        270.9371337890625,
+        470.0482177734375,
+        283.818115234375
+      ],
+      "text": "(Conditional recommendation, certainty of evidence moderate [isoniazid and",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        283.9371337890625,
+        438.02703857421875,
+        296.818115234375
+      ],
+      "text": "pyrazinamide] and low [rifampicin, fluoroquinolones and ethambutol])",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        312.39251708984375,
+        521.2969360351562,
+        325.53753662109375
+      ],
+      "text": "18.\t For people with bacteriologically confirmed rifampicin-resistant pulmonary TB disease,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        325.39251708984375,
+        484.4359130859375,
+        338.53753662109375
+      ],
+      "text": "targeted next-generation sequencing technologies may be used on respiratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        338.39251708984375,
+        512.3098754882812,
+        351.53753662109375
+      ],
+      "text": "samples to diagnose resistance to isoniazid, fluoroquinolones, bedaquiline, linezolid,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        351.39251708984375,
+        489.099853515625,
+        364.53753662109375
+      ],
+      "text": "clofazimine, pyrazinamide, ethambutol, amikacin and streptomycin, rather than",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        364.39251708984375,
+        246.2200164794922,
+        377.53753662109375
+      ],
+      "text": "culture-based phenotypic DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        381.8315124511719,
+        511.067138671875,
+        394.7124938964844
+      ],
+      "text": "(Conditional recommendation, certainty of evidence high [isoniazid, fluoroquinolones",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        394.8315124511719,
+        503.11419677734375,
+        407.7124938964844
+      ],
+      "text": "and pyrazinamide], moderate [ethambutol], low [bedaquiline, linezolid, clofazimine",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        407.8315124511719,
+        304.5860595703125,
+        420.7124938964844
+      ],
+      "text": "and streptomycin] and very low [amikacin])",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        436.28680419921875,
+        518.8617553710938,
+        449.43182373046875
+      ],
+      "text": "19.\t antigen-based skin tests may be used to test for TB infection.  Mycobacterium tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        453.725830078125,
+        477.13214111328125,
+        466.6068115234375
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence for test accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        482.18121337890625,
+        513.7728271484375,
+        495.32623291015625
+      ],
+      "text": "20.\t Either a tuberculin skin test or an interferon-gamma release assay can be used to test",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        495.18121337890625,
+        173.93899536132812,
+        508.32623291015625
+      ],
+      "text": "for TB infection.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        512.6202392578125,
+        450.7541198730469,
+        525.501220703125
+      ],
+      "text": "(Strong recommendation, very low certainty of evidence for test accuracy)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.535400390625,
+        541.0755004882812,
+        487.3948974609375,
+        554.2205200195312
+      ],
+      "text": "21.\t Interferon-gamma release assays (IGRAs) and tuberculin skin tests (TSTs) should",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        554.0755004882812,
+        505.96295166015625,
+        567.2205200195312
+      ],
+      "text": "not be used in low- and middle-income countries for the diagnosis of pulmonary or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        567.0755004882812,
+        501.4858703613281,
+        580.2205200195312
+      ],
+      "text": "extrapulmonary TB or for the diagnostic work-up of adults (including people living",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        580.0755004882812,
+        267.25201416015625,
+        593.2205200195312
+      ],
+      "text": "with HIV) with suspected active TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        96.37799835205078,
+        597.5145263671875,
+        221.66806030273438,
+        610.3955078125
+      ],
+      "text": "(Strong recommendation)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.5753784179688,
+        526.0820922851562,
+        634.1353759765625
+      ],
+      "text": "DNA: deoxyribonucleic acid; DST: drug susceptibility testing; HIV: human immunodeficiency virus; LF-LAM: lateral flow urine",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.5753784179688,
+        526.296630859375,
+        645.1353759765625
+      ],
+      "text": "lipoarabinomannan assay; LPA: line probe assay; MDR/RR-TB: multidrug-resistant or rifampicin-resistant TB;  :  Mtb Mycobacterium",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.997649669647217,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.5753784179688,
+        526.1854858398438,
+        656.1353759765625
+      ],
+      "text": "; MTBC:  complex; NAAT: nucleic acid amplification test; NGS: next-generation sequencing;  tuberculosis Mycobacterium tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 7.977869510650635,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.5753784179688,
+        505.1873474121094,
+        667.1353759765625
+      ],
+      "text": "SL-LPA: second-line line probe assay; SLID: second-line injectable drug; TB: tuberculosis; WHO: World Health Organization.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.554500579833984,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "xiv WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

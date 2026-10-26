@@ -1,0 +1,642 @@
+{
+  "file": "module4",
+  "page": 134,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        495.0447692871094,
+        81.63569641113281
+      ],
+      "text": "PICO question 1–2019 (MDR/RR-TB, 2019) (use of bedaquiline longer than 6 months)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.09461212158203,
+        527.4296264648438,
+        103.53761291503906
+      ],
+      "text": "To analyse treatment success, failure, relapse and death for the use of bedaquiline longer than 6 months,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.29462432861328,
+        527.6184692382812,
+        116.73762512207031
+      ],
+      "text": "the data were derived from the endTB observational study, with the overall dataset comprising a total",
+      "font": "SegoeUI-Light",
+      "size": 10.984689712524414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        114.21863555908203,
+        527.4273681640625,
+        129.93763732910156
+      ],
+      "text": "(77) of 1094 patients from 13 countries  .  The data analysed to answer this question were patients  39",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.5487060546875,
+        143.13758850097656
+      ],
+      "text": "from the endTB observational study cohort who received bedaquiline for at least 6 months, had",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.433349609375,
+        156.3376007080078
+      ],
+      "text": "started bedaquiline within the first month of the treatment episode and did not receive delamanid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.43310546875,
+        169.53773498535156
+      ],
+      "text": "concomitantly with bedaquiline during treatment; among patients with treatment success, data were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4354858398438,
+        182.73768615722656
+      ],
+      "text": "from those who received at least 17.5 months of treatment overall. A total of 515 patients met these",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.5509643554688,
+        195.9376983642578
+      ],
+      "text": "criteria. The intervention group comprised 242 patients who received bedaquiline for more than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.4044189453125,
+        209.13771057128906
+      ],
+      "text": "203 days  overall, and they were compared to 273 patients who received bedaquiline for a total  40",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.4299926757812,
+        222.3376007080078
+      ],
+      "text": "of 168–203 days. Additional data sources considered by the GDG 2019 included a cohort of 112",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.421142578125,
+        235.53773498535156
+      ],
+      "text": "patients from Belarus treated with bedaquiline (of whom two had inadequate treatment information",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.613037109375,
+        248.73768615722656
+      ],
+      "text": "and were excluded), and a cohort of 123 patients from an MSF-managed clinic in Uzbekistan treated",
+      "font": "SegoeUI-Light",
+      "size": 10.998799324035645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.4947052001953,
+        527.439697265625,
+        261.9377136230469
+      ],
+      "text": "with bedaquiline (with one patient excluded due to inadequate treatment information). Of these 232",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.6947021484375,
+        527.3948364257812,
+        275.1377258300781
+      ],
+      "text": "eligible patients, 65 received bedaquiline for more than 203 days and 72 received bedaquiline for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        470.7161865234375,
+        288.3376159667969
+      ],
+      "text": "168–203 days. The primary analyses featured the endTB observational study data only.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.7059326171875,
+        507.66839599609375,
+        313.0609130859375
+      ],
+      "text": "PICO question 2–2019 (MDR/RR-TB, 2019) (use of bedaquiline and delamanid together)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        320.5198974609375,
+        527.3848266601562,
+        334.9629211425781
+      ],
+      "text": "To analyse treatment success, failure, relapse and death for the concurrent use of bedaquiline and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.71990966796875,
+        527.3859252929688,
+        348.1629333496094
+      ],
+      "text": "delamanid, the data were derived from the same cohort of patients from the endTB observational",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        346.9198913574219,
+        527.39697265625,
+        361.3629150390625
+      ],
+      "text": "study that informed PICO question 1–2019. However, in this dataset, only 92 patients received both",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.1199035644531,
+        527.421142578125,
+        374.56292724609375
+      ],
+      "text": "medicines together for any period of time, and even fewer started bedaquiline and delamanid at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.0439147949219,
+        527.4105224609375,
+        387.762939453125
+      ],
+      "text": "n the same time and within the first month of treatment ( =35). Another three patients were receiving",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.5198974609375,
+        527.4356079101562,
+        400.9629211425781
+      ],
+      "text": "concomitant bedaquiline and delamanid by the end of the first month of treatment, bringing the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.71990966796875,
+        527.4013061523438,
+        414.1629333496094
+      ],
+      "text": "total number to 38. The remaining 57 patients started the two medicines more than 30 days apart",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.9198913574219,
+        527.5614624023438,
+        427.3629150390625
+      ],
+      "text": "and were therefore not included. Additional data sources comprised a cohort of 100 patients treated",
+      "font": "SegoeUI-Light",
+      "size": 10.99744987487793,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.1199035644531,
+        527.3733520507812,
+        440.56292724609375
+      ],
+      "text": "with bedaquiline in Mumbai, India (from an MSF-supported project), of whom 86 received some form",
+      "font": "SegoeUI-Light",
+      "size": 10.980432510375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.3199157714844,
+        527.41455078125,
+        453.762939453125
+      ],
+      "text": "of concomitant treatment with bedaquiline and delamanid during therapy; 62 of these 86 initiated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.5198974609375,
+        527.4354248046875,
+        466.9629211425781
+      ],
+      "text": "the two medicines within 30 days of each other, and 46 of these 62 began both medicines during",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.71990966796875,
+        527.4210815429688,
+        480.1629333496094
+      ],
+      "text": "the first month of their treatment episode. The total intervention population therefore comprised 84",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.9198913574219,
+        527.3968505859375,
+        493.3629150390625
+      ],
+      "text": "patients: 38 from the endTB observational study cohort and 46 from the Mumbai dataset. Because",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.1199035644531,
+        527.4277954101562,
+        506.56292724609375
+      ],
+      "text": "the data available were limited, the sources of data for the comparator populations were derived",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.3199462890625,
+        527.4277954101562,
+        519.762939453125
+      ],
+      "text": "from the endTB observational study, and the datasets from Belarus, Mumbai and Uzbekistan. There",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.243896484375,
+        527.42431640625,
+        532.962890625
+      ],
+      "text": "n were inadequate numbers of patients available in the IPD for any meaningful analyses ( =4 patients",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.7199096679688,
+        527.3890991210938,
+        546.1629028320312
+      ],
+      "text": "who received bedaquiline and delamanid together). The primary comparison group included 401",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.6439208984375,
+        527.42724609375,
+        559.3629150390625
+      ],
+      "text": "n n n patients ( =302 from the endTB observational study,  =82 from the Belarus dataset,  =17 from the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.8438720703125,
+        527.5145874023438,
+        572.5628662109375
+      ],
+      "text": "n Uzbekistan dataset and  =0 from the Mumbai dataset). These patients initiated bedaquiline within the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.971161842346191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.3199462890625,
+        527.4409790039062,
+        585.762939453125
+      ],
+      "text": "first month of treatment and did not receive bedaquiline beyond 6 months duration. The secondary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.5198974609375,
+        527.5484619140625,
+        598.962890625
+      ],
+      "text": "comparison group was derived from the endTB observational study and comprised 102 patients who",
+      "font": "SegoeUI-Light",
+      "size": 10.98569107055664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.7199096679688,
+        527.6177978515625,
+        612.1629028320312
+      ],
+      "text": "received delamanid within the first month of treatment and who did not receive an extended duration",
+      "font": "SegoeUI-Light",
+      "size": 10.97807788848877,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.919921875,
+        527.3881225585938,
+        625.3629150390625
+      ],
+      "text": "of delamanid. No patients in the datasets from Belarus, Mumbai or Uzbekistan received delamanid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.119873046875,
+        527.41357421875,
+        638.5628662109375
+      ],
+      "text": "for this duration. The median duration of concurrent use of bedaquiline and delamanid among the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.3198852539062,
+        453.93896484375,
+        651.7628784179688
+      ],
+      "text": "84 patients in the intervention group was 18.5 months (IQR: 9 months, 21 months).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        659.0238037109375,
+        527.6160888671875,
+        673.466796875
+      ],
+      "text": "Additional data presented included safety data from the DELamanId Bedaquiline for ResistAnt",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.2238159179688,
+        527.0985717773438,
+        686.6668090820312
+      ],
+      "text": "TubErculosis (DELIBERATE) trial (AIDS Clinical Trials Group A5343). The DELIBERATE trial is a randomized,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.423828125,
+        527.3905639648438,
+        699.8668212890625
+      ],
+      "text": "open-label, three-arm pharmacokinetic and safety trial conducted at study sites in Peru and South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.623779296875,
+        527.2606201171875,
+        713.0667724609375
+      ],
+      "text": "Africa. Eligible patients were aged 18 years and older, with pulmonary MDR-TB (or rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.8370971679688,
+        526.565185546875,
+        741.5410766601562
+      ],
+      "text": "These countries are Armenia, Bangladesh, Belarus, the Democratic People’s Republic of Korea, Ethiopia, Georgia, Indonesia, Kazakhstan,  39",
+      "font": "SegoeUI-Light",
+      "size": 7.990494251251221,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        740.6371459960938,
+        233.6693115234375,
+        751.14111328125
+      ],
+      "text": "Kenya, Lesotho, Myanmar, Pakistan and Peru.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        526.5615234375,
+        763.5758056640625
+      ],
+      "text": "203 days was chosen as a cut-off as the intermodal trough of bedaquiline use for all patients in the endTB observational study was  40",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        286.5645446777344,
+        773.17578125
+      ],
+      "text": "203 days; the cut-off was not 6 months exactly, but 203 days.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "120 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

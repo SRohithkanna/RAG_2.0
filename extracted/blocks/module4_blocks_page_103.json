@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 103,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.24169921875,
+        81.83369445800781
+      ],
+      "text": "population, and in randomized trials in which subgroup analyses were performed (including by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.399169921875,
+        95.03370666503906
+      ],
+      "text": "fluoroquinolone resistance status). Covariate selection for calculation of propensity scores was based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.4234008789062,
+        108.23371887207031
+      ],
+      "text": "on data availability and clinical knowledge. The covariates considered for inclusion in the propensity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.1451416015625,
+        121.43373107910156
+      ],
+      "text": "scores analysis included age, gender, baseline smear result, HIV status (including antiretroviral",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4102172851562,
+        134.6337432861328
+      ],
+      "text": "treatment status), prior treatment history (including whether previous infection was drug resistant),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.13916015625,
+        147.8336944580078
+      ],
+      "text": "body mass index, smoking status, diabetes diagnosis, cavitation at baseline, disease site and presence",
+      "font": "SegoeUI-Light",
+      "size": 10.981634140014648,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.4268798828125,
+        161.03370666503906
+      ],
+      "text": "of bilateral disease. For the calculation of aRRs, multiple imputation by chain equations using the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.392578125,
+        174.2337188720703
+      ],
+      "text": "“within” propensity score approach was used to account for missing data in potential confounders",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        415.597412109375,
+        187.43373107910156
+      ],
+      "text": "when the proportion of missing values for a confounder was less than 45%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.8345489501953,
+        523.96435546875,
+        219.49453735351562
+      ],
+      "text": "Summary of evidence on desirable and undesirable effects and certainty of evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.8096923828125,
+        134.5330047607422,
+        244.16468811035156
+      ],
+      "text": "PICO 1–2019",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.6237335205078,
+        527.4999389648438,
+        266.0667419433594
+      ],
+      "text": "The primary analysis performed in 2019 using programmatic data from South Africa indicated that the",
+      "font": "SegoeUI-Light",
+      "size": 10.965145111083984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        264.82373046875,
+        527.4321899414062,
+        279.2667541503906
+      ],
+      "text": "use of a shorter all-oral bedaquiline-containing regimen in patients with MDR/RR-TB was associated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.023681640625,
+        92.16209411621094,
+        292.4667053222656
+      ],
+      "text": "with:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.72772216796875,
+        78.23609924316406,
+        314.1707458496094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        299.72772216796875,
+        527.4124755859375,
+        314.1707458496094
+      ],
+      "text": "higher treatment success rates (73% all-oral versus 60% standardized shorter regimen success",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        312.9276123046875,
+        527.4246215820312,
+        327.3706359863281
+      ],
+      "text": "rates, adjusted odds ratio [aOR] for success versus failure or recurrence: 2.1, 95% CI: 1.1–4.0; aOR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        326.1275939941406,
+        527.4124755859375,
+        340.57061767578125
+      ],
+      "text": "success versus death: 1.6, 95% CI: 1.2–2.1; aOR success versus failure, recurrence or death: 1.7,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        339.3276062011719,
+        514.3235473632812,
+        353.7706298828125
+      ],
+      "text": "95% CI: 1.3–2.2; and aOR success versus all unfavourable outcomes: 1.9, 95% CI: 1.6–2.4); and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.5276184082031,
+        78.23609924316406,
+        366.97064208984375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        352.5276184082031,
+        527.1598510742188,
+        366.97064208984375
+      ],
+      "text": "lower loss to follow-up than a standardized shorter regimen in which an injectable agent was used",
+      "font": "SegoeUI-Light",
+      "size": 10.989544868469238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        365.72760009765625,
+        409.5639343261719,
+        380.1706237792969
+      ],
+      "text": "(aOR loss to follow-up versus all other outcomes: 0.5, 95% CI: 0.4–0.7).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.4316101074219,
+        527.4403686523438,
+        401.8746337890625
+      ],
+      "text": "A similar effect for subgroups of patients with acid-fast bacilli (AFB) smear-positive sputum and PLHIV",
+      "font": "SegoeUI-Light",
+      "size": 10.986592292785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.631591796875,
+        527.4345092773438,
+        415.0746154785156
+      ],
+      "text": "and HIV-negative patients was observed with the use of the shorter all-oral bedaquiline-containing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.83160400390625,
+        111.17118835449219,
+        428.2746276855469
+      ],
+      "text": "regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.5354919433594,
+        527.4542236328125,
+        449.978515625
+      ],
+      "text": "The analysis also indicated that when the shorter all-oral bedaquiline-containing regimen was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.7355041503906,
+        527.40576171875,
+        463.17852783203125
+      ],
+      "text": "compared with an injectable-free longer regimen containing bedaquiline, there seemed to be no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.9355163574219,
+        527.2473754882812,
+        476.3785400390625
+      ],
+      "text": "marked differences in the outcomes observed. However, relatively modest beneficial effects were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.135498046875,
+        527.42236328125,
+        489.5785217285156
+      ],
+      "text": "noted in the direction of the intervention; in particular, success versus failure or recurrence (aOR: 3.9,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.33551025390625,
+        527.42333984375,
+        502.7785339355469
+      ],
+      "text": "95% CI: 1.7–9.1), success versus all unfavourable outcomes (aOR: 1.6, 95% CI: 1.2–2.2) and loss to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.5355224609375,
+        527.4354248046875,
+        515.978515625
+      ],
+      "text": "follow-up (aOR: 0.5, 95% CI: 0.4–0.8), all favouring the use of the all-oral shorter regimen. Further",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.7354736328125,
+        527.3981323242188,
+        529.178466796875
+      ],
+      "text": "subgroup analysis suggested consistent differences in treatment outcomes, as observed in primary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.935546875,
+        527.4124145507812,
+        542.3785400390625
+      ],
+      "text": "analyses among subgroups, in particular among AFB smear-positive patients and in PLHIV on ART;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.135498046875,
+        527.4278564453125,
+        555.5784912109375
+      ],
+      "text": "however, differences in treatment outcomes in all-oral shorter and longer regimens were no longer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.3355102539062,
+        527.5992431640625,
+        568.7785034179688
+      ],
+      "text": "significant when looking at outcomes for HIV-negative individuals, with the exception of loss to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.5355224609375,
+        527.4188842773438,
+        581.978515625
+      ],
+      "text": "follow-up, which favoured the intervention. The additional comparison also illustrated the effect of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.7354736328125,
+        527.3937377929688,
+        595.178466796875
+      ],
+      "text": "a shorter all-oral bedaquiline-containing regimen in comparison with longer regimens without any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.9354858398438,
+        527.3937377929688,
+        608.3784790039062
+      ],
+      "text": "new drugs. The all-oral shorter regimen performed significantly better across all outcomes and all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.135498046875,
+        208.43765258789062,
+        621.5784912109375
+      ],
+      "text": "subgroups in this comparison.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.9468383789062,
+        134.5330047607422,
+        646.3018188476562
+      ],
+      "text": "PICO 1–2022",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.7607421875,
+        524.421630859375,
+        668.2037353515625
+      ],
+      "text": "For the assessment performed in preparation for the 2022 GDG, 8653 records of patients with MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.960693359375,
+        527.3990478515625,
+        681.4036865234375
+      ],
+      "text": "RR-TB initiating TB treatment at any time between January and December 2017 were considered,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.1607055664062,
+        527.4015502929688,
+        694.6036987304688
+      ],
+      "text": "of which the following were included for analyses: 4244 patients treated with a shorter regimen that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.3607177734375,
+        527.4234008789062,
+        707.8037109375
+      ],
+      "text": "included linezolid (used in South Africa in 2019) (intervention), 880 patients who received a shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        706.5607299804688,
+        527.4199829101562,
+        721.0037231445312
+      ],
+      "text": "all-oral bedaquiline-containing 9-month regimen with ethionamide (used in South Africa in 2017)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.7606811523438,
+        527.3915405273438,
+        734.2036743164062
+      ],
+      "text": "(comparator), and 850 patients treated with longer regimens that included at least bedaquiline and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.960693359375,
+        114.21707916259766,
+        747.4036865234375
+      ],
+      "text": "linezolid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  89",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

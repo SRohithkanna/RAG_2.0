@@ -1,0 +1,462 @@
+{
+  "file": "Latent",
+  "page": 29,
+  "blocks": [
+    {
+      "bbox": [
+        70.8660888671875,
+        54.51732635498047,
+        407.55096435546875,
+        67.68732452392578
+      ],
+      "text": "Fig. 2\t Algorithm for screening children aged   1 year living with HIV for TB ≥",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        217.36270141601562,
+        93.73180389404297,
+        378.85784912109375,
+        105.5038070678711
+      ],
+      "text": "Children aged   12 months living with HIV a ≥",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        206.91549682617188,
+        134.6766357421875,
+        391.04925537109375,
+        146.30462646484375
+      ],
+      "text": "Screen for any of the following symptoms of TB:",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        264.7225036621094,
+        144.6756591796875,
+        331.2593688964844,
+        156.30364990234375
+      ],
+      "text": "Poor weight gain b",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        287.58380126953125,
+        154.6766357421875,
+        308.39984130859375,
+        166.30462646484375
+      ],
+      "text": "Fever",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        270.4837951660156,
+        164.6756591796875,
+        325.49725341796875,
+        176.30364990234375
+      ],
+      "text": "Current cough",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        221.11878967285156,
+        174.6746826171875,
+        374.8577575683594,
+        186.30267333984375
+      ],
+      "text": "History of contact with a person with TB",
+      "font": "Whitney-Medium",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        194.9239044189453,
+        195.6149444580078,
+        402.5435485839844,
+        207.88894653320312
+      ],
+      "text": "No Yes",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.12989807128906,
+        229.49024963378906,
+        499.63421630859375,
+        241.76425170898438
+      ],
+      "text": "Assess for contraindications to preventive treatment Investigate for TB and other diseases c d",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        129.61830139160156,
+        272.0098876953125,
+        509.17877197265625,
+        284.2839050292969
+      ],
+      "text": "No Yes Other diagnosis Not TB TB",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.39910125732422,
+        314.19891357421875,
+        518.7079467773438,
+        327.4295959472656
+      ],
+      "text": "Treat   Give preventive  Defer preventive  Give appropriate  Follow up",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        115.48560333251953,
+        326.1974182128906,
+        517.616943359375,
+        339.4281005859375
+      ],
+      "text": "for TB e treatment treatment treatment and and",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        343.85809326171875,
+        339.152587890625,
+        462.7227783203125,
+        351.4266052246094
+      ],
+      "text": "consider   consider",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        341.1221008300781,
+        351.1510925292969,
+        465.4577941894531,
+        363.42510986328125
+      ],
+      "text": "preventive  preventive",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        342.0721130371094,
+        363.14959716796875,
+        462.42352294921875,
+        375.4236145019531
+      ],
+      "text": "treatment treatment",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        119.80740356445312,
+        408.0729064941406,
+        475.48358154296875,
+        420.346923828125
+      ],
+      "text": "Screen for TB regularly, at each encounter with a health worker or visit to a health facility",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.9551086425781,
+        489.903564453125,
+        448.859130859375
+      ],
+      "text": "All infants < 1 year of age should be given preventive treatment if they have a history of household contact with a TB case. a",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.9551086425781,
+        526.1525268554688,
+        458.859130859375
+      ],
+      "text": "Poor weight gain is defined as reported weight loss, very low weight-for-age (< –3 z-score), underweight (weight-for-age < –2 z-score),  b",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        458.6191101074219,
+        335.94354248046875,
+        468.859130859375
+      ],
+      "text": "confirmed weight loss (> 5%) since the last visit or growth curve flattening.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.9551086425781,
+        526.252197265625,
+        478.859130859375
+      ],
+      "text": "Contraindications include active hepatitis (acute or chronic) and symptoms of peripheral neuropathy. A history of TB should not be  c",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        478.6191101074219,
+        526.242431640625,
+        488.859130859375
+      ],
+      "text": "a contraindication for starting preventive treatment. Although LTBI testing is not a requirement for initiating preventive treatment, it",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        488.6191101074219,
+        285.3562316894531,
+        498.859130859375
+      ],
+      "text": "may be done as a part of eligibility screening where feasible.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        495.9551086425781,
+        526.26220703125,
+        508.859130859375
+      ],
+      "text": "Xpert MTB/RIF should be used as the initial diagnostic test for TB. Detailed algorithms for people living with HIV who have suspected  d",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        508.61907958984375,
+        526.2352905273438,
+        518.8590698242188
+      ],
+      "text": "TB are available in the WHO consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        518.6190795898438,
+        365.6986083984375,
+        528.8590698242188
+      ],
+      "text": "(http://apps.who.int/iris/bitstream/10665/208825/1/9789241549684_eng.pdf).",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.9551391601562,
+        357.3988342285156,
+        538.8590698242188
+      ],
+      "text": "Resume regular screening for TB after completion of treatment for active disease.  e",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.6911010742188,
+        526.6951293945312,
+        592.4910888671875
+      ],
+      "text": "study suggested that providing preventive treatment without LTBI testing is cost-effective for child contacts",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.6911010742188,
+        179.11610412597656,
+        606.4910888671875
+      ],
+      "text": "under 5 years of age  .  (37)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.7020263671875,
+        499.16400146484375,
+        637.7060546875
+      ],
+      "text": "3.2.2\t HIV-negative household contacts aged   5 years and other at-risk groups ≥",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        656.0759887695312,
+        493.5992126464844,
+        668.3499755859375
+      ],
+      "text": "The absence of any symptoms of TB and the absence of abnormal chest radiographic findings may be",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        668.0745239257812,
+        489.1836242675781,
+        680.5005493164062
+      ],
+      "text": "used to rule out active TB disease among HIV-negative household contacts aged   5 years and other  ≥",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        680.0350341796875,
+        498.1336669921875,
+        692.3469848632812
+      ],
+      "text": "New  at-risk groups before preventive treatment.  (Conditional recommendation, very low-quality evidence.",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        692.0335693359375,
+        155.1208953857422,
+        704.3455200195312
+      ],
+      "text": "recommendation )",
+      "font": "Whitney-SemiboldItalic",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.734619140625,
+        171.68173217773438,
+        749.2385864257812
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.5573120117188,
+        526.6630859375,
+        765.3572998046875
+      ],
+      "text": "We updated the previous systematic review used for the 2015 guidelines   to determine the sensitivity  (9, 10)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        766.5573120117188,
+        524.4453735351562,
+        779.3572998046875
+      ],
+      "text": "and specificity of screening based on symptoms and/or chest radiography for ruling out active TB in HIV-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        552.4227294921875,
+        810.61279296875
+      ],
+      "text": "17",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        336.91900634765625,
+        796.524658203125,
+        524.4110107421875,
+        805.5686645507812
+      ],
+      "text": "3. ALGORITHMS FOR RULING OUT ACTIVE TUBERCULOSIS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

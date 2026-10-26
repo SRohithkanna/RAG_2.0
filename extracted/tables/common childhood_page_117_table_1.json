@@ -1,0 +1,72 @@
+{
+  "file": "common childhood",
+  "page": 117,
+  "table_id": 1,
+  "bbox": [
+    56.942901611328125,
+    61.6538340250651,
+    364.7329577636719,
+    622.9140014648438
+  ],
+  "heading": "ANNEX 6. TABLES",
+  "n_rows": 4,
+  "n_cols": 12,
+  "data": [
+    [
+      "STUDY’S FIRST AUTHOR, PUB­ LICATION DATE, SETTING",
+      "SETTING (ALTI­ TUDE ABOVE SEA LEVEL)",
+      "STUDY OBJECTIVES",
+      "DESIGN",
+      "AGE",
+      "SAMPLE SIZE (NUMBER WITH HYPOXAEMIA)",
+      "INCLUSION CRITERIA",
+      "EXCLUSION CRITERIA",
+      "DEFINITION OF HYPOXIA",
+      "METHODOLOGY FOR DETECTING CLINICAL SIGNS CLEARLY DESCRIBED?",
+      "METHODOLOGY FOR GOLD STAND­ ARD MEASURE­ MENTS CLEARLY DESCRIBED?",
+      "NOTES"
+    ],
+    [
+      "Lozano 1994 Colombia",
+      "ED or OPD of Tertiary hospital (2640m)",
+      "Determine the usefulness of clinical signs in predicting hypoxaemia and radiological pneumonia",
+      "Prospective observational",
+      "7 days– 36 mths",
+      "200 (125)",
+      "Cough lasting up to 7 days and had a chest X-ray ordered.",
+      "Cardiovascular, pulmonary, neurological congenital defects, pre- term, chronic disease, immuno- compromise, wheezing",
+      "<88%",
+      "Yes",
+      "Yes",
+      "Results not stratified by age"
+    ],
+    [
+      "Dyke 1995 PNG",
+      "District hospital (1800m)",
+      "Determine the usefulness of clinical signs in predicting hypoxaemia, and use these to develop a model of composite signs.",
+      "Prospective observational",
+      "3 mths– 3 years",
+      "91 (47)",
+      "Children diagnosed with pneumonia by nurses. No details given about inclusion criteria.",
+      "Not mentioned",
+      "<85%",
+      "No",
+      "No",
+      "A refresher course for nurses on clinical signs and use of oximetry"
+    ],
+    [
+      "Weber 1997 The Gambia",
+      "Paediatric ward, tertiary hospital (SL)",
+      "Determine the use­ fulness of clinical signs and symp­ toms in predicting hypoxaemia",
+      "Case-control",
+      "2 mths– 5 years",
+      "69 hypox­ aemic 67 control (pneumonia but no hy­ poxaemia)",
+      "Referral with ALRI. No details given.",
+      "Signs of congenital heart disease or meningitis",
+      "<90%",
+      "Yes",
+      "No",
+      ""
+    ]
+  ]
+}

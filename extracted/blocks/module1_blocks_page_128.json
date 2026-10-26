@@ -1,0 +1,390 @@
+{
+  "file": "module1",
+  "page": 128,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        39.173095703125,
+        40.87300109863281,
+        51.533084869384766
+      ],
+      "text": "110",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.14942169189453,
+        316.159912109375,
+        136.4346466064453
+      ],
+      "text": "Comparison with the general population for SR2 WHO consolidated",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.69390106201172,
+        88.39161682128906,
+        538.8214721679688,
+        103.75161743164062
+      ],
+      "text": "Development of TB disease in household contacts with TB infection in high TB incidence countries",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        104.22621154785156,
+        370.8254089355469,
+        119.58621215820312
+      ],
+      "text": "Comparison with the general population (follow-up, 12 months)",
+      "font": "Whitney-Book",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        441.0089111328125,
+        190.96578979492188,
+        639.930419921875,
+        204.58570861816406
+      ],
+      "text": "0/35 41/10 000 24.32  63",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        71.24559783935547,
+        198.56570434570312,
+        767.7779541015625,
+        210.08570861816406
+      ],
+      "text": "2  Cohort  Serious Serious Not serious Very serious  Very low Critical (10,18) b c d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        435.9311828613281,
+        204.06570434570312,
+        658.2369384765625,
+        217.68565368652344
+      ],
+      "text": "(0.73 ; 811.02) (–0.7 ; 2187.1) 32/230 13/10 000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        221.35650634765625,
+        335.0489501953125,
+        232.9755096435547
+      ],
+      "text": "Comparison: Household contacts aged 5–9 years vs general population",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        560.9940185546875,
+        236.56539916992188,
+        641.9580688476562,
+        248.0854034423828
+      ],
+      "text": "30.98  39",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.96219635009766,
+        242.06539916992188,
+        767.7779541015625,
+        253.5854034423828
+      ],
+      "text": "1  Cohort  Serious Not serious Not serious Serious 12/298 13/10 000 Low Critical (10) b f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        545.964599609375,
+        247.56539916992188,
+        655.1845092773438,
+        259.08538818359375
+      ],
+      "text": "(14.26 ; 67.31) (17.2 ; 86.2)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        262.75628662109375,
+        342.86004638671875,
+        274.37530517578125
+      ],
+      "text": "Comparison: Household contacts aged 10–14 years vs general population",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        564.8051147460938,
+        277.9652099609375,
+        643.615478515625,
+        289.4851989746094
+      ],
+      "text": "55.1  70.3",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.96219635009766,
+        283.4652099609375,
+        767.7779541015625,
+        294.9851989746094
+      ],
+      "text": "1  Cohort  Serious Not serious Not serious Serious 26/363  13/10 000 Low Critical (10) b f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        542.5569458007812,
+        288.9651794433594,
+        657.6051025390625,
+        300.4851989746094
+      ],
+      "text": "(28.55; 106.33) (35.8 ; 136.9)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        304.1560974121094,
+        338.0765380859375,
+        315.7751159667969
+      ],
+      "text": "Comparison: Household contacts aged 5–15 years vs general population",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        441.28839111328125,
+        319.364990234375,
+        643.6520385742188,
+        332.9848937988281
+      ],
+      "text": "4/67 41/10 000 27.13  70.5",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        71.24559783935547,
+        326.96490478515625,
+        767.7779541015625,
+        338.4848937988281
+      ],
+      "text": "2  Cohort  Serious Not serious Not serious Serious Low Critical (10,18) b e f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        437.0867004394531,
+        332.46490478515625,
+        657.8513793945312,
+        346.0848388671875
+      ],
+      "text": "(17.47 ; 54.07) (21.3 ; 220.7) 38/661 13/10 000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        349.75579833984375,
+        336.0614318847656,
+        361.37481689453125
+      ],
+      "text": "Comparison: Household contacts aged > 15 years vs general population",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        561.2581787109375,
+        364.9646911621094,
+        645.4739990234375,
+        376.4847106933594
+      ],
+      "text": "38.7 \n 30.74",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.96219635009766,
+        370.4646911621094,
+        767.7779541015625,
+        381.98468017578125
+      ],
+      "text": "1  Cohort  Serious Not serious Not serious Serious 155/3879 13/10 000 Low Critical (10) b f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        544.6397705078125,
+        375.9646911621094,
+        651.7843017578125,
+        387.48468017578125
+      ],
+      "text": "(17.46 ; 54.07) (21.4 ; 69)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        394.73260498046875,
+        212.35264587402344,
+        407.3326110839844
+      ],
+      "text": "LTBI does not apply to the general population. a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        406.73260498046875,
+        786.9078369140625,
+        416.3326110839844
+      ],
+      "text": "Ascertainment bias highly likely. TB cases in the general population detected passively, while TB cases in the contacts detected actively; therefore, relative and absolute risks might be overestimated. The composition of the  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61409759521484,
+        415.73260498046875,
+        388.40771484375,
+        425.3326110839844
+      ],
+      "text": "general and the study populations differs (general population of all ages versus a specific age group).",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        421.73260498046875,
+        401.36505126953125,
+        434.3326110839844
+      ],
+      "text": "High heterogeneity (I  = 83.9%) among studies, probably due to differences in background TB incidence.  c \t 2",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        430.73260498046875,
+        489.83831787109375,
+        443.3326110839844
+      ],
+      "text": "Serious imprecision with a wide 95% CI for the effect estimates, probably due to the small study size and number of outcome events.  d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        439.73260498046875,
+        580.64501953125,
+        452.3326110839844
+      ],
+      "text": "I  = 72.5%, indicating moderate heterogeneity, probably due to differences in background TB prevalence; however, there is a trend across age groups and studies.  e \t 2",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        451.73260498046875,
+        161.43885803222656,
+        461.3326110839844
+      ],
+      "text": "Few events and wide 95% CI.  f",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

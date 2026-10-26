@@ -1,0 +1,56 @@
+{
+  "file": "module1",
+  "page": 247,
+  "table_id": 2,
+  "bbox": [
+    71.08279978434244,
+    265.6101262019231,
+    523.6535074869792,
+    350.809814453125
+  ],
+  "heading": "Table A5.4. All-cause mortality",
+  "n_rows": 5,
+  "n_cols": 6,
+  "data": [
+    [
+      "Number of deaths",
+      "Weeks between randomization and death",
+      "Age (years)",
+      "Cause of death a",
+      "Attributable to TB a",
+      "Related to study drug"
+    ],
+    [
+      "Levofloxacin",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1",
+      "38.9",
+      "11 months",
+      "Cardiac arrest",
+      "Unrelated or unlikely",
+      "Unrelated"
+    ],
+    [
+      "Placebo",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1",
+      "11.3",
+      "12 months",
+      "Viral pneumonia",
+      "Unrelated or unlikely",
+      "Unlikely"
+    ]
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "file": "module3",
+  "page": 161,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        341.1220397949219,
+        85.31422424316406
+      ],
+      "text": "Use of IGRAs in the diagnosis of active TB",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        526.9259033203125,
+        108.71018981933594
+      ],
+      "text": "Studies included were those that evaluated the performance of the technologies of interest",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        526.9655151367188,
+        124.21018981933594
+      ],
+      "text": "for the diagnosis of TB disease among adult (>15 years) with presumed TB or people with TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        110.1799087524414,
+        139.71018981933594
+      ],
+      "text": "in LMIC.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.569091796875,
+        526.778076171875,
+        163.71409606933594
+      ],
+      "text": "The initial search yielded 789 citations. After full-text review of 185 papers evaluating IGRAs for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.969808578491211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        166.069091796875,
+        526.9974365234375,
+        179.21409606933594
+      ],
+      "text": "the diagnosis of active TB, 22 were determined to meet eligibility criteria, covering 33 unique",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.569091796875,
+        526.9698486328125,
+        194.71409606933594
+      ],
+      "text": "evaluations of one or more IGRAs (hereafter referred to as studies) in 19 published and three",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.069091796875,
+        526.6200561523438,
+        210.21409606933594
+      ],
+      "text": "unpublished reports. Of the 33 studies, 10 (30%) were from low-income countries and 23 (70%)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.947826385498047,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.569091796875,
+        526.991943359375,
+        225.71409606933594
+      ],
+      "text": "were from middle-income countries. Seventeen studies (52%) included PLHIV (n=1057), and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.069091796875,
+        526.9808959960938,
+        241.21409606933594
+      ],
+      "text": "27 studies (82%) involved ambulatory subjects (outpatients as well as hospitalized patients.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.569091796875,
+        526.7830200195312,
+        256.714111328125
+      ],
+      "text": "IGRAs were performed in people suspected of having active TB in 19 studies (58%) and in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.069091796875,
+        527.0249633789062,
+        272.214111328125
+      ],
+      "text": "people with known active TB in 14 studies (42%). Because of the focus on diagnostic accuracy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.569091796875,
+        526.8472900390625,
+        287.714111328125
+      ],
+      "text": "for active TB and the high prevalence of TB infection in high TB burden settings, IGRA specificity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.969457626342773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.069091796875,
+        526.926025390625,
+        303.214111328125
+      ],
+      "text": "was estimated exclusively among studies enrolling TB suspects where the diagnostic work-up",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.569091796875,
+        308.7151794433594,
+        318.714111328125
+      ],
+      "text": "ultimately showed no evidence of active disease.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.0731201171875,
+        306.5484313964844,
+        341.2181396484375
+      ],
+      "text": "The results demonstrated the following in LMIC:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.8251037597656,
+        78.81909942626953,
+        360.9701232910156
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        347.8251037597656,
+        526.9937133789062,
+        360.9701232910156
+      ],
+      "text": "The sensitivity of IGRAs in detecting active TB among people suspected of having TB ranged",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.983838081359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        363.3251037597656,
+        526.963623046875,
+        376.4701232910156
+      ],
+      "text": "from 73% to 83% and specificity from 49% to 58%. Therefore, one in four patients, on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        378.8251037597656,
+        526.964111328125,
+        391.9701232910156
+      ],
+      "text": "average, with culture-confirmed active TB could be expected to be IGRA-negative in LMIC,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        394.3251037597656,
+        452.0270080566406,
+        407.4701232910156
+      ],
+      "text": "with serious consequences for patients in terms of morbidity and mortality.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.8251037597656,
+        78.81909942626953,
+        422.9701232910156
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        409.8251037597656,
+        526.9862060546875,
+        422.9701232910156
+      ],
+      "text": "There was no evidence that IGRAs have added value beyond conventional microbiological",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        425.3251037597656,
+        526.9752807617188,
+        438.4701232910156
+      ],
+      "text": "tests for the diagnosis of active TB. Among studies that enrolled TB suspects (i.e. patients",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        440.8251037597656,
+        526.7223510742188,
+        453.9701232910156
+      ],
+      "text": "with diagnostic uncertainty), both IGRAs demonstrated suboptimal “rule-out” values for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        456.3251037597656,
+        138.15809631347656,
+        469.4701232910156
+      ],
+      "text": "TB disease.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.8251037597656,
+        78.81909942626953,
+        484.9701232910156
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        471.8251037597656,
+        526.9017944335938,
+        484.9701232910156
+      ],
+      "text": "Even though data were limited, the sensitivity of both IGRAs was lower among PLHIV (about",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.968955993652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        487.3251037597656,
+        524.0616455078125,
+        500.4701232910156
+      ],
+      "text": "60–70%), suggesting that nearly one in three PLHIV with active TB would be IGRA-negative.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979881286621094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.8250732421875,
+        78.81909942626953,
+        515.9700927734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        502.8250732421875,
+        527.0193481445312,
+        515.9700927734375
+      ],
+      "text": "There was no consistent evidence that either of the two IGRAs was more sensitive than the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        518.3250732421875,
+        526.9754028320312,
+        531.4700927734375
+      ],
+      "text": "TST for active TB diagnosis, although comparisons with pooled estimates of TST sensitivity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        533.8250732421875,
+        386.1379089355469,
+        546.9700927734375
+      ],
+      "text": "were difficult to interpret owing to substantial heterogeneity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        549.3250732421875,
+        78.81920623779297,
+        562.4700927734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        549.3250732421875,
+        526.9972534179688,
+        562.4700927734375
+      ],
+      "text": "The few available head-to-head comparisons between QFT-GIT and T-Spot demonstrated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        564.8250732421875,
+        527.2506713867188,
+        577.9700927734375
+      ],
+      "text": "higher sensitivity for the T-Spot platform, although this difference did not reach",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        580.3250732421875,
+        193.4871826171875,
+        593.4700927734375
+      ],
+      "text": "statistical significance.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        595.8250732421875,
+        78.81920623779297,
+        608.9700927734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        595.8250732421875,
+        527.2503662109375,
+        608.9700927734375
+      ],
+      "text": "The specificity of both IGRAs for active TB was low, regardless of HIV status, and results",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        611.3250732421875,
+        526.975341796875,
+        624.4700927734375
+      ],
+      "text": "suggested that one in two patients without active TB would be IGRA-positive, with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        626.8250732421875,
+        527.0194702148438,
+        639.9700927734375
+      ],
+      "text": "adverse consequences for patients because of unnecessary therapy for TB and a missed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        642.3250732421875,
+        190.39627075195312,
+        655.4700927734375
+      ],
+      "text": "differential diagnosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        657.8250732421875,
+        78.81920623779297,
+        670.9700927734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        657.8250732421875,
+        526.62353515625,
+        670.9700927734375
+      ],
+      "text": "Two unpublished reports reported no incremental or added value of IGRA test results",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        673.3250732421875,
+        527.0633544921875,
+        686.4700927734375
+      ],
+      "text": "combined with important baseline patient characteristics (e.g. demographics, symptoms",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        688.8250732421875,
+        527.1823120117188,
+        701.9700927734375
+      ],
+      "text": "or chest radiograph findings). Thus, these reports did not support a meaningful contribution",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.966399192810059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        704.3251342773438,
+        527.1897583007812,
+        717.4701538085938
+      ],
+      "text": "of IGRAs for the diagnosis of active TB beyond readily available patient data and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        719.8251342773438,
+        176.8660125732422,
+        732.9701538085938
+      ],
+      "text": "conventional tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        347.6684875488281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "3. Recommendations for diagnosis of TB infection 145",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

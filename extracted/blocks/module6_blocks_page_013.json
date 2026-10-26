@@ -1,0 +1,534 @@
+{
+  "file": "module6",
+  "page": 13,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        185.27239990234375,
+        210.716796875,
+        199.6273956298828
+      ],
+      "text": "Inpatient healthcare setting:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        210.7180938720703,
+        185.3824005126953,
+        527.4301147460938,
+        199.8253936767578
+      ],
+      "text": "a healthcare facility where patients are admitted and assigned a bed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        498.2161560058594,
+        213.8253936767578
+      ],
+      "text": "while undergoing diagnosis and receiving treatment and care, for at least one overnight stay.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.27239990234375,
+        169.13021850585938,
+        241.6273956298828
+      ],
+      "text": "Integrated services:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        169.14529418945312,
+        227.3824005126953,
+        527.404296875,
+        241.8253936767578
+      ],
+      "text": "health services that are managed and delivered in a way that ensures that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        241.3824005126953,
+        527.3991088867188,
+        255.8253936767578
+      ],
+      "text": "people receive a continuum of health promotion, disease prevention, diagnosis, treatment, disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        255.3824005126953,
+        527.4368896484375,
+        269.8254089355469
+      ],
+      "text": "management, rehabilitation and palliative care services at the different levels and sites of care within",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        269.38238525390625,
+        412.6747741699219,
+        283.8254089355469
+      ],
+      "text": "the health system and according to their needs throughout the life-course.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        297.27239990234375,
+        219.05377197265625,
+        311.62738037109375
+      ],
+      "text": "High TB transmission setting:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        219.05650329589844,
+        297.38238525390625,
+        527.4031372070312,
+        311.8254089355469
+      ],
+      "text": "a setting with a high frequency of individuals with undetected or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        311.38238525390625,
+        527.4345703125,
+        325.8254089355469
+      ],
+      "text": "undiagnosed TB disease, or where infectious TB patients are present and there is a high risk of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        325.3824157714844,
+        527.43115234375,
+        339.825439453125
+      ],
+      "text": "transmission. People with TB are most infectious when they are untreated or inadequately treated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        339.3824157714844,
+        527.392822265625,
+        353.825439453125
+      ],
+      "text": "Spread is increased by aerosol-generating procedures and by the presence of highly susceptible",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        353.3824157714844,
+        121.10319519042969,
+        367.825439453125
+      ],
+      "text": "individuals.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        381.2724304199219,
+        163.97238159179688,
+        395.6274108886719
+      ],
+      "text": "HIV-associated TB:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        163.9687042236328,
+        381.3824157714844,
+        522.6119995117188,
+        395.825439453125
+      ],
+      "text": "the disease state due to  in an individual who is living with HIV.  M. tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.2724304199219,
+        166.55178833007812,
+        423.6274108886719
+      ],
+      "text": "Household contact:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        166.5731964111328,
+        409.3824157714844,
+        527.4403076171875,
+        423.825439453125
+      ],
+      "text": "a person who shared the same enclosed living space as the individual diagnosed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.3824157714844,
+        527.4080810546875,
+        437.825439453125
+      ],
+      "text": "with TB for one or more nights or for frequent or extended daytime periods during the three months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.3824157714844,
+        242.4385986328125,
+        451.825439453125
+      ],
+      "text": "before the start of current treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.2724304199219,
+        237.31915283203125,
+        479.6274108886719
+      ],
+      "text": "Multidrug-resistant TB (MDR-TB):",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        237.31939697265625,
+        465.3824157714844,
+        527.4238891601562,
+        479.825439453125
+      ],
+      "text": "TB caused by  strains that are resistant to at least  M. tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.3824157714844,
+        205.9351348876953,
+        493.825439453125
+      ],
+      "text": "both rifampicin and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.2724609375,
+        220.68060302734375,
+        521.62744140625
+      ],
+      "text": "Outpatient healthcare setting:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        220.69529724121094,
+        507.3824462890625,
+        527.4016723632812,
+        521.825439453125
+      ],
+      "text": "a healthcare facility where patients are undergoing diagnosis and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.3824462890625,
+        527.4486694335938,
+        535.825439453125
+      ],
+      "text": "receiving treatment and care but are not admitted for an overnight stay (e.g. an ambulatory clinic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.3824462890625,
+        149.9671173095703,
+        549.825439453125
+      ],
+      "text": "or a dispensary).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.2724609375,
+        195.63140869140625,
+        577.62744140625
+      ],
+      "text": "People-centred services:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        195.64340209960938,
+        563.3824462890625,
+        527.4166259765625,
+        577.825439453125
+      ],
+      "text": "a human rights-based approach to care that consciously adopts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3823852539062,
+        527.42236328125,
+        591.8253784179688
+      ],
+      "text": "individuals’, carers’, families’ and communities’ perspectives as participants in, and beneficiaries of,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4201049804688,
+        605.8253784179688
+      ],
+      "text": "trusted health systems that are organized around the comprehensive needs of people rather than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        305.5170593261719,
+        619.8253784179688
+      ],
+      "text": "individual diseases, and respects social preferences.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.2723999023438,
+        178.91688537597656,
+        647.6273803710938
+      ],
+      "text": "People who use drugs:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        178.92689514160156,
+        633.3823852539062,
+        527.3992309570312,
+        647.8253784179688
+      ],
+      "text": "people who use psychoactive substances through any route of administration,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4047241210938,
+        661.8253784179688
+      ],
+      "text": "including injection, oral, inhalation, transmucosal or transdermal. For the purposes of this document",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.4146118164062,
+        675.8253784179688
+      ],
+      "text": "this definition does not include the use of widely used substances such as tobacco or alcoholic and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        261.0341491699219,
+        689.8253784179688
+      ],
+      "text": "caffeine-containing beverages and foods.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        703.2723999023438,
+        210.90159606933594,
+        717.6273803710938
+      ],
+      "text": "Person with presumptive TB:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        210.90499877929688,
+        703.3823852539062,
+        527.3827514648438,
+        717.8253784179688
+      ],
+      "text": "a person with symptoms or signs suggestive of TB disease (previously",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        717.3823852539062,
+        179.76609802246094,
+        731.8253784179688
+      ],
+      "text": "known as a TB suspect).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.2723999023438,
+        125.50309753417969,
+        759.6273803710938
+      ],
+      "text": "TB disease:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        125.50879669189453,
+        745.3823852539062,
+        527.4066162109375,
+        759.8253784179688
+      ],
+      "text": "the disease state due to  . In this document, it is commonly referred to as  M. tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.3823852539062,
+        391.2896728515625,
+        773.8253784179688
+      ],
+      "text": "TB “disease” (or “active” TB) in order to distinguish it from TB infection.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        489.22601318359375,
+        801.2599487304688,
+        553.4072265625,
+        811.8905029296875
+      ],
+      "text": "vii Definitions",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

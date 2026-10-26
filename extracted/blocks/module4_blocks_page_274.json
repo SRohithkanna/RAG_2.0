@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 274,
+  "blocks": [
+    {
+      "bbox": [
+        70.44278717041016,
+        66.95471954345703,
+        464.49761962890625,
+        82.6147232055664
+      ],
+      "text": "WHO treatment guidelines for drug-resistant TB treatment, 2025 update",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.96259307861328,
+        236.5429229736328,
+        114.62259674072266
+      ],
+      "text": "Guideline Development Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        121.83051300048828,
+        527.213134765625,
+        136.2735137939453
+      ],
+      "text": "Jeremiah Muhwa Chakaya (Technical expert, National TB Programme, Kenya, London School of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        135.03053283691406,
+        527.4222412109375,
+        149.47352600097656
+      ],
+      "text": "Hygiene and Tropical Medicine, United Kingdom) chaired the GDG. Professor Holger J. Schünemann",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        148.2305450439453,
+        527.4407958984375,
+        162.6735382080078
+      ],
+      "text": "(Professor of Public Health and Preventive Medicine at Humanitas University, Milan, Italy) and Wojtek",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        161.4304962158203,
+        527.4407958984375,
+        175.8734893798828
+      ],
+      "text": "Wiercioch (GRADE methodologist: McMaster University, Canada) served as the methodologists for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        174.63050842285156,
+        223.59011840820312,
+        189.07350158691406
+      ],
+      "text": "developing this guideline update.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.3344268798828,
+        527.6212768554688,
+        210.7774200439453
+      ],
+      "text": "The following experts served as members of the GDG: Ashna Ashesh (WHO Civil Society Task Force –",
+      "font": "SegoeUI-Light",
+      "size": 10.991997718811035,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.53443908691406,
+        527.4420776367188,
+        223.97743225097656
+      ],
+      "text": "TB; Survivors Against TB, India), Erlina Burhan (Persahabatan Hospital Jakarta; Faculty of Medicine,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.7344512939453,
+        527.6038818359375,
+        237.1774444580078
+      ],
+      "text": "Universitas, Indonesia), Raymond Byaruhanga (National TB and Leprosy Programme, Ministry of Health,",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.9344024658203,
+        527.4046020507812,
+        250.3773956298828
+      ],
+      "text": "Uganda), Daniela Cirillo (San Raffaele Supranational TB Reference Laboratory, Italy), Charles Daley",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.13441467285156,
+        527.4266967773438,
+        263.5774230957031
+      ],
+      "text": "(National Jewish Health Hospital, United States), Geraint Rhys Davies  (University of Liverpool, United",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.33441162109375,
+        527.4256591796875,
+        276.7774353027344
+      ],
+      "text": "Kingdom), Fernanda Dockhorn Costa Johansen (National TB programme, Ministry of Health, Brazil);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.534423828125,
+        527.18896484375,
+        289.9774475097656
+      ],
+      "text": "Elmira Gurbanova (Lung Clinic, University of Tartu, Estonia); Anneke Hesseling (Stellenbosch University,",
+      "font": "SegoeUI-Light",
+      "size": 10.968003273010254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.73443603515625,
+        527.4132690429688,
+        303.1774597167969
+      ],
+      "text": "South Africa); Christoph Lange (Research Center Borstel, Germany); Graeme Mentjes (University of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.93438720703125,
+        527.2982788085938,
+        316.3774108886719
+      ],
+      "text": "Cape Town, South Africa); Gopalan Narendran (Indian Council of Medical Research, National Institute",
+      "font": "SegoeUI-Light",
+      "size": 10.993947982788086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.1343994140625,
+        527.4189453125,
+        329.5774230957031
+      ],
+      "text": "for Research in Tuberculosis, India); Mahshid Nasehi (National Tuberculosis Programme of Iran); Kim",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.33441162109375,
+        527.4332885742188,
+        342.7774353027344
+      ],
+      "text": "Cuong Nguyen (National Lung Hospital, Viet Nam); Wenhong Zhang (National Medical Center for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.5343933105469,
+        193.8791046142578,
+        355.9774169921875
+      ],
+      "text": "Infectious Diseases, China).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        372.3782958984375,
+        193.4713134765625,
+        388.0382995605469
+      ],
+      "text": "External Review Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.2462158203125,
+        527.1757202148438,
+        409.6892395019531
+      ],
+      "text": "Philipp du Cros (clinician, researcher: Burnet Institute, Australia); Giovanni Battista Migliori (WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.4461975097656,
+        527.1339111328125,
+        422.88922119140625
+      ],
+      "text": "Collaborating Centre for TB and Lung Diseases, Fondazione S. Maugeri, Tradate, Italy); Anuj K.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.6462097167969,
+        527.0606689453125,
+        436.0892333984375
+      ],
+      "text": "Bhatnagar (clinician; researcher: Rajan Babu Institute for Pulmonary Medicine and Tuberculosis, India);",
+      "font": "SegoeUI-Light",
+      "size": 10.975772857666016,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.84619140625,
+        527.1390380859375,
+        449.2892150878906
+      ],
+      "text": "Tasnim Hassan (University of Sydney, Australia); Lisa Chen (clinician, academic: UCSF Curry International",
+      "font": "SegoeUI-Light",
+      "size": 10.949584007263184,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.04620361328125,
+        527.6455078125,
+        462.4892272949219
+      ],
+      "text": "Tuberculosis Center, United States of America); Mamel Quelapio (Tropical Disease Foundation,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.2462158203125,
+        527.49951171875,
+        475.6892395019531
+      ],
+      "text": "Philippines); Faisal Sobia (NTP team, Pakistan); Patrick Lungu (East, Central and Southern Africa Health",
+      "font": "SegoeUI-Light",
+      "size": 10.979180335998535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.4461975097656,
+        527.528564453125,
+        488.88922119140625
+      ],
+      "text": "Community, Zambia); Andrew Nunn (MRC Clinical Trials Unit at UCL, United Kingdom); Rafael Laniado",
+      "font": "SegoeUI-Light",
+      "size": 10.978779792785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.6462097167969,
+        504.2056884765625,
+        502.0892333984375
+      ],
+      "text": "(National TB Programme, Mexico); Ingrid Shoeman (former TB patient, TB Proof, South Africa).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.4901123046875,
+        189.30010986328125,
+        534.150146484375
+      ],
+      "text": "Evidence contributors",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.3580322265625,
+        527.2693481445312,
+        555.801025390625
+      ],
+      "text": "Francesca Conradie (University of Witwatersrand), Maelenn Gouillou (MSF France), Lorenzo Guglielmetti",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.5579833984375,
+        527.1265258789062,
+        569.0009765625
+      ],
+      "text": "(MSF France), Nathalie Lachenal (MSF Switzerland), Carole Mitnick (Partners in Health), Patrick Phillips",
+      "font": "SegoeUI-Light",
+      "size": 10.988444328308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.7579956054688,
+        388.8046875,
+        582.2009887695312
+      ],
+      "text": "(University of California, San Francisco), Francis Varaine (MSF France).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.6018676757812,
+        248.8032989501953,
+        614.2619018554688
+      ],
+      "text": "Observers and external partners",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.4697875976562,
+        527.611083984375,
+        635.9127807617188
+      ],
+      "text": "Michael Campbell (Clinton Health Access Initiative, Inc.); Maria Regina Christian (WHO country office,",
+      "font": "SegoeUI-Light",
+      "size": 10.991196632385254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.669921875,
+        527.4256591796875,
+        649.1129150390625
+      ],
+      "text": "Indonesia); Razia Fatima (National TB programme, Pakistan); Agnes Gebhard (KNCV TB Foundation);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.8698120117188,
+        527.6004638671875,
+        662.3128051757812
+      ],
+      "text": "Brian Kaiser (Global Drug Facility, Stop TB Partnership); Kobto Ghislain Koura (Tuberculosis Department,",
+      "font": "SegoeUI-Light",
+      "size": 10.957266807556152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.06982421875,
+        527.5736083984375,
+        675.5128173828125
+      ],
+      "text": "The Union); Parmar Malik (WHO country office, India); Anna Scardigli (The Global Fund), Cherise Scott",
+      "font": "SegoeUI-Light",
+      "size": 10.977176666259766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.269775390625,
+        380.77911376953125,
+        688.7127685546875
+      ],
+      "text": "(Unitaid); Brenda Waning (Global Drug Facility, Stop TB Partnership).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.1137084960938,
+        189.3589324951172,
+        720.7737426757812
+      ],
+      "text": "WHO Steering Group",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.9816284179688,
+        527.5620727539062,
+        742.4246215820312
+      ],
+      "text": "Fuad Mirzayev (lead), Dennis Falzon, Medea Gegia, Annabel Baddeley, Linh Nguyen, Samuel",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.1815795898438,
+        527.5335083007812,
+        755.6245727539062
+      ],
+      "text": "Schumacher, Kerri Viney, Sabine Verkuijl, Matteo Zignol from the WHO Global Tuberculosis Programme;",
+      "font": "SegoeUI-Light",
+      "size": 10.945062637329102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        754.381591796875,
+        527.4421997070312,
+        768.8245849609375
+      ],
+      "text": "Askar Yedilbayev from WHO European regional office; and Elena Vovc from the WHO Global HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        767.5817260742188,
+        219.2957000732422,
+        782.0247192382812
+      ],
+      "text": "Hepatitis and STIs Programmes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "260 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

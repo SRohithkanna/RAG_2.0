@@ -1,0 +1,558 @@
+{
+  "file": "module2",
+  "page": 50,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.2886962890625,
+        81.83369445800781
+      ],
+      "text": "The uptake of screening in a risk group (the proportion of those eligible for screening who are actually",
+      "font": "SegoeUI-Light",
+      "size": 10.974370002746582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4398803710938,
+        95.03370666503906
+      ],
+      "text": "screened) can be assessed only if the size of the target group has been well defined. It is normally",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.385986328125,
+        108.23371887207031
+      ],
+      "text": "possible to obtain the relevant information when screening is conducted within health facilities or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.3970336914062,
+        121.43373107910156
+      ],
+      "text": "closed settings (such as prisons) and through contact investigations. However, it is often difficult to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.5261840820312,
+        134.6337432861328
+      ],
+      "text": "obtain this information from outreach screening programmes – for example, when screening is done",
+      "font": "SegoeUI-Light",
+      "size": 10.996549606323242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.3881225585938,
+        147.8336944580078
+      ],
+      "text": "in the community – although the estimated population size of a targeted community may be used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        313.32958984375,
+        161.03370666503906
+      ],
+      "text": "to obtain a rough estimate of the eligible population.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        175.02191162109375,
+        418.3969421386719,
+        199.81690979003906
+      ],
+      "text": "4.2 Routines for recording and reporting",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.26783752441406,
+        527.3761596679688,
+        219.71083068847656
+      ],
+      "text": "In order to obtain the required information for the indicators described above, a TB recording and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.4678497314453,
+        527.5582885742188,
+        232.9108428955078
+      ],
+      "text": "reporting system needs to include a minimal set of data elements. Although paper-based systems have",
+      "font": "SegoeUI-Light",
+      "size": 10.951543807983398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        231.6678009033203,
+        527.4235229492188,
+        246.1107940673828
+      ],
+      "text": "been used to collect such data, it is now becoming increasingly feasible to collect data electronically,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.86781311035156,
+        527.6148681640625,
+        259.3108215332031
+      ],
+      "text": "and this should be the standard aspired to for monitoring TB screening activities. The following",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.06781005859375,
+        309.7090759277344,
+        272.5108337402344
+      ],
+      "text": "strategies can be used to collect the necessary data:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.771728515625,
+        527.401611328125,
+        294.2147521972656
+      ],
+      "text": "•\t maintain a log of the number of people screened in each risk group. A special register with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        292.9716796875,
+        527.4302368164062,
+        307.4147033691406
+      ],
+      "text": "individual-level information for each person screened may be used to obtain more refined data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        306.17169189453125,
+        527.0755615234375,
+        320.6147155761719
+      ],
+      "text": "about subcategories of persons within a risk group. Collecting these data is resource intensive, but",
+      "font": "SegoeUI-Light",
+      "size": 10.995599746704102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        319.3717041015625,
+        527.4476318359375,
+        333.8147277832031
+      ],
+      "text": "it may be relevant when a screening programme is started as part of operational research. It may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        332.57171630859375,
+        527.3740844726562,
+        347.0147399902344
+      ],
+      "text": "be feasible to implement this type of data collection on a continual basis for certain risk groups,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        345.7716979980469,
+        301.9230041503906,
+        360.2147216796875
+      ],
+      "text": "such as people seeking care in medical facilities;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.9717102050781,
+        527.3960571289062,
+        373.41473388671875
+      ],
+      "text": "•\t maintain a register of all patients with presumptive TB who undergo further diagnostic evaluation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        372.17169189453125,
+        527.4168701171875,
+        386.6147155761719
+      ],
+      "text": "(if a register is used to collect individual-level information for all people who are screened, then",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        385.3717041015625,
+        255.79541015625,
+        399.8147277832031
+      ],
+      "text": "this information can be included in it);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.57171630859375,
+        527.266845703125,
+        413.0147399902344
+      ],
+      "text": "•\t  include a field in the laboratory register for noting whether the tested patient was identified through",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        411.7716979980469,
+        332.3627014160156,
+        426.2147216796875
+      ],
+      "text": "screening and to which risk group the patient belongs;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.9717102050781,
+        527.4793701171875,
+        439.41473388671875
+      ],
+      "text": "•\t  include a field in the treatment register to note whether the patient was identified through screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        438.17169189453125,
+        285.48919677734375,
+        452.6147155761719
+      ],
+      "text": "and to which risk group the patient belongs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.60302734375,
+        324.6814270019531,
+        491.3980407714844
+      ],
+      "text": "4.3 Programmatic evaluations",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.8489074707031,
+        527.3760375976562,
+        511.29193115234375
+      ],
+      "text": "A successful screening programme may lead to a diminishing yield, at least if the risk group is a fixed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.0489501953125,
+        527.4486694335938,
+        524.491943359375
+      ],
+      "text": "population. Over time, changes in the background burden of TB, as well as changes in the profile",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        523.2489013671875,
+        527.4354248046875,
+        537.69189453125
+      ],
+      "text": "of TB patients in the community (e.g. a trend towards fewer patients with symptomatic TB) can lead",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.4489135742188,
+        527.4585571289062,
+        550.8919067382812
+      ],
+      "text": "to a reduction in the yield from screening, an increase in the NNS, a reduction in cost–effectiveness",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.64892578125,
+        527.6713256835938,
+        564.0919189453125
+      ],
+      "text": "and a change in the ratio of benefits to harms. Trends in all of these indicators need to be monitored,",
+      "font": "SegoeUI-Light",
+      "size": 10.998299598693848,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.848876953125,
+        527.403564453125,
+        577.2918701171875
+      ],
+      "text": "and the prioritization of risk groups, choice of screening approach and screening interval should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.0488891601562,
+        527.098388671875,
+        590.4918823242188
+      ],
+      "text": "regularly reassessed. Criteria for stopping screening should be established before a screening initiative",
+      "font": "SegoeUI-Light",
+      "size": 10.969256401062012,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        589.2489013671875,
+        143.5782012939453,
+        603.69189453125
+      ],
+      "text": "is implemented.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.9528198242188,
+        527.1943969726562,
+        625.3958129882812
+      ],
+      "text": "Monitoring the indicators discussed above may point to the need for a special assessment, for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.15283203125,
+        527.4334106445312,
+        638.5958251953125
+      ],
+      "text": "example, to explore the reasons for a low uptake of screening, an unexpectedly low proportion of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.352783203125,
+        527.4290161132812,
+        651.7957763671875
+      ],
+      "text": "people with presumptive TB that was identified through screening, a low proportion of those with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.5529174804688,
+        527.3905639648438,
+        664.9959106445312
+      ],
+      "text": "presumptive TB undergoing a diagnostic investigation and a higher than expected NNS. Additional",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.7528076171875,
+        527.563232421875,
+        678.19580078125
+      ],
+      "text": "quantitative and qualitative analyses may be needed to determine whether there are barriers to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.9528198242188,
+        415.4070739746094,
+        691.3958129882812
+      ],
+      "text": "screening and to identify opportunities to improve the screening approach.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "38",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

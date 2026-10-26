@@ -1,0 +1,522 @@
+{
+  "file": "module2",
+  "page": 62,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        60.59532928466797,
+        363.0740966796875,
+        102.19532775878906
+      ],
+      "text": "Supplementary Table",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.2916259765625,
+        506.3764953613281,
+        167.0866241455078
+      ],
+      "text": "Summary of changes to existing recommendations",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        200.2430419921875,
+        420.0342102050781,
+        214.59803771972656
+      ],
+      "text": "2013 Recommendation 2021 Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        221.96754455566406,
+        472.5504150390625,
+        236.41053771972656
+      ],
+      "text": "Household contacts and other close contacts  Household contacts and other close",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        233.96754455566406,
+        493.1656188964844,
+        248.41053771972656
+      ],
+      "text": "should be systematically screened for active  contacts of individuals with TB should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        243.1735382080078,
+        480.93682861328125,
+        260.4105529785156
+      ],
+      "text": "strong recommendation, very low- TB ( systematically screened for TB disease",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        255.1735382080078,
+        510.2135314941406,
+        272.4105529785156
+      ],
+      "text": "quality evidence). strong recommendation, moderate certainty  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.5033874511719,
+        267.17352294921875,
+        360.4114685058594,
+        284.35552978515625
+      ],
+      "text": "of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        291.58209228515625,
+        520.2507934570312,
+        306.0251159667969
+      ],
+      "text": "People living with HIV should be systematically  People living with HIV should be systematically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        303.58209228515625,
+        502.4715576171875,
+        318.0251159667969
+      ],
+      "text": "screened for active TB at each visit to a health  screened for TB disease at each visit to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        312.7880859375,
+        506.40228271484375,
+        330.0251159667969
+      ],
+      "text": "(strong recommendation, very low- (strong recommendation, very  facility  health facility",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        324.7880859375,
+        420.90606689453125,
+        341.9700927734375
+      ],
+      "text": "quality evidence). low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        349.19671630859375,
+        500.08013916015625,
+        363.6397399902344
+      ],
+      "text": "Current and former workers in  Current and former workers in workplaces",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        361.19671630859375,
+        508.9208679199219,
+        375.6397399902344
+      ],
+      "text": "workplaces with silica exposure should be  with silica exposure should be systematically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        370.4027099609375,
+        450.4036865234375,
+        387.6397399902344
+      ],
+      "text": "(strong  strong  systematically screened for active TB  screened for TB disease (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        382.4027099609375,
+        503.3047790527344,
+        399.6397399902344
+      ],
+      "text": "recommendation, low-quality evidence). recommendation, low certainty of evidence ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        406.8113098144531,
+        503.4263916015625,
+        421.25433349609375
+      ],
+      "text": "Systematic screening for active TB should be  Systematic screening for TB disease should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        418.8113098144531,
+        496.2236022949219,
+        433.25433349609375
+      ],
+      "text": "considered in prisons and other penitentiary  be conducted in prisons and penitentiary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        428.017333984375,
+        514.0862426757812,
+        445.25433349609375
+      ],
+      "text": "conditional recommendation, very  strong recommendation, very low  institutions ( institutions (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        440.017333984375,
+        402.3818664550781,
+        457.25433349609375
+      ],
+      "text": "low-quality evidence certainty of evidence ). ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        464.4259948730469,
+        510.3443908691406,
+        478.8690185546875
+      ],
+      "text": "Systematic screening for active TB should  People with an untreated fibrotic lesion seen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        476.4259948730469,
+        520.2586059570312,
+        490.8690185546875
+      ],
+      "text": "be considered in people with an untreated  on chest X-ray may be systematically screened",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        485.63201904296875,
+        509.4970397949219,
+        502.8690185546875
+      ],
+      "text": "conditional  conditional recommendation,  fibrotic chest X-ray lesion ( for TB disease (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        497.63201904296875,
+        442.9229736328125,
+        514.8690185546875
+      ],
+      "text": "recommendation, very low-quality evidence very low certainty of evidence ). ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        522.0406494140625,
+        498.5997009277344,
+        536.483642578125
+      ],
+      "text": "In settings where the TB prevalence in the  In settings where the TB prevalence in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        534.0406494140625,
+        517.3095703125,
+        548.483642578125
+      ],
+      "text": "general population is 100/100 000 population  general population is 100/100,000 population",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        546.0406494140625,
+        514.9478759765625,
+        560.483642578125
+      ],
+      "text": "or higher, systematic screening for active TB  or higher, systematic screening for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        558.0406494140625,
+        494.4625244140625,
+        572.483642578125
+      ],
+      "text": "should be considered among people who  may be conducted among people with a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        570.0406494140625,
+        491.2615966796875,
+        584.483642578125
+      ],
+      "text": "are seeking health care or who are in health  risk factor for TB who are seeking health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        579.24658203125,
+        499.84405517578125,
+        596.4835815429688
+      ],
+      "text": "conditional  care and who belong to selected risk groups  care or who are in health care (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        591.24658203125,
+        469.53314208984375,
+        608.4835815429688
+      ],
+      "text": "conditional recommendation, very low- recommendation, very low certainty  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        603.24658203125,
+        360.35308837890625,
+        620.4835815429688
+      ],
+      "text": "quality evidence of evidence ). ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        627.6550903320312,
+        506.990478515625,
+        642.0980834960938
+      ],
+      "text": "Systematic screening for active TB may  Systematic screening for TB disease may be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        639.6550903320312,
+        499.9405517578125,
+        654.0980834960938
+      ],
+      "text": "be considered for geographically defined  conducted among the general population",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        651.6550903320312,
+        506.029052734375,
+        666.0980834960938
+      ],
+      "text": "subpopulations with extremely high levels  in areas with an estimated TB prevalence of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        660.861083984375,
+        507.131591796875,
+        678.0980834960938
+      ],
+      "text": "updated recommendation –  of undetected TB (1% prevalence or higher)  0.5% or higher (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        672.861083984375,
+        499.90631103515625,
+        690.0980834960938
+      ],
+      "text": "conditional recommendation, very low- conditional recommendation, low certainty  (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        684.861083984375,
+        360.4114685058594,
+        702.0980834960938
+      ],
+      "text": "quality evidence of evidence). ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        49.47319793701172,
+        811.52099609375
+      ],
+      "text": "50",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

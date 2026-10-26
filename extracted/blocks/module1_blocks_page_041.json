@@ -1,0 +1,666 @@
+{
+  "file": "module1",
+  "page": 41,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4309692382812,
+        81.83369445800781
+      ],
+      "text": "lower risk for adverse events (RR 0.33, 95% CI 0.20 ; 0.56) and a higher adherence rate (RR 1.07, 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4406127929688,
+        95.03370666503906
+      ],
+      "text": "CI 1.01 ; 1.14) among children given daily rifampicin plus isoniazid. Similar findings were reported in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.51471710205078,
+        220.95950317382812,
+        108.23371887207031
+      ],
+      "text": "(89,91) the observational studies  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        118.65733337402344,
+        384.11236572265625,
+        136.92733764648438
+      ],
+      "text": "Daily rifapentine plus isoniazid for 1 month (1HP)",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.63319396972656,
+        527.53515625,
+        158.07618713378906
+      ],
+      "text": "Before updating the 2020 guidelines, the GDG considered data from the only known published study",
+      "font": "SegoeUI-Light",
+      "size": 10.992497444152832,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        156.83314514160156,
+        527.5537719726562,
+        171.27613830566406
+      ],
+      "text": "of the 1HP regimen: a randomized, open-label, phase 3 non-inferiority trial of the efficacy and safety",
+      "font": "SegoeUI-Light",
+      "size": 10.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.03309631347656,
+        527.398193359375,
+        184.47608947753906
+      ],
+      "text": "of 1HP as compared with 9 months of isoniazid alone (9H) in people with HIV aged ≥ 13 years in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.9571075439453,
+        527.4089965820312,
+        197.6761016845703
+      ],
+      "text": "(92) areas of high TB prevalence or who had evidence of TBI  . Enrolment was restricted to individuals",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.43324279785156,
+        527.303955078125,
+        210.87623596191406
+      ],
+      "text": "who were not pregnant or breastfeeding. Noninferiority would be shown if the upper limit of the 95%",
+      "font": "SegoeUI-Light",
+      "size": 10.987592697143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.63319396972656,
+        527.4362182617188,
+        224.07618713378906
+      ],
+      "text": "confidence interval for the between-group difference in the number of events per 100 person-years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.83314514160156,
+        527.1759033203125,
+        237.27613830566406
+      ],
+      "text": "was < 1.25. For all study participants, the difference in the incidence rate of TB (including deaths from",
+      "font": "SegoeUI-Light",
+      "size": 10.98819351196289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.03309631347656,
+        527.4013061523438,
+        250.47608947753906
+      ],
+      "text": "any cause) between 1HP and 9H (i.e. 1HP arm minus 9H arm) was −0.02 per 100 person-years (95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.2331085205078,
+        527.3936767578125,
+        263.6761169433594
+      ],
+      "text": "CI −0.35 ; +0.30); the RR for treatment completion of 1HP as compared with 9H was 1.04 (95% CI,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        262.4332275390625,
+        527.384765625,
+        276.8762512207031
+      ],
+      "text": "0.99 ; 1.10); the RR for grade 3–5 adverse events was 0.86 (95% CI, 0.58 ; 1.27); the hazard ratio for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.63323974609375,
+        527.39892578125,
+        290.0762634277344
+      ],
+      "text": "death from any cause was 0.75 in favour of 1HP (95% CI, 0.42 ; 1.31); and the RRs for emergence of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        288.8331298828125,
+        527.4168090820312,
+        303.2761535644531
+      ],
+      "text": "resistance to isoniazid and rifampicin were, respectively, 1.63 (95% CI, 0.17 ; 15.99) and 0.81 (95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.03314208984375,
+        527.4360961914062,
+        316.4761657714844
+      ],
+      "text": "CI, 0.06 ; 11.77). Overall non-inferiority as defined by the study protocol was shown in the modified",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        315.233154296875,
+        527.4135131835938,
+        329.6761779785156
+      ],
+      "text": "intention-to-treat population. Non-inferiority was also shown for the sub-group with confirmed TBI",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.43316650390625,
+        527.4190063476562,
+        342.8761901855469
+      ],
+      "text": "(incidence rate difference per 100 person-years = 0.069 [–0.830 to 0.690]) in males and females and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.63311767578125,
+        527.4215698242188,
+        356.0762023925781
+      ],
+      "text": ",  among people on or not on ART at the start of the study. Few patients had a CD4+ < 250 cells/mm 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        354.8331298828125,
+        527.6024780273438,
+        369.2761535644531
+      ],
+      "text": "and neither inferiority or noninferiority of 1HP was shown in this stratum. The evidence for this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        378.80169677734375,
+        368.0331115722656,
+        424.6937255859375,
+        382.47613525390625
+      ],
+      "text": "annexes 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        424.69769287109375,
+        368.0331115722656,
+        445.1907043457031,
+        382.47613525390625
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        448.2077941894531,
+        368.0331115722656,
+        453.872802734375,
+        382.47613525390625
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        368.0331115722656,
+        456.3153991699219,
+        382.4761657714844
+      ],
+      "text": ". recommendation is summarized in the GRADE tables for PICO 7 in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        392.8996887207031,
+        375.19158935546875,
+        411.1697082519531
+      ],
+      "text": "Daily rifampicin monotherapy for 4 months (4R)",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.8757019042969,
+        527.2911376953125,
+        432.3187255859375
+      ],
+      "text": "A systematic review conducted for the 2015 TPT guidelines and updated in 2017 found similar efficacy",
+      "font": "SegoeUI-Light",
+      "size": 10.967652320861816,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.7995910644531,
+        527.450439453125,
+        445.51861572265625
+      ],
+      "text": "(80,88) for 3–4 months’ daily rifampicin and 6H (odds ratio, 0.78; 95% CI, 0.41 ; 1.46)  . The review also",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.997849464416504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.27569580078125,
+        527.1504516601562,
+        458.7187194824219
+      ],
+      "text": "showed that individuals given rifampicin daily for 3–4 months had a lower risk for hepatotoxicity than",
+      "font": "SegoeUI-Light",
+      "size": 10.99484920501709,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.4757080078125,
+        401.24017333984375,
+        471.9187316894531
+      ],
+      "text": "those treated with isoniazid monotherapy (OR 0.03; 95% CI 0.00 ; 0.48).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.1795959472656,
+        527.4322509765625,
+        493.62261962890625
+      ],
+      "text": "Before the 2020 guidelines were updated, the GDG discussed the implications of using 4R in high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.3796081542969,
+        527.37548828125,
+        506.8226318359375
+      ],
+      "text": "TB burden settings based on findings from RCTs of 4R vs 9H that included adults and children in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.3035888671875,
+        527.3956298828125,
+        520.0225830078125
+      ],
+      "text": "(93–96) such countries  . In study participants aged > 17 years, the difference in rate of confirmed TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.7796020507812,
+        527.3946533203125,
+        533.2225952148438
+      ],
+      "text": "between 4R and 9H (4R arm minus 9H arm) was < 0.01 cases per 100 person-years (95% CI, −0.14 ;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        531.9796142578125,
+        527.4234619140625,
+        546.422607421875
+      ],
+      "text": "0.16); the difference in treatment completion was 15.1% (95% CI, 12.7 ; 17.4); and the difference in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.1796264648438,
+        527.385986328125,
+        559.6226196289062
+      ],
+      "text": "grade 3–5 adverse events was −1.1% (95% CI −1.9 ; –0.4). In individuals < 18 years, the difference",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.379638671875,
+        527.3803100585938,
+        572.8226318359375
+      ],
+      "text": "in the rate of TB disease between 4R and 9H was –0.37 cases per 100 person-years (95% CI, −0.88 ;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.57958984375,
+        527.239013671875,
+        586.0225830078125
+      ],
+      "text": "0.14); the difference in treatment completion was 13.4% (95% CI, 7.5 ; 19.3); and the difference in risk",
+      "font": "SegoeUI-Light",
+      "size": 10.994297981262207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.7796020507812,
+        527.4365844726562,
+        599.2225952148438
+      ],
+      "text": "for adverse events attributed to the medicine used and resulting in discontinuation was −0.0 (95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.9796142578125,
+        527.3905029296875,
+        612.422607421875
+      ],
+      "text": "CI, −0.1 ; 0.1). The evidence for this revised recommendation is summarized in the GRADE tables for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.1795654296875,
+        117.16619873046875,
+        625.62255859375
+      ],
+      "text": "PICO 6 in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        117.17030334472656,
+        611.1796264648438,
+        163.06228637695312,
+        625.6226196289062
+      ],
+      "text": "annexes 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        163.06629943847656,
+        611.1796264648438,
+        183.55931091308594,
+        625.6226196289062
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        186.57640075683594,
+        611.1796264648438,
+        192.24139404296875,
+        625.6226196289062
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        192.24209594726562,
+        611.1796264648438,
+        194.68409729003906,
+        625.6226196289062
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        636.0462646484375,
+        362.1210021972656,
+        654.3162231445312
+      ],
+      "text": "Implementation and subgroup considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.0220947265625,
+        527.4332275390625,
+        675.465087890625
+      ],
+      "text": "The GDG agreed that the benefits of all the treatment options being recommended outweigh their",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.2221069335938,
+        527.6142578125,
+        688.6651000976562
+      ],
+      "text": "potential harm. Programmes and clinicians should also consider the characteristics of each individual",
+      "font": "SegoeUI-Light",
+      "size": 10.997650146484375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.422119140625,
+        527.4346313476562,
+        701.8651123046875
+      ],
+      "text": "concerned to maximize the likelihood that treatment is completed as expected. The decision on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.6220703125,
+        527.4388427734375,
+        715.0650634765625
+      ],
+      "text": "which treatment to offer should not be confined to the manner in which it was studied in a trial (e.g.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.8220825195312,
+        527.3969116210938,
+        728.2650756835938
+      ],
+      "text": "1HP to replace 9H) but by considerations such as age, risk of toxicity or interaction, co-morbidity,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.0220947265625,
+        527.43505859375,
+        741.465087890625
+      ],
+      "text": "drug susceptibility of the strain of the most likely source case, availability – including child-friendly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.2221069335938,
+        527.40478515625,
+        754.6651000976562
+      ],
+      "text": "formulations – and the individual’s preferences. All recommended treatment options are possible in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.422119140625,
+        144.7489013671875,
+        767.8651123046875
+      ],
+      "text": "people with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 23",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

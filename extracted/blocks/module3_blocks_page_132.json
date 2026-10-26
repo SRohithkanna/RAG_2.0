@@ -1,0 +1,582 @@
+{
+  "file": "module3",
+  "page": 132,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.31520080566406,
+        527.3074340820312,
+        82.22920227050781
+      ],
+      "text": "3.\t  The MDR/RR-TB case burden of a country could influence equitable access at centralized",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        84.66120147705078,
+        526.8280639648438,
+        97.80619812011719
+      ],
+      "text": "In some settings with high caseloads, the targeted NGS technology capacity in  levels.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        100.16120147705078,
+        526.9654541015625,
+        113.30619812011719
+      ],
+      "text": "central laboratories may not be sufficient for processing large caseloads in good time; also,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        115.66120147705078,
+        524.396484375,
+        128.8061981201172
+      ],
+      "text": "in settings with low caseloads, waiting for sufficient samples to batch-test will cause delays.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993748664855957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.1728057861328,
+        275.1541442871094,
+        157.5528106689453
+      ],
+      "text": "Implementation considerations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        166.3037109375,
+        526.9371948242188,
+        179.44871520996094
+      ],
+      "text": "Although the evidence that is available supports the use of targeted NGS to detect drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.3037109375,
+        527.21240234375,
+        193.44871520996094
+      ],
+      "text": "resistance after TB diagnosis, to guide clinical decision-making for DR-TB treatment, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.3037109375,
+        426.0832824707031,
+        207.44871520996094
+      ],
+      "text": "following factors need to be considered when implementing these tests:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        214.05572509765625,
+        78.81909942626953,
+        227.2007293701172
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        214.05572509765625,
+        526.6116333007812,
+        227.2007293701172
+      ],
+      "text": "Regulatory approval from national regulatory authorities or other relevant bodies is required",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.955610275268555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        229.55572509765625,
+        322.9324035644531,
+        242.7007293701172
+      ],
+      "text": "before implementation of these diagnostic tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.05572509765625,
+        78.81909942626953,
+        258.20074462890625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        245.05572509765625,
+        527.2286987304688,
+        258.20074462890625
+      ],
+      "text": "In its current format, targeted NGS is a high complexity test that is most suitable for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        260.55572509765625,
+        450.3768615722656,
+        273.70074462890625
+      ],
+      "text": "centralized laboratories equipped with specialized skills and infrastructure.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.05572509765625,
+        78.81909942626953,
+        289.20074462890625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        276.05572509765625,
+        526.8522338867188,
+        289.20074462890625
+      ],
+      "text": "Targeted NGS tests do not replace existing rapid tests that are more accessible and easier to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.984939575195312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        291.55572509765625,
+        526.9677124023438,
+        304.70074462890625
+      ],
+      "text": "perform for detecting resistance to rifampicin, isoniazid and fluoroquinolones. However, if",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        307.05572509765625,
+        527.019287109375,
+        320.20074462890625
+      ],
+      "text": "targeted NGS can be performed rapidly, it can be considered as an alternative initial option",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        322.5556945800781,
+        527.1782836914062,
+        335.7007141113281
+      ],
+      "text": "for prioritized populations. Those who will benefit most from these tests are individuals who",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.966499328613281,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        338.0556945800781,
+        480.394775390625,
+        351.2007141113281
+      ],
+      "text": "require rapid and comprehensive DST but have limited access to phenotypic DST.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.5556945800781,
+        78.81909942626953,
+        366.7007141113281
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        353.5556945800781,
+        526.9425048828125,
+        366.7007141113281
+      ],
+      "text": "Priority should be given to samples with a high bacillary load as determined by initial",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        369.0556945800781,
+        526.9095458984375,
+        382.2007141113281
+      ],
+      "text": "bacteriological tests (e.g. semiquantitative high/medium or smear-positive grading). In",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        384.5556945800781,
+        524.5534057617188,
+        397.7007141113281
+      ],
+      "text": "situations where the bacillary load is low (e.g. semiquantitative low/very low/trace or smear-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959726333618164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        400.0556945800781,
+        526.9752197265625,
+        413.2007141113281
+      ],
+      "text": "negative grading), the recommendations still hold, although rates of indeterminate results",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        415.5556945800781,
+        527.019287109375,
+        428.7007141113281
+      ],
+      "text": "are likely to be higher; therefore, phenotypic DST is likely still required for samples with a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        431.0556945800781,
+        173.24710083007812,
+        444.2007141113281
+      ],
+      "text": "low bacillary load.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.5556945800781,
+        78.81909942626953,
+        459.7007141113281
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        446.5556945800781,
+        526.952392578125,
+        459.7007141113281
+      ],
+      "text": "Similarly, the recommendations apply to children, adolescents and PLHIV populations",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        462.0556945800781,
+        509.6983947753906,
+        475.2007141113281
+      ],
+      "text": "because these populations have a higher frequency of samples with low bacterial load.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.5556945800781,
+        78.81909942626953,
+        490.7007141113281
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        477.5556945800781,
+        527.0182495117188,
+        490.7007141113281
+      ],
+      "text": "The recommendation is based on data obtained from sputum and BAL specimens, and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        493.0556945800781,
+        526.9752197265625,
+        506.2007141113281
+      ],
+      "text": "can be extrapolated to other lower respiratory tract samples (e.g. endotracheal aspirates).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        508.5556640625,
+        526.8591918945312,
+        521.70068359375
+      ],
+      "text": "However, further research is needed to evaluate the use of these tests on alternative sample",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977126121520996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        524.0556640625,
+        527.2250366210938,
+        537.20068359375
+      ],
+      "text": "types for diagnosing pulmonary TB in children (e.g. nasopharyngeal and stool samples) and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989845275878906,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        539.5556640625,
+        238.2453155517578,
+        552.70068359375
+      ],
+      "text": "diagnosing extrapulmonary TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        555.0556640625,
+        78.81909942626953,
+        568.20068359375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        555.0556640625,
+        527.0194091796875,
+        568.20068359375
+      ],
+      "text": "Since sensitivity for bedaquiline, linezolid and clofazimine resistance is suboptimal,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        570.5556640625,
+        526.98681640625,
+        583.70068359375
+      ],
+      "text": "consideration of the pretest probability is important in interpreting the targeted NGS",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        586.0557250976562,
+        524.4563598632812,
+        599.2007446289062
+      ],
+      "text": "results for these drugs. Further testing of samples with a susceptible result (using culture-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        601.5557250976562,
+        527.0634155273438,
+        614.7007446289062
+      ],
+      "text": "based phenotypic DST) would be warranted, particularly when the risk of resistance is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        617.0557250976562,
+        526.963134765625,
+        630.2007446289062
+      ],
+      "text": "high. Since specificity is high, a result that indicates resistance may be used to guide the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        632.5557250976562,
+        526.964111328125,
+        645.7007446289062
+      ],
+      "text": "therapy, particularly among those at risk for resistance. In the case of pretomanid, the basis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        648.0557250976562,
+        526.975341796875,
+        661.2007446289062
+      ],
+      "text": "for resistance has not been fully elucidated; hence, culture-based DST is also required for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        663.5557250976562,
+        131.31600952148438,
+        676.7007446289062
+      ],
+      "text": "this drug.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "116 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

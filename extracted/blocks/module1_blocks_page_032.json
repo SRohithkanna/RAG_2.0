@@ -1,0 +1,630 @@
+{
+  "file": "module1",
+  "page": 32,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30284118652344,
+        465.29132080078125,
+        84.57283782958984
+      ],
+      "text": "Household contacts of a person with TB and other risk groups",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        94.44139099121094,
+        308.23126220703125,
+        112.71138763427734
+      ],
+      "text": "Infants and children < 5 years of age 5",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        122.57994079589844,
+        236.09176635742188,
+        140.84994506835938
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        147.55580139160156,
+        527.643798828125,
+        161.99879455566406
+      ],
+      "text": "Symptom-based screening has been reported to be a safe, feasible contact management strategy in",
+      "font": "SegoeUI-Light",
+      "size": 10.998149871826172,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.4799346923828,
+        527.4430541992188,
+        175.1989288330078
+      ],
+      "text": "(58,59) children, even in resource-limited settings  . Modelling of the parameters for a high TB burden",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        173.95594787597656,
+        527.388671875,
+        188.39894104003906
+      ],
+      "text": "setting suggested that provision of TPT without TBI testing is cost-effective for child contacts < 5",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.65950012207031,
+        185.87989807128906,
+        140.1577911376953,
+        201.59889221191406
+      ],
+      "text": "(60) . See",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        139.9508056640625,
+        187.15589904785156,
+        188.82369995117188,
+        201.59889221191406
+      ],
+      "text": "section 1.1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.15589904785156,
+        527.4552612304688,
+        201.5989532470703
+      ],
+      "text": "for the background of the recommendation for TBI testing and treatment  years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        200.3557891845703,
+        148.9947052001953,
+        214.79884338378906
+      ],
+      "text": "in this risk group.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        222.05970764160156,
+        527.3980712890625,
+        236.50270080566406
+      ],
+      "text": "Evidence reviewed for the 2021 TB screening guidelines on the performance of symptom screening",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        235.2598419189453,
+        527.4382934570312,
+        249.7028350830078
+      ],
+      "text": "in children and adolescents < 15 years who are close contacts of a person with TB comprised four",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        247.18373107910156,
+        527.4238891601562,
+        262.9027404785156
+      ],
+      "text": "(13) studies with a total of 2695 participants  . A comparison of a screen of symptoms including any",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.65972900390625,
+        527.4714965820312,
+        276.1027526855469
+      ],
+      "text": "one of cough, fever or poor weight gain, in which the presence of any symptom constitutes a positive",
+      "font": "SegoeUI-Light",
+      "size": 10.986441612243652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        274.85968017578125,
+        527.5789184570312,
+        289.3027038574219
+      ],
+      "text": "screen, with a composite reference standard indicated a pooled sensitivity of 89% (95% CI 52% ; 98%)",
+      "font": "SegoeUI-Light",
+      "size": 10.983437538146973,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.78369140625,
+        527.4320678710938,
+        302.5027160644531
+      ],
+      "text": "(13) and a pooled specificity of 69% (95% CI 51% ; 83%)  . The evidence on the performance of CXR",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.25982666015625,
+        527.4420776367188,
+        315.7028503417969
+      ],
+      "text": "in close contacts < 15 years who were exposed to people with TB comprised four studies with a total",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.459716796875,
+        527.5252685546875,
+        328.9027404785156
+      ],
+      "text": "of 2550 participants. In comparison with a composite reference standard, screening for abnormalities",
+      "font": "SegoeUI-Light",
+      "size": 10.989745140075684,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.6598205566406,
+        527.3890380859375,
+        342.10284423828125
+      ],
+      "text": "on CXR suggestive of TB had a pooled sensitivity of 84% (95% CI 70% ; 92%) and a pooled specificity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.8597106933594,
+        198.08331298828125,
+        355.302734375
+      ],
+      "text": "of 91% (95% CI 90% ; 92%).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        365.7262878417969,
+        436.0971374511719,
+        383.9963073730469
+      ],
+      "text": "Household contacts aged ≥ 5 years and other risk groups",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41480255126953,
+        404.0588073730469,
+        513.6038208007812,
+        418.5018310546875
+      ],
+      "text": "14. Among HIV-negative household contacts aged ≥ 5 years and other risk groups, the absence",
+      "font": "SegoeUI-Light",
+      "size": 10.960227966308594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        417.2588195800781,
+        513.6473388671875,
+        431.70184326171875
+      ],
+      "text": "of any symptoms of TB and the absence of abnormal chest radiographic findings may be used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        429.18280029296875,
+        513.6259765625,
+        444.90185546875
+      ],
+      "text": "(Conditional recommendation, very low  to rule out TB disease before TB preventive treatment.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        442.3828125,
+        240.19973754882812,
+        458.04681396484375
+      ],
+      "text": "certainty of the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        465.3627014160156,
+        513.7972412109375,
+        479.80572509765625
+      ],
+      "text": "15. Among individuals aged ≥ 15 years in populations in which TB screening is recommended,",
+      "font": "SegoeUI-Light",
+      "size": 10.997300148010254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        478.5627136230469,
+        513.6261596679688,
+        493.0057373046875
+      ],
+      "text": "systematic screening for TB disease may be conducted with a symptom screen, chest X-ray or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        490.4866943359375,
+        513.6370239257812,
+        506.20574951171875
+      ],
+      "text": "(Conditional  molecular WHO-recommended rapid diagnostic tests, alone or in combination.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        503.68670654296875,
+        363.1949768066406,
+        519.3507080078125
+      ],
+      "text": "recommendation, very low certainty of the estimates of effect)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        526.666748046875,
+        513.6939086914062,
+        541.1097412109375
+      ],
+      "text": "16. Among individuals < 15 years who are close contacts of a person with TB, systematic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        539.8665771484375,
+        513.642333984375,
+        554.3095703125
+      ],
+      "text": "screening for TB disease should be conducted with a symptom screen of any one of cough,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        551.7906494140625,
+        513.638671875,
+        567.5096435546875
+      ],
+      "text": "Strong recommendation, moderate  fever or poor weight gain; or chest radiography; or both. (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        564.99072265625,
+        273.0383605957031,
+        580.709716796875
+      ],
+      "text": "to low certainty of the estimates of effect ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        610.1854248046875,
+        236.09176635742188,
+        628.4553833007812
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.0513916015625,
+        527.416259765625,
+        649.6043701171875
+      ],
+      "text": "Recommendation 14  for ruling out TB disease in contacts aged ≥ 5 years and other HIV-negative",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.361328125,
+        527.5211791992188,
+        662.8043212890625
+      ],
+      "text": "risk groups is conditional, due to the very low certainty of the evidence, which is from a study originally",
+      "font": "SegoeUI-Light",
+      "size": 10.965044021606445,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.2852783203125,
+        527.4095458984375,
+        676.0042724609375
+      ],
+      "text": "(17) included in the 2018 guidelines . The systematic review determined the sensitivity and specificity",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.7612915039062,
+        527.437744140625,
+        689.2042846679688
+      ],
+      "text": "of screening based on symptoms and/or CXR for ruling out TB disease in HIV-negative people and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.6854248046875,
+        445.7557373046875,
+        702.4044189453125
+      ],
+      "text": "(61) people of unknown HIV status for the 2015 guidelines (see PICO 3 in",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        385.9359130859375,
+        687.96142578125,
+        423.329345703125,
+        702.4044189453125
+      ],
+      "text": "Annex 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        423.3306884765625,
+        687.96142578125,
+        527.429931640625,
+        702.4044189453125
+      ],
+      "text": ")  . To illustrate how",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        701.161376953125,
+        527.3968505859375,
+        715.6043701171875
+      ],
+      "text": "the various screening and diagnostic algorithms are expected to rule out TB disease, a simple model",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.361328125,
+        527.3976440429688,
+        728.8043212890625
+      ],
+      "text": "was constructed to compare the following six screening criteria: (i) any TB symptom, (ii) any cough,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.561279296875,
+        527.3941040039062,
+        742.0042724609375
+      ],
+      "text": "(iii) cough for 2–3 weeks, (iv) CXR abnormality suggestive of TB, (v) any CXR abnormality and (vi) a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        317.3076477050781,
+        773.1756591796875
+      ],
+      "text": "For TBI testing and TPT in children < 5 years, see recommendations in",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        317.3074951171875,
+        762.6716918945312,
+        352.9955139160156,
+        773.1756591796875
+      ],
+      "text": "section 1.1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        352.9989013671875,
+        762.6716918945312,
+        425.3589172363281,
+        773.1756591796875
+      ],
+      "text": "and the algorithm in",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        425.3622131347656,
+        762.6716918945312,
+        443.29022216796875,
+        773.1756591796875
+      ],
+      "text": "Fig. 1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        762.6716918945312,
+        445.0679016113281,
+        773.1756591796875
+      ],
+      "text": ". 5",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "14 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

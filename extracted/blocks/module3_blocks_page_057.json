@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 57,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.21018981933594,
+        492.28338623046875,
+        83.29818725585938
+      ],
+      "text": "Should LC-mNAATs on gastric aspirate be used to diagnose pulmonary TB in",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.61033630371094,
+        451.3441162109375,
+        97.69833374023438
+      ],
+      "text": "children with signs and symptoms of pulmonary TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.36524200439453,
+        526.6182250976562,
+        121.51023864746094
+      ],
+      "text": "Three studies (176 participants, including 14 with pulmonary TB) assessed the accuracy of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.86524200439453,
+        526.9617919921875,
+        137.01023864746094
+      ],
+      "text": "LC-mNAATs for detecting pulmonary TB using gastric aspirate against a MRS ( ).  Fig. 2.2.1.4",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.365234375,
+        526.9654541015625,
+        152.51023864746094
+      ],
+      "text": "Sensitivity was not estimable for two studies and was 64% in the third study. The specificities",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        154.865234375,
+        223.47828674316406,
+        168.01023864746094
+      ],
+      "text": "were between 93% and 100%.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.65142822265625,
+        527.4132690429688,
+        196.7394256591797
+      ],
+      "text": "Fig. 2.2.1.4 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.9601593017578,
+        312.0721740722656,
+        211.1394500732422
+      ],
+      "text": "a pulmonary TB in gastric aspirate and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.20050048828125,
+        226.7085723876953,
+        515.93896484375,
+        241.22219848632812
+      ],
+      "text": "FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI) TP FP Study",
+      "font": "Arial-BoldMT",
+      "size": 8.777196884155273,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.20050048828125,
+        242.154296875,
+        354.987060546875,
+        255.98887634277344
+      ],
+      "text": "5 121 0.64 [0.35, 0.87] 0.93 [0.87, 0.97] 9 9 Danfack 2024",
+      "font": "ArialMT",
+      "size": 8.777196884155273,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.20050048828125,
+        255.66583251953125,
+        354.984375,
+        269.50042724609375
+      ],
+      "text": "22 0 0 0 Not estimable 1.00 [0.85, 1.00] Promsena 2022",
+      "font": "ArialMT",
+      "size": 8.777196884155273,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.20050048828125,
+        269.17919921875,
+        354.984375,
+        283.013671875
+      ],
+      "text": "10 0 0 0 Not estimable 1.00 [0.69, 1.00] Yadav 2021",
+      "font": "ArialMT",
+      "size": 8.777196884155273,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        359.71490478515625,
+        282.69268798828125,
+        517.4404296875,
+        296.5269775390625
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.777196884155273,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.1814880371094,
+        526.5010375976562,
+        321.9364929199219
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.98162841796875,
+        519.1832275390625,
+        332.73663330078125
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.6003112792969,
+        244.932861328125,
+        346.3712158203125
+      ],
+      "text": "a  Studies are sorted by increasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.36309814453125,
+        514.80126953125,
+        378.45111083984375
+      ],
+      "text": "Should LC-mNAATs on nasopharyngeal aspirate be used to diagnose pulmonary",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.7630920410156,
+        481.50628662109375,
+        392.8511047363281
+      ],
+      "text": "TB in children with signs and symptoms of pulmonary TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.51800537109375,
+        526.8956909179688,
+        416.66302490234375
+      ],
+      "text": "One study (144 participants including 12 with pulmonary TB) assessed the accuracy of LC-mNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.01800537109375,
+        526.96533203125,
+        432.16302490234375
+      ],
+      "text": "for detecting pulmonary TB using nasopharyngeal aspirate against an MRS ( ). The  Fig. 2.2.1.5",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        434.51800537109375,
+        526.964599609375,
+        447.66302490234375
+      ],
+      "text": "sensitivity was 58% and specificity was 94%. Due to limited data, a recommendation on using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.01800537109375,
+        502.01568603515625,
+        463.16302490234375
+      ],
+      "text": "LC-mNAATs with nasopharyngeal aspirate for detection of pulmonary TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.8042297363281,
+        527.4132690429688,
+        491.8922119140625
+      ],
+      "text": "Fig. 2.2.1.5 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.1130065917969,
+        366.3478698730469,
+        506.2922058105469
+      ],
+      "text": "a pulmonary TB in nasopharyngeal aspirate and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.04170227050781,
+        521.818359375,
+        516.0503540039062,
+        536.6201171875
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.950690269470215,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.04170227050781,
+        537.5694580078125,
+        353.8638000488281,
+        551.6773681640625
+      ],
+      "text": "Danfack 2024 7 8 5 124 0.58 [0.28, 0.85] 0.94 [0.88, 0.97]",
+      "font": "ArialMT",
+      "size": 8.950690269470215,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        356.7432861328125,
+        551.3480834960938,
+        517.5870361328125,
+        565.4559326171875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.950690269470215,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.2445068359375,
+        526.5010375976562,
+        589.9994506835938
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.044677734375,
+        519.1832275390625,
+        600.7996215820312
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.663330078125,
+        244.932861328125,
+        614.4342041015625
+      ],
+      "text": "a  Studies are sorted by increasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.4261474609375,
+        512.0354614257812,
+        646.5140991210938
+      ],
+      "text": "Should LC-mNAATs on stool be used to diagnose pulmonary TB in children with",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.8261108398438,
+        374.89453125,
+        660.9140625
+      ],
+      "text": "signs and symptoms of pulmonary TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.5809936523438,
+        526.8381958007812,
+        684.7260131835938
+      ],
+      "text": "One study (144 participants, including seven with pulmonary TB) assessed the accuracy of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.0809936523438,
+        527.0044555664062,
+        700.2260131835938
+      ],
+      "text": "LC-mNAATs for detecting pulmonary TB using stool against a MRS ( ). The sensitivity  Fig. 2.2.1.6",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982085227966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.5809936523438,
+        526.965576171875,
+        715.7260131835938
+      ],
+      "text": "was 100% and specificity was 92%. The certainty of evidence was very low for sensitivity and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.0809936523438,
+        526.964599609375,
+        731.2260131835938
+      ],
+      "text": "moderate for specificity. Due to limited data, a recommendation on using LC-mNAATs with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.5809936523438,
+        319.5940856933594,
+        746.7260131835938
+      ],
+      "text": "stool for detection of pulmonary TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 41",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

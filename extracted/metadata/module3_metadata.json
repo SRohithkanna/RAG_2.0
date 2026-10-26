@@ -1,0 +1,4719 @@
+{
+  "file": "module3",
+  "total_pages": 184,
+  "pages": [
+    {
+      "page": 1,
+      "label_raw": "a",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        29.00014877319336,
+        60.581298828125
+      ],
+      "num_blocks": 2,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 2,
+      "label_raw": "b",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 3,
+      "label_raw": "i",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        29.00014877319336,
+        60.581298828125
+      ],
+      "num_blocks": 2,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 4,
+      "label_raw": "ii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        7.964018821716309,
+        7.9670820236206055,
+        7.971248149871826,
+        7.994247913360596,
+        7.998849868774414,
+        8.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 5,
+      "label_raw": "iii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        12.0,
+        32.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 6,
+      "label_raw": "iv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        12.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 7,
+      "label_raw": "v",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.967552185058594,
+        10.97241497039795,
+        10.991796493530273,
+        10.99579906463623,
+        10.996748924255371,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 8,
+      "label_raw": "vi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.953250885009766,
+        10.96263599395752,
+        10.968003273010254,
+        10.970008850097656,
+        10.972916603088379,
+        10.979931831359863,
+        10.981634140014648,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 9,
+      "label_raw": "vii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        32.0
+      ],
+      "num_blocks": 38,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 10,
+      "label_raw": "viii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5
+      ],
+      "num_blocks": 43,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 11,
+      "label_raw": "ix",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.947726249694824,
+        10.966499328613281,
+        10.990395545959473,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 12,
+      "label_raw": "x",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.890000343322754,
+        10.895251274108887,
+        10.926152229309082,
+        10.94486141204834,
+        10.950438499450684,
+        10.95269775390625,
+        10.95455551147461,
+        10.956262588500977,
+        10.974821090698242,
+        10.987142562866211,
+        10.988393783569336,
+        10.99174690246582,
+        10.993297576904297,
+        10.996048927307129,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 13,
+      "label_raw": "xi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.954856872558594,
+        10.957769393920898,
+        10.965295791625977,
+        10.976374626159668,
+        10.979230880737305,
+        10.981985092163086,
+        10.98293685913086,
+        10.991796493530273,
+        11.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 14,
+      "label_raw": "xii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.660999298095703,
+        4.664000034332275,
+        6.413000106811523,
+        7.994848251342773,
+        8.0,
+        10.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 15,
+      "label_raw": "xiii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        11.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 16,
+      "label_raw": "xiv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        7.977869510650635,
+        7.997649669647217,
+        8.0,
+        10.9572172164917,
+        11.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 17,
+      "label_raw": "1",
+      "label_numeric": 1,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.953250885009766,
+        10.967552185058594,
+        10.981935501098633,
+        10.986641883850098,
+        10.986891746520996,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 18,
+      "label_raw": "2",
+      "label_numeric": 2,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94651985168457,
+        10.96389102935791,
+        10.967251777648926,
+        10.978679656982422,
+        10.980181694030762,
+        10.994499206542969,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 19,
+      "label_raw": "3",
+      "label_numeric": 3,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.991896629333496,
+        11.0,
+        12.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 20,
+      "label_raw": "4",
+      "label_numeric": 4,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.397581100463867,
+        6.413000106811523,
+        8.0,
+        9.0,
+        10.954505920410156,
+        10.973518371582031,
+        10.986641883850098,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 21,
+      "label_raw": "5",
+      "label_numeric": 5,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946821212768555,
+        10.95455551147461,
+        10.955811500549316,
+        10.996699333190918,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 22,
+      "label_raw": "6",
+      "label_numeric": 6,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.945565223693848,
+        10.945866584777832,
+        10.97216510772705,
+        10.983938217163086,
+        10.984238624572754,
+        10.995849609375,
+        10.998950004577637,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 23,
+      "label_raw": "7",
+      "label_numeric": 7,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.992847442626953,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 24,
+      "label_raw": "8",
+      "label_numeric": 8,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 25,
+      "label_raw": "9",
+      "label_numeric": 9,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.640641689300537,
+        6.413000106811523,
+        7.959899425506592,
+        8.0,
+        10.0,
+        10.94486141204834,
+        10.974069595336914,
+        10.976675033569336,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 26,
+      "label_raw": "10",
+      "label_numeric": 10,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.953250885009766,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 26,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 27,
+      "label_raw": "11",
+      "label_numeric": 11,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.95455551147461,
+        10.959726333618164,
+        10.964292526245117,
+        10.981884956359863,
+        10.992597579956055,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 28,
+      "label_raw": "12",
+      "label_numeric": 12,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.94657039642334,
+        10.97472095489502,
+        10.98098373413086,
+        10.99579906463623,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 29,
+      "label_raw": "13",
+      "label_numeric": 13,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.518673896789551,
+        6.995999813079834,
+        8.0,
+        9.0,
+        10.962435722351074,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 30,
+      "label_raw": "14",
+      "label_numeric": 14,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        7.206962585449219,
+        8.0,
+        9.0,
+        10.962486267089844,
+        10.962686538696289,
+        10.972867012023926,
+        10.975221633911133,
+        10.97562313079834,
+        10.991096496582031,
+        10.996149063110352,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 126,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 31,
+      "label_raw": "15",
+      "label_numeric": 15,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        7.959951400756836,
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.959224700927734,
+        10.961081504821777,
+        10.97692584991455,
+        10.984389305114746,
+        10.995199203491211,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 32,
+      "label_raw": "16",
+      "label_numeric": 16,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        6.413000106811523,
+        6.995999813079834,
+        8.0,
+        8.024235725402832,
+        8.315176963806152,
+        8.566079139709473,
+        9.0,
+        10.949785232543945,
+        10.951844215393066,
+        10.982786178588867,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 64,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 33,
+      "label_raw": "17",
+      "label_numeric": 17,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        7.931816577911377,
+        8.0,
+        8.770434379577637,
+        9.0,
+        10.970008850097656,
+        10.973567962646484,
+        10.974470138549805,
+        10.997949600219727,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 44,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 34,
+      "label_raw": "18",
+      "label_numeric": 18,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.292072296142578,
+        8.780540466308594,
+        9.0,
+        10.995749473571777,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 99,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 35,
+      "label_raw": "19",
+      "label_numeric": 19,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        7.959951400756836,
+        8.0,
+        8.468740463256836,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 47,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 36,
+      "label_raw": "20",
+      "label_numeric": 20,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.992297172546387,
+        10.997099876403809,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 37,
+      "label_raw": "21",
+      "label_numeric": 21,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.94662094116211,
+        10.948630332946777,
+        10.959023475646973,
+        10.969457626342773,
+        10.973318099975586,
+        10.976876258850098,
+        10.983488082885742,
+        10.988493919372559,
+        10.995498657226562,
+        10.996748924255371,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 38,
+      "label_raw": "22",
+      "label_numeric": 22,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.950187683105469,
+        10.963489532470703,
+        10.975772857666016,
+        10.986942291259766,
+        10.996999740600586,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 39,
+      "label_raw": "23",
+      "label_numeric": 23,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.96384048461914,
+        10.97938060760498,
+        10.985740661621094,
+        10.986441612243652,
+        10.989945411682129,
+        10.996649742126465,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 40,
+      "label_raw": "24",
+      "label_numeric": 24,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.948429107666016,
+        10.948982238769531,
+        10.953250885009766,
+        10.9606294631958,
+        10.973367691040039,
+        10.982986450195312,
+        10.992597579956055,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 41,
+      "label_raw": "25",
+      "label_numeric": 25,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.952446937561035,
+        10.961381912231445,
+        10.972064018249512,
+        10.987342834472656,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 42,
+      "label_raw": "26",
+      "label_numeric": 26,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        9.0,
+        10.957568168640137,
+        10.959174156188965,
+        10.9679536819458,
+        10.968855857849121,
+        10.983137130737305,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 43,
+      "label_raw": "27",
+      "label_numeric": 27,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.971713066101074,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 44,
+      "label_raw": "28",
+      "label_numeric": 28,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.968905448913574,
+        10.990195274353027,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 45,
+      "label_raw": "29",
+      "label_numeric": 29,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.987692832946777,
+        10.998149871826172,
+        10.998449325561523,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 46,
+      "label_raw": "30",
+      "label_numeric": 30,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.962486267089844,
+        10.96288776397705,
+        10.96484375,
+        10.974370002746582,
+        10.979731559753418,
+        10.980382919311523,
+        10.982135772705078,
+        10.986241340637207,
+        10.987743377685547,
+        10.990145683288574,
+        11.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 47,
+      "label_raw": "31",
+      "label_numeric": 31,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.945414543151855,
+        10.969908714294434,
+        10.970861434936523,
+        10.97692584991455,
+        10.983287811279297,
+        10.994698524475098,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 48,
+      "label_raw": "32",
+      "label_numeric": 32,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.413000106811523,
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.945615768432617,
+        10.951994895935059,
+        10.98889446258545,
+        10.992347717285156,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 49,
+      "label_raw": "33",
+      "label_numeric": 33,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.976123809814453,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 50,
+      "label_raw": "34",
+      "label_numeric": 34,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "MyriadPro-Regular",
+        "SourceSansPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.958572387695312,
+        10.959927558898926,
+        10.970510482788086,
+        10.979230880737305,
+        10.980031967163086,
+        10.984289169311523,
+        10.990195274353027,
+        11.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 51,
+      "label_raw": "35",
+      "label_numeric": 35,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.951493263244629,
+        10.981985092163086,
+        10.982736587524414,
+        10.992998123168945,
+        11.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 52,
+      "label_raw": "36",
+      "label_numeric": 36,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.94657039642334,
+        10.979631423950195,
+        10.979881286621094,
+        10.996349334716797,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 53,
+      "label_raw": "37",
+      "label_numeric": 37,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.0,
+        10.952045440673828,
+        10.952597618103027,
+        10.953250885009766,
+        10.98183536529541,
+        10.985640525817871,
+        10.986091613769531,
+        11.0,
+        12.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 54,
+      "label_raw": "38",
+      "label_numeric": 38,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946017265319824,
+        10.964040756225586,
+        10.968905448913574,
+        10.97467041015625,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 55,
+      "label_raw": "39",
+      "label_numeric": 39,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.412917137145996,
+        9.0,
+        10.985440254211426,
+        10.986842155456543,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 200,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 56,
+      "label_raw": "40",
+      "label_numeric": 40,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.644074440002441,
+        8.851371765136719,
+        9.0,
+        10.94486141204834,
+        10.953100204467773,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 109,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 57,
+      "label_raw": "41",
+      "label_numeric": 41,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.777196884155273,
+        8.950690269470215,
+        9.0,
+        10.94486141204834,
+        10.982085227966309,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 63,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 58,
+      "label_raw": "42",
+      "label_numeric": 42,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        8.951729774475098,
+        9.0,
+        9.037249565124512,
+        10.94486141204834,
+        10.963288307189941,
+        10.990946769714355,
+        10.998099327087402,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 54,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 59,
+      "label_raw": "43",
+      "label_numeric": 43,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        8.096919059753418,
+        8.851371765136719,
+        9.0,
+        10.94486141204834,
+        10.974570274353027,
+        10.988694190979004,
+        10.994698524475098,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 90,
+      "num_images": 0,
+      "num_tables": 4
+    },
+    {
+      "page": 60,
+      "label_raw": "44",
+      "label_numeric": 44,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        8.92684555053711,
+        9.0,
+        10.970259666442871,
+        10.972314834594727,
+        10.97241497039795,
+        10.989845275878906,
+        10.990095138549805,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 48,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 61,
+      "label_raw": "45",
+      "label_numeric": 45,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946369171142578,
+        10.953601837158203,
+        10.953853607177734,
+        10.95792007446289,
+        10.966097831726074,
+        10.985840797424316,
+        10.998149871826172,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 62,
+      "label_raw": "46",
+      "label_numeric": 46,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.977176666259766,
+        10.98138427734375,
+        10.98634147644043,
+        10.986641883850098,
+        10.98674201965332,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 63,
+      "label_raw": "47",
+      "label_numeric": 47,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946067810058594,
+        10.958672523498535,
+        10.970259666442871,
+        10.991395950317383,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 64,
+      "label_raw": "48",
+      "label_numeric": 48,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946369171142578,
+        10.949734687805176,
+        10.967903137207031,
+        10.970410346984863,
+        10.970660209655762,
+        10.975221633911133,
+        10.977076530456543,
+        10.977726936340332,
+        10.984589576721191,
+        10.990145683288574,
+        10.993898391723633,
+        10.996249198913574,
+        10.997249603271484,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 65,
+      "label_raw": "49",
+      "label_numeric": 49,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.3983330726623535,
+        8.0,
+        10.960428237915039,
+        10.974821090698242,
+        10.976675033569336,
+        10.979480743408203,
+        10.996349334716797,
+        10.998700141906738,
+        11.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 66,
+      "label_raw": "50",
+      "label_numeric": 50,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.380869388580322,
+        6.413000106811523,
+        8.0,
+        10.0,
+        10.94486141204834,
+        10.947274208068848,
+        10.949685096740723,
+        10.950638771057129,
+        10.953601837158203,
+        10.957769393920898,
+        10.9606294631958,
+        10.968404769897461,
+        10.98098373413086,
+        10.989544868469238,
+        10.989595413208008,
+        10.99804973602295,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 67,
+      "label_raw": "51",
+      "label_numeric": 51,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        4.732399940490723,
+        5.247000217437744,
+        6.116549491882324,
+        6.118449687957764,
+        6.119449615478516,
+        6.119500160217285,
+        6.119649887084961,
+        6.119699954986572,
+        6.119799613952637,
+        6.119849681854248,
+        6.119899749755859,
+        6.119949817657471,
+        6.120049953460693,
+        6.120149612426758,
+        6.1203999519348145,
+        6.120599746704102,
+        6.121699333190918,
+        6.454750061035156,
+        6.995999813079834,
+        8.0,
+        9.0,
+        10.946218490600586,
+        10.983137130737305,
+        10.999249458312988,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 56,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 68,
+      "label_raw": "52",
+      "label_numeric": 52,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        7.5995893478393555,
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.95937442779541,
+        10.968705177307129,
+        10.973769187927246,
+        10.977978706359863,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 117,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 69,
+      "label_raw": "53",
+      "label_numeric": 53,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.96168327331543,
+        10.964693069458008,
+        10.982335090637207,
+        10.999300003051758,
+        11.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 70,
+      "label_raw": "54",
+      "label_numeric": 54,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.961833953857422,
+        10.975021362304688,
+        10.997349739074707,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 71,
+      "label_raw": "55",
+      "label_numeric": 55,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.948027610778809,
+        10.955459594726562,
+        10.971964836120605,
+        10.973116874694824,
+        10.974120140075684,
+        10.974320411682129,
+        10.978879928588867,
+        10.98293685913086,
+        10.995698928833008,
+        10.996599197387695,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 72,
+      "label_raw": "56",
+      "label_numeric": 56,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.956313133239746,
+        10.972515106201172,
+        10.998700141906738,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 73,
+      "label_raw": "57",
+      "label_numeric": 57,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        10.94486141204834,
+        10.955660820007324,
+        10.965145111083984,
+        10.998149871826172,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 74,
+      "label_raw": "58",
+      "label_numeric": 58,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.959324836730957,
+        10.963489532470703,
+        10.983036994934082,
+        10.98378849029541,
+        10.989544868469238,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 75,
+      "label_raw": "59",
+      "label_numeric": 59,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        4.766200065612793,
+        6.1423163414001465,
+        6.142717361450195,
+        6.155545711517334,
+        6.155696392059326,
+        6.160249710083008,
+        6.16225004196167,
+        6.163249969482422,
+        6.163300037384033,
+        6.163450241088867,
+        6.163549900054932,
+        6.163650035858154,
+        6.163700103759766,
+        6.16379976272583,
+        6.163899898529053,
+        6.16439962387085,
+        6.165149688720703,
+        6.165499687194824,
+        6.500899791717529,
+        8.0,
+        9.0,
+        10.959324836730957,
+        10.963689804077148,
+        10.98483943939209,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 64,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 76,
+      "label_raw": "60",
+      "label_numeric": 60,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.052717208862305,
+        9.0,
+        10.973467826843262,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 44,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 77,
+      "label_raw": "61",
+      "label_numeric": 61,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        8.18845272064209,
+        8.19019603729248,
+        9.0,
+        10.973467826843262,
+        10.98969554901123,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 46,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 78,
+      "label_raw": "62",
+      "label_numeric": 62,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.951493263244629,
+        10.956765174865723,
+        10.964191436767578,
+        10.976574897766113,
+        10.984088897705078,
+        10.987592697143555,
+        10.991246223449707,
+        10.997650146484375,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 79,
+      "label_raw": "63",
+      "label_numeric": 63,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.98293685913086,
+        10.996599197387695,
+        10.997349739074707,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 80,
+      "label_raw": "64",
+      "label_numeric": 64,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.957417488098145,
+        10.972515106201172,
+        10.973518371582031,
+        10.982335090637207,
+        10.984990119934082,
+        10.991847038269043,
+        10.998700141906738,
+        10.999750137329102,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 81,
+      "label_raw": "65",
+      "label_numeric": 65,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.96584701538086,
+        10.982786178588867,
+        10.993297576904297,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 82,
+      "label_raw": "66",
+      "label_numeric": 66,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        10.94486141204834,
+        10.950287818908691,
+        10.962586402893066,
+        10.980783462524414,
+        10.988694190979004,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 83,
+      "label_raw": "67",
+      "label_numeric": 67,
+      "is_roman": false,
+      "font_inventory": [
+        "Arial-BoldMT",
+        "ArialMT",
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.821499824523926,
+        5.247000217437744,
+        5.895823955535889,
+        5.905816078186035,
+        5.921098232269287,
+        5.921247959136963,
+        5.9213480949401855,
+        5.921448707580566,
+        5.921598434448242,
+        5.922048568725586,
+        5.922098636627197,
+        5.922598838806152,
+        5.923049449920654,
+        5.923599720001221,
+        5.9237494468688965,
+        5.923799514770508,
+        5.923849582672119,
+        5.9238996505737305,
+        5.9240498542785645,
+        5.924099445343018,
+        5.924099922180176,
+        5.924149990081787,
+        5.924599647521973,
+        5.925899982452393,
+        6.576300144195557,
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.94657039642334,
+        10.982736587524414,
+        10.998700141906738,
+        10.999699592590332,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 64,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 84,
+      "label_raw": "68",
+      "label_numeric": 68,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.968955993652344,
+        10.969056129455566,
+        10.98378849029541,
+        10.991246223449707,
+        10.997200012207031,
+        10.997650146484375,
+        10.998749732971191,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 85,
+      "label_raw": "69",
+      "label_numeric": 69,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946972846984863,
+        10.953049659729004,
+        10.958722114562988,
+        10.974520683288574,
+        10.983488082885742,
+        10.986291885375977,
+        10.989645004272461,
+        10.997349739074707,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 86,
+      "label_raw": "70",
+      "label_numeric": 70,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.972515106201172,
+        10.998700141906738,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 87,
+      "label_raw": "71",
+      "label_numeric": 71,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.947223663330078,
+        10.961081504821777,
+        10.995348930358887,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 88,
+      "label_raw": "72",
+      "label_numeric": 72,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.949785232543945,
+        10.958271026611328,
+        10.961833953857422,
+        10.970159530639648,
+        10.973618507385254,
+        10.974470138549805,
+        10.985790252685547,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 89,
+      "label_raw": "73",
+      "label_numeric": 73,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.951894760131836,
+        10.958772659301758,
+        10.965997695922852,
+        10.980582237243652,
+        10.982085227966309,
+        10.98483943939209,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 90,
+      "label_raw": "74",
+      "label_numeric": 74,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.9464693069458,
+        10.969256401062012,
+        10.970561027526855,
+        10.992297172546387,
+        10.998250007629395,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 91,
+      "label_raw": "75",
+      "label_numeric": 75,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.95003604888916,
+        10.973418235778809,
+        10.973969459533691,
+        10.987493515014648,
+        10.99484920501709,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 92,
+      "label_raw": "76",
+      "label_numeric": 76,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.948579788208008,
+        10.956914901733398,
+        10.979631423950195,
+        10.99034595489502,
+        10.990646362304688,
+        10.998799324035645,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 93,
+      "label_raw": "77",
+      "label_numeric": 77,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946017265319824,
+        10.94651985168457,
+        10.960027694702148,
+        10.960729598999023,
+        10.970510482788086,
+        10.977426528930664,
+        10.98333740234375,
+        10.990546226501465,
+        10.99679946899414,
+        10.998350143432617,
+        10.999650001525879,
+        11.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 94,
+      "label_raw": "78",
+      "label_numeric": 78,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.973769187927246,
+        10.976174354553223,
+        10.995749473571777,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 95,
+      "label_raw": "79",
+      "label_numeric": 79,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.890000343322754,
+        10.94486141204834,
+        10.946721076965332,
+        10.966599464416504,
+        10.976123809814453,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 96,
+      "label_raw": "80",
+      "label_numeric": 80,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.956914901733398,
+        10.979881286621094,
+        10.984990119934082,
+        10.98819351196289,
+        10.991646766662598,
+        10.998449325561523,
+        10.998600006103516,
+        11.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 97,
+      "label_raw": "81",
+      "label_numeric": 81,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.951493263244629,
+        10.955711364746094,
+        10.978879928588867,
+        10.984739303588867,
+        10.996349334716797,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 98,
+      "label_raw": "82",
+      "label_numeric": 82,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "SourceSansPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946017265319824,
+        10.94657039642334,
+        10.952346801757812,
+        10.959927558898926,
+        10.963238716125488,
+        10.974771499633789,
+        10.983938217163086,
+        10.985640525817871,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 99,
+      "label_raw": "83",
+      "label_numeric": 83,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.982686042785645,
+        10.992096900939941,
+        10.997349739074707,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 100,
+      "label_raw": "84",
+      "label_numeric": 84,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.892020225524902,
+        10.94486141204834,
+        10.945012092590332,
+        10.958271026611328,
+        10.977375984191895,
+        10.983386993408203,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 101,
+      "label_raw": "85",
+      "label_numeric": 85,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.890000343322754,
+        10.936969757080078,
+        10.937220573425293,
+        10.94486141204834,
+        10.949685096740723,
+        10.951794624328613,
+        10.952346801757812,
+        10.968655586242676,
+        10.972465515136719,
+        10.979681968688965,
+        10.989044189453125,
+        10.993098258972168,
+        10.99905014038086,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 102,
+      "label_raw": "86",
+      "label_numeric": 86,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.94576644897461,
+        10.953149795532227,
+        10.965194702148438,
+        10.970459938049316,
+        10.980833053588867,
+        10.98784351348877,
+        10.993998527526855,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 103,
+      "label_raw": "87",
+      "label_numeric": 87,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.950237274169922,
+        10.956413269042969,
+        10.958521842956543,
+        10.967452049255371,
+        10.991146087646484,
+        10.991246223449707,
+        10.998649597167969,
+        10.999500274658203,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 104,
+      "label_raw": "88",
+      "label_numeric": 88,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.979731559753418,
+        10.986041069030762,
+        10.98634147644043,
+        10.988994598388672,
+        10.993147850036621,
+        10.999300003051758,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 105,
+      "label_raw": "89",
+      "label_numeric": 89,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.959525108337402,
+        10.971312522888184,
+        10.975372314453125,
+        10.97852897644043,
+        10.979331016540527,
+        10.982085227966309,
+        10.98884391784668,
+        10.991347312927246,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 106,
+      "label_raw": "90",
+      "label_numeric": 90,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946017265319824,
+        10.953200340270996,
+        10.983488082885742,
+        10.997249603271484,
+        10.999249458312988,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 107,
+      "label_raw": "91",
+      "label_numeric": 91,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.945012092590332,
+        10.978379249572754,
+        10.981134414672852,
+        10.981634140014648,
+        10.993348121643066,
+        10.996649742126465,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 108,
+      "label_raw": "92",
+      "label_numeric": 92,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.955811500549316,
+        10.97426986694336,
+        10.977276802062988,
+        10.985139846801758,
+        10.985790252685547,
+        10.991546630859375,
+        10.998149871826172,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 109,
+      "label_raw": "93",
+      "label_numeric": 93,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.957517623901367,
+        10.969808578491211,
+        10.970561027526855,
+        10.971814155578613,
+        10.972014427185059,
+        11.0,
+        12.0,
+        13.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 1,
+      "num_tables": 0
+    },
+    {
+      "page": 110,
+      "label_raw": "94",
+      "label_numeric": 94,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.975873947143555,
+        10.979681968688965,
+        10.982686042785645,
+        10.988344192504883,
+        10.990646362304688,
+        10.99384880065918,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 111,
+      "label_raw": "95",
+      "label_numeric": 95,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.9682035446167,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 112,
+      "label_raw": "96",
+      "label_numeric": 96,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.94878101348877,
+        10.951894760131836,
+        10.961181640625,
+        10.976876258850098,
+        10.979881286621094,
+        10.981584548950195,
+        10.998449325561523,
+        10.999350547790527,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 113,
+      "label_raw": "97",
+      "label_numeric": 97,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.970710754394531,
+        10.976123809814453,
+        10.980483055114746,
+        10.994698524475098,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 114,
+      "label_raw": "98",
+      "label_numeric": 98,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "MyriadPro-Regular",
+        "SourceSansPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.946218490600586,
+        10.958069801330566,
+        10.971863746643066,
+        10.972365379333496,
+        10.979230880737305,
+        10.988643646240234,
+        11.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 115,
+      "label_raw": "99",
+      "label_numeric": 99,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.969006538391113,
+        10.98288631439209,
+        10.993398666381836,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 116,
+      "label_raw": "100",
+      "label_numeric": 100,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.97697639465332,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 117,
+      "label_raw": "101",
+      "label_numeric": 101,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "SourceSansPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.9501371383667,
+        10.958120346069336,
+        10.96534538269043,
+        10.973016738891602,
+        10.992597579956055,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 118,
+      "label_raw": "102",
+      "label_numeric": 102,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.965997695922852,
+        10.982986450195312,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 119,
+      "label_raw": "103",
+      "label_numeric": 103,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.951292037963867,
+        10.955610275268555,
+        10.957015991210938,
+        10.967852592468262,
+        10.971362113952637,
+        10.973016738891602,
+        10.974169731140137,
+        10.984238624572754,
+        10.996599197387695,
+        10.999000549316406,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 120,
+      "label_raw": "104",
+      "label_numeric": 104,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.9572172164917,
+        10.958169937133789,
+        10.966599464416504,
+        10.970961570739746,
+        10.977777481079102,
+        10.980082511901855,
+        11.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 121,
+      "label_raw": "105",
+      "label_numeric": 105,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        6.400537967681885,
+        6.413000106811523,
+        8.0,
+        10.953401565551758,
+        10.95947551727295,
+        10.964191436767578,
+        10.968254089355469,
+        10.978629112243652,
+        10.98098373413086,
+        10.982736587524414,
+        10.987092971801758,
+        10.987342834472656,
+        10.989094734191895,
+        10.990095138549805,
+        10.995899200439453,
+        10.99940013885498,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 122,
+      "label_raw": "106",
+      "label_numeric": 106,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        6.999949932098389,
+        7.0,
+        7.00007438659668,
+        8.0,
+        8.999950408935547,
+        9.0,
+        10.95530891418457,
+        10.964241981506348,
+        10.972665786743164,
+        10.9738187789917,
+        10.989995002746582,
+        10.995599746704102,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 35,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 123,
+      "label_raw": "107",
+      "label_numeric": 107,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.951090812683105,
+        10.96579647064209,
+        10.97647476196289,
+        10.98669147491455,
+        10.986991882324219,
+        10.991796493530273,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 124,
+      "label_raw": "108",
+      "label_numeric": 108,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.967101097106934,
+        10.979180335998535,
+        10.98669147491455,
+        10.990045547485352,
+        10.991796493530273,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 125,
+      "label_raw": "109",
+      "label_numeric": 109,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.945465087890625,
+        10.949383735656738,
+        10.954405784606934,
+        10.974420547485352,
+        10.994248390197754,
+        10.995999336242676,
+        10.99804973602295,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 126,
+      "label_raw": "110",
+      "label_numeric": 110,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        6.392316818237305,
+        8.0,
+        10.94486141204834,
+        10.946670532226562,
+        10.964141845703125,
+        10.964492797851562,
+        10.965546607971191,
+        10.967501640319824,
+        10.9679536819458,
+        10.979331016540527,
+        10.986291885375977,
+        10.989144325256348,
+        10.998600006103516,
+        10.99940013885498,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 127,
+      "label_raw": "111",
+      "label_numeric": 111,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.945363998413086,
+        10.947274208068848,
+        10.948379516601562,
+        10.967351913452148,
+        10.970561027526855,
+        10.981985092163086,
+        10.989595413208008,
+        10.990145683288574,
+        10.991246223449707,
+        10.992897987365723,
+        10.993597984313965,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 128,
+      "label_raw": "112",
+      "label_numeric": 112,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        8.49994945526123,
+        8.5,
+        9.0,
+        10.951894760131836,
+        10.992297172546387,
+        11.0,
+        11.89995002746582,
+        12.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 129,
+      "label_raw": "113",
+      "label_numeric": 113,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        8.49994945526123,
+        8.5,
+        9.0,
+        10.94486141204834,
+        10.978379249572754,
+        10.987743377685547,
+        10.989044189453125,
+        10.99685001373291,
+        10.996899604797363,
+        10.999699592590332,
+        11.0,
+        11.89995002746582,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 130,
+      "label_raw": "114",
+      "label_numeric": 114,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.972565650939941,
+        10.978428840637207,
+        10.978479385375977,
+        10.981134414672852,
+        10.989444732666016,
+        10.990996360778809,
+        11.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 131,
+      "label_raw": "115",
+      "label_numeric": 115,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.968153953552246,
+        10.990595817565918,
+        10.991896629333496,
+        10.992347717285156,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 132,
+      "label_raw": "116",
+      "label_numeric": 116,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.955610275268555,
+        10.959726333618164,
+        10.966499328613281,
+        10.977126121520996,
+        10.984939575195312,
+        10.989845275878906,
+        10.993748664855957,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 133,
+      "label_raw": "117",
+      "label_numeric": 117,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.384185314178467,
+        8.0,
+        10.94486141204834,
+        10.950287818908691,
+        10.950589179992676,
+        10.95410442352295,
+        10.977276802062988,
+        10.98569107055664,
+        10.989094734191895,
+        10.992447853088379,
+        10.994348526000977,
+        10.995549201965332,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 134,
+      "label_raw": "118",
+      "label_numeric": 118,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.986641883850098,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 135,
+      "label_raw": "119",
+      "label_numeric": 119,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.94997501373291,
+        9.952286720275879,
+        9.99639892578125,
+        10.0,
+        19.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 136,
+      "label_raw": "120",
+      "label_numeric": 120,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 137,
+      "label_raw": "121",
+      "label_numeric": 121,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "TimesNewRomanPSMT"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.960227966308594,
+        10.963740348815918,
+        10.97241497039795,
+        10.974821090698242,
+        10.97652530670166,
+        10.99274730682373,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 138,
+      "label_raw": "122",
+      "label_numeric": 122,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "MyriadPro-Regular",
+        "TimesNewRomanPSMT",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.9844388961792,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 139,
+      "label_raw": "123",
+      "label_numeric": 123,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-MdIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.964542388916016,
+        10.968103408813477,
+        10.969256401062012,
+        10.974771499633789,
+        10.976174354553223,
+        10.977176666259766,
+        10.979230880737305,
+        10.979731559753418,
+        10.98138427734375,
+        10.986842155456543,
+        10.991196632385254,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 140,
+      "label_raw": "124",
+      "label_numeric": 124,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-BdIt",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        6.410399436950684,
+        8.0,
+        10.94486141204834,
+        10.951342582702637,
+        10.952949523925781,
+        10.95455551147461,
+        10.965596199035645,
+        10.967852592468262,
+        10.995549201965332,
+        10.995749473571777,
+        10.995949745178223,
+        10.996199607849121,
+        11.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 141,
+      "label_raw": "125",
+      "label_numeric": 125,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.950337409973145,
+        10.986641883850098,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 142,
+      "label_raw": "126",
+      "label_numeric": 126,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.963088035583496,
+        10.964191436767578,
+        10.9738187789917,
+        10.996549606323242,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 143,
+      "label_raw": "127",
+      "label_numeric": 127,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.956714630126953,
+        10.963038444519043,
+        10.964141845703125,
+        10.972765922546387,
+        10.993047714233398,
+        10.993497848510742,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 144,
+      "label_raw": "128",
+      "label_numeric": 128,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.955259323120117,
+        10.971512794494629,
+        10.972816467285156,
+        10.984990119934082,
+        10.98634147644043,
+        10.999199867248535,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 145,
+      "label_raw": "129",
+      "label_numeric": 129,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.973067283630371,
+        10.974169731140137,
+        10.978679656982422,
+        10.983036994934082,
+        10.985991477966309,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 146,
+      "label_raw": "130",
+      "label_numeric": 130,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.95229721069336,
+        10.98924446105957,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 147,
+      "label_raw": "131",
+      "label_numeric": 131,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.985840797424316,
+        10.991847038269043,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 148,
+      "label_raw": "132",
+      "label_numeric": 132,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.991296768188477,
+        10.997550010681152,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 149,
+      "label_raw": "133",
+      "label_numeric": 133,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.958271026611328,
+        10.984639167785645,
+        10.99905014038086,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 150,
+      "label_raw": "134",
+      "label_numeric": 134,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.967351913452148,
+        10.978779792785645,
+        10.990395545959473,
+        10.996099472045898,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 151,
+      "label_raw": "135",
+      "label_numeric": 135,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.94571590423584,
+        10.952396392822266,
+        10.96168327331543,
+        10.973718643188477,
+        10.984188079833984,
+        10.992648124694824,
+        11.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 152,
+      "label_raw": "136",
+      "label_numeric": 136,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.962586402893066,
+        10.969608306884766,
+        10.970861434936523,
+        10.985790252685547,
+        10.989144325256348,
+        10.999000549316406,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 153,
+      "label_raw": "137",
+      "label_numeric": 137,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.947274208068848,
+        10.96168327331543,
+        10.971613883972168,
+        10.977527618408203,
+        10.981735229492188,
+        10.984990119934082,
+        11.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 154,
+      "label_raw": "138",
+      "label_numeric": 138,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.963238716125488,
+        10.967552185058594,
+        10.971012115478516,
+        10.971914291381836,
+        10.973567962646484,
+        10.980181694030762,
+        10.982986450195312,
+        10.983488082885742,
+        10.995348930358887,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 155,
+      "label_raw": "139",
+      "label_numeric": 139,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.966197967529297,
+        10.975823402404785,
+        10.976825714111328,
+        10.977276802062988,
+        10.983137130737305,
+        10.984689712524414,
+        10.985740661621094,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 156,
+      "label_raw": "140",
+      "label_numeric": 140,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.946218490600586,
+        10.95892333984375,
+        10.977426528930664,
+        10.988744735717773,
+        10.992047309875488,
+        10.992297172546387,
+        10.995048522949219,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 157,
+      "label_raw": "141",
+      "label_numeric": 141,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.949935913085938,
+        10.969608306884766,
+        10.972565650939941,
+        10.985790252685547,
+        10.987342834472656,
+        10.988444328308105,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 158,
+      "label_raw": "142",
+      "label_numeric": 142,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.961583137512207,
+        10.975723266601562,
+        10.976825714111328,
+        10.978128433227539,
+        10.984639167785645,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 159,
+      "label_raw": "143",
+      "label_numeric": 143,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "TimesNewRomanPSMT"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.956714630126953,
+        10.956765174865723,
+        10.956914901733398,
+        10.963489532470703,
+        10.967852592468262,
+        10.980082511901855,
+        10.980232238769531,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 160,
+      "label_raw": "144",
+      "label_numeric": 144,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.95229721069336,
+        10.977276802062988,
+        10.979331016540527,
+        10.982135772705078,
+        10.986991882324219,
+        10.997249603271484,
+        10.99959945678711,
+        10.999650001525879,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 161,
+      "label_raw": "145",
+      "label_numeric": 145,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.947826385498047,
+        10.966399192810059,
+        10.968955993652344,
+        10.969457626342773,
+        10.969808578491211,
+        10.979881286621094,
+        10.983838081359863,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 162,
+      "label_raw": "146",
+      "label_numeric": 146,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.947826385498047,
+        10.951844215393066,
+        10.954856872558594,
+        10.976725578308105,
+        10.977025985717773,
+        10.989544868469238,
+        10.989745140075684,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 163,
+      "label_raw": "147",
+      "label_numeric": 147,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular",
+        "SourceSansPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.962679862976074,
+        9.976371765136719,
+        9.979578971862793,
+        9.980581283569336,
+        9.986791610717773,
+        10.0,
+        10.972265243530273,
+        10.977877616882324,
+        10.983838081359863,
+        10.994598388671875,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 164,
+      "label_raw": "148",
+      "label_numeric": 148,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "TimesNewRomanPSMT"
+      ],
+      "font_sizes": [
+        8.0,
+        9.958263397216797,
+        9.959015846252441,
+        9.964536666870117,
+        9.97657299041748,
+        9.985739707946777,
+        9.987842559814453,
+        10.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 165,
+      "label_raw": "149",
+      "label_numeric": 149,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.958069801330566,
+        10.972616195678711,
+        10.996099472045898,
+        10.997550010681152,
+        10.99804973602295,
+        11.0,
+        14.0,
+        32.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 166,
+      "label_raw": "150",
+      "label_numeric": 150,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md",
+        "MyriadPro-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.956413269042969,
+        10.96579647064209,
+        10.975021362304688,
+        10.977477073669434,
+        10.984739303588867,
+        10.986091613769531,
+        10.990195274353027,
+        10.993898391723633,
+        10.995599746704102,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 167,
+      "label_raw": "151",
+      "label_numeric": 151,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.95229721069336,
+        10.980833053588867,
+        10.987993240356445,
+        10.989194869995117,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 168,
+      "label_raw": "152",
+      "label_numeric": 152,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.959826469421387,
+        10.975522994995117,
+        10.977827072143555,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 169,
+      "label_raw": "153",
+      "label_numeric": 153,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-LtIt"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.967101097106934,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 170,
+      "label_raw": "154",
+      "label_numeric": 154,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 171,
+      "label_raw": "155",
+      "label_numeric": 155,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        8.0,
+        11.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 172,
+      "label_raw": "156",
+      "label_numeric": 156,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 173,
+      "label_raw": "157",
+      "label_numeric": 157,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 174,
+      "label_raw": "158",
+      "label_numeric": 158,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 175,
+      "label_raw": "159",
+      "label_numeric": 159,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        8.0,
+        9.0,
+        11.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 176,
+      "label_raw": "160",
+      "label_numeric": 160,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 177,
+      "label_raw": "161",
+      "label_numeric": 161,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        8.0,
+        10.998899459838867,
+        11.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 178,
+      "label_raw": "162",
+      "label_numeric": 162,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        19.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 179,
+      "label_raw": "163",
+      "label_numeric": 163,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Bk",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        12.0,
+        32.0
+      ],
+      "num_blocks": 34,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 180,
+      "label_raw": "164",
+      "label_numeric": 164,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt",
+        "FrutigerNeueLT-Md"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 38,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 181,
+      "label_raw": "165",
+      "label_numeric": 165,
+      "is_roman": false,
+      "font_inventory": [
+        "FrutigerNeueLT-Bd",
+        "FrutigerNeueLT-Lt"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 182,
+      "label_raw": "166",
+      "label_numeric": 166,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 183,
+      "label_raw": "167",
+      "label_numeric": 167,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 184,
+      "label_raw": "168",
+      "label_numeric": 168,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Black",
+        "AvenirLTStd-Book"
+      ],
+      "font_sizes": [
+        11.0
+      ],
+      "num_blocks": 2,
+      "num_images": 0,
+      "num_tables": 0
+    }
+  ]
+}

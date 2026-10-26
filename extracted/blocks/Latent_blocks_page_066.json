@@ -1,0 +1,102 @@
+{
+  "file": "Latent",
+  "page": 66,
+  "blocks": [
+    {
+      "bbox": [
+        265.3755187988281,
+        137.33026123046875,
+        274.97552490234375,
+        761.1027221679688
+      ],
+      "text": "Although one of the trials was conducted in low TB incidence countries, this is unlikely to affect the relative effect of rifapentine + isoniazid compared with isoniazid monotherapy. Not downgraded.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        292.3755187988281,
+        211.5211181640625,
+        301.97552490234375,
+        761.1027221679688
+      ],
+      "text": "Although the trials were open-label, this is unlikely to affect detection of hepatotoxicity, which is usually done by objective measurement (i.e. blood tests.). Not downgraded.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        301.3755187988281,
+        309.1047058105469,
+        310.97552490234375,
+        761.1027221679688
+      ],
+      "text": "Very low event rates. Upper limit of 95% CI of both relative and absolute effect include appreciable harm with 3HP. Downgraded by two levels.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        283.3755187988281,
+        453.5068664550781,
+        292.97552490234375,
+        761.1027221679688
+      ],
+      "text": "Both trials were open-label, which may have introduced bias in ascertainment of adverse events.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        274.3755187988281,
+        468.2405090332031,
+        283.97552490234375,
+        761.1027221679688
+      ],
+      "text": "95% CIs of both relative and absolute effect include appreciable benefit and harm with 3HP.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        266.04302978515625,
+        767.44287109375,
+        307.63983154296875,
+        771.02392578125
+      ],
+      "text": "4\t 2\t 5\t 3\t 1",
+      "font": "Whitney-Book",
+      "size": 4.372499942779541,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        38.381099700927734,
+        790.2608032226562,
+        56.69309997558594,
+        810.61279296875
+      ],
+      "text": "54",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

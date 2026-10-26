@@ -1,0 +1,330 @@
+{
+  "file": "module1",
+  "page": 111,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.94952392578125,
+        588.0592041015625,
+        80.56852722167969
+      ],
+      "text": "Population:  Immediate Isoniazid Preventive Therapy (IPT) compared to deferred IPT (12 weeks at post-partum) in pregnant women with HIV",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        79.94949340820312,
+        181.38079833984375,
+        91.56849670410156
+      ],
+      "text": "Bibliography:  (see reference  )  62",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        90.94949340820312,
+        226.080810546875,
+        102.56849670410156
+      ],
+      "text": "Overall quality of evidence rating:  moderate",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        171.4080810546875,
+        768.8796997070312,
+        182.92811584472656
+      ],
+      "text": "66 more per 1000\n Moderate  Critical 1  randomized  not  not serious  not serious  serious none  106/449  78/460  OR 1.51\n  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.54960632324219,
+        182.40805053710938,
+        659.1848754882812,
+        193.92808532714844
+      ],
+      "text": "(from 12 to 131 more)  trials  serious  (23.6%)  (17.0%)  (1.09 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        541.52587890625,
+        193.40805053710938,
+        562.3905029296875,
+        204.9280548095703
+      ],
+      "text": "2.10)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        208.59890747070312,
+        167.81069946289062,
+        220.21791076660156
+      ],
+      "text": "Maternal death (any cause)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        223.8077392578125,
+        768.8796997070312,
+        235.3278045654297
+      ],
+      "text": "Low  Critical 4 fewer per 1000\n 1  randomized  not  not serious  not serious  very  none  2/477  4/492  RR 0.50",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.54960632324219,
+        234.8077392578125,
+        651.3153686523438,
+        246.32777404785156
+      ],
+      "text": "(from 7 fewer to 14  trials  serious  serious (0.4%)  (0.8%)  (0.09 to   b",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        541.0458374023438,
+        245.80770874023438,
+        602.6928100585938,
+        257.3277282714844
+      ],
+      "text": "more)  2.73)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        260.9986877441406,
+        118.27877807617188,
+        272.6177062988281
+      ],
+      "text": "Hepatotoxicity",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        276.2075500488281,
+        768.8796997070312,
+        287.72760009765625
+      ],
+      "text": "Moderate  Critical 10 fewer per 1000\n 1  randomized  not  not serious  not serious  serious none  29/477  34/479  RR 0.86\n  c",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.54960632324219,
+        287.2075500488281,
+        657.125732421875,
+        298.7275695800781
+      ],
+      "text": "(from 33 fewer to 27  trials  serious  (6.1%)  (7.1%)  (0.53 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        541.4359130859375,
+        298.20751953125,
+        602.6928100585938,
+        309.7275390625
+      ],
+      "text": "more)  1.38)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        313.39849853515625,
+        267.0889587402344,
+        325.01751708984375
+      ],
+      "text": "Any Grade 3 or 4 adverse events related to treatment",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        328.6073913574219,
+        768.8796997070312,
+        340.12738037109375
+      ],
+      "text": "1  randomized  not  not serious  not serious  serious none  70/477  70/479  RR 1.00\n 0 fewer per 1000\n Moderate  Critical  c",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.54960632324219,
+        339.6073913574219,
+        657.6224975585938,
+        351.12738037109375
+      ],
+      "text": "trials  serious  (14.7%)  (14.6%)  (0.74 to  (from 38 fewer to 53",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        541.4679565429688,
+        350.60736083984375,
+        602.6928100585938,
+        362.1273498535156
+      ],
+      "text": "1.36)  more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        365.79827880859375,
+        239.60748291015625,
+        377.41729736328125
+      ],
+      "text": "Discontinuation due to adverse drug reactions",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        381.0072021484375,
+        768.8796997070312,
+        392.5272216796875
+      ],
+      "text": "1  randomized  not  not serious  not serious  serious none  16/477  28/479  RR 0.57\n 25 fewer per 1000\n Moderate  Critical  a",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        111.54960632324219,
+        392.0071716308594,
+        653.7839965820312,
+        403.5271911621094
+      ],
+      "text": "trials  serious  (3.4%)  (5.8%)  (0.31 to  (from 40 fewer to 3",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        541.2472534179688,
+        403.0071716308594,
+        602.6928100585938,
+        414.52716064453125
+      ],
+      "text": "1.05)  more)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        424.77520751953125,
+        175.47596740722656,
+        434.3752136230469
+      ],
+      "text": "Optimal information size not met.  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        433.77520751953125,
+        300.2377014160156,
+        443.3752136230469
+      ],
+      "text": "Large CI including both appreciable benefits and harms. Very few events.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        442.77520751953125,
+        215.09918212890625,
+        452.3752136230469
+      ],
+      "text": "CI includes both appreciable benefit and harm. c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "93",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

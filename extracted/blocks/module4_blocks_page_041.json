@@ -1,0 +1,666 @@
+{
+  "file": "module4",
+  "page": 41,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        269.51251220703125,
+        147.5496368408203
+      ],
+      "text": "Research gaps",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        180.91859436035156,
+        418.21099853515625,
+        195.36158752441406
+      ],
+      "text": "The GDGs discussed future research and highlighted a number of priorities.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        208.71192932128906,
+        494.032470703125,
+        229.59193420410156
+      ],
+      "text": "The effectiveness of fixed-dose combination TB treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.71192932128906,
+        527.6981811523438,
+        248.59193420410156
+      ],
+      "text": "when compared to separate drug formulations in patients with",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.71192932128906,
+        171.41650390625,
+        267.5919189453125
+      ],
+      "text": "DS-TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.7957763671875,
+        78.23609924316406,
+        288.2388000488281
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        273.7957763671875,
+        527.2589111328125,
+        288.2388000488281
+      ],
+      "text": "Additional research on the reasons why FDC formulations did not show a clear benefit over separate",
+      "font": "SegoeUI-Light",
+      "size": 10.954707145690918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        286.99578857421875,
+        170.44041442871094,
+        301.4388122558594
+      ],
+      "text": "drug formulations.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.19580078125,
+        78.23609924316406,
+        314.6388244628906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        300.19580078125,
+        527.1366577148438,
+        314.6388244628906
+      ],
+      "text": "Pharmacokinetic studies of the bioavailability of FDCs versus separate drug formulations and better",
+      "font": "SegoeUI-Light",
+      "size": 10.975221633911133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        313.39569091796875,
+        345.8751220703125,
+        327.8387145996094
+      ],
+      "text": "development of weight band categories for drug dosing.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.5957946777344,
+        78.23609924316406,
+        341.038818359375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        326.5957946777344,
+        524.3734741210938,
+        341.038818359375
+      ],
+      "text": "The optimal dose of rifampicin, including the use of different drug formulations in all age groups.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.7958068847656,
+        78.23609924316406,
+        354.23883056640625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        339.7958068847656,
+        376.4759216308594,
+        354.23883056640625
+      ],
+      "text": "Additional qualitative studies detailing adherence to medication.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.9958190917969,
+        78.23609924316406,
+        367.4388427734375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        352.9958190917969,
+        527.4742431640625,
+        367.4388427734375
+      ],
+      "text": "Additional work on FDC formulations to further decrease the pill burden, especially among patients",
+      "font": "SegoeUI-Light",
+      "size": 10.973116874694824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        366.19580078125,
+        172.26312255859375,
+        380.6388244628906
+      ],
+      "text": "with comorbidities.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.989013671875,
+        416.7172546386719,
+        414.8690185546875
+      ],
+      "text": "The use of steroids in the treatment regimen of",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.989013671875,
+        265.94287109375,
+        433.8690185546875
+      ],
+      "text": "extrapulmonary TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.0729064941406,
+        78.23609924316406,
+        454.51593017578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        440.0729064941406,
+        456.706787109375,
+        454.51593017578125
+      ],
+      "text": "The optimal steroid dose for TB meningitis (including different drug formulations).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.2729187011719,
+        78.23609924316406,
+        467.7159423828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        453.2729187011719,
+        527.1217041015625,
+        467.7159423828125
+      ],
+      "text": "The optimal steroid duration for TB meningitis and if this duration differs between different grades",
+      "font": "SegoeUI-Light",
+      "size": 10.995899200439453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        466.472900390625,
+        144.06130981445312,
+        480.9159240722656
+      ],
+      "text": "of meningitis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.67291259765625,
+        78.23609924316406,
+        494.1159362792969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        479.67291259765625,
+        527.4810180664062,
+        494.1159362792969
+      ],
+      "text": "The different effects of steroids on people who are HIV-positive or HIV-negative, or who are being",
+      "font": "SegoeUI-Light",
+      "size": 10.993098258972168,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        492.8728942871094,
+        197.37060546875,
+        507.31591796875
+      ],
+      "text": "treated (or not) with ART.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.0728759765625,
+        78.23609924316406,
+        520.515869140625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        506.0728759765625,
+        527.4256591796875,
+        520.515869140625
+      ],
+      "text": "The relationship between steroid treatment and cancer risk, with reference to the Mayosi et al.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        517.9969482421875,
+        197.5532989501953,
+        533.7159423828125
+      ],
+      "text": "(53) study on pericarditis  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.066162109375,
+        507.3667907714844,
+        567.9461669921875
+      ],
+      "text": "4-month regimen of isoniazid, rifapentine, moxifloxacin and",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.066162109375,
+        424.0533142089844,
+        586.9461669921875
+      ],
+      "text": "pyrazinamide for drug-susceptible pulmonary TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.1500854492188,
+        78.23609924316406,
+        607.5930786132812
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        593.1500854492188,
+        527.1738891601562,
+        607.5930786132812
+      ],
+      "text": "Acquisition of drug resistance for Mycobacterium tuberculosis and for other bacteria while on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        606.35009765625,
+        247.49652099609375,
+        620.7930908203125
+      ],
+      "text": "treatment with a 4-month regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.5501098632812,
+        78.23609924316406,
+        633.9931030273438
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        619.5501098632812,
+        384.4498596191406,
+        633.9931030273438
+      ],
+      "text": "The efficacy of the regimen for patients with extra-pulmonary TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.7501220703125,
+        78.23609924316406,
+        647.193115234375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        632.7501220703125,
+        527.4953002929688,
+        647.193115234375
+      ],
+      "text": "Pharmacokinetic, safety and tolerability studies in younger adolescents and children. A",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        645.9500732421875,
+        527.1611328125,
+        660.39306640625
+      ],
+      "text": "pharmacokinetic sub-study in adults was initiated alongside the trial, and the results were expected",
+      "font": "SegoeUI-Light",
+      "size": 10.981684684753418,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        659.1500854492188,
+        245.33941650390625,
+        673.5930786132812
+      ],
+      "text": "within months of the GDG meeting.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.35009765625,
+        78.23609924316406,
+        686.7930908203125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        672.35009765625,
+        291.951904296875,
+        686.7930908203125
+      ],
+      "text": "The cost-effectiveness of the shorter regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.5501098632812,
+        78.23609924316406,
+        699.9931030273438
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        685.5501098632812,
+        411.5539245605469,
+        699.9931030273438
+      ],
+      "text": "Considerations regarding the impact of the 4-month regimen on equity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.7501220703125,
+        78.23609924316406,
+        713.193115234375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        698.7501220703125,
+        422.8805847167969,
+        713.193115234375
+      ],
+      "text": "The acceptability of the shorter 4-month regimen, particularly for patients.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.9500732421875,
+        78.23609924316406,
+        726.39306640625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        711.9500732421875,
+        527.42578125,
+        726.39306640625
+      ],
+      "text": "The use of this regimen in specific subgroups – including pregnant and breastfeeding women,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        725.1500854492188,
+        527.4511108398438,
+        739.5930786132812
+      ],
+      "text": "children aged less than 12 years, HIV-positive individuals with a CD4 count lower than 100 cells/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        738.35009765625,
+        465.345947265625,
+        752.7930908203125
+      ],
+      "text": "mm , people with diabetes mellitus and people with a body weight less than 40 kg.  3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        751.5501098632812,
+        78.23609924316406,
+        765.9931030273438
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        751.5501098632812,
+        353.147216796875,
+        765.9931030273438
+      ],
+      "text": "Dosing considerations for people weighing less than 40 kg.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        545.8001708984375,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "27",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

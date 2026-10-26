@@ -1,0 +1,41 @@
+{
+  "file": "Latent",
+  "page": 37,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    392.6897234235491,
+    524.4090576171875,
+    621.8890380859375
+  ],
+  "heading": "Table 2 Recommended dosages of drugs for the treatment of LTBI",
+  "n_rows": 5,
+  "n_cols": 3,
+  "data": [
+    [
+      "Drug regimen",
+      "Dose per kg body weight",
+      "Maximum dose"
+    ],
+    [
+      "Isoniazid alone, daily for 6 or 9 months",
+      "Adults, 5 mg Children, 10 mg (range, 7–15 mg)",
+      "300 mg"
+    ],
+    [
+      "Daily rifampicin alone for 3–4 months",
+      "Adults, 10 mg Children, 15 mg (range, 10–20 mg)",
+      "600 mg"
+    ],
+    [
+      "Daily isoniazid plus rifampicin for 3–4 months",
+      "Isoniazid: Adults, 5 mg Children, 10 mg (range, 7–15 mg) Rifampicin Adults, 10 mg Children, 15 mg (range, 10–20 mg)",
+      "Isoniazid, 300 mg Rifampicin, 600 mg"
+    ],
+    [
+      "Weekly rifapentine plus isoniazid for 3 months (12 doses)",
+      "Individuals aged ≥ 12 years: Isoniazid: 15 mg Individuals aged 2–11 years: isoniazid: 25 mg Rifapentine: 10.0–14.0 kg = 300 mg 14.1–25.0 kg = 450 mg 25.1–32.0 kg = 600 mg 32.1–50.0 kg = 750 mg > 50 kg = 900 mg",
+      "Isoniazid, 900 mg Rifapentine, 900 mg"
+    ]
+  ]
+}

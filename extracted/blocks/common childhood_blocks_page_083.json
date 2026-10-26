@@ -1,0 +1,438 @@
+{
+  "file": "common childhood",
+  "page": 83,
+  "blocks": [
+    {
+      "bbox": [
+        57.58599853515625,
+        57.98431396484375,
+        401.4679870605469,
+        84.36231231689453
+      ],
+      "text": "10. Evidence for recommendations on",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 22.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        101.11740112304688,
+        79.98431396484375,
+        352.3794250488281,
+        106.36231231689453
+      ],
+      "text": "the oxygen use and delivery",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 22.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        190.5670166015625,
+        288.473876953125,
+        203.75601196289062
+      ],
+      "text": "10.1\t Pulse oximetry for detection of hypoxaemia",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        207.19261169433594,
+        399.1328430175781,
+        220.6826171875
+      ],
+      "text": "1.\t Pulse oximetry is recommended to determine the presence of hypoxaemia",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        220.19261169433594,
+        399.0714111328125,
+        233.6826171875
+      ],
+      "text": "and to guide administration of oxygen therapy in all infants and children with",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        233.19261169433594,
+        120.02149963378906,
+        246.6826171875
+      ],
+      "text": "hypoxaemia.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        248.5972900390625,
+        252.91282653808594,
+        262.5173034667969
+      ],
+      "text": "(Strong recommendation, low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        264.86187744140625,
+        399.0628356933594,
+        278.3518981933594
+      ],
+      "text": "The panel noted that although there are no studies comparing arterial blood gases",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        277.86187744140625,
+        399.14288330078125,
+        291.3518981933594
+      ],
+      "text": "versus pulse oximetry in children, the meta-analysis in adults shows a very high",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        290.86187744140625,
+        399.06280517578125,
+        304.3518981933594
+      ],
+      "text": "correlation. Pulse oximetry is non-invasive, feasible to implement, and does not",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        303.86187744140625,
+        359.75286865234375,
+        317.3518981933594
+      ],
+      "text": "require any special skills. It is, therefore, more suitable for use more widely.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        328.3805236816406,
+        231.48292541503906,
+        340.3705139160156
+      ],
+      "text": "10.1.1\t Evidence and summary of findings",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        344.0351867675781,
+        399.05279541015625,
+        357.52520751953125
+      ],
+      "text": "A systematic review of the accuracy of pulse oximetry in children was not found. A",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        357.0351867675781,
+        399.07257080078125,
+        370.52520751953125
+      ],
+      "text": "meta-analysis of 74 studies of adult subjects, published between 1976-1994, reported",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        370.0351867675781,
+        399.0928955078125,
+        383.52520751953125
+      ],
+      "text": "the correlation between pulse oximetry measurements and arterial blood gas (ABG)",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        383.0351867675781,
+        399.1129150390625,
+        396.52520751953125
+      ],
+      "text": "analysis, and investigated how a number of factors affected this relationship [Jensen,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.23880004882812,
+        395.815185546875,
+        182.1387939453125,
+        409.52520751953125
+      ],
+      "text": "see GRADE table A7.28",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        396.0351867675781,
+        399.09765625,
+        409.52520751953125
+      ],
+      "text": "1998] ( ). The available low quality evidence shows that pulse",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        409.0351867675781,
+        399.0827941894531,
+        422.52520751953125
+      ],
+      "text": "oximetry is the best non-invasive method of detecting hypoxaemia, and should be",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        422.0351867675781,
+        153.3928680419922,
+        435.52520751953125
+      ],
+      "text": "made globally available.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        435.0351867675781,
+        399.0714111328125,
+        448.52520751953125
+      ],
+      "text": "Subjects included in the studies were healthy adult volunteers (25.7%), respiratory",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        448.0351867675781,
+        399.122802734375,
+        461.52520751953125
+      ],
+      "text": "patients (20.3%), cardiac and thoracic surgical patients (18.9%), critically ill patients",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        461.0351867675781,
+        399.0527648925781,
+        474.52520751953125
+      ],
+      "text": "(16.2%), and athletes (5.4%). Of 39 studies that reported sufficient data on the number",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        474.0351867675781,
+        399.0928649902344,
+        487.52520751953125
+      ],
+      "text": "of subjects and data points to calculate the correlation coefficient (r) between pulse",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        487.0351867675781,
+        399.1227722167969,
+        500.52520751953125
+      ],
+      "text": "oximetry and ABG, the weighted mean r was 0.895 (+/- 0.014). This estimate did not",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        500.0351867675781,
+        399.0027770996094,
+        513.5252075195312
+      ],
+      "text": "significantly change when only higher quality studies were considered (r = 0.883). The",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        513.03515625,
+        399.13275146484375,
+        526.525146484375
+      ],
+      "text": "highest correlation was in healthy volunteers (r = 0.957), and the lowest in critically",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        526.03515625,
+        147.25289916992188,
+        539.525146484375
+      ],
+      "text": "ill patients (r = 0.760).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        539.03515625,
+        399.0813293457031,
+        552.525146484375
+      ],
+      "text": "The accuracy of oximeters differed depending on the oximeter make, particularly",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        552.03515625,
+        399.1330871582031,
+        565.525146484375
+      ],
+      "text": "at saturations below 70%. Finger probes were found to have a significantly higher",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        565.03515625,
+        399.0877685546875,
+        578.525146484375
+      ],
+      "text": "correlation with SaO  than ear probes (p < 0.0001). The correlation coefficient in five",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        140.91769409179688,
+        572.3211669921875,
+        143.79769897460938,
+        580.4151611328125
+      ],
+      "text": "2",
+      "font": "MinionPro-Regular",
+      "size": 6.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        578.03515625,
+        399.05914306640625,
+        591.525146484375
+      ],
+      "text": "studies of hypoxic subjects (SaO  67.6 -87.8%) was high (r = 0.938). Factors that reduced",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        183.08920288085938,
+        585.3211669921875,
+        185.96920776367188,
+        593.4151611328125
+      ],
+      "text": "2",
+      "font": "MinionPro-Regular",
+      "size": 6.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        591.03515625,
+        372.9528503417969,
+        604.525146484375
+      ],
+      "text": "accuracy included dyshemoglobinemia, hypothermia, and skin pigmentation.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        223.42050170898438,
+        644.9403076171875,
+        231.6195068359375,
+        655.2992553710938
+      ],
+      "text": "69",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "file": "module4",
+  "page": 168,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        124.8744888305664,
+        82.6147232055664
+      ],
+      "text": "Rationale",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.4212036132812,
+        104.26564025878906
+      ],
+      "text": "The rationale for this recommendation is based on the expert evidence and considerations detailed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        180.4151153564453,
+        117.46559143066406
+      ],
+      "text": "in the next subsections.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.72663116455078,
+        527.41015625,
+        139.1696319580078
+      ],
+      "text": "Globally, an estimated 400 000 people (95% UI: 360 000–440 000) developed MDR/RR-TB in 2023.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        137.92665100097656,
+        527.2893676757812,
+        152.36964416503906
+      ],
+      "text": "There have been steady improvements in the treatment success rate for people diagnosed with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        151.12660217285156,
+        527.4244995117188,
+        165.56959533691406
+      ],
+      "text": "MDR/RR-TB, but the rate remains alarmingly low. Globally in 2021, the treatment success rate was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        164.3266143798828,
+        527.4002075195312,
+        178.7696075439453
+      ],
+      "text": "68%, up from 60% in 2019 and 50% in 2012. MDR/RR-TB treatment poses many challenges, which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        177.52662658691406,
+        527.4353637695312,
+        191.96961975097656
+      ],
+      "text": "are further exacerbated for those with pre-existing liver disease due to the potential hepatotoxicity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.4506378173828,
+        467.9062805175781,
+        205.1696319580078
+      ],
+      "text": "(5) of some anti-TB medicines, which may increase the risk of drug-induced liver injury  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.4304962158203,
+        527.3782348632812,
+        226.8734893798828
+      ],
+      "text": "There is a substantial overlap in the epidemiology of chronic hepatitis C and TB owing to common",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.63050842285156,
+        527.6439208984375,
+        240.07350158691406
+      ],
+      "text": "risk factors (e.g. injection drug use, homelessness or incarceration). Chronic viral hepatitis C or B may",
+      "font": "SegoeUI-Light",
+      "size": 10.998350143432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.8303985595703,
+        527.3990478515625,
+        253.2733917236328
+      ],
+      "text": "negatively impact TB treatment by increasing the risk of hepatotoxicity related to TB drugs, and thus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.03053283691406,
+        527.4012451171875,
+        266.4735412597656
+      ],
+      "text": "affecting drug choices; in turn, this may reduce the rate of TB treatment success. The global HCV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        265.23052978515625,
+        527.6424560546875,
+        279.6735534667969
+      ],
+      "text": "antibody seroprevalence in TB patients has been estimated to be 10.4%, surpassing the general",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        278.43048095703125,
+        527.3773193359375,
+        292.8735046386719
+      ],
+      "text": "population’s average of 1.4%. Moreover, studies among TB patients who inject illicit drugs show an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.3544921875,
+        309.4490966796875,
+        306.0735168457031
+      ],
+      "text": "(139) HCV prevalence of 92.5% (95% CI: 80.8–99.0)  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.33441162109375,
+        527.60400390625,
+        327.7774353027344
+      ],
+      "text": "Curative short-course (12–24 weeks) oral direct-acting antivirals (DAAs) have transformed the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.5343933105469,
+        527.3992309570312,
+        340.9774169921875
+      ],
+      "text": "landscape of HCV treatment, with high rates of cure – more than 90% of patients attain a sustained",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.7344055175781,
+        527.4200439453125,
+        354.17742919921875
+      ],
+      "text": "virologic response (SVR), indicating virus clearance – alongside an excellent safety profile and high",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.9344177246094,
+        524.4105224609375,
+        367.37744140625
+      ],
+      "text": "tolerability. Known DDIs with rifamycins preclude co-administration of DAAs in the context of drug-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.1343994140625,
+        527.398193359375,
+        380.5774230957031
+      ],
+      "text": "susceptible TB (few or no interactions are anticipated to occur with drugs for MDR/RR-TB treatment)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.05841064453125,
+        527.1567993164062,
+        393.7774353027344
+      ],
+      "text": "(140) . However, relatively little is known about how to manage chronic HCV infection among MDR-TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989495277404785,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.5343933105469,
+        527.4412231445312,
+        406.9774169921875
+      ],
+      "text": "patients, and national policies and practices vary, highlighting the need for global guidance. There",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.7344055175781,
+        527.3750610351562,
+        420.17742919921875
+      ],
+      "text": "is limited clinical research evidence on the safety and efficacy of TB treatment in patients with signs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.9344177246094,
+        527.441162109375,
+        433.37744140625
+      ],
+      "text": "of liver toxicity; most pivotal trials exclude participants with liver enzymes more than three times the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.1343994140625,
+        527.42333984375,
+        446.5774230957031
+      ],
+      "text": "upper limit of normal values. Despite the limited direct evidence, concomitant therapy for HCV and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.33441162109375,
+        527.4002075195312,
+        459.7774353027344
+      ],
+      "text": "MDR/RR-TB seems feasible and potentially beneficial for patients with co-infection. To address this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.5343933105469,
+        527.5252075195312,
+        472.9774169921875
+      ],
+      "text": "need, WHO commissioned a systematic review of the literature on the co-administration of treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.7344055175781,
+        527.3969116210938,
+        486.17742919921875
+      ],
+      "text": "for DR-TB and hepatitis C. The results of this systematic review highlighted that published evidence",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.6584167480469,
+        211.9199981689453,
+        499.37744140625
+      ],
+      "text": "(141) on this subject is minimal  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.6383056640625,
+        527.4387817382812,
+        521.081298828125
+      ],
+      "text": "Expert evidence has been defined as the observations or experience obtained from a person who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.5623168945312,
+        527.404296875,
+        534.2813110351562
+      ],
+      "text": "(142) is knowledgeable about or skilful in a particular area  . This approach can be considered under",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.038330078125,
+        527.10107421875,
+        547.4813232421875
+      ],
+      "text": "certain circumstances if there is little or no published direct evidence. To address this knowledge gap,",
+      "font": "SegoeUI-Light",
+      "size": 10.99579906463623,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.23828125,
+        527.4212036132812,
+        560.6812744140625
+      ],
+      "text": "“expert evidence” can be considered in the same way as case reports or case series are used within",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.4382934570312,
+        527.394775390625,
+        573.8812866210938
+      ],
+      "text": "the GRADE framework, as if systematic and transparent methods are used for its collection, and the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.638427734375,
+        524.3973999023438,
+        587.0814208984375
+      ],
+      "text": "description of the evidence minimizes interpretation of the extent to which it supports a conclusion.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.34228515625,
+        527.3914794921875,
+        608.7852783203125
+      ],
+      "text": "Despite the lack of general data and potential DDI, concomitant treatment for HCV and MDR/RR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.5422973632812,
+        527.3779907226562,
+        621.9852905273438
+      ],
+      "text": "seems feasible, halting the viral replication. This reasoning suggests that the overall benefits will",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.7421875,
+        251.9140167236328,
+        635.1851806640625
+      ],
+      "text": "probably outweigh the potential harms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        648.5595092773438,
+        191.23452758789062,
+        664.4115600585938
+      ],
+      "text": "Summary of evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.619384765625,
+        527.2230224609375,
+        686.0623779296875
+      ],
+      "text": "This section provides the PICO questions, data and studies considered to answer the questions;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.8195190429688,
+        527.3673706054688,
+        699.2625122070312
+      ],
+      "text": "the methods used for analysis and data synthesis; a summary of evidence on desirable and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.01953125,
+        527.4221801757812,
+        712.4625244140625
+      ],
+      "text": "undesirable effects and certainty of evidence; and a summary of other evidence considered during",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.2194213867188,
+        239.00662231445312,
+        725.6624145507812
+      ],
+      "text": "the recommendation’s development.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "154 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

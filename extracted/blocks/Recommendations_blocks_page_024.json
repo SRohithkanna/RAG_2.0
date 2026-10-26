@@ -1,0 +1,210 @@
+{
+  "file": "Recommendations",
+  "page": 24,
+  "blocks": [
+    {
+      "bbox": [
+        42.51919937133789,
+        42.276031494140625,
+        177.96023559570312,
+        51.276031494140625
+      ],
+      "text": "The objectives of the reviews were:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.528202056884766,
+        60.276031494140625,
+        341.0221252441406,
+        69.27603149414062
+      ],
+      "text": "Determine the overall yield of contact investigation for active TB (question 1).",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.546199798583984,
+        78.27603149414062,
+        92.80220031738281,
+        87.27603149414062
+      ],
+      "text": "• Stratify by:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.06019973754883,
+        96.27603149414062,
+        243.36317443847656,
+        105.27603149414062
+      ],
+      "text": "o index cases with known HIV status (question 4)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.0692024230957,
+        114.27603149414062,
+        231.29417419433594,
+        123.27603149414062
+      ],
+      "text": "o contacts with known HIV status (question 3)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.07820510864258,
+        132.27603149414062,
+        233.14820861816406,
+        141.27603149414062
+      ],
+      "text": "o index cases with known MDR-TB (question 5)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.08720779418945,
+        148.15670776367188,
+        253.62318420410156,
+        159.27603149414062
+      ],
+      "text": "> o age of contacts (0–4, 5–14,   14 years) (question 3)",
+      "font": "LucidaGrande",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.1052131652832,
+        168.27603149414062,
+        362.57708740234375,
+        177.27603149414062
+      ],
+      "text": "o contacts with other identiﬁed risks (co-morbid conditions, especially diabetes)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.61921310424805,
+        180.1397705078125,
+        329.15875244140625,
+        189.27603149414062
+      ],
+      "text": "Note: There were insufﬁcient data to answer this question. (question 3).",
+      "font": "TheSansSemiLight-Italic",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.526798248291016,
+        198.27603149414062,
+        368.0295715332031,
+        207.27603149414062
+      ],
+      "text": "Determine the features of index cases that are associated with active TB in contacts",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.544795989990234,
+        210.27304077148438,
+        90.50578308105469,
+        219.27304077148438
+      ],
+      "text": "(question 2).",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.544795989990234,
+        228.27304077148438,
+        92.80079650878906,
+        237.27304077148438
+      ],
+      "text": "• Stratify by:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.05879592895508,
+        246.27304077148438,
+        399.9346008300781,
+        255.27304077148438
+      ],
+      "text": "o sputum status (smear-positive, smear-negative culture-positive, smear-negative–culture-",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.7797966003418,
+        258.2700500488281,
+        153.79383850097656,
+        267.2700500488281
+      ],
+      "text": "negative–X-ray-positive)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.28379440307617,
+        276.2700500488281,
+        100.1717758178711,
+        285.2700500488281
+      ],
+      "text": "o HIV status",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        51.29279708862305,
+        294.2700500488281,
+        144.10983276367188,
+        303.2700500488281
+      ],
+      "text": "o MDR-TB (from above).",
+      "font": "TheSansSemiLight-Plain",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        217.49440002441406,
+        651.97265625,
+        224.71690368652344,
+        659.47265625
+      ],
+      "text": "22",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

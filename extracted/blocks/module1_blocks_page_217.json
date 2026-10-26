@@ -1,0 +1,282 @@
+{
+  "file": "module1",
+  "page": 217,
+  "blocks": [
+    {
+      "bbox": [
+        145.2322998046875,
+        73.52651977539062,
+        635.2367553710938,
+        83.12651824951172
+      ],
+      "text": "A systematic review of studies published between June 2016 and September 2023 identified five observational studies that assessed adverse events with",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        82.52651977539062,
+        635.1693725585938,
+        92.12651824951172
+      ],
+      "text": "FQ (alone or in combination with other TB drugs). All were observational studies with substantial risk of bias, notably selection bias. Detection, judgement",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        91.52651977539062,
+        635.2716674804688,
+        101.12651824951172
+      ],
+      "text": "of severity, and attribution were not blinded, potentially leading to ascertainment bias. FQ monotherapy (i.e. LFX, OFX, or MFX alone) was observed in",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        100.52651977539062,
+        635.1600952148438,
+        110.12651824951172
+      ],
+      "text": "three studies to be generally safe, with some mild or moderate drug-related AEs in children, but no grade 3/4 or serious AE. In a study evaluating FQ with",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        109.52651977539062,
+        635.2811279296875,
+        119.12651824951172
+      ],
+      "text": "a companion drug (ETH/EMB), the regimen had a higher observed rate of grade 1/2 drug-related AEs compared to the studies with FQ monotherapy",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        118.52651977539062,
+        635.2420654296875,
+        128.1265106201172
+      ],
+      "text": "(ETH+FQ had a significantly higher AE rate than EMB), but no serious AEs were reported and AEs were not associated with treatment discontinuation. FQ",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        127.52651977539062,
+        635.2196044921875,
+        137.1265106201172
+      ],
+      "text": "with PZA was found to have very low tolerability in a small study among inmate contacts by Bedini et al 2016 (7/12 contacts discontinued treatment due",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        136.52651977539062,
+        635.2102661132812,
+        146.1265106201172
+      ],
+      "text": "to AEs). An IPD of 496,527 contacts identified 8,952 contacts of MDR/RR-TB of whom 722 received isoniazid and 4,223 received no TPT. Completion of",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        145.52651977539062,
+        635.3040161132812,
+        155.1265106201172
+      ],
+      "text": "therapy, and adverse events in the treated group were not available (likewise in the Huang et al study from the systematic review). The results from the",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        154.52651977539062,
+        536.5101928710938,
+        164.1265106201172
+      ],
+      "text": "systematic review and from the isoniazid IPD could not be summarized in the GRADE table. (See Annex 5 for more details.)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        166.36114501953125,
+        635.2578735351562,
+        175.9611358642578
+      ],
+      "text": "The GDG scored the two outcomes on emergence of additional resistance as IMPORTANT rather than CRITICAL. While the two trials collected data on",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        175.36114501953125,
+        635.2763061523438,
+        184.9611358642578
+      ],
+      "text": "the emergence of additional fluoroquinolone resistance to TB strains and other flora, results of drug-susceptibility testing or whole genome sequence were",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        184.36114501953125,
+        635.2962646484375,
+        193.9611358642578
+      ],
+      "text": "incomplete at the time of the GDG meeting. Only one outcome from 8 TB strains tested (2 of which from the levofloxacin arm) in the V-QUIN trial was",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        193.36114501953125,
+        635.2872314453125,
+        202.9611358642578
+      ],
+      "text": "included in the evidence summary table, which showed no additional resistance acquired. The effects of levofloxacin on resistance in other microbiome",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        202.36114501953125,
+        635.2482299804688,
+        211.9611358642578
+      ],
+      "text": "could not be satisfactorily quantified for inclusion in the evidence table. Results suggested, amongst others, a drop in taxonomic diversity of faecal bacterial",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        211.36114501953125,
+        635.2848510742188,
+        220.9611358642578
+      ],
+      "text": "populations at the end of levofloxacin therapy compared with baseline, and which persisted after post-treatment cessation; increased abundance of",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        220.36114501953125,
+        635.2852783203125,
+        229.9611358642578
+      ],
+      "text": "genes associated with fluoroquinolone resistance, as well as a gene commonly associated with extended spectrum beta-lactamase (ESBL); and a loss of",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        229.36114501953125,
+        635.1964111328125,
+        238.9611358642578
+      ],
+      "text": "fluoroquinolone susceptible methicillin-resistant Staphylococcus aureus (MRSA) isolates from nasal swabs. An increase in quinolone resistance of E. coli",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        238.36114501953125,
+        635.1895141601562,
+        247.9611358642578
+      ],
+      "text": "/ K. pneumoniae in stool was noted from baseline to week 16 in both arms of the TB CHAMP but was higher in the levofloxacin arm; although these were",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        247.36114501953125,
+        635.26123046875,
+        256.9611511230469
+      ],
+      "text": "matched samples the data had not been analyzed at participant level by the time of the GDG meeting. It was not possible to compare these effects with",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        145.2322998046875,
+        256.36114501953125,
+        477.3367614746094,
+        265.9611511230469
+      ],
+      "text": "those caused by other TPT regimens or to appreciate the long term clinical significance of these findings.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.5826416015625,
+        40.87300109863281,
+        575.942626953125
+      ],
+      "text": "199",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

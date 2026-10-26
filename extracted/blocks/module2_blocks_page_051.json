@@ -1,0 +1,102 @@
+{
+  "file": "module2",
+  "page": 51,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        509.05938720703125,
+        89.46791076660156
+      ],
+      "text": "4.4 Initial calibration for computer-aided detection",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.472900390625,
+        180.4562225341797,
+        112.26789855957031
+      ],
+      "text": "technologies",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.71894073486328,
+        527.2274780273438,
+        132.1619415283203
+      ],
+      "text": "When CAD is implemented, local calibration is advised to customize the score thresholds to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        130.9188995361328,
+        527.3870849609375,
+        145.3618927001953
+      ],
+      "text": "requirements of the programme (see the operational handbook for more details about how this can",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.3249053955078,
+        527.4279174804688,
+        158.56190490722656
+      ],
+      "text": "(7) be done) . After this initial calibration, ongoing monitoring and analysis of CAD performance should",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.966399192810059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3189239501953,
+        527.4431762695312,
+        171.7619171142578
+      ],
+      "text": "be carried out to assess the correlation with human readers’ interpretations and with bacteriological",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.51893615722656,
+        524.4237670898438,
+        184.96192932128906
+      ],
+      "text": "confirmation, and with the proportion of images read as abnormal and requiring further investigation.",
+      "font": "SegoeUI-Light",
+      "size": 10.972214698791504,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        427.964111328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "4. Monitoring and evaluation 39",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

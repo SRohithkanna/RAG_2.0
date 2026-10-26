@@ -1,0 +1,51 @@
+{
+  "file": "common childhood",
+  "page": 28,
+  "table_id": 1,
+  "bbox": [
+    68.03150177001953,
+    127.10052490234375,
+    396.8498840332031,
+    254.6134033203125
+  ],
+  "heading": "phototherapy or exchange transfusion guided by the following cut-off levels of serum hyperbilirubinaemia:",
+  "n_rows": 5,
+  "n_cols": 5,
+  "data": [
+    [
+      "AGE",
+      "PHOTOTHERAPY",
+      "",
+      "EXCHANGE TRANSFUSION",
+      ""
+    ],
+    [
+      "",
+      "HEALTHY NEWBORNS ≥35 WEEKS GESTATION",
+      "NEWBORNS <35 WEEKS GESTATION OR ANY RISK FACTORS",
+      "HEALTHY NEWBORNS ≥35 WEEKS GESTATION",
+      "NEWBORNS <35 WEEKS GESTATION OR ANY RISK FACTORS"
+    ],
+    [
+      "Day 1",
+      "Any visible jaundice",
+      "",
+      "260 mmol/l (15 mg/dL)",
+      "220 mmol/l (10 mg/dL)"
+    ],
+    [
+      "Day 2",
+      "260 mmol/l (15 mg/dL)",
+      "170 mmol/l (10 mg/dL)",
+      "425 mmol/l (25 mg/dL)",
+      "260 mmol/l (15 mg/dL)"
+    ],
+    [
+      "Day ≥3",
+      "310 mmol/l (18 mg/dL)",
+      "250 mmol/l (15 mg/dL)",
+      "425 mmol/l (25 mg/dL)",
+      "340 mmol/l (20 mg/dL)"
+    ]
+  ]
+}

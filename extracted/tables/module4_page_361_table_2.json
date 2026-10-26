@@ -1,0 +1,96 @@
+{
+  "file": "module4",
+  "page": 361,
+  "table_id": 2,
+  "bbox": [
+    143.14949798583984,
+    256.16394805908203,
+    572.6079711914062,
+    516.6186930338541
+  ],
+  "heading": null,
+  "n_rows": 10,
+  "n_cols": 6,
+  "data": [
+    [
+      "Outcomes",
+      "№ of participants (studies) Follow-up",
+      "Certainty of the evidence (GRADE)",
+      "Relative effect (95% CI)",
+      "Anticipated absolute effects* (95% CI)",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Risk with currently recommended longer WHO regimens",
+      "Risk difference with a 9-month regimen using bedaquiline, clofazimine, linezolid, levofloxacin, and pyrazinamide (BLLfxCZ)"
+    ],
+    [
+      "Death 234 RR 0.26 follow-up: 104 weeks (1 RCT) Lowa,b (0.03 to 2.28)",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "34 per 1,000",
+      "25 fewer per 1,000 (62 fewer to 12 more)"
+    ],
+    [
+      "Lost to Follow-up 234 RR 0.26 assessed with: discontinuation (1 RCT) Lowa,c (0.10 to of treatment, consent 0.67) withdrawal, use of prohibited concomitant, or outcomes not assessable after treatment completion follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "168 per 1,000",
+      "125 fewer per 1,000 (201 fewer to 48 fewer)"
+    ],
+    [
+      "Adverse Events 248 RR 0.91 assessed with: any Grade 3-5 (1 RCT) Very lowa,d (0.75 to adverse event during treatment 1.10) and follow-up follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "651 per 1,000",
+      "61 fewer per 1,000 (181 fewer to 60 more)"
+    ],
+    [
+      "Adverse Events 248 RR 0.77 assessed with: participants with (1 RCT) Very lowa,e (0.44 to one or more serious adverse 1.35) events follow-up: 104 weeks",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "190 per 1,000",
+      "43 fewer per 1,000 (136 fewer to 50 more)"
+    ]
+  ]
+}

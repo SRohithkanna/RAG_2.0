@@ -1,0 +1,438 @@
+{
+  "file": "module4",
+  "page": 91,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        486.3302307128906,
+        82.6147232055664
+      ],
+      "text": "Table 1.5. Cross-tabulation of outcomes from the BEAT-TB trial and WHO",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        175.66400146484375,
+        504.7672119140625,
+        190.2169952392578
+      ],
+      "text": "Favourable 346 346 a",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        197.27850341796875,
+        504.7687072753906,
+        211.8314971923828
+      ],
+      "text": "Unfavourable 31 20 6 57",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        218.89324951171875,
+        407.8080139160156,
+        233.4462432861328
+      ],
+      "text": "On treatment  11",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        235.1451416015625,
+        124.51229858398438,
+        249.50013732910156
+      ],
+      "text": "Death",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        256.75970458984375,
+        452.8316955566406,
+        271.3127136230469
+      ],
+      "text": "LTFU on treatment 6",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        278.37432861328125,
+        348.6556091308594,
+        292.9273376464844
+      ],
+      "text": "Treatment failure (no culture  17",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        290.37432861328125,
+        215.14129638671875,
+        304.72930908203125
+      ],
+      "text": "conversion or reversion)",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        311.9888916015625,
+        155.37548828125,
+        326.3438720703125
+      ],
+      "text": "Post-treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        333.603515625,
+        407.80950927734375,
+        348.1565246582031
+      ],
+      "text": "Death 9",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        94.66929626464844,
+        355.2181091308594,
+        348.6556091308594,
+        369.7711181640625
+      ],
+      "text": "Recurrence 14",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        376.8327331542969,
+        504.7672119140625,
+        391.3857421875
+      ],
+      "text": "Total 346 31 20 6 402 b",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.7165222167969,
+        320.0318298339844,
+        416.22052001953125
+      ],
+      "text": "LTFU: loss to follow-up; TB: tuberculosis; WHO: World Health Organization.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.5511169433594,
+        473.1579895019531,
+        430.05511474609375
+      ],
+      "text": "Culture-negative at week 76 or cured at the end of treatment, culture-negative when last seen with no symptoms of TB. a",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.3857116699219,
+        334.3182678222656,
+        443.88970947265625
+      ],
+      "text": "Three participants experienced treatment failure and then subsequently died.  b",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.6015930175781,
+        180.58929443359375,
+        485.2615966796875
+      ],
+      "text": "Decision thresholds",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.4695129394531,
+        527.2979125976562,
+        506.91253662109375
+      ],
+      "text": "This recommendation was developed using a new method for determining the magnitude of the health",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.66949462890625,
+        527.6436157226562,
+        520.1124877929688
+      ],
+      "text": "effects. A triangulation approach was used to develop outcome-specific decision thresholds (DTs) for",
+      "font": "SegoeUI-Light",
+      "size": 10.998600006103516,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        518.8695068359375,
+        527.4100341796875,
+        533.3125
+      ],
+      "text": "judging the magnitude of the effects for the following health outcomes: death, sustained treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.0695190429688,
+        527.4203491210938,
+        546.5125122070312
+      ],
+      "text": "success, treatment failure or recurrence, LTFU, AEs and amplification of drug resistance. GDG members",
+      "font": "SegoeUI-Light",
+      "size": 10.959927558898926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.26953125,
+        527.4200439453125,
+        559.7125244140625
+      ],
+      "text": "deemed these outcomes critical or important for decision-making based on a prioritization survey",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.469482421875,
+        527.3034057617188,
+        572.9124755859375
+      ],
+      "text": "using the GRADE approach. The survey included health outcome descriptors that had previously",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.6694946289062,
+        527.4135131835938,
+        586.1124877929688
+      ],
+      "text": "been developed for each of the health outcomes to facilitate understanding of the outcomes by the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.8695068359375,
+        317.6170349121094,
+        599.3125
+      ],
+      "text": "GDG members during their decision-making process.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.5734252929688,
+        527.4047241210938,
+        621.0164184570312
+      ],
+      "text": "The GDG first reviewed judgements about the magnitude of health effects made by other GDGs for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.4974365234375,
+        527.4071044921875,
+        634.2164306640625
+      ],
+      "text": "(3, 14) prior WHO MDR-TB guidelines  , to determine approximate ranges of effect sizes that the group",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.980483055114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.973388671875,
+        527.4024658203125,
+        647.4163818359375
+      ],
+      "text": "considered to be trivial, small, moderate or large. Members then identified a systematic review to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.1735229492188,
+        527.5164794921875,
+        660.6165161132812
+      ],
+      "text": "help inform suggested health utility values for the health state of having DR-TB disease and treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.979480743408203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.097412109375,
+        527.4367065429688,
+        673.81640625
+      ],
+      "text": "(46) success (reported as about 0.5 and 0.9, respectively)  . For the other outcomes (treatment failure,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        672.5734252929688,
+        527.5916748046875,
+        687.0164184570312
+      ],
+      "text": "LTFU, amplification of drug resistance and AEs), a health utility value of 0.5 was used, considering that",
+      "font": "SegoeUI-Light",
+      "size": 10.989895820617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.7734375,
+        527.4125366210938,
+        700.2164306640625
+      ],
+      "text": "these would be similar health states to having DR-TB disease, and to align with previous judgements",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.973388671875,
+        205.05511474609375,
+        713.4163818359375
+      ],
+      "text": "made in other TB guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.4014282226562,
+        527.4143676757812,
+        735.1204223632812
+      ],
+      "text": "(47) The group then used the empirical evidence from the GRADE THRESHOLD trial   to calculate",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.8773803710938,
+        527.0582275390625,
+        748.3203735351562
+      ],
+      "text": "suggested utility-adjusted absolute effect thresholds for the health outcomes. The calculated thresholds",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.8013916015625,
+        166.00331115722656,
+        761.5203857421875
+      ],
+      "text": "(48) were as follows  :",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  77",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

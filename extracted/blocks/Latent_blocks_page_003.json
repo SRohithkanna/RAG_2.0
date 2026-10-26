@@ -1,0 +1,42 @@
+{
+  "file": "Latent",
+  "page": 3,
+  "blocks": [
+    {
+      "bbox": [
+        127.60569763183594,
+        163.97463989257812,
+        473.5036926269531,
+        200.1786346435547
+      ],
+      "text": "Latent tuberculosis infection",
+      "font": "Whitney-Bold",
+      "size": 28.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        100.65609741210938,
+        197.85989379882812,
+        500.0449523925781,
+        228.57989501953125
+      ],
+      "text": "Updated and consolidated guidelines for",
+      "font": "Whitney-Book",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        160.77609252929688,
+        221.85989379882812,
+        434.4745178222656,
+        252.57989501953125
+      ],
+      "text": "programmatic management",
+      "font": "Whitney-Book",
+      "size": 24.0,
+      "type": "heading_main"
+    }
+  ]
+}

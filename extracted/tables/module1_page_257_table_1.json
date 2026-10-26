@@ -1,0 +1,37 @@
+{
+  "file": "module1",
+  "page": 257,
+  "table_id": 1,
+  "bbox": [
+    71.06607666015626,
+    182.70589377663353,
+    524.2092529296875,
+    325.5054931640625
+  ],
+  "heading": "Table A5.15. Studies of willingness to start hypothetical fluoroquinolone-based TPT among caregivers and MDR-TB HHCs",
+  "n_rows": 3,
+  "n_cols": 5,
+  "data": [
+    [
+      "Reference",
+      "Setting",
+      "Population",
+      "Outcome definition",
+      "Acceptability: willingness to start"
+    ],
+    [
+      "Rouzier et al. (2022) (15)",
+      "Botswana (1 site), Brazil (1), Haiti (1), India (2), Kenya (1), Peru (2), South Africa (7), Thailand (1)",
+      "Adult and adolescent HHC who reported caring for children < 13 years of age (n=299)",
+      "Proportion of caregivers willing to administer daily TPT pill to their children have their children complete prerequisite steps to determine MDR TPT eligibility",
+      "278/299 (93%) 283/299 (95%)"
+    ],
+    [
+      "Suryavanshi et al. (2019) (16)",
+      "Same as above",
+      "Adolescent and adult HHC of MDR-TB index cases (n=743)",
+      "Percentage of HHC willing to take a hypothetical, newly developed TPT take TPT with potential mild, temporary side-effects",
+      "79% 70%"
+    ]
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "file": "module1",
+  "page": 99,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        69.27651977539062,
+        786.9785766601562,
+        78.87651824951172
+      ],
+      "text": "The rate difference was estimated by a Poisson model with the use of generalized estimating equations with a log link and the inclusion of the log of person-time as an offset. An exchangeable correlation structure with robust  i",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        78.27651977539062,
+        401.31658935546875,
+        87.87651824951172
+      ],
+      "text": "standard errors was used to account for the correlation of participants coming from the same household.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        87.27651977539062,
+        328.2682189941406,
+        96.87651824951172
+      ],
+      "text": "Values reported as per Table 3 of  . Values include Phase 2 results   as well.  (52) (54) j",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        96.27651977539062,
+        786.8212890625,
+        105.87651824951172
+      ],
+      "text": "Denominators are representative of the combined safety population of phase 2   and phase 3   as indicated in supplemental tables S2 and S3 of the phase 3 publication. From the phase 2 trial, 396 patients receiving isoniazid  (54) (52) k",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        105.27651977539062,
+        681.4487915039062,
+        114.87651824951172
+      ],
+      "text": "and 393 patients receiving rifampicin formed the safety population; from the phase 3 trial, 2809 patients receiving isoniazid and 2887 patients receiving rifampicin formed the safety population.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        114.27651977539062,
+        237.93960571289062,
+        123.87651824951172
+      ],
+      "text": "All mortality events occurred in the phase 3 trial  .  (52) l",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        120.27651977539062,
+        285.4672546386719,
+        132.8765106201172
+      ],
+      "text": "A zero cell correction of 0.5 has been used to calculate the risk ratio.  m",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        132.27651977539062,
+        786.8493041992188,
+        141.8765106201172
+      ],
+      "text": "The risk difference was estimated by a binomial distribution model with an identity link and generalized estimating equations. An exchangeable correlation structure and robust standard errors were used to account for correlation  n",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        141.27651977539062,
+        496.92327880859375,
+        150.8765106201172
+      ],
+      "text": "of patients coming from the same family. If no events occurred in one or both arms, confidence intervals were calculated based on  .  (56)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        150.27651977539062,
+        786.8536987304688,
+        159.8765106201172
+      ],
+      "text": "Among adverse events from the phase 2 trial  , 10 patients receiving rifampicin experienced grade 3–5 adverse events which led to permanent discontinuation of the medication, of which 7 were deemed possibly/probably  (54) o",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        159.27651977539062,
+        786.8421020507812,
+        168.8765106201172
+      ],
+      "text": "related to study drug; 19 patients receiving isoniazid experienced grade 3–5 adverse events which led to permanent discontinuation of the medication, of which 16 were deemed possibly/probably related to study drug. Among",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        168.27651977539062,
+        786.8339233398438,
+        177.8765106201172
+      ],
+      "text": "adverse events from the phase 3 trial  , 43 patients receiving rifampicin experienced grade 3–5 adverse events which led to permanent discontinuation of the medication, of which 24 were deemed possibly/probably related  (52)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        177.27651977539062,
+        738.544677734375,
+        186.8765106201172
+      ],
+      "text": "to study drug; 100 patients receiving isoniazid experienced grade 3–5 adverse events which led to permanent discontinuation of the medication, of which 59 were deemed possibly/probably related to study drug.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        186.27651977539062,
+        671.8010864257812,
+        195.8765106201172
+      ],
+      "text": "Also included is the phase 1 trial  , a single centre, open-label randomized trial assessing superiority of 4 months of daily rifampicin to 9 months of daily isoniazid for treatment completion.  (55) p",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        195.27651977539062,
+        432.2669372558594,
+        204.8765106201172
+      ],
+      "text": "Open label trial, unblinded assessment of compliance judged on the basis of pill counts at monthly follow-up visits.  q",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        204.27651977539062,
+        786.9022827148438,
+        213.8765106201172
+      ],
+      "text": "Numerator and denominator values are derived from the Phase 1 trial  , Phase 2 trial  , and Phase 3 trial  . Treatment completion was defined as taking at least 80% of prescribed doses (i.e., at least 96 pills of rifampicin  (55) (54) (52) r",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        213.27651977539062,
+        786.9629516601562,
+        222.8765106201172
+      ],
+      "text": "or 216 pills of isoniazid). In the phase 1 trial, 44 of 58 individuals randomized to isoniazid and 53 of 58 individuals randomized to rifampicin completed treatment. In the phase 2 trial, 254 of 427 individuals randomized to isoniazid",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        222.27651977539062,
+        773.4442749023438,
+        231.8765106201172
+      ],
+      "text": "and 328 of 420 individuals randomized to rifampicin completed treatment. In the phase 3 trial, 1890 of 2989 individuals randomized to isoniazid and 2382 of 3023 individuals randomized to rifampicin completed treatment.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        231.27651977539062,
+        786.8775024414062,
+        240.8765106201172
+      ],
+      "text": "Open-label, non-inferiority trial conducted in seven countries, assigning children with latent tuberculosis infection to receive treatment with a 4-month regimen of rifampicin or a 9-month regimen of isoniazid for the incidence of  s",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        240.27651977539062,
+        786.9417724609375,
+        249.8765106201172
+      ],
+      "text": "grade 3 to 5 adverse events during treatment. Secondary outcomes were the incidence of microbiologically confirmed active tuberculosis within 16 months after randomization and completion of the treatment regimen. Outcomes",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        249.27651977539062,
+        661.2233276367188,
+        258.87652587890625
+      ],
+      "text": "of active TB and adverse events were adjudicated by two- or three-member, blinded, independent review panels; treatment completion based on pill counts at routine follow-up visits  .  (53)",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        258.2765197753906,
+        786.9259643554688,
+        267.87652587890625
+      ],
+      "text": "Randomization in the paediatric trial was stratified by country and centrally computer-randomized. Patients were randomized 1:1 in blocks of varying length (2 to 8) to isoniazid or rifampicin. Enrollment and randomization in this  t",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        267.2765197753906,
+        228.0840301513672,
+        276.87652587890625
+      ],
+      "text": "trial was completely separate from the adult trials.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        276.2765197753906,
+        786.8871459960938,
+        285.87652587890625
+      ],
+      "text": "Among those randomized to isoniazid and forming the modified intention-to-treat population, there were 6 individuals lost to follow-up. Among those randomized to rifampicin and forming the modified intention-to-treat  u",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        285.2765197753906,
+        597.0426025390625,
+        294.87652587890625
+      ],
+      "text": "population, there were 5 individuals lost to follow-up. Among all children forming the modified intention-to-treat population, 1.3% of individuals were lost to follow-up.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        294.2765197753906,
+        786.9064331054688,
+        303.87652587890625
+      ],
+      "text": "Open label design but endpoints of active TB and adverse events adjudicated by two-member and three-member, respectively, independent, blinded review panels. There were 9 per protocol exclusions among those randomized  v",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        303.2765197753906,
+        786.7870483398438,
+        312.87652587890625
+      ],
+      "text": "to isoniazid and 6 per protocol exclusions among those randomized to rifampicin. These per protocol exclusions were due to being tuberculin skin test negative at the end of the window period (two months after exposure). GDG",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        312.2765197753906,
+        432.50164794921875,
+        321.87652587890625
+      ],
+      "text": "decided to downgrade by one level because of the open label design and because some sites were not high burden.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        318.2765197753906,
+        286.71673583984375,
+        330.87652587890625
+      ],
+      "text": "A zero cell correction of 0.5 has been used to calculate the rate ratio.  w",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        330.2765197753906,
+        246.14590454101562,
+        339.87652587890625
+      ],
+      "text": "Values as reported in the text of the paediatric trial  .  (53) x",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        339.2765197753906,
+        242.87045288085938,
+        348.87652587890625
+      ],
+      "text": "Values as reported in Table 3 of the paediatric trial  (53). y",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        348.2765197753906,
+        235.93350219726562,
+        357.87652587890625
+      ],
+      "text": "Values reported in Table 2 of the paediatric trial  .  (53) z",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        354.2765197753906,
+        571.9132080078125,
+        366.87652587890625
+      ],
+      "text": "Subgroup analysis within randomized trials that involved relatively small numbers of HIV-infected patients when compared to all patients included in the trials.  aa",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        363.2765197753906,
+        786.8555908203125,
+        375.87652587890625
+      ],
+      "text": "Denominators include HIV-positive patients known at the time of randomization as reported in Supplemental Table S1 of the phase 3 adult trial  , as well as patients diagnosed post randomization as a result of baseline  (52) ab",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        375.2765197753906,
+        786.8077392578125,
+        384.87652587890625
+      ],
+      "text": "assessment. This includes 130 patients and 8 patients receiving isoniazid with an HIV-diagnosis at time of randomization and post-randomization, respectively, and 125 patients and 7 patients receiving rifampicin with an",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        384.2765197753906,
+        786.8919677734375,
+        393.87652587890625
+      ],
+      "text": "HIV-diagnosis at time of randomization and post-randomization, respectively. This resulted in modified intention to treat population sizes of 132 for rifampicin and 138 for isoniazid. Among HIV-positive patients randomized to",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        393.2765197753906,
+        464.1958312988281,
+        402.87652587890625
+      ],
+      "text": "rifampicin, 2 did not receive a dose of therapy. Thus, the safety population sizes were 130 for rifampicin and 138 for isoniazid.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        399.2765197753906,
+        165.54449462890625,
+        411.87652587890625
+      ],
+      "text": "Unadjusted absolute estimate.  ac",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        408.2765197753906,
+        786.924560546875,
+        420.87652587890625
+      ],
+      "text": "Among patients receiving rifampicin included in the safety population, 6 patients were HIV-positive in the phase 2 trial and 124 patients were HIV-positive in the phase 3 trial. All grade 3–5 adverse events among patients receiving  ad",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        420.2765197753906,
+        786.9894409179688,
+        429.87652587890625
+      ],
+      "text": "rifampicin occurred in the phase 3 trial. Two patients experienced a grade 3–5 adverse event with rifampicin that resulted in permanent discontinuation of the study drug, only 1 was deemed possibly/probably related to the study",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        429.2765197753906,
+        786.8108520507812,
+        438.87652587890625
+      ],
+      "text": "drug. Among patients receiving isoniazid included in the safety population, 7 patients were HIV-positive in the phase 2 trial and 131 were HIV-positive in the phase 3 trial. One patient in the phase 2 trial and 7 patients in the phase",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        438.2765197753906,
+        786.8322143554688,
+        447.87652587890625
+      ],
+      "text": "3 trial receiving isoniazid experienced a grade 3–5 adverse event resulting in permanent discontinuation of the study medication. The events were deemed possibly/probably related to the study drug for the one patient from the",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        447.2765197753906,
+        236.64755249023438,
+        456.87652587890625
+      ],
+      "text": "phase 2 trial and for 4 patients from the phase 3 trial.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "81",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

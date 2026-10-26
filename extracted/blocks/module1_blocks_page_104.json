@@ -1,0 +1,366 @@
+{
+  "file": "module1",
+  "page": 104,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "86",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        70.8665771484375,
+        40.87300109863281,
+        136.4346466064453
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        137.20809936523438,
+        774.3406372070312,
+        148.7281036376953
+      ],
+      "text": "1  randomized  serious not serious  very  very serious none  0/6 (0.0%)  0/6 (0.0%) not estimable  Very low  Important  c  o",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        148.20806884765625,
+        313.8475341796875,
+        159.7281036376953
+      ],
+      "text": "trials  serious  d,n",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        170.4490966796875,
+        266.7646789550781,
+        182.06809997558594
+      ],
+      "text": "CI: HR:  RR:   Confidence interval;  Hazard Ratio;  Risk ratio",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        186.13641357421875,
+        115.75521087646484,
+        200.34841918945312
+      ],
+      "text": "Explanations",
+      "font": "Whitney-Medium",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        198.64541625976562,
+        786.8753662109375,
+        208.2454071044922
+      ],
+      "text": "Randomized, open-label, phase 3 noninferiority trial comparing the efficacy and safety of a 1-month regimen of daily rifapentine plus isoniazid (1-month group) with 9 months of isoniazid alone (9-month group) in HIV-infected  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        207.64541625976562,
+        786.9673461914062,
+        217.2454071044922
+      ],
+      "text": "patients who were living in areas of high TB prevalence or who had evidence of latent TB infection. Primary end point was the first diagnosis of TB or death from TB or an unknown cause. Noninferiority would be shown if the upper",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        216.64541625976562,
+        786.8919067382812,
+        226.4779052734375
+      ],
+      "text": "limit of the 95% confidence interval for the between-group difference in the number of events per 100 person-years was less than 1.25. TBI was not confirmed in about 80% of participants. Enrolment restricted to individuals  13  ≥",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        225.64541625976562,
+        786.9618530273438,
+        235.2454071044922
+      ],
+      "text": "years old who were not pregnant or breastfeeding. Overall TB incidence observed in the trial was lower than expected. The number of patients with a CD4+ <250 cells per cu mm was small, and neither inferiority nor noninferiority",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        234.64541625976562,
+        229.0072784423828,
+        244.2454071044922
+      ],
+      "text": "of the 1-month regimen was shown in this stratum.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        243.64541625976562,
+        596.7813720703125,
+        253.2454071044922
+      ],
+      "text": "Unknown cause of death censored in this analysis, which may cause bias in incidence rate difference if some of these deaths were related to TB (dependent censoring)  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        252.64541625976562,
+        786.80859375,
+        262.24542236328125
+      ],
+      "text": "The GDG decided to downgrade by one level because of the open label design possibly leading to performance bias. The quality was not downgraded for Indirectness, but the GDG noted that the trial compared 1HP with 9H and  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        261.6454162597656,
+        786.8258666992188,
+        271.24542236328125
+      ],
+      "text": "therefore did not cover all other comparisons of the PICO, especially 6H, the most widespread standard of care in TPT. The GDG noted that Inconsistency could not be judged given that there was only a single trial; results from",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        270.6454162597656,
+        166.07093811035156,
+        280.24542236328125
+      ],
+      "text": "more trials would be desirable.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        279.6454162597656,
+        290.3168029785156,
+        289.24542236328125
+      ],
+      "text": "Trial conducted only in PLHIV and not in all people at risk of active TB.  d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        288.6454162597656,
+        401.651123046875,
+        298.24542236328125
+      ],
+      "text": "Probable TB diagnoses and deaths with non-bacteriologically confirmed TB censored at the time of event  e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        297.6454162597656,
+        787.0054931640625,
+        307.24542236328125
+      ],
+      "text": "When cause of death was determined to be unknown or not related to TB by blinded external reviewers, these were treated as a competing risk rather than endpoint. Some of these may have actually been due to TB, which may  f",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        306.6454162597656,
+        112.6229476928711,
+        316.24542236328125
+      ],
+      "text": "bias estimate.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        315.6454162597656,
+        198.5625,
+        325.24542236328125
+      ],
+      "text": "The proportion of events among controls  g",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        324.6454162597656,
+        574.553955078125,
+        334.24542236328125
+      ],
+      "text": "Per-protocol population consisted of all participants who completed treatment, or who had died or received a TB diagnosis while they were receiving treatment.  h",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        333.6454162597656,
+        599.0201416015625,
+        343.24542236328125
+      ],
+      "text": "Deaths were reviewed by blinded external reviewers. Unknown causes of death were included as an endpoint, but misclassification of cause of death may bias estimate  i",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        342.6454162597656,
+        436.6124572753906,
+        352.24542236328125
+      ],
+      "text": "There were 21 deaths in the 1-month arm, 3 related to TB. There were 28 deaths in the 9-month arm, 3 related to TB.  j",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        351.6454162597656,
+        143.16073608398438,
+        361.24542236328125
+      ],
+      "text": "Small number of events  k",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        360.6454162597656,
+        290.3946838378906,
+        370.24542236328125
+      ],
+      "text": "Incidence rate difference per 100 person-years of 0.00 (-0.10 to 0.10)  l",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        366.6454162597656,
+        226.71530151367188,
+        379.24542236328125
+      ],
+      "text": "Assessed via participant self-report at clinic visits  m",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        378.6454162597656,
+        280.2862548828125,
+        388.24542236328125
+      ],
+      "text": "Resistance may be non-emergent and coming from infecting strain  n",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        387.6454162597656,
+        344.3729553222656,
+        397.24542236328125
+      ],
+      "text": "Small sample of bacteriologically confirmed TB who had drug susceptibility test results  o",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    }
+  ]
+}

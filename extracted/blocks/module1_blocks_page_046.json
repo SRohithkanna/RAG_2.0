@@ -1,0 +1,714 @@
+{
+  "file": "module1",
+  "page": 46,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.11469268798828,
+        527.4010620117188,
+        81.83369445800781
+      ],
+      "text": "(118) contacts of cases of MDR-TB   – did not fully address the PICO question (effects of levofloxacin",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        265.59918212890625,
+        95.03370666503906
+      ],
+      "text": "vs other or no TPT). (For more details, see",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        265.6004943847656,
+        80.59070587158203,
+        311.4925231933594,
+        95.03370666503906
+      ],
+      "text": "annexes 3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.4964904785156,
+        80.59070587158203,
+        331.989501953125,
+        95.03370666503906
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        335.0066223144531,
+        80.59070587158203,
+        340.671630859375,
+        95.03370666503906
+      ],
+      "text": "4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        340.67230224609375,
+        80.59070587158203,
+        346.2162780761719,
+        95.03370666503906
+      ],
+      "text": ".)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        102.29456329345703,
+        527.3919067382812,
+        116.73756408691406
+      ],
+      "text": "The treatment completion rate in the levofloxacin arm was 86% in TB CHAMP (placebo arm: 86%)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        115.49457550048828,
+        527.3953857421875,
+        129.9375762939453
+      ],
+      "text": "and 70% in V-QUIN (placebo arm: 85%), with RRs of 1.00 [95% CI 0.95 ; 1.06] and 0.83 [0.79 ; 0.87],",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        128.69459533691406,
+        527.3865356445312,
+        143.13758850097656
+      ],
+      "text": "respectively. There was an important difference in the risk of adverse events between children and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        141.8946075439453,
+        527.4243774414062,
+        156.3376007080078
+      ],
+      "text": "adults, with very good tolerance in children, which decreased with age. This probably contributed to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.3788452148438,
+        169.53773498535156
+      ],
+      "text": "poorer adherence to TPT by the participants in the V-QUIN. The prevalence of adverse events of grade",
+      "font": "SegoeUI-Light",
+      "size": 10.953652381896973,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.1222534179688,
+        182.73768615722656
+      ],
+      "text": "3 or more was not significantly higher in the TB CHAMP trial among people < 18 years receiving 6Lfx",
+      "font": "SegoeUI-Light",
+      "size": 10.995949745178223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.398193359375,
+        195.9376983642578
+      ],
+      "text": "(RR 0.53, 95% CI 0.16 ; 1.70), but significantly higher rates were found in the V-QUIN trial, in which",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.5040893554688,
+        209.13771057128906
+      ],
+      "text": "97% of participants were > 14 years (RR 5.26, 95% CI 1.16 ; 23.95). Overall, the likelihood of treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.97892951965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.414794921875,
+        222.3376007080078
+      ],
+      "text": "discontinuation among individuals on 6LFx with adverse events of any grade was high (RR 6.32, 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.3958129882812,
+        235.53773498535156
+      ],
+      "text": "CI 3.43 ; 11.63), occurring in 43 more patients out of 1000 (range, 20–89). Microbiological studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        527.081787109375,
+        248.73768615722656
+      ],
+      "text": "within both trials did not provide conclusive evidence of the emergence of additional fluoroquinolone",
+      "font": "SegoeUI-Light",
+      "size": 10.982436180114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.2187042236328,
+        524.4157104492188,
+        261.9377136230469
+      ],
+      "text": "M. tuberculosis  resistance in TB strains or in microbiota other than  (e.g. gut flora) at the time of analysis.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.958572387695312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.2501220703125,
+        283.6416320800781
+      ],
+      "text": "A systematic review of studies published between June 2016 and September 2023 identified five",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.4168090820312,
+        296.8416442871094
+      ],
+      "text": "observational studies of adverse events with fluoroquinolone (alone or in combination with other TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        527.4784545898438,
+        310.0416564941406
+      ],
+      "text": "drugs). All were observational studies with substantial risk of bias, notably selection and ascertainment",
+      "font": "SegoeUI-Light",
+      "size": 10.972765922546387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.1595458984375,
+        323.2416076660156
+      ],
+      "text": "bias. Fluoroquinolone monotherapy with levofloxacin, ofloxacin or moxifloxacin was found to be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.41015625,
+        336.4416198730469
+      ],
+      "text": "generally safe in three studies, with some mild or moderate drug-related adverse events in children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        440.905029296875,
+        349.6416320800781
+      ],
+      "text": "but no grade 3 or 4 or serious adverse events reported. (For more details, see",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        441.5929870605469,
+        335.1986083984375,
+        488.2198181152344,
+        349.6416320800781
+      ],
+      "text": "annexes 4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        488.2210998535156,
+        335.1986083984375,
+        512.4595947265625,
+        349.6416320800781
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        513.194580078125,
+        335.1986083984375,
+        518.8595581054688,
+        349.6416320800781
+      ],
+      "text": "5",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        518.861083984375,
+        335.1986083984375,
+        527.4190673828125,
+        349.6416320800781
+      ],
+      "text": ".)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        348.39862060546875,
+        527.4464111328125,
+        362.8416442871094
+      ],
+      "text": "No evidence was found to support shortening of levofloxacin TPT to < 6 months or its prolongation",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86602783203125,
+        361.5986022949219,
+        154.43649291992188,
+        376.0416564941406
+      ],
+      "text": "months. beyond 6",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        386.4652099609375,
+        230.94537353515625,
+        404.7352294921875
+      ],
+      "text": "Subgroup considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.33111572265625,
+        527.481689453125,
+        425.8841247558594
+      ],
+      "text": "Children and adolescents : Levofloxacin can be used in children and adolescents, in whom completion",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.945363998413086,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.64111328125,
+        527.3876953125,
+        439.0841369628906
+      ],
+      "text": "and tolerability in the TB CHAMP trial (which included only individuals aged < 18 years) were much",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.8412170410156,
+        527.4188842773438,
+        452.28424072265625
+      ],
+      "text": "better than in the V-QUIN trial (in which 97% of participants were aged ≥ 15 years). There is no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.0411071777344,
+        527.4598388671875,
+        465.484130859375
+      ],
+      "text": "requirement to test for TBI before starting levofloxacin in children who are contacts of people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.2411193847656,
+        527.4432373046875,
+        478.68414306640625
+      ],
+      "text": "MDR/RR-TB. Although there has been concern about use of fluoroquinolones in children because of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.16510009765625,
+        527.4057006835938,
+        491.8841247558594
+      ],
+      "text": "(119) retardation of cartilage development shown in juvenile animals exposed to these agents  , similar",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.994098663330078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        489.3651123046875,
+        294.2104797363281,
+        505.0841369628906
+      ],
+      "text": "(120,121) effects have not been found in humans  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.235107421875,
+        527.5010986328125,
+        526.7880859375
+      ],
+      "text": "Pregnancy and breastfeeding : TPT with levofloxacin in pregnancy requires a risk–benefit assessment",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.964643478393555,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.5451049804688,
+        527.4376831054688,
+        539.9880981445312
+      ],
+      "text": "and an informed choice by pregnant woman on whether to take TPT or to defer TPT to the end of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.7451171875,
+        527.4180297851562,
+        553.1881103515625
+      ],
+      "text": "pregnancy. The advice should depend on the circumstances (e.g. first trimester versus later). Pregnancy",
+      "font": "SegoeUI-Light",
+      "size": 10.95269775390625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.945068359375,
+        527.4383544921875,
+        566.3880615234375
+      ],
+      "text": "increases the risk of progression from infection to disease and the risk of poor maternal and fetal",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.1451416015625,
+        527.3892211914062,
+        579.588134765625
+      ],
+      "text": "outcomes should TB disease occur. MDR/RR-TB in pregnancy is a serious condition, and some of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.3450927734375,
+        527.5751953125,
+        592.7880859375
+      ],
+      "text": "drugs used to treat MDR-TB may be toxic to the fetus. Observations from studies in animals exposed",
+      "font": "SegoeUI-Light",
+      "size": 10.997149467468262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.5451049804688,
+        527.5846557617188,
+        605.9880981445312
+      ],
+      "text": "to levofloxacin have limited its use in pregnancy; however, one meta-analysis of observational studies",
+      "font": "SegoeUI-Light",
+      "size": 10.990095138549805,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.7451171875,
+        527.408203125,
+        619.1881103515625
+      ],
+      "text": "with 2800 pregnant women given fluoroquinolones for any indication (e.g. urinary tract infection)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.945068359375,
+        527.279541015625,
+        632.3880615234375
+      ],
+      "text": "found no difference in the incidence of birth defects, spontaneous abortion or prematurity from",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.869140625,
+        527.4019775390625,
+        645.588134765625
+      ],
+      "text": "(122) that in unexposed pregnant women  . The concentrations of levofloxacin in breastmilk appeared",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.3450927734375,
+        527.38818359375,
+        658.7880859375
+      ],
+      "text": "to be far lower than the dose for infants and would not be expected to cause adverse effects in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.2691040039062,
+        527.5048828125,
+        671.9880981445312
+      ],
+      "text": "(123) breastfed infants . Its use should therefore not be suspended during breastfeeding. While effects",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.990495681762695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.7451171875,
+        527.3397216796875,
+        685.1881103515625
+      ],
+      "text": "of fluoroquinolones on bone and cartilage observed in animals have not been seen in humans,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.945068359375,
+        527.43994140625,
+        698.3880615234375
+      ],
+      "text": "the data and follow-up times of infants are limited. Recent alerts have, however, highlighted safety",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.869140625,
+        444.9394836425781,
+        711.588134765625
+      ],
+      "text": "(124–126) concerns associated with prolonged use of fluoroquinolones in humans  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.739013671875,
+        527.39208984375,
+        733.2919921875
+      ],
+      "text": "HIV infection : Levofloxacin can be used in people with HIV. No specific drug–drug interaction with",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.0490112304688,
+        527.3751831054688,
+        746.4920043945312
+      ],
+      "text": "ART has been observed in people with HIV exposed to MDR/RR-TB, and there is no need to test for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.2490234375,
+        239.0908203125,
+        759.6920166015625
+      ],
+      "text": "infection before starting levofloxacin.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "28 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

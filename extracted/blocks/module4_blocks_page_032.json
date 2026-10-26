@@ -1,0 +1,642 @@
+{
+  "file": "module4",
+  "page": 32,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.5457153320312,
+        81.83369445800781
+      ],
+      "text": "Directly observed treatment:  Patients in the trial received daily treatment that was directly",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4332885742188,
+        95.03370666503906
+      ],
+      "text": "observed at least five days per week. However, this may not be possible in programmatic settings.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        524.4260864257812,
+        108.23371887207031
+      ],
+      "text": "Directly observed treatment may be important in view of the pill burden and the lack of a fixed-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.474853515625,
+        121.43373107910156
+      ],
+      "text": "dose combination formulation, and also as a measure to prevent potential amplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.4344482421875,
+        134.6337432861328
+      ],
+      "text": "resistance. Current WHO recommendations support the use of directly observed treatment and also",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.441162109375,
+        147.8336944580078
+      ],
+      "text": "other forms of patient support and, overall, even though this regimen is a 4-month one and shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.3440551757812,
+        161.03370666503906
+      ],
+      "text": "than the current standard of care, patient support remains an important element of TB programming.",
+      "font": "SegoeUI-Light",
+      "size": 10.980632781982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.18463134765625,
+        527.5487060546875,
+        182.7376251220703
+      ],
+      "text": "Pill burden:  At present, the overall pill burden will be higher for patients who will receive this 4-month",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.971964836120605,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.49464416503906,
+        527.3739013671875,
+        195.93763732910156
+      ],
+      "text": "regimen  because no fixed dose combination tablet exists for the regimen and the dose of rifapentine  9",
+      "font": "SegoeUI-Light",
+      "size": 10.980483055114746,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69459533691406,
+        527.0928344726562,
+        209.13758850097656
+      ],
+      "text": "is high (1200 mg). This may affect acceptability by patients currently, however this situation may change",
+      "font": "SegoeUI-Light",
+      "size": 10.949031829833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.4256591796875,
+        222.3376007080078
+      ],
+      "text": "in future as uptake of this regimen improves, creating a demand for the regimen and its component",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        527.4888305664062,
+        235.53773498535156
+      ],
+      "text": "medicines. Wider availability of rifapentine formulation of 300 mg  may decrease the pill burden and  10",
+      "font": "SegoeUI-Light",
+      "size": 10.991697311401367,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        234.29469299316406,
+        479.1465148925781,
+        248.73768615722656
+      ],
+      "text": "facilitate the implementation of this new regimen until the FDC tablet becomes available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.88873291015625,
+        527.4488525390625,
+        270.4417419433594
+      ],
+      "text": "Cost of medicines:  The current cost of the shorter regimen is substantially  higher than the standard  11",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.97647476196289,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.402099609375,
+        283.6416320800781
+      ],
+      "text": "of care, mainly due to the inclusion of rifapentine. Again, this situation may change in future as uptake",
+      "font": "SegoeUI-Light",
+      "size": 10.980132102966309,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        474.75103759765625,
+        296.8416442871094
+      ],
+      "text": "of the regimen improves, creating a demand for the regimen and for the medicines in it.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.99249267578125,
+        527.3756713867188,
+        318.5455017089844
+      ],
+      "text": "Administration of the shorter regimen with food  may present a challenge in some settings.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        317.302490234375,
+        527.4178466796875,
+        331.7455139160156
+      ],
+      "text": "In the trial, a flat dose of 1200 mg of rifapentine was dosed daily, with food. This was based on: 1)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.5025939941406,
+        527.4419555664062,
+        344.94561767578125
+      ],
+      "text": "demonstration of the safety of rifapentine at 1200 mg in phase I and phase II trials; 2) demonstration",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.7025146484375,
+        527.3595581054688,
+        358.1455383300781
+      ],
+      "text": "that body weight does not significantly affect rifapentine clearance; 3) recognition of an effect of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.6266174316406,
+        527.2478637695312,
+        371.34564208984375
+      ],
+      "text": "(34) food in increasing rifapentine absorption  ; and 4) modelling predictions that the target rifapentine",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.981985092163086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        370.10260009765625,
+        527.4189453125,
+        384.5456237792969
+      ],
+      "text": "exposure (area under the curve [AUC] of approximately 500–600 mcg*h/L) is achievable using this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.0265197753906,
+        306.04046630859375,
+        397.74554443359375
+      ],
+      "text": "(12) strategy – see the supplementary appendix to  ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.0065002441406,
+        527.6707153320312,
+        419.44952392578125
+      ],
+      "text": "As described in the trial’s statistical analysis plan, pharmacokinetic/pharmacodynamic modelling",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2065124511719,
+        527.443115234375,
+        432.6495361328125
+      ],
+      "text": "predicted that a rifapentine dose of 1200 mg without food would yield an AUC approximately the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.406494140625,
+        527.4983520507812,
+        445.8495178222656
+      ],
+      "text": "same as that of a rifapentine dose of 900 mg with a very high fat meal. Since the target rifapentine AUC",
+      "font": "SegoeUI-Light",
+      "size": 10.951945304870605,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.60650634765625,
+        527.3760375976562,
+        459.0495300292969
+      ],
+      "text": "lies somewhere between that achieved with a very high fat meal and a rifapentine dose of 900–1200",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.8065185546875,
+        527.412353515625,
+        472.2495422363281
+      ],
+      "text": "mg, the strategy proposed was a rifapentine dose of 1200 mg with a modest food requirement. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.0065002441406,
+        527.446533203125,
+        485.44952392578125
+      ],
+      "text": "rationale was that a very high fat meal may not be feasible under trial or routine TB care conditions,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.2065124511719,
+        265.9280090332031,
+        498.6495361328125
+      ],
+      "text": "whereas dosing with food may be feasible.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.8004150390625,
+        527.4181518554688,
+        520.3533935546875
+      ],
+      "text": "Training of health-care workers  was another implementation consideration that the panel discussed.",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.95300006866455,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.1104125976562,
+        527.48828125,
+        533.5534057617188
+      ],
+      "text": "Training will be necessary when introducing the shorter regimen into a programmatic setting. However,",
+      "font": "SegoeUI-Light",
+      "size": 10.95229721069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.3104248046875,
+        527.5953979492188,
+        546.75341796875
+      ],
+      "text": "this is a requirement for any new programmatic intervention and the ability to shorten treatment and",
+      "font": "SegoeUI-Light",
+      "size": 10.990996360778809,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.5103759765625,
+        386.2262878417969,
+        559.953369140625
+      ],
+      "text": "potentially treat more patients may offset initial training investments.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.2142944335938,
+        527.4244384765625,
+        581.6572875976562
+      ],
+      "text": "Another implementation consideration discussed by the GDG concerned the choice of regimen to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        580.4144287109375,
+        527.6300048828125,
+        594.857421875
+      ],
+      "text": "treat DS-TB. The GDG considered that, when choosing between the shorter 4-month regimen or the",
+      "font": "SegoeUI-Light",
+      "size": 10.99804973602295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        593.6143798828125,
+        527.4906005859375,
+        608.057373046875
+      ],
+      "text": "6-month regimen, clinicians should consider eligibility criteria for the regimen and patient preference",
+      "font": "SegoeUI-Light",
+      "size": 10.992897987365723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.8143920898438,
+        345.32171630859375,
+        621.2573852539062
+      ],
+      "text": "as well as local factors such as the availability of rifapentine.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.631591796875,
+        220.46530151367188,
+        650.483642578125
+      ],
+      "text": "Monitoring and evaluation",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.6915283203125,
+        527.4385986328125,
+        672.134521484375
+      ],
+      "text": "The current guidance on monitoring the response to DS-TB treatment stays the same. The panel",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.8914794921875,
+        527.3134765625,
+        685.33447265625
+      ],
+      "text": "did not recommend baseline electrocardiogram (ECG) monitoring for those receiving the shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.0914916992188,
+        527.2023315429688,
+        698.5344848632812
+      ],
+      "text": "regimen (unless clinically indicated), and laboratory monitoring such as liver function tests would",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.2916259765625,
+        527.4606323242188,
+        711.734619140625
+      ],
+      "text": "remain the same for both regimens. Some countries may have different requirements for liver function",
+      "font": "SegoeUI-Light",
+      "size": 10.966299057006836,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.2026977539062,
+        526.4365844726562,
+        738.7066650390625
+      ],
+      "text": "Based on estimates by the Global Drug Facility for an average weight of 55–70 kg: 1358 tablets versus 728 for whole course of treatment.  9",
+      "font": "SegoeUI-Light",
+      "size": 7.981779098510742,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.9492416381836,
+        737.4373168945312,
+        466.6813049316406,
+        751.1412963867188
+      ],
+      "text": "Rifapentine 150mg and 300mg are both included in the WHO Model list of essential medicines: 22nd list (‎2021). See:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        466.397705078125,
+        740.6373291015625,
+        524.3977661132812,
+        751.1412963867188
+      ],
+      "text": "https://apps.who.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.9201049804688,
+        76.9492416381836,
+        747.0439453125
+      ],
+      "text": "10",
+      "font": "SegoeUI-Light",
+      "size": 4.664000034332275,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        750.2373046875,
+        347.1068115234375,
+        760.7412719726562
+      ],
+      "text": "int/iris/bitstream/handle/10665/345533/WHO-MHP-HPS-EML-2021.02-eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        347.1318054199219,
+        750.2373046875,
+        446.6006164550781,
+        760.7412719726562
+      ],
+      "text": "(accessed 28 February 2021).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.4720458984375,
+        526.7394409179688,
+        773.1759033203125
+      ],
+      "text": "Approximately 5 times (US$ 225–233 versus US$ 343), based on current estimates using weighted average prices of the Global Drug Facility.  11",
+      "font": "SegoeUI-Light",
+      "size": 7.984735488891602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "18 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

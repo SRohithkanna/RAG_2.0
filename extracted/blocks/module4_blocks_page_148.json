@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 148,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        371.6748962402344,
+        82.6147232055664
+      ],
+      "text": "Patients on regimens without amikacin or streptomycin",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.5971069335938,
+        104.26564025878906
+      ],
+      "text": "In patients on regimens that do not contain injectable agents in the intensive phase, Recommendation 3.17",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.16796875,
+        117.46559143066406
+      ],
+      "text": "does not apply, and the length of treatment is determined by recommendations on total duration and",
+      "font": "SegoeUI-Light",
+      "size": 10.97517204284668,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.4199829101562,
+        130.6657257080078
+      ],
+      "text": "on time after culture conversion (i.e. Recommendations 3.15 and 3.16). In the future, this situation is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.3903198242188,
+        143.86573791503906
+      ],
+      "text": "expected to apply to an increasing proportion of patients who are treated with oral-only regimens. If",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.41259765625,
+        157.06568908691406
+      ],
+      "text": "bedaquiline or other agents (e.g. linezolid or delamanid) are given only for the initial part of a regimen,",
+      "font": "SegoeUI-Light",
+      "size": 10.959675788879395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        527.4389038085938,
+        170.2657012939453
+      ],
+      "text": "this period does not equate to an “intensive phase” unless an injectable agent is used concurrently,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.02272033691406,
+        398.2481384277344,
+        183.46571350097656
+      ],
+      "text": "as premised by the meta-analysis that informed Recommendation 3.17.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.83993530273438,
+        245.23455810546875,
+        212.69192504882812
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.89991760253906,
+        527.4441528320312,
+        234.34291076660156
+      ],
+      "text": "The implementation of MDR/RR-TB treatment on a large scale is feasible under programmatic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.0998077392578,
+        527.407958984375,
+        247.5428009033203
+      ],
+      "text": "conditions, as has been shown by the global expansion in the use of standardized and individualized",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.29994201660156,
+        527.4378051757812,
+        260.7429504394531
+      ],
+      "text": "MDR-TB regimens in low-, middle- and high-income countries worldwide, particularly in the past",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.223876953125,
+        527.6265869140625,
+        273.9429016113281
+      ],
+      "text": "(6) decade  . The 2018 revision of the guidelines brought important changes to the grouping of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.69989013671875,
+        527.3892822265625,
+        287.1429138183594
+      ],
+      "text": "medicines, the composition of longer MDR-TB regimens and the duration of medicine use, but it",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.89990234375,
+        527.445556640625,
+        300.3429260253906
+      ],
+      "text": "is expected that implementation of these changes will be feasible. The rapidity with which the new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.09979248046875,
+        527.4223022460938,
+        313.5428161621094
+      ],
+      "text": "recommendations are applied in (or to) programmes may be influenced by a range of factors, but",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.2999267578125,
+        524.1371459960938,
+        326.7429504394531
+      ],
+      "text": "these should not stand in the way of increased access to life-saving treatment for patients who need it.",
+      "font": "SegoeUI-Light",
+      "size": 10.968655586242676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.0038146972656,
+        527.611328125,
+        348.44683837890625
+      ],
+      "text": "All of the agents recommended for use are available via the GDF, and most are also available in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.20379638671875,
+        527.41552734375,
+        361.6468200683594
+      ],
+      "text": "quality-assured, affordable generic formulations from other sources. Bedaquiline was available via",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.40380859375,
+        527.4033813476562,
+        374.8468322753906
+      ],
+      "text": "a donation programme until March 2019; it is now available via the GDF, and a decrease in price",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.60382080078125,
+        527.4287719726562,
+        388.0468444824219
+      ],
+      "text": "has been negotiated with the manufacturer for low-resource settings. The evidence assessed during",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.8038024902344,
+        527.4078369140625,
+        401.246826171875
+      ],
+      "text": "the GDG meeting in November 2019 did not allow the group to make any judgements about the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        400.0038146972656,
+        527.135986328125,
+        414.44683837890625
+      ],
+      "text": "efficacy or effectiveness of bedaquiline when used for longer than 6 months; however, it did allow the",
+      "font": "SegoeUI-Light",
+      "size": 10.988544464111328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.20379638671875,
+        527.4221801757812,
+        427.6468200683594
+      ],
+      "text": "GDG to determine that the safety profile of bedaquiline use for longer than 6 months is becoming",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.40380859375,
+        527.4112548828125,
+        440.8468322753906
+      ],
+      "text": "clearer. The group concluded that bedaquiline can be safely used in patients beyond 6 months, if",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.60382080078125,
+        527.6068725585938,
+        454.0468444824219
+      ],
+      "text": "decided by the programme or treating clinician, and if appropriate schedules of baseline testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.8038024902344,
+        527.3870239257812,
+        467.246826171875
+      ],
+      "text": "and monitoring are in place. In addition, the treating clinician should be aware of the use of other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.0038146972656,
+        524.603515625,
+        480.44683837890625
+      ],
+      "text": "potentially QT-prolonging medications in any MDR/RR-TB regimen, and the comparatively long half-",
+      "font": "SegoeUI-Light",
+      "size": 10.991045951843262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.20379638671875,
+        527.4343872070312,
+        493.6468200683594
+      ],
+      "text": "life of bedaquiline, which means that bedaquiline will remain in human tissue beyond the duration",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.1278076171875,
+        527.423583984375,
+        506.8468322753906
+      ],
+      "text": "N of its use. The half-life of bedaquiline is about 6 months, and the half-life of the  -monodesmethyl",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        504.32781982421875,
+        267.3827209472656,
+        520.0468139648438
+      ],
+      "text": "(90) metabolite (M2) is about 5.5 months  . 49",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.4476928710938,
+        305.21295166015625,
+        552.1077270507812
+      ],
+      "text": "Concurrent bedaquiline and delamanid use",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.3156127929688,
+        527.4398803710938,
+        573.7586059570312
+      ],
+      "text": "The GDG 2019 felt that there was insufficient evidence to assess the efficacy or effectiveness of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.515625,
+        527.435546875,
+        586.9586181640625
+      ],
+      "text": "concurrent use of bedaquiline and delamanid. However, the group concluded that the safety data",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.715576171875,
+        527.433349609375,
+        600.1585693359375
+      ],
+      "text": "assessed in 2019 suggest there are no additional safety concerns regarding the concurrent use of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.9155883789062,
+        527.2759399414062,
+        613.3585815429688
+      ],
+      "text": "bedaquiline and delamanid. Therefore, bedaquiline and delamanid may be used in patients who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.1156005859375,
+        527.3926391601562,
+        626.55859375
+      ],
+      "text": "have limited options for other treatment; that is, for patients with a small number of other effective",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.3156127929688,
+        527.4080200195312,
+        639.7586059570312
+      ],
+      "text": "drugs included in their regimen, probably due to an extensive drug-resistance profile or intolerance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.515625,
+        527.4354248046875,
+        652.9586181640625
+      ],
+      "text": "to other second-line TB medications. Appropriate schedules of safety monitoring (at baseline and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.715576171875,
+        527.5629272460938,
+        666.1585693359375
+      ],
+      "text": "throughout treatment) should be in place for these patients, including ECG and electrolyte monitoring,",
+      "font": "SegoeUI-Light",
+      "size": 10.964643478393555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.9155883789062,
+        527.38720703125,
+        679.3585815429688
+      ],
+      "text": "and clinicians should be cognizant of other medicines in the regimen that can either prolong the QT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.1156005859375,
+        294.14080810546875,
+        692.55859375
+      ],
+      "text": "interval or cause other potential adverse events.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.5435791015625,
+        524.3054809570312,
+        714.2625732421875
+      ],
+      "text": "(91) The 2021 WHO model list of essential medicines   includes all agents required for longer regimens.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.98143482208252,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        526.5799560546875,
+        763.5758056640625
+      ],
+      "text": "This is the mean terminal half-life of bedaquiline and the M2 metabolite; this longer terminal elimination phase probably reflects the  49",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        761.7437744140625,
+        296.5137939453125,
+        773.17578125
+      ],
+      "text": "(90) slow release of bedaquiline and M2 from peripheral tissues  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "134 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

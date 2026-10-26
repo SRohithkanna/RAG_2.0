@@ -1,0 +1,40 @@
+{
+  "file": "module3",
+  "page": 20,
+  "table_id": 1,
+  "bbox": [
+    71.29462541852679,
+    71.36617431640624,
+    525.0742623465402,
+    315.75608825683594
+  ],
+  "heading": null,
+  "n_rows": 6,
+  "n_cols": 2,
+  "data": [
+    [
+      "Technology class",
+      "Included products"
+    ],
+    [
+      "Follow-on tests for detection of TB drug resistance",
+      ""
+    ],
+    [
+      "Low-complexity automated NAATs Xpert® MTB/XDR (Cepheid) for detection of resistance to isoniazid and second-line anti-TB agents",
+      ""
+    ],
+    [
+      "Line probe assays (LPAs) for GenoType® MTBDRplus v1 and v2; and GenoType detection of TB drug resistance MTBDRsl (Hain Lifescience/Bruker) Genoscholar™ NTM+MDRTB II and Genoscholar PZA-TB II (Nipro)",
+      ""
+    ],
+    [
+      "Targeted next-generation Deeplex® Myc-TB (GenoScreen/Illumina) sequencing (NGS) tests for AmPORE-TB® (Oxford Nanopore Technologies) detection of TB drug resistance TBseq® (Shengting Medical Technology Company)",
+      ""
+    ],
+    [
+      "Tests for TB infection",
+      ""
+    ]
+  ]
+}

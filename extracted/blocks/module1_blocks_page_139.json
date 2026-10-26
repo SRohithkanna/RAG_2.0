@@ -1,0 +1,306 @@
+{
+  "file": "module1",
+  "page": 139,
+  "blocks": [
+    {
+      "bbox": [
+        56.692901611328125,
+        68.09741973876953,
+        137.9596710205078,
+        84.88041687011719
+      ],
+      "text": "GRADE tables",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        87.77960968017578,
+        705.8324584960938,
+        103.2716064453125
+      ],
+      "text": "Question:  What is the performance of WHO-recommended four-symptom screening to exclude TB disease in individuals with HIV?",
+      "font": "Whitney-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        104.65328979492188,
+        257.3121337890625,
+        116.27229309082031
+      ],
+      "text": "Population:  Adults and adolescents with HIV on ART",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        213.81179809570312,
+        117.4242935180664,
+        225.33180236816406
+      ],
+      "text": "True positives",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69288635253906,
+        224.811767578125,
+        707.4324951171875,
+        236.33180236816406
+      ],
+      "text": "(patients with active  5 (3 ; 7) 26 (14 ; 37) 51 (28 ; 73)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69288635253906,
+        232.41168212890625,
+        220.00979614257812,
+        247.3317413330078
+      ],
+      "text": "Cross- 7  TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        148.79991149902344,
+        243.41165161132812,
+        226.73001098632812,
+        254.9316864013672
+      ],
+      "text": "sectional  studies;",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        248.91162109375,
+        763.8502197265625,
+        265.931640625
+      ],
+      "text": "Not serious  Not serious  Serious Serious None Low  a b c False negatives \n (cohort  4640",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        262.01165771484375,
+        708.5247192382812,
+        279.0316162109375
+      ],
+      "text": "(patients incorrectly  type)  patients  5 (3 ; 7) 24 (13 ; 36) 49 (27 ; 72)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        273.0116271972656,
+        122.94587707519531,
+        284.5316162109375
+      ],
+      "text": "classified as not",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        284.0116882324219,
+        127.78155517578125,
+        295.53167724609375
+      ],
+      "text": "having active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69281005859375,
+        299.21142578125,
+        120.03971099853516,
+        310.7314147949219
+      ],
+      "text": "True negatives",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69281005859375,
+        310.21148681640625,
+        716.263427734375,
+        321.7314758300781
+      ],
+      "text": "(patients without  700 (473 ; 855) 672 (454 ; 821) 636 (430 ; 778)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69281005859375,
+        317.8114318847656,
+        220.0097198486328,
+        332.7314453125
+      ],
+      "text": "7  Cross- active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        148.79974365234375,
+        328.8114013671875,
+        226.72984313964844,
+        340.3313903808594
+      ],
+      "text": "studies;\n sectional",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        334.3114013671875,
+        763.8502197265625,
+        351.33135986328125
+      ],
+      "text": "Not serious  Not serious  Serious Serious None Low  a b c False positives \n 4640  (cohort",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        347.411376953125,
+        715.5053100585938,
+        364.4313659667969
+      ],
+      "text": "(patients incorrectly  patients  type)  290 (135 ; 517) 278 (129 ; 496) 264 (122 ; 470)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        358.4113464355469,
+        135.2767791748047,
+        369.93133544921875
+      ],
+      "text": "classified as having",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.69287109375,
+        369.41143798828125,
+        100.90756225585938,
+        380.9314270019531
+      ],
+      "text": "active TB)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        391.1794128417969,
+        127.36689758300781,
+        400.7794189453125
+      ],
+      "text": "From references  31–37",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        394.63519287109375,
+        40.87300109863281,
+        544.2511596679688
+      ],
+      "text": "Annex 4. GRADE evidence-to-decision tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        400.1794128417969,
+        300.8789978027344,
+        409.7794189453125
+      ],
+      "text": "Significant heterogeneity for sensitivity and specificity. Downgraded by 1.  a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        409.1794128417969,
+        212.2237548828125,
+        418.7794189453125
+      ],
+      "text": "Wide confidence intervals. Downgraded by 1.  b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        418.1794128417969,
+        381.00738525390625,
+        427.7794189453125
+      ],
+      "text": "Possibility of publication bias not excluded, but not considered of sufficient concern to downgrade.  c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        563.58251953125,
+        40.87300109863281,
+        575.9425048828125
+      ],
+      "text": "121",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

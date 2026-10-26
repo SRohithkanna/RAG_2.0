@@ -1,0 +1,534 @@
+{
+  "file": "common childhood",
+  "page": 67,
+  "blocks": [
+    {
+      "bbox": [
+        115.84590148925781,
+        27.289522171020508,
+        337.6759338378906,
+        35.34652328491211
+      ],
+      "text": "8. EVIDENCE FOR RECOMMENDATIONS ON TREATMENT OF FEVER CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        60.372276306152344,
+        231.48292541503906,
+        72.36227416992188
+      ],
+      "text": "8.1.1\t Evidence and summary of findings",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        76.02693176269531,
+        399.122802734375,
+        89.51692962646484
+      ],
+      "text": "The panel identified one Cochrane review comparing 3rd generation cephalosporin",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        89.02693176269531,
+        399.10272216796875,
+        102.51692962646484
+      ],
+      "text": "with standard chloramphenicol-based regimes for bacterial meningitis in children",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        102.02693176269531,
+        399.08270263671875,
+        115.51692962646484
+      ],
+      "text": "[Prasad, 2007]. The review involved 19 RCTs with 1496 patients comparing 3rd",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        115.02693176269531,
+        399.0828552246094,
+        128.51693725585938
+      ],
+      "text": "generation cephalosporins (ceftriaxone or cefotaxime) with conventional antibiotics",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        128.0269317626953,
+        399.0628662109375,
+        141.51693725585938
+      ],
+      "text": "(penicillin/ampicillin-chloramphenicol combination, or chloramphenicol alone)",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        141.0269317626953,
+        399.06298828125,
+        154.51693725585938
+      ],
+      "text": "as empirical therapy for treating acute bacterial meningitis. The primary outcomes",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        154.0269317626953,
+        390.0128479003906,
+        167.51693725585938
+      ],
+      "text": "evaluated were death, severe sensorineural deafness, and other disabling sequelae.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        167.0269012451172,
+        399.1214599609375,
+        180.51690673828125
+      ],
+      "text": "The evidence used for making this recommendation was of moderate quality",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        180.0269012451172,
+        399.08282470703125,
+        193.51690673828125
+      ],
+      "text": "showing no differences in efficacy and safety between conventional antibiotics and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        346.3739929199219,
+        192.80690002441406,
+        399.0539245605469,
+        206.51690673828125
+      ],
+      "text": "see GRADE",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        193.0269012451172,
+        346.8528137207031,
+        206.51690673828125
+      ],
+      "text": "cephalosporins in the initial treatment of acute bacterial meningitis (",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        205.80690002441406,
+        102.09290313720703,
+        219.51690673828125
+      ],
+      "text": "table A7.15",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        101.78739929199219,
+        206.0269012451172,
+        399.0474548339844,
+        219.51690673828125
+      ],
+      "text": "). However, there was increasing evidence from several sensitivity studies",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        219.0269012451172,
+        399.0528869628906,
+        232.51690673828125
+      ],
+      "text": "that bacteria which cause meningitis are more likely to be resistant to conventional",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        232.0269012451172,
+        399.0927734375,
+        245.51690673828125
+      ],
+      "text": "antibiotics leading to increased mortality and morbidity. Early appropriate treatment",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        245.0269012451172,
+        399.0228271484375,
+        258.51690673828125
+      ],
+      "text": "with 3rd generation cephalosporins may improve patient outcomes since the choice",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        258.0268859863281,
+        320.6529235839844,
+        271.51690673828125
+      ],
+      "text": "of antibiotic is often made without knowledge of drug resistance.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        271.0268859863281,
+        396.83172607421875,
+        284.51690673828125
+      ],
+      "text": "The systematic review of 3rd generation cephalosporins versus chloramphenicol-",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        284.0268859863281,
+        399.1329345703125,
+        297.51690673828125
+      ],
+      "text": "based regimens show that there is moderate quality evidence of no difference",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        297.0268859863281,
+        399.07281494140625,
+        310.51690673828125
+      ],
+      "text": "between chloramphenicol-based regimens and 3rd generation cephalosporins in",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        310.0268859863281,
+        399.0628967285156,
+        323.51690673828125
+      ],
+      "text": "terms of mortality or rates of treatment failure. There is low quality evidence of a",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        323.0268859863281,
+        399.1228942871094,
+        336.51690673828125
+      ],
+      "text": "decreased risk of culture positivity for treatment with ceftriaxone compared to",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        336.0268859863281,
+        194.02293395996094,
+        349.51690673828125
+      ],
+      "text": "chloramphenicol-based regimens.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        349.0268859863281,
+        399.13134765625,
+        362.51690673828125
+      ],
+      "text": "Overall, there were no statistically significant differences in the risk of death 52",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        362.0268859863281,
+        399.16278076171875,
+        375.51690673828125
+      ],
+      "text": "(6.9%) of 750 in the cephalosporin group versus 50 (6.7%) of 746 in the conventional",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        375.0268859863281,
+        399.11273193359375,
+        388.51690673828125
+      ],
+      "text": "group (RD ‐0%; 95% CI ‐3% to +2%), risk of sensorineural deafness 21 (8.5%] of 247 in",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        388.0268859863281,
+        399.15283203125,
+        401.51690673828125
+      ],
+      "text": "the cephalosporin group versus 30 (11.8%) of 254 in the conventional group (RD ‐4%;",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        401.0268859863281,
+        399.14288330078125,
+        414.51690673828125
+      ],
+      "text": "95% CI ‐9% to +1%), and risk of treatment failure 63 (8.4%) of 750 in the cephalosporin",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        414.0268859863281,
+        399.01275634765625,
+        427.51690673828125
+      ],
+      "text": "group versus 65 (8.7%) of 746 in the conventional group (RD ‐1%; 95% CI ‐4% to +2%).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        427.0268859863281,
+        399.062744140625,
+        440.51690673828125
+      ],
+      "text": "There was a statistically significant difference in cerebrospinal fluid culture positivity",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        440.0268859863281,
+        399.0627746582031,
+        453.51690673828125
+      ],
+      "text": "10-48 hours after the start of treatment favouring cephalosporins – 14 (6.1%) of 228",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        453.0268859863281,
+        399.1328125,
+        466.51690673828125
+      ],
+      "text": "in the cephalosporin group versus 25 (11.7%) of 214 in the conventional group (RD",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        466.0268859863281,
+        257.4029846191406,
+        479.51690673828125
+      ],
+      "text": "-6%; 95% CI, -11% to -0%). (See GRADE table 15).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        479.0268859863281,
+        399.1313781738281,
+        492.51690673828125
+      ],
+      "text": "Subgroup analysis of 10 of the 19 trials included from developing country settings",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        492.0268859863281,
+        399.042724609375,
+        505.51690673828125
+      ],
+      "text": "showed no statistical difference in the primary outcomes: risk of death 37 (9.0%) of",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        505.02685546875,
+        399.0728759765625,
+        518.516845703125
+      ],
+      "text": "409 in the cephalosporin group versus 36 (9.4%) of 382 in the conventional group",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        518.02685546875,
+        399.0727233886719,
+        531.516845703125
+      ],
+      "text": "(RD ‐1%; 95% CI ‐5% to +3%), risk of sensorineural deafness two (3.6%) of 55 in",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        531.02685546875,
+        399.05279541015625,
+        544.516845703125
+      ],
+      "text": "the cephalosporin group versus three (4.5%) of 66 in the conventional group (RD",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        544.02685546875,
+        399.0127868652344,
+        557.516845703125
+      ],
+      "text": "‐1%; 95% CI ‐9% to +8%), and risk of treatment failure 39 (9.5%) of 409 in the",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        557.02685546875,
+        399.05291748046875,
+        570.516845703125
+      ],
+      "text": "cephalosporin group versus 39 (10.2%) of 382 in the conventional group (RD ‐1%;",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        570.02685546875,
+        141.01292419433594,
+        583.516845703125
+      ],
+      "text": "95% CI ‐5% to +3%).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        223.38180541992188,
+        644.9403076171875,
+        231.66180419921875,
+        655.2992553710938
+      ],
+      "text": "53",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

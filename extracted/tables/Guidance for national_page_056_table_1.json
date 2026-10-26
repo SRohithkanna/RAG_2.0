@@ -1,0 +1,56 @@
+{
+  "file": "Guidance for national",
+  "page": 56,
+  "table_id": 1,
+  "bbox": [
+    99.21299743652344,
+    333.5340270996094,
+    545.56298828125,
+    611.7760009765625
+  ],
+  "heading": "Table 4. Recommended treatment regimens for new cases of TB in children",
+  "n_rows": 8,
+  "n_cols": 3,
+  "data": [
+    [
+      "TB diagnostic category",
+      "Anti-TB drug regimensa",
+      ""
+    ],
+    [
+      "",
+      "Intensive phase",
+      "Continuation phase"
+    ],
+    [
+      "Low HIV prevalence (and HIV-negative children) and low isoniazid resistance settingsb",
+      "",
+      ""
+    ],
+    [
+      "Smear-negative pulmonary TB Intrathoracic lymph node TB 2HRZ 4HR Tuberculous peripheral lymphadenitis",
+      "",
+      ""
+    ],
+    [
+      "Extensive pulmonary disease Smear-positive pulmonary TB 2HRZE 4HR Severe forms of extrapulmonary TB (other than tuberculous meningitis/osteoarticular TB)",
+      "",
+      ""
+    ],
+    [
+      "High HIV prevalence or high isoniazid resistance or bothb",
+      "",
+      ""
+    ],
+    [
+      "Smear-positive PTB Smear-negative PTB with or without extensive parenchymal disease 2HRZE 4HR All forms of EPTB except tuberculous meningitis and osteoarticular TB",
+      "",
+      ""
+    ],
+    [
+      "All regions",
+      "",
+      ""
+    ]
+  ]
+}

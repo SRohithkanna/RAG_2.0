@@ -1,0 +1,630 @@
+{
+  "file": "module4",
+  "page": 34,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3858642578125,
+        81.83369445800781
+      ],
+      "text": "TB. Children and young adolescents aged below 16 years were treated with rifampicin, isoniazid,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.5791625976562,
+        95.03370666503906
+      ],
+      "text": "pyrazinamide with or without ethambutol using WHO recommended doses, appropriate for paediatric",
+      "font": "SegoeUI-Light",
+      "size": 10.957366943359375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        92.51471710205078,
+        127.88999938964844,
+        108.23371887207031
+      ],
+      "text": "(36) dosing  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        115.38463592529297,
+        527.4229736328125,
+        129.93763732910156
+      ],
+      "text": "PICO question:  In children and adolescents with non-severe TB, should a four-month intervention",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        481.688720703125,
+        143.13758850097656
+      ],
+      "text": "regimen versus the standard six-month regimen conforming to WHO guidelines be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        150.28863525390625,
+        527.2994995117188,
+        164.8416290283203
+      ],
+      "text": "Evidence:  In the SHINE trial, the primary efficacy outcome was a composite of treatment failure",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        163.59864807128906,
+        527.4099731445312,
+        178.04164123535156
+      ],
+      "text": "(including an extension of treatment beyond the replacement of missed doses, TB treatment drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.79859924316406,
+        527.386962890625,
+        191.24159240722656
+      ],
+      "text": "changes or restarts due to suspected treatment failure), on-treatment loss-to-follow-up, TB recurrence",
+      "font": "SegoeUI-Light",
+      "size": 10.960428237915039,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.99855041503906,
+        527.6025390625,
+        204.44154357910156
+      ],
+      "text": "or death by 72 weeks (from randomization), excluding children not reaching 16 weeks follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.19850158691406,
+        527.4113159179688,
+        217.64149475097656
+      ],
+      "text": "(modified-intention-to-treat). The non-inferiority margin for the primary efficacy outcome was 6%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        216.3985137939453,
+        495.0624694824219,
+        230.8415069580078
+      ],
+      "text": "The primary safety outcome was grade 3–5 adverse events recorded while on TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.10243225097656,
+        527.1043090820312,
+        252.54542541503906
+      ],
+      "text": "The SHINE trial definition of non-severe TB was: peripheral lymph node TB or respiratory TB (including",
+      "font": "SegoeUI-Light",
+      "size": 10.968955993652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.3024444580078,
+        527.3143310546875,
+        265.7454528808594
+      ],
+      "text": "uncomplicated intrathoracic lymph node disease) confined to one lobe without cavities, no significant",
+      "font": "SegoeUI-Light",
+      "size": 10.980632781982422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        264.50238037109375,
+        393.8052673339844,
+        278.9454040527344
+      ],
+      "text": "airway obstruction, uncomplicated pleural effusion, and no miliary TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.2064208984375,
+        527.4266967773438,
+        300.6494445800781
+      ],
+      "text": "The SHINE trial inclusion criteria were: children and young adolescents aged <16 years; weight ≥3",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.40643310546875,
+        527.3650512695312,
+        313.8494567871094
+      ],
+      "text": "kg; no known drug-resistance; symptomatic but non-severe TB; smear negative on gastric aspirate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.60638427734375,
+        524.4076538085938,
+        327.0494079589844
+      ],
+      "text": "or other respiratory sample (an Xpert MTB/RIF positive, rifampicin susceptible result was allowed); 14",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.806396484375,
+        527.394775390625,
+        340.2494201660156
+      ],
+      "text": "clinician’s decision to treat with a standard first-line regimen; not treated for TB in the previous two",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.00640869140625,
+        527.38916015625,
+        353.4494323730469
+      ],
+      "text": "years; known HIV status (positive or negative). Trial exclusion criteria were: respiratory sample acid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        352.2064208984375,
+        527.3859252929688,
+        366.6494445800781
+      ],
+      "text": "fast bacilli smear-positive (a smear-positive peripheral lymph node sample was allowed); premature",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.4064025878906,
+        527.4507446289062,
+        379.84942626953125
+      ],
+      "text": "birth (<37 weeks) and aged under three months; miliary TB, spinal TB, TBM, osteoarticular TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.6064147949219,
+        527.4287719726562,
+        393.0494384765625
+      ],
+      "text": "abdominal TB, congenital TB; pre-existing, non-tuberculous disease likely to prejudice the response",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.806396484375,
+        527.3892211914062,
+        406.2494201660156
+      ],
+      "text": "to, or assessment of, treatment (such as liver or kidney disease, peripheral neuropathy or cavitation);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.00640869140625,
+        527.4365844726562,
+        419.4494323730469
+      ],
+      "text": "any known contraindication to taking TB drugs; known contact with a drug-resistant adult source",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2064208984375,
+        527.434326171875,
+        432.6494445800781
+      ],
+      "text": "case (including mono-resistant TB); known drug-resistance in the child; being severely ill; pregnancy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.9103088378906,
+        527.2507934570312,
+        454.35333251953125
+      ],
+      "text": "A total of 1204 children were enrolled in the trial between July 2016 and July 2018. The median age of",
+      "font": "SegoeUI-Light",
+      "size": 10.981134414672852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.1103210449219,
+        527.2216796875,
+        467.5533447265625
+      ],
+      "text": "enrolled children was 3.5 years (range: 2 months – 15 years), 52% were male, 11% had HIV-infection,",
+      "font": "SegoeUI-Light",
+      "size": 10.994548797607422,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.310302734375,
+        527.427490234375,
+        480.7533264160156
+      ],
+      "text": "and 14% had bacteriologically confirmed TB. Retention in the trial by 72 weeks and adherence  to  15",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.51031494140625,
+        527.2230834960938,
+        493.9533386230469
+      ],
+      "text": "allocated TB treatment were 95% and 94%, respectively. Sixteen (2.8%) versus 18 (3.1%) children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        492.7102966308594,
+        527.1401977539062,
+        507.1533203125
+      ],
+      "text": "reached the primary efficacy outcome (treatment failure) in the 16- versus 24-week arms respectively,",
+      "font": "SegoeUI-Light",
+      "size": 10.982335090637207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.9102783203125,
+        527.411376953125,
+        520.353271484375
+      ],
+      "text": "with an unadjusted difference of -0.3% (95% CI: -2.3, 1.6). Treatment success was reported in 97.1%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.1103515625,
+        527.4299926757812,
+        533.5533447265625
+      ],
+      "text": "of participants receiving the 16-week regimen versus 96.9% in those receiving the 24-week regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.310302734375,
+        527.3969116210938,
+        546.7532958984375
+      ],
+      "text": "(relative risk (RR): 1.00, 95% CI: 0.98–1.02). Non-inferiority of the 16-week regimen was consistent",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.5103149414062,
+        527.4409790039062,
+        559.9533081054688
+      ],
+      "text": "across all intention-to-treat, per-protocol and key secondary analyses. This included restricting the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.7103271484375,
+        527.4364624023438,
+        573.1533203125
+      ],
+      "text": "analysis to the 958 (80%) children that were independently adjudicated to have TB at baseline by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        571.9102783203125,
+        527.4078369140625,
+        586.353271484375
+      ],
+      "text": "the trial Endpoint Review Committee. A total of 7.8% of children experienced a grade 3–5 adverse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.1102905273438,
+        527.4112548828125,
+        599.5532836914062
+      ],
+      "text": "event in the 16-week arm, versus 8.0% in the 24-week arm (RR: 0.98, 95% CI: 0.67–1.44). There were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.310302734375,
+        527.402587890625,
+        612.7532958984375
+      ],
+      "text": "115 on-treatment grade ≥3 adverse events in 95 (8%) children, 47 (8%) in the 16-week and 48 (8%)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.5103149414062,
+        524.3917236328125,
+        625.9533081054688
+      ],
+      "text": "in the 24-week arm, most common being pneumonia or other chest infections (29 (25%)) or liver-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        624.7103271484375,
+        527.2396850585938,
+        639.1533203125
+      ],
+      "text": "related events (11 (10%)) across both arms. There were 17 grade 3 or 4 adverse reactions (considered",
+      "font": "SegoeUI-Light",
+      "size": 10.981184005737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        637.9102783203125,
+        527.3909912109375,
+        652.353271484375
+      ],
+      "text": "possibly, probably or definitely) related to trial drugs, including 11 hepatic events; all adverse reactions",
+      "font": "SegoeUI-Light",
+      "size": 10.973467826843262,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.1102905273438,
+        338.5533142089844,
+        665.5532836914062
+      ],
+      "text": "except three occurred in the first eight weeks of treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.47807312011719,
+        672.704345703125,
+        527.4042358398438,
+        687.25732421875
+      ],
+      "text": "GDG considerations:  The GDG judged that while the desirable effects related to this PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.0142211914062,
+        527.5940551757812,
+        700.4572143554688
+      ],
+      "text": "are related to treatment outcomes, shortening the duration of treatment is also important and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.2369995117188,
+        526.603759765625,
+        731.9409790039062
+      ],
+      "text": "In the SHINE trial, children with Xpert MTB/RIF results had very low or low semi-quantitative results, or a negative result. Xpert Ultra  14",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        731.0370483398438,
+        186.05010986328125,
+        741.541015625
+      ],
+      "text": "was not used in the SHINE trial.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.271728515625,
+        526.5990600585938,
+        753.9757080078125
+      ],
+      "text": "In the SHINE trial, adherence was defined as the proportion of children who received an adequate amount of treatment (as defined in  15",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0717163085938,
+        526.5581665039062,
+        763.57568359375
+      ],
+      "text": "the statistical analysis plan for both the intervention and control regimens; generally, a cut off of 80% of the allocated doses was used,",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        450.50067138671875,
+        773.1756591796875
+      ],
+      "text": "within a certain time frame of starting each phase of treatment (i.e. intensive phase versus continuation phase).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "20 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

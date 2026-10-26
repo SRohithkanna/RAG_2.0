@@ -1,0 +1,582 @@
+{
+  "file": "Guidance for national",
+  "page": 110,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        270.9801025390625,
+        83.68373107910156,
+        324.29547119140625,
+        100.53973388671875
+      ],
+      "text": "A  1",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        282.08209228515625,
+        87.69053649902344,
+        311.0116882324219,
+        99.48973083496094
+      ],
+      "text": "nnex",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        160.82359313964844,
+        110.24761962890625,
+        175.4875946044922,
+        139.14361572265625
+      ],
+      "text": "S",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        175.84739685058594,
+        117.11641693115234,
+        434.45550537109375,
+        137.34361267089844
+      ],
+      "text": "ummary of evidence and",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        158.5753936767578,
+        144.71640014648438,
+        436.65496826171875,
+        164.94358825683594
+      ],
+      "text": "considerations underlying",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        185.34170532226562,
+        172.31643676757812,
+        409.8873291015625,
+        192.5436248779297
+      ],
+      "text": "the recommendations",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        206.72621154785156,
+        89.71540069580078,
+        223.58221435546875
+      ],
+      "text": "I",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.92539978027344,
+        210.73301696777344,
+        164.44459533691406,
+        222.53221130371094
+      ],
+      "text": "ntroduction",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        231.2750244140625,
+        513.4719848632812,
+        244.62652587890625
+      ],
+      "text": "With input from the Guidelines Development Group (“the Panel”), WHO finalized a list",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        247.27154541015625,
+        513.368408203125,
+        260.623046875
+      ],
+      "text": "of recommendations that are relevant to the management of TB in children, including",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        263.26806640625,
+        513.4606323242188,
+        276.61956787109375
+      ],
+      "text": "recommendations developed since publication of the first edition of the guidance in",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        279.26458740234375,
+        117.00938415527344,
+        292.6160888671875
+      ],
+      "text": "2006.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        303.77105712890625,
+        513.3798828125,
+        317.12255859375
+      ],
+      "text": "A systematic review of the literature was conducted for each topic relevant to the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        319.7675476074219,
+        513.4259033203125,
+        333.1190490722656
+      ],
+      "text": "recommendations and the evidence was synthesized and presented in a table available",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        335.7640380859375,
+        168.74789428710938,
+        349.11553955078125
+      ],
+      "text": "on WHO website",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        168.74789428710938,
+        335.7640380859375,
+        367.2955017089844,
+        349.11553955078125
+      ],
+      "text": "www.who.int/tb/challenges/children/en/",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        367.2955017089844,
+        335.7640380859375,
+        370.49249267578125,
+        349.11553955078125
+      ],
+      "text": ".",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        360.2705383300781,
+        513.3914794921875,
+        373.6220397949219
+      ],
+      "text": "For each recommendation, any recent evidence is summarized, followed by a",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        376.26702880859375,
+        513.4606323242188,
+        389.6185302734375
+      ],
+      "text": "description of the benefits, harms and other considerations used in reviewing the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        392.2635192871094,
+        513.4490966796875,
+        405.6150207519531
+      ],
+      "text": "recommendation and its grading (see text below for definitions of the strength levels of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        408.260009765625,
+        197.2908935546875,
+        421.61151123046875
+      ],
+      "text": "the recommendation).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        432.7665100097656,
+        443.7130126953125,
+        446.1180114746094
+      ],
+      "text": "New evidence showed that the existing recommendations were still valid.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        457.27301025390625,
+        513.4373168945312,
+        470.62451171875
+      ],
+      "text": "The final decisions are listed in the Executive summary. This annex provides more detail",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        473.2695007324219,
+        513.4375610351562,
+        486.6210021972656
+      ],
+      "text": "about the evidence considered and the discussions that took place during the Panel",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        489.2659912109375,
+        513.471923828125,
+        502.61749267578125
+      ],
+      "text": "meeting in July 2012. Where evidence is weak or lacking, future research is suggested",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        505.26251220703125,
+        163.00941467285156,
+        518.614013671875
+      ],
+      "text": "(see Chapter 9).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        529.7689819335938,
+        513.4028930664062,
+        543.1204833984375
+      ],
+      "text": "In the GRADE assessment process, the quality of a body of evidence is defined as the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        545.7654418945312,
+        513.4488525390625,
+        559.116943359375
+      ],
+      "text": "level of confidence that the estimates of effect reported in the literature are the same",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        561.761962890625,
+        513.4146118164062,
+        575.1134643554688
+      ],
+      "text": "as the actual effects of the intervention being studied. The value of an estimate of the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        577.7584838867188,
+        513.4603271484375,
+        591.1099853515625
+      ],
+      "text": "effect of a given intervention depends on the level of confidence in that estimate. The",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        593.7549438476562,
+        513.3685913085938,
+        607.1064453125
+      ],
+      "text": "higher the quality of evidence, the more likely it is that a strong recommendation can",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        609.75146484375,
+        513.4375,
+        623.1029663085938
+      ],
+      "text": "be made; however, the decision regarding the strength of the recommendation also",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        625.7479858398438,
+        214.77088928222656,
+        639.0994873046875
+      ],
+      "text": "depends on other factors.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        650.2544555664062,
+        513.391357421875,
+        663.60595703125
+      ],
+      "text": "In the GRADE profiles, the following levels of assessment of the quality of evidence are",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        666.2509765625,
+        111.24789428710938,
+        679.6024780273438
+      ],
+      "text": "used:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        688.4805297851562,
+        513.4490356445312,
+        701.9010009765625
+      ],
+      "text": "High Further research is very unlikely to affect confidence in the estimate of",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        157.0408935546875,
+        702.3494873046875,
+        184.9283905029297,
+        715.7009887695312
+      ],
+      "text": "effect",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        722.0835571289062,
+        513.4490356445312,
+        735.5040283203125
+      ],
+      "text": "Moderate Further research is likely to have an important impact on confidence in",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        157.0408935546875,
+        735.9525146484375,
+        262.23138427734375,
+        749.3040161132812
+      ],
+      "text": "the estimate of effect",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        755.6865234375,
+        513.4144287109375,
+        769.1069946289062
+      ],
+      "text": "Low  Further research is very likely to have an important impact on confidence",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        157.0408935546875,
+        769.5554809570312,
+        490.3339538574219,
+        782.906982421875
+      ],
+      "text": "in the estimate of effect and is likely to change the existing estimate",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        789.8875122070312,
+        347.8373718261719,
+        803.3079833984375
+      ],
+      "text": "Very low Any estimate of effect is very uncertain",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        558.6439208984375,
+        805.8439331054688,
+        580.8839111328125,
+        835.8439331054688
+      ],
+      "text": "91",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

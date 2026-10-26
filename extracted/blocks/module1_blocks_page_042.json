@@ -1,0 +1,678 @@
+{
+  "file": "module1",
+  "page": 42,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.5161743164062,
+        81.83369445800781
+      ],
+      "text": "On the basis of existing practice, albeit in the absence of a direct comparison, the GDG judged that 9H",
+      "font": "SegoeUI-Light",
+      "size": 10.971061706542969,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3765258789062,
+        95.03370666503906
+      ],
+      "text": "is an equivalent option to 6H in countries with a strong health infrastructure. It noted, however, that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.1207275390625,
+        108.23371887207031
+      ],
+      "text": "6H is preferable to 9H from the point of view of feasibility, resource requirements and acceptability to",
+      "font": "SegoeUI-Light",
+      "size": 10.996199607849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.3924560546875,
+        121.43373107910156
+      ],
+      "text": "people who need TPT. Nonetheless, both 6H and 9H have become less preferable for TPT as shorter",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.1782836914062,
+        134.6337432861328
+      ],
+      "text": "rifamycin-containing regimens become more widely available, as they facilitate administration for both",
+      "font": "SegoeUI-Light",
+      "size": 10.96163272857666,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.3981323242188,
+        147.8336944580078
+      ],
+      "text": "the person taking them and health-care services. The conditional recommendation to give at least",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.4375610351562,
+        161.03370666503906
+      ],
+      "text": "36 months of daily isoniazid monotherapy to people with HIV in high TB transmission settings is now",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.4390258789062,
+        174.2337188720703
+      ],
+      "text": "considered obsolete and has been withdrawn in this second edition of the consolidated guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        161.52320861816406,
+        187.43373107910156
+      ],
+      "text": "on TPT (see above).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        194.69459533691406,
+        527.4219360351562,
+        209.13758850097656
+      ],
+      "text": "The GDG agreed unanimously that, in individuals aged < 15 years, the benefits of 3HR outweigh",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        207.8946075439453,
+        527.4398193359375,
+        222.3376007080078
+      ],
+      "text": "the harm, given the safety profile of this regimen, the higher rate of completion as compared with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        221.09474182128906,
+        527.4267578125,
+        235.53773498535156
+      ],
+      "text": "isoniazid monotherapy and the availability of child-friendly, fixed-dose combinations of rifampicin",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        234.2947540283203,
+        527.3981323242188,
+        248.7377471923828
+      ],
+      "text": "and isoniazid. The GDG therefore made a strong recommendation despite the low certainty of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        247.49476623535156,
+        527.4576416015625,
+        261.9377746582031
+      ],
+      "text": "evidence. Data on the safety and pharmacology of rifapentine in children < 2 years have recently",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        260.69476318359375,
+        527.4511108398438,
+        275.1377868652344
+      ],
+      "text": "become available, which make it possible to administer the 3HP regimen even to children in this age",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.61859130859375,
+        527.21044921875,
+        288.3376159667969
+      ],
+      "text": "(12,98) group . The data from the 1HP trial reviewed for the 2020 update of the guidelines relate only to",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.961934089660645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.5298461914062,
+        301.5377502441406
+      ],
+      "text": "individuals with HIV aged ≥ 13 years. The GDG considered that extrapolation of the effects to children",
+      "font": "SegoeUI-Light",
+      "size": 10.97892951965332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.294677734375,
+        527.4329223632812,
+        314.7377014160156
+      ],
+      "text": "aged 2–12 years is reasonable, although the daily dosage of rifapentine in this age group has yet to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.49468994140625,
+        527.4583740234375,
+        327.9377136230469
+      ],
+      "text": "be established. In the absence of further data, the 1HP regimen thus continues to be recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.6947021484375,
+        237.10311889648438,
+        341.1377258300781
+      ],
+      "text": "only for individuals aged ≥ 13 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        348.3985900878906,
+        527.2660522460938,
+        362.84161376953125
+      ],
+      "text": "The GDG that prepared the 2020 update of the guidelines considered that there was moderate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86614990234375,
+        361.5986022949219,
+        527.4340209960938,
+        376.0416259765625
+      ],
+      "text": "certainty that 4R is not inferior to 9H. When considering the good safety profile of the 4R regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.5999755859375,
+        389.24163818359375
+      ],
+      "text": "and its reduced length, it also recommended that this regimen could also be used in high TB-burden",
+      "font": "SegoeUI-Light",
+      "size": 10.997200012207031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.1913452148438,
+        402.4416198730469
+      ],
+      "text": "settings. When deciding to make a conditional recommendation, the GDG considered that most",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        527.579833984375,
+        415.6416320800781
+      ],
+      "text": "people would prefer a shorter regimen but raised concern about the variable acceptability; uncertainty",
+      "font": "SegoeUI-Light",
+      "size": 10.958019256591797,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        527.4483642578125,
+        428.8416442871094
+      ],
+      "text": "in resource requirements, given its higher cost; the feasibility of delivering appropriate dosages in lower",
+      "font": "SegoeUI-Light",
+      "size": 10.952848434448242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.5986022949219,
+        527.3775024414062,
+        442.0416259765625
+      ],
+      "text": "weight bands with the current formulation of single-dose rifampicin capsules; and a potential reduction",
+      "font": "SegoeUI-Light",
+      "size": 10.953401565551758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.7986145019531,
+        527.2307739257812,
+        455.24163818359375
+      ],
+      "text": "in equity if it deflects resources and decreases the treatment coverage of more vulnerable individuals.",
+      "font": "SegoeUI-Light",
+      "size": 10.987942695617676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.99859619140625,
+        527.549560546875,
+        468.4416198730469
+      ],
+      "text": "The GDG agreed that introduction of 4R should be preceded by mobilization of appropriate resources",
+      "font": "SegoeUI-Light",
+      "size": 10.971563339233398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.1986083984375,
+        527.4430541992188,
+        481.6416320800781
+      ],
+      "text": "to avoid shortages in other programmatic needs. The GDG also observed that the impact on equity",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.39862060546875,
+        375.05364990234375,
+        494.8416442871094
+      ],
+      "text": "could change if the price and policy of use of 4R changed. (See",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        376.0592956542969,
+        480.39862060546875,
+        414.59674072265625,
+        494.8416442871094
+      ],
+      "text": "Annex 4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        414.5978088378906,
+        480.39862060546875,
+        527.4105224609375,
+        494.8416442871094
+      ],
+      "text": "for more details of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        493.5986022949219,
+        143.2318115234375,
+        508.0416564941406
+      ],
+      "text": "decisions.) GDG",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        515.302490234375,
+        527.4425659179688,
+        529.7454833984375
+      ],
+      "text": "With respect to 1HP, the GDG that prepared the 2020 update of the guidelines concluded that there",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        528.5025634765625,
+        527.176025390625,
+        542.945556640625
+      ],
+      "text": "was low certainty that its effectiveness would be non-inferior to 9H when used in programmatic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.7025146484375,
+        527.2593383789062,
+        556.1455078125
+      ],
+      "text": "settings for different populations at risk. When also taking into account the good safety profile of 1HP",
+      "font": "SegoeUI-Light",
+      "size": 10.987743377685547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.902587890625,
+        527.3897705078125,
+        569.3455810546875
+      ],
+      "text": "and the much shorter regimen than other approved TBI regimens, the GDG recommended that this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.1026000976562,
+        527.59423828125,
+        582.5455932617188
+      ],
+      "text": "regimen could also be used in high TB-burden settings and in people without HIV infection. The GDG",
+      "font": "SegoeUI-Light",
+      "size": 10.984739303588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.302490234375,
+        527.4246826171875,
+        595.7454833984375
+      ],
+      "text": "considered that most people would prefer its much shorter duration over other options and that its",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.5026245117188,
+        527.3992309570312,
+        608.9456176757812
+      ],
+      "text": "implementation would be feasible but raised concern about uncertain resource requirements and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.70263671875,
+        487.7056884765625,
+        622.1456298828125
+      ],
+      "text": "potentially reduced equity. These considerations led to a conditional recommendation. (See",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        487.276611328125,
+        607.70263671875,
+        524.4081420898438,
+        622.1456298828125
+      ],
+      "text": "Annex 4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        620.902587890625,
+        248.1238250732422,
+        635.3455810546875
+      ],
+      "text": "for more details of the GDG decisions).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        642.6064453125,
+        527.421142578125,
+        657.0494384765625
+      ],
+      "text": "In the update to the 2020 guidelines, the GDG considered that all regimens could be used in any",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        655.8064575195312,
+        527.38623046875,
+        670.2494506835938
+      ],
+      "text": "setting, regardless of TB burden, provided that the health infrastructure could ensure that treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        669.0064697265625,
+        527.4465942382812,
+        683.449462890625
+      ],
+      "text": "is given correctly without creating inequity and that TB disease could be excluded reliably before",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        682.2064819335938,
+        171.861083984375,
+        696.6495361328125
+      ],
+      "text": "initiation of treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        703.9105224609375,
+        527.4201049804688,
+        718.353515625
+      ],
+      "text": "The GDG noted that all the TPT regimens can be self-administered. A number of recent trials and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        717.1104125976562,
+        527.4266357421875,
+        731.5534057617188
+      ],
+      "text": "other studies attest to the feasibility of self-administered treatment of 3HP as compared with directly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        729.034423828125,
+        527.5253295898438,
+        744.75341796875
+      ],
+      "text": "(28,99–101) observed treatment  . The GDG noted that a requirement for direct observation could",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.5103759765625,
+        527.4435424804688,
+        757.953369140625
+      ],
+      "text": "be a significant barrier to implementation. People receiving TPT should be supported with advice",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        756.7103881835938,
+        527.4089965820312,
+        771.1533813476562
+      ],
+      "text": "on treatment and management of adverse events during encounters with health services. The GDG",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23321533203125,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "24 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

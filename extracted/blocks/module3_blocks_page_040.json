@@ -1,0 +1,510 @@
+{
+  "file": "module3",
+  "page": 40,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.89222717285156,
+        503.2632141113281,
+        85.3282241821289
+      ],
+      "text": "2.1.2 Moderate complexity automated NAATs for detection of TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        85.69221496582031,
+        345.42010498046875,
+        102.12821197509766
+      ],
+      "text": "and resistance to rifampicin and isoniazid",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        112.36524200439453,
+        526.9700317382812,
+        125.51023864746094
+      ],
+      "text": "Rapid detection of TB and rifampicin resistance is increasingly available as new technologies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        127.86524200439453,
+        526.9653930664062,
+        141.01023864746094
+      ],
+      "text": "are developed and adopted by countries. However, what has also emerged is the relatively high",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.9606294631958,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.365234375,
+        526.6071166992188,
+        156.51023864746094
+      ],
+      "text": "burden of isoniazid-resistant, rifampicin-susceptible TB that is often undiagnosed. Globally,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        158.865234375,
+        526.5172729492188,
+        172.01023864746094
+      ],
+      "text": "isoniazid-resistant, rifampicin-susceptible TB is estimated to occur in 13.1% (95% CI: 9.9–16.9%)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.948429107666016,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        174.365234375,
+        442.6051940917969,
+        187.51023864746094
+      ],
+      "text": "of new cases and 17.4% (95% CI: 0.5–54.0%) of previously treated cases ( ). 1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.36907958984375,
+        526.8724365234375,
+        211.5140838623047
+      ],
+      "text": "A new class of technologies has come to market with the potential to address this gap. Several",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992597579956055,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.86907958984375,
+        526.9008178710938,
+        227.0140838623047
+      ],
+      "text": "manufacturers have developed moderate complexity automated NAATs for detection of TB and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.948982238769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.36907958984375,
+        527.3477172851562,
+        242.5140838623047
+      ],
+      "text": "resistance to rifampicin and isoniazid on high throughput platforms for use in laboratories. The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.973367691040039,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.86907958984375,
+        524.41259765625,
+        258.01409912109375
+      ],
+      "text": "tests belonging to this class are faster and less complex to perform than phenotypic culture-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.36907958984375,
+        526.96240234375,
+        273.51409912109375
+      ],
+      "text": "based drug susceptibility testing (DST) and line probe assays (LPA). They have the advantage",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        275.86907958984375,
+        527.1461181640625,
+        289.01409912109375
+      ],
+      "text": "of being largely automated following the sample preparation step. Moderate complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.36907958984375,
+        527.0911865234375,
+        304.51409912109375
+      ],
+      "text": "automated NAATs may be used as an initial test for detection of TB and resistance to both",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.86907958984375,
+        526.9644775390625,
+        320.01409912109375
+      ],
+      "text": "first-line TB drugs simultaneously (rifampicin and isoniazid). They offer the potential for the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.3691101074219,
+        527.0999755859375,
+        335.5141296386719
+      ],
+      "text": "rapid provision of accurate results (important to patients) and for testing efficiency where high",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982986450195312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.8691101074219,
+        526.981201171875,
+        351.0141296386719
+      ],
+      "text": "volumes of tests are required daily (important to programmes). Hence, these technologies are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.3691101074219,
+        464.792236328125,
+        366.5141296386719
+      ],
+      "text": "suited to areas with a high population density and rapid sample referral systems.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.15533447265625,
+        308.44207763671875,
+        395.2433166503906
+      ],
+      "text": "Table 2.1.2.1 Class criteria for MC-aNAATs",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        410.70330810546875,
+        514.20849609375,
+        423.6173095703125
+      ],
+      "text": "Purpose Detection of TB and resistance to rifampicin and isoniazid",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        431.8216247558594,
+        374.8043518066406,
+        444.9666442871094
+      ],
+      "text": "Nucleic acid amplification testing Principle of action",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        451.96002197265625,
+        515.9891967773438,
+        465.10504150390625
+      ],
+      "text": "Reagents Reagents are available within standardized kits and may have  Complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        464.96002197265625,
+        507.26629638671875,
+        478.10504150390625
+      ],
+      "text": "temperature requirements for storage. The sample is added",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        477.96002197265625,
+        519.1573486328125,
+        491.10504150390625
+      ],
+      "text": "automatically or manually to a disposable sealed container for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        490.96002197265625,
+        249.20640563964844,
+        504.10504150390625
+      ],
+      "text": "testing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        511.0985107421875,
+        493.6208190917969,
+        524.2435302734375
+      ],
+      "text": "Skills Moderate technical skills (i.e., multiple sample or reagent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        524.0985107421875,
+        470.0312805175781,
+        537.2435302734375
+      ],
+      "text": "handling steps, precision pipetting may be required,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        537.0985107421875,
+        401.9413757324219,
+        550.2435302734375
+      ],
+      "text": "molecular workflows may be required)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        557.2369384765625,
+        483.2368469238281,
+        570.3819580078125
+      ],
+      "text": "Pipetting One or more non-precision or precision pipetting steps",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        570.2369384765625,
+        343.9493408203125,
+        583.3819580078125
+      ],
+      "text": "required by the procedure.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        590.3754272460938,
+        482.3732604980469,
+        603.5204467773438
+      ],
+      "text": "Testing  May require multiple specimen treatment steps before",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        147.18539428710938,
+        603.3754272460938,
+        493.208251953125,
+        616.5204467773438
+      ],
+      "text": "Procedure transferring the specimen into a sealed test container for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        616.3754272460938,
+        325.2384033203125,
+        629.5204467773438
+      ],
+      "text": "automated processing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        633.62744140625,
+        399.90631103515625,
+        646.7724609375
+      ],
+      "text": "Automated or manual DNA extraction",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        650.8792724609375,
+        340.330322265625,
+        664.0242919921875
+      ],
+      "text": "Automated real-time PCR",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        212.59840393066406,
+        668.13134765625,
+        303.9533386230469,
+        681.2763671875
+      ],
+      "text": "Results generation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        688.2697143554688,
+        269.2153625488281,
+        701.4147338867188
+      ],
+      "text": "Automated Type of test result",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        701.4237060546875,
+        126.9094009399414,
+        714.3377075195312
+      ],
+      "text": "reporting",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        721.408203125,
+        461.5612487792969,
+        734.55322265625
+      ],
+      "text": "Laboratory (special infrastructure may be required) Setting of use",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "24 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

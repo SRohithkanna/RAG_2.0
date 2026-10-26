@@ -1,0 +1,582 @@
+{
+  "file": "module5",
+  "page": 16,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.5409545898438,
+        81.83369445800781
+      ],
+      "text": "Outpatient health care setting:  Health care facility where people are undergoing diagnosis",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4024047851562,
+        95.03370666503906
+      ],
+      "text": "and receiving treatment and care but are not admitted for overnight stays (e.g. ambulatory clinic,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        125.6889877319336,
+        108.23371887207031
+      ],
+      "text": "dispensary).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38463592529297,
+        527.4313354492188,
+        129.93763732910156
+      ],
+      "text": "Passive case-finding:  Patient-initiated pathway to TB diagnosis involving a person with TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.4255981445312,
+        143.13758850097656
+      ],
+      "text": "who experiences symptoms that they recognize as serious; the person having access to and seeking",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.626220703125,
+        156.3376007080078
+      ],
+      "text": "care, and presenting spontaneously at an appropriate health facility; a health worker correctly assessing",
+      "font": "SegoeUI-Light",
+      "size": 10.9501371383667,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4345092773438,
+        169.53773498535156
+      ],
+      "text": "that the person fulfils the criteria for presumptive TB; and successful use of a diagnostic algorithm",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        321.0478820800781,
+        182.73768615722656
+      ],
+      "text": "with sufficient sensitivity and specificity to diagnose TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.88873291015625,
+        527.3543701171875,
+        204.4417266845703
+      ],
+      "text": "People who use drugs:  People who engage in the harmful or hazardous use of psychoactive",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        203.19862365722656,
+        500.7012023925781,
+        217.64161682128906
+      ],
+      "text": "substances that could impact negatively on their health, social life, resources or legal situation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        224.7926025390625,
+        487.7506103515625,
+        239.34559631347656
+      ],
+      "text": "Presumptive tuberculosis:  Person who presents with symptoms or signs suggestive of TB.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        246.49652099609375,
+        527.3352661132812,
+        261.0495300292969
+      ],
+      "text": "Previously treated:  People who have previously received 1 month or more of TB medicines. Previously",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.94737434387207,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.8065185546875,
+        524.410400390625,
+        274.2495422363281
+      ],
+      "text": "treated people may have been treated with a first-line regimen for drug-susceptible TB or a second-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.00653076171875,
+        241.9560089111328,
+        287.4495544433594
+      ],
+      "text": "line regimen for drug-resistant forms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        294.60040283203125,
+        527.4174194335938,
+        309.1534118652344
+      ],
+      "text": "Programmatic management of tuberculosis preventive treatment:  All coordinated activities by",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.910400390625,
+        527.0938110351562,
+        322.3534240722656
+      ],
+      "text": "public and private health caregivers and the community aimed at scaling up TB preventive treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.995698928833008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.11041259765625,
+        174.83309936523438,
+        335.5534362792969
+      ],
+      "text": "to people who need it.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        342.70440673828125,
+        527.4776000976562,
+        357.2574157714844
+      ],
+      "text": "Pulmonary tuberculosis (PTB) (classification):  Any bacteriologically confirmed or clinically",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        356.014404296875,
+        527.0917358398438,
+        370.4574279785156
+      ],
+      "text": "diagnosed case of TB involving the lung parenchyma or the tracheobronchial tree, including tuberculous",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        369.21429443359375,
+        527.4133911132812,
+        383.6573181152344
+      ],
+      "text": "intrathoracic lymphadenopathy (mediastinal and/or hilar), without radiographic abnormalities in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.4143981933594,
+        527.3800659179688,
+        396.857421875
+      ],
+      "text": "lungs.  Miliary TB is classified as PTB because there are lesions in the lungs. A person with both PTB  10",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        395.6144104003906,
+        339.7668151855469,
+        410.05743408203125
+      ],
+      "text": "and extrapulmonary TB should be classified as having PTB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.5242919921875,
+        527.3956909179688,
+        431.7613220214844
+      ],
+      "text": "Mycobacterium tuberculosis Rifampicin-resistant tuberculosis (RR-TB):  TB caused by   strains",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        430.518310546875,
+        527.1681518554688,
+        444.9613342285156
+      ],
+      "text": "resistant to rifampicin. These strains may be susceptible or resistant to isoniazid (i.e. MDR-TB) or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        443.7182922363281,
+        527.4388427734375,
+        458.16131591796875
+      ],
+      "text": "resistant to other first-line or second-line TB medicines. In these guidelines and elsewhere, MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        456.9183044433594,
+        527.392822265625,
+        471.361328125
+      ],
+      "text": "and RR-TB cases are often grouped together as MDR/RR-TB and are eligible for treatment with an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        470.1183166503906,
+        152.85098266601562,
+        484.56134033203125
+      ],
+      "text": "MDR-TB regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        489.0281982421875,
+        527.40869140625,
+        506.2652282714844
+      ],
+      "text": "Mycobacterium tuberculosis  Rifampicin-susceptible, isoniazid-resistant tuberculosis:  TB caused by",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.953451156616211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        505.022216796875,
+        332.5314025878906,
+        519.4652099609375
+      ],
+      "text": "strains resistant to isoniazid and susceptible to rifampicin.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        526.6162109375,
+        527.3292236328125,
+        541.169189453125
+      ],
+      "text": "Serious adverse event:  Adverse event that can lead to death or a life-threatening experience,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        539.9262084960938,
+        527.1410522460938,
+        554.3692016601562
+      ],
+      "text": "to hospitalization or prolongation of hospitalization, to persistent or significant disability, or to a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        553.126220703125,
+        527.415771484375,
+        567.5692138671875
+      ],
+      "text": "congenital anomaly. Serious adverse events that do not immediately result in one of these outcomes",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        566.326171875,
+        527.3905029296875,
+        580.7691650390625
+      ],
+      "text": "but that require an intervention to prevent such an outcome from happening are included. Serious",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        579.5261840820312,
+        527.3882446289062,
+        593.9691772460938
+      ],
+      "text": "adverse events may require a drastic intervention, such as termination of the medicine suspected of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        592.7261962890625,
+        185.0975799560547,
+        607.169189453125
+      ],
+      "text": "having caused the event.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        614.3201293945312,
+        524.4180908203125,
+        628.8731079101562
+      ],
+      "text": "Severe acute malnutrition:  Presence of oedema of both feet or severe wasting (weight-for-height/",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        627.630126953125,
+        524.4083251953125,
+        642.0731201171875
+      ],
+      "text": "length less than −3 standard deviations/Z-scores or mid-upper arm circumference less than 115 mm). 11",
+      "font": "SegoeUI-Light",
+      "size": 10.946269035339355,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.2239990234375,
+        527.5211791992188,
+        663.7769775390625
+      ],
+      "text": "Severe extrapulmonary tuberculosis:  Presence of miliary (disseminated) TB or TB meningitis.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        662.5341186523438,
+        527.572998046875,
+        676.9771118164062
+      ],
+      "text": "In children and young adolescents aged under 15 years, extrapulmonary forms of disease other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        675.734130859375,
+        527.1640625,
+        690.1771240234375
+      ],
+      "text": "than lymphadenopathy (peripheral nodes or isolated mediastinal mass without compression) are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        688.93408203125,
+        183.1317901611328,
+        703.3770751953125
+      ],
+      "text": "considered to be severe.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        727.8373413085938,
+        522.5365600585938,
+        741.541259765625
+      ],
+      "text": "Following a WHO expert consultation in September 2021, intrathoracic lymph node TB is now classified as pulmonary TB in children. 10",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.2719116210938,
+        526.699951171875,
+        753.9758911132812
+      ],
+      "text": "Pocket book of hospital care for children: guidelines for the management of common childhood illnesses, 2nd edition. Geneva:  11",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0718994140625,
+        526.7310180664062,
+        763.5758666992188
+      ],
+      "text": "World Health Organization; 2013 (https://apps.who.int/iris/bitstream/handle/10665/81170/9789241548373_eng.pdf, accessed",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6719360351562,
+        151.64767456054688,
+        773.1759033203125
+      ],
+      "text": "27 September 2021).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.037899017333984,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "xiv WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

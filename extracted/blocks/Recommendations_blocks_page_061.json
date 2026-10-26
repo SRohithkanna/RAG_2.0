@@ -1,0 +1,498 @@
+{
+  "file": "Recommendations",
+  "page": 61,
+  "blocks": [
+    {
+      "bbox": [
+        136.0631103515625,
+        43.229557037353516,
+        196.153076171875,
+        50.729557037353516
+      ],
+      "text": "Prior episode of TB",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.0631103515625,
+        61.37181091308594,
+        319.2281188964844,
+        68.87181091308594
+      ],
+      "text": "Have you ever been told before that you had TB? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        307.24310302734375,
+        73.37181091308594,
+        318.2680969238281,
+        80.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0706024169922,
+        91.37181091308594,
+        331.7831115722656,
+        98.87181091308594
+      ],
+      "text": "If so, did you take all the medication you were given? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        321.42559814453125,
+        103.37181091308594,
+        332.4505920410156,
+        110.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.08560180664062,
+        121.37181091308594,
+        300.6130676269531,
+        128.87181091308594
+      ],
+      "text": "Do you have contact with anyone with TB? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        290.255615234375,
+        133.37181091308594,
+        301.2806091308594,
+        140.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.09310913085938,
+        151.37181091308594,
+        358.0854797363281,
+        158.87181091308594
+      ],
+      "text": "If so, is that person a household contact or a non-household contact?",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.86561584472656,
+        163.37181091308594,
+        177.9881134033203,
+        170.87181091308594
+      ],
+      "text": "Household",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        142.86561584472656,
+        175.37181091308594,
+        193.22061157226562,
+        182.87181091308594
+      ],
+      "text": "Non-household",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.1081085205078,
+        205.22955322265625,
+        243.85301208496094,
+        212.72955322265625
+      ],
+      "text": "Tuberculosis patient chart review",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.11561584472656,
+        223.37181091308594,
+        397.340576171875,
+        230.87181091308594
+      ],
+      "text": "What type of TB patient is this? New Treatment after default",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.8555908203125,
+        235.37181091308594,
+        343.07806396484375,
+        242.87181091308594
+      ],
+      "text": "Relapse Failure",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.8555908203125,
+        247.37181091308594,
+        353.278076171875,
+        254.87181091308594
+      ],
+      "text": "Transfer-in Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.13058471679688,
+        265.371826171875,
+        313.20306396484375,
+        272.8718566894531
+      ],
+      "text": "What is this patient’s HIV status? Reactive (positive)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.80819702148438,
+        277.3718566894531,
+        330.70819091796875,
+        284.8718566894531
+      ],
+      "text": "Non-reactive (negative)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.81570434570312,
+        289.3718566894531,
+        286.62322998046875,
+        296.8718566894531
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.81570434570312,
+        301.3718566894531,
+        289.3006591796875,
+        308.8718566894531
+      ],
+      "text": "Not tested",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0906982421875,
+        319.3718566894531,
+        265.18072509765625,
+        326.8718566894531
+      ],
+      "text": "Was a chest X-ray done? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.82321166992188,
+        331.3718566894531,
+        264.21319580078125,
+        338.8718566894531
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        254.82321166992188,
+        343.3718566894531,
+        286.6307373046875,
+        350.8718566894531
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.09820556640625,
+        361.3718566894531,
+        315.1231384277344,
+        368.8718566894531
+      ],
+      "text": "If a chest x-ray was done, on what date? /  /",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        262.7431945800781,
+        373.3718566894531,
+        356.4335021972656,
+        380.8718566894531
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.10568237304688,
+        391.3718566894531,
+        330.96307373046875,
+        398.8718566894531
+      ],
+      "text": "If a chest x-ray was done, what was the result? Cavitary",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.45068359375,
+        403.3718566894531,
+        375.1081237792969,
+        410.8718566894531
+      ],
+      "text": "Abnormal, no cavitary",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.45068359375,
+        415.3718566894531,
+        328.9531555175781,
+        422.8718566894531
+      ],
+      "text": "Normal",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        304.45068359375,
+        427.3718566894531,
+        336.2582092285156,
+        434.8718566894531
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.11318969726562,
+        445.3718566894531,
+        370.0830993652344,
+        452.8718566894531
+      ],
+      "text": "Was an acid-fast bacilli (AFB) sputum smear examination done? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        359.7257080078125,
+        457.3718566894531,
+        369.1156921386719,
+        464.8718566894531
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        359.7257080078125,
+        469.3718566894531,
+        391.5332336425781,
+        476.8718566894531
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.1132049560547,
+        487.3718566894531,
+        291.58062744140625,
+        494.8718566894531
+      ],
+      "text": "If an AFB sputum smear examination was done,",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.12071228027344,
+        499.371826171875,
+        232.90318298339844,
+        506.8718566894531
+      ],
+      "text": "on what date?  /  /",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        180.49319458007812,
+        511.371826171875,
+        274.18328857421875,
+        518.871826171875
+      ],
+      "text": "(  D  D  /  M  M  /  Y  Y  Y  Y  )",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.06320190429688,
+        529.371826171875,
+        404.64532470703125,
+        536.871826171875
+      ],
+      "text": "If an AFB sputum smear examination was done, what was the result? AFB positive",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        365.35321044921875,
+        541.371826171875,
+        407.3381652832031,
+        548.871826171875
+      ],
+      "text": "AFB negative",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        365.3607177734375,
+        553.371826171875,
+        397.1682434082031,
+        560.871826171875
+      ],
+      "text": "Unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07821655273438,
+        571.371826171875,
+        303.4406433105469,
+        578.871826171875
+      ],
+      "text": "Does the patient have extrapulmonary TB? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        293.0832214355469,
+        583.371826171875,
+        302.47320556640625,
+        590.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.08572387695312,
+        601.371826171875,
+        408.0505065917969,
+        608.871826171875
+      ],
+      "text": "Was the patient a resident of a correctional facility at the time of diagnosis? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        397.6932373046875,
+        613.371826171875,
+        407.0832214355469,
+        620.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        225.69931030273438,
+        651.97265625,
+        233.51429748535156,
+        659.47265625
+      ],
+      "text": "59",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "file": "module3",
+  "page": 17,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        110.85870361328125,
+        283.11895751953125,
+        149.09869384765625
+      ],
+      "text": "1. Introduction",
+      "font": "FrutigerNeueLT-Bk",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        191.75111389160156,
+        210.66429138183594,
+        213.9811248779297
+      ],
+      "text": "1.1. Background",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.07208251953125,
+        526.9625244140625,
+        236.2170867919922
+      ],
+      "text": "It is estimated that about a quarter of the world’s population is infected with  Mycobacterium",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.57208251953125,
+        527.0593872070312,
+        251.7170867919922
+      ],
+      "text": "( ) – the bacterium that causes tuberculosis (TB) disease. Testing for TB infection  tuberculosis Mtb",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967552185058594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        254.07208251953125,
+        527.0108642578125,
+        267.21710205078125
+      ],
+      "text": "can identify individuals who would benefit the most from TB preventive treatment (TPT).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        269.57208251953125,
+        527.0252685546875,
+        282.71710205078125
+      ],
+      "text": "Without TPT, it is estimated that about 5–10% of people who are infected will develop TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        285.07208251953125,
+        482.3236999511719,
+        298.21710205078125
+      ],
+      "text": "disease over the course of their lives, usually within 5 years of the initial infection  . (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        309.07598876953125,
+        526.9644165039062,
+        322.22100830078125
+      ],
+      "text": "Despite the availability of preventive measures and disease treatment, TB remains a leading",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        324.5760192871094,
+        526.6312866210938,
+        337.7210388183594
+      ],
+      "text": "cause of death due to a single infectious agent, and has probably replaced coronavirus disease",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986641883850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.0760192871094,
+        526.9666137695312,
+        353.2210388183594
+      ],
+      "text": "(COVID-19) as the leading cause of death worldwide for the first time since the start of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.5760192871094,
+        527.0199584960938,
+        368.7210388183594
+      ],
+      "text": "global pandemic  . In 2023, it is estimated that 10.8 million people fell ill with TB, but only  (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.0760192871094,
+        526.9484252929688,
+        384.2210388183594
+      ],
+      "text": "8.2 million were diagnosed. In addition, resistance to the antibiotics that are used to treat",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.5760192871094,
+        527.1129150390625,
+        399.7210388183594
+      ],
+      "text": "TB remains a challenge, with an estimated 400 000 people (95% uncertainty interval [UI]:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.0760192871094,
+        526.9810791015625,
+        415.2210388183594
+      ],
+      "text": "370 000–450 000) having developed either rifampicin-resistant TB (RR-TB), or TB resistant to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.5760192871094,
+        433.5029602050781,
+        430.7210388183594
+      ],
+      "text": "both rifampicin and isoniazid, defined as multidrug-resistant TB (MDR-TB).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.57989501953125,
+        526.9644775390625,
+        454.72491455078125
+      ],
+      "text": "In 2018, the United Nations (UN) held the world’s first high-level meeting on TB. The political",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        457.07989501953125,
+        526.9149169921875,
+        470.22491455078125
+      ],
+      "text": "declaration from the meeting included commitments by Member States to achieve four new",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.57989501953125,
+        524.3980102539062,
+        485.72491455078125
+      ],
+      "text": "global targets  . These commitments were subsequently renewed at the second UN high- (2)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.07989501953125,
+        526.9479370117188,
+        501.22491455078125
+      ],
+      "text": "level meeting in 2023; they included provision of TPT to at least 45 million people between",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.57989501953125,
+        527.0086669921875,
+        516.7249145507812
+      ],
+      "text": "2024 and 2027, and reaching 90% of the estimated number of people who develop TB with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.0798950195312,
+        526.9475708007812,
+        532.2249145507812
+      ],
+      "text": "quality-assured diagnosis and treatment from 2023 to 2027  . In addition, the World Health  (3)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.5798950195312,
+        526.9557495117188,
+        547.7249145507812
+      ],
+      "text": "Organization’s (WHO’s) End TB Strategy calls for the detection of individuals living with TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        550.0798950195312,
+        526.9039306640625,
+        563.2249145507812
+      ],
+      "text": "infection who are at higher risk of progression to active TB so that they can receive TPT, as",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        565.5798950195312,
+        526.9589233398438,
+        578.7249145507812
+      ],
+      "text": "well as the early diagnosis of TB and universal drug susceptibility testing (DST). These global",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.0798950195312,
+        526.8817749023438,
+        594.2249145507812
+      ],
+      "text": "commitments and plans highlight the critical role of TB testing for the rapid and accurate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.5798950195312,
+        349.7440185546875,
+        609.7249145507812
+      ],
+      "text": "detection of TB infection, disease and drug resistance  . (4)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.5839233398438,
+        526.7940063476562,
+        633.7289428710938
+      ],
+      "text": "Over recent years, the WHO Global TB Programme (WHO/GTB) has issued evidence-based",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.0839233398438,
+        526.9098510742188,
+        649.2289428710938
+      ],
+      "text": "policy guidance on diagnostic testing, to support countries in their efforts to detect TB infection,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.953250885009766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        651.5839233398438,
+        526.671875,
+        664.7289428710938
+      ],
+      "text": "disease and drug resistance. When novel diagnostic tools are developed and evidence on their",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986891746520996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.0839233398438,
+        526.9481811523438,
+        680.2289428710938
+      ],
+      "text": "use and impact becomes available, WHO/GTB commissions systematic reviews and convenes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.5839233398438,
+        527.2385864257812,
+        695.7289428710938
+      ],
+      "text": "guideline development groups (GDGs) to inform guideline updates. Since 2021, these updates",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.981935501098633,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.0839233398438,
+        527.3054809570312,
+        711.2289428710938
+      ],
+      "text": "have been issued in module-based consolidated guidelines. Until 2024, policy recommendations",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.5839233398438,
+        526.9918212890625,
+        726.7289428710938
+      ],
+      "text": "for testing for TB infection, TB disease and drug resistance were presented separately (in the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.0839233398438,
+        398.3800048828125,
+        742.2289428710938
+      ],
+      "text": "consolidated guidelines on prevention and diagnosis, respectively).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.6254272460938,
+        802.0169067382812,
+        552.2174072265625,
+        811.576904296875
+      ],
+      "text": "1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

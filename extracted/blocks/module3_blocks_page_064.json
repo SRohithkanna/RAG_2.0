@@ -1,0 +1,666 @@
+{
+  "file": "module3",
+  "page": 64,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        191.30810546875,
+        85.31422424316406
+      ],
+      "text": "Research priorities",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        78.81909942626953,
+        108.71018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        95.56519317626953,
+        526.9642944335938,
+        108.71018981933594
+      ],
+      "text": "Evaluate the performance of this class using alternative sample types for paediatric TB (e.g.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        111.06519317626953,
+        524.4091186523438,
+        124.21018981933594
+      ],
+      "text": "gastric and nasopharyngeal aspirates, stool, induced sputum, BAL) and extrapulmonary TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996249198913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        78.81909942626953,
+        139.71018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        126.56519317626953,
+        526.9531860351562,
+        139.71018981933594
+      ],
+      "text": "Evaluate the impact of LC-mNAAT testing on patient-important outcomes (cure, mortality,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        142.065185546875,
+        324.5938415527344,
+        155.21018981933594
+      ],
+      "text": "time to diagnosis and time to start of treatment).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.565185546875,
+        78.81909942626953,
+        170.71018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        157.565185546875,
+        526.7532348632812,
+        170.71018981933594
+      ],
+      "text": "Evaluate the effect of sample concentration approaches (e.g. centrifugation) and volume on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.970410346984863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        173.065185546875,
+        524.4236450195312,
+        186.21018981933594
+      ],
+      "text": "the performance of LC-mNAAT technologies, including in extrapulmonary TB sample types.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990145683288574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        188.565185546875,
+        78.81909942626953,
+        201.71018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        188.565185546875,
+        526.7869873046875,
+        201.71018981933594
+      ],
+      "text": "Evaluate the impact on incremental accuracy and case detection of alternative sample types",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977726936340332,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        204.065185546875,
+        204.9925994873047,
+        217.21018981933594
+      ],
+      "text": "that are easier to collect.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.565185546875,
+        78.81909942626953,
+        232.71018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        219.565185546875,
+        383.21148681640625,
+        232.71018981933594
+      ],
+      "text": "Develop a test in this class that can detect TB drug resistance.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        235.065185546875,
+        78.81909942626953,
+        248.21018981933594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        235.065185546875,
+        519.6533203125,
+        248.21018981933594
+      ],
+      "text": "Review the field performance of the current technologies used in programmatic settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.565185546875,
+        78.81909942626953,
+        263.710205078125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        250.565185546875,
+        523.041015625,
+        263.710205078125
+      ],
+      "text": "Conduct operational research to ensure that tests are used optimally in intended settings.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.065185546875,
+        78.81909942626953,
+        279.210205078125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        266.065185546875,
+        527.04345703125,
+        279.210205078125
+      ],
+      "text": "Evaluate the different classes of tests, including LC-mNAATs, to determine which classes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        281.565185546875,
+        526.9664306640625,
+        294.710205078125
+      ],
+      "text": "or testing strategies yield superior diagnostic accuracy, cost–effectiveness and impact on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        297.065185546875,
+        204.74041748046875,
+        310.210205078125
+      ],
+      "text": "equity and acceptability.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.565185546875,
+        78.81909942626953,
+        325.710205078125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        312.565185546875,
+        527.0877685546875,
+        325.710205078125
+      ],
+      "text": "Identify an improved reference standard that accurately defines TB disease in children,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        328.0652160644531,
+        526.9312744140625,
+        341.2102355957031
+      ],
+      "text": "paucibacillary specimens and people who cannot produce sputum, because the sensitivity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        343.5652160644531,
+        283.5205993652344,
+        356.7102355957031
+      ],
+      "text": "of all available diagnostics is suboptimal.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        359.0652160644531,
+        78.81909942626953,
+        372.2102355957031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        359.0652160644531,
+        527.2008056640625,
+        372.2102355957031
+      ],
+      "text": "Assess the budget impact and cost–effectiveness of LC-mNAATs compared with other classes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.949734687805176,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        374.5652160644531,
+        123.16509246826172,
+        387.7102355957031
+      ],
+      "text": "of tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.0652160644531,
+        78.81909942626953,
+        403.2102355957031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        390.0652160644531,
+        526.9641723632812,
+        403.2102355957031
+      ],
+      "text": "Develop and apply standardized methods for assessment of costs and cost–effectiveness,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        405.5652160644531,
+        373.30084228515625,
+        418.7102355957031
+      ],
+      "text": "to improve comparability and scope of economic evidence.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        438.0561218261719,
+        498.1494445800781,
+        460.2861022949219
+      ],
+      "text": "2.3. Concurrent use of initial diagnostic tests for",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.8561096191406,
+        470.5728759765625,
+        483.0860900878906
+      ],
+      "text": "diagnosis of TB in People living with HIV and",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        483.6561279296875,
+        142.59490966796875,
+        505.8861083984375
+      ],
+      "text": "children",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.97705078125,
+        526.8796997070312,
+        528.1220703125
+      ],
+      "text": "There are significant burdens of tuberculosis in people living with HIV and children, particularly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977076530456543,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.47705078125,
+        526.6739501953125,
+        543.6220703125
+      ],
+      "text": "in low- and middle-income countries (LMICs). Persons living with HIV are at substantially higher",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.970660209655762,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        545.97705078125,
+        526.9285278320312,
+        559.1220703125
+      ],
+      "text": "risk of developing TB disease due to immunosuppression, with TB being a leading cause of death",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.47705078125,
+        526.9645385742188,
+        574.6220703125
+      ],
+      "text": "among this population. Children, especially those under five, are at high risk of progression",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.9769897460938,
+        526.969970703125,
+        590.1220092773438
+      ],
+      "text": "from TB infection to TB disease and rapid disease progression and often present with broad",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.4769897460938,
+        527.2918701171875,
+        605.6220092773438
+      ],
+      "text": "respiratory symptoms, which complicate diagnosis and increase morbidity and mortality if not",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997249603271484,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.9769897460938,
+        526.9644775390625,
+        621.1220092773438
+      ],
+      "text": "promptly treated. Addressing TB in these at-risk populations requires concerted efforts that",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.4769897460938,
+        404.9852600097656,
+        636.6220092773438
+      ],
+      "text": "account for their unique clinical presentations and diagnostic needs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.4808959960938,
+        526.93701171875,
+        660.6259155273438
+      ],
+      "text": "Diagnosing TB in persons living with HIV and children is challenging, particularly because of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.9808959960938,
+        526.965576171875,
+        676.1259155273438
+      ],
+      "text": "unspecific clinical presentations and often low and varying numbers of mycobacteria in their",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.4808959960938,
+        527.0352783203125,
+        691.6259155273438
+      ],
+      "text": "samples that lower the sensitivity of existing diagnostic tests. Furthermore, children and people",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967903137207031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.9808959960938,
+        526.7279663085938,
+        707.1259155273438
+      ],
+      "text": "living with HIV with advanced immunosuppression may be unable to provide sputum samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993898391723633,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        709.4808959960938,
+        526.91943359375,
+        722.6259155273438
+      ],
+      "text": "and can have disseminated TB, which is challenging to confirm with laboratory methods. To, in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.984589576721191,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        724.9808959960938,
+        526.8099975585938,
+        738.1259155273438
+      ],
+      "text": "part address this challenge, WHO recommends the use of stool to aid in laboratory confirmation",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.946369171142578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.4808959960938,
+        527.0844116210938,
+        753.6259155273438
+      ],
+      "text": "of TB in children, and the use of urine to aid in the confirmation of TB in persons living with HIV.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975221633911133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        755.9808959960938,
+        526.9592895507812,
+        769.1259155273438
+      ],
+      "text": "However, even highly sensitive tests for TB diagnosis, such as LC-aNAATs, can miss TB in these",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "48 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

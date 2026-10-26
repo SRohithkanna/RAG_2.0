@@ -1,0 +1,198 @@
+{
+  "file": "Latent",
+  "page": 11,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5809440612793,
+        217.830078125,
+        82.56494140625
+      ],
+      "text": "Abbreviations",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.95880126953125,
+        213.2051239013672,
+        180.7587890625
+      ],
+      "text": "ART\t antiretroviral treatment",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.6287841796875,
+        213.34405517578125,
+        200.42877197265625
+      ],
+      "text": "BCG\t bacille Calmette-Guérin",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.29876708984375,
+        192.94906616210938,
+        220.0987548828125
+      ],
+      "text": "CI\t confidence interval",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        226.96875,
+        240.47109985351562,
+        239.76873779296875
+      ],
+      "text": "GDG\t Guideline Development Group",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        246.63873291015625,
+        407.53692626953125,
+        259.438720703125
+      ],
+      "text": "GRADE\t grading of recommendations assessment, development and evaluation",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8661117553711,
+        266.3087158203125,
+        250.0440673828125,
+        279.10870361328125
+      ],
+      "text": "IGRA\t interferon-gamma release assay",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8661117553711,
+        285.97869873046875,
+        284.9081115722656,
+        298.7786865234375
+      ],
+      "text": "IPT\t isoniazid preventive therapy or treatment",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8661117553711,
+        305.648681640625,
+        229.22906494140625,
+        318.44866943359375
+      ],
+      "text": "LTBI\t latent tuberculosis infection",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8661117553711,
+        325.3186950683594,
+        246.96617126464844,
+        338.1186828613281
+      ],
+      "text": "MDR-TB\t multidrug-resistant tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        344.98870849609375,
+        317.170166015625,
+        357.7886962890625
+      ],
+      "text": "PICO\t patients, intervention, comparator and outcomes",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        364.6587219238281,
+        225.89309692382812,
+        377.4587097167969
+      ],
+      "text": "RCT \t randomized controlled trial",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        384.3287353515625,
+        192.60916137695312,
+        397.12872314453125
+      ],
+      "text": "TST \t tuberculin skin test",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86611938476562,
+        403.9987487792969,
+        166.5251007080078,
+        416.7987365722656
+      ],
+      "text": "TB\t tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        549.4226684570312,
+        810.61279296875
+      ],
+      "text": "ix",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        470.6809997558594,
+        796.524658203125,
+        524.409423828125,
+        805.5686645507812
+      ],
+      "text": "ABBREVIATIONS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

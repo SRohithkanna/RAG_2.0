@@ -1,0 +1,61 @@
+{
+  "file": "common childhood",
+  "page": 159,
+  "table_id": 1,
+  "bbox": [
+    257.3869934082031,
+    63.63810729980469,
+    333.24700927734375,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 3,
+  "n_cols": 13,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "RELATIVE RISKa (95% CI)",
+      "IMPORTANCE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES (PARTICIPANTS)",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Treatment failure",
+      "1 (264)",
+      "Cohort -1",
+      "Unclear -0.5",
+      "No (not possible) 0",
+      "No 0",
+      "Intention to treat analysis unclear -0.5",
+      "No imprecision 0",
+      "1 study -1",
+      "Generalizable 0",
+      "VERY LOW",
+      "0.4 (0.34 to 0.5)",
+      "Important"
+    ]
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "file": "Latent",
+  "page": 31,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.51299285888672,
+        480.5190734863281,
+        67.4429931640625
+      ],
+      "text": "Fig. 4\t Algorithm for targeted diagnosis and treatment of LTBI and exclusion of active TB in",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        113.38609313964844,
+        67.51299285888672,
+        450.11004638671875,
+        80.68299102783203
+      ],
+      "text": "HIV-negative household contacts aged   5 years and other at-risk populations ≥",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        153.38609313964844,
+        114.68714141845703,
+        441.88958740234375,
+        126.96114349365234
+      ],
+      "text": "Ask for any symptoms of tuberculosis in individuals from the risk group a",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        163.00799560546875,
+        164.2935333251953,
+        431.1112060546875,
+        176.56753540039062
+      ],
+      "text": "Yes No",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        399.7060852050781,
+        206.81312561035156,
+        450.6888122558594,
+        219.08712768554688
+      ],
+      "text": "TST or IGRA",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        350.5227966308594,
+        263.5059814453125,
+        504.7679138183594,
+        275.7799987792969
+      ],
+      "text": "Positive Negative b",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        328.4742126464844,
+        306.49822998046875,
+        402.8658752441406,
+        318.7722473144531
+      ],
+      "text": "Chest radiography",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.64199829101562,
+        357.42730712890625,
+        214.13760375976562,
+        369.7013244628906
+      ],
+      "text": "TB and other disease",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        264.0683898925781,
+        362.7185974121094,
+        464.61553955078125,
+        374.99261474609375
+      ],
+      "text": "Any abnormality No abnormality",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        140.5240020751953,
+        369.4258117675781,
+        199.16070556640625,
+        381.6998291015625
+      ],
+      "text": "investigations c",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        405.9750061035156,
+        405.2383117675781,
+        460.48321533203125,
+        417.5123291015625
+      ],
+      "text": "Treat for LTBI",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.6741943359375,
+        526.1677856445312,
+        447.9142150878906
+      ],
+      "text": "Any symptom of TB: cough, haemoptysis, fever, night sweats, weight loss, chest pain, shortness of breath, fatigue. An HIV test could  a",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        447.6741943359375,
+        526.2598876953125,
+        457.9142150878906
+      ],
+      "text": "be offered according to national or local guidelines or clinical judgement. Similarly, chest radiographs could be performed at this",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        457.6741943359375,
+        101.18900299072266,
+        467.9142150878906
+      ],
+      "text": "stage.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.6741943359375,
+        526.270751953125,
+        477.9142150878906
+      ],
+      "text": "Clients for whom LTBI treatment is not indicated should be given information about TB, including the importance of seeking care if  b",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        477.6741943359375,
+        167.9897918701172,
+        487.9142150878906
+      ],
+      "text": "symptoms of TB develop.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.6741943359375,
+        526.2630615234375,
+        497.9142150878906
+      ],
+      "text": "National TB guidelines should be followed in investigating TB. In addition, people in whom TB is excluded after investigations  c",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.78739929199219,
+        497.6741943359375,
+        378.4186706542969,
+        507.9142150878906
+      ],
+      "text": "(including those with fibrotic radiological lesions) can be considered for LTBI treatment.",
+      "font": "Whitney-Book",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        536.2266235351562,
+        526.6760864257812,
+        549.026611328125
+      ],
+      "text": "The GDG also noted that symptom screening with or without the addition of chest radiography should be",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        550.2266235351562,
+        526.6571655273438,
+        563.026611328125
+      ],
+      "text": "acceptable for individuals and programme managers. Chest radiography could increase the confidence of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.2266235351562,
+        526.6033325195312,
+        577.026611328125
+      ],
+      "text": "health care providers that active TB has been ruled out, thus reducing any concern about development of drug",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.2266235351562,
+        526.6723022460938,
+        591.026611328125
+      ],
+      "text": "resistance; however, addition of chest radiography could incur costs for clients and inconvenience, as more",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.2266235351562,
+        526.7122192382812,
+        605.026611328125
+      ],
+      "text": "clients would have to be investigated for TB and other diseases. The GDG noted the difficulty of assessing the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.2266235351562,
+        356.1991882324219,
+        619.026611328125
+      ],
+      "text": "preferences of children, which were not systematically documented.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.1854248046875,
+        298.9588317871094,
+        650.9684448242188
+      ],
+      "text": "3.3\t Considerations for implementation",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.9036865234375,
+        526.6561889648438,
+        669.7036743164062
+      ],
+      "text": "Addition of abnormal chest radiographic findings to the symptom screening rule would complicate logistics,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.9036865234375,
+        526.6752319335938,
+        683.7036743164062
+      ],
+      "text": "increasing the cost, workload, infrastructure and availability of qualified staff. The GDG noted that chest",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.9036865234375,
+        526.6559448242188,
+        697.7036743164062
+      ],
+      "text": "radiography should not be a requirement or a barrier for initiating TB preventive treatment in people living",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.9036865234375,
+        526.604248046875,
+        711.7036743164062
+      ],
+      "text": "with HIV because of the need for additional resources, in view of the marginal gain in negative predictive value.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.57373046875,
+        526.7061767578125,
+        731.3737182617188
+      ],
+      "text": "People living with HIV who have any of the four symptoms or abnormal chest radiographic findings may have",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.57373046875,
+        526.71337890625,
+        745.3737182617188
+      ],
+      "text": "active TB and should be investigated for TB and other diseases. Xpert MTB/RIF should be used as the initial",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.57373046875,
+        526.6710205078125,
+        759.3737182617188
+      ],
+      "text": "diagnostic test. Other diseases that cause any of the four symptoms should be investigated in accordance with",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        553.0786743164062,
+        810.61279296875
+      ],
+      "text": "19",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        336.91900634765625,
+        796.524658203125,
+        524.4110107421875,
+        805.5686645507812
+      ],
+      "text": "3. ALGORITHMS FOR RULING OUT ACTIVE TUBERCULOSIS",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

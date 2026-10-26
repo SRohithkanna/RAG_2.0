@@ -1,0 +1,100 @@
+{
+  "file": "common childhood",
+  "page": 141,
+  "table_id": 1,
+  "bbox": [
+    145.4185028076172,
+    62.36197280883789,
+    354.31048583984375,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 6,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE (95% CI) RRb"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Pain (24 hours)",
+      "5",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "No 0",
+      "No 0",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "Studies mainly conducted in developing countries with very low rate of baseline burden of ear disease -1",
+      "MODERATE (Total -1.5)",
+      "RR 0.90 (0.78 to 1.04)"
+    ],
+    [
+      "Pain (2 to 7 days)",
+      "10",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "No 0",
+      "No 0",
+      "No imprecision 0",
+      "No inconsistency 0",
+      "As above -1",
+      "MODERATE (Total -1)",
+      "RR 0.72 (0.62 to 0.83)"
+    ],
+    [
+      "Abnormal tympanometry at 1 month",
+      "4",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "No 0",
+      "No 0",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "As above -1",
+      "MODERATE (Total -1.5)",
+      "RR 0.89 (0.75 to 1.07)"
+    ],
+    [
+      "Vomiting, diarrhoea, or rash",
+      "5",
+      "RCT 0",
+      "Adequate 0",
+      "Yes 0",
+      "No 0",
+      "No 0",
+      "Some imprecision -0.5",
+      "No inconsistency 0",
+      "Yes 0",
+      "HIGH (Total -0.5)",
+      "RR 1.38 (1.09 to 1.76)"
+    ]
+  ]
+}

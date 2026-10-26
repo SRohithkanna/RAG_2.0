@@ -1,0 +1,402 @@
+{
+  "file": "Recommendations",
+  "page": 63,
+  "blocks": [
+    {
+      "bbox": [
+        136.0631103515625,
+        43.37181091308594,
+        350.0304870605469,
+        50.87181091308594
+      ],
+      "text": "• If this contact answers ‘No’ to all symptom screening questions:",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.5756072998047,
+        61.37181091308594,
+        408.0878601074219,
+        68.87181091308594
+      ],
+      "text": "• Tell this contact to go to the clinic for evaluation if she or he develops any of these",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        152.96810913085938,
+        73.37181091308594,
+        231.28302001953125,
+        80.87181091308594
+      ],
+      "text": "symptoms in the future.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.47061157226562,
+        91.37181091308594,
+        408.11053466796875,
+        98.87181091308594
+      ],
+      "text": "• Tell the contact to bring the sheet of paper to the clinic if she or he does go to",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        152.99061584472656,
+        103.37181091308594,
+        238.26556396484375,
+        110.87181091308594
+      ],
+      "text": "the clinic to get evaluated.",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        135.9881134033203,
+        133.22955322265625,
+        209.65306091308594,
+        140.72955322265625
+      ],
+      "text": "TB symptom screening",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        135.9881134033203,
+        151.37181091308594,
+        229.64808654785156,
+        158.87181091308594
+      ],
+      "text": "Do you have a cough Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        219.29061889648438,
+        163.37181091308594,
+        228.6806182861328,
+        170.87181091308594
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        135.99562072753906,
+        179.605712890625,
+        304.8505859375,
+        188.87181091308594
+      ],
+      "text": "< If yes, how long have you had a cough?  1 week",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        275.9906005859375,
+        193.37181091308594,
+        308.2555847167969,
+        200.87181091308594
+      ],
+      "text": "1–3 weeks",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        275.99810791015625,
+        205.37181091308594,
+        326.2781066894531,
+        212.87181091308594
+      ],
+      "text": "3 weeks – 1 year",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        276.05059814453125,
+        215.605712890625,
+        301.5477294921875,
+        224.87181091308594
+      ],
+      "text": ">  1 year",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.06021118164062,
+        235.37171936035156,
+        334.6000671386719,
+        242.87171936035156
+      ],
+      "text": "Are you coughing up blood or blood-stained sputum? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        324.2427062988281,
+        247.37171936035156,
+        333.6326904296875,
+        254.87171936035156
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0677032470703,
+        265.3717346191406,
+        235.5552215576172,
+        272.8717346191406
+      ],
+      "text": "If yes, for how long? (in weeks)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.07521057128906,
+        283.3717346191406,
+        232.57020568847656,
+        290.8717346191406
+      ],
+      "text": "Have you had a fever? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.21270751953125,
+        295.3717346191406,
+        231.6027069091797,
+        302.8717346191406
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.08270263671875,
+        313.3717346191406,
+        235.5702362060547,
+        320.8717346191406
+      ],
+      "text": "If yes, for how long? (in weeks)",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0902099609375,
+        329.6056213378906,
+        362.9727478027344,
+        338.8717346191406
+      ],
+      "text": "≥ Have you had noticeable weight loss? ( 3 kg loss in a month) Yes",
+      "font": "LucidaGrande",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        352.6152038574219,
+        343.3717346191406,
+        362.00518798828125,
+        350.8717346191406
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.09019470214844,
+        361.3717346191406,
+        398.4252014160156,
+        368.8717346191406
+      ],
+      "text": "Have you been sweating at night for 3 or more weeks in the last 4 weeks? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        388.06768798828125,
+        373.3717346191406,
+        397.4576721191406,
+        380.8717346191406
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.1126708984375,
+        391.3717346191406,
+        408.0777282714844,
+        398.8717346191406
+      ],
+      "text": "Have you noticed any swelling and/or lumps on your neck, arm pits, or groin? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        397.7201843261719,
+        403.3717346191406,
+        407.11016845703125,
+        410.8717346191406
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.127685546875,
+        523.2294311523438,
+        186.1826934814453,
+        530.7294311523438
+      ],
+      "text": "Medical history",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.127685546875,
+        541.3717041015625,
+        321.8501281738281,
+        548.871826171875
+      ],
+      "text": "Have you ever been told before that you had TB? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        311.49261474609375,
+        553.371826171875,
+        320.8825988769531,
+        560.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.0751190185547,
+        571.371826171875,
+        277.922607421875,
+        578.871826171875
+      ],
+      "text": "Have you ever been tested for HIV? Yes",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        267.56512451171875,
+        583.371826171875,
+        276.9551086425781,
+        590.871826171875
+      ],
+      "text": "No",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.08262634277344,
+        601.371826171875,
+        291.7601318359375,
+        608.871826171875
+      ],
+      "text": "If yes, are you HIV-positive? Yes, HIV-positive",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.23760986328125,
+        613.371826171875,
+        293.455078125,
+        620.871826171875
+      ],
+      "text": "No, HIV-negative",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.2451171875,
+        625.371826171875,
+        304.0226745605469,
+        632.871826171875
+      ],
+      "text": "HIV result unknown",
+      "font": "TheSansSemiLight-Plain",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        226.1527099609375,
+        651.97265625,
+        233.0677032470703,
+        659.47265625
+      ],
+      "text": "61",
+      "font": "TheSansSemiBold-Plain",
+      "size": 7.5,
+      "type": "heading"
+    }
+  ]
+}

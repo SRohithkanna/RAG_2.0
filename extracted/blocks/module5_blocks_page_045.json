@@ -1,0 +1,510 @@
+{
+  "file": "module5",
+  "page": 45,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3838500976562,
+        81.83369445800781
+      ],
+      "text": "systems need to be functional to ensure that children who need to be tested using gastric samples",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        233.70245361328125,
+        95.03370666503906
+      ],
+      "text": "reach the appropriate level of care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        102.11862182617188,
+        527.2967529296875,
+        116.73762512207031
+      ],
+      "text": "Stool samples:  Stool sampling has the advantage of being non-invasive, with the collection generally",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 10.980833053588867,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.49463653564453,
+        527.4266357421875,
+        129.93763732910156
+      ],
+      "text": "perceived as easy and feasible by HCWs and caregivers, irrespective of the clinical condition of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.69459533691406,
+        527.414306640625,
+        143.13758850097656
+      ],
+      "text": "child. The possible drawback is that children may not be able to pass stool on command causing delay",
+      "font": "SegoeUI-Light",
+      "size": 10.966899871826172,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.4058227539062,
+        156.3376007080078
+      ],
+      "text": "in sample collection. Enhancing awareness and sensitizing caregivers on stool as a suitable sample",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        527.4223022460938,
+        169.53773498535156
+      ],
+      "text": "for TB testing is important, to enhance acceptability and implementation. Stool processing is also",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        168.29469299316406,
+        527.4002075195312,
+        182.73768615722656
+      ],
+      "text": "an acceptable procedure for laboratory technicians and regarded as a good alternative to sputum",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4947052001953,
+        527.4366455078125,
+        195.9376983642578
+      ],
+      "text": "samples. Relatively high rates of non-determinate Xpert Ultra results (including error, invalid, or no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.69471740722656,
+        527.3991088867188,
+        209.13771057128906
+      ],
+      "text": "results) were reported in the studies included in the systematic review. These rates varied from less",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        404.9273681640625,
+        222.3376007080078
+      ],
+      "text": "than 1% to 10% and may depend on the stool processing method used.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        229.42263793945312,
+        527.5193481445312,
+        244.04164123535156
+      ],
+      "text": "Stool processing methods : An analysis of preliminary results of a head-to-head comparison of",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.79859924316406,
+        527.4365234375,
+        257.2416076660156
+      ],
+      "text": "three centrifuge-free stool processing methods combined with Xpert Ultra was conducted to inform",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.20472717285156,
+        527.3763427734375,
+        270.4417419433594
+      ],
+      "text": ".  implementation considerations on the use of Xpert Ultra in stool samples The three processing",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.40460205078125,
+        527.4485473632812,
+        283.6416320800781
+      ],
+      "text": "(28) (29) methods were optimized sucrose flotation (OSF)  , simple one step stool (SOS)   and stool",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.6046142578125,
+        527.4346313476562,
+        296.8416442871094
+      ],
+      "text": "(25) processing kit (SPK)  . The results at the time of the GDG meeting showed a similar performance",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        527.4376220703125,
+        310.0416564941406
+      ],
+      "text": "of Xpert Ultra in combination with the three stool processing methods, in terms of sensitivity and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        308.798583984375,
+        527.525634765625,
+        323.2416076660156
+      ],
+      "text": "specificity. All methods were found to be easy to process by laboratory staff at the reference laboratory",
+      "font": "SegoeUI-Light",
+      "size": 10.956563949584961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.3858642578125,
+        336.4416198730469
+      ],
+      "text": "level and had a high ease-of-use score. However, most users considered that these methods cannot",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.3212890625,
+        349.6416320800781
+      ],
+      "text": "be performed by non-laboratory personnel (such as nurses or HCWs) in PHC settings without access",
+      "font": "SegoeUI-Light",
+      "size": 10.993947982788086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.5293579101562,
+        362.8416442871094
+      ],
+      "text": "to a laboratory. Overall, the SOS method appeared to be the preferred method as it does not require",
+      "font": "SegoeUI-Light",
+      "size": 10.990495681762695,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        527.3936767578125,
+        376.0416259765625
+      ],
+      "text": "additional equipment and is comparable to sputum processing using Xpert Ultra. The SPK is still at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.5090942382812,
+        389.24163818359375
+      ],
+      "text": "prototype stage but will not be commercialized; the optimized sucrose flotation is still under validation,",
+      "font": "SegoeUI-Light",
+      "size": 10.959224700927734,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.4356079101562,
+        402.4416198730469
+      ],
+      "text": "and its development into a kit format to simplify some of the steps is envisaged in the near future.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        527.4354858398438,
+        415.6416320800781
+      ],
+      "text": "Therefore, either of the available centrifuge-free stool processing methods may be used, depending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        296.027587890625,
+        428.8416442871094
+      ],
+      "text": "on local preference and laboratory infrastructure.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.9266052246094,
+        527.2750854492188,
+        450.5456237792969
+      ],
+      "text": "Xpert Ultra trace results:  Trace results are common with the use of Xpert Ultra in all paediatric",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.3025207519531,
+        527.3849487304688,
+        463.74554443359375
+      ],
+      "text": "specimen types, reflecting the paucibacillary nature of TB disease in children. For children as well as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.5025939941406,
+        527.385986328125,
+        476.94561767578125
+      ],
+      "text": "people living with HIV who are being evaluated for PTB, and for persons being evaluated for EPTB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.90850830078125,
+        527.2536010742188,
+        490.1455383300781
+      ],
+      "text": "M. tuberculosis the “  complex (MTBC) detected trace” Ultra result is considered as bacteriological",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.108642578125,
+        527.3081665039062,
+        503.34564208984375
+      ],
+      "text": "(30) confirmation of TB  . This is an important implementation consideration, in view of the risk of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.10260009765625,
+        527.0919189453125,
+        516.5455932617188
+      ],
+      "text": "morbidity and mortality in these populations. Trace results will have an indeterminate result for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        515.302490234375,
+        527.1460571289062,
+        529.7454833984375
+      ],
+      "text": "rifampicin resistance; therefore, alternative specimens may need to be collected for Xpert Ultra",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.5025634765625,
+        360.5148620605469,
+        542.945556640625
+      ],
+      "text": "processing in persons with a high likelihood of drug resistance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.2957763671875,
+        309.49169921875,
+        577.17578125
+      ],
+      "text": "4.1.4. Monitoring and evaluation",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        583.3796997070312,
+        527.2412719726562,
+        597.8226928710938
+      ],
+      "text": "Local monitoring of specimen collection by specimen type, diagnostic test, result and clinical diagnosis",
+      "font": "SegoeUI-Light",
+      "size": 10.967903137207031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.5797119140625,
+        527.5618286132812,
+        611.022705078125
+      ],
+      "text": "in a TB Laboratory Register (or equivalent) is recommended. Results should be recorded in a TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.7797241210938,
+        111.73329162597656,
+        624.2227172851562
+      ],
+      "text": "Register.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.483642578125,
+        527.3793334960938,
+        645.9266357421875
+      ],
+      "text": "Routine recording and reporting of child and adolescent notifications in five-year age brackets (i.e.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.68359375,
+        527.4156494140625,
+        659.1265869140625
+      ],
+      "text": "0–4, 5–9, 10–14, 15–19 years) is recommended by WHO for countries with case-based electronic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.8837280273438,
+        225.3666229248047,
+        672.3267211914062
+      ],
+      "text": "recording and reporting systems.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        325.393798828125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "4. Diagnostic approaches for TB in children and adolescents 21",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

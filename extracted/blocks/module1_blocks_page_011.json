@@ -1,0 +1,438 @@
+{
+  "file": "module1",
+  "page": 11,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.54802703857422,
+        219.73651123046875,
+        147.1480255126953
+      ],
+      "text": "Definitions",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.24110412597656,
+        527.4367065429688,
+        194.96009826660156
+      ],
+      "text": "Note:  The definitions listed below apply to the terms as used in these guidelines. They may have",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        193.7171173095703,
+        238.59548950195312,
+        208.1601104736328
+      ],
+      "text": "different meanings in other contexts.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.31109619140625,
+        527.40283203125,
+        229.8640899658203
+      ],
+      "text": "Active case finding (ACF):  is synonymous with systematic screening for tuberculosis (TB) disease,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.6210479736328,
+        318.65472412109375,
+        243.0640411376953
+      ],
+      "text": "although usually implemented outside a health facility.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.21502685546875,
+        268.701171875,
+        264.7680358886719
+      ],
+      "text": "Adolescent:  is a person aged 10–19 years.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.9189453125,
+        233.8590087890625,
+        286.4719543457031
+      ],
+      "text": "Adult:  is a person aged > 19 years.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        293.622802734375,
+        527.4075317382812,
+        308.1758117675781
+      ],
+      "text": "Bacteriologically confirmed TB:  refers to TB diagnosed in a biological specimen by smear",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.93292236328125,
+        527.4165649414062,
+        321.3759460449219
+      ],
+      "text": "microscopy, culture or a WHO-approved rapid diagnostic test such as Xpert  MTB/RIF or a urinary  ®",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        320.1329040527344,
+        189.0709228515625,
+        334.5759582519531
+      ],
+      "text": "assay. lipoarabinomannan",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.726806640625,
+        232.18850708007812,
+        356.2798156738281
+      ],
+      "text": "Child:  is a person aged < 10 years.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.43072509765625,
+        415.7967834472656,
+        377.9837341308594
+      ],
+      "text": "Contact:  is any person who has been exposed to a person with TB disease.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        385.1347351074219,
+        527.4349975585938,
+        399.687744140625
+      ],
+      "text": "Contact investigation:  refers to the systematic identification of previously undiagnosed TB disease",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.4447021484375,
+        527.3969116210938,
+        412.8877258300781
+      ],
+      "text": "and TB infection (TBI) among the contacts of an index person and/or in settings where transmission",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        411.64471435546875,
+        527.3959350585938,
+        426.0877380371094
+      ],
+      "text": "occurs. Includes clinical evaluation and/or testing and provision of appropriate anti-TB therapy (for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.8446960449219,
+        485.0867614746094,
+        439.2877502441406
+      ],
+      "text": "disease). people with confirmed TB) or TB preventive treatment (TPT) (for those without TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.4386291503906,
+        527.4318237304688,
+        460.99163818359375
+      ],
+      "text": "High TB transmission setting:  refers to a setting with a high frequency of individuals with undetected",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.959023475646973,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.74859619140625,
+        527.4473266601562,
+        474.1916198730469
+      ],
+      "text": "or undiagnosed TB disease, or where infectious TB patients are present and there is a high risk of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.9486083984375,
+        527.4380493164062,
+        487.3916320800781
+      ],
+      "text": "TB transmission. TB patients are most infectious when they are untreated or inadequately treated.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.14862060546875,
+        527.6190795898438,
+        500.5916442871094
+      ],
+      "text": "Transmission will be increased by aerosol-generating procedures and by the presence of highly",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        499.3486022949219,
+        174.63153076171875,
+        513.7916259765625
+      ],
+      "text": "individuals. susceptible",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.9425048828125,
+        527.4419555664062,
+        535.4954833984375
+      ],
+      "text": "Household contact:  is a person who shared the same enclosed living space as the index person",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        534.2525634765625,
+        527.4494018554688,
+        548.695556640625
+      ],
+      "text": "for one or more nights or for frequent or extended daytime periods during the 3 months before the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        547.4525146484375,
+        188.806884765625,
+        561.8955078125
+      ],
+      "text": "start of current treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        569.0465087890625,
+        527.3965454101562,
+        583.5994873046875
+      ],
+      "text": "Index person with TB:  is the initially identified person of any age with new or recurrent TB in a specific",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.960729598999023,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        582.3565063476562,
+        527.4387817382812,
+        596.7994995117188
+      ],
+      "text": "household or other comparable setting in which others may have been exposed. An index person is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        595.5565185546875,
+        457.548095703125,
+        609.99951171875
+      ],
+      "text": "the one on whom a contact investigation is centred but is not necessarily the source.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        617.150390625,
+        273.80657958984375,
+        631.703369140625
+      ],
+      "text": "Infant:  is a child aged < 1 year (12 months).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        638.8543090820312,
+        527.281982421875,
+        653.4072875976562
+      ],
+      "text": "People who use drugs:  are those who engage in harmful or hazardous use of psychoactive",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        652.1644287109375,
+        498.42388916015625,
+        666.607421875
+      ],
+      "text": "substances, which could negatively affect their health, social life, resources and legal situation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        673.75830078125,
+        527.4292602539062,
+        688.311279296875
+      ],
+      "text": "Programmatic management of TB preventive treatment (PMTPT):  refers to all coordinated",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        687.0682983398438,
+        527.39892578125,
+        701.5112915039062
+      ],
+      "text": "activities by public and private health caregivers and the community for providing TPT to people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        700.268310546875,
+        127.5137939453125,
+        714.7113037109375
+      ],
+      "text": "who need it.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        720.6962280273438,
+        527.419677734375,
+        736.4152221679688
+      ],
+      "text": "M. tuberculosis  Skin test:  refers to the intradermal inoculation of either tuberculin (TST) or  antigen",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        735.1721801757812,
+        265.8644714355469,
+        749.6151733398438
+      ],
+      "text": "(TBST) to elicit a response indicative of TBI.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        547.4174194335938,
+        801.0170288085938,
+        552.4254150390625,
+        811.52099609375
+      ],
+      "text": "ix",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

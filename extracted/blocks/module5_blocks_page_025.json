@@ -1,0 +1,522 @@
+{
+  "file": "module5",
+  "page": 25,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        283.6916809082031,
+        147.5496368408203
+      ],
+      "text": "1. Introduction",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.64593505859375,
+        214.00453186035156,
+        212.44093322753906
+      ],
+      "text": "1.1. Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.8917999267578,
+        527.3848266601562,
+        232.3347930908203
+      ],
+      "text": "Children and young adolescents (aged below 15 years) represent about 11% of all people with TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        231.09193420410156,
+        527.5413208007812,
+        245.53492736816406
+      ],
+      "text": "globally. This means that close to 1.1 million children become ill with TB every year, almost half of them",
+      "font": "SegoeUI-Light",
+      "size": 10.9653959274292,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.2919464111328,
+        527.4401245117188,
+        258.7349548339844
+      ],
+      "text": "below five years of age. National TB programmes (NTPs) only notify less than half of these children,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        254.6978302001953,
+        527.4116821289062,
+        271.9348449707031
+      ],
+      "text": "(1) meaning that there is a large case detection gap  . The reasons for this gap include challenges with",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.69183349609375,
+        527.3217163085938,
+        285.1348571777344
+      ],
+      "text": "specimen collection and bacteriological confirmation of TB in young children, due to the paucibacillary",
+      "font": "SegoeUI-Light",
+      "size": 10.960829734802246,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.0977783203125,
+        527.4009399414062,
+        298.3348083496094
+      ],
+      "text": "(10) nature of TB disease in this age group and the lack of highly sensitive point-of-care tests  . In 2020,",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.996048927307129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.0919189453125,
+        527.236572265625,
+        311.5349426269531
+      ],
+      "text": "the COVID-19 pandemic had an additional negative impact on TB notifications in children, with a 24%",
+      "font": "SegoeUI-Light",
+      "size": 10.974570274353027,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.29193115234375,
+        527.3937377929688,
+        324.7349548339844
+      ],
+      "text": "decrease in notifications compared to 2019 (in comparison, notifications in people aged 15 years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.4917907714844,
+        527.38037109375,
+        337.934814453125
+      ],
+      "text": "and above decreased by 18%). In addition to the case detection gap, only one third of child contacts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        333.8978271484375,
+        524.4054565429688,
+        351.13482666015625
+      ],
+      "text": "(1). below five years of age eligible for TB preventive treatment (TPT) actually received it in 2020",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.8918151855469,
+        527.406982421875,
+        364.3348388671875
+      ],
+      "text": "Young children are at higher risk of developing TB disease, including severe forms of TB, than older",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.091796875,
+        527.4475708007812,
+        377.5348205566406
+      ],
+      "text": "age groups, after TB infection, and the majority do so within a few months following exposure and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.497802734375,
+        527.4470825195312,
+        390.7348327636719
+      ],
+      "text": "(2, 3) infection  . In addition to children and young adolescents, over half a million older adolescents",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.69781494140625,
+        332.7104797363281,
+        403.934814453125
+      ],
+      "text": "(4) (15–19 years) are estimated to develop TB every year  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.40179443359375,
+        527.4229125976562,
+        425.6388244628906
+      ],
+      "text": "(5) The United Nations Sustainable Development Goal (SDGs)   and the World Health Organization",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.601806640625,
+        527.4442138671875,
+        438.8388366699219
+      ],
+      "text": "End TB Strategy (6) (WHO)   include targets to reduce TB incidence by 80% and TB deaths by 90%",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.5957946777344,
+        527.3680419921875,
+        452.038818359375
+      ],
+      "text": "to be achieved by the year 2030, relative to baseline levels in 2015. In addition, the Resolution",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.7958068847656,
+        527.421142578125,
+        465.23883056640625
+      ],
+      "text": "adopted by the United Nations General Assembly (UNGA) at the High-Level Meeting on the fight",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.9958190917969,
+        527.4112548828125,
+        478.4388427734375
+      ],
+      "text": "against tuberculosis in September 2018 commits to diagnosing and treating 40 million people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.19580078125,
+        527.3804321289062,
+        491.6388244628906
+      ],
+      "text": "TB (including 3.5 million children), and 1.5 million people with DR-TB (including 115 000 children) by",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.39581298828125,
+        527.3827514648438,
+        504.8388366699219
+      ],
+      "text": "2022. It also commits to providing at least 30 million people (including 4 million child contacts under",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.5958251953125,
+        527.4420166015625,
+        518.038818359375
+      ],
+      "text": "five years of age), 20 million other household contacts (including children over the age of five years)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.0017700195312,
+        422.24658203125,
+        531.23876953125
+      ],
+      "text": "(7) and 6 million people living with HIV (including children) with TPT by 2022  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.4996948242188,
+        527.4179077148438,
+        552.9426879882812
+      ],
+      "text": "To support countries in preventing and managing TB in children and adolescents, WHO’s Global",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.9057006835938,
+        527.5057983398438,
+        566.1427001953125
+      ],
+      "text": "WHO Guidance for national tuberculosis programmes on  Tuberculosis Programme published the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.105712890625,
+        527.4203491210938,
+        579.3427124023438
+      ],
+      "text": "the management of tuberculosis in children (second edition)  in 2014. Since these guidelines were",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.0997314453125,
+        527.4298706054688,
+        592.542724609375
+      ],
+      "text": "published, new recommendations and guidance on the management of TB have been published",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.2996826171875,
+        527.4223022460938,
+        605.74267578125
+      ],
+      "text": "in WHO guidelines and other policy documents on TB prevention, screening, diagnosis, treatment,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.4996948242188,
+        527.275390625,
+        618.9426879882812
+      ],
+      "text": "management and models of care. Many of these recommendations are also applicable to children and",
+      "font": "SegoeUI-Light",
+      "size": 10.961281776428223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        617.69970703125,
+        527.3848266601562,
+        632.1427001953125
+      ],
+      "text": "adolescents. In addition, new evidence related to the management of TB in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        630.8997192382812,
+        527.4896240234375,
+        645.3427124023438
+      ],
+      "text": "became available to WHO in 2021. Some of these data were received in response to a specific request",
+      "font": "SegoeUI-Light",
+      "size": 10.972665786743164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.0997314453125,
+        527.3839721679688,
+        658.542724609375
+      ],
+      "text": "from WHO for data on the management of TB in children and adolescents, issued as an Expression",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        657.2996826171875,
+        527.4398193359375,
+        671.74267578125
+      ],
+      "text": "of Interest in July 2020,  which was developed in consultation with the core team of the Child and  17",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.4996948242188,
+        527.3984375,
+        684.9426879882812
+      ],
+      "text": "Adolescent TB Working group.  Data from a randomized controlled trial on treatment shortening  18",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.69970703125,
+        527.380615234375,
+        698.1427001953125
+      ],
+      "text": "for children with non-severe TB were made available to the WHO in 2021. Therefore, in 2021, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.8997192382812,
+        527.4675903320312,
+        711.3427124023438
+      ],
+      "text": "WHO convened a Guideline Development Group (GDG) to review new evidence on the management",
+      "font": "SegoeUI-Light",
+      "size": 10.979931831359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        710.0997314453125,
+        527.3958740234375,
+        724.542724609375
+      ],
+      "text": "of TB in children and adolescents. This guideline update includes new recommendations that were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        737.43701171875,
+        524.4043579101562,
+        751.1409912109375
+      ],
+      "text": "WHO public call for data on the management of TB in children and adolescents. 24 July 2020. WHO [website] (https://www.who.int/ 17",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        750.2369995117188,
+        524.4002685546875,
+        760.740966796875
+      ],
+      "text": "news-room/articles-detail/who-public-call-for-data-on-the-management-of-tb-in-children-and-adolescents, accessed 20 January 2022).",
+      "font": "SegoeUI-Light",
+      "size": 7.9711480140686035,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.4718017578125,
+        507.87005615234375,
+        773.17578125
+      ],
+      "text": "Child and Adolescent TB Working Group (https://www.stoptb.org/wg/dots_expansion/childhoodtb/, accessed 20 January 2022).  18",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        475.78839111328125,
+        801.0170288085938,
+        551.980712890625,
+        811.52099609375
+      ],
+      "text": "1. Introduction  1",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

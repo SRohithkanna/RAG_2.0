@@ -1,0 +1,786 @@
+{
+  "file": "module4",
+  "page": 119,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        180.58929443359375,
+        82.6147232055664
+      ],
+      "text": "Decision thresholds",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.4124145507812,
+        104.26564025878906
+      ],
+      "text": "In contrast to previous recommendations, a new method of determining the magnitude of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.433349609375,
+        117.46559143066406
+      ],
+      "text": "health effects was used. A triangulation approach was used to develop outcome-specific decision",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.432373046875,
+        130.6657257080078
+      ],
+      "text": "thresholds (DTs) for judging the magnitude of the effects for the following health outcomes: death,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.2254028320312,
+        143.86573791503906
+      ],
+      "text": "sustained treatment success, treatment failure or recurrence, LTFU, AEs and amplification of drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.132568359375,
+        157.06568908691406
+      ],
+      "text": "resistance. These outcomes were deemed critical or important for decision-making based on a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        527.3883666992188,
+        170.2657012939453
+      ],
+      "text": "prioritization survey of the GDG members using the GRADE approach. The survey included health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        169.02272033691406,
+        527.5746459960938,
+        183.46571350097656
+      ],
+      "text": "outcome descriptors that had previously been developed for each of the health outcomes to facilitate",
+      "font": "SegoeUI-Light",
+      "size": 10.977978706359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.2227325439453,
+        450.5840148925781,
+        196.6657257080078
+      ],
+      "text": "understanding of the outcomes by the GDG during their decision-making process.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.92665100097656,
+        527.5532836914062,
+        218.36964416503906
+      ],
+      "text": "The GDG first reviewed judgements about the magnitude of health effects made by other GDGs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.85060119628906,
+        527.4282836914062,
+        231.56959533691406
+      ],
+      "text": "(3, 14) for previous WHO MDR-TB guidelines   to determine approximate ranges of effect sizes that",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        230.3267364501953,
+        527.3980712890625,
+        244.7697296142578
+      ],
+      "text": "the group considered to be trivial, small, moderate or large. Members then identified a systematic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.52662658691406,
+        527.3815307617188,
+        257.9696350097656
+      ],
+      "text": "review to help inform suggested health utility values for the health state of having DR-TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.45069885253906,
+        527.4266967773438,
+        271.1697082519531
+      ],
+      "text": "(46) and treatment success (about 0.5) and treatment success (about 0.9)  . For the other outcomes",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.9266357421875,
+        527.3848876953125,
+        284.3696594238281
+      ],
+      "text": "(treatment failure, LTFU, amplification of drug resistance and AEs), a health utility value of 0.5 was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.1265869140625,
+        527.43212890625,
+        297.5696105957031
+      ],
+      "text": "used, considering that these would be similar health states to having DR-TB disease, and to align",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.32672119140625,
+        325.6690673828125,
+        310.7697448730469
+      ],
+      "text": "with previous judgements made in other TB guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.75457763671875,
+        527.4275512695312,
+        332.4736022949219
+      ],
+      "text": "(47) Second, the group used the empirical evidence from the GRADE THRESHOLD trial   to calculate",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.2305908203125,
+        527.0582275390625,
+        345.6736145019531
+      ],
+      "text": "suggested utility-adjusted absolute effect thresholds for the health outcomes. The calculated thresholds",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.15460205078125,
+        166.00331115722656,
+        358.8736267089844
+      ],
+      "text": "(48) were as follows  :",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        366.1344909667969,
+        78.23609924316406,
+        380.5775146484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        366.1344909667969,
+        187.4101104736328,
+        380.5775146484375
+      ],
+      "text": "death (health utility: 0):",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        379.3345031738281,
+        90.79509735107422,
+        393.77752685546875
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        379.3345031738281,
+        385.2774353027344,
+        393.77752685546875
+      ],
+      "text": "trivial or no effect: ≤14 fewer or more deaths per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        392.5345153808594,
+        90.79509735107422,
+        406.9775390625
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        392.5345153808594,
+        369.26141357421875,
+        406.9775390625
+      ],
+      "text": "small effect: 15–32 fewer or more deaths per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        405.7344970703125,
+        90.79509735107422,
+        420.1775207519531
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        405.7344970703125,
+        390.81591796875,
+        420.1775207519531
+      ],
+      "text": "moderate effect: 33–63 fewer or more deaths per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        418.93450927734375,
+        90.79509735107422,
+        433.3775329589844
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        418.93450927734375,
+        356.1230163574219,
+        433.3775329589844
+      ],
+      "text": "large effect: ≥64 fewer or more deaths per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.1344909667969,
+        78.23609924316406,
+        446.5775146484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        432.1344909667969,
+        296.9217224121094,
+        446.5775146484375
+      ],
+      "text": "sustained treatment success (health utility: 0.9):",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        445.3345031738281,
+        90.79509735107422,
+        459.77752685546875
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        445.3345031738281,
+        449.2501525878906,
+        459.77752685546875
+      ],
+      "text": "trivial or no effect: ≤15 fewer or more treatment successes per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        458.5345153808594,
+        90.79509735107422,
+        472.9775390625
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        458.5345153808594,
+        430.2201232910156,
+        472.9775390625
+      ],
+      "text": "small effect: 16–35 fewer or more treatment successes per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        471.7344970703125,
+        90.79509735107422,
+        486.1775207519531
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        471.7344970703125,
+        451.7746276855469,
+        486.1775207519531
+      ],
+      "text": "moderate effect: 36–68 fewer or more treatment successes per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        484.93450927734375,
+        90.79509735107422,
+        499.3775329589844
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        484.93450927734375,
+        417.08172607421875,
+        499.3775329589844
+      ],
+      "text": "large effect: ≥69 fewer or more treatment successes per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.1344909667969,
+        78.23609924316406,
+        512.5775146484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        498.1344909667969,
+        527.3850708007812,
+        512.5775146484375
+      ],
+      "text": "treatment failure or recurrence, LTFU, AEs and amplification (acquisition) of drug resistance (all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        511.33447265625,
+        185.5401153564453,
+        525.7774658203125
+      ],
+      "text": "with health utility 0.5):",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        524.5345458984375,
+        90.79509735107422,
+        538.9775390625
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        524.5345458984375,
+        455.5597839355469,
+        538.9775390625
+      ],
+      "text": "trivial or no effect: ≤30 fewer or more failures or recurrences per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        537.7344970703125,
+        90.79509735107422,
+        552.177490234375
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        537.7344970703125,
+        436.5297546386719,
+        552.177490234375
+      ],
+      "text": "small effect: 31–59 fewer or more failures or recurrences per 1000 people;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        550.9345092773438,
+        90.79509735107422,
+        565.3775024414062
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        550.9345092773438,
+        487.25738525390625,
+        565.3775024414062
+      ],
+      "text": "moderate effect: 60–119 fewer or more failures or recurrences per 1000 people; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.86609649658203,
+        564.134521484375,
+        90.79509735107422,
+        578.5775146484375
+      ],
+      "text": "‒",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        90.79509735107422,
+        564.134521484375,
+        432.07257080078125,
+        578.5775146484375
+      ],
+      "text": "large effect: ≥120 fewer or more failures or recurrences per 1000 people.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.83837890625,
+        527.3255615234375,
+        600.2813720703125
+      ],
+      "text": "These suggested thresholds (assumed to occur over the duration of follow-up in the trials) were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.7623901367188,
+        525.9041137695312,
+        613.4813842773438
+      ],
+      "text": "(3) generally consistent with judgements that were made in the previous WHO MDR-TB guidelines  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.742431640625,
+        527.3176879882812,
+        635.1854248046875
+      ],
+      "text": "Third, in preparation for the GDG meeting at which recommendations would be formulated, an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.9423828125,
+        527.4334106445312,
+        648.3853759765625
+      ],
+      "text": "online survey was administered to the group to obtain their feedback on the suggested DTs. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.1423950195312,
+        527.4070434570312,
+        661.5853881835938
+      ],
+      "text": "survey asked members to agree with the suggested thresholds, or to disagree and suggest alternative",
+      "font": "SegoeUI-Light",
+      "size": 10.973518371582031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.3424072265625,
+        527.4605712890625,
+        674.785400390625
+      ],
+      "text": "thresholds based on their expert experience. The agreed-upon thresholds were again reviewed at the",
+      "font": "SegoeUI-Light",
+      "size": 10.97983169555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.5424194335938,
+        527.591064453125,
+        687.9854125976562
+      ],
+      "text": "start of the GDG meeting, and the group decided to use those thresholds to inform their judgements",
+      "font": "SegoeUI-Light",
+      "size": 10.99239730834961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        686.742431640625,
+        527.3241577148438,
+        701.1854248046875
+      ],
+      "text": "about the magnitude of health effects in the GRADE EtD frameworks. Figures were created to visually",
+      "font": "SegoeUI-Light",
+      "size": 10.9941987991333,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        699.9423828125,
+        527.439697265625,
+        714.3853759765625
+      ],
+      "text": "depict absolute effects and 95% CIs from the research evidence of the relevant trial in relation to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.1423950195312,
+        527.4398803710938,
+        727.5853881835938
+      ],
+      "text": "DTs for each health outcome, to facilitate the GDG’s discussion and judgements about whether the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.3424072265625,
+        527.6564331054688,
+        740.785400390625
+      ],
+      "text": "health effects were trivial, small, moderate or large, and to judge the level of imprecision of estimates",
+      "font": "SegoeUI-Light",
+      "size": 10.99804973602295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        739.5424194335938,
+        527.3948364257812,
+        753.9854125976562
+      ],
+      "text": "(Fig. A1.3). The same thresholds were used to inform the group’s judgements about imprecision, in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        751.4664306640625,
+        307.53607177734375,
+        767.1854248046875
+      ],
+      "text": "(49) line with GRADE guidance for decision-making  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  105",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

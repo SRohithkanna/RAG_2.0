@@ -1,0 +1,46 @@
+{
+  "file": "module1",
+  "page": 136,
+  "table_id": 1,
+  "bbox": [
+    56.69298095703125,
+    71.11676025390625,
+    784.197021484375,
+    443.31597900390625
+  ],
+  "heading": null,
+  "n_rows": 5,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "Research evidence",
+      "Additional considerations"
+    ],
+    [
+      "Cost e f fectiveness",
+      "Does the cost– Cost–effectiveness could vary effectiveness of the test by region and health system favour the intervention or infrastructure. the comparison? • Favours the comparison • Favours neither the intervention nor the comparison • Favours the intervention • Varies • No included studies",
+      "",
+      ""
+    ],
+    [
+      "Equity",
+      "What would be the Impact on health equity depends impact on health equity? on the setting (e.g. availability of • Reduced CXR: could increase or decrease • Increased equity). • Varies • Don’t know",
+      "",
+      ""
+    ],
+    [
+      "Acceptability",
+      "Is the test acceptable to Depends on availability of key stakeholders? resources and infrastructure • No (e.g. electricity, radiologists). • Yes • Varies • Don’t know",
+      "",
+      ""
+    ],
+    [
+      "Feasibility",
+      "Is the test feasible to Varies significantly, mainly implement? by setting, health system • No infrastructure and workload of • Yes HIV clinics. • Varies • Don’t know",
+      "",
+      ""
+    ]
+  ]
+}

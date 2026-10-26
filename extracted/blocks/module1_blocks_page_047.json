@@ -1,0 +1,630 @@
+{
+  "file": "module1",
+  "page": 47,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.4298706054688,
+        81.83369445800781
+      ],
+      "text": "Contraindication : Levofloxacin should not be given to people who are allergic to fluoroquinolone,",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4342651367188,
+        95.03370666503906
+      ],
+      "text": "who have another contraindication to the same class of drugs or when there is potential drug–drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.3955688476562,
+        108.23371887207031
+      ],
+      "text": "interaction. Levofloxacin should be discontinued if the person develops a serious or severe adverse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        402.2415771484375,
+        121.43373107910156
+      ],
+      "text": "drug reaction. (See below for other TPT regimen options in such a case.)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        131.8573455810547,
+        269.74224853515625,
+        150.12734985351562
+      ],
+      "text": "Implementation considerations",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        156.8332061767578,
+        527.438720703125,
+        171.2761993408203
+      ],
+      "text": "The strong recommendation reflects the GDG opinion that the benefits of levofloxacin outweigh the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.03321838378906,
+        527.3677978515625,
+        184.47621154785156
+      ],
+      "text": "potential harm in most people who are eligible to receive it. Health programmes and clinicians should",
+      "font": "SegoeUI-Light",
+      "size": 10.980382919311523,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.2332305908203,
+        527.4328002929688,
+        197.6762237548828
+      ],
+      "text": "strictly ensure eligibility for its use, maximize the likelihood of treatment completion as expected and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.43324279785156,
+        527.4457397460938,
+        210.87623596191406
+      ],
+      "text": "ensure that contacts are followed up regardless of whether TPT was completed. Contacts of people",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.6332550048828,
+        527.4228515625,
+        224.0762481689453
+      ],
+      "text": "with RR-TB are usually treated as for MDR-TB, unless susceptibility to isoniazid is reliably confirmed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.83314514160156,
+        469.54718017578125,
+        237.27613830566406
+      ],
+      "text": "in the index person, in which case isoniazid may be considered an effective TPT option.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        244.53712463378906,
+        527.497314453125,
+        258.9801330566406
+      ],
+      "text": "The GDG considered that levofloxacin could be used in any setting, regardless of TB burden, provided",
+      "font": "SegoeUI-Light",
+      "size": 10.979480743408203,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        257.73712158203125,
+        527.4411010742188,
+        272.1801452636719
+      ],
+      "text": "that the health infrastructure can ensure that treatment is given correctly without creating inequity,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.9371337890625,
+        527.4024658203125,
+        285.3801574707031
+      ],
+      "text": "and that TB disease can be excluded reliably before initiation of treatment. Levofloxacin is widely",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.13714599609375,
+        527.40576171875,
+        298.5801696777344
+      ],
+      "text": "available as a generic drug, in both adult and paediatric formulations. As for other TPT, the GDG",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.337158203125,
+        527.399169921875,
+        311.7801818847656
+      ],
+      "text": "noted that treatment can be self-administered and that a requirement for direct observation could",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.537109375,
+        527.6233520507812,
+        324.9801330566406
+      ],
+      "text": "be a significant barrier to implementation. Digital adherence technologies (e.g. electronic medication",
+      "font": "SegoeUI-Light",
+      "size": 10.992047309875488,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.7370910644531,
+        527.385986328125,
+        338.18011474609375
+      ],
+      "text": "monitors) may be used, but few studies have been conducted on their use for TPT. The GDG noted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.9371032714844,
+        527.6092529296875,
+        351.380126953125
+      ],
+      "text": "that the 6-month duration of levofloxacin treatment may appear long to patients and caregivers",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        350.1371154785156,
+        527.4447631835938,
+        364.58013916015625
+      ],
+      "text": "when compared with the shorter, 4- or 12-week TPT regimens that are now available for prevention",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.3371276855469,
+        527.4210815429688,
+        377.7801513671875
+      ],
+      "text": "of drug-susceptible TB. People receiving TPT should also be provided with advice on treatment and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.537109375,
+        217.72499084472656,
+        390.98016357421875
+      ],
+      "text": "events. management of adverse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        398.2409973144531,
+        527.0844116210938,
+        412.68402099609375
+      ],
+      "text": "Levofloxacin is the preferred fluoroquinolone for use in TPT, and it was used in both trials. Instructions",
+      "font": "SegoeUI-Light",
+      "size": 10.98924446105957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        410.1650085449219,
+        527.3126220703125,
+        425.884033203125
+      ],
+      "text": "(12) on dosage are provided in the WHO operational handbook on TPT  . While there are no comparable",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.6409912109375,
+        527.4368286132812,
+        439.0840148925781
+      ],
+      "text": "data on alternatives, moxifloxacin can be used if levofloxacin is not available. Drug-susceptibility testing",
+      "font": "SegoeUI-Light",
+      "size": 10.959525108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.84100341796875,
+        527.4364013671875,
+        452.2840270996094
+      ],
+      "text": "of the source case strain would provide important additional information, especially in situations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        451.041015625,
+        527.4078979492188,
+        465.4840393066406
+      ],
+      "text": "where fluoroquinolone resistance is known to be high. If the strain in the source patient is resistant to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.2409973144531,
+        527.4462280273438,
+        478.68402099609375
+      ],
+      "text": "these medicines, other TB drugs (e.g. ethionamide, ethambutol) can be used as TPT according to the",
+      "font": "SegoeUI-Light",
+      "size": 10.993047714233398,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.4410095214844,
+        527.4366455078125,
+        491.884033203125
+      ],
+      "text": "best available information on the drug susceptibility profile of the presumed strain. In this case, the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.6410217285156,
+        527.4418334960938,
+        505.08404541015625
+      ],
+      "text": "certainty of the effectiveness of TPT is much lower than with levofloxacin (see also below). A positive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        503.841064453125,
+        527.2272338867188,
+        518.2840576171875
+      ],
+      "text": "test for TBI before starting TPT for MDR/RR-TB is not required for child contacts or people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        517.041015625,
+        527.39697265625,
+        531.4840087890625
+      ],
+      "text": "immunocompromising conditions. In other populations, this would be desirable but not mandatory.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        530.2410888671875,
+        527.4276733398438,
+        544.68408203125
+      ],
+      "text": "Lack of availability of testing should not be a barrier to providing TPT to individuals who are at risk.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.4410400390625,
+        527.4075927734375,
+        557.884033203125
+      ],
+      "text": "Screening of all household and other close contacts for co-prevalent TB disease will be important.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.6409912109375,
+        527.568115234375,
+        571.083984375
+      ],
+      "text": "The approach to screening and ruling out TB in contacts is otherwise no different from that described",
+      "font": "SegoeUI-Light",
+      "size": 10.985440254211426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.8410034179688,
+        121.56497192382812,
+        584.2839965820312
+      ],
+      "text": "earlier (see",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        125.47470092773438,
+        569.8410034179688,
+        175.4299774169922,
+        584.2839965820312
+      ],
+      "text": "section 1.2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        175.435302734375,
+        569.8410034179688,
+        527.4343872070312,
+        584.2839965820312
+      ],
+      "text": "). Provision of TPT with levofloxacin should include consideration of factors",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86622619628906,
+        583.041015625,
+        527.3937377929688,
+        597.4840087890625
+      ],
+      "text": "such as age, risk of toxicity or interaction, co-morbidity, the susceptibility to drugs of the strain of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        596.2410278320312,
+        527.6151123046875,
+        610.6840209960938
+      ],
+      "text": "most likely source case, background resistance to fluoroquinolones in MDR/RR-TB strains, availability",
+      "font": "SegoeUI-Light",
+      "size": 10.997949600219727,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        609.4410400390625,
+        217.0120849609375,
+        623.884033203125
+      ],
+      "text": "and the individual’s preferences.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        631.14501953125,
+        527.2806396484375,
+        645.5880126953125
+      ],
+      "text": "The capacity of a programme to provide TPT for MDR/RR-TB should be carefully planned to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        644.344970703125,
+        527.33642578125,
+        658.7879638671875
+      ],
+      "text": "ensure that all the necessary resources are in place, including programme capacity to rule out",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        657.5449829101562,
+        527.5267944335938,
+        671.9879760742188
+      ],
+      "text": "TB disease, perform quality-assured testing for drug susceptibility in the presumed source case,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        670.744873046875,
+        527.5515747070312,
+        685.1878662109375
+      ],
+      "text": "deliver the necessary medications and closely monitor adverse events and emergence of TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 10.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.9448852539062,
+        527.51611328125,
+        698.3878784179688
+      ],
+      "text": "Engagement of stakeholders in the community is important, as for other means to address constraints",
+      "font": "SegoeUI-Light",
+      "size": 10.971112251281738,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.14501953125,
+        157.7863006591797,
+        711.5880126953125
+      ],
+      "text": "to implementation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        718.848876953125,
+        527.2630004882812,
+        733.2918701171875
+      ],
+      "text": "A paediatric formulation of levofloxacin can be used. Instructions on dosage are provided in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86605834960938,
+        730.7728881835938,
+        527.4312744140625,
+        746.4918823242188
+      ],
+      "text": "(12) WHO operational handbook on TPT  . If fluoroquinolones cannot be used because of intolerance",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.2489013671875,
+        527.4078369140625,
+        759.69189453125
+      ],
+      "text": "or resistance in the strain from the presumed source case, treatment with the other TB drugs used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.4489135742188,
+        527.3925170898438,
+        772.8919067382812
+      ],
+      "text": "in some studies may be considered (e.g. ethambutol, ethionamide), although the evidence for their",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        454.0071105957031,
+        801.0170288085938,
+        554.0402221679688,
+        811.52099609375
+      ],
+      "text": "1. Recommendations 29",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

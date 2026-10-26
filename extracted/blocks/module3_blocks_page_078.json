@@ -1,0 +1,414 @@
+{
+  "file": "module3",
+  "page": 78,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        246.438720703125,
+        85.31422424316406
+      ],
+      "text": "Cost–effectiveness analysis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        95.56519317626953,
+        527.0250854492188,
+        108.71018981933594
+      ],
+      "text": "As part of the preparatory process for the GDG meeting in May 2024, WHO commissioned a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        111.06519317626953,
+        526.798583984375,
+        124.21018981933594
+      ],
+      "text": "modelled study to assess the cost–effectiveness of using LC-aNAATs (including Xpert Ultra,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        126.56519317626953,
+        526.9232177734375,
+        139.71018981933594
+      ],
+      "text": "Truenat and other novel LC-aNAATs in the development pipeline) for the detection of TB when",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.976574897766113,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.065185546875,
+        527.0428466796875,
+        155.21018981933594
+      ],
+      "text": "used concurrently among people living with HIV and children, including children with HIV,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.565185546875,
+        394.1846618652344,
+        170.71018981933594
+      ],
+      "text": "across two different country settings (Malawi and the Philippines).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.569091796875,
+        526.6917114257812,
+        194.71409606933594
+      ],
+      "text": "A study objective was to assess the cost–effectiveness of concurrent use of LC-aNAATs on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.069091796875,
+        527.2453002929688,
+        210.21409606933594
+      ],
+      "text": "respiratory and stool samples for TB diagnosis and rifampicin-resistance detection among",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.569091796875,
+        526.9149169921875,
+        225.71409606933594
+      ],
+      "text": "children (aged <10 years) with presumptive TB and without HIV infection, compared with a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.069091796875,
+        302.43487548828125,
+        241.21409606933594
+      ],
+      "text": "single LC-aNAAT on a respiratory sample alone.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.0731201171875,
+        527.1790771484375,
+        265.2181396484375
+      ],
+      "text": "In this hypothetical model, a cohort of children with presumptive TB progressed through a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.5731201171875,
+        526.98095703125,
+        280.7181396484375
+      ],
+      "text": "decision analytical framework. In the intervention arm, TB diagnosis involved the concurrent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.0731201171875,
+        526.9801635742188,
+        296.2181396484375
+      ],
+      "text": "use of LC-aNAATs on both respiratory and stool samples, whereas the comparator arm solely",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        298.5731201171875,
+        527.14306640625,
+        311.7181396484375
+      ],
+      "text": "used LC-aNAATs on respiratory specimens. The probability of being able to provide a respiratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951493263244629,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.0731201171875,
+        527.1898803710938,
+        327.2181396484375
+      ],
+      "text": "sample was considered, and testing was conducted, either for both respiratory and stool samples",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        329.5731201171875,
+        526.9677734375,
+        342.7181396484375
+      ],
+      "text": "concurrently or solely for stool. In both the intervention and comparator arms, participants not",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.984088897705078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.0731201171875,
+        527.0571899414062,
+        358.2181396484375
+      ],
+      "text": "diagnosed through the diagnostic strategy had the opportunity for clinical diagnosis. Children",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.991246223449707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        360.5731201171875,
+        524.3433227539062,
+        373.7181396484375
+      ],
+      "text": "with bacteriologically confirmed TB underwent DST for rifampicin and began either drug-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.0731201171875,
+        527.2477416992188,
+        389.2181396484375
+      ],
+      "text": "susceptible TB or DR-TB treatment, depending on the DST result. All individuals were followed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.997650146484375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.5731201171875,
+        526.9701538085938,
+        404.7181396484375
+      ],
+      "text": "over time, including those with false negative or false positive diagnostic results, to account",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        407.0731201171875,
+        438.5137023925781,
+        420.2181396484375
+      ],
+      "text": "for unnecessary treatment or additional mortality due to missed diagnoses.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.0769958496094,
+        526.581298828125,
+        444.2220153808594
+      ],
+      "text": "When using the high TB burden setting of Malawi to parametrize the model, cost–effectiveness",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964191436767578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.5769958496094,
+        526.9590454101562,
+        459.7220153808594
+      ],
+      "text": "modelling found that the use of an LC-aNAAT on a respiratory sample resulted in an average",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        462.0769958496094,
+        526.6310424804688,
+        475.2220153808594
+      ],
+      "text": "cost of US$ 144, with a corresponding average DALY of 0.93. In contrast, the concurrent use of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987592697143555,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        477.5769958496094,
+        526.9645385742188,
+        490.7220153808594
+      ],
+      "text": "LC-aNAATs on respiratory and stool samples yielded an average cost of US$ 204, and a DALY",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.0769958496094,
+        526.9591674804688,
+        506.2220153808594
+      ],
+      "text": "of 0.57, resulting in an incremental cost per DALY averted of US$ 253 (95% UR: 123–2317)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        508.5770263671875,
+        146.68820190429688,
+        521.7220458984375
+      ],
+      "text": "( ). Table 2.3.2.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.5810546875,
+        526.9590454101562,
+        545.72607421875
+      ],
+      "text": "Similarly, in the Philippines, the cost of an LC-aNAAT on a respiratory sample was US$ 84,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.0810546875,
+        526.875,
+        561.22607421875
+      ],
+      "text": "associated with a DALY of 1.04. Concurrent testing in the Philippines resulted in an average cost",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.956765174865723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.5810546875,
+        526.9656982421875,
+        576.72607421875
+      ],
+      "text": "of US$ 149 and a DALY of 0.66, with an ICER of US$ 156 per DALY averted (95% UR: 79–888)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.0809936523438,
+        146.68820190429688,
+        592.2260131835938
+      ],
+      "text": "( ). Table 2.3.2.1",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "62 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "file": "module3",
+  "page": 7,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        110.85870361328125,
+        351.595703125,
+        149.09869384765625
+      ],
+      "text": "Acknowledgements",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.09881591796875,
+        526.9698486328125,
+        199.2438201904297
+      ],
+      "text": "The recommendations and remarks in this policy guideline on tuberculosis (TB) are the result",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        201.59881591796875,
+        527.1428833007812,
+        214.7438201904297
+      ],
+      "text": "of the collaborative effort of professionals from a range of specialties. The World Health",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        217.09881591796875,
+        527.046142578125,
+        230.2438201904297
+      ],
+      "text": "Organization (WHO) is grateful for their time and support. There were separate Guideline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.59881591796875,
+        526.6746215820312,
+        245.7438201904297
+      ],
+      "text": "Development Groups (GDGs) for each of the guidelines that have been included in these",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        248.09881591796875,
+        527.076171875,
+        261.24383544921875
+      ],
+      "text": "consolidated guidelines. The acknowledgements provided immediately below are specific",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.59881591796875,
+        526.9480590820312,
+        276.74383544921875
+      ],
+      "text": "to WHO guidelines that are new in this edition. Acknowledgements for prior guidelines are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.09881591796875,
+        216.21841430664062,
+        292.24383544921875
+      ],
+      "text": "summarized in Web Annex A.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.40203857421875,
+        526.9699096679688,
+        314.54705810546875
+      ],
+      "text": "The production and writing of this document – WHO consolidated guidelines on tuberculosis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.90203857421875,
+        526.9700927734375,
+        330.04705810546875
+      ],
+      "text": "Module 3: Diagnosis – was coordinated by Alexei Korobitsyn and Patricia Hall-Eidson, with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.4020080566406,
+        526.9479370117188,
+        345.5470275878906
+      ],
+      "text": "the support of Carl-Michael Nathanson, under the guidance of Matteo Zignol and the overall",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.9020080566406,
+        526.9920654296875,
+        361.0470275878906
+      ],
+      "text": "direction of Tereza Kasaeva, Director of the WHO Global Programme on Tuberculosis & Lung",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.4020080566406,
+        167.62210083007812,
+        376.5470275878906
+      ],
+      "text": "Health (WHO/GTB).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.357421875,
+        510.1840515136719,
+        413.58740234375
+      ],
+      "text": "Low complexity nucleic acid amplification testing",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.15740966796875,
+        486.1908874511719,
+        436.38739013671875
+      ],
+      "text": "for detection of TB and resistance to rifampicin",
+      "font": "FrutigerNeueLT-Md",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.28521728515625,
+        193.25131225585938,
+        461.6651916503906
+      ],
+      "text": "Concurrent testing",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.7230224609375,
+        237.6186981201172,
+        488.1029968261719
+      ],
+      "text": "WHO steering committee",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.6531982421875,
+        527.2725830078125,
+        509.7982177734375
+      ],
+      "text": "The preparation of this section of the guidelines was overseen by Alexei Korobitsyn with input",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996748924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.1531982421875,
+        524.43359375,
+        525.2982177734375
+      ],
+      "text": "from Annabel Baddeley, Annemieke Brands, Dennis Falzon, Tereza Kasaeva, Cecily Miller, Carl-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.991796493530273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.6531982421875,
+        527.1246948242188,
+        540.7982177734375
+      ],
+      "text": "Michael Nathanson, Jasmine Solangon, Maria de los Angeles Vargas, Sabine Vercuijl, Kerri Viney,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        543.1531982421875,
+        526.969970703125,
+        556.2982177734375
+      ],
+      "text": "and Matteo Zignol (all from the WHO Global TB Programme); Ajay Rangaraj and Elena Vovc",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.6531982421875,
+        526.96337890625,
+        571.7982177734375
+      ],
+      "text": "(from the WHO Global HIV Programme); Soudeh Ehsani (WHO Regional Office for Europe);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        574.1531982421875,
+        324.1932678222656,
+        587.2982177734375
+      ],
+      "text": "and Amos Fadare (WHO Country Office for Nigeria).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.9639892578125,
+        267.3575134277344,
+        614.343994140625
+      ],
+      "text": "Guideline development group",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        622.8941040039062,
+        526.6731567382812,
+        636.0391235351562
+      ],
+      "text": "Kobto Koura (Co-Chair), International Union Against Tuberculosis and Lung Disease, Paris,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.3941040039062,
+        526.8379516601562,
+        651.5391235351562
+      ],
+      "text": "France; Jeremiah Chakaya Muhwa, Respiratory Society of Kenya, Nairobi, Kenya; Chamreun",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.8941040039062,
+        526.965576171875,
+        667.0391235351562
+      ],
+      "text": "Sok Choub, Patients Advocate, Pnom Penh, Cambodia; Daniela Cirillo, San Raffaele Scientific",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.3941040039062,
+        527.1890258789062,
+        682.5391235351562
+      ],
+      "text": "Institute, Milan, Italy; Keertan Dheda, University of Cape Town, Cape Town, South Africa;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.8941040039062,
+        527.0718994140625,
+        698.0391235351562
+      ],
+      "text": "Katherine Fielding, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.967552185058594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.3941040039062,
+        526.9921264648438,
+        713.5391235351562
+      ],
+      "text": "of Great Britain and Northern Ireland; Rumina Hasan, Aga Khan University, Karachi, Pakistan;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.8941040039062,
+        527.2454223632812,
+        729.0391235351562
+      ],
+      "text": "Sirinapha Jittimanee, NTP Thailand Faculty of Nursing, Chulalongkorn University, Bangkok,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.3941040039062,
+        526.98291015625,
+        744.5391235351562
+      ],
+      "text": "Thailand; Katharina Kranzer, London School of Hygiene and Tropical Medicine, London, United",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97241497039795,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.8941040039062,
+        527.0054931640625,
+        760.0391235351562
+      ],
+      "text": "Kingdom of Great Britain and Northern Ireland; Andrei Mariandyshev, Northern State Medical",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99579906463623,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        762.3941040039062,
+        527.2957763671875,
+        775.5391235351562
+      ],
+      "text": "University, Ministry of Health of Russia, Arkhangelsk, Russian Federation; Norbert Ndjeka,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        548.029296875,
+        802.0169067382812,
+        551.8132934570312,
+        811.576904296875
+      ],
+      "text": "v",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

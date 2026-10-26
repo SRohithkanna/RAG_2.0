@@ -1,0 +1,366 @@
+{
+  "file": "module5",
+  "page": 54,
+  "blocks": [
+    {
+      "bbox": [
+        78.04429626464844,
+        74.39279174804688,
+        239.39889526367188,
+        88.81379699707031
+      ],
+      "text": "First-line line-probe assay (LPAs)",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        93.38941955566406,
+        497.224853515625,
+        110.62641906738281
+      ],
+      "text": "Mycobacterium  For persons with a sputum smear-positive specimen or a cultured isolate of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        105.38941955566406,
+        517.3282470703125,
+        122.62641906738281
+      ],
+      "text": "tuberculosis  complex (MTBC), commercial molecular LPAs may be used as the initial test instead",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        120.18341827392578,
+        449.797119140625,
+        134.6264190673828
+      ],
+      "text": "of phenotypic culture-based DST to detect resistance to rifampicin and isoniazid.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        133.6414337158203,
+        478.0431823730469,
+        150.8234405517578
+      ],
+      "text": "(Conditional recommendation, moderate certainty in the evidence for the test’s accuracy)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        157.87399291992188,
+        273.193115234375,
+        172.2949981689453
+      ],
+      "text": "Second-line line-probe assays (SL-LPAs)",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        179.6646270751953,
+        490.181396484375,
+        194.1076202392578
+      ],
+      "text": "For patients with confirmed MDR/RR-TB, SL-LPA may be used as the initial test, instead of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        191.6646270751953,
+        405.535400390625,
+        206.1076202392578
+      ],
+      "text": "phenotypic culture-based DST, to detect resistance to fluoroquinolones.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        205.1226348876953,
+        497.27728271484375,
+        222.3046417236328
+      ],
+      "text": "(Conditional recommendation, moderate certainty in the evidence for test accuracy for direct",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        217.1226348876953,
+        514.8574829101562,
+        234.3046417236328
+      ],
+      "text": "testing of sputum specimens; low certainty in the evidence for test accuracy for indirect testing of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        229.1226348876953,
+        244.9119873046875,
+        246.3046417236328
+      ],
+      "text": "Mycobacterium tuberculosis cultures)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        253.5312042236328,
+        490.181396484375,
+        267.9742126464844
+      ],
+      "text": "For patients with confirmed MDR/RR-TB, SL-LPA may be used as the initial test, instead of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        265.53118896484375,
+        474.7239990234375,
+        279.9742126464844
+      ],
+      "text": "phenotypic culture-based DST, to detect resistance to the second-line injectable drugs.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        278.98907470703125,
+        502.0985412597656,
+        296.17108154296875
+      ],
+      "text": "(Conditional recommendation, low certainty in the evidence for test accuracy for direct testing",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        290.98907470703125,
+        503.9916076660156,
+        308.17108154296875
+      ],
+      "text": "of sputum specimens; very low certainty in the evidence for test accuracy for indirect testing of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        302.98907470703125,
+        244.9119873046875,
+        320.17108154296875
+      ],
+      "text": "Mycobacterium tuberculosis cultures)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        327.2217102050781,
+        485.5887756347656,
+        341.6427001953125
+      ],
+      "text": "High complexity reverse hybridization-based NAATs for detection of pyrazinamide",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        339.2217102050781,
+        126.76658630371094,
+        353.6427001953125
+      ],
+      "text": "resistance",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        361.0122985839844,
+        495.7595520019531,
+        375.455322265625
+      ],
+      "text": "In people with bacteriologically confirmed TB, high complexity reverse hybridization-based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        370.21832275390625,
+        515.012939453125,
+        387.455322265625
+      ],
+      "text": "M. tuberculosis NAATs may be used on   culture isolates for detection of pyrazinamide resistance",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        385.0122985839844,
+        271.7558898925781,
+        399.455322265625
+      ],
+      "text": "rather than culture-based phenotypic DST.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        398.4703369140625,
+        460.9791564941406,
+        415.6523132324219
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence for diagnostic accuracy)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        422.7029113769531,
+        522.766357421875,
+        437.1239013671875
+      ],
+      "text": "(17) Commercial serodiagnostic tests for diagnosis of tuberculosis: policy statement, 2011",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        444.4934997558594,
+        507.7044982910156,
+        458.9365234375
+      ],
+      "text": "Commercial serodiagnostics should not be used in children suspected of active pulmonary or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        456.4934997558594,
+        312.5181579589844,
+        470.9365234375
+      ],
+      "text": "extrapulmonary TB, irrespective of their HIV status.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        469.9515380859375,
+        394.6571960449219,
+        487.1335144042969
+      ],
+      "text": "(Strong recommendation, very low certainty of evidence for the use of",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        481.9515380859375,
+        204.77940368652344,
+        499.1335144042969
+      ],
+      "text": "commercial serodiagnostics)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "30 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

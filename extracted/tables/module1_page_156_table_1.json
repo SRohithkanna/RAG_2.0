@@ -1,0 +1,46 @@
+{
+  "file": "module1",
+  "page": 156,
+  "table_id": 1,
+  "bbox": [
+    56.92021942138672,
+    120.02025349934895,
+    784.4884134928385,
+    427.3586018880208
+  ],
+  "heading": "Could interferon- γ release assays be used as an alternative to tuberculin skin tests to identify individuals most at risk of progression from TB infection to TB disease in high TB incidence settings?",
+  "n_rows": 5,
+  "n_cols": 4,
+  "data": [
+    [
+      "Recommendation",
+      "In favour of ",
+      "Against ",
+      "No recommendation "
+    ],
+    [
+      "Strength of recommendation",
+      "Strong ",
+      "Conditional ",
+      ""
+    ],
+    [
+      "Recommendation",
+      "Either a TST or an IGRA can be used to test for LTBI. (Strong recommendation, very low-quality evidence) Remark: The availability and affordability of the tests will determine which will be chosen by clinicians and programme managers. Neither TST nor IGRA can be used to diagnose active TB disease nor for diagnostic workup of adults suspected of having active TB.",
+      "",
+      ""
+    ],
+    [
+      "Justification",
+      "The GDG concluded that the comparison of TST and IGRA in the same population does not provide strong evidence that one test should be preferred over the other for predicting progression to active TB disease. The GDG noted that TST may require significantly fewer resources than IGRA and may be more familiar to practitioners in resource-constrained settings; however, recurrent global shortages and stock-outs of TST reduce its use in scaling up programmatic management of LTBI. The GDG also noted that equity and access could affect the choice and type of test used. The preferences of clients and programmes are affected by several factors, such as the requirement for sophisticated laboratory infrastructure (e.g. for IGRA) and possible additional costs for clients (e.g. for travel) and programmes (e.g. for building and testing). The GDG strongly recommended the two tests as equivalent options, with relatively similar advantages and disadvantages. The GDG stressed that the global shortage of TST should be addressed urgently and called for more investment into research on novel tests for LTBI with better predictive value. The GDG cautioned that imperfect performance of these tests can lead to false-negative results, particularly for young children and immunocompromised individuals such as PLHIV. The GDG noted the importance of the tests for identifying recent conversion from a negative to a positive result, particularly among contacts of people with pulmonary TB, which is good practice for initiating TPT. Nevertheless, recent studies among health care workers tested serially for LTBI in the USA showed that conversions from negative to positive and reversions from positive to negative are more commonly identified with IGRA than with TST. Thus, sound clinical judgement must be used in interpreting the results of these tests when used serially. The GDG recommended that LTBI testing not be a requirement for initiating TPT in PLHIV and child household contacts aged < 5 years, particularly in countries with a high TB incidence, given that clear benefits outweigh the risks. HIV-negative infant and child household contacts aged < 5 years and PLHIV who have a negative LTBI test should be assessed case by case for their individual risk of exposure to TB and the added advantage of receiving preventive treatment.",
+      "",
+      ""
+    ],
+    [
+      "Subgroup considerations",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

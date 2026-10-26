@@ -1,0 +1,798 @@
+{
+  "file": "module5",
+  "page": 94,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        78.23609924316406,
+        81.83369445800781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        67.39069366455078,
+        527.4234619140625,
+        81.83369445800781
+      ],
+      "text": "Additional operational and qualitative research to determine the best approach to less invasive",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        80.59070587158203,
+        527.5929565429688,
+        95.03370666503906
+      ],
+      "text": "specimen collection in children, including: implementation studies on a method of suction for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        93.79071807861328,
+        527.5819091796875,
+        108.23371887207031
+      ],
+      "text": "nasopharyngeal aspiration that is appropriate for low-skill or low-resource environments; research",
+      "font": "SegoeUI-Light",
+      "size": 10.992146492004395,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        106.99073028564453,
+        527.4389038085938,
+        121.43373107910156
+      ],
+      "text": "on the use of stool as a diagnostic specimen as part of treatment decision algorithms; definition",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        120.19074249267578,
+        527.5796508789062,
+        134.6337432861328
+      ],
+      "text": "of laboratory protocols that successfully balance the ease of implementation and diagnostic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        133.3907012939453,
+        437.2405700683594,
+        147.8336944580078
+      ],
+      "text": "performance; and the impact of stool testing on patient-important outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        78.23609924316406,
+        161.03370666503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        146.59071350097656,
+        527.3850708007812,
+        161.03370666503906
+      ],
+      "text": "Identification, evaluation and validation of host and pathogen associated biomarkers in paediatric",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        159.7907257080078,
+        527.3936767578125,
+        174.2337188720703
+      ],
+      "text": "populations as potential novel tests for TB infection, TB disease, risk of disease progression and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        172.99073791503906,
+        527.4390258789062,
+        187.43373107910156
+      ],
+      "text": "response to treatment among children, ideally requiring non-invasive samples and for use at the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        186.1907501220703,
+        143.26950073242188,
+        200.6337432861328
+      ],
+      "text": "point of care.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3907012939453,
+        78.23609924316406,
+        213.8336944580078
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        199.3907012939453,
+        527.590576171875,
+        213.8336944580078
+      ],
+      "text": "Optimization of the current microbiological reference standard by improving and harmonizing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        212.59071350097656,
+        527.4476318359375,
+        227.03370666503906
+      ],
+      "text": "specimen collection; supporting laboratory research to improve specimen processing to optimize",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        225.7906036376953,
+        527.568603515625,
+        240.2335968017578
+      ],
+      "text": "diagnostic yield using current assays; and improving phenotypic and genotypic drug-susceptibility",
+      "font": "SegoeUI-Light",
+      "size": 10.992197036743164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        238.99061584472656,
+        390.39898681640625,
+        253.43360900878906
+      ],
+      "text": "testing on paediatric clinical specimens, including on stool samples.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.1906280517578,
+        78.23609924316406,
+        266.6336364746094
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        252.1906280517578,
+        527.1045532226562,
+        266.6336364746094
+      ],
+      "text": "Qualitative research on equity, acceptability and feasibility aspects of diagnostic approaches,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        265.390625,
+        299.203125,
+        279.8336486816406
+      ],
+      "text": "including specimen types and diagnostic tools.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.3731994628906,
+        512.0182495117188,
+        306.2251892089844
+      ],
+      "text": "A four-month treatment regimen for children and adolescents with non-severe",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.3731994628906,
+        181.17251586914062,
+        321.2251892089844
+      ],
+      "text": "drug-susceptible TB",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        328.43310546875,
+        78.23609924316406,
+        342.8761291503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        328.43310546875,
+        527.5311279296875,
+        342.8761291503906
+      ],
+      "text": "Stronger evidence on the feasibility of making a diagnosis of non-severe drug-susceptible TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        341.63311767578125,
+        524.4107055664062,
+        356.0761413574219
+      ],
+      "text": "among children and adolescents in settings with no access to diagnostic tools, in particular to CXR.",
+      "font": "SegoeUI-Light",
+      "size": 10.985440254211426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.8330993652344,
+        78.23609924316406,
+        369.276123046875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        354.8330993652344,
+        527.1812744140625,
+        369.276123046875
+      ],
+      "text": "Evaluation of societal costs, including direct and indirect costs to persons with TB, in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        368.0331115722656,
+        527.4058837890625,
+        382.47613525390625
+      ],
+      "text": "implementation of shorter treatment regimens for drug-susceptible TB (including, but not limited",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        381.23309326171875,
+        288.1581726074219,
+        395.6761169433594
+      ],
+      "text": "to transport costs and loss of family income).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.43310546875,
+        78.23609924316406,
+        408.8761291503906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        394.43310546875,
+        527.4312744140625,
+        408.8761291503906
+      ],
+      "text": "Automated software for CXR reading, including differentiating severe from non-severe forms of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        407.63311767578125,
+        268.3387145996094,
+        422.0761413574219
+      ],
+      "text": "intrathoracic TB disease among children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.61572265625,
+        323.0232849121094,
+        448.46771240234375
+      ],
+      "text": "MDR/RR-TB treatment regimens for children",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.13031005859375,
+        133.18209838867188,
+        472.7943115234375
+      ],
+      "text": "Bedaquiline",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.0141906738281,
+        78.23609924316406,
+        494.45721435546875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        480.0141906738281,
+        524.3864135742188,
+        494.45721435546875
+      ],
+      "text": "Treatment outcomes in children with MDR/RR-TB of all ages treated with shorter and longer all-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        493.2142028808594,
+        258.0696105957031,
+        507.6572265625
+      ],
+      "text": "oral, bedaquiline containing regimens.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.4141845703125,
+        78.23609924316406,
+        520.857177734375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        506.4141845703125,
+        365.7919006347656,
+        520.857177734375
+      ],
+      "text": "Studies aimed at optimizing dosing of bedaquiline in children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.6143188476562,
+        78.23609924316406,
+        534.0573120117188
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        519.6143188476562,
+        414.5399169921875,
+        534.0573120117188
+      ],
+      "text": "Specific cost-effectiveness analyses on the use of bedaquiline in children.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.814208984375,
+        78.23609924316406,
+        547.2572021484375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        532.814208984375,
+        527.42138671875,
+        547.2572021484375
+      ],
+      "text": "Studies exploring mechanisms of acquisition of resistance to bedaquiline and genetic markers to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        546.01416015625,
+        527.4048461914062,
+        560.4571533203125
+      ],
+      "text": "identify resistance (this evidence is likely to come from studies on adults with MDR/RR-TB but will",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        559.2142333984375,
+        299.7859802246094,
+        573.6572265625
+      ],
+      "text": "have implications for children and adolescents).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.4141845703125,
+        78.23609924316406,
+        586.857177734375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        572.4141845703125,
+        527.3115234375,
+        586.857177734375
+      ],
+      "text": "Studies exploring the optimization of the duration of bedaquiline use in children related to PK",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        585.6143188476562,
+        131.31210327148438,
+        600.0573120117188
+      ],
+      "text": "and safety.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        598.8143310546875,
+        78.23609924316406,
+        613.25732421875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        598.8143310546875,
+        527.4628295898438,
+        613.25732421875
+      ],
+      "text": "Studies exploring the concomitant use of bedaquiline and delamanid in children related to PK",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        612.0142211914062,
+        131.31210327148438,
+        626.4572143554688
+      ],
+      "text": "and safety.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.2142333984375,
+        78.23609924316406,
+        639.6572265625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        625.2142333984375,
+        377.96630859375,
+        639.6572265625
+      ],
+      "text": "Qualitative research on acceptability, equity and feasibility issues.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.3729248046875,
+        127.61409759521484,
+        664.0369262695312
+      ],
+      "text": "Delamanid",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.2568359375,
+        78.23609924316406,
+        685.6998291015625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        671.2568359375,
+        527.2454223632812,
+        685.6998291015625
+      ],
+      "text": "Data on long-term safety and side-effects of delamanid, especially related to neuropsychiatric",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        684.456787109375,
+        145.3903045654297,
+        698.8997802734375
+      ],
+      "text": "safety signals.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.65673828125,
+        78.23609924316406,
+        712.0997314453125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        697.65673828125,
+        527.4268188476562,
+        712.0997314453125
+      ],
+      "text": "Studies aimed at optimizing dosing of delamanid in children (some studies are already ongoing,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        710.856689453125,
+        527.5222778320312,
+        725.2996826171875
+      ],
+      "text": "such as IMPAACT P2005, “A phase I/II open-label, single-arm study to evaluate the PK, safety,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        724.0568237304688,
+        527.4452514648438,
+        738.4998168945312
+      ],
+      "text": "and tolerability of delamanid in combination with optimized multidrug background regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        737.2568359375,
+        527.4259033203125,
+        751.6998291015625
+      ],
+      "text": "for multidrug-resistant tuberculosis (MDR-TB) in HIV-infected and HIV-uninfected children with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        750.456787109375,
+        129.92630004882812,
+        764.8997802734375
+      ],
+      "text": "MDR-TB)”.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "70 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

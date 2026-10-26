@@ -1,0 +1,100 @@
+{
+  "file": "Latent",
+  "page": 57,
+  "table_id": 2,
+  "bbox": [
+    145.85469818115234,
+    327.72731526692706,
+    176.25430636935764,
+    769.8675020658053
+  ],
+  "heading": "695 (663–730) 667 (636–700) 632 (603–663)",
+  "n_rows": 6,
+  "n_cols": 12,
+  "data": [
+    [
+      "Outcome",
+      "Nos of studies and patients",
+      "Study design",
+      "Factors that may decrease quality of evidence",
+      "",
+      "",
+      "",
+      "",
+      "Effect per 1000 patients tested",
+      "",
+      "",
+      "Test accuracy Quality of evidence"
+    ],
+    [
+      "",
+      "",
+      "",
+      "Risk of bias",
+      "Indirectness",
+      "Inconsistency",
+      "Imprecision",
+      "Publication bias",
+      "Pre-test probability, 1%",
+      "Pre-test probability, 5%",
+      "Pre-test probability, 10%",
+      ""
+    ],
+    [
+      "True positives (patients with active TB)",
+      "2 studies 646 patients",
+      "Cross-sectional (cohort type accuracy study)",
+      "Not serious",
+      "Not serious",
+      "Not serious",
+      "Serious1",
+      "None2",
+      "8 (7–9)",
+      "42 (35–46)",
+      "85 (70–93)",
+      "㊉㊉㊉◯ Moderate"
+    ],
+    [
+      "False negatives (patients incorrectly classified as not having active TB)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "2 (1–3)",
+      "8 (4–15)",
+      "15 (7–30)",
+      ""
+    ],
+    [
+      "True negatives (patients without active TB)",
+      "2 studies 646 patients",
+      "Cross-sectional (cohort type accuracy study)",
+      "Not serious",
+      "Not serious",
+      "Not serious",
+      "Not serious",
+      "None2",
+      "295 (260–327)",
+      "283 (250–314)",
+      "268 (237–297)",
+      "㊉㊉㊉㊉ High"
+    ],
+    [
+      "False positives (patients incorrectly classified as having active TB)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "695 (663–730)",
+      "667 (636–700)",
+      "632 (603–663)",
+      ""
+    ]
+  ]
+}

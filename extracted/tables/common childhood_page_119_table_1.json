@@ -1,0 +1,72 @@
+{
+  "file": "common childhood",
+  "page": 119,
+  "table_id": 1,
+  "bbox": [
+    56.942901611328125,
+    62.36199951171875,
+    334.7329577636719,
+    623.6220296223959
+  ],
+  "heading": "ANNEX 6. TABLES",
+  "n_rows": 4,
+  "n_cols": 12,
+  "data": [
+    [
+      "STUDY’S FIRST AUTHOR, PUB­ LICATION DATE, SETTING",
+      "SETTING (ALTI­ TUDE ABOVE SEA LEVEL)",
+      "STUDY OBJECTIVES",
+      "DESIGN",
+      "AGE",
+      "SAMPLE SIZE (NUMBER WITH HYPOXAEMIA)",
+      "INCLUSION CRITERIA",
+      "EXCLUSION CRITERIA",
+      "DEFINITION OF HYPOXIA",
+      "METHODOLOGY FOR DETECTING CLINICAL SIGNS CLEARLY DESCRIBED?",
+      "METHODOLOGY FOR GOLD STAND­ ARD MEASURE­ MENTS CLEARLY DESCRIBED?",
+      "NOTES"
+    ],
+    [
+      "Lodha 2004 India",
+      "ED, tertiary hospital (239 m)",
+      "Determine clinical predictors of hypoxaemia in children with ALRI",
+      "Prospective observational",
+      "<5 years",
+      "109 (28)",
+      "WHO defined pneumonia",
+      "Asthma, congenital heart disease, severe anaemia, severe dehydration, peripheral shut down, ventilation",
+      "<90%",
+      "Yes",
+      "Yes",
+      ""
+    ],
+    [
+      "Laman 2005 PNG",
+      "Paediatric ward, tertiary hospital (SL)",
+      "Determine clinical predictors of hypoxaemia in ALRI using different definitions of hypoxaemia.",
+      "Prospective observational",
+      "1–60 mths",
+      "77 <93% (34) <90% (20) <85% (10)",
+      "WHO- defined severe or very severe pneumonia",
+      "Heart disease, asthma, HIV, severe malnutrition",
+      "<93% <90% <85%",
+      "No",
+      "Yes",
+      "Results not stratified by age"
+    ],
+    [
+      "Basnet 2006 Nepal",
+      "ED or OP of childrens hospital (1336m)",
+      "Determine prevalence of hypoxaemia and its clinical predictors in children with ARI",
+      "Prospective observational",
+      "2 mths– 5 years",
+      "250 (58)",
+      "Cough and difficulty breathing",
+      "Murmur on auscultation, non-ARI",
+      "<90%",
+      "No",
+      "Yes",
+      ""
+    ]
+  ]
+}

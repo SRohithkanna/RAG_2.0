@@ -1,0 +1,318 @@
+{
+  "file": "module4",
+  "page": 395,
+  "blocks": [
+    {
+      "bbox": [
+        129.84080505371094,
+        102.98472595214844,
+        201.65780639648438,
+        261.7659912109375
+      ],
+      "text": "the WHO recommended longer regimens. compared to WHO recommended longer",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        131.0435791015625,
+        109.27429962158203,
+        261.7659912109375
+      ],
+      "text": "ADDITIONAL CONSIDERATIONS",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        339.0606994628906,
+        276.327880859375,
+        370.877685546875,
+        697.322998046875
+      ],
+      "text": "effects, decision thresholds vary for some of the outcomes and therefore only the descriptive labels (trivial or no  Note: The positioning of point estimates and CIs is indicative and for illustration purposes only and exact figures",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        349.0606994628906,
+        286.4134521484375,
+        360.877685546875,
+        697.322998046875
+      ],
+      "text": "are available in the GRADE evidence profiles. As indicated above in the sections on desirable and undesirable",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        304.9324035644531,
+        321.4580993652344,
+        323.8077392578125
+      ],
+      "text": "Large",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        334.1513671875,
+        321.4580993652344,
+        366.50286865234375
+      ],
+      "text": "Moderate",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        369.0606994628906,
+        343.5439758300781,
+        380.877685546875,
+        697.322998046875
+      ],
+      "text": "effect, small, moderate, large) are used for the x-axis rather than numerical values themselves.",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        299.9072570800781,
+        343.85333251953125,
+        310.27606201171875,
+        396.51141357421875
+      ],
+      "text": "Favours control",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.30770111083984,
+        350.8053283691406,
+        97.05270385742188,
+        768.189208984375
+      ],
+      "text": "Does the balance between desirable and undesirable effects favor the intervention or the comparison?",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        377.2376403808594,
+        321.4580993652344,
+        396.6334228515625
+      ],
+      "text": "Small",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        410.627685546875,
+        321.4580993652344,
+        472.6632080078125
+      ],
+      "text": "Trivial or No Eﬀect",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        299.9072570800781,
+        462.42626953125,
+        310.27606201171875,
+        532.6966552734375
+      ],
+      "text": "Favours intervention",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        489.6599426269531,
+        321.4580993652344,
+        509.05572509765625
+      ],
+      "text": "Small",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        519.4814453125,
+        321.4580993652344,
+        551.8321533203125
+      ],
+      "text": "Moderate",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        311.08929443359375,
+        561.0298461914062,
+        321.4580993652344,
+        579.9051513671875
+      ],
+      "text": "Large",
+      "font": "SourceSansPro-Regular",
+      "size": 8.132399559020996,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        608.7323608398438,
+        257.28887939453125,
+        697.322998046875
+      ],
+      "text": "Serious Adverse Events RESEARCH EVIDENCE EndTB 4 – DCLLfxZ Failure and recurrence",
+      "font": "SourceSansPro-Regular",
+      "size": 10.572099685668945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        280.9504089355469,
+        612.3900146484375,
+        292.3560485839844,
+        691.1292114257812
+      ],
+      "text": "Sustained Tx Success",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        262.3699645996094,
+        623.0462036132812,
+        273.7756042480469,
+        694.8973388671875
+      ],
+      "text": "Amplification of DR",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        202.34500122070312,
+        631.1331176757812,
+        213.75064086914062,
+        694.8973388671875
+      ],
+      "text": "Loss to follow-up",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        228.92237854003906,
+        638.7546997070312,
+        240.32801818847656,
+        694.8973388671875
+      ],
+      "text": "Adverse events",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        173.23602294921875,
+        672.6138305664062,
+        184.64166259765625,
+        694.8973388671875
+      ],
+      "text": "Death",
+      "font": "SourceSansPro-Regular",
+      "size": 8.945599555969238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.18910217285156,
+        676.1676025390625,
+        84.72010040283203,
+        768.189208984375
+      ],
+      "text": "Balance of effects",
+      "font": "SegoeUI-BoldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        169.84080505371094,
+        707.1221313476562,
+        201.65780639648438,
+        768.189208984375
+      ],
+      "text": "the comparison\n favor either the  intervention or",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        97.529296875,
+        715.0238647460938,
+        271.65777587890625,
+        768.189208984375
+      ],
+      "text": "○ Don’t know JUDGEMENT ○ Favors the  ○ Favors the  intervention\n intervention\n ○ Does not  comparison\n comparison\n ○ Probably  ● Probably  favors the  favors the",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        249.84078979492188,
+        733.7485961914062,
+        261.65777587890625,
+        768.189208984375
+      ],
+      "text": "○ Varies",
+      "font": "SegoeUI-Light",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        301.9407043457031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 5. GRADE evidence profiles and evidence-to-decision tables 381",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

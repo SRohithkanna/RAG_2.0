@@ -1,0 +1,56 @@
+{
+  "file": "module1",
+  "page": 255,
+  "table_id": 2,
+  "bbox": [
+    71.07068217884411,
+    412.3492126464844,
+    524.1386052911931,
+    761.5488891601562
+  ],
+  "heading": "Table A5.12. Summary of studies evaluating the safety of FQ-based TPT regimens for children and adolescent (< 18)",
+  "n_rows": 5,
+  "n_cols": 6,
+  "data": [
+    [
+      "Reference",
+      "Setting",
+      "Population",
+      "Intervention(s) or exposure(s)",
+      "Outcome(s) reported",
+      "Outcome estimate"
+    ],
+    [
+      "Apolisi et al. (2023) (8)",
+      "Khayelitsha, Cape Town, South Africa",
+      "Children and adolescents aged 0–18 years who were s HHC of an MDR-TB index case (n=95)",
+      "6Lfx (n=79) or 6INH (n=9)",
+      "Mild or moderate AE reported during TPT Serious AE Treatment discontinuation due to drug-related AE",
+      "6Lfx: 8/79 6INH: 0/9 None 6Lfx: 3/79 6INH: 0/9"
+    ],
+    [
+      "Garcia-Prats et al. (2019) (9)",
+      "Cape Town, South Africa",
+      "Children < 5 years who were HHC of an MDR-TB index case (n=27)",
+      "Short-term pharmacokinetics provision of novel 100 mg paediatric Lfx dispersible tablets",
+      "Grade 1 or 2 AE at least possibly related to Lfx Grade 3 or 4 AE at least possibly related to Lfx Lfx discontinuation due to drug-related AE",
+      "2/27 0/27 0/27"
+    ],
+    [
+      "Gureva et al. (2022) (4)",
+      "Arkhangelsk Region, Russian Federation",
+      "Children aged < 18 years who were HHC of an MDR-TB index case (n=72)",
+      "9MFX (n=55) or 9OFX (n=3)",
+      "Grade 1 or 2 drug-related AE Treatment discontinuation due to drug-related AE Proportion completing TPT",
+      "6/58 1/58 52/58 (90%)"
+    ],
+    [
+      "Malik et al. (2020;2021) (10,11)",
+      "Karachi, Pakistan",
+      "HHC of all ages exposed to MDR- TB index case (n=172)",
+      "6-month ETH + FQ (Lfx or MFX) (n=59) 6-month EMB + FQ (Lfx or MFX) (n=113)",
+      "Grade 1 or 2 drug-related AE Children < 5 years who reported AE Treatment discontinuation due to drug-related AE Proportion completing TPT",
+      "ETH + FQ: 20/59 EMB + FQ: 16/113 6/61 11/172 (6%) 121/172 (70%)"
+    ]
+  ]
+}

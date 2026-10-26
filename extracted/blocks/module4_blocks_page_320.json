@@ -1,0 +1,438 @@
+{
+  "file": "module4",
+  "page": 320,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        65.65083312988281,
+        246.05490112304688,
+        86.53083038330078
+      ],
+      "text": "4.3. TB care and support",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        98.82398986816406,
+        458.2500915527344,
+        119.70398712158203
+      ],
+      "text": "Care and support interventions for all people with TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.82398986816406,
+        243.0356903076172,
+        138.70399475097656
+      ],
+      "text": "(Guideline update 2017)",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.79803466796875,
+        527.450439453125,
+        159.1530303955078
+      ],
+      "text": "Question 1. In patients with TB, are any interventions to promote adherence to TB treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.998149871826172,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.9979248046875,
+        350.9029846191406,
+        172.35292053222656
+      ],
+      "text": "more or less likely to lead to the outcomes listed below?",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        185.31329345703125,
+        425.4940185546875,
+        199.6682891845703
+      ],
+      "text": "Population Intervention  Comparator Outcome",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        207.0379180908203,
+        514.4406127929688,
+        221.4810333251953
+      ],
+      "text": "Patients on  Any intervention to  Routine  •\tAdherence to treatment (or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        219.0379180908203,
+        510.72705078125,
+        233.4810333251953
+      ],
+      "text": "treatment for  promote treatment  practice treatment interruption due  81",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        231.0379180908203,
+        471.7594909667969,
+        245.4810333251953
+      ],
+      "text": "DS-TB  adherence to non-adherence)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        247.28993225097656,
+        511.4739074707031,
+        261.7329406738281
+      ],
+      "text": "Patients on  •\tSupervision of  •\tConventional TB treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        259.2899169921875,
+        519.5137939453125,
+        273.7329406738281
+      ],
+      "text": "treatment for  treatment (treatment  outcomes: cure or treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        271.2899169921875,
+        514.0423583984375,
+        285.7329406738281
+      ],
+      "text": "MDR-TB  support, virtual (video-)  completion, failure, relapse,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        283.2899169921875,
+        450.2556457519531,
+        297.7329406738281
+      ],
+      "text": "supported therapy) survival/death",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        287.54193115234375,
+        147.53579711914062,
+        301.9849548339844
+      ],
+      "text": "Children (0–14",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        299.54193115234375,
+        509.1870422363281,
+        313.9849548339844
+      ],
+      "text": "years) and adults •\tMeasures to improve  •\tAdverse reactions from TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        311.54193115234375,
+        512.4000854492188,
+        325.9849548339844
+      ],
+      "text": "treatment adherence  drugs (severity, type, organ",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        315.79388427734375,
+        158.7283172607422,
+        330.2369079589844
+      ],
+      "text": "HIV-infected and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        323.5419006347656,
+        409.7701110839844,
+        337.98492431640625
+      ],
+      "text": "(e.g. medication  class)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        327.7939147949219,
+        164.62429809570312,
+        342.2369384765625
+      ],
+      "text": "HIV-uninfected TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        335.5419006347656,
+        283.4295654296875,
+        349.98492431640625
+      ],
+      "text": "monitors and/or SMS",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        339.7939147949219,
+        474.1201171875,
+        354.2369384765625
+      ],
+      "text": "patients •\tCost to the patient",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        347.5419006347656,
+        262.146728515625,
+        361.98492431640625
+      ],
+      "text": "or telephone call",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        385.5591125488281,
+        351.7939147949219,
+        500.45416259765625,
+        366.2369384765625
+      ],
+      "text": "(including direct medical",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        359.5419006347656,
+        231.1564178466797,
+        373.98492431640625
+      ],
+      "text": "reminders)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        385.5591125488281,
+        363.7939147949219,
+        513.2262573242188,
+        378.2369384765625
+      ],
+      "text": "costs as well as others such",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.1876983642578,
+        375.7939147949219,
+        519.8009033203125,
+        390.2369384765625
+      ],
+      "text": "•\tSocial support  as transportation, lost wages",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        387.7939147949219,
+        461.0191345214844,
+        402.2369384765625
+      ],
+      "text": "(educational,  due to disability)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        399.7939147949219,
+        289.3827209472656,
+        414.2369384765625
+      ],
+      "text": "psychological, material)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        379.5591125488281,
+        404.0458068847656,
+        488.9294128417969,
+        418.48883056640625
+      ],
+      "text": "•\tCost to health services",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        176.1876983642578,
+        416.0458068847656,
+        278.47955322265625,
+        430.48883056640625
+      ],
+      "text": "•\tCombinations of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        182.1876983642578,
+        428.0458068847656,
+        273.0400085449219,
+        442.48883056640625
+      ],
+      "text": "above interventions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        753.0717163085938,
+        526.774169921875,
+        763.57568359375
+      ],
+      "text": "Routine practice: regular TB drugs pick-up and consultations with physician or other health-care workers are available when necessary;  81",
+      "font": "SegoeUI-Light",
+      "size": 7.999049663543701,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        762.6716918945312,
+        442.3943786621094,
+        773.1756591796875
+      ],
+      "text": "TB treatment is free of charge; essential information/health education in relation to TB treatment is provided.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "306 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

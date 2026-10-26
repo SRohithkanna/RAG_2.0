@@ -1,0 +1,1213 @@
+{
+  "file": "Recommendations",
+  "total_pages": 70,
+  "pages": [
+    {
+      "page": 1,
+      "label_raw": "Cover 1",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans"
+      ],
+      "font_sizes": [
+        12.0
+      ],
+      "num_blocks": 6,
+      "num_images": 1,
+      "num_tables": 0
+    },
+    {
+      "page": 2,
+      "label_raw": "Cover 2",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 3,
+      "label_raw": "Page 1",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 4,
+      "label_raw": "Page 2",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        18.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 5,
+      "label_raw": "Page 3",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 6,
+      "label_raw": "Page 4",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        18.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 7,
+      "label_raw": "Page 5",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        18.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 8,
+      "label_raw": "Page 6",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 9,
+      "label_raw": "Page 7",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        18.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 10,
+      "label_raw": "Page 8",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        18.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 11,
+      "label_raw": "Page 9",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 12,
+      "label_raw": "Page 10",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 13,
+      "label_raw": "Page 11",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 14,
+      "label_raw": "Page 12",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 15,
+      "label_raw": "Page 13",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 16,
+      "label_raw": "Page 14",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 17,
+      "label_raw": "Page 15",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 18,
+      "label_raw": "Page 16",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 19,
+      "label_raw": "Page 17",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 20,
+      "label_raw": "Page 18",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 21,
+      "label_raw": "Page 19",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.0,
+        7.5,
+        9.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 5
+    },
+    {
+      "page": 22,
+      "label_raw": "Page 20",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 23,
+      "label_raw": "Page 21",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.0,
+        7.5,
+        9.0
+      ],
+      "num_blocks": 49,
+      "num_images": 0,
+      "num_tables": 10
+    },
+    {
+      "page": 24,
+      "label_raw": "Page 22",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 25,
+      "label_raw": "Page 23",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 26,
+      "label_raw": "Page 24",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 27,
+      "label_raw": "Page 25",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 28,
+      "label_raw": "Page 26",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 29,
+      "label_raw": "Page 27",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 30,
+      "label_raw": "Page 28",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 31,
+      "label_raw": "Page 29",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 32,
+      "label_raw": "Page 30",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 33,
+      "label_raw": "Page 31",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 34,
+      "label_raw": "Page 32",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 35,
+      "label_raw": "Page 33",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 36,
+      "label_raw": "Page 34",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 37,
+      "label_raw": "Page 35",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 38,
+      "label_raw": "Page 36",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 39,
+      "label_raw": "Page 37",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 40,
+      "label_raw": "Page 38",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 41,
+      "label_raw": "Page 39",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 42,
+      "label_raw": "Page 40",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 43,
+      "label_raw": "Page 41",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 44,
+      "label_raw": "Page 42",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 45,
+      "label_raw": "Page 43",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 46,
+      "label_raw": "Page 44",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 47,
+      "label_raw": "Page 45",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 48,
+      "label_raw": "Page 46",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 49,
+      "label_raw": "Page 47",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "GillSans",
+        "TheSansSemiBold-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        12.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 50,
+      "label_raw": "Page 48",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 51,
+      "label_raw": "Page 49",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 52,
+      "label_raw": "Page 50",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 53,
+      "label_raw": "Page 51",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSans-Plain",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        4.5,
+        7.5,
+        8.279999732971191,
+        9.0,
+        13.800000190734863,
+        18.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 54,
+      "label_raw": "Page 52",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        5.5,
+        7.0,
+        7.5,
+        9.0
+      ],
+      "num_blocks": 43,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 55,
+      "label_raw": "Page 53",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 56,
+      "label_raw": "Page 54",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 57,
+      "label_raw": "Page 55",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSans-Plain",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        13.800000190734863,
+        18.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 58,
+      "label_raw": "Page 56",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Italic",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 59,
+      "label_raw": "Page 57",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSans-Plain",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0,
+        13.800000190734863,
+        18.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 60,
+      "label_raw": "Page 58",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 61,
+      "label_raw": "Page 59",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 41,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 62,
+      "label_raw": "Page 60",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 35,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 63,
+      "label_raw": "Page 61",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "LucidaGrande",
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 33,
+      "num_images": 2,
+      "num_tables": 0
+    },
+    {
+      "page": 64,
+      "label_raw": "Page 62",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 65,
+      "label_raw": "Page 63",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 66,
+      "label_raw": "Page 64",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 67,
+      "label_raw": "Page 65",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        7.5
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 68,
+      "label_raw": "Page 66",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 69,
+      "label_raw": "Cover 3",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 70,
+      "label_raw": "Cover 4",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "TheSansSemiBold-Plain",
+        "TheSansSemiLight-Plain"
+      ],
+      "font_sizes": [
+        9.0
+      ],
+      "num_blocks": 2,
+      "num_images": 1,
+      "num_tables": 0
+    }
+  ]
+}

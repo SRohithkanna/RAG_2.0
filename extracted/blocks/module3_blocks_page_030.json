@@ -1,0 +1,546 @@
+{
+  "file": "module3",
+  "page": 30,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        290.5428771972656,
+        85.31422424316406
+      ],
+      "text": "Detection of rifampicin resistance",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.54881286621094,
+        477.6181640625,
+        110.63681030273438
+      ],
+      "text": "Should LC-aNAATs on respiratory samples be used to diagnose rifampicin",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.94883728027344,
+        509.9906311035156,
+        125.03683471679688
+      ],
+      "text": "resistance in adults and adolescents with signs and symptoms or who screened",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        125.34880065917969,
+        311.3953552246094,
+        139.43679809570312
+      ],
+      "text": "positive for pulmonary TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        150.10382080078125,
+        526.6891479492188,
+        163.2488250732422
+      ],
+      "text": "Of the 13 studies (2553 participants) that evaluated sputum specimens, sensitivity for detecting",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.962686538696289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.60382080078125,
+        526.960205078125,
+        178.7488250732422
+      ],
+      "text": "rifampicin resistance was not estimable for two studies ( ). The sensitivities in the  Fig. 2.1.2",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.10382080078125,
+        527.1788940429688,
+        194.2488250732422
+      ],
+      "text": "remaining 11 studies (2540 participants) included in the meta-analysis were between 53%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        196.60382080078125,
+        526.9623413085938,
+        209.7488250732422
+      ],
+      "text": "and 100%, and the specificities were between 97% and 100%. The summary sensitivity was",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.10382080078125,
+        526.9647216796875,
+        225.2488250732422
+      ],
+      "text": "95.1% (95% CI: 83.1–98.7), and the summary specificity was 98.1% (95% CI: 97.0–98.7). Only",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        227.60382080078125,
+        527.0424194335938,
+        240.7488250732422
+      ],
+      "text": "two of the 11 included studies assessed Truenat MTB-RIF Dx; one of them, a study from a single",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97562313079834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.10382080078125,
+        526.9644165039062,
+        256.24884033203125
+      ],
+      "text": "country, had a sensitivity outside of confidence interval limits (53%). Nevertheless, overall, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        258.60382080078125,
+        444.2764892578125,
+        271.74884033203125
+      ],
+      "text": "certainty of evidence for both sensitivity and specificity was considered high.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        286.3900146484375,
+        527.4060668945312,
+        300.4779968261719
+      ],
+      "text": "Fig.  2.1.2. Forest plot of LC-aNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.6988220214844,
+        388.487548828125,
+        314.8780212402344
+      ],
+      "text": "a rifampicin resistance in respiratory specimens and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        334.07818603515625,
+        517.4542846679688,
+        345.99603271484375
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Brand FN TN FP TP Study",
+      "font": "Arial-BoldMT",
+      "size": 7.206962585449219,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        346.7609558105469,
+        385.29632568359375,
+        358.1210632324219
+      ],
+      "text": "0.97 [0.95, 0.98] 0.53 [0.39, 0.66] Truenat MTB-RIF Dx 28 558 17 31 Gomathi 2020",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        357.8551330566406,
+        385.29400634765625,
+        369.21533203125
+      ],
+      "text": "0.97 [0.94, 0.99] 0.85 [0.72, 0.93] Truenat MTB-RIF Dx 271 8 9 44 Penn-Nicholson 2021",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        368.9510192871094,
+        385.29400634765625,
+        380.3112487792969
+      ],
+      "text": "1.00 [0.29, 1.00] Not estimable Xpert Ultra 0 3 0 0 Aguilera-Alonso 2022",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        380.0468444824219,
+        385.29400634765625,
+        391.40704345703125
+      ],
+      "text": "0.98 [0.90, 1.00] 1.00 [0.16, 1.00] Xpert Ultra 54 1 0 2 Berhanu 2018",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        391.1427307128906,
+        385.29400634765625,
+        402.5028381347656
+      ],
+      "text": "0.98 [0.93, 1.00] 0.93 [0.80, 0.98] Xpert Ultra 3 96 2 38 Chakravorty 2017",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        402.2386169433594,
+        385.29400634765625,
+        413.5987243652344
+      ],
+      "text": "1.00 [0.69, 1.00] Not estimable Xpert Ultra 10 0 0 0 Chien 2020",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        413.3344421386719,
+        385.29400634765625,
+        424.6945495605469
+      ],
+      "text": "0.98 [0.97, 0.99] 0.95 [0.90, 0.98] Xpert Ultra 9 370 6 166 Dorman 2018",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        424.43023681640625,
+        385.29400634765625,
+        435.7904357910156
+      ],
+      "text": "1.00 [0.95, 1.00] 1.00 [0.63, 1.00] Xpert Ultra 79 0 0 8 Li 2023",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        435.5260314941406,
+        385.29400634765625,
+        446.88623046875
+      ],
+      "text": "0.97 [0.90, 1.00] 1.00 [0.40, 1.00] Xpert Ultra 0 66 2 4 MacLean 2023",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        446.6219177246094,
+        385.29400634765625,
+        457.9821472167969
+      ],
+      "text": "1.00 [0.83, 1.00] 1.00 [0.03, 1.00] Xpert Ultra 20 0 0 1 Park 2019",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        457.7177429199219,
+        385.29400634765625,
+        469.07794189453125
+      ],
+      "text": "1.00 [0.97, 1.00] 1.00 [0.16, 1.00] Xpert Ultra 0 105 0 2 Piersimoni 2019",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        468.8136291503906,
+        385.29400634765625,
+        480.173828125
+      ],
+      "text": "1.00 [0.95, 1.00] 1.00 [0.79, 1.00] Xpert Ultra 0 0 74 16 Wang 2019",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.06729888916016,
+        479.9095153808594,
+        385.29400634765625,
+        491.2696228027344
+      ],
+      "text": "0.97 [0.94, 0.99] 0.97 [0.92, 0.99] Xpert Ultra 4 313 10 Wang 2022 123",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        389.1788024902344,
+        491.0053405761719,
+        518.6874389648438,
+        502.36474609375
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 7.206962585449219,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.2211303710938,
+        526.50048828125,
+        526.97607421875
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        527.0210571289062,
+        451.9621276855469,
+        537.7760009765625
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.639892578125,
+        230.8838653564453,
+        551.4107055664062
+      ],
+      "text": "a  Studies are sorted by assay and author.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        569.9265747070312,
+        245.04849243164062,
+        586.3065795898438
+      ],
+      "text": "Detection of TB meningitis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.541259765625,
+        522.2305297851562,
+        611.6292114257812
+      ],
+      "text": "Should LC-aNAATs on cerebrospinal fluid (CSF) be used to diagnose TB meningitis",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        611.941162109375,
+        451.48699951171875,
+        626.0291137695312
+      ],
+      "text": "in adults with signs and symptoms of TB meningitis, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.6961059570312,
+        526.7639770507812,
+        649.8411254882812
+      ],
+      "text": "LC-aNAAT summary sensitivity and specificity were 88.2% (95% CI: 83.7–91.6) and 96.0% (95%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.962486267089844,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.1961059570312,
+        527.185791015625,
+        665.3411254882812
+      ],
+      "text": "CI: 86.8–98.9), respectively, based on 16 Xpert Ultra studies (1684 participants); the certainty of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972867012023926,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        667.6961059570312,
+        526.9661254882812,
+        680.8411254882812
+      ],
+      "text": "evidence was high for sensitivity and moderate for specificity ( ). Only data on Xpert  Fig. 2.1.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.1961059570312,
+        527.0776977539062,
+        696.3411254882812
+      ],
+      "text": "Ultra were included in the evaluation to answer this population, intervention, comparator and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.991096496582031,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        698.6961059570312,
+        527.0288696289062,
+        711.8411254882812
+      ],
+      "text": "outcome (PICO) question. Of note, trace results from Xpert Ultra were considered positive and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996149063110352,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.1961059570312,
+        527.0814208984375,
+        727.3411254882812
+      ],
+      "text": "formed a significant proportion of positive results (16–63%). Data on Truenat were limited and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.975221633911133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        729.6961059570312,
+        438.4476013183594,
+        742.8411254882812
+      ],
+      "text": "variable and thus were not included. For more details, see  . Web Annex B.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "14 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

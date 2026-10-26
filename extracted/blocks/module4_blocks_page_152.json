@@ -1,0 +1,570 @@
+{
+  "file": "module4",
+  "page": 152,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.76272583007812,
+        236.92332458496094,
+        82.6147232055664
+      ],
+      "text": "Acquisition of drug resistance",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.4388427734375,
+        104.26564025878906
+      ],
+      "text": "The analysis suggested that amplification of resistance to rifampicin was lower in patients receiving",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        103.02259063720703,
+        527.3945922851562,
+        117.46559143066406
+      ],
+      "text": "the 6(H)REZ regimen (0.6%) than in those receiving >6(H)REZ (4.3%). This observation could be due",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.414794921875,
+        130.6657257080078
+      ],
+      "text": "to the selection and allocation of patients into specific regimens; for instance, the number of patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.3959350585938,
+        143.86573791503906
+      ],
+      "text": "with extensive disease was slightly larger in those receiving >6(H)REZ. However, overall, the number",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        142.62269592285156,
+        527.4136352539062,
+        157.06568908691406
+      ],
+      "text": "of observations for each comparison was small and the effect was not statistically significant (aOR,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.8227081298828,
+        180.30508422851562,
+        170.2657012939453
+      ],
+      "text": "0.2, 95% CL: 0.02–1.70).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        183.64004516601562,
+        153.88450622558594,
+        199.49203491210938
+      ],
+      "text": "Adverse events",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.6999053955078,
+        527.4056396484375,
+        221.1428985595703
+      ],
+      "text": "Data on adverse events were not evaluated owing to a lack of standardization (dissimilar reporting).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.89991760253906,
+        527.5484008789062,
+        234.34291076660156
+      ],
+      "text": "The GDG also considered two reports containing data from patients from the United States of America",
+      "font": "SegoeUI-Light",
+      "size": 10.963639259338379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.0998077392578,
+        527.4988403320312,
+        247.5428009033203
+      ],
+      "text": "(USA) in whom a detailed assessment of adverse events suggested a risk of excess hepatotoxicity with",
+      "font": "SegoeUI-Light",
+      "size": 10.983988761901855,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.02394104003906,
+        527.4260864257812,
+        260.7429504394531
+      ],
+      "text": "(100) the 6(H)REZ combination  . Drug-induced hepatotoxicity is not uncommon with anti-TB drugs.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.4998779296875,
+        527.4036865234375,
+        273.9429016113281
+      ],
+      "text": "It has also been reported in individuals receiving rifampicin and pyrazinamide for 2 months for the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.69989013671875,
+        527.3905029296875,
+        287.1429138183594
+      ],
+      "text": "treatment of TB infection – in such individuals, a much higher occurrence of hepatotoxicity has been",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        284.6239013671875,
+        527.4425659179688,
+        300.3429260253906
+      ],
+      "text": "(101) observed than in those receiving only isoniazid preventive therapy  . It is not known whether the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.09979248046875,
+        321.8046875,
+        313.5428161621094
+      ],
+      "text": "risk of hepatotoxicity differs between 6REZ and 6HREZ.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.9171142578125,
+        237.4777374267578,
+        342.76910400390625
+      ],
+      "text": "Addition of a fluoroquinolone",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.9770202636719,
+        527.4036254882812,
+        364.4200439453125
+      ],
+      "text": "In patients with Hr-TB, treatment success rates were higher when fluoroquinolones were added to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.177001953125,
+        527.4365234375,
+        377.6200256347656
+      ],
+      "text": "(H)REZ regimens than when patients were treated with 6(H)REZ or >6(H)REZ, without the addition",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.37701416015625,
+        527.3980712890625,
+        390.8200378417969
+      ],
+      "text": "of fluoroquinolones (aOR: 2.8, 95% CL: 1.1–7.3). With the addition of fluoroquinolones in patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.5771179199219,
+        527.5786743164062,
+        404.0201416015625
+      ],
+      "text": "receiving (H)REZ, the number of deaths was reduced (aOR: 0.4, 95% CL: 0.2–1.1). Acquisition of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.7770080566406,
+        527.58740234375,
+        417.22003173828125
+      ],
+      "text": "additional resistance with progression to MDR-TB was also reduced when fluoroquinolones were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.9770202636719,
+        527.5223999023438,
+        430.4200439453125
+      ],
+      "text": "added to a ≥6(H)REZ regimen (aOR: 0.10, 95% CL: 0.01–1.2), albeit with small absolute numbers; 0.5%",
+      "font": "SegoeUI-Light",
+      "size": 10.964492797851562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        429.177001953125,
+        527.5165405273438,
+        443.6200256347656
+      ],
+      "text": "(1/221) of patients on ≥6(H)REZ plus fluoroquinolones acquired resistance to rifampicin compared with",
+      "font": "SegoeUI-Light",
+      "size": 10.951994895935059,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        442.37701416015625,
+        527.4212646484375,
+        456.8200378417969
+      ],
+      "text": "3.8% (44/1160) of patients who did not receive fluoroquinolones. Residual confounding could have",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        455.5771179199219,
+        527.4432373046875,
+        470.0201416015625
+      ],
+      "text": "increased this observed effect. The directness of the evidence was therefore downgraded because",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.7770080566406,
+        527.4067993164062,
+        483.22003173828125
+      ],
+      "text": "it was unclear whether fluoroquinolones were used at the beginning of treatment or only once DST",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.9770202636719,
+        310.2261047363281,
+        496.4200439453125
+      ],
+      "text": "results were available (in the second month or later).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        509.7942810058594,
+        209.9173126220703,
+        525.6463012695312
+      ],
+      "text": "Addition of streptomycin",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.854248046875,
+        527.4268188476562,
+        547.2972412109375
+      ],
+      "text": "The analysis showed that the addition of streptomycin (up to 3 months) to an (H)REZ regimen with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.05419921875,
+        527.42236328125,
+        560.4971923828125
+      ],
+      "text": "less than 4 months of pyrazinamide decreased the likelihood of treatment success (aOR: 0.4, 95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.2542114257812,
+        527.3795776367188,
+        573.6972045898438
+      ],
+      "text": "CL: 0.2–0.7), an effect that may in part be due to confounding. The addition of streptomycin did not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        572.34423828125,
+        527.270751953125,
+        586.897216796875
+      ],
+      "text": "Annex 6 significantly reduce mortality (see  ). There were no data on the use of other injectable agents",
+      "font": "SegoeUI-SemiBold",
+      "size": 10.981884956359863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.6541748046875,
+        398.7035827636719,
+        600.09716796875
+      ],
+      "text": "(i.e., kanamycin, amikacin, and capreomycin) for the treatment of Hr-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        613.4713745117188,
+        185.06886291503906,
+        629.3234252929688
+      ],
+      "text": "Treatment outcomes",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.5313720703125,
+        527.480712890625,
+        650.974365234375
+      ],
+      "text": "When analysing the overall treatment outcomes for each one of the regimens assessed for this review,",
+      "font": "SegoeUI-Light",
+      "size": 10.972916603088379,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.7313842773438,
+        527.3837280273438,
+        664.1743774414062
+      ],
+      "text": "other limitations related to the characteristics of patients included in these studies were evident and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.931396484375,
+        527.2924194335938,
+        677.3743896484375
+      ],
+      "text": "could not be controlled for. Those limitations were patient selection, and allocation to treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.1312866210938,
+        527.4078369140625,
+        690.5742797851562
+      ],
+      "text": "with specific regimens and their relationship with disease severity. Outcomes appeared to be worse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3314208984375,
+        527.3848266601562,
+        703.7744140625
+      ],
+      "text": "in patients with cavitary disease, persistence of sputum smear positivity and previous history of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        702.5313720703125,
+        527.540283203125,
+        716.974365234375
+      ],
+      "text": "treatment, who received a 6(H)REZ or >6(H)REZ regimen with an additional 3 months of pyrazinamide",
+      "font": "SegoeUI-Light",
+      "size": 10.965445518493652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        715.6213989257812,
+        527.406005859375,
+        730.1743774414062
+      ],
+      "text": "Annex 5 and 1–3 months of streptomycin (see Hr-TB, 2018 in  ). However, the limited number of",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.931396484375,
+        527.4378662109375,
+        743.3743896484375
+      ],
+      "text": "observations made it difficult to draw definitive conclusions based on the severity of TB disease or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.1312866210938,
+        298.5364685058594,
+        756.5742797851562
+      ],
+      "text": "the effect of other comorbidities on this regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "138 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

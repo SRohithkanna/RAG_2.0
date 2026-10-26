@@ -1,0 +1,534 @@
+{
+  "file": "Latent",
+  "page": 20,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        54.572994232177734,
+        526.5960083007812,
+        67.37299346923828
+      ],
+      "text": "effect depends on the level of confidence in that estimate: the higher the quality of evidence, the more likely",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        68.57299041748047,
+        526.7123413085938,
+        81.37299346923828
+      ],
+      "text": "a strong recommendation can be made. A decision on the strength of the evidence also depends on other",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        82.57299041748047,
+        526.6112670898438,
+        95.37299346923828
+      ],
+      "text": "factors. The strength of a recommendation reflects the degree of confidence of the GDG that the desirable",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        96.57299041748047,
+        526.6343383789062,
+        109.37299346923828
+      ],
+      "text": "effects outweigh the undesirable effects. The desirable effects included beneficial health outcomes (e.g.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.57299041748047,
+        526.658447265625,
+        123.37299346923828
+      ],
+      "text": "prevention and early diagnosis of TB, reduced TB-related morbidity and mortality), a smaller burden of TB and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.57299041748047,
+        526.6343994140625,
+        137.37298583984375
+      ],
+      "text": "more savings; whereas the undesirable effects include harm, a greater burden and more costs. The “burdens”",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        138.572998046875,
+        526.6823120117188,
+        151.37298583984375
+      ],
+      "text": "included adherence to the recommendations by programmes, patients and caregivers (e.g. families), such as",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.572998046875,
+        300.6881103515625,
+        165.37298583984375
+      ],
+      "text": "more frequent tests and taking additional medications.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.24298095703125,
+        302.5931701660156,
+        185.04296875
+      ],
+      "text": "The quality of evidence was categorized into four levels:",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        191.9129638671875,
+        490.10614013671875,
+        204.71295166015625
+      ],
+      "text": "We are very confident that the true effect lies close to that of the estimate of the effect. High",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        211.58294677734375,
+        526.6250610351562,
+        224.3829345703125
+      ],
+      "text": "We are moderately confident that the true effect is likely to be close to the estimate of the effect,  Moderate",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.56610107421875,
+        225.58294677734375,
+        357.39007568359375,
+        238.3829345703125
+      ],
+      "text": "but there is a possibility that it is substantially different.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        245.2529296875,
+        514.1660766601562,
+        258.05291748046875
+      ],
+      "text": "Our confidence in the effect estimate is limited: the true effect may be substantially different. Low",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        264.92291259765625,
+        526.698974609375,
+        277.722900390625
+      ],
+      "text": "We have very little confidence in the effect estimate: the true effect is likely to be substantially  Very low",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        127.56610107421875,
+        278.92291259765625,
+        165.5421142578125,
+        291.722900390625
+      ],
+      "text": "different.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        298.5928955078125,
+        380.01019287109375,
+        311.39288330078125
+      ],
+      "text": "The recommendations in these guidelines are either strong or conditional.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        318.26287841796875,
+        526.7183227539062,
+        331.0628662109375
+      ],
+      "text": "A   recommendation is one for which the GDG was confident that the desirable effects of adherence  strong",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        332.26287841796875,
+        481.6043395996094,
+        345.0628662109375
+      ],
+      "text": "would outweigh the undesirable effects. This could be either in favour of or against an intervention.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8760986328125,
+        351.9328918457031,
+        526.64013671875,
+        364.7328796386719
+      ],
+      "text": "A   recommendation is one for which the GDG concluded that the desirable effects of adherence  conditional",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        365.9328918457031,
+        526.7153930664062,
+        378.7328796386719
+      ],
+      "text": "would probably outweigh the undesirable effects, but the GDG was not confident about the trade-off.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        379.9328918457031,
+        526.6631469726562,
+        392.7328796386719
+      ],
+      "text": "The reasons for lack of confidence included: absence of high-quality evidence (few data to support the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        393.9328918457031,
+        526.6292114257812,
+        406.7328796386719
+      ],
+      "text": "recommendation); imprecise estimates of benefit or harm (new evidence might change the ratio of risk to",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        407.9328918457031,
+        526.7232666015625,
+        420.7328796386719
+      ],
+      "text": "benefit); uncertainty or variation in the value of the outcomes for different individuals (applicable only to a",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        421.9328918457031,
+        526.6701049804688,
+        434.7328796386719
+      ],
+      "text": "specific group, population or setting); and small benefits or benefits that might not be worth the cost (including",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.87606811523438,
+        435.9328918457031,
+        272.2461242675781,
+        448.7328796386719
+      ],
+      "text": "the cost of implementing the recommendation).",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        463.8861999511719,
+        382.8582458496094,
+        480.6692199707031
+      ],
+      "text": "1.7\t Publication, implementation, evaluation and expiry",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        486.6045227050781,
+        526.7153930664062,
+        499.4045104980469
+      ],
+      "text": "These guidelines will be published on the WHO website in at least four languages (English, French, Spanish",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.6045227050781,
+        526.7060546875,
+        513.404541015625
+      ],
+      "text": "and Russian) and can be downloaded freely. The printed guidelines will be widely distributed at international",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        514.6044921875,
+        526.67724609375,
+        527.4044799804688
+      ],
+      "text": "and regional conferences and meetings of programme managers in all regions. Implementation of the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.6044921875,
+        526.6292724609375,
+        541.4044799804688
+      ],
+      "text": "recommendations will be monitored regularly in the annual data collection system of WHO Global TB Data",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        542.6044921875,
+        526.6743774414062,
+        555.4044799804688
+      ],
+      "text": "Monitoring. WHO will update the guidelines 5 years after their publication or earlier if new evidence becomes",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        556.6044921875,
+        227.02110290527344,
+        569.4044799804688
+      ],
+      "text": "available that necessitates a revision.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.5632934570312,
+        397.0997619628906,
+        601.3463134765625
+      ],
+      "text": "1.8\t Presentation of the guidelines and recommendations",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.28173828125,
+        526.6721801757812,
+        620.0817260742188
+      ],
+      "text": "The overall structure of these guidelines and the recommendations follow the logical cascade of management",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.28173828125,
+        526.6512451171875,
+        634.0817260742188
+      ],
+      "text": "of LTBI: identification of at-risk populations (adults and children living with HIV, HIV-negative adult and child",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.28173828125,
+        526.7080688476562,
+        648.0817260742188
+      ],
+      "text": "contacts of TB cases and other HIV-negative at-risk groups); ruling out active TB disease; testing for LTBI;",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        649.28173828125,
+        526.6971435546875,
+        662.0817260742188
+      ],
+      "text": "providing treatment; monitoring adverse events; adherence to and completion of treatment; and monitoring",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        663.28173828125,
+        526.6723022460938,
+        676.0817260742188
+      ],
+      "text": "and evaluation. The recommendations are categorized as   (recommendations that were published in  existing",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        677.28173828125,
+        526.6600952148438,
+        690.0817260742188
+      ],
+      "text": "previous guidelines approved by the review committee and are still valid);   (recommendations that  updated",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        691.28173828125,
+        526.7083740234375,
+        704.0817260742188
+      ],
+      "text": "were published in previous guidelines approved by the review committee, for which the evidence was reviewed,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        705.28173828125,
+        526.6723022460938,
+        718.0817260742188
+      ],
+      "text": "discussed in the GDG and updated, including for clarity); and   (recommendations that were made for the  new",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        719.28173828125,
+        153.7751007080078,
+        732.0817260742188
+      ],
+      "text": "current guidelines).",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        47.524898529052734,
+        790.2608032226562,
+        56.69289779663086,
+        810.61279296875
+      ],
+      "text": "8",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

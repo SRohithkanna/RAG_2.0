@@ -1,0 +1,726 @@
+{
+  "file": "module5",
+  "page": 28,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.202392578125,
+        496.0561828613281,
+        82.86639404296875
+      ],
+      "text": "Figure 1: Cascade of care in children and adolescents exposed to and with TB, with",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        82.6024169921875,
+        484.0081481933594,
+        97.26641845703125
+      ],
+      "text": "broad topics of PICO questions with corresponding numbers as per section 1.3.1",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        353.3468933105469,
+        107.62469482421875,
+        519.421875,
+        118.83204650878906
+      ],
+      "text": "Diagnostic approaches  Treatment of",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        366.19549560546875,
+        116.17340087890625,
+        524.7477416992188,
+        127.38075256347656
+      ],
+      "text": "(PICO 2 a and b) DS-TB, DR-TB",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        467.4714050292969,
+        124.7220458984375,
+        504.38470458984375,
+        135.9293975830078
+      ],
+      "text": "and TBM",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        467.4714050292969,
+        133.270751953125,
+        513.4976196289062,
+        144.4781036376953
+      ],
+      "text": "(PICO 3, 4a",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        381.20721435546875,
+        135.1174774169922,
+        418.5393981933594,
+        146.2307891845703
+      ],
+      "text": "Accessed",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        467.4714050292969,
+        141.8194580078125,
+        522.747314453125,
+        153.0268096923828
+      ],
+      "text": "and 4b, and 5)",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        381.20721435546875,
+        145.3759002685547,
+        421.20660400390625,
+        156.4892120361328
+      ],
+      "text": "health care",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        340.27392578125,
+        155.6343231201172,
+        495.2020263671875,
+        167.19361877441406
+      ],
+      "text": "system Feeling ill Diagnosed Treated",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        273.1828918457031,
+        166.99205017089844,
+        306.8049011230469,
+        178.10536193847656
+      ],
+      "text": "Diseased",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        244.8704071044922,
+        188.2234344482422,
+        277.1075439453125,
+        199.3367462158203
+      ],
+      "text": "Did NOT",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        227.3541259765625,
+        198.4818572998047,
+        279.2789001464844,
+        209.5951690673828
+      ],
+      "text": "access health",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        233.34677124023438,
+        208.7402801513672,
+        277.1075744628906,
+        219.8535919189453
+      ],
+      "text": "care system",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        264.0148010253906,
+        243.121337890625,
+        357.477783203125,
+        254.3286895751953
+      ],
+      "text": "Models of Care TB case",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        264.0148010253906,
+        251.6700439453125,
+        375.9771728515625,
+        262.87738037109375
+      ],
+      "text": "detection and TB prevention",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        264.0148010253906,
+        260.21875,
+        330.2159423828125,
+        271.42608642578125
+      ],
+      "text": "(PICO 6 a and b)",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        137.5699005126953,
+        260.38446044921875,
+        168.6358642578125,
+        271.49774169921875
+      ],
+      "text": "Exposed",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        204.19000244140625,
+        265.72357177734375,
+        236.91444396972656,
+        276.9992980957031
+      ],
+      "text": "Infected",
+      "font": "AcuminPro-Bold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        418.0093994140625,
+        269.89727783203125,
+        483.50946044921875,
+        281.01055908203125
+      ],
+      "text": "Un/misdiagnosed",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.9613037109375,
+        308.216796875,
+        262.237060546875,
+        320.193359375
+      ],
+      "text": "Susceptible Accessed health care system",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        161.91522216796875,
+        325.1890869140625,
+        258.173583984375,
+        336.39642333984375
+      ],
+      "text": "Screening in health care",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        175.7641143798828,
+        333.73779296875,
+        242.2473602294922,
+        344.94512939453125
+      ],
+      "text": "facilities (PICO 1)",
+      "font": "AcuminPro-Semibold",
+      "size": 8.548700332641602,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        291.7961120605469,
+        346.41217041015625,
+        367.8196105957031,
+        357.52545166015625
+      ],
+      "text": "Preventive treatment",
+      "font": "AcuminPro-Light",
+      "size": 8.548700332641602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        368.6316223144531,
+        480.343017578125,
+        381.12762451171875
+      ],
+      "text": "Source: Roadmap towards ending TB in children and adolescents. Second edition. Geneva: World Health Organization; 2018.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        382.46630859375,
+        291.4748229980469,
+        394.9623107910156
+      ],
+      "text": "DS/DR-TB: drug-susceptible/drug-resistant TB; TBM: TB meningitis.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        405.9048156738281,
+        527.3827514648438,
+        420.34783935546875
+      ],
+      "text": "Based on this understanding of the cascade of TB care in children and adolescents, the potential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.10479736328125,
+        527.398193359375,
+        433.5478210449219
+      ],
+      "text": "contribution of interventions targeting different steps in this cascade is summarized in the following",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.3048095703125,
+        527.4454345703125,
+        446.7478332519531
+      ],
+      "text": "logic model (which was the model used to frame these guidelines) with the potential contribution of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.5047912597656,
+        317.69293212890625,
+        459.94781494140625
+      ],
+      "text": "the evidence to short-term and long-term outcomes (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        317.68939208984375,
+        445.5047912597656,
+        354.7484130859375,
+        459.94781494140625
+      ],
+      "text": "Figure 2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        354.7499084472656,
+        445.5047912597656,
+        360.29388427734375,
+        459.94781494140625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        476.73272705078125,
+        517.5338134765625,
+        491.396728515625
+      ],
+      "text": "Figure 2: The logic model used for the guidelines on the management of TB in children",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.1327209472656,
+        157.37289428710938,
+        505.7967224121094
+      ],
+      "text": "and adolescents",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.58679962158203,
+        525.5855102539062,
+        494.3901672363281,
+        536.4915771484375
+      ],
+      "text": "Inputs Activities Short-term Long-term",
+      "font": "AcuminPro-Semibold",
+      "size": 8.318900108337402,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        335.7225341796875,
+        535.5681762695312,
+        494.7478942871094,
+        546.4742431640625
+      ],
+      "text": "outcomes* outcomes*",
+      "font": "AcuminPro-Semibold",
+      "size": 8.318900108337402,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        557.3304443359375,
+        519.7578125,
+        568.14501953125
+      ],
+      "text": "• Stakeholder  • Contact investigation • Earlier and increased  • Reduced TB incidence",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        566.481201171875,
+        502.9835510253906,
+        578.9595947265625
+      ],
+      "text": "engagement from all  detection of DS- and  and prevalence in  • TB screening activities",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        575.6319580078125,
+        484.2410888671875,
+        589.774169921875
+      ],
+      "text": "sectors in the  DR-TB in children and  children and  • Diagnostic",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        584.74951171875,
+        505.7372131347656,
+        598.9249267578125
+      ],
+      "text": "(1, 2, 6) (1, 2, 6) community adolescents adolescents  approaches for",
+      "font": "AcuminPro-LightItalic",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        595.5973510742188,
+        516.5717163085938,
+        608.07568359375
+      ],
+      "text": "• Financial resources • Improved TB  • Reduced TB mortality  relevant forms of DS-",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        604.7481689453125,
+        492.8012390136719,
+        617.2265014648438
+      ],
+      "text": "treatment outcomes  in children and  • Human resources and DR-TB",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        613.8656616210938,
+        519.0557250976562,
+        628.0410766601562
+      ],
+      "text": "(3, 4, 5)  (1, 3, 4, 5, 6) adolescents • Equipment and  • Optimal treatment",
+      "font": "AcuminPro-LightItalic",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        624.7135009765625,
+        501.9221496582031,
+        637.19189453125
+      ],
+      "text": "• Increase in TB  • Reduced post-TB  supplies regimens for the",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        633.8642578125,
+        511.0445861816406,
+        648.0064697265625
+      ],
+      "text": "preventive treatment  sequelae in children  treatment of DS- and  • Participation by",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        642.9818115234375,
+        515.1375122070312,
+        657.1572265625
+      ],
+      "text": "(4, 5) coverage in children  and adolescents DR-TB families with children",
+      "font": "AcuminPro-LightItalic",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        652.1326293945312,
+        503.2531433105469,
+        666.3079833984375
+      ],
+      "text": "(6)  and adolescents • Reduced financial  and adolescents  • Innovative models of",
+      "font": "AcuminPro-LightItalic",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        662.98046875,
+        511.369140625,
+        675.4588012695312
+      ],
+      "text": "• Improved quality of  losses due to TB, for  exposed to or with  care to deliver TB",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        672.1312255859375,
+        507.5257568359375,
+        684.609619140625
+      ],
+      "text": "child and adolescent  families and for the  (presumptive) TB services to children",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        681.2487182617188,
+        512.9080200195312,
+        695.4241943359375
+      ],
+      "text": "(6)  (1, 2, 3, 6)  TB care  community and adolescents • Community",
+      "font": "AcuminPro-LightItalic",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        693.7603759765625,
+        273.8942565917969,
+        704.574951171875
+      ],
+      "text": "participation • Capacity building of",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        702.9111328125,
+        282.25970458984375,
+        715.3895263671875
+      ],
+      "text": "health care workers at  • Infection control at",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        712.0619506835938,
+        231.2648468017578,
+        724.540283203125
+      ],
+      "text": "all levels community level",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.99993896484375,
+        722.8765258789062,
+        283.1614990234375,
+        735.3548583984375
+      ],
+      "text": "• Demand generation at  • Evidence from",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.07100677490234,
+        732.0272827148438,
+        259.2413024902344,
+        744.5056762695312
+      ],
+      "text": "community level research",
+      "font": "AcuminPro-Light",
+      "size": 8.318900108337402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        760.0206298828125,
+        394.3725891113281,
+        772.5565795898438
+      ],
+      "text": ". *The numbers under short- and long-term outcomes refer to the PICO questions in section 1.6.1",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        773.855224609375,
+        224.13999938964844,
+        786.3511962890625
+      ],
+      "text": "DS/DR-TB: drug-susceptible/drug-resistant TB.",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "4 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

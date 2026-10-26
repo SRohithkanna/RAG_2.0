@@ -1,0 +1,82 @@
+{
+  "file": "module1",
+  "page": 246,
+  "table_id": 2,
+  "bbox": [
+    71.10005434097782,
+    469.9771016438802,
+    524.4935972152218,
+    647.9761352539062
+  ],
+  "heading": "Table A5.2. Primary efficacy analysis – mITT population",
+  "n_rows": 11,
+  "n_cols": 4,
+  "data": [
+    [
+      "mITT population",
+      "Levofloxacin",
+      "Placebo",
+      "Total"
+    ],
+    [
+      "All participants",
+      "451",
+      "465",
+      "916"
+    ],
+    [
+      "Participants with ethics review committee adjudicated TB endpoint during overall study follow-up",
+      "7 (1.6%)",
+      "14 (3.0%)",
+      "21"
+    ],
+    [
+      "Confirmed TB",
+      "3",
+      "7",
+      "10"
+    ],
+    [
+      "Unconfirmed TB",
+      "4",
+      "7",
+      "11"
+    ],
+    [
+      "Primary efficacy analysis",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Participants with TB end-point by 48 weeksa",
+      "5 (1.1%)",
+      "12 (2.6%)",
+      "17"
+    ],
+    [
+      "Confirmed TB",
+      "3",
+      "7",
+      "10"
+    ],
+    [
+      "Unconfirmed TB",
+      "2",
+      "5",
+      "7"
+    ],
+    [
+      "Hazard ratio (95% CI), Levofloxacin vs placebob",
+      "0.44 (0.15 ; 1.25)",
+      "",
+      ""
+    ],
+    [
+      "P",
+      "0.121",
+      "",
+      ""
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file": "module1",
+  "page": 181,
+  "table_id": 1,
+  "bbox": [
+    56.776268005371094,
+    91.18569946289062,
+    784.3636474609375,
+    143.58551025390625
+  ],
+  "heading": "Type of recommendation",
+  "n_rows": 2,
+  "n_cols": 5,
+  "data": [
+    [
+      "Strong recommendation against the intervention",
+      "Conditional recommendation against the intervention",
+      "Conditional recommendation for either the intervention or the comparison",
+      "Conditional recommendation for the intervention",
+      "Strong recommendation for the intervention"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

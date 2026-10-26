@@ -1,0 +1,510 @@
+{
+  "file": "module6",
+  "page": 38,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        65.32479858398438,
+        514.4664306640625,
+        87.50979614257812
+      ],
+      "text": "2.3\t High quality tuberculosis treatment for people living",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.88200378417969,
+        83.32479858398438,
+        171.19898986816406,
+        105.50979614257812
+      ],
+      "text": "with HIV",
+      "font": "SegoeUI-SemiBold",
+      "size": 17.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        119.83841705322266,
+        210.62709045410156,
+        135.66641235351562
+      ],
+      "text": "WHO recommendations",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.7854995727539,
+        146.87445068359375,
+        265.8865051269531,
+        160.06443786621094
+      ],
+      "text": "TB treatment for people living with HIV",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        167.92044067382812,
+        520.2328491210938,
+        180.39393615722656
+      ],
+      "text": "12. It is recommended that TB patients who are living with HIV should receive at least the same duration of daily",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        179.32040405273438,
+        462.6051940917969,
+        191.7938995361328
+      ],
+      "text": "TB treatment as HIV-negative TB patients .   (strong recommendation, high certainty of evidence) (17)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        197.57522583007812,
+        514.8073120117188,
+        210.04872131347656
+      ],
+      "text": "13. People living with HIV with TB and histoplasmosis coinfection should receive TB therapy according to WHO",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        208.97518920898438,
+        407.4953918457031,
+        221.4486846923828
+      ],
+      "text": "treatment guidelines  .  (conditional recommendation; very-low-certainty evidence) (20)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        76.7854995727539,
+        228.8612060546875,
+        309.198486328125,
+        242.0511932373047
+      ],
+      "text": "Integrated delivery of care for HIV-associated TB",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        249.90719604492188,
+        511.80450439453125,
+        262.3807067871094
+      ],
+      "text": "14. In settings with a high burden of HIV and TB, TB treatment may be provided for people living with HIV in HIV",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        75.08470153808594,
+        261.3073425292969,
+        514.5169067382812,
+        273.7808532714844
+      ],
+      "text": "care settings where a TB diagnosis has also been made  .  (strong recommendation, very-low-certainty evidence) (21)",
+      "font": "SegoeUI-Light",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        293.056396484375,
+        194.8868865966797,
+        312.63140869140625
+      ],
+      "text": "2.3.1\t Background",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        325.3824157714844,
+        527.43115234375,
+        339.825439453125
+      ],
+      "text": "Early initiation of TB treatment and ART among people with both TB and HIV is critical for reducing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        339.3824157714844,
+        527.4002685546875,
+        353.825439453125
+      ],
+      "text": "mortality and improving TB treatment outcomes. People living with HIV who receive a diagnosis of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        353.3824157714844,
+        527.4212646484375,
+        367.825439453125
+      ],
+      "text": "TB should receive a WHO-recommended TB treatment regimen. This section covers timing of TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        367.3824157714844,
+        527.4300537109375,
+        381.825439453125
+      ],
+      "text": "treatment, as well as provision of integrated care. WHO recommendations on treatment regimens",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        381.3824157714844,
+        527.4367065429688,
+        395.825439453125
+      ],
+      "text": "for people with drug-susceptible TB and MDR-TB can be found in  WHO consolidated guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        395.3824157714844,
+        527.4405517578125,
+        409.825439453125
+      ],
+      "text": "and in  on tuberculosis. Module 4: treatment – drug-susceptible tuberculosis treatment (17) WHO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        409.4154357910156,
+        524.4301147460938,
+        423.6274108886719
+      ],
+      "text": "consolidated guidelines on tuberculosis. Module 4: treatment – drug-resistant tuberculosis treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        423.3824157714844,
+        527.38232421875,
+        437.825439453125
+      ],
+      "text": ". The timing of ART initiation in people with presumed or diagnosed TB is covered in Section 3.2.  (16)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        461.0564270019531,
+        354.8603515625,
+        480.6314392089844
+      ],
+      "text": "2.3.2\t Summary of evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        493.2064208984375,
+        457.7778625488281,
+        507.6274108886719
+      ],
+      "text": "Recommendation 12: Duration of daily TB treatment for people living with HIV",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        507.3824462890625,
+        527.3900146484375,
+        521.825439453125
+      ],
+      "text": "This recommendation was first put forward in 2010 and is considered valid in the guidelines",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        521.3824462890625,
+        527.404541015625,
+        535.825439453125
+      ],
+      "text": "update of 2017 and in the current consolidated guidelines on drug susceptible TB treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        535.3824462890625,
+        527.3935546875,
+        549.825439453125
+      ],
+      "text": "A systematic review and meta-analysis of six randomized controlled trials (RCTs) and 21 cohort",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        549.3824462890625,
+        527.3506469726562,
+        563.825439453125
+      ],
+      "text": "studies provided pooled estimates of failure, relapse and death by duration of rifampicin, and daily",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        563.3824462890625,
+        527.407958984375,
+        577.825439453125
+      ],
+      "text": "intensive phase versus intermittent throughout  . The systematic review revealed a marked and  (40)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        577.3823852539062,
+        527.3837280273438,
+        591.8253784179688
+      ],
+      "text": "significant reduction in failure and relapse in the study arms in which some or all study participants",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        591.3823852539062,
+        527.447509765625,
+        605.8253784179688
+      ],
+      "text": "received ART. In a regression model, treatment failure or relapse was 1.8–2.5 times more likely with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        605.3823852539062,
+        527.4014282226562,
+        619.8253784179688
+      ],
+      "text": "intermittent rather than daily dosing in the intensive phase. Compared with 8 or more months",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        619.3823852539062,
+        527.3956909179688,
+        633.8253784179688
+      ],
+      "text": "of rifampicin, 2-month rifampicin regimens carried a 3-fold higher risk of relapse, and 6-month",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        633.3823852539062,
+        527.4356079101562,
+        647.8253784179688
+      ],
+      "text": "regimens carried a 2.2-fold higher risk. Extending treatment beyond 6 months is recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        647.3823852539062,
+        527.3903198242188,
+        661.8253784179688
+      ],
+      "text": "by some expert groups in certain persons living with HIV and the meta-analysis showed that this",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        661.3823852539062,
+        527.4014892578125,
+        675.8253784179688
+      ],
+      "text": "is associated with significantly lower relapse rates. However, several other considerations were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        675.3823852539062,
+        527.4002685546875,
+        689.8253784179688
+      ],
+      "text": "given greater weight. Separate regimens for people with TB living with or without HIV would be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        689.3823852539062,
+        527.39599609375,
+        703.8253784179688
+      ],
+      "text": "very challenging in operational terms and could create stigma. Other potential harms of extending",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        703.3823852539062,
+        527.412353515625,
+        717.8253784179688
+      ],
+      "text": "treatment are acquired resistance to rifampicin, and a longer period during which ART options are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86630249023438,
+        717.3823852539062,
+        299.0426330566406,
+        731.8253784179688
+      ],
+      "text": "limited (because of ART–rifampicin interactions).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661994934082,
+        801.2599487304688,
+        51.106197357177734,
+        811.763916015625
+      ],
+      "text": "20",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        801.2599487304688,
+        136.4342041015625,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.2599487304688,
+        170.0604705810547,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "file": "module1",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.28069305419922,
+        527.5228881835938,
+        81.83369445800781
+      ],
+      "text": "TB preventive treatment (TPT):  is treatment offered to individuals who are considered to be",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4301147460938,
+        95.03370666503906
+      ],
+      "text": "harbouring TBI and to be at risk of developing TB disease in order to reduce that risk. Also referred",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        363.3367004394531,
+        108.23371887207031
+      ],
+      "text": "to as treatment of LTBI or TB infection, or TB preventive therapy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        114.21863555908203,
+        527.4215087890625,
+        129.93763732910156
+      ],
+      "text": "M. tuberculosis Tuberculosis (TB):  is the disease state due to . In this document, it is referred to as",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        128.69459533691406,
+        329.8158264160156,
+        143.13758850097656
+      ],
+      "text": "“TB disease” in order to distinguish it from “TB infection”.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        149.1226348876953,
+        527.3651123046875,
+        164.8416290283203
+      ],
+      "text": "M. tuberculosis  Tuberculosis infection (TBI):  is a state of persistent immune response to stimulation by",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        163.59864807128906,
+        527.4454956054688,
+        178.04164123535156
+      ],
+      "text": "antigens with no clinically manifest TB disease. Most infected people have no signs or symptoms of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        176.79859924316406,
+        527.3970336914062,
+        191.24159240722656
+      ],
+      "text": "TB but are at risk of TB disease. TBI was previously referred to as “latent TB infection” or LTBI, but, as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        189.99855041503906,
+        527.578369140625,
+        204.44154357910156
+      ],
+      "text": "infection cannot always be considered latent, the term TBI (TBI) is preferred. There is no gold standard",
+      "font": "SegoeUI-Light",
+      "size": 10.978328704833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        201.92250061035156,
+        370.9250183105469,
+        217.64149475097656
+      ],
+      "text": "M. tuberculosis test for direct identification of   infection in humans.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        224.79254150390625,
+        527.4246826171875,
+        239.3455352783203
+      ],
+      "text": "Underweight:  in people ≥ 19 years, usually refers to a body mass index < 18.5 kg/m ; in people  2",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86618041992188,
+        238.10243225097656,
+        335.77154541015625,
+        252.54542541503906
+      ],
+      "text": "aged < 19 years, refers to a weight-for-age < –2 z-scores.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.67073059082031,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "x WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

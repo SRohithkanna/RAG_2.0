@@ -1,0 +1,282 @@
+{
+  "file": "module4",
+  "page": 307,
+  "blocks": [
+    {
+      "bbox": [
+        74.0835952758789,
+        78.5724105834961,
+        88.4385986328125,
+        141.64422607421875
+      ],
+      "text": "Comparison",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        86.0835952758789,
+        101.8991470336914,
+        407.5118103027344,
+        121.33612060546875
+      ],
+      "text": "10.1 10.2 10.3 10.4 10.5 8.1 8.2 8.3 8.4 8.5 8.6 9.1 9.2 #",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        214.6656951904297,
+        94.4385986328125,
+        342.56719970703125
+      ],
+      "text": "Comparator [data source]",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        247.8748016357422,
+        321.05340576171875,
+        342.56719970703125
+      ],
+      "text": "WHO_short [SA_old] WHO_short [SA_old] BPaLC [PRACTECAL]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        128.9228057861328,
+        266.7662353515625,
+        342.66802978515625,
+        342.56719970703125
+      ],
+      "text": "WHO_long [IPD] WHO_long [IPD] WHO_long [IPD]",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        193.76651000976562,
+        292.8240966796875,
+        407.5118103027344,
+        342.56719970703125
+      ],
+      "text": "BPaL (all 5) BPaL (all 5) BPaL (all 5)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        150.5373992919922,
+        306.7292175292969,
+        364.2826232910156,
+        342.56719970703125
+      ],
+      "text": "SA_new SA_new",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        172.15200805664062,
+        317.1374206542969,
+        385.897216796875,
+        342.56719970703125
+      ],
+      "text": "NeXT NeXT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.0835952758789,
+        368.1493225097656,
+        88.4385986328125,
+        432.60931396484375
+      ],
+      "text": "Intervention",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        86.0835952758789,
+        391.2900085449219,
+        100.4385986328125,
+        432.60931396484375
+      ],
+      "text": "regimen",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        401.5442199707031,
+        321.05340576171875,
+        432.60931396484375
+      ],
+      "text": "BPaLM BPaLC BPaLC",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        451.4525451660156,
+        94.4385986328125,
+        505.559326171875
+      ],
+      "text": "Population",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        466.3432312011719,
+        321.05340576171875,
+        505.559326171875
+      ],
+      "text": "pre-XDR MDR/RR MDR/RR",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        131.30821228027344,
+        518.9645385742188,
+        357.05340576171875,
+        713.1971435546875
+      ],
+      "text": "with pulmonary pre-XDR-TB (MDR/RR-TB  with pulmonary MDR/RR-TB and without  with pulmonary MDR/RR-TB and without  moxifloxacin (BPaLM) be used in patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        119.3082046508789,
+        531.3175659179688,
+        345.05340576171875,
+        713.1971435546875
+      ],
+      "text": "clofazimine (BPaLC) be used in patients  clofazimine (BPaLC) be used in patients  bedaquiline, pretomanid, linezolid and  bedaquiline, pretomanid, linezolid and  bedaquiline, pretomanid, linezolid and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        284.9956970214844,
+        562.54443359375,
+        299.438720703125,
+        713.1971435546875
+      ],
+      "text": "with fluoroquinolone resistance)?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        566.7035522460938,
+        321.05340576171875,
+        713.1971435546875
+      ],
+      "text": "Should 6-month regimen using  Should 6-month regimen using  Should 6-month regimen using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        155.30821228027344,
+        587.51220703125,
+        369.05340576171875,
+        713.1971435546875
+      ],
+      "text": "fluoroquinolone resistance? fluoroquinolone resistance?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        642.105224609375,
+        94.4385986328125,
+        713.1971435546875
+      ],
+      "text": "PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        80.0835952758789,
+        727.05615234375,
+        94.4385986328125,
+        764.220703125
+      ],
+      "text": "PICO #",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        306.6103820800781,
+        752.8907470703125,
+        321.05340576171875,
+        764.220703125
+      ],
+      "text": "10",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        107.30819702148438,
+        758.5557250976562,
+        251.43870544433594,
+        764.220703125
+      ],
+      "text": "8 9",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        442.081298828125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Annex 4. PICO questions 293",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

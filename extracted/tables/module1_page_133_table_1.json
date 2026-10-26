@@ -1,0 +1,34 @@
+{
+  "file": "module1",
+  "page": 133,
+  "table_id": 1,
+  "bbox": [
+    56.6929677327474,
+    91.18577793666294,
+    784.197021484375,
+    531.9852396647135
+  ],
+  "heading": "Assessment",
+  "n_rows": 3,
+  "n_cols": 4,
+  "data": [
+    [
+      "",
+      "Judgement",
+      "Research evidence",
+      "Additional considerations"
+    ],
+    [
+      "Problem",
+      "Is the problem a priority? TB is the most frequent cause of HIV/AIDS-related deaths worldwide, despite progress in access to ART. TB caused • No 0.4 million deaths among PLHIV in 2015, representing one third of all HIV-related mortality. TPT is one of the key • Yes collaborative activities against TB and HIV. Preventive treatment can reduce TB incidence by about 30% and by up to • Varies 60% among those with a positive TST. Active TB must be excluded before TPT is given. • Don’t know",
+      "",
+      ""
+    ],
+    [
+      "Test accuracy",
+      "How accurate is the test? We conducted a systematic review to assess the performance of the WHO-recommended four-symptom screening • Very inaccurate rule to exclude active TB before preventive treatment in HIV-positive people. Where possible, subgroup analyses were • Inaccurate conducted by ART status, as the aim of this review was to study the effect with ART. • Accurate • Very accurate Negative predictive value for • Varies No. of Pooled sensitivity Pooled specificity Subgroup Type of screening TB prevalence (%) • Don’t know studies (%) (95% CI) (%) (95% CI) 1 5 10 20 Symptom screening alone 7 51.0 (28.4;73.2) 70.7 (47.8;86.4) 99.3 96.5 92.8 85.2 Symptom screening On ART plus abnormal chest 2 84.6 (69.7;92.9) 29.8 (26.3;33.6) 99.5 97.4 94.6 88.6 radiography Symptom screening alone 15 89.3 (82.6;93.6) 27.2 (17.3;40.0) 99.6 98.0 95.8 91.1 Not on Symptom screening ART plus abnormal chest 5 94.3 (76.2;98.8) 20.1 (7.6;43.8) 99.7 98.5 97.0 93.4 radiography Pregnant Symptom screening alone 4 27.1 (16.3;41.7) 82.4 (79.1;85.2) 99.1 95.6 91.1 81.9 women Children Symptom screening alone 1 100 (76.8;100) 4.3 (1.8;8.7) 100 100 100 100 Two studies provided data on the combination of CXR and the four-symptom screening rule in PLHIV on ART. Any CXR abnormality was used in one study and CXR abnormality suggestive of TB in the other. Both studies showed increased sensitivity (from 60% to 88% and 53% to 80%) and decreased specificity (from 55% to 26% and 55% to 37%) with the addition of abnormal CXR. The pooled sensitivity in the studies of the combination of abnormal CXR plus the four- symptom screening rule (84.6%, 95% CI 69.7 ; 92.9) was higher than that with the symptom screening rule alone (52.2%, 95% CI 38.0 ; 66.0); however, specificity decreased (29.8%, 95% CI 26.3 ; 33.6 vs 55.5%, 95% CI 51.8 ; 59.2). The differences in sensitivity and specificity by screening type were both statistically significant. Across studies, the median prevalence of TB among HIV-positive people on and not on ART was 1.5% (IQR: 0.6–3.5%) and 11.3% (IQR: 6.7–16.1%), respectively. When the prevalence of TB is 1.0%, the negative predictive value of the symptom screening rule is 99.3%, and addition of abnormal CXR increases it by 0.2%.",
+      "",
+      ""
+    ]
+  ]
+}

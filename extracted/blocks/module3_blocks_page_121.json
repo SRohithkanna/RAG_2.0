@@ -1,0 +1,474 @@
+{
+  "file": "module3",
+  "page": 121,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        527.0029296875,
+        82.30619812011719
+      ],
+      "text": "for sensitivity was more than 10 percentage points worse than the best performing platform,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        486.8130187988281,
+        97.80619812011719
+      ],
+      "text": "or where the point estimate for specificity was more than 5 percentage points worse.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.66522979736328,
+        527.0029296875,
+        121.81022644042969
+      ],
+      "text": "An IPD meta-analysis was performed instead of a classical meta-analysis, because the studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.16522979736328,
+        526.9656372070312,
+        137.3102264404297
+      ],
+      "text": "identified in the literature were generally too small to contribute to a classical meta-analysis,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.66522216796875,
+        526.9371337890625,
+        152.8102264404297
+      ],
+      "text": "particularly for the new and repurposed drugs. In addition, this type of approach allowed for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.16522216796875,
+        527.0029296875,
+        168.3102264404297
+      ],
+      "text": "relevant co-variables to be included in the model; it could also control for repeated testing on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        170.66522216796875,
+        524.422607421875,
+        183.8102264404297
+      ],
+      "text": "the same samples using different platforms, which was the case for much of the available data.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.98098373413086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.66912841796875,
+        527.2935791015625,
+        207.8141326904297
+      ],
+      "text": "For each dependent variable, a multivariable model included a number of co-variables as fixed",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989094734191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.14956665039062,
+        524.4093627929688,
+        223.3141326904297
+      ],
+      "text": "® ® effects. These included rifampicin resistance as determined by Xpert MTB/RIF  or Xpert Ultra",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        225.66912841796875,
+        523.961669921875,
+        238.8141326904297
+      ],
+      "text": "for all drugs other than rifampicin; semiquantitative cycle threshold (CT) value from Xpert MTB/",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964191436767578,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        241.14956665039062,
+        526.7127075195312,
+        254.3141326904297
+      ],
+      "text": "® ® RIF  or Xpert Ultra ; and a co-variable to indicate which samples featured in duplicate, meaning",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.978629112243652,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        256.66912841796875,
+        527.0591430664062,
+        269.81414794921875
+      ],
+      "text": "that some samples were sequenced on two different platforms and thus were represented",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.16912841796875,
+        526.9634399414062,
+        285.31414794921875
+      ],
+      "text": "twice in the analysis. For models looking specifically at diagnostic test accuracy in PLHIV, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.66912841796875,
+        527.0250244140625,
+        300.81414794921875
+      ],
+      "text": "HIV test result was included as a co-variable. Finally, the study site was included as a random",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.16912841796875,
+        527.1736450195312,
+        316.31414794921875
+      ],
+      "text": "effect. The models were run in Stata (version 17) using the melogit command, and the outputs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990095138549805,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.66912841796875,
+        526.9701538085938,
+        331.81414794921875
+      ],
+      "text": "were transformed using the margins command. Models were run for all PICO questions for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.1690979003906,
+        193.23980712890625,
+        347.3141174316406
+      ],
+      "text": "sensitivity and specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.1730041503906,
+        527.01953125,
+        371.3180236816406
+      ],
+      "text": "The certainty of the evidence of the pooled studies was assessed systematically for each of the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99940013885498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.6730041503906,
+        526.9371948242188,
+        386.8180236816406
+      ],
+      "text": "PICO questions using the GRADE approach, which produces an overall quality assessment (or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        389.1730041503906,
+        518.63671875,
+        402.3180236816406
+      ],
+      "text": "certainty) of evidence and has a framework for translating evidence into recommendations.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.1769104003906,
+        526.9589233398438,
+        426.3219299316406
+      ],
+      "text": "The GRADEpro Guideline Development Tool software   was used to generate summary of  (16)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.6769104003906,
+        526.9822998046875,
+        441.8219299316406
+      ],
+      "text": "findings tables for the sensitivity and specificity of each drug. The numbers of samples classified",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.968254089355469,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        444.1769104003906,
+        526.9810180664062,
+        457.3219299316406
+      ],
+      "text": "as true, false positive or negative were then calculated across a range of three prevalences of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.6769104003906,
+        527.0901489257812,
+        472.8219299316406
+      ],
+      "text": "drug resistance, chosen to be representative of different global settings. The quality of evidence",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95947551727295,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        475.1769104003906,
+        526.9808959960938,
+        488.3219299316406
+      ],
+      "text": "was rated as high (not downgraded), moderate (downgraded one level), low (downgraded",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.6769104003906,
+        527.1725463867188,
+        503.8219299316406
+      ],
+      "text": "two levels) or very low (downgraded more than two levels), based on five factors: risk of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.1768798828125,
+        526.9480590820312,
+        519.3218994140625
+      ],
+      "text": "bias, indirectness, inconsistency, imprecision and other considerations. The quality (certainty)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.6768798828125,
+        526.9459838867188,
+        534.8218994140625
+      ],
+      "text": "of evidence was downgraded by one level when a serious issue was identified and by two",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.1768798828125,
+        526.9656372070312,
+        550.3218994140625
+      ],
+      "text": "levels when a very serious issue was identified in any of the factors used to judge the quality",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.6768798828125,
+        130.0789031982422,
+        565.8218994140625
+      ],
+      "text": "of evidence.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.680908203125,
+        526.974853515625,
+        589.825927734375
+      ],
+      "text": "The data sources for the IPD data analysis are shown in   The analysis included data  Fig. 2.4.5.1.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995899200439453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.180908203125,
+        526.6126098632812,
+        605.325927734375
+      ],
+      "text": "from published studies, a large multicountry trial conducted by FIND, and several other studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987342834472656,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.680908203125,
+        527.1406860351562,
+        620.825927734375
+      ],
+      "text": "across multiple countries. Most of the studies only evaluated the Deeplex assay, while the FIND",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982736587524414,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.180908203125,
+        526.8988037109375,
+        636.325927734375
+      ],
+      "text": "trial evaluated both the Deeplex and the AmPORE-TB. Only one study evaluated TBseq. For each",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.953401565551758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        638.680908203125,
+        526.9755859375,
+        651.825927734375
+      ],
+      "text": "drug, one or two platforms were dropped from the analysis based on the overall number of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        654.180908203125,
+        526.926025390625,
+        667.325927734375
+      ],
+      "text": "resistant or susceptible samples available for that platform and drug, or because the accuracy",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.680908203125,
+        526.6414794921875,
+        682.825927734375
+      ],
+      "text": "of the platform did not meet the diagnostic test accuracy criteria for inclusion when compared",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987092971801758,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        685.180908203125,
+        242.17788696289062,
+        698.325927734375
+      ],
+      "text": "with the best performing platform.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 105",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

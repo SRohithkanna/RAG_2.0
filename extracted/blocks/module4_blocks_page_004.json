@@ -1,0 +1,534 @@
+{
+  "file": "module4",
+  "page": 4,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        353.42462158203125,
+        326.14453125,
+        363.9286193847656
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis. Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.52862548828125,
+        222.24949645996094,
+        382.0326232910156
+      ],
+      "text": "ISBN 978-92-4-010724-3 (electronic version)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        381.1286315917969,
+        203.3836669921875,
+        391.63262939453125
+      ],
+      "text": "ISBN 978-92-4-010725-0 (print version)",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        234.26280212402344,
+        399.1524963378906,
+        360.99407958984375,
+        409.5924987792969
+      ],
+      "text": "© World Health Organization 2025",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.33642578125,
+        526.370849609375,
+        427.8404235839844
+      ],
+      "text": "Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        426.9364318847656,
+        150.82928466796875,
+        437.4404296875
+      ],
+      "text": "(CC BY-NC-SA 3.0 IGO;",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        150.83489990234375,
+        426.9364318847656,
+        334.17657470703125,
+        437.4404296875
+      ],
+      "text": "https://creativecommons.org/licenses/by-nc-sa/3.0/igo",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        334.1943054199219,
+        426.9364318847656,
+        340.4183044433594,
+        437.4404296875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.0404357910156,
+        526.6882934570312,
+        455.54443359375
+      ],
+      "text": "Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.6404113769531,
+        526.28466796875,
+        465.1444091796875
+      ],
+      "text": "appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization,",
+      "font": "SegoeUI-Light",
+      "size": 7.98213005065918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.24041748046875,
+        526.564697265625,
+        474.7444152832031
+      ],
+      "text": "products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.8404235839844,
+        526.5855712890625,
+        484.34442138671875
+      ],
+      "text": "or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        482.5124206542969,
+        526.61181640625,
+        493.9444274902344
+      ],
+      "text": "“ suggested citation: This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or",
+      "font": "SegoeUI-LightItalic",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.0404357910156,
+        400.19342041015625,
+        503.54443359375
+      ],
+      "text": "accuracy of this translation. The original English edition shall be the binding and authentic edition”.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.14434814453125,
+        526.6871337890625,
+        521.6483154296875
+      ],
+      "text": "Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.7443237304688,
+        187.5244903564453,
+        531.248291015625
+      ],
+      "text": "Intellectual Property Organization (",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        187.5301971435547,
+        520.7443237304688,
+        338.3999328613281,
+        531.248291015625
+      ],
+      "text": "http://www.wipo.int/amc/en/mediation/rules/",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        338.4129943847656,
+        520.7443237304688,
+        342.44500732421875,
+        531.248291015625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.7681884765625,
+        526.5928955078125,
+        549.3521728515625
+      ],
+      "text": "Suggested citation . WHO consolidated guidelines on tuberculosis. Module 4: treatment and care. Geneva: World Health Organization;",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        548.4481811523438,
+        120.05022430419922,
+        558.9521484375
+      ],
+      "text": "2025. Licence:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        120.05370330810547,
+        548.4481811523438,
+        193.7913055419922,
+        558.9521484375
+      ],
+      "text": "CC BY-NC-SA 3.0 IGO",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        193.25289916992188,
+        548.4481811523438,
+        195.02890014648438,
+        558.9521484375
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.47216796875,
+        293.32781982421875,
+        577.05615234375
+      ],
+      "text": "Cataloguing-in-Publication (CIP) data.  CIP data are available at",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        293.33099365234375,
+        566.5521850585938,
+        355.5631408691406,
+        577.05615234375
+      ],
+      "text": "https://iris.who.int/",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        355.57708740234375,
+        566.5521850585938,
+        357.35308837890625,
+        577.05615234375
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.5761108398438,
+        292.0834045410156,
+        595.1600952148438
+      ],
+      "text": "Sales, rights and licensing.  To purchase WHO publications, see",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        292.55780029296875,
+        584.6561279296875,
+        444.9333190917969,
+        595.1600952148438
+      ],
+      "text": "https://www.who.int/publications/book-orders",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        444.93670654296875,
+        584.6561279296875,
+        526.6095581054688,
+        595.1600952148438
+      ],
+      "text": ". To submit requests for",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        594.256103515625,
+        259.0613708496094,
+        604.7600708007812
+      ],
+      "text": "commercial use and queries on rights and licensing, see",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        259.07708740234375,
+        594.256103515625,
+        359.4836730957031,
+        604.7600708007812
+      ],
+      "text": "https://www.who.int/copyright",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        359.4912109375,
+        594.256103515625,
+        363.4591979980469,
+        604.7600708007812
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        612.2800903320312,
+        526.55712890625,
+        622.8640747070312
+      ],
+      "text": "Third-party materials.  If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it",
+      "font": "SegoeUI-SemiBold",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        621.9601440429688,
+        526.611328125,
+        632.464111328125
+      ],
+      "text": "is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        631.5599975585938,
+        456.806396484375,
+        642.06396484375
+      ],
+      "text": "risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        649.583984375,
+        526.6102294921875,
+        660.16796875
+      ],
+      "text": "General disclaimers.  The designations employed and the presentation of the material in this publication do not imply the expression of any opinion",
+      "font": "SegoeUI-SemiBold",
+      "size": 7.959899425506592,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        659.2640380859375,
+        526.7803955078125,
+        669.7680053710938
+      ],
+      "text": "whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation",
+      "font": "SegoeUI-Light",
+      "size": 7.959899425506592,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        668.864013671875,
+        526.57958984375,
+        679.3679809570312
+      ],
+      "text": "of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.",
+      "font": "SegoeUI-Light",
+      "size": 7.959899425506592,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        688.0640258789062,
+        526.73095703125,
+        698.5679931640625
+      ],
+      "text": "The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO",
+      "font": "SegoeUI-Light",
+      "size": 7.989793300628662,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        697.6640014648438,
+        526.6201782226562,
+        708.16796875
+      ],
+      "text": "in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        707.2640380859375,
+        192.4022216796875,
+        717.7680053710938
+      ],
+      "text": "distinguished by initial capital letters.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        725.3680419921875,
+        526.4500732421875,
+        735.8720092773438
+      ],
+      "text": "All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        734.9679565429688,
+        526.6185302734375,
+        745.471923828125
+      ],
+      "text": "material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        744.5679321289062,
+        397.40472412109375,
+        755.0718994140625
+      ],
+      "text": "the material lies with the reader. In no event shall WHO be liable for damages arising from its use.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        762.6719360351562,
+        172.4102325439453,
+        773.1759033203125
+      ],
+      "text": "Design by Inis Communication",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

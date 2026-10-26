@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 156,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        186.8113250732422,
+        85.31422424316406
+      ],
+      "text": "Recommendation",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        107.56733703613281,
+        512.3355712890625,
+        120.48133850097656
+      ],
+      "text": "19.\t Either a tuberculin skin test (TST) or interferon-gamma release assays (IGRAs)",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        108.41439819335938,
+        123.06733703613281,
+        295.5134582519531,
+        135.98133850097656
+      ],
+      "text": "can be used to test for TB infection.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        147.104248046875,
+        397.4571228027344,
+        159.98524475097656
+      ],
+      "text": "(Strong recommendation, very low certainty of the evidence)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.62342834472656,
+        134.13809204101562,
+        194.5374298095703
+      ],
+      "text": "Justification",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.47332763671875,
+        526.9635620117188,
+        218.6183319091797
+      ],
+      "text": "A systematic review has informed the comparison of the predictive performance of IGRAs and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.97332763671875,
+        526.6972045898438,
+        234.1183319091797
+      ],
+      "text": "the TST for identifying incident active TB in countries with a TB incidence of more than 100 per",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.995048522949219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        236.47332763671875,
+        526.994384765625,
+        249.6183319091797
+      ],
+      "text": "100 000 population  . Only studies in which the TST was compared with IGRAs in the same  (12)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.97332763671875,
+        526.9481201171875,
+        265.11834716796875
+      ],
+      "text": "population (i.e. “head-to-head” studies) were included. Relative risk ratios for TB for people",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.47332763671875,
+        519.4283447265625,
+        280.61834716796875
+      ],
+      "text": "who tested positive and those who tested negative with the TST and IGRAs were estimated.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        291.477294921875,
+        526.964599609375,
+        304.622314453125
+      ],
+      "text": "Five prospective cohort studies were identified, with a total of 7769 participants. The pooled",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.977294921875,
+        527.01416015625,
+        320.122314453125
+      ],
+      "text": "risk ratio estimate for the TST was 1.49 (95% CI: 0.79–2.80), and for IGRAs was 2.03 (95% CI:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.477294921875,
+        526.9139404296875,
+        335.622314453125
+      ],
+      "text": "1.18–3.50). Although the estimate for IGRAs was slightly higher than that for the TST, the 95%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992297172546387,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        337.977294921875,
+        437.9202880859375,
+        351.122314453125
+      ],
+      "text": "CIs for the estimates for the TST and IGRAs overlapped and were imprecise.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.981201171875,
+        526.969970703125,
+        375.126220703125
+      ],
+      "text": "The GDG concluded that the comparison of the TST and IGRAs in the same population does",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        377.481201171875,
+        526.9149780273438,
+        390.626220703125
+      ],
+      "text": "not provide strong evidence that one test should be preferred over the other for predicting",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.981201171875,
+        526.964599609375,
+        406.126220703125
+      ],
+      "text": "progression to active TB disease. The TST may require significantly fewer resources than IGRAs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        408.481201171875,
+        526.9540405273438,
+        421.626220703125
+      ],
+      "text": "and may be more familiar to practitioners in resource-limited settings; however, recurrent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        423.981201171875,
+        527.0194091796875,
+        437.126220703125
+      ],
+      "text": "global shortages and stock-outs of the TST reduce prospects for the scale-up of this test and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.481201171875,
+        526.9261474609375,
+        452.626220703125
+      ],
+      "text": "for the programmatic management of TPT. The GDG also noted that equity and access could",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.981201171875,
+        527.1433715820312,
+        468.126220703125
+      ],
+      "text": "affect the choice and type of test used. The preferences of people to be tested and programmes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95892333984375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.481201171875,
+        527.1506958007812,
+        483.626220703125
+      ],
+      "text": "depend on several factors, such as the requirement for an adequately equipped laboratory",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.981201171875,
+        527.2011108398438,
+        499.126220703125
+      ],
+      "text": "(e.g. for IGRAs) and possible additional costs for people being tested (e.g. for travel) and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.481201171875,
+        526.9540405273438,
+        514.626220703125
+      ],
+      "text": "programmes (e.g. for infrastructure and testing). The GDG strongly recommended the two",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.981201171875,
+        527.2396240234375,
+        530.126220703125
+      ],
+      "text": "tests as equivalent options, with relatively similar advantages and disadvantages. The GDG",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.481201171875,
+        526.9483032226562,
+        545.626220703125
+      ],
+      "text": "stressed that the global shortage of the TST should be addressed urgently, and called for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.981201171875,
+        526.9656982421875,
+        561.126220703125
+      ],
+      "text": "more investment into research on novel tests for TB infection with better predictive value. The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.481201171875,
+        526.958984375,
+        576.626220703125
+      ],
+      "text": "GDG cautioned that imperfect performance of these tests can lead to false negative results,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        578.981201171875,
+        526.8236083984375,
+        592.126220703125
+      ],
+      "text": "particularly in young children and immunocompromised individuals such as PLHIV with low CD4",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.946218490600586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.481201171875,
+        526.81982421875,
+        607.626220703125
+      ],
+      "text": "counts. The GDG noted the importance of the tests to identify recent conversion from negative",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977426528930664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        609.981201171875,
+        526.9810791015625,
+        623.126220703125
+      ],
+      "text": "to positive, particularly among contacts of people with pulmonary TB, which is good practice",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.481201171875,
+        526.9481811523438,
+        638.626220703125
+      ],
+      "text": "when initiating TPT. Nevertheless, recent studies among health care workers in the USA tested",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992047309875488,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.981201171875,
+        527.2608642578125,
+        654.126220703125
+      ],
+      "text": "serially for TB infection showed that conversions from negative to positive and reversions from",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.988744735717773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.481201171875,
+        526.9586791992188,
+        669.626220703125
+      ],
+      "text": "positive to negative are more commonly identified with IGRAs than with the TST  . Thus,  (13)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        671.981201171875,
+        490.2659912109375,
+        685.126220703125
+      ],
+      "text": "clinical judgement must still be used to interpret the results of serial TB infection tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.9852294921875,
+        527.0252075195312,
+        709.1302490234375
+      ],
+      "text": "The evidence reviewed and the recommendations given apply only to the use of the two",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.4852294921875,
+        428.26702880859375,
+        724.6302490234375
+      ],
+      "text": "commercially available IGRAs (QuantiFERON-TB Gold In-Tube and T-Spot.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "140 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

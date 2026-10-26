@@ -1,0 +1,76 @@
+{
+  "file": "module1",
+  "page": 158,
+  "table_id": 1,
+  "bbox": [
+    56.692975997924805,
+    230.02022238338694,
+    784.1967620849609,
+    415.2239990234375
+  ],
+  "heading": "Systematic review outcome: The predictive utility of the TST vs. the commercial IGRAs for progression to active tuberculosis Patients/population: Longitudinal studies of adults and children without active TB at baseline not given preventive therapy Setting: Community cohorts, individuals attending outpatient clinics (e.g. HIV-positive people), individuals participating in RCTs, household contacts; all in high-incidence countries Index test: TSR (RT23 purified protein derivative or purified protein derivative-S) and/or commercial blood-based IGRAs (QFT-GIT or T.SPOT.-TB) Importance: Longitudinal studies on the predictive value of a positive IGRA in TB high-incidence countries ( ≥ 100/100 000) are still emerging. It is important to determine whether IGRA can be used as a replacement for the widely used TST. Reference standard: All diagnoses of incident active TB (microbiologically confirmed or not) Studies: Any longitudinal study design (e.g. prospective or retrospective cohort) in TB high-incidence countries, regardless of immunological status (e.g. HIV-infected or not) or BCG status. Average follow-up should be for at least 1 year but can be either active or passive.",
+  "n_rows": 5,
+  "n_cols": 10,
+  "data": [
+    [
+      "No. of studies (no. of individuals)",
+      "Design",
+      "Quality",
+      "",
+      "",
+      "",
+      "Effect",
+      "",
+      "Quality (GRADE)",
+      "Importance"
+    ],
+    [
+      "",
+      "",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Relative (pooled)",
+      "Absolute effect",
+      "",
+      ""
+    ],
+    [
+      "A. Systematic review outcome: Progression to active TB in untreated individuals",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "5 (N = 7675 for Prospective Serious risk of Serious Not serious Serious TST TST Very low Critical TST, 7641 for cohort bias inconsistency imprecision RR = 1.49 10 more per IGRA) (52–56) (TST) (A3) (TST) (CI: 0.79 ; 2.80) 1000 (4 fewer to (A1) (-1) I2 = 64.4%, I2 = 64.4% 37 more) No serious Serious imprecision IGRA IGRA inconsistency (IGRA) RR = 2.03 15 more per (IGRA) (CI: 1.18 ; 3.50) 1000 (3 to 36 I2 = 49.6% (A4) (-1) I2 = 49.6% more) (A2) (-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "B. Systematic review outcome (subgroup analysis): Progression to active TB in immunocompromised people (includes HIV and other immunosuppressive conditions)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

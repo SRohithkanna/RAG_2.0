@@ -1,0 +1,762 @@
+{
+  "file": "module3",
+  "page": 52,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.89222717285156,
+        278.41888427734375,
+        85.3282241821289
+      ],
+      "text": "Implementation considerations",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        94.06519317626953,
+        526.5911865234375,
+        107.21018981933594
+      ],
+      "text": "Factors to consider when implementing moderate complexity automated NAATs for detection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979881286621094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.06519317626953,
+        373.1747131347656,
+        121.21018981933594
+      ],
+      "text": "of TB and resistance to rifampicin and isoniazid are as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        127.81720733642578,
+        78.81909942626953,
+        140.9622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        127.81720733642578,
+        526.9749755859375,
+        140.9622039794922
+      ],
+      "text": "local epidemiological data on resistance prevalence should guide local testing algorithms,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        143.31719970703125,
+        495.7494812011719,
+        156.4622039794922
+      ],
+      "text": "whereas pretest probability is important for the clinical interpretation of test results;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        158.81719970703125,
+        78.81909942626953,
+        171.9622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        158.81719970703125,
+        527.10546875,
+        171.9622039794922
+      ],
+      "text": "the cost of a test varies depending on parameters such as the number of samples in a batch",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996349334716797,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        174.31719970703125,
+        493.5726623535156,
+        187.4622039794922
+      ],
+      "text": "and the staff time required; therefore, a local costing exercise should be performed;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.81719970703125,
+        78.81909942626953,
+        202.9622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        189.81719970703125,
+        526.9971313476562,
+        202.9622039794922
+      ],
+      "text": "low, moderate and high complexity tests have successive increase in technical competency",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        205.31719970703125,
+        501.8896179199219,
+        218.4622039794922
+      ],
+      "text": "needs (qualifications and skills) and staff time, which affects planning and budgeting;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        220.81719970703125,
+        78.81909942626953,
+        233.9622039794922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        220.81719970703125,
+        526.9971923828125,
+        233.9622039794922
+      ],
+      "text": "availability and timeliness of local support services and maintenance should be considered",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        236.31719970703125,
+        214.4528045654297,
+        249.4622039794922
+      ],
+      "text": "when selecting a provider;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.81719970703125,
+        78.81909942626953,
+        264.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        251.81719970703125,
+        526.88720703125,
+        264.96221923828125
+      ],
+      "text": "laboratory accreditation and compliance with a robust quality management system",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        267.31719970703125,
+        524.42724609375,
+        280.46221923828125
+      ],
+      "text": "(including appropriate quality control) are essential for sustained service excellence and trust;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.81719970703125,
+        78.81909942626953,
+        295.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        282.81719970703125,
+        526.5972290039062,
+        295.96221923828125
+      ],
+      "text": "training of both laboratory and clinical staff is needed to ensure effective delivery of services",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979631423950195,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        298.31719970703125,
+        179.09910583496094,
+        311.46221923828125
+      ],
+      "text": "and clinical impact;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.81719970703125,
+        78.81909942626953,
+        326.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        313.81719970703125,
+        526.9412841796875,
+        326.96221923828125
+      ],
+      "text": "use of connectivity solutions for communication of results is encouraged, to improve",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        329.31719970703125,
+        418.0146484375,
+        342.46221923828125
+      ],
+      "text": "efficiency of service delivery and reduce time to treatment initiation;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        344.81719970703125,
+        78.81909942626953,
+        357.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        344.81719970703125,
+        526.9973754882812,
+        357.96221923828125
+      ],
+      "text": "moderate complexity automated NAATs may already be used programmatically for other",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        360.31719970703125,
+        526.9862060546875,
+        373.46221923828125
+      ],
+      "text": "diseases – for example, severe acute respiratory syndrome coronavirus 2 (SARS-CoV2), HIV",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        375.81719970703125,
+        527.0026245117188,
+        388.96221923828125
+      ],
+      "text": "and antimicrobial resistance (AMR) – which could potentially facilitate implementation of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        391.31719970703125,
+        237.99258422851562,
+        404.46221923828125
+      ],
+      "text": "TB testing on shared platforms;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        406.81719970703125,
+        78.81909942626953,
+        419.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        406.81719970703125,
+        526.96435546875,
+        419.96221923828125
+      ],
+      "text": "implementation of moderate complexity automated NAATs requires laboratories with the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        422.31719970703125,
+        413.1534118652344,
+        435.46221923828125
+      ],
+      "text": "required infrastructure, space and efficient sample referral systems;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        437.81719970703125,
+        78.81909942626953,
+        450.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        437.81719970703125,
+        526.9652709960938,
+        450.96221923828125
+      ],
+      "text": "although these are automated tests, well-trained skilled staff are needed to set up assays",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        453.31719970703125,
+        312.9812316894531,
+        466.46221923828125
+      ],
+      "text": "and complete maintenance requirements; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.81719970703125,
+        78.81909942626953,
+        481.96221923828125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        468.81719970703125,
+        526.964111328125,
+        481.96221923828125
+      ],
+      "text": "implementation of these tests should be context specific; thus, it should take into account",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        484.31719970703125,
+        526.876220703125,
+        497.46221923828125
+      ],
+      "text": "access issues, especially in remote areas, where less centralized WHO-recommended",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        499.81719970703125,
+        278.9009704589844,
+        512.9622192382812
+      ],
+      "text": "technologies may be more appropriate.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.1213989257812,
+        193.38153076171875,
+        544.5574340820312
+      ],
+      "text": "Research priorities",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.2943115234375,
+        527.1898193359375,
+        566.4393310546875
+      ],
+      "text": "Research priorities for moderate complexity automated NAATs for detection of TB and resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        567.2943115234375,
+        272.900390625,
+        580.4393310546875
+      ],
+      "text": "to rifampicin and isoniazid are as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        587.0463256835938,
+        78.81909942626953,
+        600.1913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        587.0463256835938,
+        527.12744140625,
+        600.1913452148438
+      ],
+      "text": "diagnostic accuracy in specific patient populations (e.g. children, people living with HIV,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        602.5463256835938,
+        524.409912109375,
+        615.6913452148438
+      ],
+      "text": "and patients with signs and symptoms of extrapulmonary TB) and in non-sputum samples;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.0463256835938,
+        78.81909942626953,
+        631.1913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        618.0463256835938,
+        527.2032470703125,
+        631.1913452148438
+      ],
+      "text": "impact of diagnostic technologies on clinical decision-making and outcomes that are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        633.5463256835938,
+        527.0028076171875,
+        646.6913452148438
+      ],
+      "text": "important to patients (e.g. cure, mortality, time to diagnosis and time to start treatment) in",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        649.0463256835938,
+        198.80007934570312,
+        662.1913452148438
+      ],
+      "text": "all patient populations;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        664.5463256835938,
+        78.81909942626953,
+        677.6913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        664.5463256835938,
+        476.6063537597656,
+        677.6913452148438
+      ],
+      "text": "impact of specific mutations on treatment outcomes among people with DR-TB;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.0463256835938,
+        78.81909942626953,
+        693.1913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        680.0463256835938,
+        527.0117797851562,
+        693.1913452148438
+      ],
+      "text": "use, integration and optimization of diagnostic technologies in the overall landscape of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        695.5463256835938,
+        398.38128662109375,
+        708.6913452148438
+      ],
+      "text": "testing and care, as well as diagnostic pathways and algorithms;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        711.0463256835938,
+        78.81909942626953,
+        724.1913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        711.0463256835938,
+        527.10302734375,
+        724.1913452148438
+      ],
+      "text": "economic studies evaluating the costs, cost–effectiveness and cost–benefit of different",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        726.5463256835938,
+        204.60838317871094,
+        739.6913452148438
+      ],
+      "text": "diagnostic technologies;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        742.0463256835938,
+        78.81909942626953,
+        755.1913452148438
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        742.0463256835938,
+        526.77001953125,
+        755.1913452148438
+      ],
+      "text": "qualitative studies evaluating equity, acceptability, feasibility and end-user values of different",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94657039642334,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        757.5463256835938,
+        204.60838317871094,
+        770.6913452148438
+      ],
+      "text": "diagnostic technologies;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "36 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

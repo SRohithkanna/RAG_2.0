@@ -1,0 +1,510 @@
+{
+  "file": "module3",
+  "page": 32,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4096069335938,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.1.4. LC-aNAAT sensitivity and specificity for detection of lymph node TB in",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.48304748535156,
+        245.7850799560547,
+        97.6623306274414
+      ],
+      "text": "a lymph node aspirate and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        107.20855712890625,
+        516.2423706054688,
+        119.91670989990234
+      ],
+      "text": "Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) TN FN FP TP Specificity (95% CI) Study",
+      "font": "Arial-BoldMT",
+      "size": 8.024235725402832,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        120.6220932006836,
+        361.7629699707031,
+        132.72390747070312
+      ],
+      "text": "1.00 [0.16, 1.00] 1.00 [0.29, 1.00] 2 0 0 3 Hoel 2020",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        132.3393096923828,
+        361.7629699707031,
+        144.44216918945312
+      ],
+      "text": "1.00 [0.72, 1.00] 1.00 [0.40, 1.00] 11 0 0 4 Hoel 2020a",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        144.05653381347656,
+        361.7629699707031,
+        156.15939331054688
+      ],
+      "text": "0.64 [0.31, 0.89] 1.00 [0.59, 1.00] 7 0 4 7 Spencer-Gomes 2021",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        155.7737579345703,
+        361.7629699707031,
+        167.87661743164062
+      ],
+      "text": "0.58 [0.33, 0.80] 1.00 [0.29, 1.00] 11 0 8 3 Yu 2022",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        167.49098205566406,
+        361.7629699707031,
+        179.59384155273438
+      ],
+      "text": "0.59 [0.47, 0.69] 0.89 [0.65, 0.99] 48 2 34 16 Sharma 2023",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        179.2082061767578,
+        361.7629699707031,
+        191.31106567382812
+      ],
+      "text": "0.75 [0.62, 0.85] 0.86 [0.64, 0.97] 47 3 16 18 Minnies 2021",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        190.92543029785156,
+        361.7629699707031,
+        203.02828979492188
+      ],
+      "text": "0.78 [0.66, 0.87] 0.78 [0.40, 0.97] 50 2 14 7 Antel 2020",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        202.6426544189453,
+        361.7629699707031,
+        214.74551391601562
+      ],
+      "text": "0.88 [0.80, 0.94] 0.68 [0.45, 0.86] 89 7 12 15 Christopher 2021",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.97039794921875,
+        214.35987854003906,
+        361.7629699707031,
+        226.46273803710938
+      ],
+      "text": "0.33 [0.01, 0.91] 0.50 [0.01, 0.99] 1 1 2 1 Slail 2023",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        365.69891357421875,
+        226.2044219970703,
+        517.6915283203125,
+        238.20291137695312
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.024235725402832,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.38259887695312,
+        248.67401123046875,
+        515.69482421875,
+        262.1114501953125
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.566079139709473,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.38259887695312,
+        262.97479248046875,
+        352.0733947753906,
+        275.7835388183594
+      ],
+      "text": "Sharma 2023 18 36 0 46 1.00 [0.81, 1.00] 0.56 [0.45, 0.67]",
+      "font": "ArialMT",
+      "size": 8.566079139709473,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        354.9820861816406,
+        275.4844970703125,
+        517.2391967773438,
+        288.2932434082031
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.566079139709473,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.2602844238281,
+        526.5009765625,
+        312.0152893066406
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        312.0603332519531,
+        526.501220703125,
+        322.8153381347656
+      ],
+      "text": "amplification test; LN: lymph node; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        322.8603210449219,
+        136.7910919189453,
+        333.6153259277344
+      ],
+      "text": "TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.4790344238281,
+        247.6328582763672,
+        347.2500305175781
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        365.2417907714844,
+        516.5306396484375,
+        379.3298034667969
+      ],
+      "text": "Should LC-aNAATs on pleural tissue be used to diagnose pleural TB in adults and",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        379.6418151855469,
+        449.237060546875,
+        393.7298278808594
+      ],
+      "text": "adolescents with signs and symptoms of pleural TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.3966979980469,
+        526.9369506835938,
+        417.5417175292969
+      ],
+      "text": "From two Xpert Ultra studies (105 participants), LC-aNAAT sensitivities were 80% and 100%,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        419.8966979980469,
+        527.0262451171875,
+        433.0417175292969
+      ],
+      "text": "and specificities were 75% and 86% ( ); the certainty of evidence was low for sensitivity  Fig. 2.1.5",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951844215393066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.3966979980469,
+        527.12060546875,
+        448.5417175292969
+      ],
+      "text": "and very low for specificity. Only data on Xpert Ultra were included in the evaluation to answer",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.982786178588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        450.8966979980469,
+        524.7249755859375,
+        464.0417175292969
+      ],
+      "text": "this PICO question, as data on Truenat were not available. Given known challenges with culture-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.949785232543945,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        466.3966979980469,
+        526.9173583984375,
+        479.5417175292969
+      ],
+      "text": "based confirmation of TB using this sample, the data using the CRS were also considered.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.8966979980469,
+        526.9635009765625,
+        495.0417175292969
+      ],
+      "text": "The use of the CRS increased specificity of the LC-aNAAT on pleural tissue to 94–97%, but it",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        497.37738037109375,
+        343.2181091308594,
+        510.5417175292969
+      ],
+      "text": "6 decreased sensitivity to 54–81%  (see  ). Web Annex B.3",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.1829833984375,
+        527.4035034179688,
+        539.27099609375
+      ],
+      "text": "Fig.  2.1.5. LC-aNAAT sensitivity and specificity for detection of pleural TB in",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        539.4917602539062,
+        204.34938049316406,
+        553.6710205078125
+      ],
+      "text": "a pleural tissue and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.19170379638672,
+        565.0911865234375,
+        515.9465942382812,
+        578.1395263671875
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.315176963806152,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.19170379638672,
+        578.9730224609375,
+        356.48406982421875,
+        591.407958984375
+      ],
+      "text": "Gao 2021 9 13 0 39 1.00 [0.66, 1.00] 0.75 [0.61, 0.86]",
+      "font": "ArialMT",
+      "size": 8.315176963806152,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.19170379638672,
+        591.116455078125,
+        356.48406982421875,
+        603.5499877929688
+      ],
+      "text": "Christopher 2021 12 4 3 25 0.80 [0.52, 0.96] 0.86 [0.68, 0.96]",
+      "font": "ArialMT",
+      "size": 8.315176963806152,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        359.9443054199219,
+        603.2615966796875,
+        517.4490356445312,
+        615.6951293945312
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.315176963806152,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.5569458007812,
+        526.50048828125,
+        645.3118896484375
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.35693359375,
+        519.1832275390625,
+        656.1118774414062
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.9756469726562,
+        247.6328582763672,
+        669.7465209960938
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        763.36962890625,
+        294.4867858886719,
+        772.9436645507812
+      ],
+      "text": "6\t Data were not pooled due to the limited number of studies.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "16 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

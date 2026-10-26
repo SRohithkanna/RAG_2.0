@@ -1,0 +1,618 @@
+{
+  "file": "module3",
+  "page": 27,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        68.93421936035156,
+        192.72633361816406,
+        85.31422424316406
+      ],
+      "text": "Recommendations",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        107.41333770751953,
+        510.6574401855469,
+        120.55833435058594
+      ],
+      "text": "1.\t  For adults and adolescents with signs or symptoms of TB or who screened",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.58760070800781,
+        123.06733703613281,
+        510.63568115234375,
+        135.98133850097656
+      ],
+      "text": "positive for pulmonary TB, low-complexity automated NAATs should be used",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.58760070800781,
+        138.5673370361328,
+        510.7456359863281,
+        151.48133850097656
+      ],
+      "text": "on respiratory samples as initial diagnostic tests for TB rather than smear",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.58760070800781,
+        154.0673370361328,
+        215.47190856933594,
+        166.98133850097656
+      ],
+      "text": "microscopy or culture.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        178.104248046875,
+        360.4208068847656,
+        190.98524475097656
+      ],
+      "text": "(Strong recommendation, high certainty of evidence)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.4169921875,
+        120.02171325683594,
+        227.50498962402344
+      ],
+      "text": "Remarks",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        238.2080078125,
+        78.81909942626953,
+        251.35301208496094
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        238.2080078125,
+        526.8859252929688,
+        251.35301208496094
+      ],
+      "text": "For adults, respiratory samples include sputum (expectorated or induced), tracheal aspirate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992597579956055,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        253.7080078125,
+        244.39637756347656,
+        266.85302734375
+      ],
+      "text": "or bronchoalveolar lavage (BAL).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.2080078125,
+        78.81909942626953,
+        282.35302734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        269.2080078125,
+        527.2423706054688,
+        282.35302734375
+      ],
+      "text": "The term “person screened positive” refers to a person in whom a screening test has yielded",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.981884956359863,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        284.6885681152344,
+        167.7757568359375,
+        297.85302734375
+      ],
+      "text": "5 a positive result.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        300.2080078125,
+        78.81920623779297,
+        313.35302734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        300.2080078125,
+        526.9397583007812,
+        313.35302734375
+      ],
+      "text": "Children and specifically children living with HIV are discussed in the section on the concurrent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        315.7080078125,
+        294.5638427734375,
+        328.85302734375
+      ],
+      "text": "use of initial TB diagnostic tests in children.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        331.2080078125,
+        78.81909942626953,
+        344.35302734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        331.2080078125,
+        526.9654541015625,
+        344.35302734375
+      ],
+      "text": "Adults and adolescents living with HIV are discussed in the section on the concurrent use",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        346.7080078125,
+        343.25921630859375,
+        359.85302734375
+      ],
+      "text": "of initial TB diagnostic tests in people living with HIV.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        362.2080078125,
+        78.81920623779297,
+        375.35302734375
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        362.2080078125,
+        527.0759887695312,
+        375.35302734375
+      ],
+      "text": "The products for which eligible data met the class-based performance criteria for LC-aNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959726333618164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        377.7080078125,
+        526.997314453125,
+        390.85302734375
+      ],
+      "text": "for this recommendation were Xpert MTB/RIF Ultra (Cepheid, Sunnyvale, United States of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        393.2080078125,
+        526.92041015625,
+        406.35302734375
+      ],
+      "text": "America [USA]) and Truenat MTB Plus (Molbio, Goa, India). Data on Truenat MTB Plus and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        408.7080078125,
+        364.962890625,
+        421.85302734375
+      ],
+      "text": "MTB-RIF Dx were more limited than those for Xpert Ultra.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        447.5486145019531,
+        513.4932861328125,
+        460.4626159667969
+      ],
+      "text": "2.\t For people with bacteriologically confirmed TB, low-complexity automated",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        463.0486145019531,
+        513.3461303710938,
+        475.9626159667969
+      ],
+      "text": "NAATs should be used on respiratory samples as initial tests for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        478.5486145019531,
+        389.5706787109375,
+        491.4626159667969
+      ],
+      "text": "resistance to rifampicin rather than culture-based DST.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        496.91632080078125,
+        360.4208984375,
+        509.79730224609375
+      ],
+      "text": "(Strong recommendation, high certainty of evidence)",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        532.2291259765625,
+        120.02182006835938,
+        546.317138671875
+      ],
+      "text": "Remarks",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        557.0201416015625,
+        78.81920623779297,
+        570.1651611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        557.0201416015625,
+        369.7142333984375,
+        570.1651611328125
+      ],
+      "text": "This recommendation applies to all people living with HIV.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        572.5201416015625,
+        78.81920623779297,
+        585.6651611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        572.5201416015625,
+        526.7568359375,
+        585.6651611328125
+      ],
+      "text": "The recommendation was extrapolated to children based on the generalization of data from",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95455551147461,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        588.0201416015625,
+        526.885498046875,
+        601.1651611328125
+      ],
+      "text": "adults and limited data from children. For children, respiratory samples include sputum, BAL,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.964292526245117,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        603.5201416015625,
+        392.1004943847656,
+        616.6651611328125
+      ],
+      "text": "induced sputum, nasopharyngeal aspirate and gastric aspirate.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        619.0201416015625,
+        78.81920623779297,
+        632.1651611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        619.0201416015625,
+        526.9532470703125,
+        632.1651611328125
+      ],
+      "text": "The recommendation was extrapolated to people with extrapulmonary TB based on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        634.5201416015625,
+        350.685302734375,
+        647.6651611328125
+      ],
+      "text": "generalization of data from adults with pulmonary TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        650.0201416015625,
+        78.81920623779297,
+        663.1651611328125
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        650.0201416015625,
+        527.0770263671875,
+        663.1651611328125
+      ],
+      "text": "The products for which eligible data met the class-based performance criteria for LC-aNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.959726333618164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        665.5201416015625,
+        526.997314453125,
+        678.6651611328125
+      ],
+      "text": "for this recommendation were Xpert MTB/RIF Ultra (Cepheid, Sunnyvale, United States of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        681.0201416015625,
+        526.9091796875,
+        694.1651611328125
+      ],
+      "text": "America [USA]) and Truenat MTB-RIF Dx (Molbio, Goa, India). Data on MTB-RIF Dx were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        696.5201416015625,
+        279.065185546875,
+        709.6651611328125
+      ],
+      "text": "more limited than those for Xpert Ultra.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        720.292236328125,
+        526.241943359375,
+        729.8662719726562
+      ],
+      "text": "5\t Having a positive result of a test, examination or other procedure used to distinguish people with a high likelihood of having",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        731.3062744140625,
+        526.25146484375,
+        740.8662719726562
+      ],
+      "text": "TB disease from people who are highly unlikely to have TB. At present, the following tests are WHO-recommended as the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        742.3062744140625,
+        526.2022705078125,
+        751.8662719726562
+      ],
+      "text": "screening tests: chest radiography (chest X-ray; CXR) with or without computer-aided detection (CAD), C-reactive protein",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        753.3062744140625,
+        457.25274658203125,
+        762.8662719726562
+      ],
+      "text": "(CRP) in people living with HIV, and molecular WHO-recommended rapid diagnostic test for TB (mWRD) (",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        457.2424011230469,
+        753.3062744140625,
+        524.4105224609375,
+        762.8662719726562
+      ],
+      "text": "https://www.who.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.86620330810547,
+        764.3062744140625,
+        227.51416015625,
+        773.8662719726562
+      ],
+      "text": "int/publications/i/item/9789240022676",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        227.5113983154297,
+        764.3062744140625,
+        231.94338989257812,
+        773.8662719726562
+      ],
+      "text": ").",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 11",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

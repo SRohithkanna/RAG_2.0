@@ -1,0 +1,618 @@
+{
+  "file": "module5",
+  "page": 73,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4244384765625,
+        81.83369445800781
+      ],
+      "text": "past GDGs convened by the WHO had already recommended the use of delamanid. Additionally,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.4136352539062,
+        95.03370666503906
+      ],
+      "text": "based on the laboratory and cardiac data provided, no safety signals distinct from those reported",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.3739013671875,
+        108.23371887207031
+      ],
+      "text": "in adults were observed in children aged 3–5 years. Based on this, the WHO recommended that",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.3695678710938,
+        121.43373107910156
+      ],
+      "text": "delamanid may be included in the treatment of MDR/RR-TB for children aged 3 years or more on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.39674377441406,
+        527.4171752929688,
+        134.6337432861328
+      ],
+      "text": ", ) longer regimens (conditional recommendation  moderate certainty in the estimates of effect ; and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.4441528320312,
+        147.8336944580078
+      ],
+      "text": "in the priority grouping of medicines for use in longer regimens it was classified as a group C drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.7967071533203,
+        527.6107177734375,
+        161.03370666503906
+      ],
+      "text": "(83) . The 2019 GDG nonetheless had concerns about the feasibility of administering the correct",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.382568359375,
+        174.2337188720703
+      ],
+      "text": "dose to children aged 3–5 years, given that the only tablet available at the time was the one used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        527.391357421875,
+        187.43373107910156
+      ],
+      "text": "for adults (i.e. 50 mg), which presents challenges in manipulating its contents without compromising",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.1907501220703,
+        527.4378051757812,
+        200.6337432861328
+      ],
+      "text": "its effectiveness. Subsequent reviews of the WHO guidelines in 2020 did not prompt any change in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3907012939453,
+        527.4323120117188,
+        213.8336944580078
+      ],
+      "text": "the 2019 recommendation, which was the one in place at the time of the GDG meeting on child and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        212.59071350097656,
+        243.89877319335938,
+        227.03370666503906
+      ],
+      "text": "adolescent TB during May-June 2021.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        231.50062561035156,
+        527.2618408203125,
+        248.7376251220703
+      ],
+      "text": ": Gap  The recommendations that apply to children were based on extrapolation of efficacy data",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.49464416503906,
+        527.3739624023438,
+        261.9376525878906
+      ],
+      "text": "in adults, in combination with PK and safety data from phase II trials for children aged 3–17 years.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        260.694580078125,
+        527.53515625,
+        275.1376037597656
+      ],
+      "text": "However, a recommendation on the use of delamanid in children aged less than 3 years has not been",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.89459228515625,
+        527.5692138671875,
+        288.3376159667969
+      ],
+      "text": "possible in the past, due to a lack of evidence, particularly on PK, safety and tolerability. This has made",
+      "font": "SegoeUI-Light",
+      "size": 10.976425170898438,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.0947265625,
+        527.35693359375,
+        301.5377502441406
+      ],
+      "text": "it challenging for clinicians to design all-oral regimens for children under the age of 3 years, especially",
+      "font": "SegoeUI-Light",
+      "size": 10.980382919311523,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        300.294677734375,
+        527.1614379882812,
+        314.7377014160156
+      ],
+      "text": "for children with (or a source case with) fluoroquinolone resistance, where choices are limited among",
+      "font": "SegoeUI-Light",
+      "size": 10.996249198913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.49468994140625,
+        527.437744140625,
+        327.9377136230469
+      ],
+      "text": "group A and B drugs. The use of delamanid in children below 3 years of age was therefore identified",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        326.6947021484375,
+        508.8258056640625,
+        341.1377258300781
+      ],
+      "text": "as a gap to be addressed as part of the 2021 update of the child and adolescent TB guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.6046142578125,
+        527.56689453125,
+        362.8416442871094
+      ],
+      "text": ": Evidence  To answer the PICO question on the use of delamanid in children under the age of 3",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        527.3878784179688,
+        376.0416259765625
+      ],
+      "text": "years, data were reviewed by the GDG from a phase I, open-label, age de-escalation trial designed",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.436767578125,
+        389.24163818359375
+      ],
+      "text": "to assess the PK, safety and tolerability of delamanid administered twice daily for 10 days in children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.42236328125,
+        402.4416198730469
+      ],
+      "text": "with MDR/RR-TB on treatment with an optimized background regimen (protocol 242–12–232)  and  34",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        527.42236328125,
+        415.6416320800781
+      ],
+      "text": "from the corresponding open-label extension study (protocol 242–12–233).  Data from cohorts 1  35",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        527.3541259765625,
+        428.8416442871094
+      ],
+      "text": "(age 12–17 years), 2 (age 6–11 years), 3 (age 3–5 years) and 4 (age 0–2 years) for both protocols",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.5986022949219,
+        527.3816528320312,
+        442.0416259765625
+      ],
+      "text": "were reviewed. Exposures in the 0–2 year age group were lower than those of children aged 3 years",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.7986145019531,
+        527.5745239257812,
+        455.24163818359375
+      ],
+      "text": "and older, necessitating a modelling/simulation approach to dosing. No cardiac safety signals distinct",
+      "font": "SegoeUI-Light",
+      "size": 10.989794731140137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        453.99859619140625,
+        527.3836669921875,
+        468.4416198730469
+      ],
+      "text": "from those reported in adults were observed in children 0–2 years of age. However, these findings",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.1986083984375,
+        527.573486328125,
+        481.6416320800781
+      ],
+      "text": "should be considered knowing that children had lower drug exposures compared to adults. However,",
+      "font": "SegoeUI-Light",
+      "size": 10.985740661621094,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.39862060546875,
+        527.3795166015625,
+        494.8416442871094
+      ],
+      "text": "pharmacodynamic simulations suggested that clinically meaningful changes in QT (i.e. prolongation)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.5986022949219,
+        527.4244995117188,
+        508.0416259765625
+      ],
+      "text": "would be unlikely in children under 3 years of age, even if higher doses were used to reach drug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        506.798583984375,
+        305.741455078125,
+        521.2415771484375
+      ],
+      "text": "exposures comparable to those achieved in adults.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.5025634765625,
+        527.40576171875,
+        542.945556640625
+      ],
+      "text": "Central nervous system effects were included in the delamanid label for both adults and children",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        541.7025146484375,
+        527.4310913085938,
+        556.1455078125
+      ],
+      "text": "(paraesthesia, tremors, anxiety, depression and insomnia) as important potential safety concerns for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.902587890625,
+        527.4443359375,
+        569.3455810546875
+      ],
+      "text": "the drug. In March 2021, the study sponsor released a statement of intent to modify the labelling to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.1026000976562,
+        527.07666015625,
+        582.5455932617188
+      ],
+      "text": "include hallucinations as an adverse reaction. This new safety signal has been more prevalent among",
+      "font": "SegoeUI-Light",
+      "size": 10.99544906616211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.302490234375,
+        527.4180908203125,
+        595.7454833984375
+      ],
+      "text": "children (versus adults) with 15 reports in 14 children 2–16 years of age in India, Philippines, South",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.5026245117188,
+        527.433349609375,
+        608.9456176757812
+      ],
+      "text": "Africa, Tajikistan and Ukraine. Children experiencing this safety signal included some with extensively",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.70263671875,
+        527.2197875976562,
+        622.1456298828125
+      ],
+      "text": "resistant forms of TB (MDR/XDR-TB) treated with delamanid under programmatic conditions (12",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        620.902587890625,
+        527.376220703125,
+        635.3455810546875
+      ],
+      "text": "reports) as well as children enrolled in a clinical trial studying delamanid for TB prevention (three",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.1025390625,
+        527.4365844726562,
+        648.5455322265625
+      ],
+      "text": "reports). Seven of the 15 reports were for children also receiving cycloserine (under programmatic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.302490234375,
+        527.400390625,
+        661.7454833984375
+      ],
+      "text": "conditions). The GDG noted the importance of side-effects involving the central nervous system in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.5026245117188,
+        358.52386474609375,
+        674.9456176757812
+      ],
+      "text": "young children, considering their dynamic brain development.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.20654296875,
+        527.4089965820312,
+        696.6495361328125
+      ],
+      "text": "In addition to data from the trials, data from a paediatric DR-TB IPD were analysed descriptively (24",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.406494140625,
+        527.4268798828125,
+        709.8494873046875
+      ],
+      "text": "231 records from all six WHO regions, the majority from India and South Africa). The search was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.8370971679688,
+        524.4034423828125,
+        741.5410766601562
+      ],
+      "text": "Pharmacokinetic and safety trial to determine the appropriate dose for pediatric patients with multidrug resistant tuberculosis (https:// 34",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        740.6371459960938,
+        314.2840576171875,
+        751.14111328125
+      ],
+      "text": "clinicaltrials.gov/ct2/show/NCT01856634, accessed 21 January 2022).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8719482421875,
+        526.623046875,
+        763.5758666992188
+      ],
+      "text": "A 6-month safety, efficacy, and pharmacokinetic (PK) trial of delamanid in pediatric participants with multidrug resistant tuberculosis  35",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6719360351562,
+        375.62396240234375,
+        773.1759033203125
+      ],
+      "text": "(MDR-TB) (https://clinicaltrials.gov/ct2/show/NCT01859923, accessed 21 January 2022).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        344.452392578125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "5. Treatment of TB disease in children and adolescents 49",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

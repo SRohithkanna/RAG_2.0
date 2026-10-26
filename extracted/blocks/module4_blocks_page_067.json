@@ -1,0 +1,582 @@
+{
+  "file": "module4",
+  "page": 67,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.5515747070312,
+        81.83369445800781
+      ],
+      "text": "(CIs) were calculated using the score method. Covariate selection for calculation of propensity scores",
+      "font": "SegoeUI-Light",
+      "size": 10.999199867248535,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.3773803710938,
+        95.03370666503906
+      ],
+      "text": "was based on data availability and clinical knowledge. The covariates considered for inclusion in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.1683349609375,
+        108.23371887207031
+      ],
+      "text": "propensity scores analysis included age, gender, baseline smear result, HIV status (including ART",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.41357421875,
+        121.43373107910156
+      ],
+      "text": "status), prior treatment history (including whether previous infection was drug resistant), body mass",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.2682495117188,
+        134.6337432861328
+      ],
+      "text": "index (BMI), smoking status, diabetes diagnosis, cavitation at baseline, presence of bilateral disease and",
+      "font": "SegoeUI-Light",
+      "size": 10.954355239868164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.402587890625,
+        147.8336944580078
+      ],
+      "text": "fluroquinolone resistance. For the calculation of aRRs, multiple imputation by chain equations using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.547607421875,
+        161.03370666503906
+      ],
+      "text": "the “within” propensity score approach was used to account for missing data in potential confounders",
+      "font": "SegoeUI-Light",
+      "size": 10.977677345275879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        418.6114196777344,
+        174.2337188720703
+      ],
+      "text": "when the proportion of missing values for a confounder was less than 45%.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.6345977783203,
+        373.9693603515625,
+        206.29458618164062
+      ],
+      "text": "Timing of follow-up for comparisons between regimens",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.5026397705078,
+        527.2176513671875,
+        227.9456329345703
+      ],
+      "text": "The analyses undertaken for this evidence review combined results from cohorts with differing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.7025909423828,
+        527.4179077148438,
+        241.1455841064453
+      ],
+      "text": "follow-up times after initiation of treatment. There were differences in the follow-up time between",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        239.90260314941406,
+        527.3871459960938,
+        254.34559631347656
+      ],
+      "text": "cohorts (from 5.5 months to 24 months) and within single cohorts (e.g. the WHO IPD 2021 dataset",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.1024932861328,
+        527.4122924804688,
+        267.5455017089844
+      ],
+      "text": "combined multiple cohorts with variable follow-up times). Follow-up time was separated into the time",
+      "font": "SegoeUI-Light",
+      "size": 10.973618507385254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.302490234375,
+        527.4398803710938,
+        280.7455139160156
+      ],
+      "text": "between commencement of treatment and treatment completion, and the period from treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.50262451171875,
+        527.133056640625,
+        293.9456481933594
+      ],
+      "text": "completion until the end of follow-up. For shorter regimens, post-treatment follow-up was particularly",
+      "font": "SegoeUI-Light",
+      "size": 10.969407081604004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        292.70257568359375,
+        527.4431762695312,
+        307.1455993652344
+      ],
+      "text": "important because higher relapse rates may be a consequence of shorter treatments that do not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        304.6265869140625,
+        527.2304077148438,
+        320.3456115722656
+      ],
+      "text": "M. tuberculosis completely remove  . Where possible, it was important for follow-up time between two",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.989094734191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        319.10260009765625,
+        527.0821533203125,
+        333.5456237792969
+      ],
+      "text": "groups in a comparison to be equivalent, so that participants had an equivalent likelihood of death or",
+      "font": "SegoeUI-Light",
+      "size": 10.982385635375977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.3025207519531,
+        527.4266967773438,
+        346.74554443359375
+      ],
+      "text": "relapse. In these analyses, the follow-up time was measured from the start date of treatment rather",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        345.5025939941406,
+        527.4003295898438,
+        359.94561767578125
+      ],
+      "text": "than after the date of treatment completion, to minimize the effect of differences in total follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.7025146484375,
+        93.42709350585938,
+        373.1455383300781
+      ],
+      "text": "time.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        380.406494140625,
+        413.474365234375,
+        394.8495178222656
+      ],
+      "text": "The principles for accounting for time periods of follow-up were as follows:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        402.11041259765625,
+        78.23609924316406,
+        416.5534362792969
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        402.11041259765625,
+        527.4400634765625,
+        416.5534362792969
+      ],
+      "text": "Where possible, follow up participants in the intervention and control groups for the same total",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        415.3103942871094,
+        507.3583679199219,
+        429.75341796875
+      ],
+      "text": "time, so that the likelihood of unsuccessful outcomes (e.g. death) is the same in both groups.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.5104064941406,
+        78.23609924316406,
+        442.95343017578125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        428.5104064941406,
+        527.398193359375,
+        442.95343017578125
+      ],
+      "text": "Limit follow-up to 24 months after treatment initiation for all cohorts. There were no analyses in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        441.7104187011719,
+        527.5616455078125,
+        456.1534423828125
+      ],
+      "text": "which both intervention and comparator cohorts had more than 24 months of follow-up available.",
+      "font": "SegoeUI-Light",
+      "size": 10.98378849029541,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        454.910400390625,
+        527.2188720703125,
+        469.3534240722656
+      ],
+      "text": "The evidence accumulated from TB treatment trials demonstrates that a high proportion of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        466.83441162109375,
+        476.7703857421875,
+        482.5534362792969
+      ],
+      "text": "(33) recurrences are likely to occur within 12 or even 6 months of stopping treatment  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.3103942871094,
+        78.23609924316406,
+        495.75341796875
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        481.3103942871094,
+        527.4368286132812,
+        495.75341796875
+      ],
+      "text": "Select a primary analysis that optimizes the number of participants included in both groups. For",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        494.5104064941406,
+        527.5986938476562,
+        508.95343017578125
+      ],
+      "text": "shorter (6–9-month regimens), follow-up time in the comparison was included to allow for relapse",
+      "font": "SegoeUI-Light",
+      "size": 10.990796089172363,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        507.71044921875,
+        153.24188232421875,
+        522.1534423828125
+      ],
+      "text": "to be captured.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        529.4144287109375,
+        527.5763549804688,
+        543.857421875
+      ],
+      "text": "Additional sensitivity analyses were performed, where possible, evaluating the effect of follow-up",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        542.6143798828125,
+        216.4928741455078,
+        557.057373046875
+      ],
+      "text": "time upon treatment outcomes.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.4315795898438,
+        493.0606994628906,
+        586.2836303710938
+      ],
+      "text": "Summary of evidence on desirable and undesirable effects and certainty of",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        585.4315795898438,
+        119.38089752197266,
+        601.2836303710938
+      ],
+      "text": "evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.4915161132812,
+        527.546142578125,
+        622.9345092773438
+      ],
+      "text": "The evidence on the novel regimens to inform PICO questions was derived from two trials. It included",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.6915283203125,
+        527.5287475585938,
+        636.134521484375
+      ],
+      "text": "information on a total of 419 of 423 participants who were enrolled in four arms of the TB-PRACTECAL",
+      "font": "SegoeUI-Light",
+      "size": 10.963088035583496,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.8914794921875,
+        448.85650634765625,
+        649.33447265625
+      ],
+      "text": "and on 172 of 181 participants who were enrolled in four arms of the ZeNix trial .  26",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        656.5955200195312,
+        527.3837890625,
+        671.0385131835938
+      ],
+      "text": "Data from patients in relevant arms of these trials were used in each of the comparisons that led to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.7955322265625,
+        527.446533203125,
+        684.238525390625
+      ],
+      "text": "the conclusions and final recommendation on the use of the BPaLM/BPaL regimen. Even though the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.9954833984375,
+        527.4155883789062,
+        697.4384765625
+      ],
+      "text": "TB-PRACTECAL trial was not designed to compare the investigational regimens against each other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        696.1954956054688,
+        527.394775390625,
+        710.6384887695312
+      ],
+      "text": "and with the SoC, the comparisons of the different arms of the trial to the BPaLM arm (sub-PICOs",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        709.3953857421875,
+        386.4034423828125,
+        723.83837890625
+      ],
+      "text": "6.2 to 6.6) were performed to aid the panel in making final decisions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.471923828125,
+        371.48785400390625,
+        773.1759033203125
+      ],
+      "text": "Several participants excluded in each dataset due to unconfirmed rifampicin resistance. 26",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  53",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

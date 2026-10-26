@@ -1,0 +1,582 @@
+{
+  "file": "Latent",
+  "page": 28,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        53.976016998291016,
+        232.7277374267578,
+        70.77201843261719
+      ],
+      "text": "3.1.2\t Children living with HIV",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        89.34998321533203,
+        482.0793762207031,
+        101.62398529052734
+      ],
+      "text": "Infants and children living with HIV who have poor weight gain, fever or current cough or who have",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        101.34845733642578,
+        486.9074401855469,
+        113.6224594116211
+      ],
+      "text": "a history of contact with a case of TB should be evaluated for TB and other diseases that cause such",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        113.34693145751953,
+        474.69232177734375,
+        125.62093353271484
+      ],
+      "text": "symptoms. If the evaluation shows no TB, these children should be offered preventive treatment,",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        125.34540557861328,
+        465.76605224609375,
+        137.61941528320312
+      ],
+      "text": "regardless of their age.  (Strong recommendation, low-quality evidence. Updated recommendation)",
+      "font": "Whitney-Medium",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        143.01539611816406,
+        510.2318420410156,
+        155.28939819335938
+      ],
+      "text": "Poor weight gain is defined as reported weight loss, very low weight-for-age (< –3 z-score), underweight (weight-",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        155.0138702392578,
+        451.2102355957031,
+        167.28787231445312
+      ],
+      "text": "for-age < –2 z-score), confirmed weight loss (> 5%) since the last visit or growth curve flattening,",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        172.68385314941406,
+        508.9236755371094,
+        184.95785522460938
+      ],
+      "text": "Children and infants < 1 year of age should be given preventive treatment only if they have a history of household",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        184.6823272705078,
+        359.7433166503906,
+        196.95632934570312
+      ],
+      "text": "contact with a TB case and active TB has been excluded in investigations.",
+      "font": "Whitney-MediumItalic",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        226.34719848632812,
+        174.2017364501953,
+        241.8511962890625
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        245.169921875,
+        526.6583251953125,
+        257.96990966796875
+      ],
+      "text": "Infants and children living with HIV should be screened for TB routinely, as part of standard clinical care,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        259.169921875,
+        526.7063598632812,
+        271.96990966796875
+      ],
+      "text": "regardless of whether they are receiving TB prophylaxis or ART. A systematic review conducted for the previous",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        273.169921875,
+        526.6760864257812,
+        285.96990966796875
+      ],
+      "text": "guidelines identified limited evidence on the best approach to screening infants and children for TB  . On the  (7)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        287.169921875,
+        526.5982666015625,
+        299.96990966796875
+      ],
+      "text": "basis of these few studies and expert opinion, the previous guidelines group recommended a screening rule",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        301.169921875,
+        526.6863403320312,
+        313.96990966796875
+      ],
+      "text": "consisting of poor weight gain, fever, current cough and a history of contact with a TB case. We conducted a",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        315.169921875,
+        526.6671752929688,
+        327.96990966796875
+      ],
+      "text": "new systematic review to assess the performance of this screening rule. The only publication found was the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        329.169921875,
+        526.6640625,
+        342.2799072265625
+      ],
+      "text": "conference abstract of a study of 176 hospitalized children with HIV aged   12 years in Kenya  . The study  (32) ≤",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        343.169921875,
+        449.044189453125,
+        355.96990966796875
+      ],
+      "text": "had a sensitivity of 100% (95% CI, 76.8;100.0) and a specificity of 4.3% (95% CI, 1.8;8.7).",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.1898193359375,
+        233.1012725830078,
+        386.6938171386719
+      ],
+      "text": "Rationale for the recommendation",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        390.0124206542969,
+        526.733154296875,
+        402.8124084472656
+      ],
+      "text": "The GDG noted the paucity of data on the usefulness of the screening rule for children living with HIV. The",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        404.0124206542969,
+        526.709228515625,
+        416.8124084472656
+      ],
+      "text": "single study showed that the symptom screening rule currently recommended for children with HIV performs",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.0124206542969,
+        526.7373046875,
+        430.8124084472656
+      ],
+      "text": "well, but no study has been reported on the harm or challenges of the rule, such as resource requirements",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        432.0124206542969,
+        524.4212036132812,
+        444.8124084472656
+      ],
+      "text": "for implementation. Symptom-based screening is generally accepted by clients and is feasible in resource-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        446.0124206542969,
+        153.1841278076172,
+        458.8124084472656
+      ],
+      "text": "constraint settings.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.68243408203125,
+        526.6942138671875,
+        478.482421875
+      ],
+      "text": "Therefore, the GDG decided to make the same strong recommendation. Children living with HIV who screen",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.68243408203125,
+        526.704345703125,
+        492.482421875
+      ],
+      "text": "positive for TB may have TB and should be evaluated for TB and other diseases. If the evaluation shows no",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.68243408203125,
+        526.6942749023438,
+        506.482421875
+      ],
+      "text": "TB, children with HIV should be offered preventive treatment, regardless of their age, while only infants < 12",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.68243408203125,
+        526.7001342773438,
+        520.482421875
+      ],
+      "text": "months of age who have a history of household contact with a person with TB and have been investigated for",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        521.6824340820312,
+        526.6730346679688,
+        534.482421875
+      ],
+      "text": "TB according to national guidelines should receive preventive treatment. The GDG also noted that clinicians",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.6824340820312,
+        526.6503295898438,
+        548.482421875
+      ],
+      "text": "should broaden the differential diagnosis to include other diseases that may cause current cough, fever and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.6824340820312,
+        526.68701171875,
+        562.7924194335938
+      ],
+      "text": "poor weight gain in children with HIV. The algorithm for TB screening in children aged   1 year living with HIV  ≥",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        119.26612091064453,
+        563.6224365234375,
+        142.5911102294922,
+        576.5524291992188
+      ],
+      "text": "Fig. 2",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        563.6824340820312,
+        145.18609619140625,
+        576.482421875
+      ],
+      "text": "is shown in  .",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.640625,
+        511.8092346191406,
+        608.4236450195312
+      ],
+      "text": "3.2\t HIV-negative infants, children and adults who are household contacts of a",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.88710021972656,
+        605.6416015625,
+        252.65939331054688,
+        622.4246215820312
+      ],
+      "text": "person with pulmonary TB",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86610412597656,
+        624.3616333007812,
+        377.1485900878906,
+        641.1576538085938
+      ],
+      "text": "3.2.1\t HIV-negative infants and children < 5 years of age",
+      "font": "Whitney-Medium",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.0402221679688,
+        171.68173217773438,
+        659.544189453125
+      ],
+      "text": "Summary of evidence",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.86279296875,
+        526.6873168945312,
+        675.6627807617188
+      ],
+      "text": "We updated a previous systematic review of screening algorithms for HIV-negative people and people with",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        676.86279296875,
+        526.6292724609375,
+        689.6627807617188
+      ],
+      "text": "unknown HIV status  . The review revealed only one study of young children (mean age, 19.2 months) in  (33)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        690.86279296875,
+        526.6121826171875,
+        703.6627807617188
+      ],
+      "text": "which various symptoms were evaluated, such as failure to thrive and prolonged cough. The report did not",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        704.86279296875,
+        322.45611572265625,
+        717.6627807617188
+      ],
+      "text": "discuss the combination of symptoms for excluding TB  .  (34)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        724.4728393554688,
+        93.71107482910156,
+        737.40283203125
+      ],
+      "text": "Fig. 3",
+      "font": "Whitney-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        93.71107482910156,
+        724.5328369140625,
+        526.5912475585938,
+        737.3328247070312
+      ],
+      "text": "is a simple algorithm for ruling out active TB in child household contacts aged < 5 years before preventive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        738.5328369140625,
+        526.7132568359375,
+        751.3328247070312
+      ],
+      "text": "treatment  . The algorithm can be used by health workers at peripheral level. Research on symptom-based  (8)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        752.5328369140625,
+        526.6094360351562,
+        765.3328247070312
+      ],
+      "text": "screening of children’s TB contacts indicates that this contact management strategy is safe and more feasible in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        766.5328369140625,
+        526.6732177734375,
+        779.3328247070312
+      ],
+      "text": "resource-limited settings than contact screening based on diagnoses  . Furthermore, a recent modelling  (35, 36)",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.123600006103516,
+        790.2608032226562,
+        56.69960021972656,
+        810.61279296875
+      ],
+      "text": "16",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.524658203125,
+        458.3740539550781,
+        805.5686645507812
+      ],
+      "text": "LATENT TUBERCULOSIS INFECTION: UPDATED AND CONSOLIDATED GUIDELINES FOR PROGRAMMATIC MANAGEMENT",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

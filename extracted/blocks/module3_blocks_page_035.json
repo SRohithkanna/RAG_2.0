@@ -1,0 +1,558 @@
+{
+  "file": "module3",
+  "page": 35,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.21018981933594,
+        526.07177734375,
+        83.29818725585938
+      ],
+      "text": "Should LC-aNAATs on pericardial fluid be used to diagnose pericardial TB in adults",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.61033630371094,
+        493.2843017578125,
+        97.69833374023438
+      ],
+      "text": "and adolescents with signs and symptoms of pericardial TB, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.36524200439453,
+        526.6203002929688,
+        121.51023864746094
+      ],
+      "text": "LC-aNAAT summary sensitivity and specificity were 84.0% (95% CI: 73.9–90.7) and 86.6%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        123.86524200439453,
+        526.9677734375,
+        137.01023864746094
+      ],
+      "text": "(95% CI: 79.5–91.5), respectively, from three Xpert Ultra studies (202 participants); certainty",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.365234375,
+        394.2384033203125,
+        152.51023864746094
+      ],
+      "text": "of evidence was low for both sensitivity and specificity ( ). Fig. 2.1.9",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.15142822265625,
+        521.6580200195312,
+        181.2394256591797
+      ],
+      "text": "Fig. 2.1.9. LC-aNAAT sensitivity and specificity for detection of pericardial TB in",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.4601593017578,
+        218.29327392578125,
+        195.6394500732422
+      ],
+      "text": "a pericardial fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        204.1422119140625,
+        515.7947387695312,
+        217.42706298828125
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.468740463256836,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        218.28038024902344,
+        354.676513671875,
+        230.9436798095703
+      ],
+      "text": "Mekkaoui 2021 0 0 0 19 Not estimable 1.00 [0.82, 1.00]",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        230.64805603027344,
+        354.6736145019531,
+        243.3113555908203
+      ],
+      "text": "Penata 2021 0 0 0 15 Not estimable 1.00 [0.78, 1.00]",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        243.01744079589844,
+        354.6736145019531,
+        255.6806182861328
+      ],
+      "text": "Minnies 2023 49 14 8 69 0.86 [0.74, 0.94] 0.83 [0.73, 0.90]",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        255.38682556152344,
+        354.6736145019531,
+        268.050048828125
+      ],
+      "text": "Alomatu 2023 12 2 3 27 0.80 [0.52, 0.96] 0.93 [0.77, 0.99]",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        77.30850219726562,
+        267.75616455078125,
+        354.6736145019531,
+        280.4193115234375
+      ],
+      "text": "Slail 2023 2 1 1 14 0.67 [0.09, 0.99] 0.93 [0.68, 1.00]",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        356.9075012207031,
+        280.12567138671875,
+        517.3206787109375,
+        292.78875732421875
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.468740463256836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        305.5122985839844,
+        526.50048828125,
+        316.2673034667969
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.3122863769531,
+        519.1832275390625,
+        327.0672912597656
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        329.9310302734375,
+        247.6328582763672,
+        340.701904296875
+      ],
+      "text": "a  Studies are sorted by decreasing sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        358.6938171386719,
+        515.061767578125,
+        372.7818298339844
+      ],
+      "text": "Should LC-aNAAT on extrapulmonary specimens be used to diagnose rifampicin",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        373.09381103515625,
+        471.1669921875,
+        387.18182373046875
+      ],
+      "text": "resistance in adults and adolescents with presumed extrapulmonary TB?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.8487243652344,
+        526.9634399414062,
+        410.9937438964844
+      ],
+      "text": "LC-aNAAT summary sensitivity and specificity were 100.0% (95% CI: 93.4–100.0) and 99.4%",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        413.3487243652344,
+        526.961669921875,
+        426.4937438964844
+      ],
+      "text": "(95% CI: 92.1–100.0), respectively, from 13 Xpert Ultra studies (446 participants) ( );  Fig. 2.1.10",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.8487243652344,
+        387.6063232421875,
+        441.9937438964844
+      ],
+      "text": "certainty of evidence was high for both sensitivity and specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.635009765625,
+        514.8299560546875,
+        470.7229919433594
+      ],
+      "text": "Fig. 2.1.10. LC-aNAAT sensitivity and specificity for detection of pericardial TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.94378662109375,
+        232.27317810058594,
+        485.1230163574219
+      ],
+      "text": "a in pericardial fluid and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        494.6841125488281,
+        516.3125610351562,
+        507.1715087890625
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 7.959951400756836,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        507.97296142578125,
+        362.451171875,
+        519.8759155273438
+      ],
+      "text": "Hoel 2020a 2 0 0 4 1.00 [0.16, 1.00] 1.00 [0.40, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        519.597412109375,
+        362.44842529296875,
+        531.5005493164062
+      ],
+      "text": "Huang 2021 1 0 0 5 1.00 [0.03, 1.00] 1.00 [0.48, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        531.2237548828125,
+        362.44842529296875,
+        543.1267700195312
+      ],
+      "text": "Huerga 2023 1 0 0 6 1.00 [0.03, 1.00] 1.00 [0.54, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        542.8499755859375,
+        362.44842529296875,
+        554.7529296875
+      ],
+      "text": "Mekkaoui 2021 0 0 0 36 Not estimable 1.00 [0.90, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        554.4761352539062,
+        362.44842529296875,
+        566.379150390625
+      ],
+      "text": "Minnies 2021 1 0 0 8 1.00 [0.03, 1.00] 1.00 [0.63, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        566.102294921875,
+        362.44842529296875,
+        578.0053100585938
+      ],
+      "text": "Penata 2021 1 0 0 26 1.00 [0.03, 1.00] 1.00 [0.87, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        577.7286376953125,
+        362.44842529296875,
+        589.6315307617188
+      ],
+      "text": "Sharma 2020 8 0 0 37 1.00 [0.63, 1.00] 1.00 [0.91, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        589.3548583984375,
+        362.44842529296875,
+        601.2577514648438
+      ],
+      "text": "Sharma 2021 11 0 0 24 1.00 [0.72, 1.00] 1.00 [0.86, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        600.9810180664062,
+        362.44842529296875,
+        612.884033203125
+      ],
+      "text": "Sharma 2023 2 0 0 14 1.00 [0.16, 1.00] 1.00 [0.77, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        612.6072387695312,
+        362.44842529296875,
+        624.51025390625
+      ],
+      "text": "Spencer-Gomes 2021 0 0 0 11 Not estimable 1.00 [0.72, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        624.2333984375,
+        362.44842529296875,
+        636.1364135742188
+      ],
+      "text": "Sun 2019 9 0 0 38 1.00 [0.66, 1.00] 1.00 [0.91, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        635.859619140625,
+        362.44842529296875,
+        647.7626342773438
+      ],
+      "text": "Wang 2019 6 0 0 23 1.00 [0.54, 1.00] 1.00 [0.85, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        647.4859619140625,
+        362.44842529296875,
+        659.3888549804688
+      ],
+      "text": "Wang 2020 5 0 0 21 1.00 [0.48, 1.00] 1.00 [0.84, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        659.1121215820312,
+        362.44842529296875,
+        671.0150756835938
+      ],
+      "text": "Wu 2019 4 0 0 23 1.00 [0.40, 1.00] 1.00 [0.85, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        670.7383422851562,
+        362.44842529296875,
+        682.6412353515625
+      ],
+      "text": "Chin 2019 0 0 0 3 Not estimable 1.00 [0.29, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        76.92150115966797,
+        682.364501953125,
+        362.44842529296875,
+        694.2674560546875
+      ],
+      "text": "Slail 2023 3 3 0 160 1.00 [0.29, 1.00] 0.98 [0.95, 1.00]",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        366.9715881347656,
+        693.9913330078125,
+        517.74658203125,
+        705.8939208984375
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 7.959951400756836,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        720.3626708984375,
+        526.50048828125,
+        731.1176147460938
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-aNAAT: low-complexity automated nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        731.1627197265625,
+        519.1832275390625,
+        741.9176635742188
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        744.7814331054688,
+        201.82284545898438,
+        755.5523071289062
+      ],
+      "text": "a  Studies are sorted by sensitivity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 19",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

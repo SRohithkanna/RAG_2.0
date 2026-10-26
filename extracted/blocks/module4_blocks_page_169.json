@@ -1,0 +1,558 @@
+{
+  "file": "module4",
+  "page": 169,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        148.42091369628906,
+        82.6147232055664
+      ],
+      "text": "PICO question",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        508.0502014160156,
+        104.26564025878906
+      ],
+      "text": "The recommendation in this section results from assessments of the PICO question listed below.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.47807312011719,
+        110.25061798095703,
+        515.7993774414062,
+        125.91461944580078
+      ],
+      "text": "(DR-TB, 2022): Should HCV treatment be co-administered with MDR-TB treatment  PICO question",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.947826385498047,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        123.45063018798828,
+        303.9759826660156,
+        139.11463928222656
+      ],
+      "text": "in patients co-infected by MDR/RR-TB and HCV?",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.57044982910156,
+        224.82371520996094,
+        171.23043823242188
+      ],
+      "text": "Data and studies considered",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        178.4384307861328,
+        527.2321166992188,
+        192.8814239501953
+      ],
+      "text": "In 2022, a systematic review identified a total of 106 studies reporting on the prevalence of HCV among",
+      "font": "SegoeUI-Light",
+      "size": 10.948379516601562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        191.63844299316406,
+        527.5366821289062,
+        206.08143615722656
+      ],
+      "text": "TB patients. The review reported that the global pooled prevalence of HCVAb positivity across studies",
+      "font": "SegoeUI-Light",
+      "size": 10.983137130737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        204.83839416503906,
+        527.1083984375,
+        219.28138732910156
+      ],
+      "text": "was 10.4% (95% CI: 8.5–12.5). Pooled prevalence of HCVAb positivity by WHO region was highest in the",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.0384063720703,
+        527.2173461914062,
+        232.4813995361328
+      ],
+      "text": "European Region at 17.5% (95% CI: 12.2–23.5), followed by South-East Asia at 7.9% (95% CI: 3.5–13.9),",
+      "font": "SegoeUI-Light",
+      "size": 10.95455551147461,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        231.23854064941406,
+        527.4253540039062,
+        245.68153381347656
+      ],
+      "text": "the Americas at 7.5% (95% CI: 5.2–10.1), the Western Pacific at 6.2% (95% CI: 3.6–9.5), the Eastern",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        243.16249084472656,
+        470.9418029785156,
+        258.8815002441406
+      ],
+      "text": "(142, 143) Mediterranean at 5.7% (95% CI: 3.1–8.9) and Africa at 3.5% (95% CI: 0–16.1)  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.14239501953125,
+        527.3804321289062,
+        280.5854187011719
+      ],
+      "text": "As a follow-up to this review, an online survey was designed to gather expert evidence on treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.3424072265625,
+        351.1791687011719,
+        293.7854309082031
+      ],
+      "text": "strategies for patients co-infected with HCV and MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.04632568359375,
+        527.4530639648438,
+        315.4893493652344
+      ],
+      "text": "The above-mentioned PICO question was originally put forward, and a systematic review was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        314.24627685546875,
+        527.420166015625,
+        328.6893005371094
+      ],
+      "text": "conducted to gather relevant data from published research studies. This systematic review identified",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.4463195800781,
+        527.638916015625,
+        341.88934326171875
+      ],
+      "text": "only one small study fulfilling the eligibility criteria. Two additional small studies described concomitant",
+      "font": "SegoeUI-Light",
+      "size": 10.970108985900879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        340.64630126953125,
+        527.3967895507812,
+        355.0893249511719
+      ],
+      "text": "treatment and suggested that co-administration of treatment may be well tolerated and associated",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.8463134765625,
+        527.5543823242188,
+        368.2893371582031
+      ],
+      "text": "with SVR for HCV infection. None of the studies compared the outcomes of patients receiving",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.0462951660156,
+        527.4232788085938,
+        381.48931884765625
+      ],
+      "text": "co-administered treatment with those of patients receiving MDR/RR-TB treatment alone. Given the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        380.2463073730469,
+        524.42578125,
+        394.6893310546875
+      ],
+      "text": "current state of evidence, no conclusion could be drawn with regards to co-administration of MDR/",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        393.4463195800781,
+        484.8379211425781,
+        407.88934326171875
+      ],
+      "text": "RR-TB and HCV treatment and MDR/RR-TB outcomes based on available research studies.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        415.1502990722656,
+        527.44873046875,
+        429.59332275390625
+      ],
+      "text": "Collection of expert evidence was identified as a solution for addressing a guideline question where",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        428.3503112792969,
+        527.5396118164062,
+        442.7933349609375
+      ],
+      "text": "published research evidence is lacking for completion of a GRADE EtD framework. It follows previously",
+      "font": "SegoeUI-Light",
+      "size": 10.97081184387207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.2742919921875,
+        527.408447265625,
+        455.9933166503906
+      ],
+      "text": "(142, 143) developed concepts and established steps used with GDGs  . After identifying an external",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.75030517578125,
+        527.4063110351562,
+        469.1933288574219
+      ],
+      "text": "group of experts to survey for the collection of data about co-administration of treatment for patients",
+      "font": "SegoeUI-Light",
+      "size": 10.980332374572754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.9503173828125,
+        527.4871826171875,
+        482.3933410644531
+      ],
+      "text": "with MDR-TB and HCV co-infection, WHO contacted its regional offices to identify experts with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        481.1502990722656,
+        527.4332275390625,
+        495.59332275390625
+      ],
+      "text": "relevant experience in this area. In addition to providing patient outcome data to inform the PICO",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.3503112792969,
+        527.5726928710938,
+        508.7933349609375
+      ],
+      "text": "question, experts were asked for input on other criteria for decision-making including costs, feasibility,",
+      "font": "SegoeUI-Light",
+      "size": 10.977375984191895,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.55029296875,
+        527.4431762695312,
+        521.9932861328125
+      ],
+      "text": "and acceptability of co-administration of MDR-TB and HCV treatments. The expert evidence was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.7503051757812,
+        527.5595703125,
+        535.1932983398438
+      ],
+      "text": "collected using an online survey, and a quality check of data submitted was completed (e.g. checking",
+      "font": "SegoeUI-Light",
+      "size": 10.992547035217285,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.9503173828125,
+        527.3500366210938,
+        548.393310546875
+      ],
+      "text": "that the sum of health outcomes added up correctly across patients), with contact and email follow-up",
+      "font": "SegoeUI-Light",
+      "size": 10.967401504516602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.1502685546875,
+        344.3239440917969,
+        561.59326171875
+      ],
+      "text": "of individual respondents if any clarifications were required.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.9940795898438,
+        316.7821350097656,
+        593.6541137695312
+      ],
+      "text": "Methods used for analysis and data synthesis",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.8621215820312,
+        527.2779541015625,
+        615.3051147460938
+      ],
+      "text": "Data collected from respondents who treated at least one patient with MDR/RR-TB and HCV treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.954707145690918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        614.0621337890625,
+        527.44189453125,
+        628.505126953125
+      ],
+      "text": "co-administration (i.e. the intervention arm) and at least one patient with MDR/RR-TB treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.2620849609375,
+        527.4012451171875,
+        641.705078125
+      ],
+      "text": "with delay of HCV treatment (i.e. the comparator arm) were included in a comparative analysis. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.4620971679688,
+        527.4199829101562,
+        654.9050903320312
+      ],
+      "text": "analysis calculated the risk ratio (RR) to assess treatment effects for the outcomes of interest (i.e. TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        653.662109375,
+        525.8172607421875,
+        668.1051025390625
+      ],
+      "text": "treatment success, TB treatment failure, death, LTFU, AEs, hepatic AEs and HCV treatment success).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3660278320312,
+        524.2620849609375,
+        689.8090209960938
+      ],
+      "text": "Forest plots were constructed to calculate pooled effect estimates, with 95% CIs, using random-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        688.5660400390625,
+        527.411376953125,
+        703.009033203125
+      ],
+      "text": "effects meta-analysis. RRs were pooled using the Mantel-Haenszel method, which is robust in the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.489990234375,
+        524.2296142578125,
+        716.208984375
+      ],
+      "text": "(144) case of sparse data  . The estimate of heterogeneity was calculated using the restricted maximum-",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.968554496765137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.6900024414062,
+        527.3900146484375,
+        729.4089965820312
+      ],
+      "text": "(145) likelihood method   and the standard error of the pooled effect estimate was derived from the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.8900146484375,
+        527.4174194335938,
+        742.6090087890625
+      ],
+      "text": "(146) Hartung-Knapp-Sidik-Jonkman method  . Extensive simulations have shown that these methods",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        741.3660278320312,
+        527.6080322265625,
+        755.8090209960938
+      ],
+      "text": "are less biased than the alternatives, and more robust to changes in the heterogeneity variance",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.2900390625,
+        527.4130859375,
+        769.009033203125
+      ],
+      "text": "(147) estimate  . In instances of zero events in one arm, an adaptive continuity correction inversely",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  155",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

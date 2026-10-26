@@ -1,0 +1,642 @@
+{
+  "file": "module5",
+  "page": 62,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.59669494628906,
+        527.5136108398438,
+        81.83369445800781
+      ],
+      "text": "(66) ethionamide, given for 6 months (6HRZEto)  . The recommendations in South Africa are based on",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.992197036743164,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.1118774414062,
+        95.03370666503906
+      ],
+      "text": "expert opinion, in particular with regards to replacing ethambutol with a drug (ethionamide) that has",
+      "font": "SegoeUI-Light",
+      "size": 10.995348930358887,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        90.99671936035156,
+        527.392822265625,
+        108.23371887207031
+      ],
+      "text": "(65) more efficient blood-brain barrier penetration  . A clinical trial is underway to compare a regimen",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        527.64990234375,
+        121.43373107910156
+      ],
+      "text": "consisting of higher-dose isoniazid, higher-dose rifampicin, pyrazinamide and levofloxacin given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        120.19074249267578,
+        527.448486328125,
+        134.6337432861328
+      ],
+      "text": "daily for 6 months, compared to the WHO-recommended regimen, but the results are not expected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        133.3907012939453,
+        527.3880615234375,
+        147.8336944580078
+      ],
+      "text": "until 2023 (SURE trial, ISRCTN40829906). Shorter regimens may be as effective and safe, and may",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.59071350097656,
+        527.4443359375,
+        161.03370666503906
+      ],
+      "text": "improve adherence and reduce the burden on persons with TBM and health care systems, but it is",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.7907257080078,
+        527.4540405273438,
+        174.2337188720703
+      ],
+      "text": "not known how outcomes compare between the shorter regimens and the WHO-recommended",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.99073791503906,
+        160.1448974609375,
+        187.43373107910156
+      ],
+      "text": "12-month regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.51858520507812,
+        524.2935180664062,
+        209.13758850097656
+      ],
+      "text": "PICO question:  In children and adolescents with presumed or bacteriologically confirmed drug-",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        207.8946075439453,
+        527.3882446289062,
+        222.3376007080078
+      ],
+      "text": "susceptible TB meningitis, should a 6-month intensive regimen, compared to the 12-month regimen",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        221.09474182128906,
+        269.5057067871094,
+        235.53773498535156
+      ],
+      "text": "that conforms to WHO guidelines be used?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.62258911132812,
+        527.445068359375,
+        257.2416076660156
+      ],
+      "text": "Evidence:  To inform recommendations on the treatment for child and adolescent TBM, a systematic",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.4498291015625,
+        270.4417419433594
+      ],
+      "text": "review and meta-analysis was conducted to compare the effectiveness of shorter regimens versus",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        266.40460205078125,
+        527.4699096679688,
+        283.6416320800781
+      ],
+      "text": "(8) the current WHO-recommended 12-month regimen  . The primary intervention of interest was the",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.990145683288574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        279.6046142578125,
+        527.4094848632812,
+        296.8416442871094
+      ],
+      "text": "(66) regimen currently used in South Africa  ; in secondary analyses, outcomes associated with other",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        524.4281005859375,
+        310.0416564941406
+      ],
+      "text": "shorter regimens were examined. The search criteria from an earlier systematic review and meta-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.00457763671875,
+        527.4417114257812,
+        323.2416076660156
+      ],
+      "text": "(64) analysis conducted in 2014 were updated and the search was run in February 2021  . Studies with",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.999099731445312,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        321.99859619140625,
+        527.5852661132812,
+        336.4416198730469
+      ],
+      "text": "available information on at least the composition and duration of treatment regimens were included.",
+      "font": "SegoeUI-Light",
+      "size": 10.997349739074707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        335.1986083984375,
+        527.3881225585938,
+        349.6416320800781
+      ],
+      "text": "Ineligible regimens included those without rifampicin, treatment regimens with a duration over 12",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.39862060546875,
+        527.1709594726562,
+        362.8416442871094
+      ],
+      "text": "months other than the WHO regimen, intermittent regimens and non-intensive short regimens. Pooled",
+      "font": "SegoeUI-Light",
+      "size": 10.949483871459961,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.5986022949219,
+        527.1285400390625,
+        376.0416259765625
+      ],
+      "text": "proportions were estimated across studies and within regimens through aggregate-level meta-analysis",
+      "font": "SegoeUI-Light",
+      "size": 10.955911636352539,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        374.7986145019531,
+        527.489501953125,
+        389.24163818359375
+      ],
+      "text": "using GLMM with Gauss-Hermite quadrature for the following outcomes: death by end of treatment;",
+      "font": "SegoeUI-Light",
+      "size": 10.99644947052002,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        387.99859619140625,
+        527.421142578125,
+        402.4416198730469
+      ],
+      "text": "loss to follow-up; treatment success; neurological sequelae (among survivors); and survival without",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        401.1986083984375,
+        527.4002075195312,
+        415.6416320800781
+      ],
+      "text": "neurological sequelae (among those starting treatment). Subgroup analyses were planned but were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        414.39862060546875,
+        239.47412109375,
+        428.8416442871094
+      ],
+      "text": "not feasible, due to insufficient data.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        436.10260009765625,
+        527.4525146484375,
+        450.5456237792969
+      ],
+      "text": "Of the 1820 unique citations screened, 149 full text papers were evaluated. Of these, five met inclusion",
+      "font": "SegoeUI-Light",
+      "size": 10.966650009155273,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        449.3025207519531,
+        527.400390625,
+        463.74554443359375
+      ],
+      "text": "criteria for the systematic review. In addition, two unpublished cohorts were eligible for inclusion. In",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.7086181640625,
+        527.4349365234375,
+        476.94561767578125
+      ],
+      "text": "(67–70) total, four studies of intervention regimens (three published and one unpublished)  , and three",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.991546630859375,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.90850830078125,
+        527.4317626953125,
+        490.1455383300781
+      ],
+      "text": "(71–73) studies of the comparator regimen (two published and one unpublished)   were identified. No",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        488.9026184082031,
+        527.1337280273438,
+        503.34564208984375
+      ],
+      "text": "studies performing head-to-head comparisons of regimens were identified. Three of the four studies",
+      "font": "SegoeUI-Light",
+      "size": 10.996048927307129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        502.10260009765625,
+        527.438232421875,
+        516.5455932617188
+      ],
+      "text": "of intervention regimens were conducted in a single referral centre in South Africa. As only one study",
+      "font": "SegoeUI-Light",
+      "size": 10.993348121643066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        512.5084838867188,
+        524.4317016601562,
+        529.7454833984375
+      ],
+      "text": "(69) reported on outcomes from an 8-month regimen in Vietnam  , it was excluded from the meta-",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        528.5025634765625,
+        527.44970703125,
+        542.945556640625
+      ],
+      "text": "analysis. The two published studies of the comparator regimen were conducted at different sites in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        538.9085083007812,
+        527.4744262695312,
+        556.1455078125
+      ],
+      "text": "(71, 72) India  , while data for the unpublished study were collected in various centres in Europe through",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.973016738891602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        552.1085815429688,
+        527.4332885742188,
+        569.3455810546875
+      ],
+      "text": "(73) the Pediatric Tuberculosis Network European Trials Group (ptbnet)  . A total of 837 patients with",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        568.1026000976562,
+        527.3632202148438,
+        582.5455932617188
+      ],
+      "text": "TBM received intervention regimens with the median age in each study ranging from 2.3 to 5.5 years",
+      "font": "SegoeUI-Light",
+      "size": 10.99379825592041,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.302490234375,
+        527.4410400390625,
+        595.7454833984375
+      ],
+      "text": "(age range: 2 months to 15 years). Among the 282 patients treated with the comparator regimen,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.5026245117188,
+        527.4220581054688,
+        608.9456176757812
+      ],
+      "text": "the median age in the European study was 3.3 years, while summary data on age were not reported",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.70263671875,
+        186.7654266357422,
+        622.1456298828125
+      ],
+      "text": "in the studies from India.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        629.406494140625,
+        527.4190063476562,
+        643.8494873046875
+      ],
+      "text": "The cumulative number of deaths was recorded at the end of treatment for each regimen (i.e. at 6",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.6065063476562,
+        527.1052856445312,
+        657.0494995117188
+      ],
+      "text": "months after treatment initiation in studies of the intervention regimen; at 12 months after treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.995599746704102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        655.8065185546875,
+        524.4039306640625,
+        670.24951171875
+      ],
+      "text": "initiation in studies of the comparator regimen). Among studies of the intervention regimen, 0.0%–",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        669.0064697265625,
+        527.400146484375,
+        683.449462890625
+      ],
+      "text": "9.6% of patients died within six months; most deaths occurred early after hospital admission and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        682.20654296875,
+        527.6007080078125,
+        696.6495361328125
+      ],
+      "text": "primarily involved patients diagnosed in stage 3 at baseline. Among studies of the comparator",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        695.406494140625,
+        527.4190063476562,
+        709.8494873046875
+      ],
+      "text": "regimen (i.e. the standard of care), 7.1%–30.0% of patients died. In one of these studies, diagnosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        708.6065063476562,
+        527.443115234375,
+        723.0494995117188
+      ],
+      "text": "at stage 3 was most strongly associated with mortality, although stage-specific outcome data were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.8065185546875,
+        527.4309692382812,
+        736.24951171875
+      ],
+      "text": "not reported. In a random effects meta-analysis, the pooled proportions of deaths were 6.0% (95%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.0065307617188,
+        527.4112548828125,
+        749.4495239257812
+      ],
+      "text": "confidence interval [CI] 2.0–13.0) and 24.0% (95% CI: 18.0–32.0) for children and adolescents who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        748.2064819335938,
+        527.3926391601562,
+        762.6494750976562
+      ],
+      "text": "received the intervention and comparator regimens, respectively. The percentage of patients with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "38 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

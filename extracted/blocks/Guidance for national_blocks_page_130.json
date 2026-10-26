@@ -1,0 +1,606 @@
+{
+  "file": "Guidance for national",
+  "page": 130,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        82.912109375,
+        513.4029541015625,
+        96.53961181640625
+      ],
+      "text": "HIV status unknown TB patient  refers to any bacteriologically confirmed or clinically",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        99.18463134765625,
+        513.4030151367188,
+        112.5361328125
+      ],
+      "text": "diagnosed case of TB who has no result of HIV testing and no other documented",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        115.18115234375,
+        513.3914794921875,
+        128.53265380859375
+      ],
+      "text": "evidence of enrolment in HIV care. If the HIV status is subsequently determined, the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        131.17767333984375,
+        287.4049072265625,
+        144.5291748046875
+      ],
+      "text": "patient should be reclassified accordingly.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        157.3525390625,
+        315.1153564453125,
+        174.08053588867188
+      ],
+      "text": "Classification based on drug resistance",
+      "font": "Arial-BoldItalicMT",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        181.092041015625,
+        513.4031372070312,
+        194.44354248046875
+      ],
+      "text": "Cases are classified on the basis of drug susceptibility testing (DST) of clinical isolates",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        197.01956176757812,
+        247.994384765625,
+        210.4400634765625
+      ],
+      "text": "tuberculosis confirmed to be M.  :",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        221.32000732421875,
+        415.2190856933594,
+        234.947509765625
+      ],
+      "text": "Monoresistance:  resistance to one first-line anti-TB drug only.",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        225.26791381835938,
+        91.36740112304688,
+        233.26791381835938
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        243.32000732421875,
+        513.4404907226562,
+        256.947509765625
+      ],
+      "text": "Polydrug resistance:  resistance to more than one first-line anti-TB drug (other",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        247.26791381835938,
+        91.36740112304688,
+        255.26791381835938
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        259.592529296875,
+        281.887939453125,
+        272.94403076171875
+      ],
+      "text": "than both isoniazid and rifampicin).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        281.32000732421875,
+        473.13311767578125,
+        294.947509765625
+      ],
+      "text": "Multidrug resistance:  resistance to at least both isoniazid and rifampicin.",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        285.2679138183594,
+        91.36740112304688,
+        293.2679138183594
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        303.32000732421875,
+        513.47509765625,
+        316.947509765625
+      ],
+      "text": "Extensive drug resistance:  resistance to any fluoroquinolone and to at least one",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        307.2679138183594,
+        91.36740112304688,
+        315.2679138183594
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        319.5924987792969,
+        513.428955078125,
+        332.9440002441406
+      ],
+      "text": "of three second-line injectable drugs (capreomycin, kanamycin and amikacin), in",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        335.5889892578125,
+        263.7754211425781,
+        348.94049072265625
+      ],
+      "text": "addition to multidrug resistance.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        357.32000732421875,
+        513.4176025390625,
+        370.947509765625
+      ],
+      "text": "Rifampicin resistance:  resistance to rifampicin detected using phenotypic or",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        361.2679138183594,
+        91.36740112304688,
+        369.2679138183594
+      ],
+      "text": "l",
+      "font": "ZapfDingbatsITC",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        373.5924987792969,
+        513.4176635742188,
+        386.9440002441406
+      ],
+      "text": "genotypic methods, with or without resistance to other anti-TB drugs. It includes any",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        389.5889892578125,
+        513.4176025390625,
+        402.94049072265625
+      ],
+      "text": "resistance to rifampicin, whether monoresistance, multidrug resistance, polydrug",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        104.87999725341797,
+        405.5854797363281,
+        297.4129943847656,
+        418.9369812011719
+      ],
+      "text": "resistance or extensive drug resistance.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        427.5849914550781,
+        513.4520874023438,
+        440.9364929199219
+      ],
+      "text": "These categories are not all mutually exclusive. When enumerating rifampicin-resistant",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        443.58148193359375,
+        513.4176025390625,
+        456.9329833984375
+      ],
+      "text": "TB (RR-TB), for instance, multidrug-resistant TB (MDR-TB) and extensively drug-resistant",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        459.5779724121094,
+        513.4865112304688,
+        472.9294738769531
+      ],
+      "text": "TB (XDR-TB) are also included. While it has been the practice until now to limit the",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        475.574462890625,
+        513.42919921875,
+        488.92596435546875
+      ],
+      "text": "definitions of monoresistance and polydrug resistance to first-line drugs only, future",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        491.5709533691406,
+        513.4291381835938,
+        504.9224548339844
+      ],
+      "text": "drug regimens may make it important to classify patients by their strain resistance",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        507.56744384765625,
+        513.4751586914062,
+        520.9189453125
+      ],
+      "text": "patterns to fluoroquinolones, second-line injectable agents and any other anti-TB drug",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04249572753906,
+        523.5639038085938,
+        287.3735046386719,
+        536.9154052734375
+      ],
+      "text": "for which reliable DST becomes available.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        556.6591186523438,
+        92.82340240478516,
+        573.51513671875
+      ],
+      "text": "T",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        93.03340148925781,
+        560.6659545898438,
+        274.307373046875,
+        572.4651489257812
+      ],
+      "text": "reatment outcome definitions",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        581.2078247070312,
+        513.3799438476562,
+        594.559326171875
+      ],
+      "text": "For purposes of consistency of reporting by NTPs, the same outcome definitions apply",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        597.2042846679688,
+        210.71139526367188,
+        610.5557861328125
+      ],
+      "text": "for children as for adults.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        621.7108154296875,
+        513.4258422851562,
+        635.0623168945312
+      ],
+      "text": "Treatment response in a child with sputum smear-negative PTB, smear not done PTB or",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        637.7073364257812,
+        513.448974609375,
+        651.058837890625
+      ],
+      "text": "EPTB is assessed through regular monthly assessment and recording of weight gain and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        653.7037963867188,
+        513.4490356445312,
+        667.0552978515625
+      ],
+      "text": "symptom improvement. In children with smear-positive TB, sputum smears should be",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        669.7003173828125,
+        225.431396484375,
+        683.0518188476562
+      ],
+      "text": "repeated at 2 and 5 months.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        694.2068481445312,
+        513.4030151367188,
+        707.558349609375
+      ],
+      "text": "The new treatment outcome definitions make a clear distinction between two types of",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        710.2033081054688,
+        130.40689086914062,
+        723.5548095703125
+      ],
+      "text": "patients:",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        732.6641845703125,
+        325.87939453125,
+        746.59619140625
+      ],
+      "text": "patients treated for drug-susceptible TB; -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        753.0640869140625,
+        513.5953369140625,
+        766.99609375
+      ],
+      "text": "patients treated for drug-resistant TB using second-line treatment (defined as  -",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        120.7394027709961,
+        767.464111328125,
+        513.607421875,
+        781.3961181640625
+      ],
+      "text": "combination chemotherapy for drug-resistant TB, which includes drugs other",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        120.7394027709961,
+        781.8641357421875,
+        243.90737915039062,
+        795.796142578125
+      ],
+      "text": "than those in Group 1 ).",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        553.0839233398438,
+        805.8439331054688,
+        586.4439086914062,
+        835.8439331054688
+      ],
+      "text": "111",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "file": "module4",
+  "page": 449,
+  "table_id": 1,
+  "bbox": [
+    70.86609649658203,
+    313.6492262620192,
+    771.0486328125,
+    501.42181396484375
+  ],
+  "heading": "recommended longer",
+  "n_rows": 8,
+  "n_cols": 7,
+  "data": [
+    [
+      "",
+      "a 9-month regimen using bedaquiline, linezolid, moxifloxacin, and pyrazinamide (9BLMZ)/ currently recommended longer WHO regimens",
+      "a 9-month regimen using bedaquiline, clofazimine, linezolid, levofloxacin, and pyrazinamide (9BLLfxCZ)/ currently recommended longer WHO regimens",
+      "a 9-month regimen using bedaquiline, delamanid, linezolid, levofloxacin, and pyrazinamide (9BDLLfxZ)/ currently recommended longer WHO regimens",
+      "a 9-month regimen using delamanid, clofazimine, linezolid, levofloxacin, and pyrazinamide (9DCLLfxZ)/ currently recommended longer WHO regimens",
+      "a 9-month regimen using delamanid, clofazimine, moxifloxacin, and pyrazinamide (9DCMZ)/ currently recommended longer WHO regimens",
+      "Importance for decision"
+    ],
+    [
+      "Balance of effects",
+      "Probably favors the intervention",
+      "Probably favors the intervention",
+      "Probably favors the intervention",
+      "Probably favors the comparison",
+      "Probably favors the comparison",
+      "high"
+    ],
+    [
+      "Certainty of evidence",
+      "Very low",
+      "Very low",
+      "Very low",
+      "Very low",
+      "Very low",
+      ""
+    ],
+    [
+      "Resources required",
+      "Large savings",
+      "Large savings",
+      "Varies",
+      "Varies",
+      "Varies",
+      "high"
+    ],
+    [
+      "Cost effectiveness",
+      "Probably favors the intervention",
+      "Probably favors the intervention",
+      "No included studies",
+      "Probably favors the comparison",
+      "No included studies",
+      "high"
+    ],
+    [
+      "Equity",
+      "Probably increased",
+      "Probably increased",
+      "Probably increased",
+      "Probably reduced",
+      "Probably reduced",
+      "high"
+    ],
+    [
+      "Acceptability",
+      "Probably yes",
+      "Probably yes",
+      "Probably yes",
+      "No",
+      "Probably no",
+      "high"
+    ],
+    [
+      "Feasibility",
+      "Yes",
+      "Yes",
+      "Probably yes",
+      "Probably yes",
+      "Probably yes",
+      "high"
+    ]
+  ]
+}

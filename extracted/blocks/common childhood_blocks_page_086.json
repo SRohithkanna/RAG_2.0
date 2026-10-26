@@ -1,0 +1,462 @@
+{
+  "file": "common childhood",
+  "page": 86,
+  "blocks": [
+    {
+      "bbox": [
+        113.12979888916016,
+        27.289522171020508,
+        340.4130554199219,
+        35.34652328491211
+      ],
+      "text": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        60.173309326171875,
+        289.2439270019531,
+        73.36231231689453
+      ],
+      "text": "10.3\t Oxygen therapy in treatment of hypoxaemia",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        76.79890441894531,
+        354.5827941894531,
+        90.28890228271484
+      ],
+      "text": "a)\t Children with hypoxaemia should receive appropriate oxygen therapy.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        92.20362091064453,
+        252.91282653808594,
+        106.12361907958984
+      ],
+      "text": "(Strong recommendation, low quality evidence)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        108.46821594238281,
+        399.113037109375,
+        121.95821380615234
+      ],
+      "text": "b)\tEffective oxygen delivery systems should be a universal standard of care, and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        121.46821594238281,
+        225.84153747558594,
+        134.95822143554688
+      ],
+      "text": "should be made more widely available.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        136.8729248046875,
+        229.02288818359375,
+        150.79293823242188
+      ],
+      "text": "(Strong recommendation, expert opinion)",
+      "font": "MinionPro-BoldIt",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        153.1375274658203,
+        399.0928649902344,
+        166.62753295898438
+      ],
+      "text": "The panel noted that although there are no RCTs on the effectiveness of oxygen",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        166.1374969482422,
+        399.0829162597656,
+        179.62750244140625
+      ],
+      "text": "use, new studies cannot be conducted as it will be unethical. The recommendation",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        179.1374969482422,
+        399.09283447265625,
+        192.62750244140625
+      ],
+      "text": "was made based on historical and ecological data of very low quality, and pre-post",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        192.1374969482422,
+        300.1029357910156,
+        205.62750244140625
+      ],
+      "text": "observational data of low quality but with large sample size.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        216.6560821533203,
+        231.48292541503906,
+        228.64608764648438
+      ],
+      "text": "10.3.1\t Evidence and summary of findings",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        232.3107147216797,
+        399.0329895019531,
+        245.80072021484375
+      ],
+      "text": "A systematic review [Steer, 2010] found no trials comparing outcomes of children",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        245.3107147216797,
+        399.0627746582031,
+        258.80072021484375
+      ],
+      "text": "receiving oxygen versus those not receiving it. A WHO review of oxygen therapy,",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        258.3106994628906,
+        399.05291748046875,
+        271.80072021484375
+      ],
+      "text": "published in 1993, compared mortality rates for pneumonia in the pre-antibiotic era",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        271.3106994628906,
+        399.1430358886719,
+        284.80072021484375
+      ],
+      "text": "for patients who were treated prior to oxygen being standard treatment, and therefore",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        284.3106994628906,
+        399.1027526855469,
+        297.80072021484375
+      ],
+      "text": "did not receive it, and patients who did receive oxygen. Overall, there was a trend",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        297.3106994628906,
+        398.99267578125,
+        310.80072021484375
+      ],
+      "text": "towards mortality reduction with oxygen (RR 0.79, 95% CI 0.53 to 1.18). When only",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        310.3106994628906,
+        399.1129150390625,
+        323.80072021484375
+      ],
+      "text": "patients with saturation < 80% at admission are considered, there is a significant",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        323.3106994628906,
+        275.0628662109375,
+        336.80072021484375
+      ],
+      "text": "reduction in mortality (RR 0.50, 95% CI 0.38 to 0.66).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        68.03150177001953,
+        336.3106994628906,
+        399.1015319824219,
+        349.80072021484375
+      ],
+      "text": "There is low quality evidence from two pre-post observational studies in PNG",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        349.3106994628906,
+        399.1028137207031,
+        362.80072021484375
+      ],
+      "text": "comparing pneumonia mortality rates before and after the introduction of pulse",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        224.36740112304688,
+        362.0906982421875,
+        266.1373596191406,
+        375.80072021484375
+      ],
+      "text": "table A6.4",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        362.3106994628906,
+        399.0775146484375,
+        375.80072021484375
+      ],
+      "text": "oximetry and improved oxygen supplies ( ). These showed a 38% reduction",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        282.8678894042969,
+        375.0906982421875,
+        380.3677978515625,
+        388.80072021484375
+      ],
+      "text": "see GRADE table A7.29",
+      "font": "MinionPro-Semibold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        375.3106994628906,
+        387.7878112792969,
+        388.80072021484375
+      ],
+      "text": "in pneumonia mortality (RR 0.72, 95% CI 0.60 to 0.86) ( ).",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        399.8293151855469,
+        163.95286560058594,
+        411.8193054199219
+      ],
+      "text": "10.3.2\t Benefits and risks",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        415.4740295410156,
+        88.77290344238281,
+        427.614013671875
+      ],
+      "text": "Benefits",
+      "font": "Helvetica-Condensed-Obli",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        428.4840087890625,
+        297.462890625,
+        441.9740295410156
+      ],
+      "text": "Significant reduction in mortality for hypoxaemic patients.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        449.9779052734375,
+        78.65290069580078,
+        462.1178894042969
+      ],
+      "text": "Risks",
+      "font": "Helvetica-Condensed-Obli",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        462.9878845214844,
+        248.552978515625,
+        476.4779052734375
+      ],
+      "text": "No significant risk in the post-neonatal period.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        487.5065002441406,
+        208.34300231933594,
+        499.4964904785156
+      ],
+      "text": "10.3.3\t Acceptability and feasibility:",
+      "font": "Helvetica-Condensed-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        503.16107177734375,
+        399.1028747558594,
+        516.6510620117188
+      ],
+      "text": "Oxygen is currently available in most hospitals, though supplies are unreliable. In",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        516.1610717773438,
+        399.0228576660156,
+        529.6510620117188
+      ],
+      "text": "hospitals with no or poor access to oxygen, studies from Malawi, the Gambia, and",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        529.1610717773438,
+        399.0627746582031,
+        542.6510620117188
+      ],
+      "text": "PNG have shown the feasibility of implementing systems for addressing this. Oxygen",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        542.1610717773438,
+        399.0827331542969,
+        555.6510620117188
+      ],
+      "text": "concentrators, machines that distil room air to produce > 95% oxygen, are becoming",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        555.1610717773438,
+        384.5128173828125,
+        568.6510620117188
+      ],
+      "text": "less expensive and cost US$ 800–1500; these can supply 2–4 patients at one time.",
+      "font": "MinionPro-Regular",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        222.42449951171875,
+        644.9403076171875,
+        230.614501953125,
+        655.2992553710938
+      ],
+      "text": "72",
+      "font": "Helvetica-Condensed-Ligh",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

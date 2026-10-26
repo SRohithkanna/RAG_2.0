@@ -1,0 +1,58 @@
+{
+  "file": "common childhood",
+  "page": 147,
+  "table_id": 1,
+  "bbox": [
+    134.4185028076172,
+    63.779823303222656,
+    236.27850341796875,
+    623.6220703125
+  ],
+  "heading": "ANNEX 7. GRADE EVIDENCE TABLES",
+  "n_rows": 3,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION BASED ON 95% CI OF THE POOLED EFFECT SIZE",
+      "CONSISTENCY",
+      "GENERALIZ­ ABILITY/ DIRECTNESS",
+      "OVERALL QUALITY OF EVIDENCE BASED ON THE TOTAL OF COLUMNS ON THE LEFT",
+      "POOLED EFFECT SIZE"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES (PARTICIPANTS)",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT (LOW RISK OF SELECTION BIAS)",
+      "BLINDING WHERE POSSIBLE (LOW RISK OF MEASURE­ MENT BIAS)",
+      "ANALYSIS INTENTION TO TREAT (ADJUSTED)",
+      "LOSS TO FOLLOW-UP",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Reduction in ear discharge",
+      "2 (94)",
+      "RCT 0",
+      "Inadequate -0.5",
+      "No -0.5",
+      "No -0.5",
+      "No 0",
+      "Some imprecision -0.5",
+      "No serious inconsist­ ency 0",
+      "Conducted in developing country 0",
+      "LOW (Total -2.0)",
+      "RR 0.62 (0.37 to -1.05)"
+    ]
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "file": "Guidance for national",
+  "page": 15,
+  "blocks": [
+    {
+      "bbox": [
+        36.0,
+        21.884788513183594,
+        63.09400177001953,
+        32.93328857421875
+      ],
+      "text": "Second",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        63.09400177001953,
+        21.884788513183594,
+        86.86299896240234,
+        32.93328857421875
+      ],
+      "text": "edition",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        80.14361572265625,
+        103.71139526367188,
+        109.03961181640625
+      ],
+      "text": "A",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        104.07140350341797,
+        87.01241302490234,
+        392.281005859375,
+        107.23960876464844
+      ],
+      "text": "bbreviations and acronyms",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 16.799999237060547,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        128.76312255859375,
+        197.27938842773438,
+        142.1146240234375
+      ],
+      "text": "ABC\t abacavir",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        148.56610107421875,
+        342.5588684082031,
+        161.9176025390625
+      ],
+      "text": "AIDS\t \t acquired immunodeficiency syndrome",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        168.36907958984375,
+        258.8273620605469,
+        181.7205810546875
+      ],
+      "text": "ART\t antiretroviral therapy",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        188.17205810546875,
+        210.07887268066406,
+        201.5235595703125
+      ],
+      "text": "AZT\t zidovudine",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        207.97503662109375,
+        272.6618957519531,
+        221.3265380859375
+      ],
+      "text": "BCG \t \t bacille Calmette-Guérin",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        227.77801513671875,
+        322.9168701171875,
+        241.1295166015625
+      ],
+      "text": "CPT\t co-trimoxazole preventive therapy",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        247.58099365234375,
+        211.3323974609375,
+        260.9324951171875
+      ],
+      "text": "CXR\t chest X-ray",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        267.38397216796875,
+        285.69140625,
+        280.7354736328125
+      ],
+      "text": "DR-TB\t \t drug-resistant tuberculosis",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        287.18695068359375,
+        281.63189697265625,
+        300.5384521484375
+      ],
+      "text": "DST\t drug susceptibility testing",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        306.98992919921875,
+        213.9083709716797,
+        320.3414306640625
+      ],
+      "text": "E\t ethambutol",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        326.7929382324219,
+        200.90188598632812,
+        340.1444396972656
+      ],
+      "text": "EFV\t efavirenz",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        346.595947265625,
+        294.83392333984375,
+        359.94744873046875
+      ],
+      "text": "EPTB\t \t extrapulmonary tuberculosis",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        366.3989562988281,
+        272.06390380859375,
+        379.7504577636719
+      ],
+      "text": "FDC\t fixed-dose combination",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        386.20196533203125,
+        220.911865234375,
+        399.553466796875
+      ],
+      "text": "FTC\t emtricitabine",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        406.0049743652344,
+        294.2013854980469,
+        419.3564758300781
+      ],
+      "text": "GTB\t WHO Global TB Programme",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        425.8079833984375,
+        199.21136474609375,
+        439.15948486328125
+      ],
+      "text": "H\t isoniazid",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        445.6109924316406,
+        309.7493591308594,
+        458.9624938964844
+      ],
+      "text": "HIV\t human immunodeficiency virus",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        465.41400146484375,
+        311.8653869628906,
+        478.7655029296875
+      ],
+      "text": "IGRA\t \t interferon-gamma release assay",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        485.2170104980469,
+        292.91339111328125,
+        498.5685119628906
+      ],
+      "text": "IPT\t isoniazid preventive therapy",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        505.02001953125,
+        387.2709045410156,
+        518.3715209960938
+      ],
+      "text": "IRIS\t immune reconstitution inflammatory syndrome",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        524.8230590820312,
+        198.56736755371094,
+        538.174560546875
+      ],
+      "text": "LPV\t lopinavir",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        544.6260375976562,
+        242.0028533935547,
+        557.9775390625
+      ],
+      "text": "LPV/r\t \t lopinavir/ritonavir",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        564.4290161132812,
+        310.6004333496094,
+        577.780517578125
+      ],
+      "text": "MDR-TB\t multidrug-resistant tuberculosis",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        584.2320556640625,
+        379.17498779296875,
+        597.5835571289062
+      ],
+      "text": "NNRTI\t \t non-nucleoside reverse-transcriptase inhibitor",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        604.0350341796875,
+        356.1634826660156,
+        617.3865356445312
+      ],
+      "text": "NRTI\t nucleoside reverse-transcriptase inhibitor",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        623.8380126953125,
+        355.77239990234375,
+        637.1895141601562
+      ],
+      "text": "NTP\t national tuberculosis control programme",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        643.6410522460938,
+        207.51437377929688,
+        656.9925537109375
+      ],
+      "text": "NVP\t nevirapine",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        663.4440307617188,
+        256.6883544921875,
+        676.7955322265625
+      ],
+      "text": "PAS\t p-aminosalicylic acid",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        683.2470092773438,
+        243.09535217285156,
+        696.5985107421875
+      ],
+      "text": "PI\t protease inhibitor",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        703.0499877929688,
+        264.39337158203125,
+        716.4014892578125
+      ],
+      "text": "PLHIV\t \t person living with HIV",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        722.85302734375,
+        406.0274353027344,
+        736.2045288085938
+      ],
+      "text": "PMTCT\t prevention of mother-to-child transmission (of HIV)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        742.656005859375,
+        282.70135498046875,
+        756.0075073242188
+      ],
+      "text": "PPD\t purified protein derivative",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939056396484,
+        762.458984375,
+        270.56890869140625,
+        775.8104858398438
+      ],
+      "text": "PTB\t pulmonary tuberculosis",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        14.032999992370605,
+        805.8439331054688,
+        36.612998962402344,
+        835.8439331054688
+      ],
+      "text": "xiv",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

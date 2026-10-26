@@ -1,0 +1,558 @@
+{
+  "file": "module5",
+  "page": 61,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        529.5794067382812,
+        89.46791076660156
+      ],
+      "text": "5.2. Treatment regimens for TB meningitis in children",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.472900390625,
+        208.87261962890625,
+        112.26789855957031
+      ],
+      "text": "and adolescents",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        126.83843231201172,
+        165.7484893798828,
+        141.1934356689453
+      ],
+      "text": "Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        143.2003936767578,
+        522.7657470703125,
+        157.6433868408203
+      ],
+      "text": "In children and adolescents with bacteriologically confirmed or clinically diagnosed TB meningitis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        155.2003936767578,
+        517.472412109375,
+        169.6433868408203
+      ],
+      "text": "(without suspicion or evidence of MDR/RR-TB), a 6-month intensive regimen (6HRZEto) may be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        167.2003936767578,
+        402.1693420410156,
+        181.6433868408203
+      ],
+      "text": "used as an alternative option to the 12-month regimen (2HRZE/10HR)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        180.6584014892578,
+        374.0013732910156,
+        197.89540100097656
+      ],
+      "text": "(Conditional recommendation, very low certainty of the evidence) .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        205.26373291015625,
+        120.14249420166016,
+        219.6187286376953
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        221.62574768066406,
+        521.6893920898438,
+        236.06874084472656
+      ],
+      "text": "•\tThe shorter intensive regimen is suitable for children and adolescents who have no evidence of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        233.62574768066406,
+        521.9016723632812,
+        248.06874084472656
+      ],
+      "text": "drug resistance and in children and adolescents who have a low likelihood of drug-resistant TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        245.62574768066406,
+        373.33929443359375,
+        260.0687561035156
+      ],
+      "text": "e.g. those without risk factors for any form of drug-resistant TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        259.0836181640625,
+        477.9125061035156,
+        276.3206481933594
+      ],
+      "text": "Guidance for national tuberculosis programmes on the  •\tThe recommendation from the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        271.0836181640625,
+        532.467041015625,
+        288.3206481933594
+      ],
+      "text": "management of tuberculosis in children (second edition, 2014)  remains an option for the treatment",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        285.87762451171875,
+        504.05645751953125,
+        300.3206481933594
+      ],
+      "text": "of children and adolescents with suspected or confirmed TB meningitis (TBM): Children and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        297.87762451171875,
+        516.5590209960938,
+        312.3206481933594
+      ],
+      "text": "adolescents with suspected or confirmed tuberculous meningitis should be treated with a four-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        309.87762451171875,
+        534.1128540039062,
+        324.3206481933594
+      ],
+      "text": "drug regimen (HRZE) for 2 months, followed by a two-drug regimen (HR) for 10 months, the total",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        319.0836181640625,
+        503.65557861328125,
+        336.32061767578125
+      ],
+      "text": "(Strong recommendation, low certainty of evidence) duration of treatment being 12 months  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        338.1296081542969,
+        518.130859375,
+        352.5726318359375
+      ],
+      "text": "•\tDue to a lack of data, the shorter intensive treatment regimen recommendation should not be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        350.1296081542969,
+        481.2483215332031,
+        364.5726318359375
+      ],
+      "text": "used in children and adolescents living with HIV who are diagnosed with TB meningitis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        392.8479919433594,
+        299.2532958984375,
+        413.7279968261719
+      ],
+      "text": "5.2.1. Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.137939453125,
+        527.4320068359375,
+        434.37493896484375
+      ],
+      "text": "M. tuberculosis  Following  infection, young children are at high risk of developing the most severe",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.13189697265625,
+        527.421142578125,
+        447.5749206542969
+      ],
+      "text": "forms of the disease, of which the most devastating form is TBM. This predominantly affects young",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        443.53790283203125,
+        527.4351806640625,
+        460.7749328613281
+      ],
+      "text": "(2) children with a peak age of onset of 2–4 years  . Up to 15% of childhood TB may present as TBM",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        456.7379150390625,
+        527.3973999023438,
+        473.97491455078125
+      ],
+      "text": "(62) ; with a decreasing incidence of bacterial meningitis attributed to other causes, TB is the leading",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        469.93792724609375,
+        527.4003295898438,
+        487.1749267578125
+      ],
+      "text": "(63) cause of bacterial meningitis in many settings  . TBM is associated with significant mortality and",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        485.9319152832031,
+        527.1400146484375,
+        500.37493896484375
+      ],
+      "text": "morbidity; in a systematic review and meta-analysis published in 2014, the risk of death among children",
+      "font": "SegoeUI-Light",
+      "size": 10.948680877685547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        499.13189697265625,
+        527.5850830078125,
+        513.5748901367188
+      ],
+      "text": "aged 0–14 years with TBM was estimated at 19.3% and the risk of neurological sequelae among TBM",
+      "font": "SegoeUI-Light",
+      "size": 10.990896224975586,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        509.53790283203125,
+        527.4068603515625,
+        526.77490234375
+      ],
+      "text": "(64) survivors was estimated at 36.7%  . Even among children without severe neurological sequelae,",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        525.5318603515625,
+        527.2978515625,
+        539.974853515625
+      ],
+      "text": "attention deficit and behavioural disorders are common and the human cost and financial burden for",
+      "font": "SegoeUI-Light",
+      "size": 10.987442970275879,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        538.73193359375,
+        527.5337524414062,
+        553.1749267578125
+      ],
+      "text": "families and society are high. Diagnosis in the most advanced clinical stage, which occurred in almost",
+      "font": "SegoeUI-Light",
+      "size": 10.992648124694824,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        551.931884765625,
+        527.4345703125,
+        566.3748779296875
+      ],
+      "text": "50% of children with TBM, was associated with worse outcomes based on the findings of the review.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        565.1318969726562,
+        527.4324340820312,
+        579.5748901367188
+      ],
+      "text": "WHO currently recommends a regimen of 12 months duration to treat TBM, consisting of isoniazid,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        578.3319091796875,
+        527.4246215820312,
+        592.77490234375
+      ],
+      "text": "rifampicin, ethambutol and pyrazinamide given daily for the first 2 months, followed by isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        588.7379150390625,
+        527.41748046875,
+        605.9749145507812
+      ],
+      "text": "(8, 56) and rifampicin given daily for 10 additional months (2HRZE/10HR)  . Recommended doses to",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        601.9379272460938,
+        412.57867431640625,
+        619.1749267578125
+      ],
+      "text": "(8) be used in this regimen are the same as those for the treatment of PTB  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        623.6417846679688,
+        524.406005859375,
+        640.8787841796875
+      ],
+      "text": "(65) The recommendation on the use of the 12-month regimen was based on a literature review",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        636.8419189453125,
+        527.4197998046875,
+        654.0789184570312
+      ],
+      "text": "2010 Rapid advice: treatment of TB in children (56) and was first included in the  . This review included",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        652.8359375,
+        527.41015625,
+        667.2789306640625
+      ],
+      "text": "46 studies with information on the efficacy of different regimens and dosages for the management",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.035888671875,
+        527.3927612304688,
+        680.4788818359375
+      ],
+      "text": "of TBM (25 studies included paediatric data and 21 included data on both adults and children). The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.23583984375,
+        527.4024658203125,
+        693.6788330078125
+      ],
+      "text": "majority of these studies were non-randomized, non-comparative studies. The quality of the studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.435791015625,
+        527.230224609375,
+        706.8787841796875
+      ],
+      "text": "ranged from low to very low and no clear conclusions could be drawn from the efficacy studies, given",
+      "font": "SegoeUI-Light",
+      "size": 10.98133373260498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.6359252929688,
+        527.427734375,
+        720.0789184570312
+      ],
+      "text": "that they differed widely in terms of design, drugs used and patient populations. None of the studies",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.8359375,
+        432.7001037597656,
+        733.2789306640625
+      ],
+      "text": "from this review were entered into GRADE, given the lack of comparative data.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.539794921875,
+        527.505859375,
+        754.9827880859375
+      ],
+      "text": "Shorter regimens to treat paediatric TBM are used in some settings. The South African National",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.7398071289062,
+        527.2706909179688,
+        768.1828002929688
+      ],
+      "text": "TB Guidelines recommend a regimen composed of daily isoniazid, rifampicin, pyrazinamide and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        344.452392578125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "5. Treatment of TB disease in children and adolescents 37",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

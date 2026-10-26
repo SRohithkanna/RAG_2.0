@@ -1,0 +1,678 @@
+{
+  "file": "module1",
+  "page": 242,
+  "blocks": [
+    {
+      "bbox": [
+        70.86620330810547,
+        67.39063262939453,
+        78.23619842529297,
+        81.83363342285156
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        67.39063262939453,
+        508.7819519042969,
+        81.83363342285156
+      ],
+      "text": "any AEs grade ≥ 3 from starting study treatment up to 30 days after the last study drug dose",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        80.59058380126953,
+        78.23619842529297,
+        95.03358459472656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        80.59058380126953,
+        341.1242980957031,
+        95.03358459472656
+      ],
+      "text": "serious AEs up to 30 days after the last study drug dose",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        93.79059600830078,
+        78.23619842529297,
+        108.23359680175781
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        93.79059600830078,
+        298.9732971191406,
+        108.23359680175781
+      ],
+      "text": "discontinuation of study treatment due to AE(s)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        106.99060821533203,
+        78.23619842529297,
+        121.43360900878906
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        106.99060821533203,
+        527.4055786132812,
+        121.43360900878906
+      ],
+      "text": "selected pre-defined AEs, from starting treatment up to 30 days after the last study drug dose",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        120.19062042236328,
+        527.1278076171875,
+        134.6336212158203
+      ],
+      "text": "unless stated otherwise (arthritis, arthralgia, tendinopathy during overall study follow-up, peripheral",
+      "font": "SegoeUI-Light",
+      "size": 10.9617338180542,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        133.39064025878906,
+        527.1856079101562,
+        147.83363342285156
+      ],
+      "text": "neuropathy, central nervous system effects, severe rash/cutaneous reaction and drug related fever)",
+      "font": "SegoeUI-Light",
+      "size": 10.976123809814453,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        146.59059143066406,
+        78.23619842529297,
+        161.03358459472656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        146.59059143066406,
+        184.337890625,
+        161.03358459472656
+      ],
+      "text": "treatment adherence.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        168.2945098876953,
+        527.5391845703125,
+        182.7375030517578
+      ],
+      "text": "Incident TB and cause of death were adjudicated by an independent end-point review committee who",
+      "font": "SegoeUI-Light",
+      "size": 10.963991165161133,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        181.49464416503906,
+        527.5806274414062,
+        195.93763732910156
+      ],
+      "text": "were unaware of the randomized treatment allocation, according to all available clinical, radiological,",
+      "font": "SegoeUI-Light",
+      "size": 10.996699333190918,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        194.69459533691406,
+        522.1708374023438,
+        209.13758850097656
+      ],
+      "text": "microbiological and molecular data according to standard international consensus case definitions.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        216.13450622558594,
+        527.2447509765625,
+        230.8415069580078
+      ],
+      "text": "V-QUIN:  Outcomes were reported for each participant. The primary study end-point was",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        228.32252502441406,
+        527.415771484375,
+        244.04151916503906
+      ],
+      "text": "M. tuberculosis bacteriologically confirmed TB, defined as a positive identification of   by culture or a",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        242.7985382080078,
+        527.424560546875,
+        257.2415466308594
+      ],
+      "text": "molecular WHO-recommended rapid diagnostic in a close contact with clinical and/or radiological",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        255.99855041503906,
+        527.3941040039062,
+        270.4415588378906
+      ],
+      "text": "evidence of TB disease. The primary outcome was assigned by an expert clinical panel that was",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        269.198486328125,
+        198.01992797851562,
+        283.6415710449219
+      ],
+      "text": "allocation. blinded to group",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86616516113281,
+        290.9024658203125,
+        527.4036254882812,
+        305.3454895019531
+      ],
+      "text": "Secondary end-points included all forms of TB (bacteriologically confirmed or clinically probable),",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86616516113281,
+        304.10235595703125,
+        527.2244873046875,
+        318.5453796386719
+      ],
+      "text": "completion of therapy, treatment discontinuation due to an adverse event, grade 3 or 4 adverse",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86616516113281,
+        317.3023681640625,
+        527.3988037109375,
+        331.7453918457031
+      ],
+      "text": "events, death from any cause except violence, accident or acquired resistance to FQs in comparison",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86616516113281,
+        330.50238037109375,
+        527.3828125,
+        344.9454040527344
+      ],
+      "text": "with the index isolate. Completion of treatment was defined as having taken at least 80% of doses",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        343.702392578125,
+        527.6096801757812,
+        358.1454162597656
+      ],
+      "text": "within 270 days after starting therapy. Secondary safety outcomes were assigned by an expert clinical",
+      "font": "SegoeUI-Light",
+      "size": 10.984739303588867,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        356.90240478515625,
+        267.3553161621094,
+        371.3454284667969
+      ],
+      "text": "panel that was blinded to group allocation.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        381.7690124511719,
+        192.9984588623047,
+        400.0390319824219
+      ],
+      "text": "Statistical methods",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.3723373413086,
+        409.9075927734375,
+        141.88446044921875,
+        428.1776123046875
+      ],
+      "text": "TB CHAMP",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        434.6195373535156,
+        131.14620971679688,
+        449.1285095214844
+      ],
+      "text": "Sample size",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        456.5874938964844,
+        527.4498901367188,
+        471.030517578125
+      ],
+      "text": "In the original sample size calculations, a 50% reduction in TB disease incidence was assumed by 48",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        469.7875061035156,
+        527.367431640625,
+        484.23052978515625
+      ],
+      "text": "weeks (i.e. 50% efficacy of Lfx), from 7% in the control group to 3.5% in the Lfx group. The originally",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        482.9875183105469,
+        527.4411010742188,
+        497.4305419921875
+      ],
+      "text": "calculated sample size was 1556 participants, which would provide 80% power for the study at a 5%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        496.1875305175781,
+        527.43359375,
+        510.63055419921875
+      ],
+      "text": "two-sided significance level, assuming an average of two participants enrolled per household; the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        509.3875732421875,
+        527.4065551757812,
+        523.83056640625
+      ],
+      "text": "household intra-class correlation was 0.10, with 10% loss to follow-up. In May 2019, after discussion",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        522.5875244140625,
+        527.1573486328125,
+        537.030517578125
+      ],
+      "text": "with the Trial Steering Committee and the Independent Data Monitoring Committee, the target sample",
+      "font": "SegoeUI-Light",
+      "size": 10.955459594726562,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        535.7874755859375,
+        527.392822265625,
+        550.23046875
+      ],
+      "text": "size was reduced to 1009 according to an assumed efficacy of 60% for Lfx (with other assumptions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        548.987548828125,
+        524.4283447265625,
+        563.4305419921875
+      ],
+      "text": "remaining unchanged). This assumption was considered to be in line with the results of the meta-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        562.1875,
+        321.5452575683594,
+        576.6304931640625
+      ],
+      "text": "analysis by Marks et al. (2017, doi:10.1093/cid/cix208).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        583.62744140625,
+        167.12278747558594,
+        598.1364135742188
+      ],
+      "text": "Statistical analyses",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        605.5953369140625,
+        78.23619842529297,
+        620.038330078125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        605.5953369140625,
+        527.427001953125,
+        620.038330078125
+      ],
+      "text": "primary efficacy analysis included all randomized participants except for any late screening failures",
+      "font": "SegoeUI-Light",
+      "size": 10.986592292785645,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        618.7952880859375,
+        267.04541015625,
+        633.23828125
+      ],
+      "text": "due to TB at baseline (mITT population);",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        631.9954223632812,
+        78.23619842529297,
+        646.4384155273438
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        631.9954223632812,
+        527.44580078125,
+        646.4384155273438
+      ],
+      "text": "pre-defined ± 6-week window allowed for study visit at 48 weeks, with follow-up time censored",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        645.1954345703125,
+        139.0778045654297,
+        659.638427734375
+      ],
+      "text": "at 54 weeks;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        658.3953247070312,
+        78.23619842529297,
+        672.8383178710938
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        658.3953247070312,
+        527.554443359375,
+        672.8383178710938
+      ],
+      "text": "Cox regression used to estimate hazard ratio of time to TB end-point with Lfx compared with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        671.5953369140625,
+        463.0220947265625,
+        686.038330078125
+      ],
+      "text": "placebo, accounting for household clustering and adjusting for site and age group;",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        684.7952880859375,
+        78.23619842529297,
+        699.23828125
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        684.7952880859375,
+        527.4346313476562,
+        699.23828125
+      ],
+      "text": "safety analyses included all randomized participants who had received at least one dose of study",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86620330810547,
+        697.9954223632812,
+        415.8692626953125,
+        712.4384155273438
+      ],
+      "text": "drug and comparison of time to first event between treatment arms; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        711.1954345703125,
+        78.23619842529297,
+        725.638427734375
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23619842529297,
+        711.1954345703125,
+        317.87030029296875,
+        725.638427734375
+      ],
+      "text": "IPD and Bayesian analysis: TB-CHAMP and V-QUIN",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.17268371582031,
+        801.0170288085938,
+        136.4342041015625,
+        811.52099609375
+      ],
+      "text": "224 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.4342041015625,
+        801.0170288085938,
+        170.0581817626953,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        390.6751708984375,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

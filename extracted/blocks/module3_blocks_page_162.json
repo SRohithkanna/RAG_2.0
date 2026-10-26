@@ -1,0 +1,642 @@
+{
+  "file": "module3",
+  "page": 162,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        78.81909942626953,
+        82.30619812011719
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        69.16120147705078,
+        526.9678344726562,
+        82.30619812011719
+      ],
+      "text": "The systematic review focused on the use of IGRAs to diagnose active pulmonary TB, given",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        84.66120147705078,
+        526.9313354492188,
+        97.80619812011719
+      ],
+      "text": "that data for extrapulmonary TB were lacking; nevertheless, the GDG consensus was that",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        100.16120147705078,
+        524.4036254882812,
+        113.30619812011719
+      ],
+      "text": "recommendations for pulmonary TB could reasonably be extrapolated to extrapulmonary TB.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.66120147705078,
+        78.81909942626953,
+        128.8061981201172
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        115.66120147705078,
+        526.9036865234375,
+        128.8061981201172
+      ],
+      "text": "Industry involvement was unknown in 18% of studies and acknowledged in 27% of studies,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.976725578308105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        131.16119384765625,
+        526.9641723632812,
+        144.3061981201172
+      ],
+      "text": "including donation of IGRA kits as well as work or financial relationships between authors",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        146.66119384765625,
+        208.3490753173828,
+        159.8061981201172
+      ],
+      "text": "and IGRA manufacturers.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        175.0075225830078,
+        373.04058837890625,
+        191.3875274658203
+      ],
+      "text": "Strengths and limitations of the evidence base",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        200.138427734375,
+        275.3533020019531,
+        213.28343200683594
+      ],
+      "text": "Strengths and limitations were as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        219.890380859375,
+        78.81909942626953,
+        233.03538513183594
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        219.890380859375,
+        526.9631958007812,
+        233.03538513183594
+      ],
+      "text": "Heterogeneity was substantial for the primary outcomes of sensitivity and specificity.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        235.390380859375,
+        526.9651489257812,
+        248.53538513183594
+      ],
+      "text": "Activities performed to minimize heterogeneity were empirical random-effects weighting,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        250.890380859375,
+        526.6067504882812,
+        264.035400390625
+      ],
+      "text": "excluding studies contributing fewer than 10 eligible individuals, and separately synthesizing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.947826385498047,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        266.390380859375,
+        277.30584716796875,
+        279.535400390625
+      ],
+      "text": "data for currently manufactured IGRAs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        281.890380859375,
+        78.81909942626953,
+        295.035400390625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        281.890380859375,
+        526.9853515625,
+        295.035400390625
+      ],
+      "text": "No standard criteria exist for defining high TB incidence countries, and the World Bank",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        297.390380859375,
+        527.0637817382812,
+        310.535400390625
+      ],
+      "text": "income classification is an imperfect surrogate for national TB incidence; nevertheless, results",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951844215393066,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        312.890380859375,
+        526.7433471679688,
+        326.035400390625
+      ],
+      "text": "were fundamentally unchanged when restricted to countries with an arbitrarily chosen",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        328.3904113769531,
+        370.61700439453125,
+        341.5354309082031
+      ],
+      "text": "annual TB incidence of at least 50 per 100 000 population.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.8904113769531,
+        78.81909942626953,
+        357.0354309082031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        343.8904113769531,
+        526.7224731445312,
+        357.0354309082031
+      ],
+      "text": "It is possible that ongoing studies were missed, despite systematic searching. It is also",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        359.3904113769531,
+        526.9644165039062,
+        372.5354309082031
+      ],
+      "text": "possible that studies that found poor IGRA performance were less likely to be published.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        374.8904113769531,
+        524.0823364257812,
+        388.0354309082031
+      ],
+      "text": "Given the lack of statistical methods to account for publication bias in diagnostic meta-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        390.3904113769531,
+        527.0082397460938,
+        403.5354309082031
+      ],
+      "text": "analyses, it would be prudent to assume some degree of overestimation of estimates due",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        405.8904113769531,
+        178.5157928466797,
+        419.0354309082031
+      ],
+      "text": "to publication bias.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        421.3904113769531,
+        78.81909942626953,
+        434.5354309082031
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        421.3904113769531,
+        526.9641723632812,
+        434.5354309082031
+      ],
+      "text": "The systematic review focused on test accuracy (i.e. sensitivity and specificity) and indirect",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        436.8904113769531,
+        526.93115234375,
+        450.0354309082031
+      ],
+      "text": "assessment of patient impact (false positive and false negative results). None of the studies",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        452.3904113769531,
+        527.1602783203125,
+        465.5354309082031
+      ],
+      "text": "reviewed provided information on patient-important outcomes (i.e. showing that IGRAs used",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        467.8904113769531,
+        526.7037353515625,
+        481.0354309082031
+      ],
+      "text": "in a given situation resulted in a clinically relevant improvement in patient care or outcomes).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.954856872558594,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        483.3904113769531,
+        493.4631652832031,
+        496.5354309082031
+      ],
+      "text": "In addition, no information was available on the values and preferences of patients.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.22900390625,
+        526.8634033203125,
+        523.3740234375
+      ],
+      "text": "Data synthesis was structured around the preset PICO question, as outlined above. Web Annex",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.977025985717773,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        525.72900390625,
+        405.1512145996094,
+        538.8740234375
+      ],
+      "text": "I provides additional information on evidence synthesis and analysis.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        551.2405395507812,
+        330.5142517089844,
+        567.6205444335938
+      ],
+      "text": "Operational aspects of the use of IGRAs",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.3715209960938,
+        345.5763244628906,
+        589.5165405273438
+      ],
+      "text": "Operational aspects of the use of IGRAs were as follows:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        596.12353515625,
+        78.81909942626953,
+        609.2685546875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        596.12353515625,
+        526.776123046875,
+        609.2685546875
+      ],
+      "text": "Cost of IGRAs was mentioned by four studies, which all stated that the assays are too",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        611.62353515625,
+        326.7926940917969,
+        624.7685546875
+      ],
+      "text": "expensive and that this is a limitation to their use.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        627.12353515625,
+        78.81909942626953,
+        640.2685546875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        627.12353515625,
+        526.9642944335938,
+        640.2685546875
+      ],
+      "text": "Only one study addressed reproducibility of T-Spot by assessing inter-observer agreement;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        642.62353515625,
+        524.4109497070312,
+        655.7685546875
+      ],
+      "text": "it showed excellent correlation. No other study mentioned the issue of test reproducibility.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.12353515625,
+        78.81909942626953,
+        671.2685546875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        658.12353515625,
+        526.9654541015625,
+        671.2685546875
+      ],
+      "text": "Twelve studies reported on accepted transport times of samples to the laboratory, which",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        673.62353515625,
+        527.2653198242188,
+        686.7685546875
+      ],
+      "text": "were mainly less than 6 hours (i.e. within the limit accepted by the test manufacturers). One",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989544868469238,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        689.12353515625,
+        526.96435546875,
+        702.2685546875
+      ],
+      "text": "study accepted a transport time of 16 hours and another 24 hours. None reported on the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        704.62353515625,
+        527.2387084960938,
+        717.7685546875
+      ],
+      "text": "impact of the transport times (i.e. delay between drawing the blood and initiating the IGRA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989745140075684,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        720.12353515625,
+        292.6619873046875,
+        733.2685546875
+      ],
+      "text": "test) and IGRA test results or performance.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        735.62353515625,
+        78.81909942626953,
+        748.7685546875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        735.62353515625,
+        311.1407470703125,
+        748.7685546875
+      ],
+      "text": "No study reported on time-to-result for IGRAs.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        38.466400146484375,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "146 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

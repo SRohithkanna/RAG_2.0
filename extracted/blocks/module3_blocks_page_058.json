@@ -1,0 +1,462 @@
+{
+  "file": "module3",
+  "page": 58,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4132690429688,
+        83.2621841430664
+      ],
+      "text": "Fig. 2.2.1.6 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.67418670654297,
+        249.6781005859375,
+        98.7621841430664
+      ],
+      "text": "pulmonary TB in stool and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.0165023803711,
+        108.03327941894531,
+        516.0798950195312,
+        122.83528900146484
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 8.951729774475098,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.0165023803711,
+        123.7862548828125,
+        353.8658447265625,
+        137.8957061767578
+      ],
+      "text": "Danfack 2024 7 11 0 126 1.00 [0.59, 1.00] 0.92 [0.86, 0.96]",
+      "font": "ArialMT",
+      "size": 8.951729774475098,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        356.7500915527344,
+        137.56634521484375,
+        517.6116333007812,
+        151.67579650878906
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 8.951729774475098,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.29183959960938,
+        526.5010375976562,
+        176.04684448242188
+      ],
+      "text": "CI: confidence interval; FN: false negative; FP: false positive; LC-mNAAT: low-complexity manual nucleic acid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.09188842773438,
+        519.1832275390625,
+        186.84689331054688
+      ],
+      "text": "amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative; TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.36268615722656,
+        245.0485076904297,
+        221.74269104003906
+      ],
+      "text": "Detection of TB meningitis",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        232.9773406982422,
+        486.72021484375,
+        247.06533813476562
+      ],
+      "text": "Should LC-mNAATs on CSF be used to diagnose TB meningitis in adults and",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        247.37730407714844,
+        468.9566345214844,
+        261.4653015136719
+      ],
+      "text": "adolescents with signs and symptoms of TB meningitis, against an MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        272.13232421875,
+        526.7390747070312,
+        285.27734375
+      ],
+      "text": "Two studies (70 participants, including three with TB meningitis) assessed the accuracy of",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        287.63232421875,
+        526.9960327148438,
+        300.77734375
+      ],
+      "text": "LC-mNAATs for detecting TB meningitis using CSF and an MRS ( ). Estimated sensitivity  Fig. 2.2.1.7",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        303.13232421875,
+        526.96337890625,
+        316.27734375
+      ],
+      "text": "and specificity were both 100% in one study, and 0% and 97%, respectively, in the other. The",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        318.63232421875,
+        526.9666137695312,
+        331.77734375
+      ],
+      "text": "certainty of evidence was very low for sensitivity and low for specificity. Due to limited data, a",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.13232421875,
+        524.4201049804688,
+        347.27734375
+      ],
+      "text": "recommendation on using LC-mNAATs with CSF for detection of TB meningitis was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.998099327087402,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        361.91851806640625,
+        517.8060913085938,
+        376.0065002441406
+      ],
+      "text": "Fig. 2.2.1.7 Forest plot of LC-mNAAT sensitivity and specificity for detection of",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.3185119628906,
+        239.56210327148438,
+        390.406494140625
+      ],
+      "text": "TB meningitis in CSF and MRS",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.58319854736328,
+        398.24493408203125,
+        518.4932250976562,
+        413.18829345703125
+      ],
+      "text": "Study TP FP FN TN Sensitivity (95% CI) Specificity (95% CI) Sensitivity (95% CI) Specificity (95% CI)",
+      "font": "Arial-BoldMT",
+      "size": 9.037249565124512,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.58319854736328,
+        414.1483154296875,
+        354.7296142578125,
+        428.39251708984375
+      ],
+      "text": "Danfack 2024a 0 2 2 61 0.00 [0.00, 0.84] 0.97 [0.89, 1.00]",
+      "font": "ArialMT",
+      "size": 9.037249565124512,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        74.58319854736328,
+        428.0600891113281,
+        354.72686767578125,
+        442.3042907714844
+      ],
+      "text": "Singh 2021 1 0 0 4 1.00 [0.03, 1.00] 1.00 [0.40, 1.00]",
+      "font": "ArialMT",
+      "size": 9.037249565124512,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        357.64080810546875,
+        441.9739074707031,
+        520.0386352539062,
+        456.2181091308594
+      ],
+      "text": "0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1",
+      "font": "ArialMT",
+      "size": 9.037249565124512,
+      "type": "table"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        468.5989074707031,
+        526.5022583007812,
+        479.3539123535156
+      ],
+      "text": "CI: confidence interval; CSF: cerebrospinal fluid; FN: false negative; FP: false positive; LC-mNAAT: low-complexity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        479.39892578125,
+        526.5021362304688,
+        490.1539306640625
+      ],
+      "text": "manual nucleic acid amplification test; MRS: microbiological reference standard; TB: tuberculosis; TN: true negative;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        490.19891357421875,
+        136.7910919189453,
+        500.95391845703125
+      ],
+      "text": "TP: true positive.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.4697875976562,
+        281.7774658203125,
+        535.8497924804688
+      ],
+      "text": "Detection of extrapulmonary TB",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        547.08447265625,
+        514.7352905273438,
+        561.1724243164062
+      ],
+      "text": "Should LC-mNAATs on lymph node tissue be used to diagnose lymph node TB in",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        561.4844360351562,
+        506.8861999511719,
+        575.5723876953125
+      ],
+      "text": "adults and adolescents with signs and symptoms of lymph node TB, against an",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        575.8843994140625,
+        101.8908920288086,
+        589.9723510742188
+      ],
+      "text": "MRS?",
+      "font": "FrutigerNeueLT-MdIt",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        600.6392822265625,
+        527.135498046875,
+        613.7843017578125
+      ],
+      "text": "Three studies (95 participants, including 35 people with TB) assessed the accuracy of LC-mNAATs",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        616.1392822265625,
+        526.9616088867188,
+        629.2843017578125
+      ],
+      "text": "for detecting lymph node TB using lymph node tissue from biopsy and an MRS ( ).  Fig. 2.2.1.8",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        631.6392822265625,
+        526.9794311523438,
+        644.7843017578125
+      ],
+      "text": "The estimated sensitivities were between 93% and 100%, and specificities were between",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.1392822265625,
+        526.969970703125,
+        660.2843017578125
+      ],
+      "text": "88% and 100%. The summary sensitivity was 94.3% (95% CI: 79.8–98.6), and the summary",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        662.6392822265625,
+        526.6633911132812,
+        675.7843017578125
+      ],
+      "text": "specificity was 90.0% (95% CI: 79.5–95.4). The certainty of evidence was low for both sensitivity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.963288307189941,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        678.1392822265625,
+        527.0869750976562,
+        691.2843017578125
+      ],
+      "text": "and specificity. Due to limited data, a recommendation on using LC-mNAATs with lymph node",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.990946769714355,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        693.6392822265625,
+        347.6435852050781,
+        706.7843017578125
+      ],
+      "text": "tissue for the detection of lymph node TB was not made.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        40.76240158081055,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "42 WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

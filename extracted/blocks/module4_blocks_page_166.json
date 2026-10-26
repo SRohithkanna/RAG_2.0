@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 166,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.4354858398438,
+        81.83369445800781
+      ],
+      "text": "treatment will necessitate more resources. Updated information on drug–drug interactions between",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        79.31470489501953,
+        400.3000183105469,
+        95.03370666503906
+      ],
+      "text": "(44). antiretroviral and antituberculosis medicines is now available online",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.40792846679688,
+        199.94415283203125,
+        124.25992584228516
+      ],
+      "text": "Values and preferences",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        131.4678497314453,
+        527.3783569335938,
+        145.9108428955078
+      ],
+      "text": "A high value was placed on outcomes such as prevention of early death and TB transmission, and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.6678009033203,
+        527.3815307617188,
+        159.1107940673828
+      ],
+      "text": "a lower value was placed on the resources required to make ART available to all MDR-TB patients",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.86793518066406,
+        149.4864044189453,
+        172.31092834472656
+      ],
+      "text": "infected with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        186.29913330078125,
+        484.54168701171875,
+        211.09413146972656
+      ],
+      "text": "7. Surgery for patients on MDR/RR-TB treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        222.63429260253906,
+        461.11407470703125,
+        243.51429748535156
+      ],
+      "text": "Recommendation 7.1 Surgery for MDR/RR-TB patients",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        255.2196044921875,
+        200.94850158691406,
+        269.5745849609375
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        276.834228515625,
+        486.75177001953125,
+        291.3872375488281
+      ],
+      "text": "7.1 In patients with rifampicin-resistant tuberculosis (RR-TB) or multidrug-resistant TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        288.9442138671875,
+        510.677734375,
+        303.3872375488281
+      ],
+      "text": "(MDR-TB), elective partial lung resection (lobectomy or wedge resection) may be used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        300.9442138671875,
+        323.9054260253906,
+        315.3872375488281
+      ],
+      "text": "alongside a recommended MDR-TB regimen.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.86930084228516,
+        315.92022705078125,
+        389.42132568359375,
+        331.584228515625
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        348.3166198730469,
+        216.29168701171875,
+        364.1686096191406
+      ],
+      "text": "Justification and evidence",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        371.3764953613281,
+        374.89404296875,
+        385.81951904296875
+      ],
+      "text": "The recommendation in this section addresses one PICO question:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.47807312011719,
+        391.8044128417969,
+        515.8995361328125,
+        407.4684143066406
+      ],
+      "text": "(DR-TB, 2016): Among patients on MDR-TB treatment, are the following two  PICO question",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        405.0045166015625,
+        515.9163208007812,
+        420.66851806640625
+      ],
+      "text": "interventions (delay in start of treatment and elective surgery) likely to lead to cure and other",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.86609649658203,
+        418.2044982910156,
+        140.27297973632812,
+        433.8684997558594
+      ],
+      "text": "outcomes? 60",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        441.1844177246094,
+        527.533203125,
+        455.62744140625
+      ],
+      "text": "Surgery has been employed in treating TB patients since before the advent of chemotherapy. In many",
+      "font": "SegoeUI-Light",
+      "size": 10.977176666259766,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.3843994140625,
+        527.4367065429688,
+        468.8274230957031
+      ],
+      "text": "countries, it remains one of the treatment options for TB. With the challenging prospect in many",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        467.58441162109375,
+        527.2376708984375,
+        482.0274353027344
+      ],
+      "text": "settings of inadequate regimens to treat DR-TB, and the risk of serious sequelae, the role of pulmonary",
+      "font": "SegoeUI-Light",
+      "size": 10.961483001708984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        480.7843933105469,
+        527.2496337890625,
+        495.2274169921875
+      ],
+      "text": "surgery is being re-evaluated as a way to reduce the amount of lung tissue with intractable pathology",
+      "font": "SegoeUI-Light",
+      "size": 10.981184005737305,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        493.9844055175781,
+        527.385009765625,
+        508.42742919921875
+      ],
+      "text": "and reduce bacterial load, and thus improve prognosis. The review for this question was based on",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        507.1844482421875,
+        527.45654296875,
+        521.62744140625
+      ],
+      "text": "both an IPD meta-analysis to evaluate the effectiveness of different forms of elective surgery as an",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.1083984375,
+        527.4249267578125,
+        534.827392578125
+      ],
+      "text": "(137) adjunct to combination medical therapy for MDR-TB  , and a systematic review and study-level",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        532.3084106445312,
+        527.417724609375,
+        548.0274047851562
+      ],
+      "text": "(138). meta-analysis   Demographic, clinical, bacteriological, surgical and outcome data of MDR-TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.784423828125,
+        527.1625366210938,
+        561.2274169921875
+      ],
+      "text": "patients on treatment were obtained from the authors of 26 cohort studies that supplied data for the",
+      "font": "SegoeUI-Light",
+      "size": 10.996249198913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        558.7083740234375,
+        527.48681640625,
+        574.4273681640625
+      ],
+      "text": "(70) adult IPD (aIPD)  . The analyses summarized in the GRADE tables consist of three strata comparing",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.984188079833984,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        573.1844482421875,
+        527.5379638671875,
+        587.62744140625
+      ],
+      "text": "treatment success (e.g. cure and completion) with different combinations of treatment failure, relapse,",
+      "font": "SegoeUI-Light",
+      "size": 10.97938060760498,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        586.3843994140625,
+        527.4135131835938,
+        600.827392578125
+      ],
+      "text": "death and LTFU. Two sets of such tables were prepared, one for partial pulmonary resection and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.5844116210938,
+        527.3902587890625,
+        614.0274047851562
+      ],
+      "text": "one for pneumonectomy. Based on an assessment of the certainty of the evidence, carried out using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.784423828125,
+        527.429931640625,
+        627.2274169921875
+      ],
+      "text": "predefined criteria and documented in GRADEpro, the certainty of the evidence was rated as very",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        625.984375,
+        405.5587463378906,
+        640.4273681640625
+      ],
+      "text": "low to low, depending on the outcome being assessed and type of study.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.6882934570312,
+        527.4353637695312,
+        662.1312866210938
+      ],
+      "text": "In the study-level meta-analysis that examined all forms of surgery together, there was a statistically",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.8883056640625,
+        527.4408569335938,
+        675.331298828125
+      ],
+      "text": "significant improvement in cure and successful treatment outcomes among patients who received",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        674.0883178710938,
+        527.5785522460938,
+        688.5313110351562
+      ],
+      "text": "surgery. However, when the aIPD meta-analysis examined patients who underwent partial lung",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        687.288330078125,
+        527.4389038085938,
+        701.7313232421875
+      ],
+      "text": "resection and those who had a more radical pneumonectomy compared with patients who did not",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        700.48828125,
+        527.5891723632812,
+        714.9312744140625
+      ],
+      "text": "undergo surgery, those who underwent partial lung resection had statistically significantly higher rates",
+      "font": "SegoeUI-Light",
+      "size": 10.970459938049316,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        713.6882934570312,
+        527.3903198242188,
+        728.1312866210938
+      ],
+      "text": "of treatment success. Patients who underwent pneumonectomy did not have better outcomes than",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        726.8883056640625,
+        527.3958129882812,
+        741.331298828125
+      ],
+      "text": "those who did not undergo surgery. Prognosis appeared to be better when partial lung resection",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.8717041015625,
+        526.3604125976562,
+        763.57568359375
+      ],
+      "text": "The outcomes comprise 1. Cured/completed by end of treatment, 2. Culture conversion by 6 months, 3. Failure, 4. Relapse, 5. Survival (or  60",
+      "font": "SegoeUI-Light",
+      "size": 7.977468013763428,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        524.2335205078125,
+        773.1756591796875
+      ],
+      "text": "death), 6. Adverse reactions (severity, type, organ class), and 7. Adherence to treatment (or treatment interruption due to non-adherence).",
+      "font": "SegoeUI-Light",
+      "size": 7.967182636260986,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "152 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

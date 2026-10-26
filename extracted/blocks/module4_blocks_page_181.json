@@ -1,0 +1,918 @@
+{
+  "file": "module4",
+  "page": 181,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.70672607421875,
+        527.1409301757812,
+        80.83673095703125
+      ],
+      "text": "32.\t Protocol title: a Phase 3 partially-blinded, randomized trial assessing the safety and efficacy of various",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        81.70672607421875,
+        527.197509765625,
+        94.83673095703125
+      ],
+      "text": "doses and treatment durations of linezolid plus bedaquiline and pretomanid in participants with pulmonary",
+      "font": "SegoeUI-Light",
+      "size": 9.975069046020508,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        95.70672607421875,
+        527.1530151367188,
+        108.83673095703125
+      ],
+      "text": "infection of either extensively drug-resistant tuberculosis (XDR-TB), pre-XDR-TB or treatment intolerant or",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        109.70672607421875,
+        361.7911376953125,
+        122.83673095703125
+      ],
+      "text": "non-responsive multi-drug resistant tuberculosis (MDR-TB). 2020.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        127.9586181640625,
+        527.1119995117188,
+        141.088623046875
+      ],
+      "text": "33.\t Nunn AJ, Phillips PP, Mitchison DA. Timing of relapse in short-course chemotherapy trials for tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        141.9586181640625,
+        247.01231384277344,
+        155.088623046875
+      ],
+      "text": "Int J Tuberc Lung Dis. 2010;14:241–2 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        247.0146026611328,
+        141.9586181640625,
+        451.27099609375,
+        155.088623046875
+      ],
+      "text": "https://www.ncbi.nlm.nih.gov/pubmed/20074418",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        451.27239990234375,
+        141.9586181640625,
+        456.3124084472656,
+        155.088623046875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        160.21063232421875,
+        527.3760375976562,
+        173.34063720703125
+      ],
+      "text": "34.\t Gomez GB, Siapka M, Conradie F, Ndjeka N, Garfin AMC, Lomtadze N et al. Cost-effectiveness of bedaquiline,",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        174.21063232421875,
+        527.1270141601562,
+        187.34063720703125
+      ],
+      "text": "pretomanid and linezolid for treatment of extensively drug-resistant tuberculosis in South Africa, Georgia",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        188.21063232421875,
+        263.7994079589844,
+        201.34063720703125
+      ],
+      "text": "and the Philippines. BMJ Open. 2021;11  (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        263.80169677734375,
+        188.21063232421875,
+        461.31988525390625,
+        201.34063720703125
+      ],
+      "text": "https://doi.org/10.1136/bmjopen-2021-051521",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        461.3211975097656,
+        188.21063232421875,
+        466.3612060546875,
+        201.34063720703125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        206.46258544921875,
+        527.1110229492188,
+        219.59259033203125
+      ],
+      "text": "35.\t Mulder C, Rupert S, Setiawan E, Mambetova E, Edo P, Sugiharto J et al. Budgetary impact of using BPaL",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        220.46258544921875,
+        423.8408203125,
+        233.59259033203125
+      ],
+      "text": "for treating extensively drug-resistant tuberculosis. BMJ Global Health. 2022;7  (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        423.8429870605469,
+        220.46258544921875,
+        524.39501953125,
+        233.59259033203125
+      ],
+      "text": "https://doi.org/10.1136/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        234.46258544921875,
+        176.15869140625,
+        247.59259033203125
+      ],
+      "text": "bmjgh-2021-007182",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        176.16009521484375,
+        234.46258544921875,
+        181.20010375976562,
+        247.59259033203125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        252.714599609375,
+        524.3880004882812,
+        265.8446044921875
+      ],
+      "text": "36.\t Sweeney S. TB-PRACTECAL innovating MDR-TB treatment – preliminary cost-effectiveness analysis 2022.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        270.96649169921875,
+        527.01806640625,
+        284.09649658203125
+      ],
+      "text": "37.\t van de Berg SEJ, Pelzer PT, van der Land AJ, Abdrakhmanova E, Ozi AM, Arias M et al. Acceptability,",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        284.96649169921875,
+        524.4197998046875,
+        298.09649658203125
+      ],
+      "text": "feasibility, and likelihood of stakeholders implementing the novel BPaL regimen to treat extensively drug-",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        298.96649169921875,
+        333.93609619140625,
+        312.09649658203125
+      ],
+      "text": "resistant tuberculosis patients. BMC Public Health. 2021;21  (",
+      "font": "SegoeUI-Light",
+      "size": 9.977825164794922,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        333.9018859863281,
+        298.96649169921875,
+        519.4595336914062,
+        312.09649658203125
+      ],
+      "text": "https://doi.org/10.1186/s12889-021-11427-y",
+      "font": "SegoeUI-Light",
+      "size": 9.977825164794922,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.42431640625,
+        298.96649169921875,
+        524.4081420898438,
+        312.09649658203125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 9.977825164794922,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        317.2186279296875,
+        527.1650390625,
+        330.3486328125
+      ],
+      "text": "38.\t Stringer B, Lowton K, James N, Nyang’wa BT. Capturing patient-reported and quality of life outcomes with",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        331.218505859375,
+        524.5077514648438,
+        344.3485107421875
+      ],
+      "text": "use of shorter regimens for drug-resistant tuberculosis: mixed-methods substudy protocol, TB PRACTECAL-",
+      "font": "SegoeUI-Light",
+      "size": 9.968500137329102,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        345.218505859375,
+        202.50550842285156,
+        358.3485107421875
+      ],
+      "text": "PRO. BMJ Open. 2021;11  (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        202.50779724121094,
+        345.218505859375,
+        400.02587890625,
+        358.3485107421875
+      ],
+      "text": "https://doi.org/10.1136/bmjopen-2020-043954",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        400.0273132324219,
+        345.218505859375,
+        405.06732177734375,
+        358.3485107421875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.47052001953125,
+        527.1659545898438,
+        376.60052490234375
+      ],
+      "text": "39.\t Drug approval package: pretomanid [website]. Maryland, United States of America: US Food and Drug",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        377.47052001953125,
+        180.5327911376953,
+        390.60052490234375
+      ],
+      "text": "Administration; 2019 (",
+      "font": "SegoeUI-Light",
+      "size": 9.99484920501709,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        180.52659606933594,
+        377.47052001953125,
+        524.2341918945312,
+        390.60052490234375
+      ],
+      "text": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212862Orig1s000TOC.",
+      "font": "SegoeUI-Light",
+      "size": 9.99484920501709,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        391.47052001953125,
+        105.28340148925781,
+        404.60052490234375
+      ],
+      "text": "cfm",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        105.28119659423828,
+        391.47052001953125,
+        110.32119750976562,
+        404.60052490234375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.7225036621094,
+        527.116943359375,
+        422.8525085449219
+      ],
+      "text": "40.\t Automated real-time nucleic acid amplification technology for rapid and simultaneous detection",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        423.7225036621094,
+        527.2261352539062,
+        436.8525085449219
+      ],
+      "text": "of tuberculosis and rifampicin resistance: Xpert MTB/RIF assay for the diagnosis of pulmonary and",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        437.7225036621094,
+        527.156982421875,
+        450.8525085449219
+      ],
+      "text": "extrapulmonary TB in adults and children (WHO/HTM/TB/2013.16). Geneva: World Health Organization;",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        451.7225036621094,
+        113.20610046386719,
+        464.8525085449219
+      ],
+      "text": "2013",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        113.21089935302734,
+        451.7225036621094,
+        459.2188720703125,
+        464.8525085449219
+      ],
+      "text": "(https://apps.who.int/iris/bitstream/handle/10665/112472/9789241506335_eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        460.3153991699219,
+        451.7225036621094,
+        465.35540771484375,
+        464.8525085449219
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        469.97442626953125,
+        527.335693359375,
+        483.10443115234375
+      ],
+      "text": "41.\t The use of molecular line probe assays for the detection of resistance to second-line anti-tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        483.97442626953125,
+        469.3780517578125,
+        497.10443115234375
+      ],
+      "text": "drugs: policy guidance (WHO/HTM/TB/2016.07). Geneva: World Health Organization; 2016",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        469.0237121582031,
+        483.97442626953125,
+        524.3936767578125,
+        497.10443115234375
+      ],
+      "text": "(https://apps.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        497.97442626953125,
+        380.3180847167969,
+        511.10443115234375
+      ],
+      "text": "who.int/iris/bitstream/handle/10665/246131/9789241510561-eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        381.41400146484375,
+        497.97442626953125,
+        386.4540100097656,
+        511.10443115234375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        516.2263793945312,
+        527.1459350585938,
+        529.3563842773438
+      ],
+      "text": "42.\t WHO consolidated guidelines on tuberculosis. Module 3: Diagnosis – rapid diagnostics for tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        530.2263793945312,
+        378.0982971191406,
+        543.3563842773438
+      ],
+      "text": "detection, third edition. Geneva: World Health Organization; 2024 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        378.1282958984375,
+        530.2263793945312,
+        524.4512329101562,
+        543.3563842773438
+      ],
+      "text": "https://www.who.int/publications/i/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        544.2263793945312,
+        178.78079223632812,
+        557.3563842773438
+      ],
+      "text": "item/9789240089488",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        178.78219604492188,
+        544.2263793945312,
+        316.20220947265625,
+        557.3563842773438
+      ],
+      "text": "). Licence: CC BY-NC-SA 3.0 IGO.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.4784545898438,
+        526.9110717773438,
+        575.6084594726562
+      ],
+      "text": "43.\t Technical report on critical concentrations for TB drug susceptibility testing of medicines used in the",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        576.4783935546875,
+        494.16265869140625,
+        589.6083984375
+      ],
+      "text": "treatment of drug-resistant TB (WHO/CDS/TB/2018.5). Geneva: World Health Organization; 2018 (",
+      "font": "SegoeUI-Light",
+      "size": 9.996199607849121,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        494.15869140625,
+        576.4783935546875,
+        524.3876953125,
+        589.6083984375
+      ],
+      "text": "https://",
+      "font": "SegoeUI-Light",
+      "size": 9.996199607849121,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        590.4783935546875,
+        318.5513000488281,
+        603.6083984375
+      ],
+      "text": "www.who.int/publications/i/item/WHO-CDS-TB-2018.5",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        318.5527038574219,
+        590.4783935546875,
+        323.59271240234375,
+        603.6083984375
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        608.7302856445312,
+        456.66949462890625,
+        621.8602905273438
+      ],
+      "text": "44.\t HIV drug interactions [website]. Liverpool, United Kingdom: University of Liverpool; 2020 (",
+      "font": "SegoeUI-Light",
+      "size": 9.99379825592041,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        456.6615905761719,
+        608.7302856445312,
+        524.4134521484375,
+        621.8602905273438
+      ],
+      "text": "https://www.hiv-",
+      "font": "SegoeUI-Light",
+      "size": 9.99379825592041,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        622.7302856445312,
+        209.94349670410156,
+        635.8602905273438
+      ],
+      "text": "druginteractions.org/checker",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        209.94430541992188,
+        622.7302856445312,
+        214.98431396484375,
+        635.8602905273438
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        640.9822998046875,
+        220.46749877929688,
+        654.1123046875
+      ],
+      "text": "45.\t ZYVOX . New York: Pfizer; 2010 (",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        220.3415985107422,
+        640.9822998046875,
+        524.37646484375,
+        654.1123046875
+      ],
+      "text": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021130s022lbl.",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        118.94979858398438,
+        641.3357543945312,
+        124.03466796875,
+        648.9906005859375
+      ],
+      "text": "®",
+      "font": "SegoeUI-Light",
+      "size": 5.800776481628418,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        654.9822998046875,
+        103.82730102539062,
+        668.1123046875
+      ],
+      "text": "pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        104.87590026855469,
+        654.9822998046875,
+        109.91590118408203,
+        668.1123046875
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.2343139648438,
+        527.330810546875,
+        686.3643188476562
+      ],
+      "text": "46.\t Park HY, Cheon HB, Choi SH, Kwon JW. Health-related quality of life based on EQ-5D utility score in",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        687.2343139648438,
+        424.20928955078125,
+        700.3643188476562
+      ],
+      "text": "patients with tuberculosis: a systematic review. Front Pharmacol. 2021;12:659675 (",
+      "font": "SegoeUI-Light",
+      "size": 9.99379825592041,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        424.2013854980469,
+        687.2343139648438,
+        524.386962890625,
+        700.3643188476562
+      ],
+      "text": "https://doi.org/10.3389/",
+      "font": "SegoeUI-Light",
+      "size": 9.99379825592041,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        701.2343139648438,
+        166.51519775390625,
+        714.3643188476562
+      ],
+      "text": "fphar.2021.659675",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        166.51649475097656,
+        701.2343139648438,
+        171.55650329589844,
+        714.3643188476562
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.486328125,
+        527.1659545898438,
+        732.6163330078125
+      ],
+      "text": "47.\t Morgano GP, Mbuagbaw L, Santesso N, Xie F, Brozek JL, Siebert U et al. Defining decision thresholds for",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        733.486328125,
+        527.0520629882812,
+        746.6163330078125
+      ],
+      "text": "judgments on health benefits and harms using the Grading of Recommendations Assessment, Development",
+      "font": "SegoeUI-Light",
+      "size": 9.958413124084473,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        747.486328125,
+        526.9569702148438,
+        760.6163330078125
+      ],
+      "text": "and Evaluation (GRADE) evidence to decision (EtD) frameworks: a protocol for a randomised methodological",
+      "font": "SegoeUI-Light",
+      "size": 9.9529390335083,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        761.486328125,
+        328.2300109863281,
+        774.6163330078125
+      ],
+      "text": "study (GRADE-THRESHOLD). BMJ Open. 2022;12:e053246 (",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        328.1354064941406,
+        761.486328125,
+        519.6083984375,
+        774.6163330078125
+      ],
+      "text": "https://doi.org/10.1136/bmjopen-2021-053246",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.5128173828125,
+        761.486328125,
+        524.4034423828125,
+        774.6163330078125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        316.5696105957031,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: References (Chapter 2) 167",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

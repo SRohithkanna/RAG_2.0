@@ -1,0 +1,6097 @@
+{
+  "file": "module1",
+  "total_pages": 268,
+  "pages": [
+    {
+      "page": 1,
+      "label_raw": "a",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Heavy",
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        25.0,
+        29.00014877319336,
+        31.0,
+        60.581298828125
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 2,
+      "label_raw": "b",
+      "label_numeric": null,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 3,
+      "label_raw": "i",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "AvenirLTStd-Heavy",
+        "AvenirLTStd-Roman"
+      ],
+      "font_sizes": [
+        25.0,
+        29.00014877319336,
+        31.0,
+        60.581398010253906
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 4,
+      "label_raw": "ii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        7.959899425506592,
+        7.98213005065918,
+        7.989793300628662,
+        8.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 5,
+      "label_raw": "iii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.5,
+        12.0,
+        32.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 6,
+      "label_raw": "iv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.975772857666016,
+        10.982585906982422,
+        10.992648124694824,
+        10.994898796081543,
+        10.998000144958496,
+        10.999800682067871,
+        11.0,
+        14.0,
+        32.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 7,
+      "label_raw": "v",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.95214557647705,
+        10.958471298217773,
+        10.964091300964355,
+        10.97647476196289,
+        10.98589038848877,
+        10.98889446258545,
+        10.990996360778809,
+        10.994948387145996,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 8,
+      "label_raw": "vi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.964040756225586,
+        10.9653959274292,
+        10.985089302062988,
+        10.988393783569336,
+        10.9927978515625,
+        10.997699737548828,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 9,
+      "label_raw": "vii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.959575653076172,
+        10.969206809997559,
+        10.998950004577637,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 10,
+      "label_raw": "viii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        32.0
+      ],
+      "num_blocks": 39,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 11,
+      "label_raw": "ix",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.959023475646973,
+        10.960729598999023,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 12,
+      "label_raw": "x",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.978328704833984,
+        11.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 13,
+      "label_raw": "xi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.967150688171387,
+        10.989995002746582,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 14,
+      "label_raw": "xii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "Wingdings-Regular"
+      ],
+      "font_sizes": [
+        8.0,
+        10.98819351196289,
+        11.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 15,
+      "label_raw": "xiii",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.995999813079834,
+        8.0,
+        10.94486141204834,
+        10.963589668273926,
+        10.973467826843262,
+        10.97607421875,
+        10.991896629333496,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 16,
+      "label_raw": "xiv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 17,
+      "label_raw": "xv",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        10.0,
+        11.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 18,
+      "label_raw": "xvi",
+      "label_numeric": null,
+      "is_roman": true,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 19,
+      "label_raw": "1",
+      "label_numeric": 1,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.963189125061035,
+        10.965295791625977,
+        10.977978706359863,
+        10.985740661621094,
+        10.986141204833984,
+        10.986541748046875,
+        10.988794326782227,
+        10.99069595336914,
+        10.991045951843262,
+        10.998350143432617,
+        11.0,
+        14.0,
+        32.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 20,
+      "label_raw": "2",
+      "label_numeric": 2,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.966499328613281,
+        10.968003273010254,
+        10.9682035446167,
+        10.976324081420898,
+        10.976876258850098,
+        10.995698928833008,
+        10.998950004577637,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 21,
+      "label_raw": "3",
+      "label_numeric": 3,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.964643478393555,
+        10.965546607971191,
+        10.976876258850098,
+        10.98138427734375,
+        10.985039710998535,
+        10.997900009155273,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 22,
+      "label_raw": "4",
+      "label_numeric": 4,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.94486141204834,
+        10.958271026611328,
+        10.9653959274292,
+        10.96584701538086,
+        10.973267555236816,
+        10.974570274353027,
+        10.97697639465332,
+        10.97852897644043,
+        10.98098373413086,
+        10.98293685913086,
+        10.987743377685547,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 23,
+      "label_raw": "5",
+      "label_numeric": 5,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.965445518493652,
+        10.969959259033203,
+        10.977126121520996,
+        10.977176666259766,
+        10.981484413146973,
+        10.991947174072266,
+        10.996099472045898,
+        10.999350547790527,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 24,
+      "label_raw": "6",
+      "label_numeric": 6,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.96479320526123,
+        10.988594055175781,
+        10.989495277404785,
+        10.997149467468262,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 25,
+      "label_raw": "7",
+      "label_numeric": 7,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.95214557647705,
+        10.977777481079102,
+        10.979280471801758,
+        10.980732917785645,
+        10.983386993408203,
+        10.98674201965332,
+        10.987092971801758,
+        10.988594055175781,
+        10.99174690246582,
+        10.993047714233398,
+        10.997049331665039,
+        10.997200012207031,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 26,
+      "label_raw": "8",
+      "label_numeric": 8,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.964241981506348,
+        10.970561027526855,
+        10.971161842346191,
+        10.973518371582031,
+        10.975522994995117,
+        10.979681968688965,
+        10.980132102966309,
+        10.996599197387695,
+        10.997149467468262,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 27,
+      "label_raw": "9",
+      "label_numeric": 9,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.950990676879883,
+        10.969908714294434,
+        10.971512794494629,
+        10.980132102966309,
+        10.981935501098633,
+        10.98478889465332,
+        10.994647979736328,
+        10.998199462890625,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 28,
+      "label_raw": "10",
+      "label_numeric": 10,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.407748222351074,
+        8.0,
+        10.959726333618164,
+        10.981233596801758,
+        10.985190391540527,
+        10.990145683288574,
+        10.990996360778809,
+        10.996199607849121,
+        10.996599197387695,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 29,
+      "label_raw": "11",
+      "label_numeric": 11,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.95229721069336,
+        10.958120346069336,
+        10.961081504821777,
+        10.979080200195312,
+        10.988093376159668,
+        10.992547035217285,
+        10.99544906616211,
+        10.996249198913574,
+        10.999800682067871,
+        11.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 30,
+      "label_raw": "12",
+      "label_numeric": 12,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 31,
+      "label_raw": "13",
+      "label_numeric": 13,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.963689804077148,
+        10.970510482788086,
+        10.97983169555664,
+        10.981284141540527,
+        10.988794326782227,
+        10.990546226501465,
+        10.999099731445312,
+        11.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 32,
+      "label_raw": "14",
+      "label_numeric": 14,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        8.161999702453613,
+        10.960227966308594,
+        10.965044021606445,
+        10.983437538146973,
+        10.986441612243652,
+        10.989745140075684,
+        10.997300148010254,
+        10.998149871826172,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 33,
+      "label_raw": "15",
+      "label_numeric": 15,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.953903198242188,
+        10.957366943359375,
+        10.959174156188965,
+        10.968605041503906,
+        10.986592292785645,
+        10.990095138549805,
+        10.990446090698242,
+        10.990996360778809,
+        10.993398666381836,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 34,
+      "label_raw": "16",
+      "label_numeric": 16,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.946770668029785,
+        10.95214557647705,
+        10.954305648803711,
+        10.961132049560547,
+        10.965746879577637,
+        10.965897560119629,
+        10.966548919677734,
+        10.968905448913574,
+        10.986041069030762,
+        10.987942695617676,
+        10.990946769714355,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 35,
+      "label_raw": "17",
+      "label_numeric": 17,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.955108642578125,
+        10.964391708374023,
+        10.973668098449707,
+        10.976725578308105,
+        10.977426528930664,
+        10.980082511901855,
+        10.983838081359863,
+        10.984689712524414,
+        10.999650001525879,
+        11.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 36,
+      "label_raw": "18",
+      "label_numeric": 18,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.0788493156433105,
+        4.080999851226807,
+        4.664000034332275,
+        6.413000106811523,
+        6.996349334716797,
+        7.0,
+        8.0,
+        10.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 34,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 37,
+      "label_raw": "19",
+      "label_numeric": 19,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.951945304870605,
+        10.97216510772705,
+        10.980582237243652,
+        10.994998931884766,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 38,
+      "label_raw": "20",
+      "label_numeric": 20,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.958672523498535,
+        10.973668098449707,
+        10.97512149810791,
+        10.975974082946777,
+        10.982135772705078,
+        10.994698524475098,
+        10.994749069213867,
+        10.997149467468262,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 39,
+      "label_raw": "21",
+      "label_numeric": 21,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.945313453674316,
+        10.975873947143555,
+        10.987793922424316,
+        10.988594055175781,
+        10.99384880065918,
+        10.999650001525879,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 40,
+      "label_raw": "22",
+      "label_numeric": 22,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.961081504821777,
+        10.966299057006836,
+        10.979881286621094,
+        10.981584548950195,
+        10.98288631439209,
+        10.984739303588867,
+        10.99069595336914,
+        10.994749069213867,
+        10.99479866027832,
+        10.997550010681152,
+        10.999149322509766,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 41,
+      "label_raw": "23",
+      "label_numeric": 23,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.967652320861816,
+        10.987592697143555,
+        10.98819351196289,
+        10.992497444152832,
+        10.994297981262207,
+        10.99484920501709,
+        10.997650146484375,
+        10.997849464416504,
+        10.999199867248535,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 42,
+      "label_raw": "24",
+      "label_numeric": 24,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.952848434448242,
+        10.953401565551758,
+        10.958019256591797,
+        10.96163272857666,
+        10.961934089660645,
+        10.971061706542969,
+        10.971563339233398,
+        10.97892951965332,
+        10.984739303588867,
+        10.987743377685547,
+        10.987942695617676,
+        10.996199607849121,
+        10.997200012207031,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 43,
+      "label_raw": "25",
+      "label_numeric": 25,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.952848434448242,
+        10.965947151184082,
+        10.970861434936523,
+        10.976675033569336,
+        10.977176666259766,
+        10.98143482208252,
+        10.988243103027344,
+        10.990045547485352,
+        10.995999336242676,
+        10.996048927307129,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 44,
+      "label_raw": "26",
+      "label_numeric": 26,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.947826385498047,
+        10.948328971862793,
+        10.950589179992676,
+        10.951090812683105,
+        10.952848434448242,
+        10.959174156188965,
+        10.964943885803223,
+        10.972465515136719,
+        10.976625442504883,
+        10.983187675476074,
+        10.994647979736328,
+        10.997200012207031,
+        10.99744987487793,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 45,
+      "label_raw": "27",
+      "label_numeric": 27,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.959023475646973,
+        10.974019050598145,
+        10.975221633911133,
+        10.987793922424316,
+        10.989794731140137,
+        10.996599197387695,
+        10.99959945678711,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 46,
+      "label_raw": "28",
+      "label_numeric": 28,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.945363998413086,
+        10.95269775390625,
+        10.953652381896973,
+        10.958572387695312,
+        10.964643478393555,
+        10.972765922546387,
+        10.97892951965332,
+        10.982436180114746,
+        10.990095138549805,
+        10.990495681762695,
+        10.994098663330078,
+        10.995949745178223,
+        10.997149467468262,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 47,
+      "label_raw": "29",
+      "label_numeric": 29,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.959525108337402,
+        10.971112251281738,
+        10.979480743408203,
+        10.980382919311523,
+        10.985440254211426,
+        10.98924446105957,
+        10.992047309875488,
+        10.993047714233398,
+        10.997949600219727,
+        10.999199867248535,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 48,
+      "label_raw": "30",
+      "label_numeric": 30,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.982986450195312,
+        10.990595817565918,
+        10.993147850036621,
+        10.995199203491211,
+        11.0
+      ],
+      "num_blocks": 2,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 49,
+      "label_raw": "31",
+      "label_numeric": 31,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.957818984985352,
+        10.969106674194336,
+        10.976574897766113,
+        10.984589576721191,
+        10.993448257446289,
+        10.994098663330078,
+        11.0,
+        32.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 50,
+      "label_raw": "32",
+      "label_numeric": 32,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.956162452697754,
+        10.960177421569824,
+        10.960829734802246,
+        10.972616195678711,
+        10.985640525817871,
+        10.98784351348877,
+        10.991847038269043,
+        11.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 51,
+      "label_raw": "33",
+      "label_numeric": 33,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.952396392822266,
+        10.989645004272461,
+        10.991847038269043,
+        10.993398666381836,
+        10.999199867248535,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 52,
+      "label_raw": "34",
+      "label_numeric": 34,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.950337409973145,
+        10.955208778381348,
+        10.963338851928711,
+        10.970059394836426,
+        10.977928161621094,
+        10.985740661621094,
+        10.98929500579834,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 53,
+      "label_raw": "35",
+      "label_numeric": 35,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.952547073364258,
+        10.975823402404785,
+        10.98093318939209,
+        10.98098373413086,
+        10.988744735717773,
+        10.993748664855957,
+        10.995199203491211,
+        10.995749473571777,
+        10.998449325561523,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 54,
+      "label_raw": "36",
+      "label_numeric": 36,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.954757690429688,
+        10.956011772155762,
+        10.970059394836426,
+        10.971012115478516,
+        10.988694190979004,
+        10.997499465942383,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 55,
+      "label_raw": "37",
+      "label_numeric": 37,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.966092109680176,
+        9.966443061828613,
+        9.967747688293457,
+        9.977324485778809,
+        9.984086990356445,
+        9.984488487243652,
+        10.0,
+        10.5,
+        32.0
+      ],
+      "num_blocks": 34,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 56,
+      "label_raw": "38",
+      "label_numeric": 38,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        5.829999923706055,
+        8.0,
+        9.963583946228027,
+        9.965841293334961,
+        9.977975845336914,
+        9.993097305297852,
+        9.995598793029785,
+        10.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 57,
+      "label_raw": "39",
+      "label_numeric": 39,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.954345703125,
+        9.965239524841309,
+        9.965691566467285,
+        9.981032371520996,
+        9.98884391784668,
+        9.997249603271484,
+        9.997949600219727,
+        9.998449325561523,
+        10.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 58,
+      "label_raw": "40",
+      "label_numeric": 40,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.956304550170898,
+        9.96142578125,
+        9.974867820739746,
+        9.979228019714355,
+        9.981332778930664,
+        9.983136177062988,
+        9.986991882324219,
+        9.9891939163208,
+        9.991395950317383,
+        9.9927978515625,
+        9.997299194335938,
+        10.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 59,
+      "label_raw": "41",
+      "label_numeric": 41,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        5.829999923706055,
+        8.0,
+        9.949873924255371,
+        9.966343879699707,
+        9.972763061523438,
+        9.973114013671875,
+        9.981382369995117,
+        9.996950149536133,
+        10.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 60,
+      "label_raw": "42",
+      "label_numeric": 42,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        9.967597007751465,
+        9.971810340881348,
+        9.99374771118164,
+        9.995248794555664,
+        9.995348930358887,
+        9.99804973602295,
+        10.0
+      ],
+      "num_blocks": 35,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 61,
+      "label_raw": "43",
+      "label_numeric": 43,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.962730407714844,
+        9.964888572692871,
+        9.975820541381836,
+        9.9891939163208,
+        9.990845680236816,
+        9.994098663330078,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 62,
+      "label_raw": "44",
+      "label_numeric": 44,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        5.829999923706055,
+        8.0,
+        9.949873924255371,
+        9.960622787475586,
+        9.96137523651123,
+        9.966745376586914,
+        9.975069046020508,
+        9.977324485778809,
+        9.983386039733887,
+        9.991745948791504,
+        10.0,
+        10.5
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 63,
+      "label_raw": "45",
+      "label_numeric": 45,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.954445838928223,
+        9.95786190032959,
+        9.960472106933594,
+        9.96910285949707,
+        9.969703674316406,
+        9.973064422607422,
+        9.973615646362305,
+        9.984086990356445,
+        9.985939979553223,
+        9.991195678710938,
+        9.996149063110352,
+        9.99639892578125,
+        9.997049331665039,
+        10.0
+      ],
+      "num_blocks": 32,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 64,
+      "label_raw": "46",
+      "label_numeric": 46,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 65,
+      "label_raw": "47",
+      "label_numeric": 47,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        12.0,
+        30.0
+      ],
+      "num_blocks": 33,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 66,
+      "label_raw": "48",
+      "label_numeric": 48,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 49,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 67,
+      "label_raw": "49",
+      "label_numeric": 49,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 48,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 68,
+      "label_raw": "50",
+      "label_numeric": 50,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 39,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 69,
+      "label_raw": "51",
+      "label_numeric": 51,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0
+      ],
+      "num_blocks": 37,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 70,
+      "label_raw": "52",
+      "label_numeric": 52,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.990896224975586,
+        10.999199867248535,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 71,
+      "label_raw": "53",
+      "label_numeric": 53,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.958120346069336,
+        10.977375984191895,
+        10.982436180114746,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 72,
+      "label_raw": "54",
+      "label_numeric": 54,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.948529243469238,
+        10.950589179992676,
+        10.952898979187012,
+        10.964292526245117,
+        10.973918914794922,
+        10.984739303588867,
+        10.998950004577637,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 73,
+      "label_raw": "55",
+      "label_numeric": 55,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.955510139465332,
+        10.96163272857666,
+        10.971312522888184,
+        10.973769187927246,
+        10.97426986694336,
+        10.978228569030762,
+        10.982035636901855,
+        10.989745140075684,
+        10.99644947052002,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 74,
+      "label_raw": "56",
+      "label_numeric": 56,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.991546630859375,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 75,
+      "label_raw": "57",
+      "label_numeric": 57,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        8.161999702453613,
+        10.998499870300293,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 26,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 76,
+      "label_raw": "58",
+      "label_numeric": 58,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.969508171081543,
+        10.972064018249512,
+        10.973067283630371,
+        10.991395950317383,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 77,
+      "label_raw": "59",
+      "label_numeric": 59,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.95089054107666,
+        10.969407081604004,
+        10.973217010498047,
+        10.978228569030762,
+        10.979280471801758,
+        10.983237266540527,
+        10.988643646240234,
+        10.98969554901123,
+        10.999950408935547,
+        11.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 78,
+      "label_raw": "60",
+      "label_numeric": 60,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.961324691772461,
+        9.984488487243652,
+        9.99639892578125,
+        10.0,
+        10.964693069458008,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 79,
+      "label_raw": "61",
+      "label_numeric": 61,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.978878021240234,
+        10.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 80,
+      "label_raw": "62",
+      "label_numeric": 62,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 81,
+      "label_raw": "63",
+      "label_numeric": 63,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 39,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 82,
+      "label_raw": "64",
+      "label_numeric": 64,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 83,
+      "label_raw": "65",
+      "label_numeric": 65,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 84,
+      "label_raw": "66",
+      "label_numeric": 66,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 85,
+      "label_raw": "67",
+      "label_numeric": 67,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 86,
+      "label_raw": "68",
+      "label_numeric": 68,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 42,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 87,
+      "label_raw": "69",
+      "label_numeric": 69,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 88,
+      "label_raw": "70",
+      "label_numeric": 70,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 32,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 89,
+      "label_raw": "71",
+      "label_numeric": 71,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 90,
+      "label_raw": "72",
+      "label_numeric": 72,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Semibold",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 91,
+      "label_raw": "73",
+      "label_numeric": 73,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.5,
+        8.0,
+        9.0,
+        11.0
+      ],
+      "num_blocks": 52,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 92,
+      "label_raw": "74",
+      "label_numeric": 74,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        7.5,
+        8.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 93,
+      "label_raw": "75",
+      "label_numeric": 75,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 60,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 94,
+      "label_raw": "76",
+      "label_numeric": 76,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 95,
+      "label_raw": "77",
+      "label_numeric": 77,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 41,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 96,
+      "label_raw": "78",
+      "label_numeric": 78,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 72,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 97,
+      "label_raw": "79",
+      "label_numeric": 79,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 73,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 98,
+      "label_raw": "80",
+      "label_numeric": 80,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        11.0
+      ],
+      "num_blocks": 44,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 99,
+      "label_raw": "81",
+      "label_numeric": 81,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        7.5,
+        8.0
+      ],
+      "num_blocks": 4,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 100,
+      "label_raw": "82",
+      "label_numeric": 82,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 34,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 101,
+      "label_raw": "83",
+      "label_numeric": 83,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 45,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 102,
+      "label_raw": "84",
+      "label_numeric": 84,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 47,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 103,
+      "label_raw": "85",
+      "label_numeric": 85,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 60,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 104,
+      "label_raw": "86",
+      "label_numeric": 86,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        11.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 105,
+      "label_raw": "87",
+      "label_numeric": 87,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 50,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 106,
+      "label_raw": "88",
+      "label_numeric": 88,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 107,
+      "label_raw": "89",
+      "label_numeric": 89,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 62,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 108,
+      "label_raw": "90",
+      "label_numeric": 90,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 51,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 109,
+      "label_raw": "91",
+      "label_numeric": 91,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 88,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 110,
+      "label_raw": "92",
+      "label_numeric": 92,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 111,
+      "label_raw": "93",
+      "label_numeric": 93,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 68,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 112,
+      "label_raw": "94",
+      "label_numeric": 94,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 66,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 113,
+      "label_raw": "95",
+      "label_numeric": 95,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 43,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 114,
+      "label_raw": "96",
+      "label_numeric": 96,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.965139389038086,
+        9.977224349975586,
+        10.0,
+        24.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 115,
+      "label_raw": "97",
+      "label_numeric": 97,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.978226661682129,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 116,
+      "label_raw": "98",
+      "label_numeric": 98,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.951080322265625,
+        9.96187686920166,
+        9.983335494995117,
+        9.989544868469238,
+        10.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 117,
+      "label_raw": "99",
+      "label_numeric": 99,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.965741157531738,
+        9.977324485778809,
+        9.984688758850098,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 118,
+      "label_raw": "100",
+      "label_numeric": 100,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.973615646362305,
+        9.985239028930664,
+        9.993647575378418,
+        10.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 119,
+      "label_raw": "101",
+      "label_numeric": 101,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Semibold",
+        "SegoeUI",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        11.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 120,
+      "label_raw": "102",
+      "label_numeric": 102,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 121,
+      "label_raw": "103",
+      "label_numeric": 103,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 122,
+      "label_raw": "104",
+      "label_numeric": 104,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        6.0,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 123,
+      "label_raw": "105",
+      "label_numeric": 105,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 124,
+      "label_raw": "106",
+      "label_numeric": 106,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 125,
+      "label_raw": "107",
+      "label_numeric": 107,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 126,
+      "label_raw": "108",
+      "label_numeric": 108,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 127,
+      "label_raw": "109",
+      "label_numeric": 109,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 128,
+      "label_raw": "110",
+      "label_numeric": 110,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 129,
+      "label_raw": "111",
+      "label_numeric": 111,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        6.995999813079834,
+        7.5,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 130,
+      "label_raw": "112",
+      "label_numeric": 112,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 32,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 131,
+      "label_raw": "113",
+      "label_numeric": 113,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        6.995999813079834,
+        7.5,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 132,
+      "label_raw": "114",
+      "label_numeric": 114,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 133,
+      "label_raw": "115",
+      "label_numeric": 115,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 134,
+      "label_raw": "116",
+      "label_numeric": 116,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 32,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 135,
+      "label_raw": "117",
+      "label_numeric": 117,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 136,
+      "label_raw": "118",
+      "label_numeric": 118,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 137,
+      "label_raw": "119",
+      "label_numeric": 119,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 138,
+      "label_raw": "120",
+      "label_numeric": 120,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 139,
+      "label_raw": "121",
+      "label_numeric": 121,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 44,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 140,
+      "label_raw": "122",
+      "label_numeric": 122,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 141,
+      "label_raw": "123",
+      "label_numeric": 123,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 142,
+      "label_raw": "124",
+      "label_numeric": 124,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 143,
+      "label_raw": "125",
+      "label_numeric": 125,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 144,
+      "label_raw": "126",
+      "label_numeric": 126,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 145,
+      "label_raw": "127",
+      "label_numeric": 127,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 146,
+      "label_raw": "128",
+      "label_numeric": 128,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 147,
+      "label_raw": "129",
+      "label_numeric": 129,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 26,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 148,
+      "label_raw": "130",
+      "label_numeric": 130,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 149,
+      "label_raw": "131",
+      "label_numeric": 131,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 26,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 150,
+      "label_raw": "132",
+      "label_numeric": 132,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "ZapfDingbatsITC"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 151,
+      "label_raw": "133",
+      "label_numeric": 133,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "MyriadPro-Semibold",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 152,
+      "label_raw": "134",
+      "label_numeric": 134,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 153,
+      "label_raw": "135",
+      "label_numeric": 135,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 154,
+      "label_raw": "136",
+      "label_numeric": 136,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 155,
+      "label_raw": "137",
+      "label_numeric": 137,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 156,
+      "label_raw": "138",
+      "label_numeric": 138,
+      "is_roman": false,
+      "font_inventory": [
+        "MyriadPro-Regular",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 157,
+      "label_raw": "139",
+      "label_numeric": 139,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 158,
+      "label_raw": "140",
+      "label_numeric": 140,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 43,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 159,
+      "label_raw": "141",
+      "label_numeric": 141,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 60,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 160,
+      "label_raw": "142",
+      "label_numeric": 142,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 161,
+      "label_raw": "143",
+      "label_numeric": 143,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 162,
+      "label_raw": "144",
+      "label_numeric": 144,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 163,
+      "label_raw": "145",
+      "label_numeric": 145,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 164,
+      "label_raw": "146",
+      "label_numeric": 146,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 165,
+      "label_raw": "147",
+      "label_numeric": 147,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 166,
+      "label_raw": "148",
+      "label_numeric": 148,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        11.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 49,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 167,
+      "label_raw": "149",
+      "label_numeric": 149,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 168,
+      "label_raw": "150",
+      "label_numeric": 150,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 169,
+      "label_raw": "151",
+      "label_numeric": 151,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 45,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 170,
+      "label_raw": "152",
+      "label_numeric": 152,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 36,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 171,
+      "label_raw": "153",
+      "label_numeric": 153,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        7.5,
+        8.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 172,
+      "label_raw": "154",
+      "label_numeric": 154,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 173,
+      "label_raw": "155",
+      "label_numeric": 155,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 174,
+      "label_raw": "156",
+      "label_numeric": 156,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 175,
+      "label_raw": "157",
+      "label_numeric": 157,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.080999851226807,
+        4.372499942779541,
+        7.0,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 47,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 176,
+      "label_raw": "158",
+      "label_numeric": 158,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.080999851226807,
+        4.372499942779541,
+        7.0,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 45,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 177,
+      "label_raw": "159",
+      "label_numeric": 159,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 178,
+      "label_raw": "160",
+      "label_numeric": 160,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 179,
+      "label_raw": "161",
+      "label_numeric": 161,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 180,
+      "label_raw": "162",
+      "label_numeric": 162,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 42,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 181,
+      "label_raw": "163",
+      "label_numeric": 163,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 182,
+      "label_raw": "164",
+      "label_numeric": 164,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 183,
+      "label_raw": "165",
+      "label_numeric": 165,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 184,
+      "label_raw": "166",
+      "label_numeric": 166,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 185,
+      "label_raw": "167",
+      "label_numeric": 167,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 43,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 186,
+      "label_raw": "168",
+      "label_numeric": 168,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 55,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 187,
+      "label_raw": "169",
+      "label_numeric": 169,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0
+      ],
+      "num_blocks": 39,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 188,
+      "label_raw": "170",
+      "label_numeric": 170,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.080999851226807,
+        4.372499942779541,
+        5.247000217437744,
+        7.0,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 39,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 189,
+      "label_raw": "171",
+      "label_numeric": 171,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 190,
+      "label_raw": "172",
+      "label_numeric": 172,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 191,
+      "label_raw": "173",
+      "label_numeric": 173,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 192,
+      "label_raw": "174",
+      "label_numeric": 174,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 193,
+      "label_raw": "175",
+      "label_numeric": 175,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 194,
+      "label_raw": "176",
+      "label_numeric": 176,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 195,
+      "label_raw": "177",
+      "label_numeric": 177,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 196,
+      "label_raw": "178",
+      "label_numeric": 178,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 42,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 197,
+      "label_raw": "179",
+      "label_numeric": 179,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Whitney-SemiboldItalic",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 198,
+      "label_raw": "180",
+      "label_numeric": 180,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 199,
+      "label_raw": "181",
+      "label_numeric": 181,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 200,
+      "label_raw": "182",
+      "label_numeric": 182,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 201,
+      "label_raw": "183",
+      "label_numeric": 183,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 23,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 202,
+      "label_raw": "184",
+      "label_numeric": 184,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 203,
+      "label_raw": "185",
+      "label_numeric": 185,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 204,
+      "label_raw": "186",
+      "label_numeric": 186,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 22,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 205,
+      "label_raw": "187",
+      "label_numeric": 187,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 18,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 206,
+      "label_raw": "188",
+      "label_numeric": 188,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        11.0,
+        12.0,
+        13.0
+      ],
+      "num_blocks": 57,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 207,
+      "label_raw": "189",
+      "label_numeric": 189,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 48,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 208,
+      "label_raw": "190",
+      "label_numeric": 190,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 42,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 209,
+      "label_raw": "191",
+      "label_numeric": 191,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 54,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 210,
+      "label_raw": "192",
+      "label_numeric": 192,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 51,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 211,
+      "label_raw": "193",
+      "label_numeric": 193,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 41,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 212,
+      "label_raw": "194",
+      "label_numeric": 194,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        11.0,
+        12.0,
+        12.934836387634277,
+        13.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 213,
+      "label_raw": "195",
+      "label_numeric": 195,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 214,
+      "label_raw": "196",
+      "label_numeric": 196,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 37,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 215,
+      "label_raw": "197",
+      "label_numeric": 197,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 216,
+      "label_raw": "198",
+      "label_numeric": 198,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        4.372499942779541,
+        4.664000034332275,
+        5.247000217437744,
+        7.5,
+        8.0,
+        9.0
+      ],
+      "num_blocks": 46,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 217,
+      "label_raw": "199",
+      "label_numeric": 199,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book"
+      ],
+      "font_sizes": [
+        7.5,
+        8.0
+      ],
+      "num_blocks": 3,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 218,
+      "label_raw": "200",
+      "label_numeric": 200,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 219,
+      "label_raw": "201",
+      "label_numeric": 201,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 220,
+      "label_raw": "202",
+      "label_numeric": 202,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 221,
+      "label_raw": "203",
+      "label_numeric": 203,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 222,
+      "label_raw": "204",
+      "label_numeric": 204,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 223,
+      "label_raw": "205",
+      "label_numeric": 205,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 224,
+      "label_raw": "206",
+      "label_numeric": 206,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 225,
+      "label_raw": "207",
+      "label_numeric": 207,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 15,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 226,
+      "label_raw": "208",
+      "label_numeric": 208,
+      "is_roman": false,
+      "font_inventory": [
+        "EuropeanPiStd-3",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 10,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 227,
+      "label_raw": "209",
+      "label_numeric": 209,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium",
+        "Whitney-Semibold",
+        "Wingdings2"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 54,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 228,
+      "label_raw": "210",
+      "label_numeric": 210,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Medium",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        13.0
+      ],
+      "num_blocks": 12,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 229,
+      "label_raw": "211",
+      "label_numeric": 211,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 230,
+      "label_raw": "212",
+      "label_numeric": 212,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-BookItalic",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 8,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 231,
+      "label_raw": "213",
+      "label_numeric": 213,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Semibold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0
+      ],
+      "num_blocks": 11,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 232,
+      "label_raw": "214",
+      "label_numeric": 214,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        9.96192741394043,
+        9.965139389038086,
+        9.974668502807617,
+        9.977224349975586,
+        10.0,
+        19.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 233,
+      "label_raw": "215",
+      "label_numeric": 215,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.978226661682129,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 234,
+      "label_raw": "216",
+      "label_numeric": 216,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.961074829101562,
+        9.977324485778809,
+        9.983335494995117,
+        9.989544868469238,
+        9.99439811706543,
+        10.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 235,
+      "label_raw": "217",
+      "label_numeric": 217,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.951080322265625,
+        9.96187686920166,
+        9.980030059814453,
+        9.983736991882324,
+        10.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 236,
+      "label_raw": "218",
+      "label_numeric": 218,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.949873924255371,
+        9.960722923278809,
+        9.965741157531738,
+        9.984638214111328,
+        10.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 237,
+      "label_raw": "219",
+      "label_numeric": 219,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.972963333129883,
+        9.985239028930664,
+        9.993647575378418,
+        9.993698120117188,
+        9.995848655700684,
+        10.0
+      ],
+      "num_blocks": 26,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 238,
+      "label_raw": "220",
+      "label_numeric": 220,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.98924446105957,
+        10.998099327087402,
+        11.0,
+        14.0,
+        19.0,
+        32.0
+      ],
+      "num_blocks": 20,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 239,
+      "label_raw": "221",
+      "label_numeric": 221,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.951994895935059,
+        10.963589668273926,
+        10.965496063232422,
+        10.976324081420898,
+        10.977627754211426,
+        10.978479385375977,
+        10.980082511901855,
+        10.98478889465332,
+        10.987092971801758,
+        10.996349334716797,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 25,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 240,
+      "label_raw": "222",
+      "label_numeric": 222,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        6.413000106811523,
+        8.0,
+        10.957417488098145,
+        10.963438987731934,
+        10.989144325256348,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 241,
+      "label_raw": "223",
+      "label_numeric": 223,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.950589179992676,
+        10.970159530639648,
+        10.970710754394531,
+        10.97697639465332,
+        10.988393783569336,
+        10.991446495056152,
+        10.995599746704102,
+        10.999099731445312,
+        10.99945068359375,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 242,
+      "label_raw": "224",
+      "label_numeric": 224,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.955459594726562,
+        10.9617338180542,
+        10.963991165161133,
+        10.976123809814453,
+        10.984739303588867,
+        10.986592292785645,
+        10.996699333190918,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 16,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 243,
+      "label_raw": "225",
+      "label_numeric": 225,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.955811500549316,
+        10.978679656982422,
+        10.980132102966309,
+        10.989395141601562,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 9,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 244,
+      "label_raw": "226",
+      "label_numeric": 226,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        7.0,
+        8.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 24,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 245,
+      "label_raw": "227",
+      "label_numeric": 227,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        10.98569107055664,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 28,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 246,
+      "label_raw": "228",
+      "label_numeric": 228,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        8.0,
+        9.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 247,
+      "label_raw": "229",
+      "label_numeric": 229,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        6.995999813079834,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 19,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 248,
+      "label_raw": "230",
+      "label_numeric": 230,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "Symbol",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 50,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 249,
+      "label_raw": "231",
+      "label_numeric": 231,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        9.0,
+        12.0
+      ],
+      "num_blocks": 49,
+      "num_images": 0,
+      "num_tables": 3
+    },
+    {
+      "page": 250,
+      "label_raw": "232",
+      "label_numeric": 232,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 37,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 251,
+      "label_raw": "233",
+      "label_numeric": 233,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.413000106811523,
+        8.0,
+        10.949031829833984,
+        10.956011772155762,
+        10.962737083435059,
+        10.962786674499512,
+        10.986091613769531,
+        10.98889446258545,
+        10.99539852142334,
+        11.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 252,
+      "label_raw": "234",
+      "label_numeric": 234,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic"
+      ],
+      "font_sizes": [
+        8.0,
+        10.95480728149414,
+        10.969306945800781,
+        11.0
+      ],
+      "num_blocks": 7,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 253,
+      "label_raw": "235",
+      "label_numeric": 235,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI",
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        10.99034595489502,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 21,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 254,
+      "label_raw": "236",
+      "label_numeric": 236,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        7.96919059753418,
+        8.0,
+        9.0,
+        10.998600006103516,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 255,
+      "label_raw": "237",
+      "label_numeric": 237,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Symbol",
+        "Whitney-Bold",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.655742645263672,
+        4.664000034332275,
+        5.247000217437744,
+        7.985787391662598,
+        7.991245269775391,
+        8.0,
+        9.0,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 40,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 256,
+      "label_raw": "238",
+      "label_numeric": 238,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        5.247000217437744,
+        8.0,
+        9.0,
+        10.890000343322754,
+        10.94486141204834,
+        10.975723266601562,
+        10.979681968688965,
+        10.982686042785645,
+        10.983588218688965,
+        10.996048927307129,
+        10.998799324035645,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 30,
+      "num_images": 0,
+      "num_tables": 2
+    },
+    {
+      "page": 257,
+      "label_raw": "239",
+      "label_numeric": 239,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        8.0,
+        9.0,
+        10.959927558898926,
+        10.970008850097656,
+        10.97607421875,
+        10.987292289733887,
+        10.995698928833008,
+        11.0,
+        12.0
+      ],
+      "num_blocks": 17,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 258,
+      "label_raw": "240",
+      "label_numeric": 240,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-BoldItalic",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        7.999199867248535,
+        8.0,
+        9.0,
+        9.968149185180664,
+        9.977875709533691,
+        9.980130195617676,
+        9.991596221923828,
+        9.998099327087402,
+        10.0,
+        10.962937355041504,
+        10.96479320526123,
+        10.981935501098633,
+        10.987893104553223,
+        10.988243103027344,
+        10.989895820617676,
+        10.992297172546387,
+        11.0,
+        12.0,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 29,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 259,
+      "label_raw": "241",
+      "label_numeric": 241,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light"
+      ],
+      "font_sizes": [
+        8.0,
+        9.951180458068848,
+        9.96006965637207,
+        9.962228775024414,
+        9.964386940002441,
+        9.968801498413086,
+        9.972763061523438,
+        9.98884391784668,
+        9.99479866027832,
+        9.997650146484375,
+        9.999950408935547,
+        10.0
+      ],
+      "num_blocks": 31,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 260,
+      "label_raw": "242",
+      "label_numeric": 242,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-LightItalic",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        8.0,
+        10.976123809814453,
+        10.983588218688965,
+        11.0,
+        11.07699966430664,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 14,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 261,
+      "label_raw": "243",
+      "label_numeric": 243,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold",
+        "Whitney-Book",
+        "Whitney-Medium"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        5.247000217437744,
+        8.0,
+        9.0,
+        10.94486141204834,
+        10.946319580078125,
+        10.96579647064209,
+        10.974470138549805,
+        10.977375984191895,
+        10.986592292785645,
+        10.988093376159668,
+        10.993147850036621,
+        11.0,
+        12.0,
+        14.0
+      ],
+      "num_blocks": 27,
+      "num_images": 0,
+      "num_tables": 1
+    },
+    {
+      "page": 262,
+      "label_raw": "244",
+      "label_numeric": 244,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.0,
+        10.98589038848877,
+        10.990845680236816,
+        11.0,
+        19.0
+      ],
+      "num_blocks": 5,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 263,
+      "label_raw": "245",
+      "label_numeric": 245,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        4.664000034332275,
+        6.404494285583496,
+        8.0,
+        10.951543807983398,
+        10.956765174865723,
+        10.965746879577637,
+        10.966599464416504,
+        10.976625442504883,
+        10.977577209472656,
+        10.983237266540527,
+        10.985390663146973,
+        10.995949745178223,
+        10.998899459838867,
+        10.999199867248535,
+        11.0,
+        11.07699966430664,
+        14.0,
+        19.0
+      ],
+      "num_blocks": 13,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 264,
+      "label_raw": "246",
+      "label_numeric": 246,
+      "is_roman": false,
+      "font_inventory": [
+        "SegoeUI-Bold",
+        "SegoeUI-Light",
+        "SegoeUI-SemiBold"
+      ],
+      "font_sizes": [
+        8.0,
+        10.94486141204834,
+        10.951844215393066,
+        10.960027694702148,
+        10.968755722045898,
+        10.97807788848877,
+        10.994248390197754,
+        10.998250007629395,
+        11.0,
+        14.0
+      ],
+      "num_blocks": 6,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 265,
+      "label_raw": "247",
+      "label_numeric": 247,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 266,
+      "label_raw": "248",
+      "label_numeric": 248,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 267,
+      "label_raw": "249",
+      "label_numeric": 249,
+      "is_roman": false,
+      "font_inventory": [],
+      "font_sizes": [],
+      "num_blocks": 0,
+      "num_images": 0,
+      "num_tables": 0
+    },
+    {
+      "page": 268,
+      "label_raw": "250",
+      "label_numeric": 250,
+      "is_roman": false,
+      "font_inventory": [
+        "AvenirLTStd-Black",
+        "AvenirLTStd-Book"
+      ],
+      "font_sizes": [
+        11.0
+      ],
+      "num_blocks": 2,
+      "num_images": 1,
+      "num_tables": 0
+    }
+  ]
+}

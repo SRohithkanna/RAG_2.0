@@ -1,0 +1,618 @@
+{
+  "file": "Guidance for national",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        81.70960998535156,
+        226.4936981201172,
+        103.03961181640625
+      ],
+      "text": "E  R  G",
+      "font": "FrutigerLTStd-Bold-SC700",
+      "size": 18.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        95.31739807128906,
+        86.75861358642578,
+        261.1741027832031,
+        101.68961334228516
+      ],
+      "text": "xternal eview roup",
+      "font": "FrutigerLTStd-Bold-SC700",
+      "size": 12.600000381469727,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        107.25640869140625,
+        234.5738983154297,
+        120.8839111328125
+      ],
+      "text": "Dr Lucia Alvarez Hernandez",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        121.3323974609375,
+        513.4030151367188,
+        134.68389892578125
+      ],
+      "text": "Coordinator Standards for Tuberculosis Care, Paediatric Infectious Diseases,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        135.13238525390625,
+        513.448974609375,
+        148.48388671875
+      ],
+      "text": "Centro Nacional de Vigilancia Epidemiológica y Control de Enfermedades",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        148.932373046875,
+        303.1944274902344,
+        162.28387451171875
+      ],
+      "text": "(CENAVECE), Distrito Federal, Mexico",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        168.4593505859375,
+        196.014404296875,
+        182.08685302734375
+      ],
+      "text": "Dr Mercedes Becarra",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        182.53533935546875,
+        513.4489135742188,
+        195.8868408203125
+      ],
+      "text": "Assistant Professor, Department of Global Health and Social Medicine, Harvard",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        196.3353271484375,
+        290.3948669433594,
+        209.68682861328125
+      ],
+      "text": "Medical School, Boston, MA, USA",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        215.8623046875,
+        176.63690185546875,
+        229.48980712890625
+      ],
+      "text": "Dr Andrew Brent",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        229.93829345703125,
+        513.4030151367188,
+        243.289794921875
+      ],
+      "text": "Clinical Lecturer in Infectious Diseases, Nuffield Department of Clinical Laboratory",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        243.73828125,
+        351.908447265625,
+        257.08978271484375
+      ],
+      "text": "Sciences, University of Oxford, Oxford, England",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        263.2652587890625,
+        167.89691162109375,
+        276.89276123046875
+      ],
+      "text": "Dr Andrea Cruz",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        277.34124755859375,
+        513.4259643554688,
+        290.6927490234375
+      ],
+      "text": "Associate Research Co-Director, Pediatric Emergency Medicine, Texas Children’s",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        291.1412353515625,
+        255.2509002685547,
+        304.49273681640625
+      ],
+      "text": "Hospital, Houston, TX, USA",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        310.668212890625,
+        168.74789428710938,
+        324.29571533203125
+      ],
+      "text": "Dr Anne Detjen",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        324.74420166015625,
+        513.41455078125,
+        338.095703125
+      ],
+      "text": "Technical Consultant, North America Office, International Union Against",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        338.544189453125,
+        429.8208312988281,
+        351.89569091796875
+      ],
+      "text": "Tuberculosis and Lung Disease (The Union), New York, NY, USA",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        358.0711975097656,
+        184.07740783691406,
+        371.6986999511719
+      ],
+      "text": "Ms Penny Enarson",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        372.1471862792969,
+        513.4490966796875,
+        385.4986877441406
+      ],
+      "text": "Head, Child Lung Health Division, International Union Against Tuberculosis and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        385.9471740722656,
+        312.1069030761719,
+        399.2986755371094
+      ],
+      "text": "Lung Disease (The Union), Paris, France",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        405.47418212890625,
+        184.72142028808594,
+        419.1016845703125
+      ],
+      "text": "Dr Anthony Enimil",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        419.5501708984375,
+        513.4144897460938,
+        432.90167236328125
+      ],
+      "text": "Head, Paediatric Tuberculosis Clinic, Komfo Anokye Teaching Hospital, Kumasi,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        433.35015869140625,
+        153.62539672851562,
+        446.70166015625
+      ],
+      "text": "Ghana",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        452.8771667480469,
+        186.63040161132812,
+        466.5046691894531
+      ],
+      "text": "Dr Reuben Granich",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        466.9531555175781,
+        460.7673645019531,
+        480.3046569824219
+      ],
+      "text": "Senior Advisor for Care and Treatment, UNAIDS, Geneva, Switzerland",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        486.48016357421875,
+        194.11688232421875,
+        500.107666015625
+      ],
+      "text": "Ms Kate Greenaway",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        500.55615234375,
+        337.4183654785156,
+        513.9076538085938
+      ],
+      "text": "Catholic Relief Services, Baltimore, MD, USA",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        520.0831909179688,
+        166.41339111328125,
+        533.710693359375
+      ],
+      "text": "Dr Walter Haas",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        534.1591186523438,
+        513.4144897460938,
+        547.5106201171875
+      ],
+      "text": "Head, Unit for Respiratory Infections, Department of Infectious Disease",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        547.9591674804688,
+        380.6699523925781,
+        561.3106689453125
+      ],
+      "text": "Epidemiology, Robert Koch Institute, Berlin, Germany",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        567.4861450195312,
+        178.98287963867188,
+        581.1136474609375
+      ],
+      "text": "Dr Barbara Hauer",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        581.5621337890625,
+        513.4144287109375,
+        594.9136352539062
+      ],
+      "text": "Respiratory Infections Unit, Department of Infectious Disease Epidemiology,",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        595.3621215820312,
+        309.5193786621094,
+        608.713623046875
+      ],
+      "text": "Robert Koch Institute, Berlin, Germany",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        614.88916015625,
+        177.7064208984375,
+        628.5166625976562
+      ],
+      "text": "Dr Peter Helbling",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        628.9651489257812,
+        504.60540771484375,
+        642.316650390625
+      ],
+      "text": "Medical Officer, Federal Department of Home Affairs, Federal Office of Public",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        642.76513671875,
+        424.116943359375,
+        656.1166381835938
+      ],
+      "text": "Health, Division of Communicable Diseases, Bern, Switzerland",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        662.2921752929688,
+        188.12542724609375,
+        675.919677734375
+      ],
+      "text": "Dr Cornelia Hennig",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        676.3681640625,
+        371.1363830566406,
+        689.7196655273438
+      ],
+      "text": "Medical Officer TB, WHO Country Office, Viet Nam",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        695.8951416015625,
+        196.8769073486328,
+        709.5226440429688
+      ],
+      "text": "Dr Beate Kampmann",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        709.9711303710938,
+        286.5539245605469,
+        723.3226318359375
+      ],
+      "text": "Imperial College London, England",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        729.4981689453125,
+        178.99440002441406,
+        743.1256713867188
+      ],
+      "text": "Dr Senait Kebede",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        744.1721801757812,
+        510.27490234375,
+        757.523681640625
+      ],
+      "text": "Pediatrician and Senior Consultant, Addis Ababa, Ethiopia and Atlanta, GA, USA",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        763.6991577148438,
+        154.06239318847656,
+        777.32666015625
+      ],
+      "text": "Dr Ejaz Khan",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        121.0344009399414,
+        777.775146484375,
+        510.21759033203125,
+        791.1266479492188
+      ],
+      "text": "Chief, Department of Pediatrics, Shifa International Hospital, Islamabad, Pakistan",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        563.10400390625,
+        805.8439331054688,
+        576.4240112304688,
+        835.8439331054688
+      ],
+      "text": "xi",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

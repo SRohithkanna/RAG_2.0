@@ -1,0 +1,546 @@
+{
+  "file": "module6",
+  "page": 50,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.056396484375,
+        354.8602600097656,
+        88.63139343261719
+      ],
+      "text": "3.1.2\t Summary of evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.20639038085938,
+        511.34014892578125,
+        115.62739562988281
+      ],
+      "text": "Recommendations 22–26: HIV testing for people with presumptive and diagnosed TB and",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.20639038085938,
+        137.65260314941406,
+        129.6273956298828
+      ],
+      "text": "their contacts",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.4356079101562,
+        143.8253936767578
+      ],
+      "text": "Evidence from a review of studies that informed these recommendations found that offering HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.4542236328125,
+        157.8253936767578
+      ],
+      "text": "testing, now referred to as “HIV testing services” (HTS) to people with presumptive and diagnosed TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.4061889648438,
+        171.8253936767578
+      ],
+      "text": "and their contacts yields a high number of new diagnoses of HIV  , also for those with presumptive  (10)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4170532226562,
+        185.8253936767578
+      ],
+      "text": "TB who turn out not to have TB disease  . A systematic review of HIV prevalence among  (94, 95)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        185.3824005126953,
+        527.41259765625,
+        199.8253936767578
+      ],
+      "text": "adults with signs and symptoms of TB, primarily among studies conducted in sub-Saharan Africa,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        199.3824005126953,
+        527.4114990234375,
+        213.8253936767578
+      ],
+      "text": "showed substantial variability in the yield of HIV testing, with a median HIV prevalence from 19.2%",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        213.3824005126953,
+        527.42236328125,
+        227.8253936767578
+      ],
+      "text": "(interquartile range: 8.3–40.4%) at the community level to 55.7% (interquartile range: 20.9–71.2%) at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        227.3824005126953,
+        527.4329223632812,
+        241.8253936767578
+      ],
+      "text": "primary care level and 80.7% (73.8–84.6%) among hospital inpatients  . Despite the low quality of  (96)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        241.3824005126953,
+        527.3980712890625,
+        255.8253936767578
+      ],
+      "text": "evidence at the time of policy update in 2012, the GDG strongly recommended routine HIV testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        255.3824005126953,
+        527.4180297851562,
+        269.8254089355469
+      ],
+      "text": "and counselling to all people with presumptive and diagnosed TB as benefits of testing accrue to the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        269.38238525390625,
+        359.0354309082031,
+        283.8254089355469
+      ],
+      "text": "individual, their partner, the family and the community at large.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        297.38238525390625,
+        527.442138671875,
+        311.8254089355469
+      ],
+      "text": "The two recommendations on the provision of HIV testing services to household or close contacts",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        311.38238525390625,
+        527.4368286132812,
+        325.8254089355469
+      ],
+      "text": "of people with TB were based on a study in a concentrated HIV epidemic setting which showed a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        325.3824157714844,
+        527.3970947265625,
+        339.825439453125
+      ],
+      "text": "relatively high yield of HIV testing in contacts of people with TB, with a higher HIV prevalence rate",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        339.3824157714844,
+        527.4465942382812,
+        353.825439453125
+      ],
+      "text": "(13.8%) among contacts of people with HIV-associated TB as compared with contacts of people who",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        353.3824157714844,
+        527.4013671875,
+        367.825439453125
+      ],
+      "text": "had TB but not HIV (2.5%). Furthermore, there was a 74% acceptance rate of HIV testing among",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        367.3824157714844,
+        216.62591552734375,
+        381.825439453125
+      ],
+      "text": "contacts of people with TB  .  (21)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        395.3824157714844,
+        527.4071655273438,
+        409.825439453125
+      ],
+      "text": "HIV partner services is a process whereby a trained provider offers voluntary HTS to the partners",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        409.3824157714844,
+        527.4235229492188,
+        423.825439453125
+      ],
+      "text": "and contacts of consenting HIV-positive individuals. WHO recommends a range of feasible and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        423.3824157714844,
+        527.3994140625,
+        437.825439453125
+      ],
+      "text": "acceptable HIV partner service approaches to enable programmes to reach as many people with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        437.3824157714844,
+        527.43115234375,
+        451.825439453125
+      ],
+      "text": "HIV as possible, which can be adapted according to setting, population, available resources and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        451.3824157714844,
+        527.41796875,
+        465.825439453125
+      ],
+      "text": "client preferences. Provider-assisted referral for HIV testing (also called assisted partner notification,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        465.3824157714844,
+        527.41796875,
+        479.825439453125
+      ],
+      "text": "index testing or family-based index case testing) is an effective method of delivering HIV partner",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.3824157714844,
+        527.3850708007812,
+        493.825439453125
+      ],
+      "text": "services to people with TB living with HIV and is an important strategy for extending HIV testing,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        493.3824157714844,
+        475.33447265625,
+        507.825439453125
+      ],
+      "text": "prevention and treatment services to their sexual partners and household members  . (21)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        521.3824462890625,
+        527.4431762695312,
+        535.825439453125
+      ],
+      "text": "The provider can contact partner(s) by telephone or email or in person and offer them home-based",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        535.3824462890625,
+        527.4257202148438,
+        549.825439453125
+      ],
+      "text": "HIV testing services or invite them to visit a facility to receive HIV testing services. Assistance in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        549.3824462890625,
+        527.42138671875,
+        563.825439453125
+      ],
+      "text": "partner notification for sexual or drug-sharing partners, with shared disclosure and mutual support,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        563.3824462890625,
+        527.4191284179688,
+        577.825439453125
+      ],
+      "text": "may also improve the uptake of and adherence to ART, benefiting both the index individual and their",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        577.3823852539062,
+        524.39453125,
+        591.8253784179688
+      ],
+      "text": "partners regardless of HIV status  . A strategic mix of facility-based, community-based, home- (97)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        591.3823852539062,
+        527.4553833007812,
+        605.8253784179688
+      ],
+      "text": "based and HIV self-testing options should be made available to ensure access to HIV testing services",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        605.3823852539062,
+        164.35960388183594,
+        619.8253784179688
+      ],
+      "text": "across these groups.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        633.3823852539062,
+        527.4203491210938,
+        647.8253784179688
+      ],
+      "text": "In all circumstances, HTS should be provided in accordance with WHO’s essential five Cs: consent,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        647.3823852539062,
+        527.4190673828125,
+        661.8253784179688
+      ],
+      "text": "confidentiality, counselling, correct test results and connection or linkage to prevention, care and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        661.3823852539062,
+        527.4246826171875,
+        675.8253784179688
+      ],
+      "text": "treatment. Age-appropriate algorithms should be in place for undertaking HIV testing in young",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        675.3823852539062,
+        527.4026489257812,
+        689.8253784179688
+      ],
+      "text": "children, and HIV testing should be family- and child-focused. All people diagnosed with HIV should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        689.3823852539062,
+        527.4343872070312,
+        703.8253784179688
+      ],
+      "text": "be offered HIV prevention, diagnosis, treatment and care services, including ART. These services",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        703.3823852539062,
+        448.2532043457031,
+        717.8253784179688
+      ],
+      "text": "should be offered by TB programmes or through effective referral to HIV services.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "32",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "file": "common childhood",
+  "page": 150,
+  "table_id": 1,
+  "bbox": [
+    134.4185028076172,
+    63.07077407836914,
+    323.31048583984375,
+    623.6220703125
+  ],
+  "heading": "RECOMMENDATIONS FOR MANAGEMENT OF COMMON CHILDHOOD CONDITIONS",
+  "n_rows": 6,
+  "n_cols": 12,
+  "data": [
+    [
+      "LIMITATIONS IN METHODS BASED ON METHODS OF STUDIES WITH ≥50% OF THE TOTAL WEIGHT OF EVIDENCE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "PRECISION",
+      "CONSISTENCY",
+      "GENERALIZABILITY",
+      "OVERALL QUALITY",
+      "EFFECT SIZE (95% CI) †OR REPORTED IN REVIEW CON­ VERTED TO RR"
+    ],
+    [
+      "OUTCOME",
+      "NO. OF STUDIES",
+      "DESIGN",
+      "ALLOCATION CONCEALMENT",
+      "BLINDING",
+      "LOSS TO FOLLOW-UP",
+      "OTHER",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Clinical failure",
+      "4",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "No imprecision 0",
+      "No inconsistency 0",
+      "Mostly adults, high areas with high NaR -0.5",
+      "MODERATE (Total -1)",
+      "RR 0.50 (0.28 to 0.90)"
+    ],
+    [
+      "Microbiologi­ cal failure",
+      "4",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "Serious imprecision -1",
+      "No inconsistency 0",
+      "As above -0.5",
+      "LOW (Total -2)",
+      "RR 1.01 (0.33 to 3.04)"
+    ],
+    [
+      "Relapse",
+      "4",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "Imprecision. Low event rate -0.5",
+      "No inconsistency 0",
+      "As above -0.5",
+      "MODERATE (Total -1.5)",
+      "RR 0.13 (0.01 to 1.08)"
+    ],
+    [
+      "Duration of hospital stay",
+      "2",
+      "RCT 0",
+      "Adequate 0",
+      "No -0.5",
+      "No 0",
+      "No 0",
+      "No imprecision 0",
+      "No inconsistency 0",
+      "1 country, high levels of nalidixic acid resistance -1",
+      "MODERATE (Total -1.5)",
+      "Mean difference -1.04 days (-1.73 to 0.34)"
+    ]
+  ]
+}

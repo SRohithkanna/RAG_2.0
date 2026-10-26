@@ -1,0 +1,354 @@
+{
+  "file": "module1",
+  "page": 100,
+  "blocks": [
+    {
+      "bbox": [
+        30.368999481201172,
+        41.23358154296875,
+        40.87300109863281,
+        49.473575592041016
+      ],
+      "text": "82",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        68.09741973876953,
+        775.2355346679688,
+        136.4346466064453
+      ],
+      "text": "PICO 7: In people of all ages at risk of TB disease, does a 1-month daily rifapentine plus isoniazid regimen safely prevent TB disease  WHO consolidated",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        82.0973892211914,
+        465.4945983886719,
+        98.88038635253906
+      ],
+      "text": "as compared with other recommended TB preventive treatment regimens?",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        102.818603515625,
+        239.13479614257812,
+        114.43760681152344
+      ],
+      "text": "Population:  PLHIV at increased risk of active TB",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        113.818603515625,
+        131.67190551757812,
+        125.43760681152344
+      ],
+      "text": "Overall quality:  low",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        124.818603515625,
+        181.82608032226562,
+        136.43760681152344
+      ],
+      "text": "Bibliography:  (see reference  ) 57 a",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        136.43463134765625,
+        40.87300109863281,
+        170.0587158203125
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        170.0657958984375,
+        40.87300109863281,
+        390.67559814453125
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        215.27713012695312,
+        768.7130737304688,
+        226.7971954345703
+      ],
+      "text": "–  Low  Critical 1  randomized  serious not serious  serious not serious  none  29/1488  26/1498  Incidence Rate   b,c  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        226.27716064453125,
+        611.6311645507812,
+        237.7971649169922
+      ],
+      "text": "trials  (1.9%)  (1.7%)  Difference per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        237.27713012695312,
+        601.5637817382812,
+        248.79713439941406
+      ],
+      "text": "100 person-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        248.27719116210938,
+        603.2697143554688,
+        259.79718017578125
+      ],
+      "text": "years 0.058",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        259.27716064453125,
+        597.0662841796875,
+        270.7971496582031
+      ],
+      "text": "(-0.240 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        270.2771301269531,
+        583.924560546875,
+        281.797119140625
+      ],
+      "text": "0.350)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        285.4681091308594,
+        764.0573120117188,
+        297.0871276855469
+      ],
+      "text": "Incidence of active TB among ART-naive participants at entry (follow up: mean 3 years; assessed with: RCT evidence (mITT population); deaths of unknown cause or not related to TB",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        59.5275993347168,
+        296.4681091308594,
+        98.97389221191406,
+        308.0871276855469
+      ],
+      "text": "censored)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39559936523438,
+        311.677001953125,
+        768.713134765625,
+        323.1969909667969
+      ],
+      "text": "1  randomized  serious not serious  serious not serious  none  17/740  15/746  Incidence Rate  –  Low  Critical  b,c  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24630737304688,
+        322.6769714355469,
+        611.6311645507812,
+        334.19696044921875
+      ],
+      "text": "trials  (2.3%)  (2.0%)  Difference per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        333.6769714355469,
+        601.5637817382812,
+        345.19696044921875
+      ],
+      "text": "100 person-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        344.6770324707031,
+        597.6574096679688,
+        356.197021484375
+      ],
+      "text": "years 0.07",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        355.6770324707031,
+        612.4635620117188,
+        367.197021484375
+      ],
+      "text": "(-0.37 to 0.51)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        59.5276985168457,
+        370.8678894042969,
+        782.3948974609375,
+        382.4869079589844
+      ],
+      "text": "Incidence of active TB among TST or IGRA positive participants at entry (follow up: mean 3 years; assessed with: RCT evidence (mITT population); deaths of unknown cause or not related",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        59.5276985168457,
+        381.8678894042969,
+        121.42143249511719,
+        393.4869079589844
+      ],
+      "text": "to TB censored)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        73.39579772949219,
+        397.0768127441406,
+        768.7130737304688,
+        408.5968017578125
+      ],
+      "text": "1  randomized  serious not serious  serious not serious  none  9/337 (2.7%)  10/349  Incidence Rate  –  Low  Critical  b,c  d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        112.24640655517578,
+        408.0767822265625,
+        611.6312255859375,
+        419.5967712402344
+      ],
+      "text": "trials  (2.9%)  Difference per",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.3406372070312,
+        419.0767517089844,
+        601.5638427734375,
+        430.59674072265625
+      ],
+      "text": "100 person-",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.3406372070312,
+        430.07684326171875,
+        606.8462524414062,
+        441.5968322753906
+      ],
+      "text": "years -0.069",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        441.0768127441406,
+        596.918701171875,
+        452.5968017578125
+      ],
+      "text": "(-0.830 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        555.340576171875,
+        452.0768127441406,
+        584.1657104492188,
+        463.5968017578125
+      ],
+      "text": "0.690)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    }
+  ]
+}

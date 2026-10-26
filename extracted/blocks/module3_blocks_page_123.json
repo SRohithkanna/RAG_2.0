@@ -1,0 +1,486 @@
+{
+  "file": "module3",
+  "page": 123,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.17418670654297,
+        527.4097290039062,
+        83.2621841430664
+      ],
+      "text": "Table 2.4.5.1 The accuracy and certainty of evidence of targeted NGS for the",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        83.57433319091797,
+        527.4108276367188,
+        97.6623306274414
+      ],
+      "text": "detection of resistance to anti-TB drugs among bacteriologically confirmed",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        97.97423553466797,
+        151.02609252929688,
+        112.0622329711914
+      ],
+      "text": "pulmonary TB",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        279.4291076660156,
+        127.52229309082031,
+        508.974853515625,
+        142.5623321533203
+      ],
+      "text": "Accuracy % Studies\n Certainty",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.16929626464844,
+        136.14833068847656,
+        261.87103271484375,
+        149.0623321533203
+      ],
+      "text": "Drug Reference standard",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        279.4291076660156,
+        142.64833068847656,
+        517.5988159179688,
+        157.68824768066406
+      ],
+      "text": "(persons) in evidence (95% CI)",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        165.89251708984375,
+        505.6739501953125,
+        179.0375213623047
+      ],
+      "text": "Phenotypic DST+WGS Se: 93.1 (87.0–99.2) 9 (1436) Moderate Rifampicin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        186.031005859375,
+        477.6240234375,
+        199.17601013183594
+      ],
+      "text": "Phenotypic DST+WGS Sp: 96.2 (88.6–100) 7 (271) Low",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        206.16943359375,
+        505.6739501953125,
+        219.31443786621094
+      ],
+      "text": "Phenotypic DST Se: 95.8 (92.8–98.7) 12 (1440) Moderate Isoniazid",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        226.30792236328125,
+        505.6739501953125,
+        239.4529266357422
+      ],
+      "text": "Phenotypic DST Sp: 97.0 (95.1–98.9) 12 (517) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        246.4462890625,
+        477.6240234375,
+        259.59130859375
+      ],
+      "text": "Phenotypic DST Se: 94.2 (88.4–99.9) 6 (654) Low Levofloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        266.5848388671875,
+        505.6739501953125,
+        279.7298583984375
+      ],
+      "text": "Phenotypic DST Sp: 96.2 (93.4–98.9) 7 (913) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        286.72320556640625,
+        505.6739501953125,
+        299.86822509765625
+      ],
+      "text": "Phenotypic DST Se: 95.6 (92.4–98.7) 6 (652) Moderate Moxifloxacin",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        306.8616943359375,
+        505.6739501953125,
+        320.0067138671875
+      ],
+      "text": "Phenotypic DST Sp: 96.3 (93.2–99.5) 8 (921) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        327.0001220703125,
+        505.6739501953125,
+        340.1451416015625
+      ],
+      "text": "Phenotypic DST+WGS Se: 88.4 (85.2–91.7) 3 (346) Moderate Pyrazinamide",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        347.13861083984375,
+        505.6739501953125,
+        360.28363037109375
+      ],
+      "text": "Phenotypic DST+WGS Sp: 98.5 (97.1–100) 3 (269) Moderate",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.035400390625,
+        367.2770080566406,
+        477.6240234375,
+        380.4220275878906
+      ],
+      "text": "Phenotypic DST+WGS Se: 95.8 (94.0–97.6) 4 (432) Low Ethambutol",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        159.24020385742188,
+        387.4154968261719,
+        477.6240234375,
+        400.5605163574219
+      ],
+      "text": "Phenotypic DST+WGS Sp: 99.3 (98.2–100) 4 (268) Low",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        416.343017578125,
+        526.5013427734375,
+        427.0980224609375
+      ],
+      "text": "CI: confidence interval; DST: drug susceptibility testing; NGS: next-generation sequencing; Se: sensitivity; Sp:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        427.14300537109375,
+        317.5381774902344,
+        437.89801025390625
+      ],
+      "text": "specificity; TB: tuberculosis; WGS: whole genome sequencing.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        454.9062194824219,
+        527.118896484375,
+        468.0512390136719
+      ],
+      "text": "There were no data on the impact of targeted NGS on patient outcomes such as time to",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        470.4062194824219,
+        235.14878845214844,
+        483.5512390136719
+      ],
+      "text": "treatment or treatment outcome.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        494.5640869140625,
+        526.9811401367188,
+        507.47808837890625
+      ],
+      "text": "PICO 2: Should targeted NGS be used to diagnose drug resistance in patients with",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.0640869140625,
+        442.1455993652344,
+        522.9780883789062
+      ],
+      "text": "bacteriologically confirmed rifampicin-resistant pulmonary TB disease?",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.9141235351562,
+        526.9261474609375,
+        547.0591430664062
+      ],
+      "text": "The available evidence varied by drug, from 12 studies with 1440 participants for sensitivity",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.4141235351562,
+        526.9616088867188,
+        562.5591430664062
+      ],
+      "text": "of isoniazid to three studies with 31 participants for sensitivity of bedaquiline ( ).  Table 2.4.5.2",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.9141235351562,
+        475.9786071777344,
+        578.0591430664062
+      ],
+      "text": "The pooled estimates were determined using a multivariable, mixed-effects model.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        588.9180297851562,
+        526.9666137695312,
+        602.0630493164062
+      ],
+      "text": "The overall certainty was high for some of the drugs. Levofloxacin was downgraded one level",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.4180297851562,
+        526.98095703125,
+        617.5630493164062
+      ],
+      "text": "for inconsistency. Bedaquiline and linezolid were downgraded by two levels for imprecision",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.9180297851562,
+        527.01416015625,
+        633.0630493164062
+      ],
+      "text": "in sensitivity because the number of resistant samples was below the threshold set and the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.4180297851562,
+        527.2188110351562,
+        648.5630493164062
+      ],
+      "text": "confidence intervals were wide. Clofazimine was also downgraded by two levels, one for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        650.9180297851562,
+        526.9633178710938,
+        664.0630493164062
+      ],
+      "text": "inconsistency (because two studies were outliers) and another level for imprecision (because",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.4180297851562,
+        526.9502563476562,
+        679.5630493164062
+      ],
+      "text": "the confidence intervals were wide). Amikacin was downgraded by one level for sensitivity and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.97647476196289,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.9180297851562,
+        526.9569091796875,
+        695.0630493164062
+      ],
+      "text": "specificity because critical concentrations outside those recommended by WHO were used",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        697.4180297851562,
+        527.0086059570312,
+        710.5630493164062
+      ],
+      "text": "for a large proportion of samples. Amikacin sensitivity was further downgraded by two more",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        712.9180297851562,
+        527.0029296875,
+        726.0630493164062
+      ],
+      "text": "levels, one for inconsistency and the other for imprecision. Ethambutol was downgraded by",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        728.4180297851562,
+        526.6547241210938,
+        741.5630493164062
+      ],
+      "text": "one level for risk of bias because different samples were used for the index and reference tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.986991882324219,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        743.9180297851562,
+        527.2556762695312,
+        757.0630493164062
+      ],
+      "text": "Streptomycin specificity was downgraded by two levels, one for inconsistency and the other for",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.96579647064209,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        759.4180297851562,
+        524.417236328125,
+        772.5630493164062
+      ],
+      "text": "imprecision. The overall certainty of the evidence for test accuracy ranged from high to very low.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951090812683105,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 107",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

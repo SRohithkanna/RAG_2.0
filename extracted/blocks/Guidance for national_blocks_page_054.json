@@ -1,0 +1,558 @@
+{
+  "file": "Guidance for national",
+  "page": 54,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        127.723388671875,
+        82.81961059570312,
+        493.55535888671875,
+        97.03961181640625
+      ],
+      "text": "Recommended daily doses of first-line anti-TB drugs for children",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        83.10761260986328,
+        127.723388671875,
+        97.03961181640625
+      ],
+      "text": "Table 3.",
+      "font": "FrutigerLTStd-Light",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        269.7294006347656,
+        108.17948913574219,
+        492.1593322753906,
+        125.18949127197266
+      ],
+      "text": "Dose and range  Maximum dose",
+      "font": "HelveticaNeue-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        114.17948913574219,
+        149.9593963623047,
+        131.18948364257812
+      ],
+      "text": "Anti-TB drug",
+      "font": "HelveticaNeue-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        258.5494079589844,
+        120.17948913574219,
+        466.2393798828125,
+        137.18948364257812
+      ],
+      "text": "(mg/kg body weight) (mg)",
+      "font": "HelveticaNeue-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.0394287109375,
+        138.8294677734375,
+        464.0293884277344,
+        153.82952880859375
+      ],
+      "text": "Isoniazid 10 (7-15) 300 a",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.03939819335938,
+        156.49951171875,
+        464.03936767578125,
+        171.49951171875
+      ],
+      "text": "Rifampicin 15 (10-20) 600",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.04937744140625,
+        174.16949462890625,
+        458.1993408203125,
+        189.16949462890625
+      ],
+      "text": "Pyrazinamide 35 (30-40) –",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.04931640625,
+        191.8394775390625,
+        458.1893310546875,
+        206.8394775390625
+      ],
+      "text": "Ethambutol 20 (15–25) –",
+      "font": "HelveticaNeue-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        206.83543395996094,
+        512.7218017578125,
+        220.7943878173828
+      ],
+      "text": "a  The higher end of the range for isoniazid dose applies to younger children; as the children grow older the",
+      "font": "ArialMT",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04169464111328,
+        219.61537170410156,
+        318.6546936035156,
+        231.59437561035156
+      ],
+      "text": "lower end of the dosing range becomes more appropriate.",
+      "font": "ArialMT",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        253.72390747070312,
+        510.1850280761719,
+        267.1444091796875
+      ],
+      "text": "Remark:  As children approach a body weight of 25 kg, clinicians can use adult dos-",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        267.5928955078125,
+        371.71343994140625,
+        280.94439697265625
+      ],
+      "text": "ing recommendations, as further discussed in Annex 5.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        298.1520080566406,
+        130.37139892578125,
+        315.00799560546875
+      ],
+      "text": "4.4\t R",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        130.5872039794922,
+        302.1587829589844,
+        331.6636962890625,
+        313.9580078125
+      ],
+      "text": "ecommended treatment regimens",
+      "font": "FrutigerLTStd-Black-SC70",
+      "size": 9.800000190734863,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        325.2247009277344,
+        207.19239807128906,
+        338.8522033691406
+      ],
+      "text": "Recommendation 9 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        348.97930908203125,
+        513.2845458984375,
+        364.31329345703125
+      ],
+      "text": "Children with suspected or confirmed pulmonary TB or tuberculous peripheral",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        362.1793212890625,
+        513.2845458984375,
+        377.5133056640625
+      ],
+      "text": "lymphadenitis who live in settings with low HIV prevalence or low prevalence",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        375.3793029785156,
+        513.2966918945312,
+        390.71331787109375
+      ],
+      "text": "and children who are HIV-negative can be treated with  of isoniazid resistance 1",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.04051208496094,
+        388.5793151855469,
+        513.3077392578125,
+        403.9132995605469
+      ],
+      "text": "a three-drug regimen (HRZ) for 2 months followed by a two-drug (HR) regimen",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.04051208496094,
+        401.7793273925781,
+        417.8385314941406,
+        417.1133117675781
+      ],
+      "text": "for 4 months at the dosages specified in Recommendation 8",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        427.30072021484375,
+        377.2218933105469,
+        440.6522216796875
+      ],
+      "text": "(Strong recommendation, moderate quality of evidence)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        452.0372314453125,
+        513.47412109375,
+        465.4577331542969
+      ],
+      "text": "Rapid advice: treatment of tuberculosis in children. Source:   Geneva, World Health",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        465.9062194824219,
+        321.4699401855469,
+        479.2577209472656
+      ],
+      "text": "Organization, 2010 (WHO/HTM/TB/2010.13)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        490.6427307128906,
+        497.5810546875,
+        504.063232421875
+      ],
+      "text": "Remark a:  The regimen for new patients should contain rifampicin for 6 months.",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        515.4483032226562,
+        510.2309265136719,
+        528.8687744140625
+      ],
+      "text": "Remark b:  The continuation phase containing ethambutol (6HE), listed as an alterna-",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        529.2482299804688,
+        359.8340148925781,
+        542.668701171875
+      ],
+      "text": "(7) tive in the 2006 guidance  , should be phased out.",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        554.0537719726562,
+        513.4854736328125,
+        567.4742431640625
+      ],
+      "text": "Remark c:  Wherever feasible, the optimal dosing frequency for new patients is daily",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        567.9227294921875,
+        269.0528564453125,
+        581.2742309570312
+      ],
+      "text": "throughout the course of therapy.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.04139709472656,
+        592.4522094726562,
+        213.58839416503906,
+        606.0797119140625
+      ],
+      "text": "Recommendation 10 n",
+      "font": "FrutigerLTStd-Bold",
+      "size": 11.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        616.17919921875,
+        510.237548828125,
+        631.51318359375
+      ],
+      "text": "Children with suspected or confirmed pulmonary TB or tuberculosis periph-",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        629.3792114257812,
+        513.295654296875,
+        644.7131958007812
+      ],
+      "text": "eral lymphadenitis and/or children with extensive pulmonary disease, living in",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        642.5792236328125,
+        510.259521484375,
+        657.9132080078125
+      ],
+      "text": "settings where the prevalence of HIV is high and/or the prevalence of isonia-",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        655.7791748046875,
+        513.284423828125,
+        671.1131591796875
+      ],
+      "text": "zid resistance is high1 should be treated with a four-drug regimen (HRZE) for",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        668.9791870117188,
+        513.2734985351562,
+        684.3131713867188
+      ],
+      "text": "2 months followed by a two-drug regimen (HR) for 4 months at the dosages",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.03939819335938,
+        682.17919921875,
+        268.0833435058594,
+        697.51318359375
+      ],
+      "text": "specified in Recommendation 8",
+      "font": "Arial-BoldMT",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        707.7007446289062,
+        377.2218933105469,
+        721.05224609375
+      ],
+      "text": "(Strong recommendation, moderate quality of evidence)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        732.437255859375,
+        513.47412109375,
+        745.8577270507812
+      ],
+      "text": "Rapid advice: treatment of tuberculosis in children. Source:   Geneva, World Health",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        102.88939666748047,
+        746.3062133789062,
+        321.4699401855469,
+        759.65771484375
+      ],
+      "text": "Organization, 2010 (WHO/HTM/TB/2010.13)",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.74800109863281,
+        793.4163818359375,
+        246.42124938964844,
+        805.4163818359375
+      ],
+      "text": "See “Definitions and distinctions” section. 1",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        558.6439208984375,
+        805.8439331054688,
+        580.8839111328125,
+        835.8439331054688
+      ],
+      "text": "35",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

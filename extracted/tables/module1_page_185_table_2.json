@@ -1,0 +1,32 @@
+{
+  "file": "module1",
+  "page": 185,
+  "table_id": 2,
+  "bbox": [
+    153.07095336914062,
+    304.9748814900716,
+    611.7836507161459,
+    353.77482252854566
+  ],
+  "heading": "Judgement Research evidence Additional considerations",
+  "n_rows": 2,
+  "n_cols": 6,
+  "data": [
+    [
+      "Outcomes",
+      "No. of participants (studies) Follow up",
+      "Certainty of the evidence (GRADE)",
+      "Relative effect (95% CI)",
+      "Anticipated absolute effects* (95% CI)",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Risk with nine months daily isoniazid",
+      "Risk difference with one month daily rifapentine plus isoniazid"
+    ]
+  ]
+}

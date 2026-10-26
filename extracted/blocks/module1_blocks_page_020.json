@@ -1,0 +1,666 @@
+{
+  "file": "module1",
+  "page": 20,
+  "blocks": [
+    {
+      "bbox": [
+        70.37223052978516,
+        66.30284118652344,
+        250.32833862304688,
+        84.57283782958984
+      ],
+      "text": "Scope of the current update",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        90.00269317626953,
+        527.4219360351562,
+        105.72169494628906
+      ],
+      "text": "WHO consolidated guidelines on tuberculosis: tuberculosis preventive treatment The   include",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        104.47870635986328,
+        527.4566040039062,
+        118.92170715332031
+      ],
+      "text": "recommendations for the four milestones in the cascade of preventive care, namely identification of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        117.67871856689453,
+        527.3728637695312,
+        132.12171936035156
+      ],
+      "text": "risk groups, TB screening and ruling out TB, testing for TBI, and choice and administration of the TPT",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        130.8787384033203,
+        423.5206604003906,
+        145.3217315673828
+      ],
+      "text": "regimen. The second edition of the TPT guidelines will have the same scope.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        152.5825958251953,
+        527.410888671875,
+        167.0255889892578
+      ],
+      "text": "Since the previous update of the guidelines, in 2020, several developments have affected TPT policy.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        165.78260803222656,
+        527.4409790039062,
+        180.22560119628906
+      ],
+      "text": "They include revision of WHO guidance on screening for TB disease and new modalities for testing",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        177.7067413330078,
+        527.4476318359375,
+        193.4257354736328
+      ],
+      "text": "(13,14) for TBI  . In addition, two landmark trials of use of TPT for contacts of people with MDR-TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        190.90663146972656,
+        527.3923950195312,
+        206.62562561035156
+      ],
+      "text": "(15,16) have been completed  . In the light of these new developments and continued demand from",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        205.3826446533203,
+        527.4664916992188,
+        219.8256378173828
+      ],
+      "text": "Member States for guidance on how best to protect people at risk of TB, the 2020 TPT guidelines were",
+      "font": "SegoeUI-Light",
+      "size": 10.966499328613281,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.5825958251953,
+        524.4086303710938,
+        233.0255889892578
+      ],
+      "text": "updated to ensure that the recommendations continue to be based on the latest available evidence.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.8660888671875,
+        240.2864532470703,
+        507.148681640625,
+        254.72950744628906
+      ],
+      "text": "The current update considered a review of evidence on one question, worded in PICO format :  2",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.990478515625,
+        78.23609924316406,
+        276.4335021972656
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        261.990478515625,
+        527.5098876953125,
+        276.4335021972656
+      ],
+      "text": "Does TPT with levofloxacin improve outcomes in contacts exposed to MDR- or RR-TB as compared",
+      "font": "SegoeUI-Light",
+      "size": 10.976876258850098,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        275.1904296875,
+        254.26158142089844,
+        289.6334533691406
+      ],
+      "text": "with other regimens or no treatment?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        296.8944091796875,
+        465.6709899902344,
+        311.3374328613281
+      ],
+      "text": "The methods used by the expert groups and evidence retrieval are further described in",
+      "font": "SegoeUI-Light",
+      "size": 10.995698928833008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        465.47900390625,
+        296.8944091796875,
+        521.9440307617188,
+        311.3374328613281
+      ],
+      "text": "annexes 2–5",
+      "font": "SegoeUI-Light",
+      "size": 10.995698928833008,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        521.967529296875,
+        296.8944091796875,
+        527.4192504882812,
+        311.3374328613281
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 10.995698928833008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        310.09442138671875,
+        527.5828247070312,
+        324.5374450683594
+      ],
+      "text": "In making decisions on the wording and strength of the recommendation, the GDG considered",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        323.29443359375,
+        527.4025268554688,
+        337.7374572753906
+      ],
+      "text": "the evidence not only for the effectiveness and safety of an intervention but also other dimensions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        336.49444580078125,
+        527.5948486328125,
+        350.9374694824219
+      ],
+      "text": "important to both the people at risk and the programme, namely values, preferences, resource",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        349.6944580078125,
+        527.2188720703125,
+        364.1374816894531
+      ],
+      "text": "requirements, cost, impact on health equity, acceptability and feasibility, as is seen in the GRADE",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        202.8571014404297,
+        362.8944091796875,
+        240.13938903808594,
+        377.3374328613281
+      ],
+      "text": "Annex 4",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        362.8944091796875,
+        527.4141235351562,
+        377.3374938964844
+      ],
+      "text": "). A summary of unpublished data also used in formulating the  evidence-to-decision tables (",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        279.62451171875,
+        374.8183898925781,
+        307.93853759765625,
+        390.4823913574219
+      ],
+      "text": "(17,18)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        239.0565948486328,
+        376.0943908691406,
+        279.6246337890625,
+        390.53741455078125
+      ],
+      "text": "Annex 5",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86613464355469,
+        376.0943908691406,
+        310.38818359375,
+        390.5374450683594
+      ],
+      "text": ". new recommendation is provided in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        397.7983093261719,
+        331.45257568359375,
+        412.2413330078125
+      ],
+      "text": "Other changes made to the guidelines are summarized in",
+      "font": "SegoeUI-Light",
+      "size": 10.976324081420898,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.9054870605469,
+        397.7983093261719,
+        355.4424133300781,
+        412.2413330078125
+      ],
+      "text": "Box 1",
+      "font": "SegoeUI-Light",
+      "size": 10.976324081420898,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        355.4054870605469,
+        397.7983093261719,
+        527.4571533203125,
+        412.2413330078125
+      ],
+      "text": ". The recommendations in the second",
+      "font": "SegoeUI-Light",
+      "size": 10.976324081420898,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        410.998291015625,
+        337.64923095703125,
+        425.4413146972656
+      ],
+      "text": "edition are compared with those in the 2020 guidelines in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        337.6590881347656,
+        410.998291015625,
+        375.213134765625,
+        425.4413146972656
+      ],
+      "text": "Annex 1",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        375.21380615234375,
+        410.998291015625,
+        377.6557922363281,
+        425.4413146972656
+      ],
+      "text": ".",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.37223052978516,
+        435.8648986816406,
+        184.06637573242188,
+        454.1349182128906
+      ],
+      "text": "Target readership",
+      "font": "SegoeUI-SemiBold",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        460.8408203125,
+        527.2579956054688,
+        475.2838439941406
+      ],
+      "text": "The second edition of the WHO guidelines on TPT provides a comprehensive set of recommendations",
+      "font": "SegoeUI-Light",
+      "size": 10.968003273010254,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.0408935546875,
+        527.4326171875,
+        488.4839172363281
+      ],
+      "text": "for PMTPT for implementers of the WHO End TB Strategy and also for countries working towards",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.9648132324219,
+        527.3885498046875,
+        501.683837890625
+      ],
+      "text": "(8,9) TB elimination . The guidelines are to be used primarily in national TB and HIV and maternal",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        500.44091796875,
+        527.3896484375,
+        514.8839111328125
+      ],
+      "text": "and child health programmes or their equivalents in ministries of health and by other policy-makers",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        513.6408081054688,
+        527.377197265625,
+        528.0838012695312
+      ],
+      "text": "working on TB, HIV, infectious diseases and maternal and child health. They are also appropriate for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        526.8408203125,
+        527.4417724609375,
+        541.2838134765625
+      ],
+      "text": "staff of ministries of justice, correctional services and other government agencies that deliver health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        540.0408935546875,
+        527.5614624023438,
+        554.48388671875
+      ],
+      "text": "care, including prison, social and immigration services. The guidelines are also intended for clinicians",
+      "font": "SegoeUI-Light",
+      "size": 10.998950004577637,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        553.2408447265625,
+        527.1786499023438,
+        567.683837890625
+      ],
+      "text": "in the public or the private sectors working on TB, HIV, infectious diseases, prevention, child health and",
+      "font": "SegoeUI-Light",
+      "size": 10.9682035446167,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        566.44091796875,
+        527.4375,
+        580.8839111328125
+      ],
+      "text": "noncommunicable diseases such as chronic kidney disease and cancer. The people directly affected",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        579.6409301757812,
+        527.4389038085938,
+        594.0839233398438
+      ],
+      "text": "by the guidelines are those in risk groups for whom TPT is recommended, namely people with HIV,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        592.8408203125,
+        527.4561157226562,
+        607.2838134765625
+      ],
+      "text": "contacts of people with TB and other people at increased risk of progression from TBI to disease in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        606.040771484375,
+        338.8054504394531,
+        620.4837646484375
+      ],
+      "text": "whom there is evidence of benefit of preventive treatment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0717163085938,
+        275.3280944824219,
+        763.57568359375
+      ],
+      "text": "Population, Intervention, Comparator and Outcome. See",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        275.8077087402344,
+        753.0717163085938,
+        311.8477783203125,
+        763.57568359375
+      ],
+      "text": "annexes 2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        312.3233947753906,
+        753.0717163085938,
+        327.2273864746094,
+        763.57568359375
+      ],
+      "text": "and",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        327.7023010253906,
+        753.0717163085938,
+        331.8222961425781,
+        763.57568359375
+      ],
+      "text": "3",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        753.0717163085938,
+        526.590576171875,
+        763.57568359375
+      ],
+      "text": "for a complete listing of PICOs and evidence summaries  2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86619567871094,
+        762.6716918945312,
+        172.68939208984375,
+        773.1756591796875
+      ],
+      "text": "from guidelines since 2018.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.29376983642578,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "2 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43409729003906,
+        801.0170288085938,
+        170.05807495117188,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06536865234375,
+        801.0170288085938,
+        390.6751403808594,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: tuberculosis preventive treatment, second edition",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

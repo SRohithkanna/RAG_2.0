@@ -1,0 +1,30 @@
+{
+  "file": "module4",
+  "page": 140,
+  "table_id": 1,
+  "bbox": [
+    70.86599731445312,
+    354.4100036621094,
+    524.4400024414062,
+    433.6398468017578
+  ],
+  "heading": "Table 3.2. Relative risk for treatment failure or relapse, and death (versus treatment success), 2018 IPD meta-analysis for longer MDR-TB regimens and delamanid Trial 213 (intent-to-treat population) a",
+  "n_rows": 2,
+  "n_cols": 5,
+  "data": [
+    [
+      "Medicine",
+      "Treatment failure or relapse versus treatment success",
+      "",
+      "Death versus treatment success",
+      ""
+    ],
+    [
+      "",
+      "Number treated",
+      "Adjusted odds ratio (95% CL)",
+      "Number treated",
+      "Adjusted odds ratio (95% CL)"
+    ]
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "file": "module4",
+  "page": 200,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.7867202758789,
+        315.4296875,
+        82.6147232055664
+      ],
+      "text": "Table 1. Treatment adherence interventions",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        98.82012176513672,
+        186.26019287109375,
+        113.17512512207031
+      ],
+      "text": "Treatment adherence",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        104.82012176513672,
+        260.13739013671875,
+        119.17512512207031
+      ],
+      "text": "Description",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        110.82012176513672,
+        138.7974090576172,
+        125.17512512207031
+      ],
+      "text": "intervention",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        132.4346923828125,
+        358.8624267578125,
+        146.98768615722656
+      ],
+      "text": "Patient education Health education and counselling.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        154.04931640625,
+        504.2263488769531,
+        168.60231018066406
+      ],
+      "text": "Staff education Education, chart or visual reminder, educational tool and desktop",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        166.15931701660156,
+        377.35015869140625,
+        180.60231018066406
+      ],
+      "text": "aid for decision-making and reminder.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        187.6639404296875,
+        478.9924011230469,
+        202.21693420410156
+      ],
+      "text": "Material support  Food or financial support such as meals, food baskets, food",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        199.77394104003906,
+        507.57366943359375,
+        214.21693420410156
+      ],
+      "text": "supplements, food vouchers, transport subsidies, living allowance,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        211.77394104003906,
+        377.4084777832031,
+        226.21693420410156
+      ],
+      "text": "housing incentives or financial bonus.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        228.02589416503906,
+        504.21435546875,
+        242.46888732910156
+      ],
+      "text": "This support addresses indirect costs incurred by patients or their",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        240.02589416503906,
+        481.2176818847656,
+        254.46888732910156
+      ],
+      "text": "attendants in accessing health services and, possibly, tries to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        252.02589416503906,
+        498.50634765625,
+        266.4689025878906
+      ],
+      "text": "mitigate the consequences of income loss related to the disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        273.530517578125,
+        405.8016357421875,
+        288.0835266113281
+      ],
+      "text": "Psychological support  Counselling sessions or peer-group support.",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        295.1451416015625,
+        513.2914428710938,
+        309.6981506347656
+      ],
+      "text": "Tracer  Communication with the patient, including home visit or via mobile",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        307.255126953125,
+        501.70843505859375,
+        321.6981506347656
+      ],
+      "text": "telephone communication such as SMS or telephone (voice) call.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        328.7597351074219,
+        510.6866760253906,
+        343.312744140625
+      ],
+      "text": "Digital medication  A digital medication monitor is a device that can measure the time",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        340.7597351074219,
+        491.3354797363281,
+        355.312744140625
+      ],
+      "text": "monitor between openings of the pill box. The medication monitor can",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        352.8697204589844,
+        512.9592895507812,
+        367.312744140625
+      ],
+      "text": "give audio reminders or send an SMS to remind the patient to take",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        203.10240173339844,
+        364.8697204589844,
+        490.1090087890625,
+        379.312744140625
+      ],
+      "text": "medications, along with recording when the pill box is opened.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.0166931152344,
+        371.074951171875,
+        414.67669677734375
+      ],
+      "text": "Tracers and digital health interventions rather than VST",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        420.6086120605469,
+        527.4284057617188,
+        436.32763671875
+      ],
+      "text": "(98–105) (90,  Varied tracers were included in randomized controlled trials  and observational studies",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        433.80859375,
+        527.1925659179688,
+        449.5276184082031
+      ],
+      "text": "91, 106–110) . These interventions included, for instance, SMS, telephone calls or automated telephone",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.974921226501465,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        448.28460693359375,
+        527.4090576171875,
+        462.7276306152344
+      ],
+      "text": "reminders. Patients who missed appointments or failed to collect their medication received reminder",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        461.484619140625,
+        527.4397583007812,
+        475.9276428222656
+      ],
+      "text": "letters or home visits by health-care workers. Medication monitors or computer systems in the clinic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        474.6846008300781,
+        527.4454956054688,
+        489.12762451171875
+      ],
+      "text": "were also used to aid health-care workers in tracing patients. Medication monitors can measure the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.8846130371094,
+        527.4122924804688,
+        502.32763671875
+      ],
+      "text": "time between openings of the pill box, give audio reminders, record when the pill box is opened or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.0845947265625,
+        262.98114013671875,
+        515.527587890625
+      ],
+      "text": "send SMS reminders to take medications.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        522.78857421875,
+        527.14013671875,
+        537.2315673828125
+      ],
+      "text": "There were higher rates of treatment success, treatment adherence and 2-month sputum conversion,",
+      "font": "SegoeUI-Light",
+      "size": 10.982135772705078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        535.9886474609375,
+        527.214599609375,
+        550.431640625
+      ],
+      "text": "and lower rates of mortality, loss to follow-up and drug resistance acquisition with tracers, either",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        549.1885986328125,
+        443.8662414550781,
+        563.631591796875
+      ],
+      "text": "through home visits or mobile telephone communication (SMS or telephone call).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        570.8925170898438,
+        527.5336303710938,
+        585.3355102539062
+      ],
+      "text": "When mobile telephone interventions were examined separately, there were higher rates of treatment",
+      "font": "SegoeUI-Light",
+      "size": 10.97126293182373,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        584.092529296875,
+        527.4976196289062,
+        598.5355224609375
+      ],
+      "text": "success, cure and 2-month sputum conversion and lower rates of treatment failure, loss to follow-up,",
+      "font": "SegoeUI-Light",
+      "size": 10.992847442626953,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        597.29248046875,
+        527.4310913085938,
+        611.7354736328125
+      ],
+      "text": "poor adherence and unfavourable outcomes with mobile telephone reminders as opposed to no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        610.4924926757812,
+        128.57318115234375,
+        624.9354858398438
+      ],
+      "text": "intervention.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.196533203125,
+        527.5386962890625,
+        646.6395263671875
+      ],
+      "text": "Medication monitors had better rates of adherence and favourable outcomes, and combined",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        645.3964233398438,
+        527.2748413085938,
+        659.8394165039062
+      ],
+      "text": "interventions of SMS and medication monitors also showed better adherence compared to no",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        658.596435546875,
+        131.58718872070312,
+        673.0394287109375
+      ],
+      "text": "intervention.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        680.30029296875,
+        527.3761596679688,
+        694.7432861328125
+      ],
+      "text": "It should be noted, however, that only a small number of studies were available for all digital health",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.2244262695312,
+        527.4163818359375,
+        707.9434204101562
+      ],
+      "text": "(99) interventions. There was only one small randomized controlled trial   on which these data are based.",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.945615768432617,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        706.700439453125,
+        527.531005859375,
+        721.1434326171875
+      ],
+      "text": "With all the digital interventions and tracers, including VST, it is important to preserve patient support",
+      "font": "SegoeUI-Light",
+      "size": 10.984138488769531,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        719.900390625,
+        527.5393676757812,
+        734.3433837890625
+      ],
+      "text": "and the ability of patients to interact with health-care workers. In fact, these digital interventions should",
+      "font": "SegoeUI-Light",
+      "size": 10.957568168640137,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        733.1004028320312,
+        527.4398193359375,
+        747.5433959960938
+      ],
+      "text": "be considered as tools to enable better communication with the health-care provider rather than as",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.30029296875,
+        527.4278564453125,
+        760.7432861328125
+      ],
+      "text": "replacements for other adherence interventions. In practice, it is expected that SMS, telephone calls",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "186 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

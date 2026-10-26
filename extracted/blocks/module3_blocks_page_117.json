@@ -1,0 +1,498 @@
+{
+  "file": "module3",
+  "page": 117,
+  "blocks": [
+    {
+      "bbox": [
+        87.86609649658203,
+        69.16120147705078,
+        95.91809844970703,
+        82.30619812011719
+      ],
+      "text": "–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        69.16120147705078,
+        441.48907470703125,
+        82.30619812011719
+      ],
+      "text": "are in contact with a person known to have resistance to TB drugs; or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        84.66120147705078,
+        526.9480590820312,
+        97.80619812011719
+      ],
+      "text": "reside in settings or belong to subgroups where there is a high probability of resistance",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86609649658203,
+        84.69419860839844,
+        93.1460952758789,
+        98.71920013427734
+      ],
+      "text": "–",
+      "font": "SourceSansPro-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        100.16120147705078,
+        526.9437866210938,
+        113.30619812011719
+      ],
+      "text": "to either rifampicin, isoniazid or fluoroquinolone (used in new shorter regimens), or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        115.66120147705078,
+        526.9609985351562,
+        128.8061981201172
+      ],
+      "text": "where there is a high prevalence of   strains harbouring mutations not  M. tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86609649658203,
+        131.16119384765625,
+        298.9700012207031,
+        144.3061981201172
+      ],
+      "text": "detected by other rapid molecular tests.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        149.49591064453125,
+        78.81909942626953,
+        162.6409149169922
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        149.49591064453125,
+        526.9094848632812,
+        162.6409149169922
+      ],
+      "text": "This recommendation is conditional because of the lack of data on health benefits, the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        164.99591064453125,
+        526.8576049804688,
+        178.1409149169922
+      ],
+      "text": "variable certainty of evidence on diagnostic accuracy, and the fact that accuracy is suboptimal",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        180.49591064453125,
+        526.8748779296875,
+        193.6409149169922
+      ],
+      "text": "for certain drugs. In addition, because this is a new technology that has not yet been widely",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.992597579956055,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        195.99591064453125,
+        526.936767578125,
+        209.1409149169922
+      ],
+      "text": "implemented, there is still limited and variable evidence on costs, cost–effectiveness and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        211.49591064453125,
+        228.89596557617188,
+        224.6409149169922
+      ],
+      "text": "feasibility of implementation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.41439819335938,
+        250.3365020751953,
+        512.3309936523438,
+        263.25048828125
+      ],
+      "text": "18.\tIn people with bacteriologically confirmed rifampicin-resistant pulmonary",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        265.83648681640625,
+        512.2787475585938,
+        278.75048828125
+      ],
+      "text": "TB disease, targeted NGS technologies may be used on respiratory samples",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        281.33648681640625,
+        512.361572265625,
+        294.25048828125
+      ],
+      "text": "to diagnose resistance to isoniazid, fluoroquinolones, bedaquiline, linezolid,",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        296.83648681640625,
+        512.1548461914062,
+        309.75048828125
+      ],
+      "text": "clofazimine, pyrazinamide, ethambutol, amikacin and streptomycin rather than",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 10.958120346069336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        312.33648681640625,
+        383.8539123535156,
+        325.25048828125
+      ],
+      "text": "culture-based phenotypic drug susceptibility testing.",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        330.7042236328125,
+        512.388427734375,
+        343.585205078125
+      ],
+      "text": "(Conditional recommendation, certainty of evidence high [isoniazid, fluoroquinolones",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 10.973016738891602,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        346.2042236328125,
+        512.1646728515625,
+        359.085205078125
+      ],
+      "text": "and pyrazinamide], moderate [ethambutol], low [bedaquiline, linezolid, clofazimine",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        105.25689697265625,
+        361.7042236328125,
+        294.6989440917969,
+        374.585205078125
+      ],
+      "text": "and streptomycin], very low [amikacin])",
+      "font": "FrutigerNeueLT-LtIt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        397.01702880859375,
+        120.02182006835938,
+        411.1050109863281
+      ],
+      "text": "Remarks",
+      "font": "FrutigerNeueLT-Bd",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        421.8080139160156,
+        78.81920623779297,
+        434.9530334472656
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        421.8080139160156,
+        526.9664916992188,
+        434.9530334472656
+      ],
+      "text": "Priority should be given to those at a higher risk of resistance to medications used for the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        437.3080139160156,
+        312.1748962402344,
+        450.4530334472656
+      ],
+      "text": "treatment of RR-TB, including individuals who:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86620330810547,
+        452.8080139160156,
+        95.91820526123047,
+        465.9530334472656
+      ],
+      "text": "–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        452.8080139160156,
+        527.0250244140625,
+        465.9530334472656
+      ],
+      "text": "continue to be smear or culture positive after 2 months or more of treatment or have",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        468.3080139160156,
+        253.30987548828125,
+        481.4530334472656
+      ],
+      "text": "experienced treatment failure;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86620330810547,
+        483.8080139160156,
+        95.91820526123047,
+        496.9530334472656
+      ],
+      "text": "–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        483.8080139160156,
+        501.048095703125,
+        496.9530334472656
+      ],
+      "text": "have previously had TB treatment, including with the new and repurposed drugs;",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86620330810547,
+        499.3080139160156,
+        95.91820526123047,
+        512.4530029296875
+      ],
+      "text": "–",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        499.3080139160156,
+        526.9590454101562,
+        512.4530029296875
+      ],
+      "text": "are in contact with a person known to have resistance to TB drugs, including the new",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        514.8079833984375,
+        228.68319702148438,
+        527.9530029296875
+      ],
+      "text": "and repurposed drugs; or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.86620330810547,
+        530.3079833984375,
+        365.78411865234375,
+        543.4530029296875
+      ],
+      "text": "have pre-XDR-TB with resistance to fluoroquinolones.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        87.86620330810547,
+        530.3410034179688,
+        93.14620208740234,
+        544.365966796875
+      ],
+      "text": "–",
+      "font": "SourceSansPro-Regular",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        545.8079833984375,
+        78.81920623779297,
+        558.9530029296875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81920623779297,
+        545.8079833984375,
+        527.2174072265625,
+        558.9530029296875
+      ],
+      "text": "As above, this recommendation is conditional because of the lack of data on health benefits,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.96534538269043,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        561.3079833984375,
+        527.2657470703125,
+        574.4530029296875
+      ],
+      "text": "the variable certainty of evidence on diagnostic accuracy, the fact that accuracy is suboptimal",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.9501371383667,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        576.8079833984375,
+        527.1235961914062,
+        589.9530029296875
+      ],
+      "text": "for certain drugs, and limited and variable evidence on costs, cost–effectiveness and feasibility",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        592.3079833984375,
+        179.7491912841797,
+        605.4530029296875
+      ],
+      "text": "of implementation.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        556.809326171875,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 101",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

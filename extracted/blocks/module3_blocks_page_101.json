@@ -1,0 +1,390 @@
+{
+  "file": "module3",
+  "page": 101,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        69.16120147705078,
+        526.8489990234375,
+        82.30619812011719
+      ],
+      "text": "Some of these steps can be automated, making the method quicker and more robust, and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.66120147705078,
+        243.0803680419922,
+        97.80619812011719
+      ],
+      "text": "reducing the risk of contamination.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.66522979736328,
+        524.4119873046875,
+        121.81022644042969
+      ],
+      "text": "The Hain version 1 and version 2 assays include   probes to detect rifampicin resistance,  rpoB katG",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.952346801757812,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        124.16522979736328,
+        526.9459838867188,
+        137.3102264404297
+      ],
+      "text": "probes to detect mutations associated with high-level isoniazid resistance, and   promoter  inhA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993098258972168,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        139.66522216796875,
+        526.98095703125,
+        152.8102264404297
+      ],
+      "text": "probes to detect mutations usually associated with low-level isoniazid resistance. The probes",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.16522216796875,
+        524.3958740234375,
+        168.3102264404297
+      ],
+      "text": "used to detect wild-type and specific mutations are the same for both versions of the Hain LPA.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.979681968688965,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        179.16912841796875,
+        526.957763671875,
+        192.3141326904297
+      ],
+      "text": "Similarly, the Nipro assay allows for the identification of MTBC, and resistance to rifampicin and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.972465515136719,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        194.66912841796875,
+        526.95947265625,
+        207.8141326904297
+      ],
+      "text": "isoniazid. The Nipro assay also differentiates  ,   and   from  M. avium M. intracellulare M. kansasii",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        210.16912841796875,
+        253.4311981201172,
+        223.3141326904297
+      ],
+      "text": "other non-tuberculous mycobacteria.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        234.17303466796875,
+        527.1849975585938,
+        247.3180389404297
+      ],
+      "text": "The  ,   and  promoter mutation probes are the same for the three assays, with the  rpoB katG inhA",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.989044189453125,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        249.67303466796875,
+        526.9412841796875,
+        262.81805419921875
+      ],
+      "text": "exception of the   S315N mutation, which is included in the Nipro assay but not in Hain  katG",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        265.17303466796875,
+        527.0031127929688,
+        278.31805419921875
+      ],
+      "text": "version 1 or version 2. There are some minor variations in the codon regions covered for the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        280.67303466796875,
+        369.70989990234375,
+        293.81805419921875
+      ],
+      "text": "wild type among Hain version 1 and version 2, and the Nipro.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        306.1846008300781,
+        239.91481018066406,
+        322.5645751953125
+      ],
+      "text": "Justification and evidence",
+      "font": "FrutigerNeueLT-Md",
+      "size": 14.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        331.3982238769531,
+        526.7391357421875,
+        344.5432434082031
+      ],
+      "text": "In 2015, WHO commissioned an updated systematic review of the accuracy of commercial",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        346.8982238769531,
+        527.0562744140625,
+        360.0432434082031
+      ],
+      "text": "LPAs for detecting MTBC, and resistance to rifampicin and isoniazid. A total of 74 studies were",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99905014038086,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        362.3982238769531,
+        527.0278930664062,
+        375.5432434082031
+      ],
+      "text": "identified, comprising 94 unique datasets (see   “FL-LPA”). Of these 94 datasets,  Web Annex A.7:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.949685096740723,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        377.8982238769531,
+        526.965576171875,
+        391.0432434082031
+      ],
+      "text": "83 evaluated Hain version 1, five evaluated Hain version 2, and six evaluated the Nipro assay.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        393.3982238769531,
+        526.9260864257812,
+        406.5432434082031
+      ],
+      "text": "Only one of the studies performed head-to-head testing of all three target LPAs on directly",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        408.8982238769531,
+        527.069091796875,
+        422.0432434082031
+      ],
+      "text": "tested clinical specimens and indirectly tested isolates, and these data were included as six",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        424.3982238769531,
+        526.9365844726562,
+        437.5432434082031
+      ],
+      "text": "separate datasets  . No studies performed LPA testing on specimens and culture isolates from  (9)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.968655586242676,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        439.8982238769531,
+        378.6088562011719,
+        453.0432434082031
+      ],
+      "text": "the same patients, precluding direct within-study comparisons.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        463.902099609375,
+        527.0142822265625,
+        477.047119140625
+      ],
+      "text": "Following the 2015 systematic review, the WHO Global TB Programme convened a GDG",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        479.402099609375,
+        526.84375,
+        492.547119140625
+      ],
+      "text": "in March 2016 to assess the data and update the 2008 policy recommendations on using",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        494.902099609375,
+        527.10205078125,
+        508.047119140625
+      ],
+      "text": "commercial LPAs to detect MTBC, and resistance to isoniazid and rifampicin. The PICO questions",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.951794624328613,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        510.402099609375,
+        190.62130737304688,
+        523.547119140625
+      ],
+      "text": "are given in  Box 2.4.2.1.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        534.4061279296875,
+        526.9066772460938,
+        547.5511474609375
+      ],
+      "text": "LPAs were compared with a phenotypic culture-based DST reference standard, and a composite",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        549.9061279296875,
+        526.5941772460938,
+        563.0511474609375
+      ],
+      "text": "reference standard that combined the results from genetic sequencing with results from phenotypic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.890000343322754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        565.4061279296875,
+        526.92333984375,
+        578.5511474609375
+      ],
+      "text": "culture-based DST. Phenotypic DST was the primary reference standard applied to all participants",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.936969757080078,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        580.9061279296875,
+        526.918212890625,
+        594.0511474609375
+      ],
+      "text": "for all analyses. These analyses were stratified – first, by susceptibility or resistance to rifampicin or",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.937220573425293,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        596.4061279296875,
+        483.2843322753906,
+        609.5511474609375
+      ],
+      "text": "isoniazid (or both) and second, by type of LPA testing (indirect testing or direct testing).",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        353.2680969238281,
+        802.0169067382812,
+        554.5132446289062,
+        811.576904296875
+      ],
+      "text": "2. Recommendations for diagnosis of TB disease 85",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

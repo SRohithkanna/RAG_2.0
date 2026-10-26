@@ -1,0 +1,534 @@
+{
+  "file": "module5",
+  "page": 90,
+  "blocks": [
+    {
+      "bbox": [
+        78.04429626464844,
+        74.69391632080078,
+        514.9908447265625,
+        89.13691711425781
+      ],
+      "text": "Co-trimoxazole prophylaxis is recommended for HIV-exposed infants from 4 to 6 weeks of age",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        86.69391632080078,
+        514.7399291992188,
+        101.13691711425781
+      ],
+      "text": "and should be continued until HIV infection has been excluded by an age-appropriate HIV test",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        98.69391632080078,
+        392.8197021484375,
+        113.13691711425781
+      ],
+      "text": "to establish final diagnosis after complete cessation of breastfeeding.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        112.15193176269531,
+        320.98638916015625,
+        129.3339385986328
+      ],
+      "text": "(Strong recommendation, very low certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        136.5605010986328,
+        520.3203735351562,
+        151.0034942626953
+      ],
+      "text": "Routine co-trimoxazole prophylaxis should be given to all people living with HIV with TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        148.5605010986328,
+        208.88150024414062,
+        163.0034942626953
+      ],
+      "text": "regardless of CD4 cell count.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        162.0183868408203,
+        303.3584899902344,
+        179.2003936767578
+      ],
+      "text": "(Strong recommendation, high certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        186.25100708007812,
+        313.0549011230469,
+        200.67201232910156
+      ],
+      "text": "General recommendations on eligibility for ART",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        208.04164123535156,
+        502.4981689453125,
+        222.48463439941406
+      ],
+      "text": "ART should be initiated for all people living with HIV regardless of WHO clinical stage and at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        220.04164123535156,
+        166.78289794921875,
+        234.48463439941406
+      ],
+      "text": "any CD4 cell count.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        233.4995880126953,
+        499.7529602050781,
+        250.73658752441406
+      ],
+      "text": "(strong recommendation, moderate certainty evidence) •\tPregnant and breastfeeding women",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        249.7515411376953,
+        382.8349609375,
+        266.9885559082031
+      ],
+      "text": "(conditional recommendation, low certainty evidence) •\tAdolescents",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        266.00347900390625,
+        507.491943359375,
+        283.2405090332031
+      ],
+      "text": "(conditional recommendation,  •\tChildren living with HIV, one year old to less than 10 years old",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.04429626464844,
+        278.00347900390625,
+        186.5698699951172,
+        295.18548583984375
+      ],
+      "text": "low certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        294.2554931640625,
+        515.2915649414062,
+        311.4925231933594
+      ],
+      "text": "(strong recommendation, moderate certainty evidence) •\tInfants diagnosed in the first year of life",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        318.6640930175781,
+        505.6331481933594,
+        333.10711669921875
+      ],
+      "text": "Rapid ART initiation should be offered to all people living with HIV following a confirmed HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        330.6640930175781,
+        231.79580688476562,
+        345.10711669921875
+      ],
+      "text": "diagnosis and clinical assessment.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        344.12213134765625,
+        488.5321960449219,
+        361.3041076660156
+      ],
+      "text": "(Strong recommendation, high-certainty evidence for adults and adolescents; low certainty",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        356.12213134765625,
+        176.194580078125,
+        373.3041076660156
+      ],
+      "text": "evidence for children).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.04429626464844,
+        372.37408447265625,
+        496.4930419921875,
+        389.55609130859375
+      ],
+      "text": "Rapid initiation is defined as within seven days from the day of HIV diagnosis; people with",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.04429626464844,
+        384.37408447265625,
+        432.3710021972656,
+        401.55609130859375
+      ],
+      "text": "advanced HIV disease should be given priority for assessment and initiation.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        408.7825927734375,
+        459.4241638183594,
+        423.2256164550781
+      ],
+      "text": "ART initiation should be offered on the same day to people who are ready to start.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        422.2406005859375,
+        487.1792297363281,
+        439.422607421875
+      ],
+      "text": "(Strong recommendation, high certainty evidence for adults and adolescents; low certainty",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        434.2406005859375,
+        173.75257873535156,
+        451.422607421875
+      ],
+      "text": "evidence for children)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        458.47320556640625,
+        330.51068115234375,
+        472.8941955566406
+      ],
+      "text": "Timing of ART for children and adolescents with TB",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        480.2637939453125,
+        511.73046875,
+        494.7068176269531
+      ],
+      "text": "ART should be started as soon as possible within 2 weeks of initiating TB treatment, regardless",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        492.2637939453125,
+        475.23248291015625,
+        506.7068176269531
+      ],
+      "text": "of CD4 count, among adolescents and children living with HIV (except when signs and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        501.46978759765625,
+        508.23321533203125,
+        518.706787109375
+      ],
+      "text": "(Adolescents: strong recommendation, low- to moderate- symptoms of meningitis are present).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        513.4697875976562,
+        500.1015625,
+        530.6517944335938
+      ],
+      "text": "certainty evidence; Children and infants: strong recommendation, very low certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.04429626464844,
+        529.7218017578125,
+        505.5174560546875,
+        546.90380859375
+      ],
+      "text": "ART should be delayed at least 4 weeks (and initiated within 8 weeks) after treatment for TB",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        90.04429626464844,
+        541.7218017578125,
+        187.43699645996094,
+        558.90380859375
+      ],
+      "text": "meningitis is initiated.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        565.9544067382812,
+        192.8975067138672,
+        580.3753662109375
+      ],
+      "text": "First-line ART regimens",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        587.7449951171875,
+        489.99774169921875,
+        602.18798828125
+      ],
+      "text": "Dolutegravir (DTG) in combination with a nucleoside reverse-transcriptase inhibitor (NRTI)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        599.7449951171875,
+        480.9226989746094,
+        614.18798828125
+      ],
+      "text": "backbone is recommended as the preferred first-line regimen for people living with HIV",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        611.7449951171875,
+        138.62127685546875,
+        626.18798828125
+      ],
+      "text": "initiating ART",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        625.2030029296875,
+        390.0376892089844,
+        642.4400024414062
+      ],
+      "text": "(strong recommendation, moderate certainty evidence) •\tAdolescents",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        641.4548950195312,
+        458.3979187011719,
+        658.69189453125
+      ],
+      "text": "(conditional recommendation, low  •\tInfants and children with approved DTG dosing",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        84.04429626464844,
+        653.4548950195312,
+        168.1040802001953,
+        670.6369018554688
+      ],
+      "text": "certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        677.863525390625,
+        516.6033325195312,
+        692.3065185546875
+      ],
+      "text": "A raltegravir (RAL)-based regimen may be recommended as the preferred first-line regimen for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        689.863525390625,
+        120.06429290771484,
+        704.3065185546875
+      ],
+      "text": "neonates",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        78.04429626464844,
+        703.3214721679688,
+        343.15826416015625,
+        720.5034790039062
+      ],
+      "text": "(Conditional recommendation, very low certainty evidence)",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "66 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

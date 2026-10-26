@@ -1,0 +1,534 @@
+{
+  "file": "module6",
+  "page": 34,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        73.38239288330078,
+        527.4508666992188,
+        87.82539367675781
+      ],
+      "text": "In many high TB burden settings, sputum-smear microscopy remains the primary diagnostic tool",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.38239288330078,
+        527.420166015625,
+        101.82539367675781
+      ],
+      "text": "for evaluating individuals presenting with signs and symptoms of TB. However, sputum-smear",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.38239288330078,
+        527.4215698242188,
+        115.82539367675781
+      ],
+      "text": "microscopy has a low sensitivity up to approximately 50% among people living with HIV  ,  (34, 35)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.38239288330078,
+        527.4180297851562,
+        129.8253936767578
+      ],
+      "text": "who often have difficulty in producing sputum or have paucibacillary sputum. The sensitivity will vary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.3824005126953,
+        527.385009765625,
+        143.8253936767578
+      ],
+      "text": "with the setting and as well as with the degree of immunosuppression of the individual. Furthermore,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        143.3824005126953,
+        527.4158325195312,
+        157.8253936767578
+      ],
+      "text": "sputum-smear microscopy cannot distinguish drug-susceptible strains from drug-resistant strains.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.3824005126953,
+        527.3892822265625,
+        171.8253936767578
+      ],
+      "text": "WHO recommends that TB programmes transition to replacing microscopy as the initial diagnostic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.3824005126953,
+        527.4122924804688,
+        185.8253936767578
+      ],
+      "text": "test with mWRDs that detect  complex bacteria (MTBC).  Mycobacterium tuberculosis (M. tuberculosis)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.3824005126953,
+        527.419677734375,
+        199.8253936767578
+      ],
+      "text": "The  includes two benchmarks  WHO standard: universal access to rapid tuberculosis diagnostics",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        199.3824005126953,
+        527.4520263671875,
+        213.8253936767578
+      ],
+      "text": "relating to access to mWRDs as an initial diagnostic test, including one that requires the use of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        213.3824005126953,
+        521.0755004882812,
+        227.8253936767578
+      ],
+      "text": "mWRD as an initial diagnostic test, combined with urinary LF-LAM, for people living with HIV  .  (26)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.056396484375,
+        354.8602600097656,
+        270.63140869140625
+      ],
+      "text": "2.2.2\t Summary of evidence and rationale",
+      "font": "SegoeUI-SemiBold",
+      "size": 15.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        283.2063903808594,
+        466.1675720214844,
+        297.62738037109375
+      ],
+      "text": "Recommendation 8: use of molecular WHO-recommended rapid diagnostic tests",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        297.38238525390625,
+        527.42578125,
+        311.8254089355469
+      ],
+      "text": "mWRDs incorporate a growing number of different products that detect  genetic  M. tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.38238525390625,
+        527.4178466796875,
+        325.8254089355469
+      ],
+      "text": "material in samples. Most mWRDs detect rifampicin resistance, while some also detect isoniazid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.3824157714844,
+        527.4114379882812,
+        339.825439453125
+      ],
+      "text": "resistance. Table 2.7 summarizes the evidence on the accuracy of the different tests in the diagnosis",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        339.3824157714844,
+        212.27554321289062,
+        353.825439453125
+      ],
+      "text": "of TB in people living with HIV.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.49102783203125,
+        495.4454040527344,
+        378.155029296875
+      ],
+      "text": "Table 2.7 Diagnostic accuracy of mWRDs for TB diagnosis in people living with HIV",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        376.4410095214844,
+        332.66656494140625,
+        391.1050109863281
+      ],
+      "text": "compared with microbiological reference standard",
+      "font": "MyriadPro-Semibold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        394.62451171875,
+        514.2362060546875,
+        407.81451416015625
+      ],
+      "text": "mWRD test No. of studies \n Sensitivity and  Certainty of",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        222.50169372558594,
+        405.4162292480469,
+        504.3539123535156,
+        418.6062316894531
+      ],
+      "text": "(no. of participants)  specificity evidence",
+      "font": "SegoeUI-Bold",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        424.5010070800781,
+        493.07232666015625,
+        436.2460021972656
+      ],
+      "text": "Xpert  MTB/RIF for pulmonary TB 14 (1159) Se: 0.81 (95% CrI: 0.75–0.86) High ®",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        250.78810119628906,
+        437.09320068359375,
+        493.07232666015625,
+        448.793212890625
+      ],
+      "text": "14 (3505) Sp: 0.98 (95% CrI: 0.97–0.99) High",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        454.93902587890625,
+        491.60357666015625,
+        466.68402099609375
+      ],
+      "text": "Xpert Ultra for pulmonary TB 2 (149) Se: 0.88 (95% CrI: 0.74–0.94) Low",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        255.6396942138672,
+        467.5312194824219,
+        493.07232666015625,
+        479.2312316894531
+      ],
+      "text": "2 (430) Sp: 0.95 (95% CrI: 0.79–0.96) High",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        485.37701416015625,
+        500.5916748046875,
+        497.12200927734375
+      ],
+      "text": "TB-LAMP for pulmonary TB 5 (370) Se: 0.64 (95% CI: 0.49–0.76) Very low a",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        324.3149108886719,
+        497.9691162109375,
+        500.5916748046875,
+        509.66912841796875
+      ],
+      "text": "Sp: 0.99 (95% CI: 0.85–0.999) Very low a",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        74.86609649658203,
+        515.8148803710938,
+        500.5916748046875,
+        527.5598754882812
+      ],
+      "text": "Xpert  MTB/RIF blood 1 (9) Se: 0.56 (95% CI: 0.21–0.86) Very low ®",
+      "font": "SegoeUI-SemiBold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        258.06549072265625,
+        528.4071655273438,
+        500.5916748046875,
+        540.1071166992188
+      ],
+      "text": "1 (65) Sp: 0.94 (95% CI: 0.85–0.98 Very low",
+      "font": "SegoeUI",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.8594360351562,
+        526.3245239257812,
+        558.0504150390625
+      ],
+      "text": "TB loop-mediated isothermal amplification (TB-LAMP) in people living with HIV was assessed according to two mycobacterial culture reference standards.  a",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.37000274658203,
+        557.2593994140625,
+        526.3236694335938,
+        566.4503784179688
+      ],
+      "text": "The pooled sensitivity ranged from 0.64 (0.49–0.76) to 0.73 (95% CI: 0.52–0.88) and the pooled specificity ranged from 0.95 (95% CI: 0.64–0.995) to 0.99",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        79.37000274658203,
+        565.659423828125,
+        113.11002349853516,
+        574.8504028320312
+      ],
+      "text": "(0.8–0.999).",
+      "font": "SegoeUI-Light",
+      "size": 7.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        591.3823852539062,
+        527.4156494140625,
+        605.8253784179688
+      ],
+      "text": "In 2011 WHO first recommended the use of Xpert MTB/RIF, as the initial diagnostic test using",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        605.3823852539062,
+        527.418701171875,
+        619.8253784179688
+      ],
+      "text": "sputum for pulmonary TB in individuals suspected of MDR-TB or HIV-associated TB  . This strong  (36)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        619.3823852539062,
+        527.4244384765625,
+        633.8253784179688
+      ],
+      "text": "recommendation was updated in 2013, based on high-quality evidence and increased accuracy,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        633.3823852539062,
+        527.425537109375,
+        647.8253784179688
+      ],
+      "text": "recommending that Xpert MTB/RIF should be used rather than conventional microscopy, culture",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.3823852539062,
+        527.4246215820312,
+        661.8253784179688
+      ],
+      "text": "and drug-susceptibility testing, as the initial diagnostic test in adults suspected of having MDR-TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        661.3823852539062,
+        527.3960571289062,
+        675.8253784179688
+      ],
+      "text": "or HIV-associated TB  . Since 2020, WHO has recommended a number of mWRDs for the initial  (36)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        675.3823852539062,
+        527.4365844726562,
+        689.8253784179688
+      ],
+      "text": "diagnosis of TB, instead of smear microscopy, for all people being evaluated for pulmonary and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        689.3823852539062,
+        296.50469970703125,
+        703.8253784179688
+      ],
+      "text": "extrapulmonary TB, regardless of HIV status  .  (37)",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        42.8661003112793,
+        801.2599487304688,
+        51.10609817504883,
+        811.763916015625
+      ],
+      "text": "16",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        801.2599487304688,
+        136.43409729003906,
+        811.763916015625
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        136.4364013671875,
+        801.2599487304688,
+        170.0603790283203,
+        811.763916015625
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.2599487304688,
+        364.234375,
+        811.763916015625
+      ],
+      "text": "on tuberculosis. Module 6: tuberculosis and comorbidities",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    }
+  ]
+}

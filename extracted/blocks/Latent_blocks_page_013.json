@@ -1,0 +1,522 @@
+{
+  "file": "Latent",
+  "page": 13,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        51.5808219909668,
+        272.9532470703125,
+        82.5648193359375
+      ],
+      "text": "Executive summary",
+      "font": "Whitney-Semibold",
+      "size": 24.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        167.95880126953125,
+        526.6203002929688,
+        180.7587890625
+      ],
+      "text": "Latent tuberculosis infection (LTBI) is defined as a state of persistent immune response to stimulation by",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        181.95880126953125,
+        526.629150390625,
+        194.7587890625
+      ],
+      "text": "antigens with no evidence of clinically manifest active TB. There is no gold standard  Mycobacterium tuberculosis",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        195.95880126953125,
+        526.7122192382812,
+        208.7587890625
+      ],
+      "text": "test for LTBI. The WHO guidelines on LTBI consider the probability of progression to active TB disease in a",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        209.95880126953125,
+        526.6154174804688,
+        222.7587890625
+      ],
+      "text": "specific risk group, the epidemiology and burden of TB, the availability of resources and the likelihood of a",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.95880126953125,
+        526.6184692382812,
+        236.7587890625
+      ],
+      "text": "broad public health impact. Two fragmented recommendations have been made for the management of LTBI,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        237.95880126953125,
+        526.6603393554688,
+        250.7587890625
+      ],
+      "text": "which resulted in a number of guideline documents, posing a challenge to implementation. Therefore, several",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        251.95880126953125,
+        402.10321044921875,
+        264.7587890625
+      ],
+      "text": "WHO Member States requested consolidated guidelines on LTBI management.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        271.6287841796875,
+        526.6743774414062,
+        284.42877197265625
+      ],
+      "text": "The updated, consolidated guidelines in this document respond to that request. They provide a comprehensive",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.6287841796875,
+        526.7024536132812,
+        298.42877197265625
+      ],
+      "text": "set of WHO recommendations for programmatic management of LTBI and the basis and rationale for national",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        299.6287841796875,
+        526.7093505859375,
+        312.42877197265625
+      ],
+      "text": "guidelines. These guidelines supersede previous WHO policy documents on the management of LTBI in",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        313.6287841796875,
+        526.6080932617188,
+        326.42877197265625
+      ],
+      "text": "people living with HIV and household contacts of people with TB and other at-risk groups. The guidelines",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        327.6287841796875,
+        526.637451171875,
+        340.42877197265625
+      ],
+      "text": "were prepared in accordance with the requirements and recommended process of the WHO Guideline Review",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        341.6287841796875,
+        526.6863403320312,
+        354.42877197265625
+      ],
+      "text": "Committee. Seven systematic reviews were conducted to update the recommendations and make new ones.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        355.6287841796875,
+        526.6902465820312,
+        368.42877197265625
+      ],
+      "text": "The Guideline Development Group considered the quality of the evidence, benefits and harms, values and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        369.6287841796875,
+        526.6630859375,
+        382.42877197265625
+      ],
+      "text": "preferences, equity, costs, acceptability and feasibility of implementation in formulating the recommendations",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.6287841796875,
+        202.67713928222656,
+        396.42877197265625
+      ],
+      "text": "and determining their strength.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        403.2987976074219,
+        526.689208984375,
+        416.0987854003906
+      ],
+      "text": "The recommendations are presented logically according to the cascade of care for managing LTBI: identification",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        417.2987976074219,
+        524.4520874023438,
+        430.0987854003906
+      ],
+      "text": "of at-risk populations (adults and children living with HIV, HIV-negative adult and child contacts and other HIV-",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.2987976074219,
+        526.6301879882812,
+        444.0987854003906
+      ],
+      "text": "negative at-risk groups), ruling out active TB disease, testing for LTBI, providing treatment, monitoring adverse",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        445.2987976074219,
+        526.6883544921875,
+        458.0987854003906
+      ],
+      "text": "events, adherence and completion of treatment and monitoring and evaluation. The recommendations are",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        459.2987976074219,
+        526.6583251953125,
+        472.0987854003906
+      ],
+      "text": "categorized as: existing ones previously approved by the review committee and published, which are still valid;",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        473.2987976074219,
+        526.7031860351562,
+        486.0987854003906
+      ],
+      "text": "updated recommendations that were previously approved by the review committee but for which the evidence",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        487.2987976074219,
+        526.6652221679688,
+        500.0987854003906
+      ],
+      "text": "was reviewed, discussed with the Guidelines Development Group (GDG) and updated (including for clarity);",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        501.2987976074219,
+        450.13525390625,
+        514.0988159179688
+      ],
+      "text": "and new recommendations. There are 10 existing, 7 updated and 7 new recommendations.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        520.9688110351562,
+        526.693359375,
+        533.768798828125
+      ],
+      "text": "In general, the GDG reviewed the evidence from the systematic reviews and discussed each population risk",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        534.9688110351562,
+        526.6431274414062,
+        547.768798828125
+      ],
+      "text": "group identified in detail for the prevalence of LTBI, the risk for progression to active TB and the incidence of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        548.9688110351562,
+        526.7313232421875,
+        561.768798828125
+      ],
+      "text": "active TB as compared with that in the general population. The GDG used the guiding principle that individual",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        562.9688110351562,
+        526.6741943359375,
+        575.768798828125
+      ],
+      "text": "benefit outweighs risk as the mainstay of recommendations on LTBI testing and treatment. The GDG found",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        576.9688110351562,
+        526.6670532226562,
+        589.768798828125
+      ],
+      "text": "clear evidence for the benefit of systematic testing and treatment of LTBI for people living with HIV and",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        590.9688110351562,
+        526.7094116210938,
+        603.768798828125
+      ],
+      "text": "infants and children under 5 years of age who are household contacts of pulmonary TB patients, in all settings,",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        604.9688110351562,
+        526.6073608398438,
+        617.768798828125
+      ],
+      "text": "regardless of the background epidemiology of TB. Similarly, they concluded that HIV-negative groups at clinical",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        618.9688110351562,
+        526.7072143554688,
+        631.768798828125
+      ],
+      "text": "risk, such as patients initiating anti-TNF treatment, receiving dialysis, preparing for organ or haematological",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        632.9688110351562,
+        526.662109375,
+        645.768798828125
+      ],
+      "text": "transplantation and those with silicosis would also benefit from testing and treatment of LTBI, regardless of the",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        646.9688110351562,
+        474.9611511230469,
+        659.768798828125
+      ],
+      "text": "background TB epidemiology, because of their increased risk of progression to active TB disease.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.6387939453125,
+        270.9151306152344,
+        679.4387817382812
+      ],
+      "text": "The specific recommendations are given below.",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        694.5949096679688,
+        450.3568420410156,
+        711.3779296875
+      ],
+      "text": "A. Identification of at-risk populations for LTBI testing and treatment",
+      "font": "Whitney-Semibold",
+      "size": 13.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.3252563476562,
+        331.296142578125,
+        729.8292236328125
+      ],
+      "text": "Adults, adolescents, children and infants living with HIV",
+      "font": "Whitney-MediumItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03610229492188,
+        733.1478271484375,
+        526.7162475585938,
+        745.9478149414062
+      ],
+      "text": "Adults and adolescents living with HIV, with unknown or a positive tuberculin skin test (TST) and are",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03610229492188,
+        747.1478271484375,
+        526.6373291015625,
+        759.9478149414062
+      ],
+      "text": "unlikely to have active TB should receive preventive treatment of TB as part of a comprehensive package of",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03610229492188,
+        761.1478271484375,
+        526.6651611328125,
+        773.9478149414062
+      ],
+      "text": "HIV care. Treatment should be given to these individuals irrespective of the degree of immunosuppression",
+      "font": "Whitney-Book",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        538.5827026367188,
+        790.2608032226562,
+        544.2467041015625,
+        810.61279296875
+      ],
+      "text": "1",
+      "font": "Whitney-Light",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        450.2544860839844,
+        796.524658203125,
+        525.9462280273438,
+        805.5686645507812
+      ],
+      "text": "EXECUTIVE SUMMARY",
+      "font": "Whitney-Medium",
+      "size": 7.0,
+      "type": "heading"
+    }
+  ]
+}

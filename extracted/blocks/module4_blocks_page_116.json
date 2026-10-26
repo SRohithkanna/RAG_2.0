@@ -1,0 +1,510 @@
+{
+  "file": "module4",
+  "page": 116,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        66.95471954345703,
+        224.82371520996094,
+        82.6147232055664
+      ],
+      "text": "Data and studies considered",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        89.82263946533203,
+        527.425048828125,
+        104.26564025878906
+      ],
+      "text": "This group of PICO questions was reviewed during the GDG meeting convened by WHO in June 2024,",
+      "font": "SegoeUI-Light",
+      "size": 10.966499328613281,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        101.74658966064453,
+        527.4413452148438,
+        117.46559143066406
+      ],
+      "text": "(66) using the evidence from the endTB trial  . The endTB trial was an RCT that was led by Partners In",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        116.22272491455078,
+        527.4066772460938,
+        130.6657257080078
+      ],
+      "text": "Health (PIH), Médecins Sans Frontières (MSF), and Interactive Research and Development (IRD); the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        129.42274475097656,
+        527.2935791015625,
+        143.86573791503906
+      ],
+      "text": "aim was to improve the efficacy and safety of treatment for patients with FQ-susceptible MDR/RR-TB.",
+      "font": "SegoeUI-Light",
+      "size": 10.987643241882324,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        154.23394775390625,
+        125.01910400390625,
+        168.5889434814453
+      ],
+      "text": "endTB trial",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        176.0478057861328,
+        527.197998046875,
+        190.4907989501953
+      ],
+      "text": "The endTB trial was a Bayesian response-adaptive randomized Phase 3, multicountry, controlled,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.24794006347656,
+        527.4786987304688,
+        203.69093322753906
+      ],
+      "text": "parallel, open-label clinical trial. Participants were randomly assigned to either the control arm, which",
+      "font": "SegoeUI-Light",
+      "size": 10.992947578430176,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        202.44789123535156,
+        527.372802734375,
+        216.89088439941406
+      ],
+      "text": "follows the SoC longer (18-month) regimens for MDR/RR-TB, or to one of five 39-week multidrug",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.6479034423828,
+        527.4278564453125,
+        230.0908966064453
+      ],
+      "text": "regimens that incorporate newly approved and repurposed drugs. The duration of follow-up for all",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        228.84791564941406,
+        495.9501647949219,
+        243.29090881347656
+      ],
+      "text": "arms ranged from a minimum of 73 weeks to a maximum of 104 weeks post-randomization.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        250.55189514160156,
+        527.4443969726562,
+        264.9949035644531
+      ],
+      "text": "The primary objective of the endTB trial was to assess whether the efficacy of each experimental",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        263.7518310546875,
+        527.1427612304688,
+        278.1948547363281
+      ],
+      "text": "regimen is non-inferior to that of the control. The endTB clinical trial started in 2017 and randomized",
+      "font": "SegoeUI-Light",
+      "size": 10.996249198913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.9517822265625,
+        527.4376831054688,
+        291.3948059082031
+      ],
+      "text": "and followed 754 participants over 7 years and across 12 sites in seven countries: Georgia, India,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.15179443359375,
+        317.1143493652344,
+        304.5948181152344
+      ],
+      "text": "Kazakhstan, Lesotho, Pakistan, Peru and South Africa.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        311.8558349609375,
+        527.4081420898438,
+        326.2988586425781
+      ],
+      "text": "Eligible participants were aged at least 15 years and had pulmonary TB suspected or confirmed to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        325.0558166503906,
+        527.1848754882812,
+        339.49884033203125
+      ],
+      "text": "be resistant to rifampicin and susceptible to FQ. Participants living with HIV (regardless of CD4 count),",
+      "font": "SegoeUI-Light",
+      "size": 10.988143920898438,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        338.25579833984375,
+        527.2509765625,
+        352.6988220214844
+      ],
+      "text": "diabetes (regardless of A1c), substance use disorders and various degrees of TB disease severity were",
+      "font": "SegoeUI-Light",
+      "size": 10.987692832946777,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        351.455810546875,
+        527.1641235351562,
+        365.8988342285156
+      ],
+      "text": "enrolled in the trial. All study arms were similar in size (ranging from 107 to 122) with 699 participants",
+      "font": "SegoeUI-Light",
+      "size": 10.989595413208008,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        364.6557922363281,
+        384.7269592285156,
+        379.09881591796875
+      ],
+      "text": "in the modified intention-to-treat (mITT) population for the analysis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.3597106933594,
+        527.3959350585938,
+        400.802734375
+      ],
+      "text": "All five experimental regimens were of 9 months (i.e. 39 weeks) duration. Three of these regimens",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        399.5596923828125,
+        527.4366455078125,
+        414.0027160644531
+      ],
+      "text": "included bedaquiline for the whole duration of the regimen (400 mg once daily for the first 2 weeks",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        412.75970458984375,
+        527.3514404296875,
+        427.2027282714844
+      ],
+      "text": "of treatment, followed by 200 mg 3 times per week), a quinolone (either moxifloxacin or levofloxacin),",
+      "font": "SegoeUI-Light",
+      "size": 10.987242698669434,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.959716796875,
+        527.2619018554688,
+        440.4027404785156
+      ],
+      "text": "linezolid, pyrazinamide, and either delamanid (100 mg BID) or clofazimine or no fifth drug. The",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.1596984863281,
+        527.5783081054688,
+        453.60272216796875
+      ],
+      "text": "remaining two regimens were without bedaquiline but included delamanid, a quinolone (moxifloxacin",
+      "font": "SegoeUI-Light",
+      "size": 10.978428840637207,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        452.3597106933594,
+        524.6029663085938,
+        466.802734375
+      ],
+      "text": "or levofloxacin), clofazimine and pyrazinamide, with or without linezolid as a fifth medicine (see",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        465.44970703125,
+        527.4325561523438,
+        480.0027160644531
+      ],
+      "text": "Table 2.4 ). All patients who received linezolid started at 600 mg daily but were later randomized",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        478.75970458984375,
+        524.4424438476562,
+        493.2027282714844
+      ],
+      "text": "to a reduced dose (300 mg daily or 600 mg 3 times a week) at 16 weeks or earlier in case of dose-",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.959716796875,
+        143.17567443847656,
+        506.4027404785156
+      ],
+      "text": "limiting toxicity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        524.8702392578125,
+        244.98609924316406,
+        540.6982421875
+      ],
+      "text": "Table 2.4. endTB trial regimens",
+      "font": "SegoeUI-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        556.9036865234375,
+        518.8262329101562,
+        571.2586669921875
+      ],
+      "text": "Regimens Bedaquiline Delamanid Linezolid Quinolone Clofazimine Pyrazinamide",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        578.518310546875,
+        489.1470031738281,
+        593.0712890625
+      ],
+      "text": "B L M Z endTB 1",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        600.1329345703125,
+        489.1470031738281,
+        614.6859130859375
+      ],
+      "text": "B L Lfx C Z endTB 2",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        621.74755859375,
+        489.1470031738281,
+        636.300537109375
+      ],
+      "text": "B D L Lfx Z endTB 3",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        643.3621215820312,
+        489.1470031738281,
+        657.9151000976562
+      ],
+      "text": "D L Lfx C Z endTB 4",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        664.9766845703125,
+        489.1470031738281,
+        679.5296630859375
+      ],
+      "text": "D M C Z endTB 5",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        686.7012939453125,
+        440.0940246582031,
+        701.144287109375
+      ],
+      "text": "Control The longer (18-month) standard of care control",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        233.718505859375,
+        698.7012939453125,
+        423.2012634277344,
+        713.144287109375
+      ],
+      "text": "composed according to WHO guidelines.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.4750366210938,
+        296.1845703125,
+        737.97900390625
+      ],
+      "text": "Lfx: levofloxacin; M: moxifloxacin; WHO: World Health Organization.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "102 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "file": "module4",
+  "page": 85,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.3992309570312,
+        81.83369445800781
+      ],
+      "text": "groups of patients may only receive the regimen if the treating physician judges this to be the best",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        454.89703369140625,
+        95.03370666503906
+      ],
+      "text": "option despite these contraindications and where adequate monitoring is available.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        108.40792846679688,
+        460.7878723144531,
+        124.25992584228516
+      ],
+      "text": "Regimen composition, dosing of component medicines and frequency",
+      "font": "SegoeUI-BoldItalic",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        131.4678497314453,
+        527.4739379882812,
+        145.9108428955078
+      ],
+      "text": "The BPaLM/BPaL regimen consists of bedaquiline, pretomanid and linezolid, with or without",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        144.6678009033203,
+        527.4024658203125,
+        159.1107940673828
+      ],
+      "text": "moxifloxacin throughout the regimen duration. Pretomanid is administered at 200 mg once daily for",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        157.86793518066406,
+        527.3858642578125,
+        172.31092834472656
+      ],
+      "text": "the duration of the regimen. When moxifloxacin is part of the regimen, it is dosed at 400 mg once",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        171.0679473876953,
+        527.4454345703125,
+        185.5109405517578
+      ],
+      "text": "daily throughout the treatment course. The fluoroquinolone of choice used in the TB-PRACTECAL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        184.26783752441406,
+        527.5181274414062,
+        198.71083068847656
+      ],
+      "text": "trial was moxifloxacin; given that no evidence on using other fluoroquinolones was available at",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        197.4678497314453,
+        527.4212036132812,
+        211.9108428955078
+      ],
+      "text": "the time of the GDG assessments, the replacement of moxifloxacin with levofloxacin or any other",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.6678009033203,
+        527.4089965820312,
+        225.1107940673828
+      ],
+      "text": "fluoroquinolone cannot be recommended at this stage. The frequency of dosing should be 7 days",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        223.86781311035156,
+        527.4188842773438,
+        238.31080627441406
+      ],
+      "text": "a week with treatment support or using video-supported therapy; that is, as it was administered in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        237.0678253173828,
+        136.6350860595703,
+        251.5108184814453
+      ],
+      "text": "both the trials.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        267.91168212890625,
+        224.8621063232422,
+        283.5716857910156
+      ],
+      "text": "Bedaquiline dosing schemes",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        290.77960205078125,
+        527.39599609375,
+        305.2226257324219
+      ],
+      "text": "The TB-PRACTECAL and ZeNix trials used slightly different dosing schemes for bedaquiline although",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        302.70361328125,
+        527.40478515625,
+        318.4226379394531
+      ],
+      "text": "(31) the overall drug exposure was comparable  . The dosing schedule used in the TB-PRACTECAL",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        317.17962646484375,
+        527.4146728515625,
+        331.6226501464844
+      ],
+      "text": "trial was consistent with the product label whereas the dosing schedule used in the ZeNix trial",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.3796081542969,
+        527.3980102539062,
+        344.8226318359375
+      ],
+      "text": "presented the advantage of daily dosing throughout the regimen and may be used as one of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.5796203613281,
+        527.4188842773438,
+        358.02264404296875
+      ],
+      "text": "options for administration. Either of the bedaquiline dosing schemes may be used for programmatic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        356.77960205078125,
+        145.33609008789062,
+        371.2226257324219
+      ],
+      "text": "implementation:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.4835205078125,
+        78.23609924316406,
+        392.9265441894531
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        378.4835205078125,
+        519.1788940429688,
+        392.9265441894531
+      ],
+      "text": "daily throughout treatment: 200 mg once daily for 8 weeks followed by 100 mg once daily; and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        391.6835021972656,
+        78.23609924316406,
+        406.12652587890625
+      ],
+      "text": "•",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.23609924316406,
+        391.6835021972656,
+        527.1385498046875,
+        406.12652587890625
+      ],
+      "text": "daily for loading dose and three times per week thereafter: 400 mg once daily for 2 weeks followed",
+      "font": "SegoeUI-Light",
+      "size": 10.976174354553223,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        82.86609649658203,
+        404.8835144042969,
+        236.59442138671875,
+        419.3265380859375
+      ],
+      "text": "by 200 mg three times per week.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        435.7274169921875,
+        176.04971313476562,
+        451.3874206542969
+      ],
+      "text": "Dosing of linezolid",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.5953063964844,
+        527.3045654296875,
+        473.038330078125
+      ],
+      "text": "The ZeNix trial used several different dosing and duration schemes of linezolid, with the aim of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.7953186035156,
+        527.5756225585938,
+        486.23834228515625
+      ],
+      "text": "determining the optimal administration schedule for this medicine. Linezolid is known to cause several",
+      "font": "SegoeUI-Light",
+      "size": 10.970059394836426,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        484.9953918457031,
+        527.3980712890625,
+        499.43841552734375
+      ],
+      "text": "potentially serious adverse effects; among those of most concern are peripheral neuropathy, optic",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        496.9193115234375,
+        527.4061889648438,
+        512.6383056640625
+      ],
+      "text": "(45) neuritis and myelosuppression  . The GDG review of the ZeNix trial data identified the optimal",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.395263671875,
+        527.4334716796875,
+        525.8382568359375
+      ],
+      "text": "dosing for linezolid to be 600 mg once a day for 26 weeks, and this arm of the ZeNix trial was used",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        524.5953369140625,
+        527.4114379882812,
+        539.038330078125
+      ],
+      "text": "for the main comparisons. Study participants in this arm of the trial received 600 mg of linezolid",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        537.7952880859375,
+        527.4410400390625,
+        552.23828125
+      ],
+      "text": "once daily for 26 weeks, with a reduction to 300 mg daily allowed in the event of linezolid specific",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        550.995361328125,
+        527.2186279296875,
+        565.4383544921875
+      ],
+      "text": "toxicities. In the TB-PRACTECAL trial, dosing of linezolid was slightly different – participants were",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        564.1953125,
+        527.4158325195312,
+        578.6383056640625
+      ],
+      "text": "given 600 mg daily for 16 weeks and then 300 mg daily for the remaining 8 weeks (the duration of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        577.3953247070312,
+        225.41726684570312,
+        591.8383178710938
+      ],
+      "text": "BPaLM in this trial was 24 weeks).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        599.0993041992188,
+        527.3992309570312,
+        613.5422973632812
+      ],
+      "text": "The GDG panel considered that it would be preferable to use linezolid 600 mg/daily throughout the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        612.29931640625,
+        470.83502197265625,
+        626.7423095703125
+      ],
+      "text": "regimen, but the dose can be reduced to 300 mg/daily if necessary to mitigate toxicity.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        643.1431884765625,
+        304.25653076171875,
+        658.80322265625
+      ],
+      "text": "Regimen duration, changes and extensions",
+      "font": "SegoeUI-SemiBold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        666.0111083984375,
+        527.4281005859375,
+        680.4541015625
+      ],
+      "text": "The BPaLM and BPaL regimens have been studied as the standardized courses of treatment. Therefore,",
+      "font": "SegoeUI-Light",
+      "size": 10.953049659729004,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        679.2111206054688,
+        527.4410400390625,
+        693.6541137695312
+      ],
+      "text": "modification of the regimen through early discontinuation or replacement of any of the component",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        692.4111328125,
+        527.3958740234375,
+        706.8541259765625
+      ],
+      "text": "medicines may result in different (and possibly worse) treatment outcomes. In the TB-PRACTECAL",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.611083984375,
+        527.4541625976562,
+        720.0540771484375
+      ],
+      "text": "trial, patients received 24 weeks of BPaLM. In the ZeNix trial, treatment was extended to a total of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.8110961914062,
+        527.4058227539062,
+        733.2540893554688
+      ],
+      "text": "9 months in patients on the BPaL regimen who remained sputum culture positive or who reverted",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        732.0111083984375,
+        527.390380859375,
+        746.4541015625
+      ],
+      "text": "to being sputum culture positive between months 4 and 6, or whose clinical condition suggested",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        745.2111206054688,
+        527.2352294921875,
+        759.6541137695312
+      ],
+      "text": "they may have progressive TB. In cases where treatment was interrupted and treatment duration was",
+      "font": "SegoeUI-Light",
+      "size": 10.994647979736328,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        758.4111328125,
+        527.44873046875,
+        772.8541259765625
+      ],
+      "text": "extended to make up for missed doses, it was necessary for patients to complete 6 months of the",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        330.23760986328125,
+        801.0170288085938,
+        554.0401611328125,
+        811.52099609375
+      ],
+      "text": "Chapter 2 Drug-resistant TB treatment: Recommendations  71",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

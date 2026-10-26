@@ -1,0 +1,558 @@
+{
+  "file": "module5",
+  "page": 46,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        64.67291259765625,
+        519.9063110351562,
+        89.46791076660156
+      ],
+      "text": "4.2. Treatment decision algorithms for the diagnosis",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        87.472900390625,
+        494.58514404296875,
+        112.26789855957031
+      ],
+      "text": "of pulmonary TB in children aged below 10 years",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        110.27288818359375,
+        124.99331665039062,
+        135.06788635253906
+      ],
+      "text": "of age",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        149.638427734375,
+        202.22891235351562,
+        163.99342346191406
+      ],
+      "text": "Interim recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        166.0004425048828,
+        516.8157958984375,
+        180.4434356689453
+      ],
+      "text": "In children with presumptive pulmonary TB attending health care facilities, integrated treatment",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        178.0004425048828,
+        356.1288757324219,
+        192.4434356689453
+      ],
+      "text": "decision algorithms may be used to diagnose pulmonary TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        191.4583282470703,
+        356.6602478027344,
+        208.6403350830078
+      ],
+      "text": "(Conditional recommendation, very low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        216.0635986328125,
+        120.14249420166016,
+        230.41859436035156
+      ],
+      "text": "Remarks",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        232.4256134033203,
+        501.39776611328125,
+        246.8686065673828
+      ],
+      "text": "•\tPresumptive TB refers to a person who presents with symptoms and/or signs suggestive of",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        244.4256134033203,
+        104.32549285888672,
+        258.8686218261719
+      ],
+      "text": "TB. 24",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        260.677490234375,
+        499.8775329589844,
+        275.1205139160156
+      ],
+      "text": "•\tBacteriological confirmation should be sought as part of the integrated treatment decision",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        272.677490234375,
+        472.2377624511719,
+        287.1205139160156
+      ],
+      "text": "algorithms whenever possible, using WHO recommended rapid diagnostic tests and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        284.677490234375,
+        485.5059814453125,
+        299.1205139160156
+      ],
+      "text": "appropriate paediatric specimens (including stool, nasopharyngeal aspirate, induced or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        296.677490234375,
+        271.7450866699219,
+        311.1205139160156
+      ],
+      "text": "expectorated sputum or gastric aspirate).",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        312.92950439453125,
+        504.056396484375,
+        327.3725280761719
+      ],
+      "text": "•\tIn follow-up to the GDG meeting, new integrated treatment decision algorithms for specific",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        324.92950439453125,
+        514.6482543945312,
+        339.3725280761719
+      ],
+      "text": "populations and settings, have been developed and internally validated. These algorithms are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        336.92950439453125,
+        519.973388671875,
+        351.3725280761719
+      ],
+      "text": "detailed with practical guidance on their use in the operational handbook on the management",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        348.92950439453125,
+        504.3580322265625,
+        363.3725280761719
+      ],
+      "text": "of tuberculosis in children and adolescents.  National TB and other health programmes are  25",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        360.92950439453125,
+        330.34429931640625,
+        375.3725280761719
+      ],
+      "text": "encouraged to use these evidence-based algorithms.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        377.1815185546875,
+        513.8981323242188,
+        391.6245422363281
+      ],
+      "text": "•\tThis interim recommendation will remain valid for a period of 24 months after the publication",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        83.66929626464844,
+        389.1815185546875,
+        369.4888610839844,
+        403.6245422363281
+      ],
+      "text": "of these guidelines, after which new evidence will be reviewed.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        431.89990234375,
+        299.37646484375,
+        452.7799072265625
+      ],
+      "text": "4.2.1. Justification and evidence",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        458.9837951660156,
+        527.0974731445312,
+        473.42681884765625
+      ],
+      "text": "TB diagnosis in children relies on a thorough assessment of all evidence derived from a careful history",
+      "font": "SegoeUI-Light",
+      "size": 10.982285499572754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        472.1838073730469,
+        527.4312133789062,
+        486.6268310546875
+      ],
+      "text": "of exposure, clinical examination and relevant investigations. While various algorithms and scoring",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        485.3838195800781,
+        527.4431762695312,
+        499.82684326171875
+      ],
+      "text": "systems for TB diagnosis in children exist, these have not been systematically evaluated. There is a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        498.58380126953125,
+        527.433349609375,
+        513.0267944335938
+      ],
+      "text": "need for evidence-based, practical treatment decision algorithm(s), ideally for different settings with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        511.7838134765625,
+        268.1094970703125,
+        526.226806640625
+      ],
+      "text": "varying access to diagnostic tests and CXR.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.3118286132812,
+        527.429443359375,
+        547.9307861328125
+      ],
+      "text": "PICO question:  In children aged below 10 years with presumptive pulmonary TB attending health",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        546.6878051757812,
+        527.4201049804688,
+        561.1307983398438
+      ],
+      "text": "care facilities, should integrated treatment-decision algorithms be used to diagnose pulmonary TB,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        559.8878173828125,
+        368.57781982421875,
+        574.330810546875
+      ],
+      "text": "compared to a microbiological or composite reference standard?",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        581.4157104492188,
+        527.4418334960938,
+        596.03466796875
+      ],
+      "text": "Evidence:  To address the need for evaluating and developing evidence-based, integrated treatment",
+      "font": "SegoeUI-SemiboldItalic",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        594.7916870117188,
+        527.1669921875,
+        609.2346801757812
+      ],
+      "text": "decision algorithm(s), ideally for different settings with varying access to diagnostic tests and CXR, an",
+      "font": "SegoeUI-Light",
+      "size": 10.996299743652344,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        607.99169921875,
+        527.096923828125,
+        622.4346923828125
+      ],
+      "text": "individual participant dataset (IPD) meta-analysis was conducted. For this analysis, an IPD meta-cohort",
+      "font": "SegoeUI-Light",
+      "size": 10.96263599395752,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        621.1917114257812,
+        527.4112548828125,
+        635.6347045898438
+      ],
+      "text": "was developed, consisting of diagnostic evaluations data from children aged below 10 years, to infer",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        634.3917236328125,
+        527.5712280273438,
+        648.834716796875
+      ],
+      "text": "the sensitivity and specificity of treatment-decision algorithms (or scores) in identifying pulmonary TB,",
+      "font": "SegoeUI-Light",
+      "size": 10.98378849029541,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        644.7976684570312,
+        527.4072875976562,
+        662.03466796875
+      ],
+      "text": "(31) using the updated clinical case definitions for the classification of intrathoracic TB among children  .",
+      "font": "SegoeUI-LightItalic",
+      "size": 10.973868370056152,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        660.7916870117188,
+        527.4376831054688,
+        675.2346801757812
+      ],
+      "text": "Data were requested from investigators in February 2021. Data for the IPD was sourced from several",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        673.99169921875,
+        527.0429077148438,
+        688.4346923828125
+      ],
+      "text": "studies carried out within a geographically diverse set of TB high-burden countries. Algorithm sensitivity",
+      "font": "SegoeUI-Light",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        684.397705078125,
+        527.420654296875,
+        701.6347045898438
+      ],
+      "text": "(32) and specificity in classifying TB was evaluated against the Union Desk Guide Algorithm  , which",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        727.8370361328125,
+        526.5894165039062,
+        741.541015625
+      ],
+      "text": "Definitions and reporting framework for tuberculosis – 2013 revision (updated December 2014 and January 2020). Geneva: World  24",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        740.6370239257812,
+        171.3549041748047,
+        751.1409912109375
+      ],
+      "text": "Health Organization; 2013.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        749.871826171875,
+        524.3977661132812,
+        763.5758056640625
+      ],
+      "text": "WHO operational handbook on tuberculosis. Module 5: management of tuberculosis in children and adolescents (https://apps.who. 25",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6718139648438,
+        303.1755065917969,
+        773.17578125
+      ],
+      "text": "int/iris/bitstream/handle/10665/352523/9789240046832-eng.pdf).",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        41.23320007324219,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "22 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        170.06539916992188,
+        801.0170288085938,
+        450.3536071777344,
+        811.52099609375
+      ],
+      "text": "on tuberculosis, Module 5: Management of tuberculosis in children and adolescents",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

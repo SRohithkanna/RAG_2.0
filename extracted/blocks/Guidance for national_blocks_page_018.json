@@ -1,0 +1,498 @@
+{
+  "file": "Guidance for national",
+  "page": 18,
+  "blocks": [
+    {
+      "bbox": [
+        231.10589599609375,
+        21.884788513183594,
+        277.722412109375,
+        32.93328857421875
+      ],
+      "text": "Guidance for",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        277.722412109375,
+        21.884788513183594,
+        349.1717834472656,
+        32.93328857421875
+      ],
+      "text": "national tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        351.4517822265625,
+        21.884788513183594,
+        407.7772216796875,
+        32.93328857421875
+      ],
+      "text": "programmes on",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        407.7772216796875,
+        21.884788513183594,
+        518.984130859375,
+        32.93328857421875
+      ],
+      "text": "the management of tuberculosis",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        518.984130859375,
+        21.884788513183594,
+        557.1551513671875,
+        32.93328857421875
+      ],
+      "text": "in children",
+      "font": "FrutigerLTStd-LightCn",
+      "size": 9.5,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        82.81961059570312,
+        416.85137939453125,
+        97.03961181640625
+      ],
+      "text": "contact identification and prioritization (contact screening)",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        105.5631103515625,
+        513.44677734375,
+        118.91461181640625
+      ],
+      "text": "A systematic process for identifying contacts who have, or are at increased risk",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        121.55963134765625,
+        513.41259765625,
+        134.9111328125
+      ],
+      "text": "of developing, TB. For the purposes of this guidance, the definition of contact",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        137.55615234375,
+        513.4238891601562,
+        150.90765380859375
+      ],
+      "text": "identification and prioritization includes an interview with the index case to obtain",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        153.55267333984375,
+        513.4468994140625,
+        166.9041748046875
+      ],
+      "text": "the names and ages of contacts and an assessment of contacts’ risk for having",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        169.5491943359375,
+        513.4585571289062,
+        182.90069580078125
+      ],
+      "text": "(generally based on the presence of symptoms compatible with TB) or developing",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        185.54571533203125,
+        420.6534729003906,
+        198.897216796875
+      ],
+      "text": "TB, to determine those for whom clinical evaluation is indicated.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        210.21963500976562,
+        207.05538940429688,
+        224.43963623046875
+      ],
+      "text": "contact investigation",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        232.963134765625,
+        513.401123046875,
+        246.31463623046875
+      ],
+      "text": "A systematic process intended to identify previously undiagnosed cases of TB among",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        248.95965576171875,
+        513.4125366210938,
+        262.3111572265625
+      ],
+      "text": "the contacts of an index case. In some settings, the goal also includes testing for",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        264.9561767578125,
+        513.4240112304688,
+        278.30767822265625
+      ],
+      "text": "latent TB infection to identify possible candidates for preventive treatment. Contact",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        280.95269775390625,
+        513.41259765625,
+        294.30419921875
+      ],
+      "text": "investigation consists of two components - identification and prioritization, and",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        296.94921875,
+        195.72488403320312,
+        310.30072021484375
+      ],
+      "text": "clinical evaluation.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        321.6195068359375,
+        192.36740112304688,
+        335.8395080566406
+      ],
+      "text": "household contact",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        344.3630065917969,
+        513.4699096679688,
+        357.7145080566406
+      ],
+      "text": "A person who shared the same enclosed living space as the index case for one",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        360.3594970703125,
+        513.447021484375,
+        373.71099853515625
+      ],
+      "text": "or more nights or for frequent or extended daytime periods during the 3 months",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        376.3559875488281,
+        352.18218994140625,
+        389.7074890136719
+      ],
+      "text": "before the start of the current treatment episode. 1",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        401.0195007324219,
+        230.40737915039062,
+        415.239501953125
+      ],
+      "text": "index case (index patient)",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        423.76300048828125,
+        513.3662719726562,
+        437.114501953125
+      ],
+      "text": "The initially identified case of new or recurrent TB, in a person of any age, in a",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        439.7594909667969,
+        513.4124145507812,
+        453.1109924316406
+      ],
+      "text": "specific household or other comparable setting in which others may have been",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        455.7559814453125,
+        513.4700317382812,
+        469.10748291015625
+      ],
+      "text": "exposed. An index case is the case around which a contact investigation is centred",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        471.7524719238281,
+        295.8553161621094,
+        485.1039733886719
+      ],
+      "text": "(but is not necessarily the source case).",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03720092773438,
+        496.4234924316406,
+        119.04519653320312,
+        510.64349365234375
+      ],
+      "text": "infant",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        519.1630249023438,
+        243.0474090576172,
+        532.5145263671875
+      ],
+      "text": "A child under 1 year of age.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03939819335938,
+        543.819580078125,
+        135.04339599609375,
+        558.03955078125
+      ],
+      "text": "infection",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        566.4940795898438,
+        513.4699096679688,
+        579.91455078125
+      ],
+      "text": "Mycobacterium tuberculosis Infection with   may occur following exposure to a TB",
+      "font": "FrutigerLTStd-LightItali",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        582.5595092773438,
+        513.4124145507812,
+        595.9110107421875
+      ],
+      "text": "case and means that the person carries the bacteria inside the body. Many people",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        598.5560302734375,
+        513.4010620117188,
+        611.9075317382812
+      ],
+      "text": "have TB infection and remain well, while others develop disease. When infection",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        614.5525512695312,
+        513.4472045898438,
+        627.904052734375
+      ],
+      "text": "has occurred but the infected individual is showing no signs or symptoms of disease",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        630.5490112304688,
+        513.3780517578125,
+        643.9005126953125
+      ],
+      "text": "from the standpoint of clinical recognition or diagnostic detection, the term “latent”",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        106.28939819335938,
+        646.5455322265625,
+        275.212890625,
+        659.8970336914062
+      ],
+      "text": "TB infection, or LTBI, is often used.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        671.2196655273438,
+        209.935302734375,
+        685.4396362304688
+      ],
+      "text": "newborn (or neonate)",
+      "font": "FrutigerLTStd-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        106.28929901123047,
+        693.963134765625,
+        262.873291015625,
+        707.3146362304688
+      ],
+      "text": "An infant under 28 days of age.",
+      "font": "FrutigerLTStd-Light",
+      "size": 11.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.74800109863281,
+        770.8731079101562,
+        513.189208984375,
+        782.8731079101562
+      ],
+      "text": "Definitions of “household” vary depending on the context; this is discussed in the 2012 WHO guideline Recommendations  1",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        99.92520141601562,
+        780.4730834960938,
+        472.581298828125,
+        792.4730834960938
+      ],
+      "text": "for investigating contacts of persons with infectious tuberculosis in low- and middle-income countries (2012).",
+      "font": "HelveticaNeue-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        556.6240234375,
+        805.8439331054688,
+        582.904052734375,
+        835.8439331054688
+      ],
+      "text": "xvii",
+      "font": "HelveticaNeue-Light",
+      "size": 20.0,
+      "type": "heading_main"
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "file": "module4",
+  "page": 179,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        105.94963836669922,
+        382.34124755859375,
+        147.5496368408203
+      ],
+      "text": "References (Chapter 2)",
+      "font": "SegoeUI",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        182.76263427734375,
+        336.7176208496094,
+        195.89263916015625
+      ],
+      "text": "1.\t The End TB Strategy. Geneva: World Health Organization; 2015 (",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        336.543212890625,
+        182.76263427734375,
+        527.2656860351562,
+        195.89263916015625
+      ],
+      "text": "https://www.who.int/teams/global-tuberculosis-",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        196.76263427734375,
+        226.28579711914062,
+        209.89263916015625
+      ],
+      "text": "programme/the-end-tb-strategy",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        226.28700256347656,
+        196.76263427734375,
+        231.32701110839844,
+        209.89263916015625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        215.01458740234375,
+        527.1431884765625,
+        228.14459228515625
+      ],
+      "text": "2.\t WHO consolidated guidelines on drug resistant tuberculosis treatment. Geneva: World Health Organization;",
+      "font": "SegoeUI-Light",
+      "size": 9.964336395263672,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        229.01458740234375,
+        113.44609069824219,
+        242.14459228515625
+      ],
+      "text": "2019",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        114.41899871826172,
+        229.01458740234375,
+        464.8498229980469,
+        242.14459228515625
+      ],
+      "text": "(https://apps.who.int/iris/bitstream/handle/10665/311389/9789241550529-eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        466.0978088378906,
+        229.01458740234375,
+        527.1387329101562,
+        242.14459228515625
+      ],
+      "text": "). Licence: CC",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        243.01458740234375,
+        168.83409118652344,
+        256.14459228515625
+      ],
+      "text": "BY-NC-SA 3.0 IGO.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        261.26654052734375,
+        527.322998046875,
+        274.39654541015625
+      ],
+      "text": "3.\t WHO consolidated guidelines on tuberculosis. Module 4: Treatment – tuberculosis care and support.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        275.26654052734375,
+        279.398193359375,
+        288.39654541015625
+      ],
+      "text": "Geneva: World Health Organization; 2022 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        279.5043029785156,
+        275.26654052734375,
+        519.1564331054688,
+        288.39654541015625
+      ],
+      "text": "https://www.who.int/publications/i/item/9789240047716",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.2615966796875,
+        275.26654052734375,
+        527.1475830078125,
+        288.39654541015625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        289.26654052734375,
+        219.5030975341797,
+        302.39654541015625
+      ],
+      "text": "Licence: CC BY-NC-SA 3.0 IGO.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        307.51849365234375,
+        527.1550903320312,
+        320.64849853515625
+      ],
+      "text": "4.\t Key updates to the treatment of drug-resistant tuberculosis: rapid communication, June 2024. Geneva:",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        321.5185241699219,
+        235.32400512695312,
+        334.6485290527344
+      ],
+      "text": "World Health Organization; 2024 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        235.32620239257812,
+        321.5185241699219,
+        405.46649169921875,
+        334.6485290527344
+      ],
+      "text": "https://iris.who.int/handle/10665/378472",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        405.4678039550781,
+        321.5185241699219,
+        527.1497192382812,
+        334.6485290527344
+      ],
+      "text": "). Licence: CC BY-NC-SA 3.0",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        335.5185241699219,
+        107.96009826660156,
+        348.6485290527344
+      ],
+      "text": "IGO.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        353.7705078125,
+        410.7167053222656,
+        366.9005126953125
+      ],
+      "text": "5.\t Global tuberculosis report 2024. Geneva: World Health Organization; 2024 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        410.6769104003906,
+        353.7705078125,
+        524.44091796875,
+        366.9005126953125
+      ],
+      "text": "https://www.who.int/teams/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        367.7705078125,
+        394.1148681640625,
+        380.9005126953125
+      ],
+      "text": "global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2024",
+      "font": "SegoeUI-Light",
+      "size": 9.96834945678711,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        393.98480224609375,
+        367.7705078125,
+        524.43408203125,
+        380.9005126953125
+      ],
+      "text": "). Licence: CC BY-NC-SA 3.0 IGO.",
+      "font": "SegoeUI-Light",
+      "size": 9.96834945678711,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        386.02239990234375,
+        495.0635986328125,
+        399.15240478515625
+      ],
+      "text": "6.\t Global tuberculosis report 2019 (WHO/CDS/TB/2019.15). Geneva: World Health Organization; 2019 (",
+      "font": "SegoeUI-Light",
+      "size": 9.954697608947754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        494.9914855957031,
+        386.02239990234375,
+        524.5289916992188,
+        399.15240478515625
+      ],
+      "text": "https://",
+      "font": "SegoeUI-Light",
+      "size": 9.954697608947754,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        400.02239990234375,
+        285.2008972167969,
+        413.15240478515625
+      ],
+      "text": "www.who.int/tb/publications/global_report/en/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        285.2030029296875,
+        400.02239990234375,
+        290.2430114746094,
+        413.15240478515625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        418.2744140625,
+        526.9093627929688,
+        431.4044189453125
+      ],
+      "text": "7.\t Companion handbook to the WHO guidelines for the programmatic management of drug-resistant",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        432.2744140625,
+        437.6162109375,
+        445.4044189453125
+      ],
+      "text": "tuberculosis (WHO/HTM/TB/2014.11). Geneva: World Health Organization; 2014 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        437.6300964355469,
+        432.2744140625,
+        524.360107421875,
+        445.4044189453125
+      ],
+      "text": "https://apps.who.int/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        446.2744140625,
+        346.5519104003906,
+        459.4044189453125
+      ],
+      "text": "iris/bitstream/handle/10665/130918/9789241548809_eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        347.6004943847656,
+        446.2744140625,
+        352.6405029296875,
+        459.4044189453125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        464.5263977050781,
+        527.0791015625,
+        477.6564025878906
+      ],
+      "text": "8.\t WHO operational handbook on tuberculosis. Module 4: Treatment – drug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        478.5263977050781,
+        379.0702209472656,
+        491.6564025878906
+      ],
+      "text": "treatment, 2022 update. Geneva: World Health Organization; 2022 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        379.072509765625,
+        478.5263977050781,
+        524.390380859375,
+        491.6564025878906
+      ],
+      "text": "https://www.who.int/publications/i/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        492.5263977050781,
+        178.78070068359375,
+        505.6564025878906
+      ],
+      "text": "item/9789240065116",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        178.7821044921875,
+        492.5263977050781,
+        316.2021484375,
+        505.6564025878906
+      ],
+      "text": "). Licence: CC BY-NC-SA 3.0 IGO.",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        510.7783203125,
+        526.9161376953125,
+        523.9083251953125
+      ],
+      "text": "9.\t Guidelines for the management of drug-resistant tuberculosis (WHO/TB/96.210 Rev.1). Geneva: World",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        524.7783203125,
+        206.04611206054688,
+        537.9083251953125
+      ],
+      "text": "Health Organization; 1997",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        207.02999877929688,
+        524.7783203125,
+        524.3999633789062,
+        537.9083251953125
+      ],
+      "text": "(https://apps.who.int/iris/bitstream/handle/10665/63465/WHO_TB_96.210_",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        538.7783203125,
+        133.2281036376953,
+        551.9083251953125
+      ],
+      "text": "(Rev.1).pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        134.28500366210938,
+        538.7783203125,
+        139.32501220703125,
+        551.9083251953125
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        557.0303344726562,
+        527.34765625,
+        570.1603393554688
+      ],
+      "text": "10.\t Guidelines for establishing DOTS-Plus pilot projects for the management of multidrug-resistant tuberculosis",
+      "font": "SegoeUI-Light",
+      "size": 9.973916053771973,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        571.0303344726562,
+        443.8994140625,
+        584.1603393554688
+      ],
+      "text": "(MDR-TB) (WHO/CDS/TB/2000.279). Geneva: World Health Organization; 2000 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        444.0303039550781,
+        571.0303344726562,
+        524.4202880859375,
+        584.1603393554688
+      ],
+      "text": "https://iris.who.int/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        585.0303344726562,
+        361.9770202636719,
+        598.1603393554688
+      ],
+      "text": "bitstream/handle/10665/66368/WHO_CDS_TB_2000.279_eng.pdf",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        363.0692138671875,
+        585.0303344726562,
+        368.1092224121094,
+        598.1603393554688
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        603.2822875976562,
+        527.1281127929688,
+        616.4122924804688
+      ],
+      "text": "11.\t Guidelines for the programmatic management of drug-resistant tuberculosis (WHO/HTM/TB/2006.361).",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        617.2822875976562,
+        269.53179931640625,
+        630.4122924804688
+      ],
+      "text": "Geneva: World Health Organization; 2006 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        269.5340881347656,
+        617.2822875976562,
+        463.36077880859375,
+        630.4122924804688
+      ],
+      "text": "https://apps.who.int/iris/handle/10665/246249",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        463.3622131347656,
+        617.2822875976562,
+        468.4022216796875,
+        630.4122924804688
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        635.5342407226562,
+        527.2228393554688,
+        648.6642456054688
+      ],
+      "text": "12.\t Guidelines for the programmatic management of drug-resistant tuberculosis – emergency update",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        649.5342407226562,
+        416.30120849609375,
+        662.6642456054688
+      ],
+      "text": "(WHO/HTM/TB/2008.402). Geneva: World Health Organization; 2008 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        416.55780029296875,
+        649.5342407226562,
+        524.3629150390625,
+        662.6642456054688
+      ],
+      "text": "https://apps.who.int/iris/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        663.5342407226562,
+        177.0472869873047,
+        676.6642456054688
+      ],
+      "text": "handle/10665/43965",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0487060546875,
+        663.5342407226562,
+        182.08871459960938,
+        676.6642456054688
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        681.7861938476562,
+        527.186767578125,
+        694.9161987304688
+      ],
+      "text": "13.\t Guidelines for the programmatic management of drug-resistant tuberculosis, 2011 update (WHO/HTM/TB/",
+      "font": "SegoeUI-Light",
+      "size": 9.971108436584473,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        695.7861938476562,
+        293.9210205078125,
+        708.9161987304688
+      ],
+      "text": "2011.6). Geneva: World Health Organization; 2011 (",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        293.8066101074219,
+        695.7861938476562,
+        519.6478881835938,
+        708.9161987304688
+      ],
+      "text": "https://www.who.int/publications/i/item/9789241501583",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.5325927734375,
+        695.7861938476562,
+        524.4033813476562,
+        708.9161987304688
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 9.949873924255371,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        714.0382080078125,
+        524.5911254882812,
+        727.168212890625
+      ],
+      "text": "14.\t The use of bedaquiline in the treatment of multidrug-resistant tuberculosis. Interim policy guidance (WHO/",
+      "font": "SegoeUI-Light",
+      "size": 9.98589038848877,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        728.0382080078125,
+        335.2354431152344,
+        741.168212890625
+      ],
+      "text": "HTM/TB/2013.6). Geneva: World Health Organization; 2013 (",
+      "font": "SegoeUI-Light",
+      "size": 9.96012020111084,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        335.1723937988281,
+        728.0382080078125,
+        519.5350341796875,
+        741.168212890625
+      ],
+      "text": "https://apps.who.int/iris/handle/10665/84879",
+      "font": "SegoeUI-Light",
+      "size": 9.96012020111084,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        519.4708862304688,
+        728.0382080078125,
+        524.4072875976562,
+        741.168212890625
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 9.96012020111084,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        746.2901000976562,
+        524.39892578125,
+        759.4201049804688
+      ],
+      "text": "15.\t The use of delamanid in the treatment of multidrug-resistant tuberculosis. Interim policy guidance (WHO/",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        89.86609649658203,
+        760.2901000976562,
+        344.86871337890625,
+        773.4201049804688
+      ],
+      "text": "HTM/TB2014.23). Geneva: World Health Organization; 2014 (",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        344.87091064453125,
+        760.2901000976562,
+        514.9708251953125,
+        773.4201049804688
+      ],
+      "text": "https://iris.who.int/handle/10665/137334",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        515.0125732421875,
+        760.2901000976562,
+        520.0525512695312,
+        773.4201049804688
+      ],
+      "text": ").",
+      "font": "SegoeUI-Light",
+      "size": 10.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        543.7396240234375,
+        801.0170288085938,
+        556.099609375,
+        811.52099609375
+      ],
+      "text": "165",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

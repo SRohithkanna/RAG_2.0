@@ -1,0 +1,522 @@
+{
+  "file": "module3",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        111.939697265625,
+        340.1429443359375,
+        150.1796875
+      ],
+      "text": "Executive summary",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 32.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        187.1798095703125,
+        526.9020385742188,
+        200.32481384277344
+      ],
+      "text": "It is estimated that about a quarter of the world’s population is infected with  Mycobacterium",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        202.6798095703125,
+        526.9819946289062,
+        215.82481384277344
+      ],
+      "text": "– the bacterium that causes tuberculosis (TB) disease. Testing for TB infection can  tuberculosis",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        218.1798095703125,
+        526.9415283203125,
+        231.32481384277344
+      ],
+      "text": "identify individuals who would benefit the most from TB preventive treatment (TPT). However,",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        233.6798095703125,
+        527.3240356445312,
+        246.82481384277344
+      ],
+      "text": "despite the availability of preventive measures and disease treatment, TB remains a leading cause",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.926152229309082,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        249.1798095703125,
+        527.2384033203125,
+        262.3248291015625
+      ],
+      "text": "of death due to a single infectious agent. TB has probably replaced coronavirus disease (COVID-19)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.895251274108887,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        264.6798095703125,
+        524.4094848632812,
+        277.8248291015625
+      ],
+      "text": "as the leading cause of death worldwide for the first time since the start of the global pandemic .  (1)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.890000343322754,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        285.84912109375,
+        524.4144897460938,
+        298.994140625
+      ],
+      "text": "In recognition of the need to end TB globally, the United Nations (UN) held the world’s first high-",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        301.34912109375,
+        527.151123046875,
+        314.494140625
+      ],
+      "text": "level meeting on TB in 2018. The political declaration from the meeting included commitments",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.974821090698242,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        316.84912109375,
+        526.8425903320312,
+        329.994140625
+      ],
+      "text": "by Member States to achieving four new global targets  , which were subsequently renewed  (2)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.987142562866211,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        332.34912109375,
+        526.9590454101562,
+        345.494140625
+      ],
+      "text": "at the second UN high-level meeting in 2023. The commitments included two that relied on",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        347.84912109375,
+        527.0250854492188,
+        360.994140625
+      ],
+      "text": "diagnosis of TB infection and disease: providing TPT to at least 45 million people between",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        363.34912109375,
+        527.0086669921875,
+        376.494140625
+      ],
+      "text": "2024 and 2027, and reaching 90% of the estimated number of people who develop TB with",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        378.84912109375,
+        526.9510498046875,
+        391.994140625
+      ],
+      "text": "quality-assured diagnosis and treatment from 2023 to 2027  . These commitments align  (2)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        394.34912109375,
+        526.9656372070312,
+        407.494140625
+      ],
+      "text": "with the World Health Organization’s (WHO’s) End TB Strategy, which calls for the detection",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        409.84912109375,
+        526.9039916992188,
+        422.994140625
+      ],
+      "text": "of individuals living with TB infection who are at higher risk of progression to active TB so that",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        425.34912109375,
+        526.989990234375,
+        438.494140625
+      ],
+      "text": "they can receive TPT, as well as the early diagnosis of TB and drug-resistant TB (DR-TB) through",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.99174690246582,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        440.84912109375,
+        526.9479370117188,
+        453.994140625
+      ],
+      "text": "universal drug susceptibility testing (DST). These global commitments and plans highlight the",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        456.34912109375,
+        526.9259033203125,
+        469.494140625
+      ],
+      "text": "critical role of TB testing for the rapid and accurate detection of TB infection, disease and drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        471.84912109375,
+        137.76690673828125,
+        484.994140625
+      ],
+      "text": "resistance  . (3)",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        491.5184020996094,
+        526.9642944335938,
+        504.6634216308594
+      ],
+      "text": "To support countries in their efforts to strengthen detection of TB infection, disease and drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        505.5184326171875,
+        527.1626586914062,
+        518.6634521484375
+      ],
+      "text": "resistance, the WHO Global TB Programme issues evidence-based policy guidance on TB",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        519.5184326171875,
+        527.0140380859375,
+        532.6634521484375
+      ],
+      "text": "testing strategies and technologies; this guidance is routinely updated. Since the most recent",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        533.5184326171875,
+        369.3464660644531,
+        546.6634521484375
+      ],
+      "text": "consolidated guidelines on TB diagnosis were issued in 2024:",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        554.6876220703125,
+        78.70909881591797,
+        567.8326416015625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.70909881591797,
+        554.6876220703125,
+        526.7994995117188,
+        567.8326416015625
+      ],
+      "text": "new evidence has become available on the use of WHO-recommended rapid diagnostic tests",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.993297576904297,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        570.1876220703125,
+        527.0858764648438,
+        583.3326416015625
+      ],
+      "text": "(WRDs) for the initial detection of TB and resistance to rifampicin among populations that are",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.988393783569336,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        585.6876220703125,
+        524.44482421875,
+        598.8326416015625
+      ],
+      "text": "at increased risk of TB-related morbidity and mortality (e.g. people living with HIV and children);",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.94486141204834,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        601.1876220703125,
+        78.81909942626953,
+        614.3326416015625
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        601.1876220703125,
+        526.7676391601562,
+        614.3326416015625
+      ],
+      "text": "a systematic assessment of evidence on molecular WRDs (mWRDs) previously recommended",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95455551147461,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        616.6876220703125,
+        527.2412719726562,
+        629.8326416015625
+      ],
+      "text": "as individual products was completed to determine the placement of mWRDs within existing",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.950438499450684,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        632.187744140625,
+        325.96124267578125,
+        645.332763671875
+      ],
+      "text": "or new classes of TB diagnostic technologies; and",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        647.687744140625,
+        78.81909942626953,
+        660.832763671875
+      ],
+      "text": "•",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        78.81909942626953,
+        647.687744140625,
+        527.0081176757812,
+        660.832763671875
+      ],
+      "text": "a call from countries was received to combine the policy guidance on TB infection, disease",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        663.187744140625,
+        526.98876953125,
+        676.332763671875
+      ],
+      "text": "and drug-resistance testing into these consolidated guidelines on TB diagnosis, to streamline",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.95269775390625,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        85.03929901123047,
+        678.687744140625,
+        325.23193359375,
+        691.832763671875
+      ],
+      "text": "implementation of national testing programmes.",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.5261840820312,
+        527.01318359375,
+        718.6712036132812
+      ],
+      "text": "In response, this document is being issued as the fourth edition of the consolidated guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.996048927307129,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        721.0261840820312,
+        527.0803833007812,
+        734.1712036132812
+      ],
+      "text": "on TB diagnosis. When compared with the third edition (issued in 2024), this guideline is",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        736.5261840820312,
+        526.9645385742188,
+        749.6712036132812
+      ],
+      "text": "the first to combine the WHO policy guidance on diagnosis of TB infection, disease and drug",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        752.0261840820312,
+        526.5038452148438,
+        765.1712036132812
+      ],
+      "text": "resistance into a single reference document; also, it establishes two new classes of TB diagnostic",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 10.956262588500977,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        43.43040084838867,
+        802.0169067382812,
+        138.45811462402344,
+        811.576904296875
+      ],
+      "text": "x WHO consolidated",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        138.4571075439453,
+        802.0169067382812,
+        177.0811309814453,
+        811.576904296875
+      ],
+      "text": "guidelines",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        177.0803985595703,
+        802.0169067382812,
+        288.38323974609375,
+        811.576904296875
+      ],
+      "text": "on tuberculosis: Fourth edition",
+      "font": "FrutigerNeueLT-Lt",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

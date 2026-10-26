@@ -1,0 +1,48 @@
+{
+  "file": "module4",
+  "page": 405,
+  "table_id": 1,
+  "bbox": [
+    144.56700134277344,
+    251.76093928019205,
+    572.6079711914062,
+    342.7347683376736
+  ],
+  "heading": null,
+  "n_rows": 4,
+  "n_cols": 6,
+  "data": [
+    [
+      "Outcomes",
+      "№ of participants (studies) Follow-up",
+      "Certainty of the evidence (GRADE)",
+      "Relative effect (95% CI)",
+      "Anticipated absolute effects* (95% CI)",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Risk with currently recommended longer WHO regimens",
+      "Risk difference with a 9-month regimen using delamanid, clofazimine, moxifloxacin, and pyrazinamide (DCMZ)"
+    ],
+    [
+      "Sustained Treatment Success 226 RR 1.06 follow-up: 104 weeks (1 RCT) Very lowa,b (0.93 to 1.21)",
+      "",
+      "",
+      "",
+      "Study population",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "773 per 1,000",
+      "49 more per 1,000 (55 fewer to 154 more)"
+    ]
+  ]
+}

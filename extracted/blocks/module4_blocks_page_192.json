@@ -1,0 +1,546 @@
+{
+  "file": "module4",
+  "page": 192,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        311.1451721191406,
+        81.83369445800781
+      ],
+      "text": "2.\t Models of care for people with drug-resistant TB.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        84.84259796142578,
+        446.8764343261719,
+        99.28559875488281
+      ],
+      "text": "3.\t Models of care for children and adolescents exposed to TB or with TB disease.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.54663848876953,
+        527.5213623046875,
+        120.98963928222656
+      ],
+      "text": "Each section starts with the current WHO recommendations for that element. It then gives information",
+      "font": "SegoeUI-Light",
+      "size": 10.96579647064209,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        119.74658966064453,
+        527.61669921875,
+        134.18959045410156
+      ],
+      "text": "on the evidence used to inform the recommendations, summarizes the analyses that were carried out",
+      "font": "SegoeUI-Light",
+      "size": 10.97807788848877,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        132.9466094970703,
+        527.0867309570312,
+        147.3896026611328
+      ],
+      "text": "on the basis of the evidence, and describes considerations for specific subgroups, for monitoring and",
+      "font": "SegoeUI-Light",
+      "size": 10.98924446105957,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        146.14662170410156,
+        527.41015625,
+        160.58961486816406
+      ],
+      "text": "evaluation and for implementation. Research gaps that were identified for each of the sections are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        159.3466339111328,
+        527.390380859375,
+        173.7896270751953
+      ],
+      "text": "presented at the end of the document; annexes provide more details on the methods, the Guideline",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        172.54652404785156,
+        527.4265747070312,
+        186.98951721191406
+      ],
+      "text": "Development Groups (GDGs), the reports of systematic reviews and data analyses, evidence profiles,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        185.7465362548828,
+        527.0695190429688,
+        200.1895294189453
+      ],
+      "text": "unpublished data and statistical analysis plans. Each section reflects discussions held at GDG meetings.",
+      "font": "SegoeUI-Light",
+      "size": 10.968905448913574,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        198.94654846191406,
+        527.4379272460938,
+        213.38954162597656
+      ],
+      "text": "Additional information on implementation of patient care interventions is presented in the relevant",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        210.87049865722656,
+        527.4259643554688,
+        226.58949279785156
+      ],
+      "text": "WHO consolidated operational handbook on tuberculosis. Module 4: Treatment and  chapter of the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        224.0706329345703,
+        449.5103759765625,
+        239.7896270751953
+      ],
+      "text": "care  which is, a separate document that is designed to aid implementation efforts.",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        253.77783203125,
+        524.939453125,
+        278.5728454589844
+      ],
+      "text": "Summary of WHO recommendations on TB care and",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        276.57769775390625,
+        138.2552947998047,
+        301.3727111816406
+      ],
+      "text": "support",
+      "font": "SegoeUI-SemiBold",
+      "size": 19.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        306.82373046875,
+        352.64105224609375,
+        321.2667541503906
+      ],
+      "text": "The recommendations on TB care and support are as follows:",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        334.6169128417969,
+        470.9781799316406,
+        355.4969177246094
+      ],
+      "text": "1. Care and support interventions for all people with TB",
+      "font": "SegoeUI-SemiBold",
+      "size": 16.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        367.20233154296875,
+        196.92959594726562,
+        381.55731201171875
+      ],
+      "text": "No. Recommendation",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        388.3169250488281,
+        519.6838989257812,
+        402.6719055175781
+      ],
+      "text": "1.1 Health education and counselling on the disease and treatment adherence should",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        400.3169250488281,
+        496.09234619140625,
+        414.6719055175781
+      ],
+      "text": "be provided to patients on TB treatment (strong recommendation, moderate",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.4623794555664,
+        412.3169250488281,
+        221.15625,
+        426.6719055175781
+      ],
+      "text": "certainty of evidence).",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        433.9315185546875,
+        494.99591064453125,
+        448.2864990234375
+      ],
+      "text": "1.2 A package of treatment adherence intervention  may be offered for patients  62",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        445.9315185546875,
+        475.0910339355469,
+        460.2864990234375
+      ],
+      "text": "on TB treatment in conjunction with the selection of a suitable treatment",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        457.9315185546875,
+        514.7064208984375,
+        472.2864990234375
+      ],
+      "text": "administration option  (conditional recommendation, low certainty of evidence). 63",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.66929626464844,
+        479.5461120605469,
+        519.3067016601562,
+        493.9010925292969
+      ],
+      "text": "1.3 One or more of the following treatment adherence interventions (complementary",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        491.5461120605469,
+        495.5256652832031,
+        505.9010925292969
+      ],
+      "text": "and not mutually exclusive) may be offered to patients on TB treatment or to",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        503.546142578125,
+        217.89561462402344,
+        517.901123046875
+      ],
+      "text": "health-care providers:",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        520.9981079101562,
+        502.1468811035156,
+        535.3530883789062
+      ],
+      "text": "a.\ttracers  or digital medication monitor  (conditional recommendation, very  64 65",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        120.4623794555664,
+        532.9981079101562,
+        253.92974853515625,
+        547.3530883789062
+      ],
+      "text": "low certainty of evidence);",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        108.85040283203125,
+        549.25,
+        519.9149780273438,
+        563.60498046875
+      ],
+      "text": "b.\tmaterial support to patient (conditional recommendation, moderate certainty  66",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        120.4623794555664,
+        561.25,
+        186.17088317871094,
+        575.60498046875
+      ],
+      "text": "of evidence);",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        642.53271484375,
+        526.7597045898438,
+        656.2366943359375
+      ],
+      "text": "Treatment adherence interventions include social support such as: patient education and counselling; material support (e.g. food,  62",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        655.3327026367188,
+        526.6198120117188,
+        665.836669921875
+      ],
+      "text": "financial incentive and transport fees); psychological support; tracers such as home visits or digital health communications (e.g. SMS,",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        664.9327392578125,
+        526.6056518554688,
+        675.4367065429688
+      ],
+      "text": "telephone calls); medication monitor; and staff education. The interventions should be selected on the basis of the assessment of the",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        674.53271484375,
+        354.87420654296875,
+        685.0366821289062
+      ],
+      "text": "individual patient’s needs, provider’s resources and conditions for implementation.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        683.7675170898438,
+        526.5927124023438,
+        697.4714965820312
+      ],
+      "text": "Suitable treatment administration options include various forms of treatment support, such as video-supported treatment and regular  63",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        696.5674438476562,
+        238.24851989746094,
+        707.0714111328125
+      ],
+      "text": "community or home-based treatment support.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        705.80224609375,
+        429.22149658203125,
+        719.5062255859375
+      ],
+      "text": "Tracers refer to communication with the patient including via SMS, telephone (voice) calls, or home visit.  64",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        718.2369995117188,
+        526.7692260742188,
+        731.94091796875
+      ],
+      "text": "A digital medication monitor is a device that can measure the time between openings of the pill box. The medication monitor may have  65",
+      "font": "SegoeUI-Light",
+      "size": 7.994548320770264,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        731.0369262695312,
+        487.0791320800781,
+        741.5408935546875
+      ],
+      "text": "audio reminders or send an SMS to remind patient to take medications, along with recording when the pill box is opened.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        740.271728515625,
+        526.6103515625,
+        753.9757080078125
+      ],
+      "text": "Material support can be food or financial support such as: meals, food baskets, food supplements, food vouchers, transport subsidies,  66",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        753.0717163085938,
+        526.6097412109375,
+        763.57568359375
+      ],
+      "text": "living allowance, housing incentives, or financial bonus. This support addresses indirect costs incurred by patients or their attendants",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.86609649658203,
+        762.6716918945312,
+        467.6470642089844,
+        773.1756591796875
+      ],
+      "text": "in order to access health services and, possibly, tries to mitigate consequences of income loss related to the disease.",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        39.172698974609375,
+        801.0170288085938,
+        136.43409729003906,
+        811.52099609375
+      ],
+      "text": "178 WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        801.0170288085938,
+        170.0604705810547,
+        811.52099609375
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        801.0170288085938,
+        326.14483642578125,
+        811.52099609375
+      ],
+      "text": "on tuberculosis: Module 4: treatment and care",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

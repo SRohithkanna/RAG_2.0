@@ -1,0 +1,630 @@
+{
+  "file": "module2",
+  "page": 14,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.39069366455078,
+        527.6190795898438,
+        81.83369445800781
+      ],
+      "text": "both the screening and triage contexts. Evaluations showed substantial variation in diagnostic accuracy",
+      "font": "SegoeUI-Light",
+      "size": 10.957066535949707,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.41455078125,
+        95.03370666503906
+      ],
+      "text": "across different contexts, implying that the use of CAD will require calibration for the purpose and",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        251.7391357421875,
+        108.23371887207031
+      ],
+      "text": "setting in which it will be implemented.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        115.23063659667969,
+        524.580810546875,
+        129.93763732910156
+      ],
+      "text": "C-reactive protein  (CRP) is an indicator of inflammation that can be measured using point-of-",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        128.69459533691406,
+        527.4509887695312,
+        143.13758850097656
+      ],
+      "text": "care tests performed on capillary blood collected via finger prick. The accuracy of CRP to detect",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        141.8946075439453,
+        527.2545776367188,
+        156.3376007080078
+      ],
+      "text": "bacteriologically confirmed TB in people living with HIV was assessed with a meta-analysis of individual",
+      "font": "SegoeUI-Light",
+      "size": 10.961132049560547,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        155.09474182128906,
+        527.5706787109375,
+        169.53773498535156
+      ],
+      "text": "patient data of people screened in high- and medium-burden settings. CRP was found to have similar",
+      "font": "SegoeUI-Light",
+      "size": 10.97692584991455,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        168.29469299316406,
+        527.42578125,
+        182.73768615722656
+      ],
+      "text": "sensitivity and higher or similar specificity to symptom screening in all subpopulations tested. CRP",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        181.4947052001953,
+        527.3992309570312,
+        195.9376983642578
+      ],
+      "text": "offers a clinically significant improvement in accuracy over the WHO-recommended four-symptom",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        194.69471740722656,
+        527.4112548828125,
+        209.13771057128906
+      ],
+      "text": "screen among ambulant people living with HIV who are newly in care and not yet on antiretroviral",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        207.8946075439453,
+        466.8168029785156,
+        222.3376007080078
+      ],
+      "text": "treatment, a subpopulation for whom the accuracy of the four-symptom screen is low.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86620330810547,
+        229.3346405029297,
+        527.4414672851562,
+        244.04164123535156
+      ],
+      "text": "Molecular WHO-recommended rapid diagnostic tests for TB  (mWRDs; eg Xpert MTB/RIF) were",
+      "font": "SegoeUI-Bold",
+      "size": 10.956865310668945,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        242.79859924316406,
+        527.2520141601562,
+        257.2416076660156
+      ],
+      "text": "reviewed for use as TB screening tools among different populations at high risk of TB. Evidence shows",
+      "font": "SegoeUI-Light",
+      "size": 10.981134414672852,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        255.9987335205078,
+        527.5911254882812,
+        270.4417419433594
+      ],
+      "text": "improved accuracy and effectiveness in people living with HIV and in other high-risk populations. The",
+      "font": "SegoeUI-Light",
+      "size": 10.98373794555664,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        269.1986083984375,
+        527.4498901367188,
+        283.6416320800781
+      ],
+      "text": "evidence is strongest for hospitalized patients with HIV in settings with a high burden of TB, given",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        282.39862060546875,
+        527.4421997070312,
+        296.8416442871094
+      ],
+      "text": "the limited value of symptom screening and the grave consequences of missing the opportunity to",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        295.5986328125,
+        308.75323486328125,
+        310.0416564941406
+      ],
+      "text": "initiate TB treatment promptly in this patient group.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        317.302490234375,
+        527.2868041992188,
+        331.7455139160156
+      ],
+      "text": "Based on these updates, a set of 17 new and revised recommendations for screening for TB",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        215.47149658203125,
+        330.3926086425781,
+        251.28968811035156,
+        344.7475891113281
+      ],
+      "text": "Table 1",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        330.5025939941406,
+        527.4063720703125,
+        344.94561767578125
+      ],
+      "text": "disease have been developed ( ). The main changes from the previous WHO guidance are",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        144.0070037841797,
+        343.592529296875,
+        172.86550903320312,
+        357.947509765625
+      ],
+      "text": "Box 1",
+      "font": "SegoeUI-SemiBold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        343.7025146484375,
+        527.3938598632812,
+        358.1455383300781
+      ],
+      "text": "summarized in  . The new guidelines replace all previous WHO guidance on TB screening.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        354.108642578125,
+        527.4380493164062,
+        371.34564208984375
+      ],
+      "text": "WHO operational  The recommendations are accompanied by updated operational guidance, the",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        367.30859375,
+        527.4171142578125,
+        384.5456237792969
+      ],
+      "text": "handbook on tuberculosis. Module 2: screening – systematic screening for tuberculosis disease , that",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        383.3025207519531,
+        527.4299926757812,
+        397.74554443359375
+      ],
+      "text": "includes further details on target populations and tools to use for systematic screening, including",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        396.5025939941406,
+        370.2894592285156,
+        410.94561767578125
+      ],
+      "text": "revised algorithms and modelled estimates of their performance.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        424.6918029785156,
+        487.8485107421875,
+        439.559814453125
+      ],
+      "text": "Table 1. Recommendations in the  .  WHO consolidated guidelines on tuberculosis",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        439.091796875,
+        447.6957092285156,
+        453.9598083496094
+      ],
+      "text": ", 2021 Module 2: screening – systematic screening for tuberculosis disease",
+      "font": "MyriadPro-Bold",
+      "size": 12.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        77.91929626464844,
+        470.2545166015625,
+        288.5901794433594,
+        484.76348876953125
+      ],
+      "text": "Screening for TB in targeted populations",
+      "font": "SegoeUI-Bold",
+      "size": 11.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        492.77581787109375,
+        513.0473022460938,
+        507.2188415527344
+      ],
+      "text": "1 Systematic screening for TB disease may be conducted among the general population in",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        504.77581787109375,
+        361.9347839355469,
+        519.2188110351562
+      ],
+      "text": "areas with an estimated TB prevalence of 0.5% or higher",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        518.2338256835938,
+        481.2029724121094,
+        535.4708251953125
+      ],
+      "text": "updated recommendation: conditional recommendation, low certainty of evidence). (",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        542.6425170898438,
+        467.2652893066406,
+        557.0855102539062
+      ],
+      "text": "2 Systematic screening for TB disease may be conducted among subpopulations",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        554.6425170898438,
+        486.9553527832031,
+        569.0855102539062
+      ],
+      "text": "with structural risk factors for TB. These include urban poor communities, homeless",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        566.6425170898438,
+        515.631103515625,
+        581.0855102539062
+      ],
+      "text": "communities, communities in remote or isolated areas, indigenous populations, migrants,",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        578.6425170898438,
+        508.8090515136719,
+        593.0855102539062
+      ],
+      "text": "refugees, internally displaced persons and other vulnerable or marginalized groups with",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        590.6425170898438,
+        236.1222381591797,
+        605.0855102539062
+      ],
+      "text": "limited access to health care",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        604.1004028320312,
+        499.5728759765625,
+        621.33740234375
+      ],
+      "text": "existing recommendation: conditional recommendation, very low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        628.509033203125,
+        508.5450134277344,
+        642.9520263671875
+      ],
+      "text": "3 People living with HIV should be systematically screened for TB disease at each visit to a",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        640.509033203125,
+        163.63331604003906,
+        654.9520263671875
+      ],
+      "text": "health facility",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        653.9669799804688,
+        478.7645568847656,
+        671.1489868164062
+      ],
+      "text": "(existing recommendation: strong recommendation, very low certainty of evidence).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        678.3756103515625,
+        497.1908874511719,
+        692.818603515625
+      ],
+      "text": "4 Household contacts and other close contacts of individuals with TB disease should be",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        690.3756103515625,
+        277.38873291015625,
+        704.818603515625
+      ],
+      "text": "systematically screened for TB disease",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        703.8336181640625,
+        488.3472900390625,
+        721.0706176757812
+      ],
+      "text": "updated recommendation: strong recommendation, moderate certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        81.30789947509766,
+        728.2421875,
+        494.62457275390625,
+        742.6851806640625
+      ],
+      "text": "5 Systematic screening for TB disease should be conducted in prisons and penitentiary",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        740.2421875,
+        152.8972930908203,
+        754.6851806640625
+      ],
+      "text": "institutions",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        103.96929931640625,
+        753.7001953125,
+        482.29937744140625,
+        770.9371948242188
+      ],
+      "text": "updated recommendation: strong recommendation, very low certainty of evidence ( ).",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        43.293800354003906,
+        801.0170288085938,
+        47.41379928588867,
+        811.52099609375
+      ],
+      "text": "2",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

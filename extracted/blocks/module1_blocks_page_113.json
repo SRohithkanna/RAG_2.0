@@ -1,0 +1,282 @@
+{
+  "file": "module1",
+  "page": 113,
+  "blocks": [
+    {
+      "bbox": [
+        75.42030334472656,
+        137.2081298828125,
+        774.3773803710938,
+        148.7281951904297
+      ],
+      "text": "High Critical 100 fewer per 1000\n 2 Randomized  Not serious Not serious Not serious Not serious None 1078/1476  1233/1487  RR 0.88",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        148.2081298828125,
+        666.8605346679688,
+        159.72816467285156
+      ],
+      "text": "(from 124  trials (73.0%)  (82.9%)  (0.85 to",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        562.41162109375,
+        159.20809936523438,
+        669.7213745117188,
+        170.72813415527344
+      ],
+      "text": "to 66 fewer) 0.92)",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        174.39910888671875,
+        373.2970275878906,
+        186.0181121826172
+      ],
+      "text": "Treatment completion (assessed with: 80% or more of doses taken by 6 months)",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.42030334472656,
+        189.60787963867188,
+        774.3773193359375,
+        201.12791442871094
+      ],
+      "text": "High Critical 2 Randomized  Not serious Not serious Not serious Not serious None 1092/1460  1248/1468  RR 0.88\n 102 fewer per 1000",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        200.60787963867188,
+        666.8512573242188,
+        212.1278839111328
+      ],
+      "text": "trials (74.8%)  (85.0%)  (0.85 to  (from 128",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        561.9276733398438,
+        211.60784912109375,
+        669.4188232421875,
+        223.1278533935547
+      ],
+      "text": "0.91) to 77 fewer) c",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        226.79879760742188,
+        310.7915344238281,
+        238.4178009033203
+      ],
+      "text": "Emergence of additional fluoroquinolone resistance in TB strains",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.42030334472656,
+        242.0076904296875,
+        777.4840698242188,
+        253.52769470214844
+      ],
+      "text": "2 Randomized  Serious Not serious Serious Serious None In none of 8 strains from index-incident pairs in the VQUIN trial  Very low Important d e f",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        121.22262573242188,
+        253.00765991210938,
+        689.8665771484375,
+        264.52764892578125
+      ],
+      "text": "trials that were tested with whole genome sequencing was additional",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        457.3921813964844,
+        264.00762939453125,
+        678.8007202148438,
+        275.5276184082031
+      ],
+      "text": "resistance to levofloxacin or other antimicrobials detected d",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        60.692901611328125,
+        279.1986083984375,
+        487.64111328125,
+        290.817626953125
+      ],
+      "text": "Emergence of additional fluoroquinolone resistance in microbiome other than TB (e.g. gut flora)  not measured",
+      "font": "Whitney-Semibold",
+      "size": 9.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        75.77580261230469,
+        294.4075012207031,
+        777.484130859375,
+        305.927490234375
+      ],
+      "text": "– – – – – – – – – – – – Important",
+      "font": "Whitney-Book",
+      "size": 9.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        310.6794128417969,
+        489.1253356933594,
+        323.2794189453125
+      ],
+      "text": "We rated down two levels because the confidence intervals include appreciable harm and appreciable benefit: RR 1.26 (0.34 to 4.68) a",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        319.6794128417969,
+        463.12103271484375,
+        332.2794189453125
+      ],
+      "text": "We rated down one level because the confidence intervals include appreciable harm and some benefit. RR 0.53 (0.16 to 1.70) b",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        328.6794128417969,
+        707.0689697265625,
+        341.2794189453125
+      ],
+      "text": "Treatment completion in the levofloxacin arm was 86% in TB CHAMP (placebo arm: 86%) and 70% in VQUIN (placebo arm: 85%) – RRs 1.00 [95% CI 0.95 to 1.06] and 0.83 [0.79 to 0.87] respectively c",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        337.6794128417969,
+        786.9127807617188,
+        350.2794189453125
+      ],
+      "text": "We rated down one level for risk of bias. The results are not from a randomized comparison. In VQUIN, of the 43 persons with suspected TB post-randomization, 17 had a laboratory-confirmed incident TB, in 4 of whom an isolate  d",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        349.6794128417969,
+        786.75146484375,
+        359.2794189453125
+      ],
+      "text": "could not be recovered. Results were only available for 8/13. Of these 6 were in the placebo group and 2 from the LFX arm. In TB CHAMP, 14 individuals in the placebo arm and 7 in the LFX arm developed TB, of which 7 and 3",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        66.61419677734375,
+        358.6794128417969,
+        418.1879577636719,
+        368.2794189453125
+      ],
+      "text": "respectively with confirmed TB. No results for levofloxacin susceptibility were available for the strains isolated.",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        364.6794128417969,
+        477.6285400390625,
+        377.2794189453125
+      ],
+      "text": "We rated down one level for indirectness. Data was only available for VQUIN; all strains were from individuals aged over 15 years. e",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        56.692901611328125,
+        376.6794128417969,
+        363.8518981933594,
+        386.2794189453125
+      ],
+      "text": "We rated down one level for imprecision due to the small number of samples and zero events. f",
+      "font": "Whitney-Book",
+      "size": 7.5,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        392.9866943359375,
+        40.87300109863281,
+        544.2531127929688
+      ],
+      "text": "Annex 3. GRADE summary of evidence tables",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        30.368999481201172,
+        565.64306640625,
+        40.87300109863281,
+        573.8831176757812
+      ],
+      "text": "95",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

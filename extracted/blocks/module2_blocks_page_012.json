@@ -1,0 +1,186 @@
+{
+  "file": "module2",
+  "page": 12,
+  "blocks": [
+    {
+      "bbox": [
+        70.86609649658203,
+        67.12669372558594,
+        527.2984619140625,
+        81.83369445800781
+      ],
+      "text": "Triage : The process of deciding the diagnostic and care pathways for people based on their symptoms,",
+      "font": "SegoeUI-Bold",
+      "size": 10.94486141204834,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        80.59070587158203,
+        527.410400390625,
+        95.03370666503906
+      ],
+      "text": "signs, risk markers and test results. Triaging involves assessing the likelihood of various differential",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        93.79071807861328,
+        527.3914184570312,
+        108.23371887207031
+      ],
+      "text": "diagnoses as a basis for making clinical decisions. It can follow more- or less-standardized protocols",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        106.99073028564453,
+        318.01416015625,
+        121.43373107910156
+      ],
+      "text": "and algorithms, and it may be done in multiple steps.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        128.4305877685547,
+        527.53564453125,
+        143.13758850097656
+      ],
+      "text": "Triage test for TB : A test that can be rapidly conducted among people presenting to a health facility",
+      "font": "SegoeUI-Bold",
+      "size": 10.977025985717773,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        141.8946075439453,
+        527.429931640625,
+        156.3376007080078
+      ],
+      "text": "to differentiate those who should have further diagnostic evaluation for TB from those who should",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        155.09474182128906,
+        309.54718017578125,
+        169.53773498535156
+      ],
+      "text": "undergo further investigation for non-TB diagnoses.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        174.0045928955078,
+        527.4349365234375,
+        191.24159240722656
+      ],
+      "text": "Mycobacterium tuberculosis Tuberculosis disease : The disease state caused by  . It is usually",
+      "font": "SegoeUI-LightItalic",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        189.9987335205078,
+        527.629638671875,
+        204.4417266845703
+      ],
+      "text": "characterized by clinical manifestations, which distinguish it from TB infection without signs or",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        203.19862365722656,
+        501.8880310058594,
+        217.64161682128906
+      ],
+      "text": "symptoms (previously referred to as latent TB infection). Also referred to as active tuberculosis.",
+      "font": "SegoeUI-Light",
+      "size": 11.0,
+      "type": "paragraph"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        796.217041015625,
+        136.43409729003906,
+        806.7210083007812
+      ],
+      "text": "WHO consolidated",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        136.43649291992188,
+        796.217041015625,
+        170.0604705810547,
+        806.7210083007812
+      ],
+      "text": "guidelines",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        172.25680541992188,
+        796.217041015625,
+        226.65042114257812,
+        806.7210083007812
+      ],
+      "text": "on tuberculosis:",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        43.67070007324219,
+        801.0170288085938,
+        47.038700103759766,
+        811.52099609375
+      ],
+      "text": "x",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    },
+    {
+      "bbox": [
+        70.86609649658203,
+        805.8170166015625,
+        219.03489685058594,
+        816.3209838867188
+      ],
+      "text": "systematic screening for tuberculosis disease",
+      "font": "SegoeUI-Light",
+      "size": 8.0,
+      "type": "heading"
+    }
+  ]
+}

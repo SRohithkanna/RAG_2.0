@@ -1,0 +1,100 @@
+{
+  "file": "Latent",
+  "page": 51,
+  "table_id": 1,
+  "bbox": [
+    169.3317142062717,
+    57.011822420008045,
+    290.9309997558594,
+    770.8017306857639
+  ],
+  "heading": null,
+  "n_rows": 6,
+  "n_cols": 12,
+  "data": [
+    [
+      "Quality assessment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "No. LTBI+/No. tested",
+      "",
+      "Effect",
+      "",
+      "Quality",
+      "Importance"
+    ],
+    [
+      "No. of studies",
+      "Design",
+      "Risk of bias",
+      "Inconsistency",
+      "Indirectness",
+      "Imprecision",
+      "Comparator",
+      "0–5 years",
+      "RR (95% CI)",
+      "Absolute per 1000 (95% CI)",
+      "",
+      ""
+    ],
+    [
+      "AGE GROUPS COMPARED: 5–10 YEARS VS 0–5 YEARS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "14 (1–14)",
+      "Cross– sectional",
+      "Not serious1,2",
+      "Serious3",
+      "Not serious",
+      "Not serious4",
+      "2265/ 8507",
+      "1298/ 9526",
+      "1.62 (1.25;2.11)",
+      "85.1 (34.2;151.1)",
+      "Moderate",
+      "Important"
+    ],
+    [
+      "AGE GROUPS COMPARED: 10–15 YEARS VS 0–5 YEARS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "11 (1,3,5,7-14)",
+      "Cross- sectional",
+      "Not serious5",
+      "Serious6",
+      "Not serious",
+      "Not serious7",
+      "2616/ 6782",
+      "1093/ 9005",
+      "2.33 (1.55;3.50)",
+      "161.6 (67.2;303.3)",
+      "Moderate",
+      "Important"
+    ]
+  ]
+}

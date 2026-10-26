@@ -1,0 +1,102 @@
+{
+  "file": "module2",
+  "page": 1,
+  "blocks": [
+    {
+      "bbox": [
+        45.919898986816406,
+        165.1670684814453,
+        210.89572143554688,
+        236.53147888183594
+      ],
+      "text": "WHO",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581298828125,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.919898986816406,
+        233.13893127441406,
+        390.3868408203125,
+        304.50335693359375
+      ],
+      "text": "consolidated",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581298828125,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.919898986816406,
+        301.1108093261719,
+        306.6630859375,
+        372.4752502441406
+      ],
+      "text": "guidelines",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581298828125,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        305.81494140625,
+        301.1108093261719,
+        389.59930419921875,
+        372.4752502441406
+      ],
+      "text": "on",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581298828125,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.91986083984375,
+        369.08270263671875,
+        352.0569152832031,
+        440.4471435546875
+      ],
+      "text": "tuberculosis",
+      "font": "AvenirLTStd-Roman",
+      "size": 60.581298828125,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.919898986816406,
+        491.4918212890625,
+        312.59222412109375,
+        525.65380859375
+      ],
+      "text": "Module 2: Screening",
+      "font": "AvenirLTStd-Roman",
+      "size": 29.00014877319336,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.919898986816406,
+        542.0213623046875,
+        408.5888977050781,
+        578.88037109375
+      ],
+      "text": "Systematic screening for",
+      "font": "AvenirLTStd-Heavy",
+      "size": 31.0,
+      "type": "heading_main"
+    },
+    {
+      "bbox": [
+        45.919898986816406,
+        577.0203857421875,
+        336.09857177734375,
+        613.87939453125
+      ],
+      "text": "tuberculosis disease",
+      "font": "AvenirLTStd-Heavy",
+      "size": 31.0,
+      "type": "heading_main"
+    }
+  ]
+}
